@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5439cea6baeb53e4f64d00f6d483fad99a856cd2509a1f727d7b8681fdafe0b9
-symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.Diagnostics.Clear(System.String)"
-source: xml
-reviewed: 766dc7aa2203406a729aa3163f43d59c3c40c1d6e41e94045e72b3ba6ba3a2fc
-title: "Diagnostics.Clear"
+symbol: engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.Diagnostics.Clear(System.String)
+title: Diagnostics.Clear
 kind: api
-owners: [Inno.Core.Diagnostics]
+owners:
+- Inno.Core.Diagnostics
 apiSurface: source-clr
+reviewed: 766dc7aa2203406a729aa3163f43d59c3c40c1d6e41e94045e72b3ba6ba3a2fc
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Clears one diagnostic group owned by the calling type.

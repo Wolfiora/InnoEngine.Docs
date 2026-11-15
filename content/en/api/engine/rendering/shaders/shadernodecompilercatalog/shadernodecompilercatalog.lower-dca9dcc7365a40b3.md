@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dca9dcc7365a40b37c1a0c6a2d3d897698c9c74cefff32dd9ef0cae176ce4464
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderNodeCompilerCatalog.Lower(Inno.Rendering.Shaders.ShaderGraphLoweringRequest,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext,System.Threading.CancellationToken)"
-source: xml
-reviewed: 1e9202631b6612fb0e04d1e2409e71925da4348187d2cb2427e90d2c41a6f5ac
-title: "ShaderNodeCompilerCatalog.Lower"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderNodeCompilerCatalog.Lower(Inno.Rendering.Shaders.ShaderGraphLoweringRequest,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext,System.Threading.CancellationToken)
+title: ShaderNodeCompilerCatalog.Lower
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: 1e9202631b6612fb0e04d1e2409e71925da4348187d2cb2427e90d2c41a6f5ac
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Lowers an entire target-selected region, preserving stable topological/document order and all source calls. Missing definitions, stale ports and cycles fail without mutating graph records or dropping edges.

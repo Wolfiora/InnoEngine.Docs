@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.da55eeec03b67893917393a2d2935ee4977ef92a72c818320a8a02a0dc316f8d
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCachePublisher.EnsureImmutableRegistration(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: 51b14e1eb6e45c39438c40806f09ef0b648c667d9a2690dfef4fef0bc399e6a6
-title: "BuildCachePublisher.EnsureImmutableRegistration"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCachePublisher.EnsureImmutableRegistration(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Threading.CancellationToken)
+title: BuildCachePublisher.EnsureImmutableRegistration
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 51b14e1eb6e45c39438c40806f09ef0b648c667d9a2690dfef4fef0bc399e6a6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Establishes an immutable artifact's ownership once, or confirms its unchanged registration without rewriting it.

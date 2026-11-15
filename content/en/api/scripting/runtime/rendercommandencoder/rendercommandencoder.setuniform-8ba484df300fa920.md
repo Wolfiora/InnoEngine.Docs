@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8ba484df300fa92026ce1188414b69ca0f39d9d48ca891c5d6829d54af6e4377
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.SetUniform(InnoEngine.Rendering.RenderBindingId,System.ReadOnlySpan{System.Byte})"
-source: xml
-reviewed: 4a09042f7b7784cef74e73cb69b8dc098fd105626f3f0e633cdd422fb7a6ccd8
-title: "RenderCommandEncoder.SetUniform"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.SetUniform(InnoEngine.Rendering.RenderBindingId,System.ReadOnlySpan{System.Byte})
+title: RenderCommandEncoder.SetUniform
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 4a09042f7b7784cef74e73cb69b8dc098fd105626f3f0e633cdd422fb7a6ccd8
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Sets the byte value of a shader uniform.

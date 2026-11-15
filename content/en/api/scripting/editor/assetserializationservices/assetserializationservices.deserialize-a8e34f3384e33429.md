@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a8e34f3384e3342955dd34f9e9b0c5d37188e9daba8fd5a58f3385e2a6222ebb
-symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetSerializationServices.Deserialize\u0060\u00601(System.ReadOnlySpan{System.Byte})"
-source: xml
-reviewed: 48a0e866d2114beecff04a486eecd0b7bf549ef0164df955cd5a47519a7ca46f
-title: "AssetSerializationServices.Deserialize"
+symbol: scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetSerializationServices.Deserialize``1(System.ReadOnlySpan{System.Byte})
+title: AssetSerializationServices.Deserialize
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: editor-script
+reviewed: 48a0e866d2114beecff04a486eecd0b7bf549ef0164df955cd5a47519a7ca46f
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Deserializes one structured value against the active importer candidate generation.

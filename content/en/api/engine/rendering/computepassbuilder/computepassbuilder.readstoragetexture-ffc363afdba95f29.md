@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ffc363afdba95f296d880516eea67582fe2cf4ccaab5b8c0f0881757804286c8
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.ComputePassBuilder.ReadStorageTexture(Inno.Rendering.RenderTextureHandle)"
-source: xml
-reviewed: 2579db55697c03af72d2f92dccb5bf998702f11454e2a976494a0b09ae2e8baa
-title: "ComputePassBuilder.ReadStorageTexture"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.ComputePassBuilder.ReadStorageTexture(Inno.Rendering.RenderTextureHandle)
+title: ComputePassBuilder.ReadStorageTexture
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 2579db55697c03af72d2f92dccb5bf998702f11454e2a976494a0b09ae2e8baa
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Declares an unordered texture read.

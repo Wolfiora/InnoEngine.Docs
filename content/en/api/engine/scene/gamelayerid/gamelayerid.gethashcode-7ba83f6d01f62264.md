@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7ba83f6d01f6226490e5702590186d41c9ac17f1492955ed7dbe170679564cee
-symbol: "engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerId.GetHashCode"
-source: xml
-reviewed: c451efc5ba5697fa00eab63ce3ee9b2be1a609dc6f77c4513d6d0c759a7eedc4
-title: "GameLayerId.GetHashCode"
+symbol: engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerId.GetHashCode
+title: GameLayerId.GetHashCode
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: c451efc5ba5697fa00eab63ce3ee9b2be1a609dc6f77c4513d6d0c759a7eedc4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f92b6535e542b8288e504ce8d257a38db8cafb09d3bfea2dcfad951a8043ad75
-symbol: "engine:Inno.Plugins:M:Inno.Plugins.PluginManifest.Validate"
-source: xml
-reviewed: 81b3b5ec59fbcaee2928a965d260fa21e5a41b6d06c199a0b24146c06b71efbb
-title: "PluginManifest.Validate"
+symbol: engine:Inno.Plugins:M:Inno.Plugins.PluginManifest.Validate
+title: PluginManifest.Validate
 kind: api
-owners: [Inno.Plugins]
+owners:
+- Inno.Plugins
 apiSurface: source-clr
+reviewed: 81b3b5ec59fbcaee2928a965d260fa21e5a41b6d06c199a0b24146c06b71efbb
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Validates stable identity and dependency declarations.

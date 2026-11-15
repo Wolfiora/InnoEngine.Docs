@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0eb8bbf7f02a3ff1b1a269bf7d851eb79c0349e804ab35482b6143a77ae63d28
-symbol: "engine:Inno.Runtime:M:Inno.Runtime.GameCodeModule.#ctor(System.String,Inno.Extensibility.Modules.AssemblyDomain,System.Collections.Generic.IReadOnlyList{Inno.Runtime.GameCodeAssembly},System.Collections.Generic.IReadOnlyList{System.String})"
-source: xml
-reviewed: 8ac4066ca1f17b0624fe7d7989cc921328076d2e500b49106b1f6bea922791dd
-title: "GameCodeModule.Constructor"
+symbol: engine:Inno.Runtime:M:Inno.Runtime.GameCodeModule.#ctor(System.String,Inno.Extensibility.Modules.AssemblyDomain,System.Collections.Generic.IReadOnlyList{Inno.Runtime.GameCodeAssembly},System.Collections.Generic.IReadOnlyList{System.String})
+title: GameCodeModule.Constructor
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: 8ac4066ca1f17b0624fe7d7989cc921328076d2e500b49106b1f6bea922791dd
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Copies and validates a module contribution without retaining mutable manifest objects.

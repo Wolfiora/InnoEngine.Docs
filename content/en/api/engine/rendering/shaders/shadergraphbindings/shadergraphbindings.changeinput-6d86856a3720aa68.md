@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6d86856a3720aa680f0e1d5d73fa9c5fb500b64b7575078aeb349e30a1bba19d
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphBindings.ChangeInput(Inno.Core.Graphs.GraphDocument,Inno.Core.Graphs.GraphNodeId,Inno.Rendering.Shaders.ShaderGraphInputSettings,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)"
-source: xml
-reviewed: 64003e2c62a87b4b389aa2a09b35a1ae6d568e0b2afb1a1c64d6486e300724ed
-title: "ShaderGraphBindings.ChangeInput"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphBindings.ChangeInput(Inno.Core.Graphs.GraphDocument,Inno.Core.Graphs.GraphNodeId,Inno.Rendering.Shaders.ShaderGraphInputSettings,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)
+title: ShaderGraphBindings.ChangeInput
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: 64003e2c62a87b4b389aa2a09b35a1ae6d568e0b2afb1a1c64d6486e300724ed
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a detached candidate with the input and its material/resource declaration updated together.

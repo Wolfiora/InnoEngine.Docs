@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.build.toolchains.099e8a63467d45c9
-symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBindingIncludeDirectory"
-source: xml
-reviewed: c855e1eb452758c6f1c79c860d630d6185937a08c57a172bccc884bcd34c2f83
-title: "NativeBindingIncludeDirectory"
+symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBindingIncludeDirectory
+title: NativeBindingIncludeDirectory
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: c855e1eb452758c6f1c79c860d630d6185937a08c57a172bccc884bcd34c2f83
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-build-toolchains
 aliases: []

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e5eeb89ed3a03f753a6c2c4871785d28a3833c4dbda86fa742a6f89cfc2207c5
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.Branch(InnoEditor.Rendering.Shaders.ShaderIrValue,System.Func{InnoEditor.Rendering.Shaders.ShaderIrBuilder,System.Collections.Generic.IReadOnlyDictionary{System.String,InnoEditor.Rendering.Shaders.ShaderIrValue}},System.Func{InnoEditor.Rendering.Shaders.ShaderIrBuilder,System.Collections.Generic.IReadOnlyDictionary{System.String,InnoEditor.Rendering.Shaders.ShaderIrValue}})"
-source: xml
-reviewed: a574dcfb019fb27b08fa601351294aa5c1c35c0dfc22ff10f2fe5be9defc6e9b
-title: "ShaderIrBuilder.Branch"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.Branch(InnoEditor.Rendering.Shaders.ShaderIrValue,System.Func{InnoEditor.Rendering.Shaders.ShaderIrBuilder,System.Collections.Generic.IReadOnlyDictionary{System.String,InnoEditor.Rendering.Shaders.ShaderIrValue}},System.Func{InnoEditor.Rendering.Shaders.ShaderIrBuilder,System.Collections.Generic.IReadOnlyDictionary{System.String,InnoEditor.Rendering.Shaders.ShaderIrValue}})
+title: ShaderIrBuilder.Branch
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: a574dcfb019fb27b08fa601351294aa5c1c35c0dfc22ff10f2fe5be9defc6e9b
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Builds a real conditional: only the selected region executes, including its memory and source-call effects.

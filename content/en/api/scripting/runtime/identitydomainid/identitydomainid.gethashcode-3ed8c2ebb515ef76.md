@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3ed8c2ebb515ef76bcabd2ccfb73a9fdbec9433ef65d90e1d20dde6fa4a54ab5
-symbol: "scripting:Inno.Core.Identity:M:InnoEngine.Core.IdentityDomainId.GetHashCode"
-source: xml
-reviewed: c6499725bd2448a0d870b3c301e3d12f2ba117181b9c7bb570a5c40b1f49049d
-title: "IdentityDomainId.GetHashCode"
+symbol: scripting:Inno.Core.Identity:M:InnoEngine.Core.IdentityDomainId.GetHashCode
+title: IdentityDomainId.GetHashCode
 kind: api
-owners: [Inno.Core.Identity]
+owners:
+- Inno.Core.Identity
 apiSurface: editor-script
+reviewed: c6499725bd2448a0d870b3c301e3d12f2ba117181b9c7bb570a5c40b1f49049d
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Computes a hash code for this runtime domain identifier.

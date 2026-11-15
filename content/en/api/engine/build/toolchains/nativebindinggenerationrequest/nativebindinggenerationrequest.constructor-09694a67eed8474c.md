@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.09694a67eed8474cb1241e895227ca59f822209bda6334c9616082c727e9c8d5
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationRequest.#ctor(System.Collections.Generic.IEnumerable{Inno.Build.Toolchains.NativeComponentDescriptor},System.String,Inno.Build.Toolchains.NativeBindingOutputMode,System.Boolean,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeComponentBuildOptions})"
-source: xml
-reviewed: e6f8c54cf061ce8ec3ffa2323d7f56e9db898a317b30b4109ddefa0ae2d96883
-title: "NativeBindingGenerationRequest.Constructor"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationRequest.#ctor(System.Collections.Generic.IEnumerable{Inno.Build.Toolchains.NativeComponentDescriptor},System.String,Inno.Build.Toolchains.NativeBindingOutputMode,System.Boolean,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeComponentBuildOptions})
+title: NativeBindingGenerationRequest.Constructor
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: e6f8c54cf061ce8ec3ffa2323d7f56e9db898a317b30b4109ddefa0ae2d96883
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures explicit owners and a target without discovering components or parsing a build project.

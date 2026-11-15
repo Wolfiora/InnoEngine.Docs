@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.498cbde796fe5f9e1a4083ad2c3b2ff2bebed41310632fa51f2eede7f0ccc4ba
-symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.ITypeCatalogSource.GetMetadata(System.Type)"
-source: xml
-reviewed: 31e5a5fef416b99bb68ff3db73ded6823e34c7ce48d4a637c99545f963519f22
-title: "ITypeCatalogSource.GetMetadata"
+symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.ITypeCatalogSource.GetMetadata(System.Type)
+title: ITypeCatalogSource.GetMetadata
 kind: api
-owners: [Inno.Extensibility.Types]
+owners:
+- Inno.Extensibility.Types
 apiSurface: source-clr
+reviewed: 31e5a5fef416b99bb68ff3db73ded6823e34c7ce48d4a637c99545f963519f22
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves immutable discovery facts for a declaration in this source.

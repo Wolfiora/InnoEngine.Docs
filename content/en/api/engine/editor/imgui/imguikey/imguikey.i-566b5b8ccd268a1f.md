@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.566b5b8ccd268a1f808fea8571aff5626b07c395de1dabb6e4a965a886669e75
-symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.I"
-source: xml
-reviewed: 8360d3625fc0f08b345018bc4cdebe5de90105aab28833cb6618f5f3fd6bb9ee
-title: "ImGuiKey.I"
+symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.I
+title: ImGuiKey.I
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 8360d3625fc0f08b345018bc4cdebe5de90105aab28833cb6618f5f3fd6bb9ee
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Identifies the I presentation key or modifier.

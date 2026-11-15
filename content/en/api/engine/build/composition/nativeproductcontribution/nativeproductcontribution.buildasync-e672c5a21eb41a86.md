@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e672c5a21eb41a862349345090e206e1cbc149228e587a136ffcdabb7740a31d
-symbol: "engine:Inno.Build.Composition:M:Inno.Build.Composition.NativeProductContribution.BuildAsync(Inno.Build.Toolchains.NativeBuildContext,System.Threading.CancellationToken)"
-source: xml
-reviewed: 6377701f02fcbc545a5a5c5fcac0c6b92234e7e4a60044b5fd7443707483b3ef
-title: "NativeProductContribution.BuildAsync"
+symbol: engine:Inno.Build.Composition:M:Inno.Build.Composition.NativeProductContribution.BuildAsync(Inno.Build.Toolchains.NativeBuildContext,System.Threading.CancellationToken)
+title: NativeProductContribution.BuildAsync
 kind: api
-owners: [Inno.Build.Composition]
+owners:
+- Inno.Build.Composition
 apiSurface: source-clr
+reviewed: 6377701f02fcbc545a5a5c5fcac0c6b92234e7e4a60044b5fd7443707483b3ef
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Executes the selected product without inspecting its target identity.

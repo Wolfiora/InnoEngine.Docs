@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fe781ceff3099613cf04a2488dfad79fc23c9dc57248c838e0943ed0db1e5fe7
-symbol: "scripting:Inno.Editor.Shaders:P:InnoEditor.Shaders.ShaderParameterPresentation.group"
-source: xml
-reviewed: 4ebf600c25f80844b0835707002b8bb68a736e4324ab6e44709e709ffa628f72
-title: "ShaderParameterPresentation.group"
+symbol: scripting:Inno.Editor.Shaders:P:InnoEditor.Shaders.ShaderParameterPresentation.group
+title: ShaderParameterPresentation.group
 kind: api
-owners: [Inno.Editor.Shaders]
+owners:
+- Inno.Editor.Shaders
 apiSurface: editor-script
+reviewed: 4ebf600c25f80844b0835707002b8bb68a736e4324ab6e44709e709ffa628f72
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets the Material Inspector section; empty uses the standard Parameters section.

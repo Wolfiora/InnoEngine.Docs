@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d1dc57603b8984b7ed10a2c3cc7dae24f3344412650344d8bf9f9a8fb81e30ef
-symbol: "engine:Inno.Core.Serialization:P:Inno.Core.Serialization.SerializationPropertyRestoreFailure.previousPropertyType"
-source: xml
-reviewed: 5b787af1d6076c6488b1c87e10de6603b591424028b7d925cf2d805b2928b30c
-title: "SerializationPropertyRestoreFailure.previousPropertyType"
+symbol: engine:Inno.Core.Serialization:P:Inno.Core.Serialization.SerializationPropertyRestoreFailure.previousPropertyType
+title: SerializationPropertyRestoreFailure.previousPropertyType
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: 5b787af1d6076c6488b1c87e10de6603b591424028b7d925cf2d805b2928b30c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the type used to capture the previous value.

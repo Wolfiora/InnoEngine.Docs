@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5d91be140d1a4a8d4a8894a743d684d0e6908487fbab01602e36d4c7c2e59e5e
-symbol: "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystem.Detach"
-source: xml
-reviewed: 7e5b7d10759b3882332e7d67cb21da46c7c88093ee37713764082f14b4926be1
-title: "RuntimeSubsystem.Detach"
+symbol: engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystem.Detach
+title: RuntimeSubsystem.Detach
 kind: api
-owners: [Inno.Runtime.Contracts]
+owners:
+- Inno.Runtime.Contracts
 apiSurface: source-clr
+reviewed: 7e5b7d10759b3882332e7d67cb21da46c7c88093ee37713764082f14b4926be1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Releases attached session resources before dependencies detach.

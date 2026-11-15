@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ec4da9a10774f01df4721a98c583480978358b7d36d6bb7c2193ecc464f56938
-symbol: "engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasLayout.SetNodes(System.Collections.Generic.IEnumerable{Inno.Editor.Graph.ImGui.GraphCanvasNode})"
-source: xml
-reviewed: d3a1ab5c27f685e389ec848e5646492a8767834af0d77799465f4504a367533b
-title: "GraphCanvasLayout.SetNodes"
+symbol: engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasLayout.SetNodes(System.Collections.Generic.IEnumerable{Inno.Editor.Graph.ImGui.GraphCanvasNode})
+title: GraphCanvasLayout.SetNodes
 kind: api
-owners: [Inno.Editor.Graph.ImGui]
+owners:
+- Inno.Editor.Graph.ImGui
 apiSurface: source-clr
+reviewed: d3a1ab5c27f685e389ec848e5646492a8767834af0d77799465f4504a367533b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Atomically replaces a complete display snapshot, reusing unchanged node geometry by value.

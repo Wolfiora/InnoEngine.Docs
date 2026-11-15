@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5bd31582708896d5f422c3942e0111fb9377b9eec751e465e8b73b3a42015ecd
-symbol: "engine:Inno.UI:M:Inno.UI.UiDrawCommand.Equals(System.Object)"
-source: xml
-reviewed: 9fb2011a95682dd3033cffb63b3a6d841d28383113efb2a2698da0caa8e9092d
-title: "UiDrawCommand.Equals"
+symbol: engine:Inno.UI:M:Inno.UI.UiDrawCommand.Equals(System.Object)
+title: UiDrawCommand.Equals
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: 9fb2011a95682dd3033cffb63b3a6d841d28383113efb2a2698da0caa8e9092d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

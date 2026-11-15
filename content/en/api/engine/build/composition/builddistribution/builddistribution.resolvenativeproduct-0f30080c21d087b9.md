@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0f30080c21d087b9906354b864602423f9476a5f2306be6529b9530b43cade57
-symbol: "engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildDistribution.ResolveNativeProduct(System.String,System.String)"
-source: xml
-reviewed: d0b22ec7e7ce2a783288090386a20c9229e300732b9a7a55b2cbd4e6c04a111c
-title: "BuildDistribution.ResolveNativeProduct"
+symbol: engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildDistribution.ResolveNativeProduct(System.String,System.String)
+title: BuildDistribution.ResolveNativeProduct
 kind: api
-owners: [Inno.Build.Composition]
+owners:
+- Inno.Build.Composition
 apiSurface: source-clr
+reviewed: d0b22ec7e7ce2a783288090386a20c9229e300732b9a7a55b2cbd4e6c04a111c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves a platform-contributed product closure without selecting backends inside the invoking host.

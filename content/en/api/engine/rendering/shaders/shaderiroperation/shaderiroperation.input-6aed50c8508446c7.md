@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6aed50c8508446c78220bb9669d38040d4312385c22905249568097991f91ca9
-symbol: "engine:Inno.Rendering.Shaders:F:Inno.Rendering.Shaders.ShaderIrOperation.Input"
-source: xml
-reviewed: a1c28de77c219f79266012b8eb12a45013be32d76435274e6f9260bcb2b66ec7
-title: "ShaderIrOperation.Input"
+symbol: engine:Inno.Rendering.Shaders:F:Inno.Rendering.Shaders.ShaderIrOperation.Input
+title: ShaderIrOperation.Input
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: a1c28de77c219f79266012b8eb12a45013be32d76435274e6f9260bcb2b66ec7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads a named input supplied by the enclosing function or stage.

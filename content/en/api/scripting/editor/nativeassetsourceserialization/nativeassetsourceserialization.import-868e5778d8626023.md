@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.868e5778d86260236aa6885ed8ef226e6679d57c8f4fc1d9bce58d7688735515
-symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.NativeAssetSourceSerialization.Import\u0060\u00601(System.ReadOnlySpan{System.Byte},InnoEditor.Assets.AssetSerializationServices,System.Collections.Generic.IReadOnlyList{InnoEngine.Assets.AssetDependency}@)"
-source: xml
-reviewed: bc003095124be0a0e69d88f096cd22092b381e3aa37a8bfa19481c5fe3330ee0
-title: "NativeAssetSourceSerialization.Import"
+symbol: scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.NativeAssetSourceSerialization.Import``1(System.ReadOnlySpan{System.Byte},InnoEditor.Assets.AssetSerializationServices,System.Collections.Generic.IReadOnlyList{InnoEngine.Assets.AssetDependency}@)
+title: NativeAssetSourceSerialization.Import
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: editor-script
+reviewed: bc003095124be0a0e69d88f096cd22092b381e3aa37a8bfa19481c5fe3330ee0
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Restores one concrete asset and its declared direct dependencies.

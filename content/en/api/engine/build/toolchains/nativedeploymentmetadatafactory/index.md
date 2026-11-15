@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.build.toolchains.641a8b10c3851918
-symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDeploymentMetadataFactory"
-source: xml
-reviewed: 196da6278c7183132319e869cb84215497103dc75e2816b77e5493d5abf3fda1
-title: "NativeDeploymentMetadataFactory"
+symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDeploymentMetadataFactory
+title: NativeDeploymentMetadataFactory
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 196da6278c7183132319e869cb84215497103dc75e2816b77e5493d5abf3fda1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-build-toolchains
 aliases: []

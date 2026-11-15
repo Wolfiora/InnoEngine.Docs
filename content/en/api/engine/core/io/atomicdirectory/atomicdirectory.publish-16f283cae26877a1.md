@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.16f283cae26877a1f65d32c4873244823121236ca89de74e62623220ec61e78a
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.AtomicDirectory.Publish(System.String,System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: 45139da7c1665ac7389625978820f3ac585034f5c6103ce2f9dde9d8b3ea7395
-title: "AtomicDirectory.Publish"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.AtomicDirectory.Publish(System.String,System.String,System.Threading.CancellationToken)
+title: AtomicDirectory.Publish
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: 45139da7c1665ac7389625978820f3ac585034f5c6103ce2f9dde9d8b3ea7395
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Publishes a complete directory at an unoccupied path without replacing an existing destination.

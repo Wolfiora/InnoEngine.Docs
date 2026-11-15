@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e3a2c819f678b4974f9ee8e4db523f61e68a6eedbeef2a8b02ce120f7ae47350
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Quaternion.CreateFromYawPitchRoll(System.Single,System.Single,System.Single)"
-source: xml
-reviewed: 380a9e69d5e5b3170e2141754b23d85cc0d16bfe4b75ac55257e1796c0fe244b
-title: "Quaternion.CreateFromYawPitchRoll"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Quaternion.CreateFromYawPitchRoll(System.Single,System.Single,System.Single)
+title: Quaternion.CreateFromYawPitchRoll
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 380a9e69d5e5b3170e2141754b23d85cc0d16bfe4b75ac55257e1796c0fe244b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates and validates a caller-owned from yaw pitch roll value.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bb417a1b8763734d7fe198604f1518bf1ad1f8d329ed3918a85d88d835374812
-symbol: "engine:Inno.Adapter.Presentation:M:Inno.Adapter.Presentation.PresentationBackendProvider.CreateContext(Inno.Adapter.Presentation.PresentationBackendOptions)"
-source: xml
-reviewed: 4c8cac5a814d1ba4ee6b9d9c22c165a7d1357804a5fba4922c3ffad5fd3381df
-title: "PresentationBackendProvider.CreateContext"
+symbol: engine:Inno.Adapter.Presentation:M:Inno.Adapter.Presentation.PresentationBackendProvider.CreateContext(Inno.Adapter.Presentation.PresentationBackendOptions)
+title: PresentationBackendProvider.CreateContext
 kind: api
-owners: [Inno.Adapter.Presentation]
+owners:
+- Inno.Adapter.Presentation
 apiSurface: source-clr
+reviewed: 4c8cac5a814d1ba4ee6b9d9c22c165a7d1357804a5fba4922c3ffad5fd3381df
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a new caller-owned presentation context over the supplied host resources.

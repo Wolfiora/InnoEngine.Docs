@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2643f430e52fe71f2f3761f5e41e51d76ee4ca5ae968a7ca0e093f7e0e5bc116
-symbol: "engine:Inno.Core.Jobs:M:Inno.Core.Jobs.JobSchedulerStatistics.Equals(System.Object)"
-source: xml
-reviewed: 6ef900faf5ce05d391afc08ca133931680624fc1371067acc38a1ca25f789e10
-title: "JobSchedulerStatistics.Equals"
+symbol: engine:Inno.Core.Jobs:M:Inno.Core.Jobs.JobSchedulerStatistics.Equals(System.Object)
+title: JobSchedulerStatistics.Equals
 kind: api
-owners: [Inno.Core.Jobs]
+owners:
+- Inno.Core.Jobs
 apiSurface: source-clr
+reviewed: 6ef900faf5ce05d391afc08ca133931680624fc1371067acc38a1ca25f789e10
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

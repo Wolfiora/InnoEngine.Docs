@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2db53189cc9b8acd9a859a83fa0efe3daaedcd7b1d6a779b3df1b583bf9a204f
-symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.ShaderKeywordDefinition.#ctor(System.String,System.Collections.Generic.IEnumerable{System.String})"
-source: xml
-reviewed: ecf7742aa1cc50c51c9b6c9c6997427857d0eb6bd3409bca881ca71e83fff29d
-title: "ShaderKeywordDefinition.Constructor"
+symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.ShaderKeywordDefinition.#ctor(System.String,System.Collections.Generic.IEnumerable{System.String})
+title: ShaderKeywordDefinition.Constructor
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: editor-script
+reviewed: ecf7742aa1cc50c51c9b6c9c6997427857d0eb6bd3409bca881ca71e83fff29d
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a shader keyword definition.

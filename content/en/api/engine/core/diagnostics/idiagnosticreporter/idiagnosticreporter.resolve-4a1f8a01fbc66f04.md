@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4a1f8a01fbc66f0416fdebf34f1829364710e5fc584db48e09d4d71d8870454c
-symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.IDiagnosticReporter.Resolve(System.String,System.String,System.Nullable{System.Guid})"
-source: xml
-reviewed: 15ab72cdce30ba1ed95f16333d4cf7c070c3e3075e72d63adeae06573b223ca9
-title: "IDiagnosticReporter.Resolve"
+symbol: engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.IDiagnosticReporter.Resolve(System.String,System.String,System.Nullable{System.Guid})
+title: IDiagnosticReporter.Resolve
 kind: api
-owners: [Inno.Core.Diagnostics]
+owners:
+- Inno.Core.Diagnostics
 apiSurface: source-clr
+reviewed: 15ab72cdce30ba1ed95f16333d4cf7c070c3e3075e72d63adeae06573b223ca9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves an issue after the represented condition no longer exists.

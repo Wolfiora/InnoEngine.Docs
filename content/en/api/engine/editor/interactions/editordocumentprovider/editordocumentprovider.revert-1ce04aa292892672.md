@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1ce04aa2928926725950d235a15c22a04755904c08c131247a4a43342fcdf3df
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorDocumentProvider.Revert(Inno.Editor.Interactions.EditorDocumentContext)"
-source: xml
-reviewed: 89dece2aa65bf8c01d67bd64b57c455fac44fdb7e5f1759bf789770ddb46df7c
-title: "EditorDocumentProvider.Revert"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorDocumentProvider.Revert(Inno.Editor.Interactions.EditorDocumentContext)
+title: EditorDocumentProvider.Revert
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 89dece2aa65bf8c01d67bd64b57c455fac44fdb7e5f1759bf789770ddb46df7c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Discards staged authoring changes and reloads the last saved source.

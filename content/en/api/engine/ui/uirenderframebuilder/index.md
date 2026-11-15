@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.ui.f4ac5b2e2b699df2
-symbol: "engine:Inno.UI:T:Inno.UI.UiRenderFrameBuilder"
-source: xml
-reviewed: 123176feededb7275284e668a7b08c39263068be168410cbaea6d2ab55135905
-title: "UiRenderFrameBuilder"
+symbol: engine:Inno.UI:T:Inno.UI.UiRenderFrameBuilder
+title: UiRenderFrameBuilder
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: 123176feededb7275284e668a7b08c39263068be168410cbaea6d2ab55135905
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-ui#document-and-frame-contract
 aliases: []

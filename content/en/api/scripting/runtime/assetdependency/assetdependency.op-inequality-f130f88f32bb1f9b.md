@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f130f88f32bb1f9b2cf1e52b286d1baa72488eae7737a53388c933931393642c
-symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.AssetDependency.op_Inequality(InnoEngine.Assets.AssetDependency,InnoEngine.Assets.AssetDependency)"
-source: xml
-reviewed: b1622a5bc60402513ebac393cdcd64424d0a53f4f6338e46eeeebe516f35068a
-title: "AssetDependency.op_Inequality"
+symbol: scripting:Inno.Assets:M:InnoEngine.Assets.AssetDependency.op_Inequality(InnoEngine.Assets.AssetDependency,InnoEngine.Assets.AssetDependency)
+title: AssetDependency.op_Inequality
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: editor-script
+reviewed: b1622a5bc60402513ebac393cdcd64424d0a53f4f6338e46eeeebe516f35068a
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether two descriptors refer to different persistent assets.

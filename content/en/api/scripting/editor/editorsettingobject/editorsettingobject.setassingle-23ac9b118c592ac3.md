@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.23ac9b118c592ac3db6eb441c10ab359de325f774eb3c1dd9e58c9577031e4c4
-symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.SetAsSingle(System.String,System.Single)"
-source: xml
-reviewed: c164f96e55145ab35f0b383a444a8ed25eab64d5d858c65d035f9bc766e1a31b
-title: "EditorSettingObject.SetAsSingle"
+symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.SetAsSingle(System.String,System.Single)
+title: EditorSettingObject.SetAsSingle
 kind: api
-owners: [Inno.Editor.Settings]
+owners:
+- Inno.Editor.Settings
 apiSurface: editor-script
+reviewed: c164f96e55145ab35f0b383a444a8ed25eab64d5d858c65d035f9bc766e1a31b
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Sets a finite single-precision property.

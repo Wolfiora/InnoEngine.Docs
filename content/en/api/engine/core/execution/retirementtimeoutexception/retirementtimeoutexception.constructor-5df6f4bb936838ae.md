@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5df6f4bb936838ae88a6726aba7056791fceaa98b1216c46b32958e51aa4ccb4
-symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementTimeoutException.#ctor(System.String,System.Exception)"
-source: xml
-reviewed: bea84aa3c63291d7535c07bdbaccbc4ab19fa37df20005f94292dba6e1185608
-title: "RetirementTimeoutException.Constructor"
+symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementTimeoutException.#ctor(System.String,System.Exception)
+title: RetirementTimeoutException.Constructor
 kind: api
-owners: [Inno.Core.Execution]
+owners:
+- Inno.Core.Execution
 apiSurface: source-clr
+reviewed: bea84aa3c63291d7535c07bdbaccbc4ab19fa37df20005f94292dba6e1185608
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a terminal retirement failure whose owner must remain retained until host shutdown.

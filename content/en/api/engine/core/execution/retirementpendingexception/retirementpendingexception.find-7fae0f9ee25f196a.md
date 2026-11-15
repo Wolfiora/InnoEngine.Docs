@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7fae0f9ee25f196a5eca985421d4adb0c0c5cda5b35e929ffad57c8de6053aac
-symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementPendingException.Find(System.Exception)"
-source: xml
-reviewed: 1ee24d035f222b13d8fc48de49c4b8d8526f097e53479b47baf0553ef5f57b6b
-title: "RetirementPendingException.Find"
+symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementPendingException.Find(System.Exception)
+title: RetirementPendingException.Find
 kind: api
-owners: [Inno.Core.Execution]
+owners:
+- Inno.Core.Execution
 apiSurface: source-clr
+reviewed: 1ee24d035f222b13d8fc48de49c4b8d8526f097e53479b47baf0553ef5f57b6b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Finds unfinished retirement in an exception tree without discarding its contextual or sibling failures.

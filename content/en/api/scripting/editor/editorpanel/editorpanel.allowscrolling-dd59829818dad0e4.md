@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dd59829818dad0e419d7360ba018c6d1a67d8921a3aa2fd4eae867115fce461b
-symbol: "scripting:Inno.Editor.Core:P:InnoEditor.Core.EditorPanel.allowScrolling"
-source: xml
-reviewed: 9f9428d0f0eb30452e37f1603cbd7c1a4b5482289cfcc5fbcb73c798d6343cb9
-title: "EditorPanel.allowScrolling"
+symbol: scripting:Inno.Editor.Core:P:InnoEditor.Core.EditorPanel.allowScrolling
+title: EditorPanel.allowScrolling
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: editor-script
+reviewed: 9f9428d0f0eb30452e37f1603cbd7c1a4b5482289cfcc5fbcb73c798d6343cb9
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether the presentation backend may create a scroll range for this panel window.

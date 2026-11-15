@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5b1a363f652c7759b224c636736c687ca20b299fa0f1d52e86a16993dea25955
-symbol: "engine:Inno.Storage:P:Inno.Storage.StorageExecutionContext.current"
-source: xml
-reviewed: aa924dbbf6c4bc464bd2dd400cddec1d77dab3caa6a3b555e17a87b8eee49127
-title: "StorageExecutionContext.current"
+symbol: engine:Inno.Storage:P:Inno.Storage.StorageExecutionContext.current
+title: StorageExecutionContext.current
 kind: api
-owners: [Inno.Storage]
+owners:
+- Inno.Storage
 apiSurface: source-clr
+reviewed: aa924dbbf6c4bc464bd2dd400cddec1d77dab3caa6a3b555e17a87b8eee49127
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the storage service bound to the current execution context.

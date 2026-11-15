@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.29695ab1d720db5c820707d7c1604db2de747015ecf25730e6f5caa1f05f4a0b
-symbol: "engine:Inno.Scene:P:Inno.Scene.GameObject.activeSelf"
-source: xml
-reviewed: e5bdcd7476f0c2831ba34d74be96d934fdbc145a15cf54af1e62273e8ced4495
-title: "GameObject.activeSelf"
+symbol: engine:Inno.Scene:P:Inno.Scene.GameObject.activeSelf
+title: GameObject.activeSelf
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: e5bdcd7476f0c2831ba34d74be96d934fdbc145a15cf54af1e62273e8ced4495
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether this object is explicitly active.

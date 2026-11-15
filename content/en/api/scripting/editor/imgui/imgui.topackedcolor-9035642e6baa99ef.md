@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9035642e6baa99ef2c1f1e655c8f365262b3f1e371ff19d9821e3cdb7ec8627e
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.ToPackedColor(System.Numerics.Vector4)"
-source: xml
-reviewed: 2f702e564e040f9c6d0210c1a2ea379fdf37efa7a35944d09f267032ecb93dd9
-title: "ImGui.ToPackedColor"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.ToPackedColor(System.Numerics.Vector4)
+title: ImGui.ToPackedColor
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 2f702e564e040f9c6d0210c1a2ea379fdf37efa7a35944d09f267032ecb93dd9
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Converts a floating-point RGBA color to Dear ImGui packed color order.

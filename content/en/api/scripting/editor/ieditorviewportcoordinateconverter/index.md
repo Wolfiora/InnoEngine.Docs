@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.interactions.editor-script.8b4b24a748df34dd
-symbol: "scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.IEditorViewportCoordinateConverter"
-source: xml
-reviewed: af7c954438da6362f518d302569171afaca8cbdb96ff7b4c4c31feaac3abbe13
-title: "IEditorViewportCoordinateConverter"
+symbol: scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.IEditorViewportCoordinateConverter
+title: IEditorViewportCoordinateConverter
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: af7c954438da6362f518d302569171afaca8cbdb96ff7b4c4c31feaac3abbe13
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 - manual.scripting.use-script-api

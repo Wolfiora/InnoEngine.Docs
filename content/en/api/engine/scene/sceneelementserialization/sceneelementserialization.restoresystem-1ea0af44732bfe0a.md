@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1ea0af44732bfe0a28cd51a9a90506a46d07b462f8f99236cf0cd4081334b903
-symbol: "engine:Inno.Scene:M:Inno.Scene.SceneElementSerialization.RestoreSystem(Inno.Scene.GameScene,Inno.Extensibility.Types.TypeRef,System.Guid,System.Int32,System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)"
-source: xml
-reviewed: 16a6cdb1dfb6ebf5b7a709c647ce06b10dd5e143a82fd362d996f7ec1574bf32
-title: "SceneElementSerialization.RestoreSystem"
+symbol: engine:Inno.Scene:M:Inno.Scene.SceneElementSerialization.RestoreSystem(Inno.Scene.GameScene,Inno.Extensibility.Types.TypeRef,System.Guid,System.Int32,System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)
+title: SceneElementSerialization.RestoreSystem
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 16a6cdb1dfb6ebf5b7a709c647ce06b10dd5e143a82fd362d996f7ec1574bf32
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Recreates one scene system without invoking Reset and restores its persistent properties.

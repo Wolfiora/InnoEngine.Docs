@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b6fd395be74687fe1be2493957c26eb4b854a03275731a8727c1630c12e1abe2
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportPresentation.#ctor(Inno.Core.Mathematics.Color,System.Single)"
-source: xml
-reviewed: 2b7f281eb19c239e534a5b01da12a57f8d9c6560bb58adea02f0182c70766272
-title: "EditorViewportPresentation.Constructor"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportPresentation.#ctor(Inno.Core.Mathematics.Color,System.Single)
+title: EditorViewportPresentation.Constructor
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 2b7f281eb19c239e534a5b01da12a57f8d9c6560bb58adea02f0182c70766272
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates presentation preferences for one Editor viewport.

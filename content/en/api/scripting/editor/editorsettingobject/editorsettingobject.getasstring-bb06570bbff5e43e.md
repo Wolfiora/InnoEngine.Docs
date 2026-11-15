@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bb06570bbff5e43e295807caf1ab0610dd0860691fa2d7e0644f0f2e977fef23
-symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.GetAsString(System.String,System.String)"
-source: xml
-reviewed: 607417ba12f5e969b4aabac43c93baffba86cabe8e273f6af97e4b599c6ff83c
-title: "EditorSettingObject.GetAsString"
+symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.GetAsString(System.String,System.String)
+title: EditorSettingObject.GetAsString
 kind: api
-owners: [Inno.Editor.Settings]
+owners:
+- Inno.Editor.Settings
 apiSurface: editor-script
+reviewed: 607417ba12f5e969b4aabac43c93baffba86cabe8e273f6af97e4b599c6ff83c
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets a string property, or a fallback when the property is absent or null.

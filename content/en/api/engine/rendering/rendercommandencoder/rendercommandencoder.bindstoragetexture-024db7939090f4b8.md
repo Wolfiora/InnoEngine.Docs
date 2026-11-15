@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.024db7939090f4b81762a9262ab2e430e01d4a50b4e8826cfd236d4ffe6986ec
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.BindStorageTexture(Inno.Rendering.RenderBindingId,Inno.Rendering.PersistentTextureHandle,System.Int32)"
-source: xml
-reviewed: 4157896e1aa8540a1f49ed0c2948bf848dfb6f59287f437f99c1e7d77fe5707a
-title: "RenderCommandEncoder.BindStorageTexture"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.BindStorageTexture(Inno.Rendering.RenderBindingId,Inno.Rendering.PersistentTextureHandle,System.Int32)
+title: RenderCommandEncoder.BindStorageTexture
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 4157896e1aa8540a1f49ed0c2948bf848dfb6f59287f437f99c1e7d77fe5707a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Binds a texture subresource for shader storage access.

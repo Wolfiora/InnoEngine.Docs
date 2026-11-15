@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.be6eb2eeffc11d6d0d5399bb06899b3888670cb052624a3a74923cc38e9e9a11
-symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.IEditorSceneWorkspace.SaveToDirectory(Inno.Scene.GameScene,System.String)"
-source: xml
-reviewed: 2788da8ec8efa62e0ecb08db0b238016d7baba26f06f3c8b726df5791d31c804
-title: "IEditorSceneWorkspace.SaveToDirectory"
+symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.IEditorSceneWorkspace.SaveToDirectory(Inno.Scene.GameScene,System.String)
+title: IEditorSceneWorkspace.SaveToDirectory
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: source-clr
+reviewed: 2788da8ec8efa62e0ecb08db0b238016d7baba26f06f3c8b726df5791d31c804
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Saves a scene into the requested asset directory.

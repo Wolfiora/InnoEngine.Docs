@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.30c5962e1aade62c1434a3f9bf7ff098823b212c1b9a8c3c980fef26399add46
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.Distance(System.Single,System.Single)"
-source: xml
-reviewed: 40d0ee9f78ef2d56e2287bb605fd30a1c561bd0431cec65c07c4b9b8772674c9
-title: "MathHelper.Distance"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.Distance(System.Single,System.Single)
+title: MathHelper.Distance
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 40d0ee9f78ef2d56e2287bb605fd30a1c561bd0431cec65c07c4b9b8772674c9
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Calculates the absolute value of the difference of two values.

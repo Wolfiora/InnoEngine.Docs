@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e755825c648b6a00afe21a9f74db0aadd11a714ce684acbdc44daa36480c720a
-symbol: "engine:Inno.Adapter.Audio:M:Inno.Adapter.Audio.AudioBackendId.Equals(Inno.Adapter.Audio.AudioBackendId)"
-source: xml
-reviewed: 89bddab63698f4c030cc467aa203c6e63002a9ca24803dbbc7b8cfe081107145
-title: "AudioBackendId.Equals"
+symbol: engine:Inno.Adapter.Audio:M:Inno.Adapter.Audio.AudioBackendId.Equals(Inno.Adapter.Audio.AudioBackendId)
+title: AudioBackendId.Equals
 kind: api
-owners: [Inno.Adapter.Audio]
+owners:
+- Inno.Adapter.Audio
 apiSurface: source-clr
+reviewed: 89bddab63698f4c030cc467aa203c6e63002a9ca24803dbbc7b8cfe081107145
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

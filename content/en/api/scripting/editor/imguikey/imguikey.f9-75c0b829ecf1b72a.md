@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.75c0b829ecf1b72a3654d78c5a5d6ea95e7764df051f6d49e813138e790f2725
-symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.F9"
-source: xml
-reviewed: 386d7ef9ae8dcab65a140c81739543c51c38d48f65465ac233dbe432c5739400
-title: "ImGuiKey.F9"
+symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.F9
+title: ImGuiKey.F9
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 386d7ef9ae8dcab65a140c81739543c51c38d48f65465ac233dbe432c5739400
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Identifies the F9 presentation key or modifier.

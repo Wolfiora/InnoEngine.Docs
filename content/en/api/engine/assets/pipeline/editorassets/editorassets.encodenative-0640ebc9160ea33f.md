@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0640ebc9160ea33f468d2d2a8a5fbf8add7ff7ec6b5ad9747b9c23f5a3ab7736
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.EditorAssets.EncodeNative(Inno.Assets.AssetObject)"
-source: xml
-reviewed: 9e5dda82e7af020a99d7bb62e74184d239cd1823f25ddf5f5b6f606a498a89d2
-title: "EditorAssets.EncodeNative"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.EditorAssets.EncodeNative(Inno.Assets.AssetObject)
+title: EditorAssets.EncodeNative
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 9e5dda82e7af020a99d7bb62e74184d239cd1823f25ddf5f5b6f606a498a89d2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Encodes a detached native asset with the current authoring pipeline's converters and reference context.

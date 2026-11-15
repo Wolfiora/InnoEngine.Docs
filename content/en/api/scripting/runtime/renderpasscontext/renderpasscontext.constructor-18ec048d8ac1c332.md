@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.18ec048d8ac1c332d079f67c6569cdff219b452aa68ee0569eaf24bea87b6896
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPassContext.#ctor"
-source: xml
-reviewed: 9b4966dca605c860babb839a0beeea398f340af40aa4907ea79cb93938610ac4
-title: "RenderPassContext.Constructor"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPassContext.#ctor
+title: RenderPassContext.Constructor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 9b4966dca605c860babb839a0beeea398f340af40aa4907ea79cb93938610ac4
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Appears in the generated script reference without a matching public or protected engine constructor.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.44257392fa6b78390c8eb4ea0b4efb3974b956b6cfba27813ab6ebcafb5ff8c2
-symbol: "engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.GenerationCoordinator.Execute\u0060\u00601(System.String,Inno.Extensibility.Reload.IGenerationPublication{\u0060\u00600},System.Collections.Generic.IReadOnlyList{Inno.Extensibility.Reload.IGenerationChange})"
-source: xml
-reviewed: b919f6b1fcc1578e69f4285f85b859fe377870ba7c622f4e3ae408ced4fc21c6
-title: "GenerationCoordinator.Execute"
+symbol: engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.GenerationCoordinator.Execute``1(System.String,Inno.Extensibility.Reload.IGenerationPublication{``0},System.Collections.Generic.IReadOnlyList{Inno.Extensibility.Reload.IGenerationChange})
+title: GenerationCoordinator.Execute
 kind: api
-owners: [Inno.Extensibility.Reload]
+owners:
+- Inno.Extensibility.Reload
 apiSurface: source-clr
+reviewed: b919f6b1fcc1578e69f4285f85b859fe377870ba7c622f4e3ae408ced4fc21c6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Activates one publication and its captured domain changes, preserving all rollback and cleanup failures.

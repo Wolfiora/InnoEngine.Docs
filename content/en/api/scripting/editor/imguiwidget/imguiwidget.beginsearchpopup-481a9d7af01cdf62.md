@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.481a9d7af01cdf625b0c87be43a2fa3f15ba3c909333bc3778065b621e94357f
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.BeginSearchPopup(System.String,System.String@,System.String,System.UIntPtr,System.Single)"
-source: xml
-reviewed: 49c894a36138d36e6070f5dd10f66b72eaf32533132eb5faabd4c1dc380ec5b0
-title: "ImGuiWidget.BeginSearchPopup"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.BeginSearchPopup(System.String,System.String@,System.String,System.UIntPtr,System.Single)
+title: ImGuiWidget.BeginSearchPopup
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 49c894a36138d36e6070f5dd10f66b72eaf32533132eb5faabd4c1dc380ec5b0
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Begins a popup and draws its focused search field.

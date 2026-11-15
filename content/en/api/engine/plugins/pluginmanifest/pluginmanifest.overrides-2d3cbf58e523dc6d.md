@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2d3cbf58e523dc6d9a08396abb334dcdca5857fade73dab38d1a4608344bca31
-symbol: "engine:Inno.Plugins:P:Inno.Plugins.PluginManifest.overrides"
-source: xml
-reviewed: 6f9b7b18531fb523bda8505efb0f0fdb83e34a133794ac68effeb993be29f08b
-title: "PluginManifest.overrides"
+symbol: engine:Inno.Plugins:P:Inno.Plugins.PluginManifest.overrides
+title: PluginManifest.overrides
 kind: api
-owners: [Inno.Plugins]
+owners:
+- Inno.Plugins
 apiSurface: source-clr
+reviewed: 6f9b7b18531fb523bda8505efb0f0fdb83e34a133794ac68effeb993be29f08b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets dependency Plugin IDs whose contributions may be explicitly replaced.

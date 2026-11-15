@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4b78829badc994c4629411a33e4e3f43496c476318ad271682803013d19a2302
-symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.LifetimeScope.Dispose"
-source: xml
-reviewed: 4435a442b938575a99f2e98a302483bc1e647263828319d8a3f1f96451af51f8
-title: "LifetimeScope.Dispose"
+symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.LifetimeScope.Dispose
+title: LifetimeScope.Dispose
 kind: api
-owners: [Inno.Core.Execution]
+owners:
+- Inno.Core.Execution
 apiSurface: source-clr
+reviewed: 4435a442b938575a99f2e98a302483bc1e647263828319d8a3f1f96451af51f8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Releases a quiescent lifetime in reverse registration order, continuing after ordinary cleanup failures.

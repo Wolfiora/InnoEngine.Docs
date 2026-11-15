@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f43900209ef68ecbcb552aebe1e299f130ea44faaec0d19359f953dd59077cf9
-symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetCreationTemplate.Encode(Inno.Editor.Assets.AssetCreationContext,Inno.Assets.AssetObject)"
-source: xml
-reviewed: f23df3b9db6db0a8efe43daca5446d5ee7412d821c18ab268f1f27f124ef066b
-title: "AssetCreationTemplate.Encode"
+symbol: engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetCreationTemplate.Encode(Inno.Editor.Assets.AssetCreationContext,Inno.Assets.AssetObject)
+title: AssetCreationTemplate.Encode
 kind: api
-owners: [Inno.Editor.Assets]
+owners:
+- Inno.Editor.Assets
 apiSurface: source-clr
+reviewed: f23df3b9db6db0a8efe43daca5446d5ee7412d821c18ab268f1f27f124ef066b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Encodes the detached initial value into the source representation owned by this template.

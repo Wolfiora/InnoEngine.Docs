@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7448410561954a95744f72caeb5aff80870e3bec7741d892ec1dc542fdf2a9a2
-symbol: "engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildDistribution.#ctor(System.Collections.Generic.IReadOnlyList{Inno.Build.Composition.GameBuildContribution},System.Collections.Generic.IReadOnlyList{Inno.Build.Managed.IManagedDeploymentCompiler},System.Collections.Generic.IReadOnlyList{Inno.Build.Composition.NativeToolchainContribution})"
-source: xml
-reviewed: 731de45487f1ce8e770d297038cc1de4a0f750eaa314ec87b3baae6d2ec65fe4
-title: "BuildDistribution.Constructor"
+symbol: engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildDistribution.#ctor(System.Collections.Generic.IReadOnlyList{Inno.Build.Composition.GameBuildContribution},System.Collections.Generic.IReadOnlyList{Inno.Build.Managed.IManagedDeploymentCompiler},System.Collections.Generic.IReadOnlyList{Inno.Build.Composition.NativeToolchainContribution})
+title: BuildDistribution.Constructor
 kind: api
-owners: [Inno.Build.Composition]
+owners:
+- Inno.Build.Composition
 apiSurface: source-clr
+reviewed: 731de45487f1ce8e770d297038cc1de4a0f750eaa314ec87b3baae6d2ec65fe4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures a complete distribution without creating authoring services or starting any tool.

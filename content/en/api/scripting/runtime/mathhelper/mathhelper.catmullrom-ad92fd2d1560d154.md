@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ad92fd2d1560d1545876ce47a2a81495268e581c8bd705567d65a97213074349
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.CatmullRom(System.Single,System.Single,System.Single,System.Single,System.Single)"
-source: xml
-reviewed: 8a1abbc4a0a2cd70044ef82b20b112b28d713df5fb16700347207f33edc72fde
-title: "MathHelper.CatmullRom"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.CatmullRom(System.Single,System.Single,System.Single,System.Single,System.Single)
+title: MathHelper.CatmullRom
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 8a1abbc4a0a2cd70044ef82b20b112b28d713df5fb16700347207f33edc72fde
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Performs a Catmull-Rom interpolation using the specified positions.

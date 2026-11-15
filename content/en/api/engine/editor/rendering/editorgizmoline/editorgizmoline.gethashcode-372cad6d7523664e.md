@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.372cad6d7523664ef2cc21d8c69c60c8dc6e9007b60c1b22c83a099e8d123963
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorGizmoLine.GetHashCode"
-source: xml
-reviewed: 4c745d345a54c4e8520cd9a6c4385f68ddd4a155188599765587bd05759f44b0
-title: "EditorGizmoLine.GetHashCode"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorGizmoLine.GetHashCode
+title: EditorGizmoLine.GetHashCode
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 4c745d345a54c4e8520cd9a6c4385f68ddd4a155188599765587bd05759f44b0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

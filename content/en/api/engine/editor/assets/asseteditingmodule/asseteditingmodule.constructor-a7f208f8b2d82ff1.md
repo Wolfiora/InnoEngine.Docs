@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a7f208f8b2d82ff192c80a0494711764f3104c394a24249342c86fbd39576a42
-symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.#ctor(Inno.Editor.Interactions.EditorInteractions,Inno.Assets.Pipeline.AssetPipeline,Inno.Plugins.Authoring.PluginEnvironment,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Logging.LogRouter)"
-source: xml
-reviewed: 2f1525d651141670707565a366bcc55bc2068babad3aefd80476b2e1147743c3
-title: "AssetEditingModule.Constructor"
+symbol: engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.#ctor(Inno.Editor.Interactions.EditorInteractions,Inno.Assets.Pipeline.AssetPipeline,Inno.Plugins.Authoring.PluginEnvironment,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Logging.LogRouter)
+title: AssetEditingModule.Constructor
 kind: api
-owners: [Inno.Editor.Assets]
+owners:
+- Inno.Editor.Assets
 apiSurface: source-clr
+reviewed: 2f1525d651141670707565a366bcc55bc2068babad3aefd80476b2e1147743c3
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates the asset editing service for one authoring generation.

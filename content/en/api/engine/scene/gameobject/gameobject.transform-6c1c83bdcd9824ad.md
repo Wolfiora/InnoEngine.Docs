@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6c1c83bdcd9824ad19c3f16e9816d4111d740c12003d6cf54516b510bf36d87d
-symbol: "engine:Inno.Scene:P:Inno.Scene.GameObject.transform"
-source: xml
-reviewed: cc9c591d1eea63edec83e882f7092ff407e4b0f2f11b7555e582ff74ad5b7b65
-title: "GameObject.transform"
+symbol: engine:Inno.Scene:P:Inno.Scene.GameObject.transform
+title: GameObject.transform
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: cc9c591d1eea63edec83e882f7092ff407e4b0f2f11b7555e582ff74ad5b7b65
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the mandatory transform component.

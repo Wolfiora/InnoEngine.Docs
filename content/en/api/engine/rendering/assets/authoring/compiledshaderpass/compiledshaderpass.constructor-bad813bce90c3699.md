@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bad813bce90c3699b801732ab7145c8b83faa7c73c1ad89c5308e3ee336b226b
-symbol: "engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.CompiledShaderPass.#ctor(Inno.Rendering.Assets.ShaderPassDefinition,System.Collections.Generic.IReadOnlyList{Inno.Rendering.Assets.Authoring.ShaderStageArtifact},Inno.Rendering.ShaderInterface)"
-source: xml
-reviewed: ed8516f038cf0cd58342488d61bac40f9b9214319f387fa5da7d293366582397
-title: "CompiledShaderPass.Constructor"
+symbol: engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.CompiledShaderPass.#ctor(Inno.Rendering.Assets.ShaderPassDefinition,System.Collections.Generic.IReadOnlyList{Inno.Rendering.Assets.Authoring.ShaderStageArtifact},Inno.Rendering.ShaderInterface)
+title: CompiledShaderPass.Constructor
 kind: api
-owners: [Inno.Rendering.Assets.Authoring]
+owners:
+- Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
+reviewed: ed8516f038cf0cd58342488d61bac40f9b9214319f387fa5da7d293366582397
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a compiled pass artifact.

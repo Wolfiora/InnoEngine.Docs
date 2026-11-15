@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.23b8a456b702e86c27645a9a0b8e4d00d771142990d82b98eb47c311f20fa191
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorMenuContext.#ctor(Inno.Editor.Core.EditorContext,Inno.Editor.Interactions.EditorInteractions,System.String,System.Object)"
-source: xml
-reviewed: f52d38766d2c3395625a82be8b282e79daa95a9593c952d6125894ca7c790a05
-title: "EditorMenuContext.Constructor"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorMenuContext.#ctor(Inno.Editor.Core.EditorContext,Inno.Editor.Interactions.EditorInteractions,System.String,System.Object)
+title: EditorMenuContext.Constructor
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: f52d38766d2c3395625a82be8b282e79daa95a9593c952d6125894ca7c790a05
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a contextual menu request.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.921187d54cf5f5cc142467526313dfc78abc7fa4256958318e4363c825bfb4bb
-symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.Log.Debug(System.Type,System.Object,System.String,System.Int32)"
-source: xml
-reviewed: 4166f3dfc02206db0abdb68792ea9f0f63afa36e7f4dcee1fb87ea811ea3cacb
-title: "Log.Debug"
+symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.Log.Debug(System.Type,System.Object,System.String,System.Int32)
+title: Log.Debug
 kind: api
-owners: [Inno.Core.Logging]
+owners:
+- Inno.Core.Logging
 apiSurface: source-clr
+reviewed: 4166f3dfc02206db0abdb68792ea9f0f63afa36e7f4dcee1fb87ea811ea3cacb
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes a debug-level message using the object's string representation.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4603fba95e48a3b0bad7063bd2e538ee914f5901f1dae4f9199d4a61fbe0573c
-symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.EditorAssets.Save(InnoEngine.Assets.AssetPath,InnoEngine.Assets.AssetObject)"
-source: xml
-reviewed: d27b48dc41a49614d507e0933de8b45c0da8fba6b0a9b389ec235659c361d6e6
-title: "EditorAssets.Save"
+symbol: scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.EditorAssets.Save(InnoEngine.Assets.AssetPath,InnoEngine.Assets.AssetObject)
+title: EditorAssets.Save
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: editor-script
+reviewed: d27b48dc41a49614d507e0933de8b45c0da8fba6b0a9b389ec235659c361d6e6
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates or replaces a writable project asset source and imports the committed result.

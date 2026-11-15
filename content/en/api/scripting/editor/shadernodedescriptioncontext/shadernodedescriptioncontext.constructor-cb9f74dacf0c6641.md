@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cb9f74dacf0c6641e976feb3371d82abecf376e11adf8bbb936b5527f1a48cdd
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderNodeDescriptionContext.#ctor"
-source: xml
-reviewed: 1f135b8fba97ee65c75ebf1c9bbdbf72e7e0d2ece7ea3488f85ca6114d126baf
-title: "ShaderNodeDescriptionContext.Constructor"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderNodeDescriptionContext.#ctor
+title: ShaderNodeDescriptionContext.Constructor
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 1f135b8fba97ee65c75ebf1c9bbdbf72e7e0d2ece7ea3488f85ca6114d126baf
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Appears in the generated script reference without a matching public or protected engine constructor.

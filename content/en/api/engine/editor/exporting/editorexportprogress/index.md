@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.exporting.4954455ade0e3688
-symbol: "engine:Inno.Editor.Exporting:T:Inno.Editor.Exporting.EditorExportProgress"
-source: xml
-reviewed: e61224ac25c068e740f7aa8474f174f4b4a07650a706dacf4dcf1ea0651584c8
-title: "EditorExportProgress"
+symbol: engine:Inno.Editor.Exporting:T:Inno.Editor.Exporting.EditorExportProgress
+title: EditorExportProgress
 kind: api
-owners: [Inno.Editor.Exporting]
+owners:
+- Inno.Editor.Exporting
 apiSurface: source-clr
+reviewed: e61224ac25c068e740f7aa8474f174f4b4a07650a706dacf4dcf1ea0651584c8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-editor-exporting
 aliases: []

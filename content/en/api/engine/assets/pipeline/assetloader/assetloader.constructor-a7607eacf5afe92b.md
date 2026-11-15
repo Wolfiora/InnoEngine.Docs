@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a7607eacf5afe92ba4db26cb5061bf08770bb8ad051fa000b306170b8df7027a
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.#ctor(Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Identity.IdentityAllocator,Inno.Core.Diagnostics.DiagnosticHub,Inno.Core.Logging.LogRouter,System.Collections.Generic.IReadOnlyList{Inno.Assets.Pipeline.AssetSourceMount},System.String,Inno.Assets.Pipeline.AssetSourcePolicy,System.Boolean)"
-source: xml
-reviewed: 79ed0f4ce3f4dbfb2f6c552cee9a194bbfa34b4101aa2a7b33552939309732a4
-title: "AssetLoader.Constructor"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.#ctor(Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Identity.IdentityAllocator,Inno.Core.Diagnostics.DiagnosticHub,Inno.Core.Logging.LogRouter,System.Collections.Generic.IReadOnlyList{Inno.Assets.Pipeline.AssetSourceMount},System.String,Inno.Assets.Pipeline.AssetSourcePolicy,System.Boolean)
+title: AssetLoader.Constructor
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 79ed0f4ce3f4dbfb2f6c552cee9a194bbfa34b4101aa2a7b33552939309732a4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an asset loader over one project source and zero or more isolated sources.

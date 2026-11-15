@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.44da06f18b9cb0551637eb0f6b94866b02c391590a91bfcff273b176c0ffac50
-symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.SetAsSingleArray(System.String,System.Single[])"
-source: xml
-reviewed: 8509d17bb8c9ad531f07640e34dd8ab873ed4fc0215d95a5e8e5b276b10910c4
-title: "EditorSettingObject.SetAsSingleArray"
+symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.SetAsSingleArray(System.String,System.Single[])
+title: EditorSettingObject.SetAsSingleArray
 kind: api
-owners: [Inno.Editor.Settings]
+owners:
+- Inno.Editor.Settings
 apiSurface: editor-script
+reviewed: 8509d17bb8c9ad531f07640e34dd8ab873ed4fc0215d95a5e8e5b276b10910c4
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Sets a single-precision array property by value.

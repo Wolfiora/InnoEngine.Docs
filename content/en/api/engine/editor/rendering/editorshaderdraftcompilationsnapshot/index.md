@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.rendering.fea9e636707bb349
-symbol: "engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.EditorShaderDraftCompilationSnapshot"
-source: xml
-reviewed: 89ccd0502714c2eb8c4568e59dbae9047ee555204beb1e7c36f977d34faa1a2e
-title: "EditorShaderDraftCompilationSnapshot"
+symbol: engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.EditorShaderDraftCompilationSnapshot
+title: EditorShaderDraftCompilationSnapshot
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 89ccd0502714c2eb8c4568e59dbae9047ee555204beb1e7c36f977d34faa1a2e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-editor-rendering
 aliases: []

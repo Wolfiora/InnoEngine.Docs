@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7a41cd9c05f2fd05e30694f5f871cab12a0901e4068ec0893ea216044afb5517
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.DragFloat(System.String,System.Single@,System.Single,System.Single,System.Single)"
-source: xml
-reviewed: 1a0d1ceea94641648f295be630cc794f8ac88497dd1ee38588ed2afd317c2f40
-title: "ImGui.DragFloat"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.DragFloat(System.String,System.Single@,System.Single,System.Single,System.Single)
+title: ImGui.DragFloat
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 1a0d1ceea94641648f295be630cc794f8ac88497dd1ee38588ed2afd317c2f40
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a floating-point drag control.

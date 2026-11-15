@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.18a340627394da8a382e670fcd698ee695cd9e0d1a06759aa33371739f85e322
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.FileLease.AcquireAsync(System.String,System.TimeSpan,System.Threading.CancellationToken)"
-source: xml
-reviewed: 64f4d59ec3a3a4b3ef5040e9f11e430e46abf86e88418812034f4623ab42d4fe
-title: "FileLease.AcquireAsync"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.FileLease.AcquireAsync(System.String,System.TimeSpan,System.Threading.CancellationToken)
+title: FileLease.AcquireAsync
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: 64f4d59ec3a3a4b3ef5040e9f11e430e46abf86e88418812034f4623ab42d4fe
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Waits for exclusive ownership without blocking an owner thread or changing shared data.

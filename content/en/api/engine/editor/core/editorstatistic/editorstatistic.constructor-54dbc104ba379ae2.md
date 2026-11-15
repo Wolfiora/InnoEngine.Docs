@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.54dbc104ba379ae243db3eab86e1f0eebc355243d6d59c4cef2cff17402722fa
-symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorStatistic.#ctor(Inno.Editor.Core.EditorStatisticId,Inno.Editor.Core.EditorStatisticGroupId,System.String,System.String,System.String,System.Int32,System.Int32)"
-source: xml
-reviewed: cd12f61ac8889df604d281b41bb341ebff5cd9f96db74e5062754b6eec2cf28e
-title: "EditorStatistic.Constructor"
+symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorStatistic.#ctor(Inno.Editor.Core.EditorStatisticId,Inno.Editor.Core.EditorStatisticGroupId,System.String,System.String,System.String,System.Int32,System.Int32)
+title: EditorStatistic.Constructor
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: source-clr
+reviewed: cd12f61ac8889df604d281b41bb341ebff5cd9f96db74e5062754b6eec2cf28e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates one statistic contribution.

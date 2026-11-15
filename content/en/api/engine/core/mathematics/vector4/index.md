@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.mathematics.ddd9ff8c04de398c
-symbol: "engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.Vector4"
-source: xml
-reviewed: e0fdae1085236b7c581cd918ed340f0a3cadfacf58927d782ddb95bf727fcca3
-title: "Vector4"
+symbol: engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.Vector4
+title: Vector4
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: e0fdae1085236b7c581cd918ed340f0a3cadfacf58927d782ddb95bf727fcca3
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-core-mathematics#numeric-and-layout-contract
 aliases: []

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.390699412dceae0d516db2319a4c2a059e6bb270acbad9fe05ff452368e6a029
-symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.ModuleHost.Unload(System.Collections.Generic.IReadOnlyList{Inno.Extensibility.Modules.AssemblyModuleHandle})"
-source: xml
-reviewed: 77e424c7883e781b38811ab2a0f58f28fe142f628fa025125e3766b1b001a8fd
-title: "ModuleHost.Unload"
+symbol: engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.ModuleHost.Unload(System.Collections.Generic.IReadOnlyList{Inno.Extensibility.Modules.AssemblyModuleHandle})
+title: ModuleHost.Unload
 kind: api
-owners: [Inno.Extensibility.Modules]
+owners:
+- Inno.Extensibility.Modules
 apiSurface: source-clr
+reviewed: 77e424c7883e781b38811ab2a0f58f28fe142f628fa025125e3766b1b001a8fd
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Removes several active modules in one catalog transaction, then requests unload in reverse dependency order.

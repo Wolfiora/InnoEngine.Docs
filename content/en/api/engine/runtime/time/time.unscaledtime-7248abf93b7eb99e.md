@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7248abf93b7eb99e42b360cd6cb5fc49b592440796b4f98ca1d35a1bb4fce888
-symbol: "engine:Inno.Runtime:P:Inno.Runtime.Time.unscaledTime"
-source: xml
-reviewed: 1b23907d0ae5bc71906cb3c73ca89e0a817463b5a23b7c454f859fe6396f80fc
-title: "Time.unscaledTime"
+symbol: engine:Inno.Runtime:P:Inno.Runtime.Time.unscaledTime
+title: Time.unscaledTime
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: 1b23907d0ae5bc71906cb3c73ca89e0a817463b5a23b7c454f859fe6396f80fc
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets total elapsed session time unaffected by pause or time scaling.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ace1a1bf5b59b8664178cd987ad4d60f0557702393aeadace4411bf7ede1bf1e
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorPlanarNavigation.WheelFactor(System.Single,System.Single)"
-source: xml
-reviewed: 6996aa94e75cd2be46de1c1c42cebd839f7547b61d976b7c78ecd3471c8efb78
-title: "EditorPlanarNavigation.WheelFactor"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorPlanarNavigation.WheelFactor(System.Single,System.Single)
+title: EditorPlanarNavigation.WheelFactor
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 6996aa94e75cd2be46de1c1c42cebd839f7547b61d976b7c78ecd3471c8efb78
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Converts wheel input to the common exponential magnification used by Editor canvases.

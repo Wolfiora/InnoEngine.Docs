@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9d8e8f91440cd8d781133b9191a09ec8732788e9c462030cdeae60d6d810661c
-symbol: "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystem.Attach"
-source: xml
-reviewed: 9637948111cd72f15856b84affcb8e2887c18b44dab74d320c90826238357301
-title: "RuntimeSubsystem.Attach"
+symbol: engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystem.Attach
+title: RuntimeSubsystem.Attach
 kind: api
-owners: [Inno.Runtime.Contracts]
+owners:
+- Inno.Runtime.Contracts
 apiSurface: source-clr
+reviewed: 9637948111cd72f15856b84affcb8e2887c18b44dab74d320c90826238357301
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Acquires session resources after every dependency has attached.

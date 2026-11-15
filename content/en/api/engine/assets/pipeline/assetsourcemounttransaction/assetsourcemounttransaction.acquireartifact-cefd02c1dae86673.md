@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cefd02c1dae86673be17990fb8cb67b66e68b34db6dbc92b22e18aeb74261d2b
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourceMountTransaction.AcquireArtifact(System.Guid,System.String)"
-source: xml
-reviewed: 535f331c42b336e951616dd3f4ae4072ee2cc6564bfc7fdaaf2a8149bbad88b0
-title: "AssetSourceMountTransaction.AcquireArtifact"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourceMountTransaction.AcquireArtifact(System.Guid,System.String)
+title: AssetSourceMountTransaction.AcquireArtifact
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 535f331c42b336e951616dd3f4ae4072ee2cc6564bfc7fdaaf2a8149bbad88b0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Retains one verified output so cache collection cannot remove an active generation.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.86fd97963cf48c553be9b3bb9f6166780f3b8c0c852e3673a9d85608d2f8e16c
-symbol: "engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphSerializedValue.From\u0060\u00601(\u0060\u00600,Inno.Core.Serialization.SerializationRegistry)"
-source: xml
-reviewed: 48e79157a60804e732cb5d66dec504bb548941561e07b022e87911947c1c3675
-title: "GraphSerializedValue.From"
+symbol: engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphSerializedValue.From``1(``0,Inno.Core.Serialization.SerializationRegistry)
+title: GraphSerializedValue.From
 kind: api
-owners: [Inno.Core.Graphs]
+owners:
+- Inno.Core.Graphs
 apiSurface: source-clr
+reviewed: 48e79157a60804e732cb5d66dec504bb548941561e07b022e87911947c1c3675
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Serializes a neutral graph property through the common Inno serializer.

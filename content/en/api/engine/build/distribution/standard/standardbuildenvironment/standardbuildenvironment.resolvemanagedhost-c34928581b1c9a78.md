@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c34928581b1c9a78d505b7009fe2ed28a2668b65a08856f8edcbedb9907b6c21
-symbol: "engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildEnvironment.ResolveManagedHost(System.String)"
-source: xml
-reviewed: 179d088beef261ef4c525f6109b7f60eea6567fa11ca9d1b175e0e13a7db9ba1
-title: "StandardBuildEnvironment.ResolveManagedHost"
+symbol: engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildEnvironment.ResolveManagedHost(System.String)
+title: StandardBuildEnvironment.ResolveManagedHost
 kind: api
-owners: [Inno.Build.Distribution.Standard]
+owners:
+- Inno.Build.Distribution.Standard
 apiSurface: source-clr
+reviewed: 179d088beef261ef4c525f6109b7f60eea6567fa11ca9d1b175e0e13a7db9ba1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves the managed SDK executable without selecting a native tool target or preparing a product.

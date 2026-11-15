@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7566d177714a878f6b1fa5c68cac1b7c6bd5763977ee1fac85be207ffdb2ec6d
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphTemplates.CreateRaster(InnoEngine.Serialization.SerializationRegistry,InnoEngine.Serialization.SerializationContext)"
-source: xml
-reviewed: c785184f14cea6ff0e9c63fa067849818724bcd7166779bbc8a0bc07efd2277d
-title: "ShaderGraphTemplates.CreateRaster"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphTemplates.CreateRaster(InnoEngine.Serialization.SerializationRegistry,InnoEngine.Serialization.SerializationContext)
+title: ShaderGraphTemplates.CreateRaster
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: c785184f14cea6ff0e9c63fa067849818724bcd7166779bbc8a0bc07efd2277d
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a raster graph accepting clip-space XY positions and an exposed RGBA color.

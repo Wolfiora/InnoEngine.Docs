@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.05ff12a285ebf71eff388d1a152f501c2dbb3451088960b5bea0b2cf8c53fbaf
-symbol: "engine:Inno.Audio:M:Inno.Audio.AudioCodecId.GetHashCode"
-source: xml
-reviewed: 3547304fa8ff9e3ebc382d1d85274b1ea381d566984162f485e98d5dcd8fa69b
-title: "AudioCodecId.GetHashCode"
+symbol: engine:Inno.Audio:M:Inno.Audio.AudioCodecId.GetHashCode
+title: AudioCodecId.GetHashCode
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 3547304fa8ff9e3ebc382d1d85274b1ea381d566984162f485e98d5dcd8fa69b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

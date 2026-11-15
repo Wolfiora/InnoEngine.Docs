@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c68ae7895ff5ead076fb74e461e2d30509bf653a41adc111cc851238bdef14cf
-symbol: "scripting:Inno.Editor.Shaders:M:InnoEditor.Shaders.MaterialDocuments.OnStop(InnoEditor.Core.EditorContext)"
-source: xml
-reviewed: b631d8caf1b330a739996edbfef25dc653e79ae6237e6970d564f965a13295ba
-title: "MaterialDocuments.OnStop"
+symbol: scripting:Inno.Editor.Shaders:M:InnoEditor.Shaders.MaterialDocuments.OnStop(InnoEditor.Core.EditorContext)
+title: MaterialDocuments.OnStop
 kind: api
-owners: [Inno.Editor.Shaders]
+owners:
+- Inno.Editor.Shaders
 apiSurface: editor-script
+reviewed: b631d8caf1b330a739996edbfef25dc653e79ae6237e6970d564f965a13295ba
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Stops this feature before its owning runtime releases the active generation.

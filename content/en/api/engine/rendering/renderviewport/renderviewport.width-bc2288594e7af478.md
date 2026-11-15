@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bc2288594e7af4787d23bb21e8cfe440413fb9106549c9a0700715ce8da7632b
-symbol: "engine:Inno.Rendering:P:Inno.Rendering.RenderViewport.width"
-source: xml
-reviewed: a041be3c390dc96876382737048fd3d08683314794c85e127b8b8dbb962c4277
-title: "RenderViewport.width"
+symbol: engine:Inno.Rendering:P:Inno.Rendering.RenderViewport.width
+title: RenderViewport.width
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: a041be3c390dc96876382737048fd3d08683314794c85e127b8b8dbb962c4277
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the viewport width.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.37119f3594f3d1c6370500ed6f3a2bc35c56c7942d9442b4d76274d0d0e38416
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationSnapshot.ToArray"
-source: xml
-reviewed: 6e195e3e1d34eb9d9d66a0e2bce2a1cd201fbbe5e941d771457252d843f150d4
-title: "SerializationSnapshot.ToArray"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationSnapshot.ToArray
+title: SerializationSnapshot.ToArray
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: 6e195e3e1d34eb9d9d66a0e2bce2a1cd201fbbe5e941d771457252d843f150d4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Encodes this capture using the same deterministic binary format as ordinary serialization.

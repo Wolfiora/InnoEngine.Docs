@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.22dd6c57b6ef42c92e9d3af5fa6f999f5d9e350442d757ffca042405e7f5e90c
-symbol: "engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasView.DrawNode(Inno.Editor.ImGui.EditorDrawList,Inno.Editor.Graph.ImGui.GraphCanvasNode,System.UInt32,System.Boolean,System.Action,System.Nullable{Inno.Core.Graphs.GraphPosition})"
-source: xml
-reviewed: a90b2b05bc9a2d07a29f74ff0a13d13ee749cc3ee6b0407295f24076a0b4434f
-title: "GraphCanvasView.DrawNode"
+symbol: engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasView.DrawNode(Inno.Editor.ImGui.EditorDrawList,Inno.Editor.Graph.ImGui.GraphCanvasNode,System.UInt32,System.Boolean,System.Action,System.Nullable{Inno.Core.Graphs.GraphPosition})
+title: GraphCanvasView.DrawNode
 kind: api
-owners: [Inno.Editor.Graph.ImGui]
+owners:
+- Inno.Editor.Graph.ImGui
 apiSurface: source-clr
+reviewed: a90b2b05bc9a2d07a29f74ff0a13d13ee749cc3ee6b0407295f24076a0b4434f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a visible neutral node and its ports, borrowing optional content only for this call.

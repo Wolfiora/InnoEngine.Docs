@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.shell.bed99a73cc5af969
-symbol: "engine:Inno.Shell:T:Inno.Shell.ShellOptions"
-source: xml
-reviewed: a617a5bd9919b8d1f0a00193cf8c4e499c01096d0ea55d6e38156b3064fb2c39
-title: "ShellOptions"
+symbol: engine:Inno.Shell:T:Inno.Shell.ShellOptions
+title: ShellOptions
 kind: api
-owners: [Inno.Shell]
+owners:
+- Inno.Shell
 apiSurface: source-clr
+reviewed: a617a5bd9919b8d1f0a00193cf8c4e499c01096d0ea55d6e38156b3064fb2c39
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-shell
 aliases: []

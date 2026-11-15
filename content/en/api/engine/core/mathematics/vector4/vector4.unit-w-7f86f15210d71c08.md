@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7f86f15210d71c082a68406bcf6e3e2a136695e6f97221b0cb9e2225aeee7c47
-symbol: "engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Vector4.UNIT_W"
-source: xml
-reviewed: b08d6cc2e056ceed34b1d2d73899cf51e7cb29e3020f64f7f15c459609f815c7
-title: "Vector4.UNIT_W"
+symbol: engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Vector4.UNIT_W
+title: Vector4.UNIT_W
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: b08d6cc2e056ceed34b1d2d73899cf51e7cb29e3020f64f7f15c459609f815c7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 A unit value aligned with the w axis.

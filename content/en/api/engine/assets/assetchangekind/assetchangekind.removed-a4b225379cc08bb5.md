@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a4b225379cc08bb511bf99bcf67fc85d386b20663024d47cb6d569c3fe7ea182
-symbol: "engine:Inno.Assets:F:Inno.Assets.AssetChangeKind.Removed"
-source: xml
-reviewed: a295238171050d9b68ddf5d770b976110a14096e489b6dd7cef7ce15dd01bb19
-title: "AssetChangeKind.Removed"
+symbol: engine:Inno.Assets:F:Inno.Assets.AssetChangeKind.Removed
+title: AssetChangeKind.Removed
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: a295238171050d9b68ddf5d770b976110a14096e489b6dd7cef7ce15dd01bb19
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 A source and its persistent metadata were removed.

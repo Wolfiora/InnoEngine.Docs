@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9c07ed1aa0141259d01ce5679e3643aa2b9401ef6c0563ac376ee76205c296e2
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Color.ToUInt32ARGB"
-source: xml
-reviewed: 2d0b55edbc300f27ca0ddff615fcf114e5432327f088fc9e87db2d263707d0aa
-title: "Color.ToUInt32ARGB"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Color.ToUInt32ARGB
+title: Color.ToUInt32ARGB
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 2d0b55edbc300f27ca0ddff615fcf114e5432327f088fc9e87db2d263707d0aa
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Packs normalized channels into the existing unsigned 0xAABBGGRR representation.

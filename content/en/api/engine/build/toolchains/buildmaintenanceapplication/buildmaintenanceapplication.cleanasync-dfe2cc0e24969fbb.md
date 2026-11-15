@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dfe2cc0e24969fbb5d87fb6443f6d1f829fb5d7c9d8941729976de530190a21f
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildMaintenanceApplication.CleanAsync(System.String,Inno.Build.Toolchains.BuildCachePolicy,System.Boolean,System.Boolean,System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: 019459b01996420a89ecca4bf0a9588d4c50cec46082a23da2434abf38587dee
-title: "BuildMaintenanceApplication.CleanAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildMaintenanceApplication.CleanAsync(System.String,Inno.Build.Toolchains.BuildCachePolicy,System.Boolean,System.Boolean,System.String,System.Threading.CancellationToken)
+title: BuildMaintenanceApplication.CleanAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 019459b01996420a89ecca4bf0a9588d4c50cec46082a23da2434abf38587dee
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Uses the same owner inventory, dependency protection and retirement plan for automatic and explicit cleanup.

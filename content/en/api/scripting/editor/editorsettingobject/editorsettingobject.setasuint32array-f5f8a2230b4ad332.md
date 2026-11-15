@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f5f8a2230b4ad332bdea0f3f712a78b6bf74eb7a53456f8bc0dc3bbd4634fc72
-symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.SetAsUInt32Array(System.String,System.UInt32[])"
-source: xml
-reviewed: 8e629a90b75d1978842911707d6a3abd044eb9d6f5d7fd54067a9597a58b8156
-title: "EditorSettingObject.SetAsUInt32Array"
+symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.SetAsUInt32Array(System.String,System.UInt32[])
+title: EditorSettingObject.SetAsUInt32Array
 kind: api
-owners: [Inno.Editor.Settings]
+owners:
+- Inno.Editor.Settings
 apiSurface: editor-script
+reviewed: 8e629a90b75d1978842911707d6a3abd044eb9d6f5d7fd54067a9597a58b8156
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Sets a 32-bit unsigned integer array property by value.

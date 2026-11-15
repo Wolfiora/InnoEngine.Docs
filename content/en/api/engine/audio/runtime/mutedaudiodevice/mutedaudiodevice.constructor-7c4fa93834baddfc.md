@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7c4fa93834baddfcf7da2301f1686aa5313a995f71bcd7d7f45d6abfe51fc57a
-symbol: "engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.MutedAudioDevice.#ctor(System.Int32,Inno.Audio.AudioDeviceLimits)"
-source: xml
-reviewed: afbe033e2737c6e3ef8f03e8d7bc521a5483bb367f5da869a0a958a662b0df24
-title: "MutedAudioDevice.Constructor"
+symbol: engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.MutedAudioDevice.#ctor(System.Int32,Inno.Audio.AudioDeviceLimits)
+title: MutedAudioDevice.Constructor
 kind: api
-owners: [Inno.Audio.Runtime]
+owners:
+- Inno.Audio.Runtime
 apiSurface: source-clr
+reviewed: afbe033e2737c6e3ef8f03e8d7bc521a5483bb367f5da869a0a958a662b0df24
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a muted device with deterministic clock and lifecycle behavior.

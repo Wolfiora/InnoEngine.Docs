@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.670b21f8dd317f8d1b9584389fed35fb79d886766859ff9c910462c4ba90f538
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Rect.Union(InnoEngine.Mathematics.Rect,InnoEngine.Mathematics.Rect)"
-source: xml
-reviewed: f31eecb769c75319ef03eba7fcb6f17a2395fcb2a50a3e79ca4910d7100993f3
-title: "Rect.Union"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Rect.Union(InnoEngine.Mathematics.Rect,InnoEngine.Mathematics.Rect)
+title: Rect.Union
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: f31eecb769c75319ef03eba7fcb6f17a2395fcb2a50a3e79ca4910d7100993f3
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the smallest axis-aligned rectangle containing both supplied rectangles.

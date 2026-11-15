@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f70522c773d782d60057f077e82ade705402d98e4e572d95eb2576c4ab9c1ad6
-symbol: "engine:Inno.Extensibility.Catalogs:M:Inno.Extensibility.Catalogs.ITypeCatalogRegistrar.RejectGenericConstruction(System.Type,System.Collections.Generic.IReadOnlyList{System.Type})"
-source: xml
-reviewed: 4cace9b24b7bc692b9fabae908aea660778c1c86eebb5470c95ad8c3b99adbfa
-title: "ITypeCatalogRegistrar.RejectGenericConstruction"
+symbol: engine:Inno.Extensibility.Catalogs:M:Inno.Extensibility.Catalogs.ITypeCatalogRegistrar.RejectGenericConstruction(System.Type,System.Collections.Generic.IReadOnlyList{System.Type})
+title: ITypeCatalogRegistrar.RejectGenericConstruction
 kind: api
-owners: [Inno.Extensibility.Catalogs]
+owners:
+- Inno.Extensibility.Catalogs
 apiSurface: source-clr
+reviewed: 4cace9b24b7bc692b9fabae908aea660778c1c86eebb5470c95ad8c3b99adbfa
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Records a construction whose argument set was rejected by the declaration's compile-time constraints.

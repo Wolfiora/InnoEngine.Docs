@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f401872f2927a8b8396536bd56d43885b28651165872561c785bf6ce890b65a6
-symbol: "scripting:Inno.Editor.Core:P:InnoEditor.Core.EditorModalAttribute.id"
-source: xml
-reviewed: d5a2f43c2a55a9ffc7b0a5e53a01057a4eadc354c9d7d65920b301b827336147
-title: "EditorModalAttribute.id"
+symbol: scripting:Inno.Editor.Core:P:InnoEditor.Core.EditorModalAttribute.id
+title: EditorModalAttribute.id
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: editor-script
+reviewed: d5a2f43c2a55a9ffc7b0a5e53a01057a4eadc354c9d7d65920b301b827336147
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the stable modal identifier.

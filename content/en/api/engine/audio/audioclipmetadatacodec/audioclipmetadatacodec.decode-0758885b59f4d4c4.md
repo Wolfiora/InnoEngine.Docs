@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0758885b59f4d4c44851dfddbe5c3c1aa937de56a5768b35770284355cc1e068
-symbol: "engine:Inno.Audio:M:Inno.Audio.AudioClipMetadataCodec.Decode(System.ReadOnlySpan{System.Byte})"
-source: xml
-reviewed: 12039158a6ce1174c6c1ce2a7f5896e4553531dce464ca0e6370ed525281e683
-title: "AudioClipMetadataCodec.Decode"
+symbol: engine:Inno.Audio:M:Inno.Audio.AudioClipMetadataCodec.Decode(System.ReadOnlySpan{System.Byte})
+title: AudioClipMetadataCodec.Decode
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 12039158a6ce1174c6c1ce2a7f5896e4553531dce464ca0e6370ed525281e683
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Decodes and validates one compact audio runtime header.

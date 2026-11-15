@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d85c0a9092e3d796eb2db3cd14e482bdd7e2dc1efeb82e40429cc98ee3618dee
-symbol: "engine:Inno.References:M:Inno.References.ReferenceKey.ToString"
-source: xml
-reviewed: 270f4032be922e81a1477b56bfd19ef8ad0a6c91e54e76806dee45bb188c2619
-title: "ReferenceKey.ToString"
+symbol: engine:Inno.References:M:Inno.References.ReferenceKey.ToString
+title: ReferenceKey.ToString
 kind: api
-owners: [Inno.References]
+owners:
+- Inno.References
 apiSurface: source-clr
+reviewed: 270f4032be922e81a1477b56bfd19ef8ad0a6c91e54e76806dee45bb188c2619
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Formats this slot identity for diagnostics.

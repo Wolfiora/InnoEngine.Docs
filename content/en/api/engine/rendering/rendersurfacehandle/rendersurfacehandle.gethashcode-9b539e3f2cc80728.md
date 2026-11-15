@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9b539e3f2cc80728ef7df3e8e109e3520f163a5eabced86296031473765560e1
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderSurfaceHandle.GetHashCode"
-source: xml
-reviewed: a673e4a9491047c4c17ea7437a866ee3bf55388b95a565103dbd890616da282f
-title: "RenderSurfaceHandle.GetHashCode"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderSurfaceHandle.GetHashCode
+title: RenderSurfaceHandle.GetHashCode
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: a673e4a9491047c4c17ea7437a866ee3bf55388b95a565103dbd890616da282f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

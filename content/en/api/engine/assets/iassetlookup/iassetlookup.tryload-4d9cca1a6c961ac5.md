@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4d9cca1a6c961ac570263955d5c8107fd0556abd289accd18fcb98f5ced18a6a
-symbol: "engine:Inno.Assets:M:Inno.Assets.IAssetLookup.TryLoad\u0060\u00601(System.Guid,\u0060\u00600@)"
-source: xml
-reviewed: bc9c4422bbf0e90e7da22d91b8987a5ac751b552f4517f95a3faf0e4103d1256
-title: "IAssetLookup.TryLoad"
+symbol: engine:Inno.Assets:M:Inno.Assets.IAssetLookup.TryLoad``1(System.Guid,``0@)
+title: IAssetLookup.TryLoad
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: bc9c4422bbf0e90e7da22d91b8987a5ac751b552f4517f95a3faf0e4103d1256
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tries to load the canonical asset with a persistent identity.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2182d95fd42647fdb9fe112913a03fe0a97dacd5128d78ef0bc91db0551719a1
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.Decode\u0060\u00601(System.ReadOnlySpan{System.Byte},System.Func{Inno.Core.Serialization.SerializationReader,\u0060\u00600},Inno.Core.Serialization.SerializationContext)"
-source: xml
-reviewed: 873975812b6331bc2c555aede205ef1b0bcebcf07cc2fad2bc9b66feaf448132
-title: "SerializationRegistry.Decode"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.Decode``1(System.ReadOnlySpan{System.Byte},System.Func{Inno.Core.Serialization.SerializationReader,``0},Inno.Core.Serialization.SerializationContext)
+title: SerializationRegistry.Decode
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: 873975812b6331bc2c555aede205ef1b0bcebcf07cc2fad2bc9b66feaf448132
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Decodes a manually defined structured schema from deterministic binary data.

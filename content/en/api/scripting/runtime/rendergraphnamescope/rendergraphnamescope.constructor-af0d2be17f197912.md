@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.af0d2be17f197912445f4c30738e9db0642ca0369f0e8008a500694ea23e6e5b
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphNameScope.#ctor"
-source: xml
-reviewed: 1d26039c312ca9abc4278a8cc90b4805900415d4a94be0a6a7624d55c8e2a2a9
-title: "RenderGraphNameScope.Constructor"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphNameScope.#ctor
+title: RenderGraphNameScope.Constructor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 1d26039c312ca9abc4278a8cc90b4805900415d4a94be0a6a7624d55c8e2a2a9
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Appears in the generated script reference without a matching public or protected engine constructor.

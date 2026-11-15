@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.081eda4ce2b6f4b200917f42a4daac86b19612352dec90b9f8bf0647b2db9549
-symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.ProjectSettingPathAttribute.#ctor(System.String,System.Int32)"
-source: xml
-reviewed: 4e24dbee4d993848f34bee6ab96950f11ce39362d38d807addf9658685f278dc
-title: "ProjectSettingPathAttribute.Constructor"
+symbol: engine:Inno.Editor.Settings:M:Inno.Editor.Settings.ProjectSettingPathAttribute.#ctor(System.String,System.Int32)
+title: ProjectSettingPathAttribute.Constructor
 kind: api
-owners: [Inno.Editor.Settings]
+owners:
+- Inno.Editor.Settings
 apiSurface: source-clr
+reviewed: 4e24dbee4d993848f34bee6ab96950f11ce39362d38d807addf9658685f278dc
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a project setting placement.

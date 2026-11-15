@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.69bc40470a87a17d84d102ee8a3fc16f2c987aa9b0fdd6b2aaca4f7d137e5f4c
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.IShaderNodeCompiler.Lower(InnoEditor.Rendering.Shaders.ShaderNodeLoweringContext)"
-source: xml
-reviewed: 80ed3c189a7981e42e59bfacc5bc8a34c1864cca24140058f20443e88ad11166
-title: "IShaderNodeCompiler.Lower"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.IShaderNodeCompiler.Lower(InnoEditor.Rendering.Shaders.ShaderNodeLoweringContext)
+title: IShaderNodeCompiler.Lower
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 80ed3c189a7981e42e59bfacc5bc8a34c1864cca24140058f20443e88ad11166
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Lowers the node into the supplied typed builder without generating source strings.

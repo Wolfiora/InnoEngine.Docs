@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7c34f0f8ea0d39a497a681c0f02f9131fc86429466ae4249e6c3c7731acc02c1
-symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticSource.ToString"
-source: xml
-reviewed: 2d4099877c0885f678f745dce4e65887b9c8d047d3c8d3bce3277da5e43a1e65
-title: "DiagnosticSource.ToString"
+symbol: engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticSource.ToString
+title: DiagnosticSource.ToString
 kind: api
-owners: [Inno.Core.Diagnostics]
+owners:
+- Inno.Core.Diagnostics
 apiSurface: source-clr
+reviewed: 2d4099877c0885f678f745dce4e65887b9c8d047d3c8d3bce3277da5e43a1e65
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Formats this value as a human-readable representation.

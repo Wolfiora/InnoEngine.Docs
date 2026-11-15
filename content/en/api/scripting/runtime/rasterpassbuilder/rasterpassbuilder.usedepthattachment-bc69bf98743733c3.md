@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bc69bf98743733c3cb24c59cbd424d79519d13103864d1b36687c81599edb336
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RasterPassBuilder.UseDepthAttachment(InnoEngine.Rendering.RenderTextureHandle,InnoEngine.Rendering.RenderLoadAction,InnoEngine.Rendering.RenderStoreAction,System.Single,System.Byte,System.Int32,System.Int32)"
-source: xml
-reviewed: 81d21c8477ae82288abf882807c5fd1e32d50fbb90a7b40ce092094c84aa51c5
-title: "RasterPassBuilder.UseDepthAttachment"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RasterPassBuilder.UseDepthAttachment(InnoEngine.Rendering.RenderTextureHandle,InnoEngine.Rendering.RenderLoadAction,InnoEngine.Rendering.RenderStoreAction,System.Single,System.Byte,System.Int32,System.Int32)
+title: RasterPassBuilder.UseDepthAttachment
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 81d21c8477ae82288abf882807c5fd1e32d50fbb90a7b40ce092094c84aa51c5
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Attaches a depth or depth-stencil texture.

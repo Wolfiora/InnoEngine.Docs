@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d202a60f913b8762b5fe2dc6c2abf13b7d5dc8cba6b3ccfad13ac54878fd0744
-symbol: "engine:Inno.Assets:M:Inno.Assets.AssetInfo.#ctor(System.Guid,Inno.Assets.AssetPath,Inno.Assets.AssetSourceKind,Inno.Assets.AssetImportStatus,System.String,System.Guid,Inno.Assets.AssetArtifactKey,Inno.Assets.AssetArtifactKey,System.Collections.Generic.IReadOnlyList{System.String})"
-source: xml
-reviewed: 7022b43876c11c9f1cb358de745e8d9a2d20a5a2a9275232e04316fb9de922de
-title: "AssetInfo.Constructor"
+symbol: engine:Inno.Assets:M:Inno.Assets.AssetInfo.#ctor(System.Guid,Inno.Assets.AssetPath,Inno.Assets.AssetSourceKind,Inno.Assets.AssetImportStatus,System.String,System.Guid,Inno.Assets.AssetArtifactKey,Inno.Assets.AssetArtifactKey,System.Collections.Generic.IReadOnlyList{System.String})
+title: AssetInfo.Constructor
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: 7022b43876c11c9f1cb358de745e8d9a2d20a5a2a9275232e04316fb9de922de
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an asset information snapshot.

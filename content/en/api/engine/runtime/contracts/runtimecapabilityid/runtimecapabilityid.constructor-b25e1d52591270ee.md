@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b25e1d52591270ee094ed139b5e11cfbbf3d00b110ba3d8c9658215df68c67d6
-symbol: "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeCapabilityId.#ctor(System.String)"
-source: xml
-reviewed: bcf80f20616b77bae4c71df93d4f664ffb5b04a1376d64bbba33cb268c975f43
-title: "RuntimeCapabilityId.Constructor"
+symbol: engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeCapabilityId.#ctor(System.String)
+title: RuntimeCapabilityId.Constructor
 kind: api
-owners: [Inno.Runtime.Contracts]
+owners:
+- Inno.Runtime.Contracts
 apiSurface: source-clr
+reviewed: bcf80f20616b77bae4c71df93d4f664ffb5b04a1376d64bbba33cb268c975f43
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an open capability protocol identifier.

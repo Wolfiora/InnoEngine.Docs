@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f77715baec963370f7e3271abd151a4deab02160215a00ca05acb6a01c641e3b
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.TryIntersect(Inno.Core.Mathematics.Rect,Inno.Core.Mathematics.Rect,Inno.Core.Mathematics.Rect@)"
-source: xml
-reviewed: 97b5f431a87db6182b9eec195a552e667c483d74a84fa7bcfc8ad0e6e0b98956
-title: "Rect.TryIntersect"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.TryIntersect(Inno.Core.Mathematics.Rect,Inno.Core.Mathematics.Rect,Inno.Core.Mathematics.Rect@)
+title: Rect.TryIntersect
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 97b5f431a87db6182b9eec195a552e667c483d74a84fa7bcfc8ad0e6e0b98956
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Attempts to intersect without changing state when the operation cannot complete.

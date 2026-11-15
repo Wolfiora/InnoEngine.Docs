@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bd603fc6bd53561a50988b996c20b8e14fd510f5849843b10effb64e5abd9ba3
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.Transform.SetWorldTransform(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Quaternion,InnoEngine.Mathematics.Vector3)"
-source: xml
-reviewed: aeb2f44e602551862dda758468ae799016869b6e53174352446f88a76bfe2397
-title: "Transform.SetWorldTransform"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.Transform.SetWorldTransform(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Quaternion,InnoEngine.Mathematics.Vector3)
+title: Transform.SetWorldTransform
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: aeb2f44e602551862dda758468ae799016869b6e53174352446f88a76bfe2397
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Atomically applies world-space translation, rotation, and scale.

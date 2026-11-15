@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bf36bbc4191e210e4d9963fb7133a4410f0382fbbc8ba4d97e181898c02c8932
-symbol: "engine:Inno.Core.IO:P:Inno.Core.IO.OwnedReadStream.Position"
-source: xml
-reviewed: fe45fbdb489029613d865a55a75de59ad6e176b5a9c1ee2ec095843e1b87d8e1
-title: "OwnedReadStream.Position"
+symbol: engine:Inno.Core.IO:P:Inno.Core.IO.OwnedReadStream.Position
+title: OwnedReadStream.Position
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: fe45fbdb489029613d865a55a75de59ad6e176b5a9c1ee2ec095843e1b87d8e1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 When overridden in a derived class, gets or sets the position within the current stream.

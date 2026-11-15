@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1530995a13137cc107b4f347de20c566c21e24c6f52989ca89a4f561d9d72f69
-symbol: "scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.ListNavigationResult.toggle"
-source: xml
-reviewed: 7bfeb3f37b98ba523eb10ca26932e575c88a0a6f3ad097be67768a1dd646aa40
-title: "ListNavigationResult.toggle"
+symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.ListNavigationResult.toggle
+title: ListNavigationResult.toggle
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 7bfeb3f37b98ba523eb10ca26932e575c88a0a6f3ad097be67768a1dd646aa40
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether Space with the primary modifier requests toggling the focused entry.

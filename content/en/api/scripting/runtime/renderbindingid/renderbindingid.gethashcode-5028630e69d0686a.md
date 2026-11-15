@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5028630e69d0686a94364dfdf42ecb351bea833fa4f5956c388361e40538b5ab
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderBindingId.GetHashCode"
-source: xml
-reviewed: a4ed09f4b4255555b8093696f9d52ce1f2ce9627afd5adefd5c6e9404f330095
-title: "RenderBindingId.GetHashCode"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderBindingId.GetHashCode
+title: RenderBindingId.GetHashCode
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: a4ed09f4b4255555b8093696f9d52ce1f2ce9627afd5adefd5c6e9404f330095
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

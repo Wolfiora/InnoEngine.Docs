@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.450c835a0cc353316b3cbe25e6dd015509e0214b7015d46a6f1e6b842044f618
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.#ctor"
-source: xml
-reviewed: bf89d7e509b224bf315fe44ef96a83f1a5982be4af6968d346580909f34fb6d0
-title: "RenderCommandEncoder.Constructor"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.#ctor
+title: RenderCommandEncoder.Constructor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: bf89d7e509b224bf315fe44ef96a83f1a5982be4af6968d346580909f34fb6d0
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

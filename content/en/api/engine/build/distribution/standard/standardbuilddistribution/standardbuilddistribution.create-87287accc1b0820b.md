@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.87287accc1b0820b061a16a972e429cc5d2d6f649363907e4c7d14074e8f9adb
-symbol: "engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildDistribution.Create(Inno.Build.Composition.BuildCompositionContext,Inno.Build.Toolchains.Bgfx.Tools.ToolRunner)"
-source: xml
-reviewed: 7ef481d291cb8cfa0e8424be5535eeae0973bab304355c1cfc1ff6b1993addad
-title: "StandardBuildDistribution.Create"
+symbol: engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildDistribution.Create(Inno.Build.Composition.BuildCompositionContext,Inno.Build.Toolchains.Bgfx.Tools.ToolRunner)
+title: StandardBuildDistribution.Create
 kind: api
-owners: [Inno.Build.Distribution.Standard]
+owners:
+- Inno.Build.Distribution.Standard
 apiSurface: source-clr
+reviewed: 7ef481d291cb8cfa0e8424be5535eeae0973bab304355c1cfc1ff6b1993addad
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Composes one explicit binding per implemented platform without resolving tools.

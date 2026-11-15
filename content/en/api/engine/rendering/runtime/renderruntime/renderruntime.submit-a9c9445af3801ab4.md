@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a9c9445af3801ab4f0e3f3cf3c96fb42b4fa9cad60c6a74d8ad4f696332e7385
-symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRuntime.Submit(Inno.Rendering.Runtime.RenderRequest)"
-source: xml
-reviewed: 0826d912c70262cb040ff8afb52182b07aef635b6e21e3547975ea2657c79706
-title: "RenderRuntime.Submit"
+symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRuntime.Submit(Inno.Rendering.Runtime.RenderRequest)
+title: RenderRuntime.Submit
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: 0826d912c70262cb040ff8afb52182b07aef635b6e21e3547975ea2657c79706
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Submits validated work to the active backend for ordered processing.

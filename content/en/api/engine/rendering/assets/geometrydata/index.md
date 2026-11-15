@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.assets.c73466b8cb672553
-symbol: "engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.GeometryData"
-source: xml
-reviewed: 332ef7ed874447c2f68e3eaa42848ed27e86e09d0c91e600a1270a2066906ecf
-title: "GeometryData"
+symbol: engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.GeometryData
+title: GeometryData
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: 332ef7ed874447c2f68e3eaa42848ed27e86e09d0c91e600a1270a2066906ecf
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-rendering-assets
 aliases: []

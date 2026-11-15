@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4d7491fd0ddfbff360d1decf60cc11234159d8284c54b6a4560ff0a4227ab442
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.CreateComputePipelineHandle(System.UInt64,System.UInt32)"
-source: xml
-reviewed: 583691bdb5915edcc61a428084c4d76ec8057838f78fb5e6a58b6672c7d688fd
-title: "RenderDevice.CreateComputePipelineHandle"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.CreateComputePipelineHandle(System.UInt64,System.UInt32)
+title: RenderDevice.CreateComputePipelineHandle
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 583691bdb5915edcc61a428084c4d76ec8057838f78fb5e6a58b6672c7d688fd
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Encodes a compute pipeline identity into a backend-neutral handle.

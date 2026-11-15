@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.edfc3e6146b0f00956bbcd6f1978017715460646f6283bdbcd7d9870794dcb76
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiFontScope.Dispose"
-source: xml
-reviewed: 65eda26cd0e8fed8069f35481d07361646bac2403ea60cc1ba246e0e404545a2
-title: "ImGuiFontScope.Dispose"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiFontScope.Dispose
+title: ImGuiFontScope.Dispose
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 65eda26cd0e8fed8069f35481d07361646bac2403ea60cc1ba246e0e404545a2
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Restores the preceding font after validating scope order; default and retired scopes are inert.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.acdd91bc4c8d4b874acc3a333e92b4c1e3513416e05cfece70c631b895d768ac
-symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderOutputRoute.#ctor(System.Collections.Generic.IEnumerable{Inno.Rendering.Runtime.RenderOutputLayer})"
-source: xml
-reviewed: 5c8ab774b385d82610e8ebdef225246ae39b6f83602bfc22003d2b48322e4dbf
-title: "RenderOutputRoute.Constructor"
+symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderOutputRoute.#ctor(System.Collections.Generic.IEnumerable{Inno.Rendering.Runtime.RenderOutputLayer})
+title: RenderOutputRoute.Constructor
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: 5c8ab774b385d82610e8ebdef225246ae39b6f83602bfc22003d2b48322e4dbf
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a route from explicitly assigned model layers in draw order.

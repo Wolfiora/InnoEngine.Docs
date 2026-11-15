@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a85b74b9d2ecd8053d6107e6b794f92cdee6a1182dec03c0be160f8d3fd384d2
-symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.IEditorSceneWorkspace.CanEdit(Inno.Scene.GameScene)"
-source: xml
-reviewed: c99b859cb6f1b72ca0f36dc3c43c730c577c30dd7c063f3c8f345de5e3884a17
-title: "IEditorSceneWorkspace.CanEdit"
+symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.IEditorSceneWorkspace.CanEdit(Inno.Scene.GameScene)
+title: IEditorSceneWorkspace.CanEdit
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: source-clr
+reviewed: c99b859cb6f1b72ca0f36dc3c43c730c577c30dd7c063f3c8f345de5e3884a17
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether a loaded scene may be changed in the current Edit or isolated Play world.

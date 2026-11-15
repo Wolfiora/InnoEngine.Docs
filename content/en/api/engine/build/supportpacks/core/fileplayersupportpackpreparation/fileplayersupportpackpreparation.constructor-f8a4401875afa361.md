@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f8a4401875afa361d43a2d65f02ff86c0d4c704cd6119d8cedfdaacfb85a62b2
-symbol: "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.FilePlayerSupportPackPreparation.#ctor(Inno.Build.BuildTargetId,System.String,System.String,System.String,Inno.Build.IPlayerSupportPackValidator,System.String,System.String,Inno.Build.Toolchains.ProductNativeBuildPlan,Inno.Build.Toolchains.INativeProductExecutor,Inno.Build.Toolchains.INativeToolchainProvider,Inno.Build.Toolchains.BuildHostDescriptor,Inno.Build.Toolchains.INativeBindingGenerator,System.Collections.Generic.IReadOnlyList{System.String})"
-source: xml
-reviewed: f76c36ccf1864311225f7c3fdb0b63c77683ec7c0477bb80f166e923e3548f8d
-title: "FilePlayerSupportPackPreparation.Constructor"
+symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.FilePlayerSupportPackPreparation.#ctor(Inno.Build.BuildTargetId,System.String,System.String,System.String,Inno.Build.IPlayerSupportPackValidator,System.String,System.String,Inno.Build.Toolchains.ProductNativeBuildPlan,Inno.Build.Toolchains.INativeProductExecutor,Inno.Build.Toolchains.INativeToolchainProvider,Inno.Build.Toolchains.BuildHostDescriptor,Inno.Build.Toolchains.INativeBindingGenerator,System.Collections.Generic.IReadOnlyList{System.String})
+title: FilePlayerSupportPackPreparation.Constructor
 kind: api
-owners: [Inno.Build.SupportPacks.Core]
+owners:
+- Inno.Build.SupportPacks.Core
 apiSurface: source-clr
+reviewed: f76c36ccf1864311225f7c3fdb0b63c77683ec7c0477bb80f166e923e3548f8d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures the platform layout and validator without preparing any tools or files.

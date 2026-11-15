@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.38996519f7f9e95e8817e0937f697ff7f28e51499a297adaaca33c667fe0fb1f
-symbol: "engine:Inno.Audio.Assets:M:Inno.Audio.Assets.AudioClipImporter.ImportAsync(Inno.Assets.Pipeline.AssetImportContext,Inno.Assets.Pipeline.AssetImportWriter{Inno.Audio.AudioClipAsset},System.Threading.CancellationToken)"
-source: xml
-reviewed: 2b081739ad12fa9f6b680d98c59b7033e55f8eca7e8e760774cf31badc214c43
-title: "AudioClipImporter.ImportAsync"
+symbol: engine:Inno.Audio.Assets:M:Inno.Audio.Assets.AudioClipImporter.ImportAsync(Inno.Assets.Pipeline.AssetImportContext,Inno.Assets.Pipeline.AssetImportWriter{Inno.Audio.AudioClipAsset},System.Threading.CancellationToken)
+title: AudioClipImporter.ImportAsync
 kind: api
-owners: [Inno.Audio.Assets]
+owners:
+- Inno.Audio.Assets
 apiSurface: source-clr
+reviewed: 2b081739ad12fa9f6b680d98c59b7033e55f8eca7e8e760774cf31badc214c43
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Validates source metadata and emits the compact runtime and immutable encoded-data artifacts.

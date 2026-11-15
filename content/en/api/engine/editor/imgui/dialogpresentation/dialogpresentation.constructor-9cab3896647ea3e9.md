@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9cab3896647ea3e977121aded72bb712f067414c5dbad7b3b13ddc75dcba4326
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.DialogPresentation.#ctor(System.String,System.Nullable{System.Single},System.Boolean,System.String,System.Boolean,System.String,System.Boolean)"
-source: xml
-reviewed: 8be9b703bb39f871a161fbf3062a42398f2d79206229fb21f98031d43f5e1bb5
-title: "DialogPresentation.Constructor"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.DialogPresentation.#ctor(System.String,System.Nullable{System.Single},System.Boolean,System.String,System.Boolean,System.String,System.Boolean)
+title: DialogPresentation.Constructor
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 8be9b703bb39f871a161fbf3062a42398f2d79206229fb21f98031d43f5e1bb5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Describes immutable content for a measured message dialog. Actions are returned to its owner, never retained as callbacks.

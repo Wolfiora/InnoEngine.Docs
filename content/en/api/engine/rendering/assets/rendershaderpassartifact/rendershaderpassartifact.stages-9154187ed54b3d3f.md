@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9154187ed54b3d3f7b608d6b553bf9c255702eff725e76d3abf3333d0b8ee5dc
-symbol: "engine:Inno.Rendering.Assets:P:Inno.Rendering.Assets.RenderShaderPassArtifact.stages"
-source: xml
-reviewed: b89fa165934c25b3e9eca30c7e2e228819746f38623d4dccbf139f09b671af58
-title: "RenderShaderPassArtifact.stages"
+symbol: engine:Inno.Rendering.Assets:P:Inno.Rendering.Assets.RenderShaderPassArtifact.stages
+title: RenderShaderPassArtifact.stages
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: b89fa165934c25b3e9eca30c7e2e228819746f38623d4dccbf139f09b671af58
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the complete target stage binaries required by this pass.

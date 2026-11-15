@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2d4079b644baf2273163fc45cd4b75ac83b6d5f1638614461bbce45c4dfdd09e
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.Barycentric(System.Single,System.Single,System.Single,System.Single,System.Single)"
-source: xml
-reviewed: 1c50a27219215dce37ddf2824f4e157eada3aac1eb0681ad37f657f032f1f922
-title: "MathHelper.Barycentric"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.Barycentric(System.Single,System.Single,System.Single,System.Single,System.Single)
+title: MathHelper.Barycentric
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 1c50a27219215dce37ddf2824f4e157eada3aac1eb0681ad37f657f032f1f922
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the Cartesian coordinate for one axis of a point that is defined by a given triangle and two normalized barycentric (areal) coordinates.

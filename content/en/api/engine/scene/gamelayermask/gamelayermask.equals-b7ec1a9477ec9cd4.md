@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b7ec1a9477ec9cd4feaf31d99d199637c2cbe26d2b671649e23d1520840865b6
-symbol: "engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerMask.Equals(Inno.Scene.Layers.GameLayerMask)"
-source: xml
-reviewed: 0b80673377fdb927c76a1e4efb95288892e0adc2580a19176323b13b8545cb77
-title: "GameLayerMask.Equals"
+symbol: engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerMask.Equals(Inno.Scene.Layers.GameLayerMask)
+title: GameLayerMask.Equals
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 0b80673377fdb927c76a1e4efb95288892e0adc2580a19176323b13b8545cb77
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether another mask contains the same layer bits.

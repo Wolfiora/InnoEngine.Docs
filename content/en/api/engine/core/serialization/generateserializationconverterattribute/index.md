@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.serialization.11812311c3a25ad5
-symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.GenerateSerializationConverterAttribute"
-source: xml
-reviewed: c1d0b4386e7db4cb856bc360975d8e2a05dc1688b7dfb5fdfca1cd2fd3ac307c
-title: "GenerateSerializationConverterAttribute"
+symbol: engine:Inno.Core.Serialization:T:Inno.Core.Serialization.GenerateSerializationConverterAttribute
+title: GenerateSerializationConverterAttribute
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: c1d0b4386e7db4cb856bc360975d8e2a05dc1688b7dfb5fdfca1cd2fd3ac307c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []

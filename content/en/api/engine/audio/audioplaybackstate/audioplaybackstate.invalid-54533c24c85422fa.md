@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.54533c24c85422fae06a24b4753615303362a7d2958afe560213bf3e03d35923
-symbol: "engine:Inno.Audio:F:Inno.Audio.AudioPlaybackState.Invalid"
-source: xml
-reviewed: fe55479eb452dda787f21f5e46dd3d2d581453fb97c39d929f6fa2b6b32beb73
-title: "AudioPlaybackState.Invalid"
+symbol: engine:Inno.Audio:F:Inno.Audio.AudioPlaybackState.Invalid
+title: AudioPlaybackState.Invalid
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: fe55479eb452dda787f21f5e46dd3d2d581453fb97c39d929f6fa2b6b32beb73
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The handle is invalid, stale, or unknown to the active runtime.

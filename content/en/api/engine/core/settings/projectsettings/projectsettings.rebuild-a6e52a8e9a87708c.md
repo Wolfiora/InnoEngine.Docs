@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a6e52a8e9a87708c183dd297117c2849c810bdc36158dac4493264ae22f7917a
-symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettings.Rebuild(System.Collections.Generic.IReadOnlyList{Inno.Core.Settings.ProjectSettingsContributor},System.Boolean)"
-source: xml
-reviewed: 9983951695a5f41f8f676a25b58bd00ce38242e95f4647f6e0e2201beb5d69e4
-title: "ProjectSettings.Rebuild"
+symbol: engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettings.Rebuild(System.Collections.Generic.IReadOnlyList{Inno.Core.Settings.ProjectSettingsContributor},System.Boolean)
+title: ProjectSettings.Rebuild
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: source-clr
+reviewed: 9983951695a5f41f8f676a25b58bd00ce38242e95f4647f6e0e2201beb5d69e4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Atomically rebuilds effective settings for a new extension generation.

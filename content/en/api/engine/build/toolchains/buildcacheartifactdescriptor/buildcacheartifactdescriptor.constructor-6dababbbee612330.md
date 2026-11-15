@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6dababbbee6123309845242241a4ccbc0669934510504d0d33244e51dd495b70
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCacheArtifactDescriptor.#ctor(System.String,System.String,System.String,System.Int64,System.DateTime,System.Collections.Generic.IReadOnlyList{System.String},Inno.Build.Toolchains.BuildCacheArtifactRole)"
-source: xml
-reviewed: c493ffd5565976066af88a34963c1a3e8357b611fdc704488fb6850e0ced492c
-title: "BuildCacheArtifactDescriptor.Constructor"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCacheArtifactDescriptor.#ctor(System.String,System.String,System.String,System.Int64,System.DateTime,System.Collections.Generic.IReadOnlyList{System.String},Inno.Build.Toolchains.BuildCacheArtifactRole)
+title: BuildCacheArtifactDescriptor.Constructor
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: c493ffd5565976066af88a34963c1a3e8357b611fdc704488fb6850e0ced492c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Freezes ownership metadata supplied by the artifact's actual publisher.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cf7d86c3e30243b7744fa355e5d79f96186bfcfc47c522b9e6cf01c7c554eac3
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector4Int.op_Division(InnoEngine.Mathematics.Vector4Int,System.Int32)"
-source: xml
-reviewed: 23b14e01160b08fdafa33c75c528122740619f3cdcf08e7179682b7ed1f6c7f8
-title: "Vector4Int.op_Division"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector4Int.op_Division(InnoEngine.Mathematics.Vector4Int,System.Int32)
+title: Vector4Int.op_Division
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 23b14e01160b08fdafa33c75c528122740619f3cdcf08e7179682b7ed1f6c7f8
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Divides the supplied value by the scalar divisor component by component.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4e13d0aa78f9fbd2b026edfbb3a840f03565b3aba8473f937affcc8a755a634a
-symbol: "scripting:Inno.Animation:P:InnoEngine.Animation.AnimationValue.w"
-source: xml
-reviewed: 2d252907bfb0abad14d6e9040b2eebbac4fd632ac196cd05440bc0daf9e5dfe4
-title: "AnimationValue.w"
+symbol: scripting:Inno.Animation:P:InnoEngine.Animation.AnimationValue.w
+title: AnimationValue.w
 kind: api
-owners: [Inno.Animation]
+owners:
+- Inno.Animation
 apiSurface: editor-script
+reviewed: 2d252907bfb0abad14d6e9040b2eebbac4fd632ac196cd05440bc0daf9e5dfe4
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets the fourth component.

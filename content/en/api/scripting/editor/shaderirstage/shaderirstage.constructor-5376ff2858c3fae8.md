@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5376ff2858c3fae84317cbebb4f7a88d6f47be5470a7f3515ae5ee5bd212735e
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrStage.#ctor(InnoEngine.Rendering.ShaderStage,InnoEditor.Rendering.Shaders.ShaderIrBlock,System.Collections.Generic.IEnumerable{InnoEditor.Rendering.Shaders.ShaderIrStageInput},System.Collections.Generic.IEnumerable{InnoEditor.Rendering.Shaders.ShaderIrStageOutput},System.Int32,System.Int32,System.Int32)"
-source: xml
-reviewed: aec5cdeac1e24efbf7811aedbb1b11ee8678860521d9e08e3c07dc2be50226c3
-title: "ShaderIrStage.Constructor"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrStage.#ctor(InnoEngine.Rendering.ShaderStage,InnoEditor.Rendering.Shaders.ShaderIrBlock,System.Collections.Generic.IEnumerable{InnoEditor.Rendering.Shaders.ShaderIrStageInput},System.Collections.Generic.IEnumerable{InnoEditor.Rendering.Shaders.ShaderIrStageOutput},System.Int32,System.Int32,System.Int32)
+title: ShaderIrStage.Constructor
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: aec5cdeac1e24efbf7811aedbb1b11ee8678860521d9e08e3c07dc2be50226c3
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Validates and freezes a single stage's interface and ordered body.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a1ec232cd2ce7e6a5ac2a977927a772bfb9b7a5b2aecd04a1819447d32354d2e
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.OwnedReadStream.Read(System.Byte[],System.Int32,System.Int32)"
-source: xml
-reviewed: 1a315f4e03b3b530450b4f0ff185000cc04c130048b72190724b6f59dfc79d88
-title: "OwnedReadStream.Read"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.OwnedReadStream.Read(System.Byte[],System.Int32,System.Int32)
+title: OwnedReadStream.Read
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: 1a315f4e03b3b530450b4f0ff185000cc04c130048b72190724b6f59dfc79d88
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 When overridden in a derived class, reads a sequence of bytes from the current stream and advances the position within the stream by the number of bytes read.

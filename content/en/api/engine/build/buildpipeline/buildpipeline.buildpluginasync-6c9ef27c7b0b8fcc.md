@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6c9ef27c7b0b8fccecc9dd8ea0e298dc43f5c4a660e4fccb77688bc76b1e33c9
-symbol: "engine:Inno.Build:M:Inno.Build.BuildPipeline.BuildPluginAsync(Inno.Build.PluginBuildRequest,System.IProgress{Inno.Build.BuildProgress},System.Threading.CancellationToken)"
-source: xml
-reviewed: eeb5535b7e0f3a66be63e283cdb9c12a643e14843fab559b7116525e936f6eda
-title: "BuildPipeline.BuildPluginAsync"
+symbol: engine:Inno.Build:M:Inno.Build.BuildPipeline.BuildPluginAsync(Inno.Build.PluginBuildRequest,System.IProgress{Inno.Build.BuildProgress},System.Threading.CancellationToken)
+title: BuildPipeline.BuildPluginAsync
 kind: api
-owners: [Inno.Build]
+owners:
+- Inno.Build
 apiSurface: source-clr
+reviewed: eeb5535b7e0f3a66be63e283cdb9c12a643e14843fab559b7116525e936f6eda
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Builds and atomically commits one deterministic project Plugin package.

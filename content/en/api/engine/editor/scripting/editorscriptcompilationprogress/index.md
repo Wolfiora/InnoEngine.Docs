@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.scripting.1f76146da52f7886
-symbol: "engine:Inno.Editor.Scripting:T:Inno.Editor.Scripting.EditorScriptCompilationProgress"
-source: xml
-reviewed: 009ca305391171e674aa1183f3449d5eae7907eb7b58b11b4cf14cd1c0bc9125
-title: "EditorScriptCompilationProgress"
+symbol: engine:Inno.Editor.Scripting:T:Inno.Editor.Scripting.EditorScriptCompilationProgress
+title: EditorScriptCompilationProgress
 kind: api
-owners: [Inno.Editor.Scripting]
+owners:
+- Inno.Editor.Scripting
 apiSurface: source-clr
+reviewed: 009ca305391171e674aa1183f3449d5eae7907eb7b58b11b4cf14cd1c0bc9125
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-editor-scripting
 aliases: []

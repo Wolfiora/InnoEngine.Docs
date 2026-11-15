@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.796c58380aa882dbe117836b3ad630a63b70192a56813cfa7d807a3da0ac74c1
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.CaptureSnapshot\u0060\u00601(\u0060\u00600,Inno.Core.Serialization.SerializationContext,Inno.Core.Serialization.SerializationSnapshot)"
-source: xml
-reviewed: 7b040ca8f85b199c1ebbea779cd525c70506f3dc1b1a445f3cede55661f93207
-title: "SerializationRegistry.CaptureSnapshot"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.CaptureSnapshot``1(``0,Inno.Core.Serialization.SerializationContext,Inno.Core.Serialization.SerializationSnapshot)
+title: SerializationRegistry.CaptureSnapshot
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: 7b040ca8f85b199c1ebbea779cd525c70506f3dc1b1a445f3cede55661f93207
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures complete serialized state while sharing unchanged neutral values with a previous capture.

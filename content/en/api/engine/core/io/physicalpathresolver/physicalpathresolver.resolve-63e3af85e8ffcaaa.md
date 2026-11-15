@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.63e3af85e8ffcaaaa477fb174967e5489ba1b698e8cf6ee1f990dc1e6098716a
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.PhysicalPathResolver.Resolve(System.String)"
-source: xml
-reviewed: 22241693eda6d3bcac90839b9ac3dac27de3c28ec1ab6051d49051f3a9b7b11d
-title: "PhysicalPathResolver.Resolve"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.PhysicalPathResolver.Resolve(System.String)
+title: PhysicalPathResolver.Resolve
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: 22241693eda6d3bcac90839b9ac3dac27de3c28ec1ab6051d49051f3a9b7b11d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves existing link components and retains their observed physical spelling for this phase.

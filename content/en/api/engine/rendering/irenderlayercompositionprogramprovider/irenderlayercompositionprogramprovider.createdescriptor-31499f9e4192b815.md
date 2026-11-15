@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.31499f9e4192b8150c8cfe2bdabb8ff5d7fc9ab24c3d8fa1e587c158557fa9cf
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.IRenderLayerCompositionProgramProvider.CreateDescriptor(Inno.Rendering.GraphicsCapabilities,Inno.Rendering.RenderVertexLayout)"
-source: xml
-reviewed: 94de05e050dc5d971facefef5852421c9100dcbaad046373ea040115d7164f2b
-title: "IRenderLayerCompositionProgramProvider.CreateDescriptor"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.IRenderLayerCompositionProgramProvider.CreateDescriptor(Inno.Rendering.GraphicsCapabilities,Inno.Rendering.RenderVertexLayout)
+title: IRenderLayerCompositionProgramProvider.CreateDescriptor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 94de05e050dc5d971facefef5852421c9100dcbaad046373ea040115d7164f2b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a pipeline descriptor compatible with the supplied fullscreen vertex layout.

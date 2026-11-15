@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.build.tasks.8c2e8f3c7f71bbe4
-symbol: "engine:Inno.Build.Tasks:T:Inno.Build.Tasks.PublishSupportPackTask"
-source: xml
-reviewed: aa79c87b3cab90e6f20210f316ee58ae92fa2c3d77b3afd0fcc05ca45dad00b4
-title: "PublishSupportPackTask"
+symbol: engine:Inno.Build.Tasks:T:Inno.Build.Tasks.PublishSupportPackTask
+title: PublishSupportPackTask
 kind: api
-owners: [Inno.Build.Tasks]
+owners:
+- Inno.Build.Tasks
 apiSurface: source-clr
+reviewed: aa79c87b3cab90e6f20210f316ee58ae92fa2c3d77b3afd0fcc05ca45dad00b4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-build-tasks
 aliases: []

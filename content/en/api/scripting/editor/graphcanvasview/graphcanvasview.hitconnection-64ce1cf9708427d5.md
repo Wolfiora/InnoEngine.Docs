@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.64ce1cf9708427d5b866f476cf0c5c9a7cd0e413b2d1da0d12b6076415444bd6
-symbol: "scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasView.HitConnection(System.Numerics.Vector2,System.Numerics.Vector2,System.Numerics.Vector2,System.Single)"
-source: xml
-reviewed: 69111ef787f0d721613a28dd7dd871602da0daf89e4c39371b18b29dbf815266
-title: "GraphCanvasView.HitConnection"
+symbol: scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasView.HitConnection(System.Numerics.Vector2,System.Numerics.Vector2,System.Numerics.Vector2,System.Single)
+title: GraphCanvasView.HitConnection
 kind: api
-owners: [Inno.Editor.Graph.ImGui]
+owners:
+- Inno.Editor.Graph.ImGui
 apiSurface: editor-script
+reviewed: 69111ef787f0d721613a28dd7dd871602da0daf89e4c39371b18b29dbf815266
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Checks pointer distance against the displayed cubic connection without any UI or document access.

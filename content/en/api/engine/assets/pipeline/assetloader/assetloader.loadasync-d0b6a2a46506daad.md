@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d0b6a2a46506daad4ef89eef8336b1e150c83362ffa1967585e6cd88696aa2ba
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.LoadAsync(Inno.Assets.AssetPath,System.Type,System.Threading.CancellationToken)"
-source: xml
-reviewed: 8a5fc86e4db647bcba8db669e7053648df8f85821693279bda400074a603efda
-title: "AssetLoader.LoadAsync"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.LoadAsync(Inno.Assets.AssetPath,System.Type,System.Threading.CancellationToken)
+title: AssetLoader.LoadAsync
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 8a5fc86e4db647bcba8db669e7053648df8f85821693279bda400074a603efda
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Asynchronously loads a canonical asset by isolated source path.

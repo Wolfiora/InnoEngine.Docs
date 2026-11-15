@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.89821fafe06184dd622527bf05f80fdbac7555afad5f495994eedd9bf741d831
-symbol: "scripting:Inno.UI:M:InnoEngine.UI.IUiService.HasElementAtPoint(InnoEngine.UI.UiContextHandle,InnoEngine.Mathematics.Vector2)"
-source: xml
-reviewed: d26dce47aa7a54b23e8cfce9a44db136980954784ddde6cac434a9703fa2e010
-title: "IUiService.HasElementAtPoint"
+symbol: scripting:Inno.UI:M:InnoEngine.UI.IUiService.HasElementAtPoint(InnoEngine.UI.UiContextHandle,InnoEngine.Mathematics.Vector2)
+title: IUiService.HasElementAtPoint
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: d26dce47aa7a54b23e8cfce9a44db136980954784ddde6cac434a9703fa2e010
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tests whether a visible document element receives pointer events at a pixel location.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b7f0bc599aa161b093739eb331cd280fb3aff4a2cdd1c5cacd1b98c5b64ef846
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderFeatureConfiguration.#ctor(System.String,System.Nullable{Inno.Rendering.Assets.SerializedRenderExtensionState},System.Boolean)"
-source: xml
-reviewed: f5d00ebabf702282118c8f84f68c12241bef3533fab17485813f1c0765a6a000
-title: "RenderFeatureConfiguration.Constructor"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderFeatureConfiguration.#ctor(System.String,System.Nullable{Inno.Rendering.Assets.SerializedRenderExtensionState},System.Boolean)
+title: RenderFeatureConfiguration.Constructor
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: f5d00ebabf702282118c8f84f68c12241bef3533fab17485813f1c0765a6a000
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a feature configuration.

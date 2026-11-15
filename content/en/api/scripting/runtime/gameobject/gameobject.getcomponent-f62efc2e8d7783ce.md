@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f62efc2e8d7783ce0ec0820cf5013e0bc57e1a42ac82f571562c3e928e29124a
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameObject.GetComponent\u0060\u00601"
-source: xml
-reviewed: 929d46e254f6841331056cd04e603d0652afc6086020c35eafb6a06d13ee4679
-title: "GameObject.GetComponent"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameObject.GetComponent``1
+title: GameObject.GetComponent
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: 929d46e254f6841331056cd04e603d0652afc6086020c35eafb6a06d13ee4679
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the first attached component assignable to the requested type.

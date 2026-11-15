@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6ba7e91b43215afd50e30e4e99980c9ab6b970623b1a2863b501fdf7143743d0
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.SceneManager.LoadNewScene(System.String)"
-source: xml
-reviewed: df9bb2b771702b6e761ee10f95b90faf257885ec5b6909e422e71d1f65bb2599
-title: "SceneManager.LoadNewScene"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.SceneManager.LoadNewScene(System.String)
+title: SceneManager.LoadNewScene
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: df9bb2b771702b6e761ee10f95b90faf257885ec5b6909e422e71d1f65bb2599
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates and loads a new active scene in the current runtime session.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.603c233bda6c2b48b51dddc781f208a78da3373f6335c532b582434a590c2d7c
-symbol: "engine:Inno.Build.Managed:M:Inno.Build.Managed.IManagedDeploymentCompiler.CompileAsync(Inno.Build.Managed.ManagedDeploymentRequest,System.Threading.CancellationToken)"
-source: xml
-reviewed: cbd945e2edeb3a8455eb0c402589f7ae5197e41e2ee3262a703e978b14b70167
-title: "IManagedDeploymentCompiler.CompileAsync"
+symbol: engine:Inno.Build.Managed:M:Inno.Build.Managed.IManagedDeploymentCompiler.CompileAsync(Inno.Build.Managed.ManagedDeploymentRequest,System.Threading.CancellationToken)
+title: IManagedDeploymentCompiler.CompileAsync
 kind: api
-owners: [Inno.Build.Managed]
+owners:
+- Inno.Build.Managed
 apiSurface: source-clr
+reviewed: cbd945e2edeb3a8455eb0c402589f7ae5197e41e2ee3262a703e978b14b70167
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Compiles or publishes the prepared code closure into isolated managed staging.

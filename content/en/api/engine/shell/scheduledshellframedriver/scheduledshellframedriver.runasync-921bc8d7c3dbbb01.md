@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.921bc8d7c3dbbb014b1a3d90814cc94828c2fdf43f2010d30a69a434b7762f88
-symbol: "engine:Inno.Shell:M:Inno.Shell.ScheduledShellFrameDriver.RunAsync(System.Func{System.Boolean},System.Threading.CancellationToken)"
-source: xml
-reviewed: 3047c88921086cf17c57ad6a7f5df05cf48dc4b6e1b49276dc3ca33c221940f8
-title: "ScheduledShellFrameDriver.RunAsync"
+symbol: engine:Inno.Shell:M:Inno.Shell.ScheduledShellFrameDriver.RunAsync(System.Func{System.Boolean},System.Threading.CancellationToken)
+title: ScheduledShellFrameDriver.RunAsync
 kind: api
-owners: [Inno.Shell]
+owners:
+- Inno.Shell
 apiSurface: source-clr
+reviewed: 3047c88921086cf17c57ad6a7f5df05cf48dc4b6e1b49276dc3ca33c221940f8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Advances frames until the callback stops the loop, cancellation is requested or a callback fails.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0c9b34c1a9fa231a8a22ba975186b6f99806cd303414954bfdf2736a5f193564
-symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingComposer\u00602.IsEmpty(\u00601)"
-source: xml
-reviewed: 148e717123663bd2ae3ed466187865e8e34312a58420af10a27b8eb307195d40
-title: "ProjectSettingComposer\u003CTSetting, TContribution\u003E.IsEmpty"
+symbol: engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingComposer`2.IsEmpty(`1)
+title: ProjectSettingComposer<TSetting, TContribution>.IsEmpty
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: source-clr
+reviewed: 148e717123663bd2ae3ed466187865e8e34312a58420af10a27b8eb307195d40
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether a captured contribution contains no semantic operation.

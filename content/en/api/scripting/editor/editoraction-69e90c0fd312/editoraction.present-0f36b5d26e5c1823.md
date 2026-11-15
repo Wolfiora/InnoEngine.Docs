@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0f36b5d26e5c1823578c5b330f98bd7c8c4245dd86fcefd41210352bb0c0d09a
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorAction\u00601.Present(InnoEditor.Interactions.EditorActionContext)"
-source: xml
-reviewed: 9f5f07f10e2beaa94a652d78c84e2dbd8bb68d347d7ce7b7cd794b1d049f34ee
-title: "EditorAction\u003CTTarget\u003E.Present"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorAction`1.Present(InnoEditor.Interactions.EditorActionContext)
+title: EditorAction<TTarget>.Present
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 9f5f07f10e2beaa94a652d78c84e2dbd8bb68d347d7ce7b7cd794b1d049f34ee
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Presents this action through the current editor interaction surface.

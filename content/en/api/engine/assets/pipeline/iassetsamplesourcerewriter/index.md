@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.assets.pipeline.6afc39e342818763
-symbol: "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.IAssetSampleSourceRewriter"
-source: xml
-reviewed: 4619b224dd9f49169e1594236318d4381f5354a6eb2670769c34b1e2150a1e99
-title: "IAssetSampleSourceRewriter"
+symbol: engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.IAssetSampleSourceRewriter
+title: IAssetSampleSourceRewriter
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 4619b224dd9f49169e1594236318d4381f5354a6eb2670769c34b1e2150a1e99
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-assets-pipeline
 aliases: []

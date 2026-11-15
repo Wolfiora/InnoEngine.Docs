@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.build.b4f67d09390b1761
-symbol: "engine:Inno.Build:T:Inno.Build.GameBuildRequest"
-source: xml
-reviewed: b46845a1c07597c26eb9a8344ba7da7414a1c5ba2fcc7c86000b4d3f9026b9c7
-title: "GameBuildRequest"
+symbol: engine:Inno.Build:T:Inno.Build.GameBuildRequest
+title: GameBuildRequest
 kind: api
-owners: [Inno.Build]
+owners:
+- Inno.Build
 apiSurface: source-clr
+reviewed: b46845a1c07597c26eb9a8344ba7da7414a1c5ba2fcc7c86000b4d3f9026b9c7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-build
 aliases: []

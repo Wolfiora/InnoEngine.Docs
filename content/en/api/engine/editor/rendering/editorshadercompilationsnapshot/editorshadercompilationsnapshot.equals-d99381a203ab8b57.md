@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d99381a203ab8b578cae65e9d0ac05676094ca5a37a3a533c19c9be4e5ef1667
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorShaderCompilationSnapshot.Equals(System.Object)"
-source: xml
-reviewed: 504525a8c9e162660280cfda37d9b99caf9f90313b8e32034532f55a4ddc237c
-title: "EditorShaderCompilationSnapshot.Equals"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorShaderCompilationSnapshot.Equals(System.Object)
+title: EditorShaderCompilationSnapshot.Equals
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 504525a8c9e162660280cfda37d9b99caf9f90313b8e32034532f55a4ddc237c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether the specified object is equal to the current object.

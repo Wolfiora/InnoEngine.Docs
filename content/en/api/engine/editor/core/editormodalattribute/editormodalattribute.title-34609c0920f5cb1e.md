@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.34609c0920f5cb1e48630401258ca205a08b37ac4dcaebb25604c302c1840cf3
-symbol: "engine:Inno.Editor.Core:P:Inno.Editor.Core.EditorModalAttribute.title"
-source: xml
-reviewed: 84cf028f45fc63091eb1e751d25d621004b07042486cbe6629b3c64a7b8797b2
-title: "EditorModalAttribute.title"
+symbol: engine:Inno.Editor.Core:P:Inno.Editor.Core.EditorModalAttribute.title
+title: EditorModalAttribute.title
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: source-clr
+reviewed: 84cf028f45fc63091eb1e751d25d621004b07042486cbe6629b3c64a7b8797b2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the visible modal title.

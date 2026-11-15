@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6654aaa3108aca1e7e333b69bad26215edd4255728a6a2a88176f026f5069687
-symbol: "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystem.OnBeginFrame(Inno.Runtime.Contracts.RuntimeFrame)"
-source: xml
-reviewed: 5bbd4b4a3b49b0aa74857d96cff04736c5a951db4850a605f1ad641a62163b23
-title: "RuntimeSubsystem.OnBeginFrame"
+symbol: engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystem.OnBeginFrame(Inno.Runtime.Contracts.RuntimeFrame)
+title: RuntimeSubsystem.OnBeginFrame
 kind: api
-owners: [Inno.Runtime.Contracts]
+owners:
+- Inno.Runtime.Contracts
 apiSurface: source-clr
+reviewed: 5bbd4b4a3b49b0aa74857d96cff04736c5a951db4850a605f1ad641a62163b23
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures snapshots and binds service façades.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.357ce9d0546a0706c2c20f144d63f35ae45bcf302823b6a75c9afe2b8a7d5489
-symbol: "engine:Inno.Scene:M:Inno.Scene.ScenePropertySerialization.CaptureProperties(Inno.Scene.EngineObject,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)"
-source: xml
-reviewed: 31425b92588ae1bd09fb53a3f546924dc416cbf010e55af28222ed76430a768d
-title: "ScenePropertySerialization.CaptureProperties"
+symbol: engine:Inno.Scene:M:Inno.Scene.ScenePropertySerialization.CaptureProperties(Inno.Scene.EngineObject,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)
+title: ScenePropertySerialization.CaptureProperties
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 31425b92588ae1bd09fb53a3f546924dc416cbf010e55af28222ed76430a768d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures all persistent properties without serializing the complete scene.

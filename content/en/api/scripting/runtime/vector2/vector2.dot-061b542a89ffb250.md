@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.061b542a89ffb250a42a319ea9d2d38e8fb8bbaa752af30b05a8bc8641591d8a
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2.Dot(InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Vector2)"
-source: xml
-reviewed: dff20d454aa3e5d2fabb9815c1f78cd813ce45114025649db72dd0d42fec7c6b
-title: "Vector2.Dot"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2.Dot(InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Vector2)
+title: Vector2.Dot
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: dff20d454aa3e5d2fabb9815c1f78cd813ce45114025649db72dd0d42fec7c6b
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Calculates the scalar dot product of two values.

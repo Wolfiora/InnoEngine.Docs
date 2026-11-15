@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.552185dd2fce1b463eabfacf8c5746b983e23d2a88c4416dea46581df525ade2
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.WrappedText(System.String,System.Single)"
-source: xml
-reviewed: 89786270e4ec8b3a3415f09cc20948cccfd94d46b17bd733e1ab2dc46ba87337
-title: "ImGuiWidget.WrappedText"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.WrappedText(System.String,System.Single)
+title: ImGuiWidget.WrappedText
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 89786270e4ec8b3a3415f09cc20948cccfd94d46b17bd733e1ab2dc46ba87337
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws literal text at an explicitly measured wrap width, independent of a scrolling window's virtual content extent.

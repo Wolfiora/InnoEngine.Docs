@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cf853c40377a10d6e76866145ec98723612f6fb83319c866bf230beb6cb5c331
-symbol: "engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectStore\u00601.FindFast\u0060\u00601(Inno.Core.Collections.IndexedObjectKey{\u0060\u00600},\u0060\u00600)"
-source: xml
-reviewed: 564c8968facc481246de679a902b443037ac76355181c4943615680e4f525406
-title: "IndexedObjectStore\u003CT\u003E.FindFast"
+symbol: engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectStore`1.FindFast``1(Inno.Core.Collections.IndexedObjectKey{``0},``0)
+title: IndexedObjectStore<T>.FindFast
 kind: api
-owners: [Inno.Core.Collections]
+owners:
+- Inno.Core.Collections
 apiSurface: source-clr
+reviewed: 564c8968facc481246de679a902b443037ac76355181c4943615680e4f525406
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Finds items by key and returns a lazy fail-fast enumerable.

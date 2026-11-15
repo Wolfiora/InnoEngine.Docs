@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.shaders.imgui.editor-script.78f13d4d057ba2a2
-symbol: "scripting:Inno.Editor.Shaders.ImGui:T:InnoEditor.Shaders.ShaderPropertyInspector"
-source: xml
-reviewed: aa7f7f98246e56d8655f4f0205f893af8f53a23c6f36b6aa0f1e1b9edd0f043d
-title: "ShaderPropertyInspector"
+symbol: scripting:Inno.Editor.Shaders.ImGui:T:InnoEditor.Shaders.ShaderPropertyInspector
+title: ShaderPropertyInspector
 kind: api
-owners: [Inno.Editor.Shaders.ImGui]
+owners:
+- Inno.Editor.Shaders.ImGui
 apiSurface: editor-script
+reviewed: aa7f7f98246e56d8655f4f0205f893af8f53a23c6f36b6aa0f1e1b9edd0f043d
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-editor-shaders-imgui

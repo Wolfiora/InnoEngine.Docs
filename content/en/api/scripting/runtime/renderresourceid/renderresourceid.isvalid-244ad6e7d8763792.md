@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.244ad6e7d87637928742bfe91fb26c6977ed0e7e6089aac3b6bbbb8435e91689
-symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderResourceId.isValid"
-source: xml
-reviewed: 8a078905e0fef463c5fbff987602afca1c5bcf9eee921aa8f2558ebda27585dd
-title: "RenderResourceId.isValid"
+symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderResourceId.isValid
+title: RenderResourceId.isValid
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 8a078905e0fef463c5fbff987602afca1c5bcf9eee921aa8f2558ebda27585dd
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether the identifier contains a protocol value.

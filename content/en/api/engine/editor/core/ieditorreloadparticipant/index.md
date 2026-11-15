@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.core.fa4de390b36f1fe8
-symbol: "engine:Inno.Editor.Core:T:Inno.Editor.Core.IEditorReloadParticipant"
-source: xml
-reviewed: eeee60132066a8259147c97e8dc834c7fa10ecc1fdc46d95b391745a89282c7a
-title: "IEditorReloadParticipant"
+symbol: engine:Inno.Editor.Core:T:Inno.Editor.Core.IEditorReloadParticipant
+title: IEditorReloadParticipant
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: source-clr
+reviewed: eeee60132066a8259147c97e8dc834c7fa10ecc1fdc46d95b391745a89282c7a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - api.projects.inno-editor-core#lifecycle-and-failure-contracts
 aliases: []

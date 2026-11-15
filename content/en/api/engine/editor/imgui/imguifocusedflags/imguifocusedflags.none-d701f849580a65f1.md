@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d701f849580a65f14b0b88bde06696fc6cd1bd758f39f281a21ae927651e0548
-symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiFocusedFlags.None"
-source: xml
-reviewed: 332181a9e02b916cd3b2bd16c32336264d74b5c256cb629bcccb63af92f2a7e5
-title: "ImGuiFocusedFlags.None"
+symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiFocusedFlags.None
+title: ImGuiFocusedFlags.None
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 332181a9e02b916cd3b2bd16c32336264d74b5c256cb629bcccb63af92f2a7e5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Uses the ordinary behavior without additional options.

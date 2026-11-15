@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f41c59cda1910e0ec9b23a2df878a07dbda47f2ccc2a0ddc2d218394166a3ae1
-symbol: "engine:Inno.Assets:M:Inno.Assets.AssetSourceId.Equals(System.Object)"
-source: xml
-reviewed: 82cbca6587a0f012d023e54b0bea0683b6150ff5989fbee0efca37683ed0725d
-title: "AssetSourceId.Equals"
+symbol: engine:Inno.Assets:M:Inno.Assets.AssetSourceId.Equals(System.Object)
+title: AssetSourceId.Equals
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: 82cbca6587a0f012d023e54b0bea0683b6150ff5989fbee0efca37683ed0725d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

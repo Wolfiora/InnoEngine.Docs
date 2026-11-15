@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e7dae0a690f1e52d1f25b113d051d9d9ca1072ed1a814ceec0d5571a82c5bead
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.PersistentTextureHandle.Equals(System.Object)"
-source: xml
-reviewed: a3dff0c76327e27ad67318e14ea86cee4db60e33a49238fceadcf18f50363eec
-title: "PersistentTextureHandle.Equals"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.PersistentTextureHandle.Equals(System.Object)
+title: PersistentTextureHandle.Equals
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: a3dff0c76327e27ad67318e14ea86cee4db60e33a49238fceadcf18f50363eec
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

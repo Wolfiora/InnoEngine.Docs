@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1c8d08eaa35fe1955e076d97de9b47035886a3e3b1cb34b634d418efc8ee2259
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceType.Structure(System.String,System.Collections.Generic.IEnumerable{InnoEditor.Rendering.Shaders.ShaderSourceField})"
-source: xml
-reviewed: 2e540513f3140d48dbc8ab8a02ad4366236f6940800c7b526101b2f7000e2083
-title: "ShaderSourceType.Structure"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceType.Structure(System.String,System.Collections.Generic.IEnumerable{InnoEditor.Rendering.Shaders.ShaderSourceField})
+title: ShaderSourceType.Structure
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 2e540513f3140d48dbc8ab8a02ad4366236f6940800c7b526101b2f7000e2083
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a nominal structure with a validated immutable field layout.

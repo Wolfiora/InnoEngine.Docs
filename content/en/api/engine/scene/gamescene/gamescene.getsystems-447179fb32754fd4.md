@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.447179fb32754fd4644be3b676b98ff4b1131f7e1e43bda1d7672eae55b86682
-symbol: "engine:Inno.Scene:M:Inno.Scene.GameScene.GetSystems"
-source: xml
-reviewed: afc61048b70e715bf70e9e8a703d4fbc5d991ac472e4b8e0d3198598f15e30af
-title: "GameScene.GetSystems"
+symbol: engine:Inno.Scene:M:Inno.Scene.GameScene.GetSystems
+title: GameScene.GetSystems
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: afc61048b70e715bf70e9e8a703d4fbc5d991ac472e4b8e0d3198598f15e30af
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets registered systems in display and serialization order. Explicit `P:Inno.Scene.GameSystem.order` values independently control lifecycle execution priority.

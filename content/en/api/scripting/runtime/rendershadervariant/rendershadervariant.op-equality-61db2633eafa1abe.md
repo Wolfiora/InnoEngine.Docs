@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.61db2633eafa1abef4ec54859a0867027b475d6d50841e391e8c85ff234e6602
-symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.RenderShaderVariant.op_Equality(InnoEngine.Rendering.RenderShaderVariant,InnoEngine.Rendering.RenderShaderVariant)"
-source: xml
-reviewed: 1ec71408057d8a8a09001b6c8e147d9909019ff802129df6c85b705c75c39d4b
-title: "RenderShaderVariant.op_Equality"
+symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.RenderShaderVariant.op_Equality(InnoEngine.Rendering.RenderShaderVariant,InnoEngine.Rendering.RenderShaderVariant)
+title: RenderShaderVariant.op_Equality
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: editor-script
+reviewed: 1ec71408057d8a8a09001b6c8e147d9909019ff802129df6c85b705c75c39d4b
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether two variants select identical stable options.

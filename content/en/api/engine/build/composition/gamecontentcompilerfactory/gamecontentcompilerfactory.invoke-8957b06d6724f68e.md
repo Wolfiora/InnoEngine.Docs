@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8957b06d6724f68ec27419f9d5b41f2bab9f4e8f576cd438d86afbdbbf5f5543
-symbol: "engine:Inno.Build.Composition:M:Inno.Build.Composition.GameContentCompilerFactory.Invoke(Inno.Assets.Pipeline.AssetPipeline,Inno.Core.Serialization.SerializationRegistry,Inno.Extensibility.Types.TypeCatalog)"
-source: xml
-reviewed: ed25d3a46c62b5f32e5dbcbcbd7c7ce97e7d580d743721c80188edb500d0ac4a
-title: "GameContentCompilerFactory.Invoke"
+symbol: engine:Inno.Build.Composition:M:Inno.Build.Composition.GameContentCompilerFactory.Invoke(Inno.Assets.Pipeline.AssetPipeline,Inno.Core.Serialization.SerializationRegistry,Inno.Extensibility.Types.TypeCatalog)
+title: GameContentCompilerFactory.Invoke
 kind: api
-owners: [Inno.Build.Composition]
+owners:
+- Inno.Build.Composition
 apiSurface: source-clr
+reviewed: ed25d3a46c62b5f32e5dbcbcbd7c7ce97e7d580d743721c80188edb500d0ac4a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a content compiler borrowing the active authoring services for one pipeline.

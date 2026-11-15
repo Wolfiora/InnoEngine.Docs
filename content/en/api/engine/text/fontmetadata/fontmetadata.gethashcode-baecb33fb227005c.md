@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.baecb33fb227005c6459aca5e54b29187b506e324e1ab177da03e1b2163a2a80
-symbol: "engine:Inno.Text:M:Inno.Text.FontMetadata.GetHashCode"
-source: xml
-reviewed: 4b6b58ecfb9fed741521afc2d8bc9fe65319355e509c9e547391a5e237c5292b
-title: "FontMetadata.GetHashCode"
+symbol: engine:Inno.Text:M:Inno.Text.FontMetadata.GetHashCode
+title: FontMetadata.GetHashCode
 kind: api
-owners: [Inno.Text]
+owners:
+- Inno.Text
 apiSurface: source-clr
+reviewed: 4b6b58ecfb9fed741521afc2d8bc9fe65319355e509c9e547391a5e237c5292b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

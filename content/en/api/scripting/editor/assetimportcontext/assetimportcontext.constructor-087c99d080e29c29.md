@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.087c99d080e29c295e60685f845f4e72ed366807661fa53353c30cad3a9a8fdb
-symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetImportContext.#ctor"
-source: xml
-reviewed: 4964b6d1a1ebf35776b5def6e6d4608897e96f41253649c559ddafdda21c4577
-title: "AssetImportContext.Constructor"
+symbol: scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetImportContext.#ctor
+title: AssetImportContext.Constructor
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: editor-script
+reviewed: 4964b6d1a1ebf35776b5def6e6d4608897e96f41253649c559ddafdda21c4577
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Appears in the generated script reference without a matching public or protected engine constructor.

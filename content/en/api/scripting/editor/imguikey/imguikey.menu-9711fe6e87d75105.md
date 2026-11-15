@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9711fe6e87d751059f7b75e7cf2a43bac9104330508a8ea894dc8e493cbec2d5
-symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.Menu"
-source: xml
-reviewed: 871e915d559b0498e84a96ec2dc11fd37f7bbedace94c6eea0d4129c5099dfd9
-title: "ImGuiKey.Menu"
+symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.Menu
+title: ImGuiKey.Menu
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 871e915d559b0498e84a96ec2dc11fd37f7bbedace94c6eea0d4129c5099dfd9
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Identifies the Menu presentation key or modifier.

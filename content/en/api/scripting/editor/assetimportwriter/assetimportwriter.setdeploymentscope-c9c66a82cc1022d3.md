@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c9c66a82cc1022d3ae113392f02b17f8ae512e77919d8209d3ecabdf40758b7c
-symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetImportWriter\u00601.SetDeploymentScope(InnoEditor.Assets.AssetDeploymentScope)"
-source: xml
-reviewed: 401683584e74296a610ea458ed4678e6ac420f367414a0d3420de07b6efcce18
-title: "AssetImportWriter\u003CTAsset\u003E.SetDeploymentScope"
+symbol: scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetImportWriter`1.SetDeploymentScope(InnoEditor.Assets.AssetDeploymentScope)
+title: AssetImportWriter<TAsset>.SetDeploymentScope
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: editor-script
+reviewed: 401683584e74296a610ea458ed4678e6ac420f367414a0d3420de07b6efcce18
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Selects the deployment scope for this imported asset. This permits one importer to produce runtime assets and editor-only assets from different source documents without changing their asset type.

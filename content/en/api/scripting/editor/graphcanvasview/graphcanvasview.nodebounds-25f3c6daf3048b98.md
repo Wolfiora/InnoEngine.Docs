@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.25f3c6daf3048b9846c2fd364158857fa195724e3a201ecab4adcd28d1501e00
-symbol: "scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasView.NodeBounds(InnoEditor.Graph.GraphCanvasNode,System.Nullable{InnoEngine.Graphs.GraphPosition})"
-source: xml
-reviewed: 25c9d61573768de337fe202842f844bdf72245685e748273d230bc43913c6031
-title: "GraphCanvasView.NodeBounds"
+symbol: scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasView.NodeBounds(InnoEditor.Graph.GraphCanvasNode,System.Nullable{InnoEngine.Graphs.GraphPosition})
+title: GraphCanvasView.NodeBounds
 kind: api
-owners: [Inno.Editor.Graph.ImGui]
+owners:
+- Inno.Editor.Graph.ImGui
 apiSurface: editor-script
+reviewed: 25c9d61573768de337fe202842f844bdf72245685e748273d230bc43913c6031
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Projects neutral node geometry, optionally substituting a transient drag position.

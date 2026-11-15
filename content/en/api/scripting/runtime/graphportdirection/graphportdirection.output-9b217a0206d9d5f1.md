@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9b217a0206d9d5f143646ce8352e67031a02ac68bfc49cbfb3bea65133977396
-symbol: "scripting:Inno.Core.Graphs:F:InnoEngine.Graphs.GraphPortDirection.Output"
-source: xml
-reviewed: 9ddb993f19ed0abfb198d1baaa44b0302b5b01385cdc0aa6e4c78bdef7d2b600
-title: "GraphPortDirection.Output"
+symbol: scripting:Inno.Core.Graphs:F:InnoEngine.Graphs.GraphPortDirection.Output
+title: GraphPortDirection.Output
 kind: api
-owners: [Inno.Core.Graphs]
+owners:
+- Inno.Core.Graphs
 apiSurface: editor-script
+reviewed: 9ddb993f19ed0abfb198d1baaa44b0302b5b01385cdc0aa6e4c78bdef7d2b600
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Produces a value for another node.

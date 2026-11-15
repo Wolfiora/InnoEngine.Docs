@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6b52349d3d53422904571380835824d20f893132e2b613c9519b64bf6e6d648f
-symbol: "scripting:Inno.Scene:P:InnoEngine.Scene.GameComponent.transform"
-source: xml
-reviewed: 15478485a0cf7a10d7a38d03b0dfd0a3e903d2ef4610670f17061471df290d44
-title: "GameComponent.transform"
+symbol: scripting:Inno.Scene:P:InnoEngine.Scene.GameComponent.transform
+title: GameComponent.transform
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: 15478485a0cf7a10d7a38d03b0dfd0a3e903d2ef4610670f17061471df290d44
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the owning game object's transform.

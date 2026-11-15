@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.58f8b52e3e3f67c557b0574201703ec2b5cc37a2c6918e73bdda073fa1161c95
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDropContext.#ctor(InnoEditor.Core.EditorContext,InnoEditor.Interactions.EditorInteractions,System.String,InnoEditor.Interactions.EditorDragData,InnoEngine.Core.IdentityObject,System.Object,InnoEditor.Interactions.EditorDropPlacement)"
-source: xml
-reviewed: d40f60e612f60035b24c31e767b1aee55f8d4451c6ca4bdbbaf86668ebb80cb1
-title: "EditorDropContext.Constructor"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDropContext.#ctor(InnoEditor.Core.EditorContext,InnoEditor.Interactions.EditorInteractions,System.String,InnoEditor.Interactions.EditorDragData,InnoEngine.Core.IdentityObject,System.Object,InnoEditor.Interactions.EditorDropPlacement)
+title: EditorDropContext.Constructor
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: d40f60e612f60035b24c31e767b1aee55f8d4451c6ca4bdbbaf86668ebb80cb1
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a managed drop request.

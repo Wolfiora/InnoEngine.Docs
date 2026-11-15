@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0ec5bc9d81c249a539dbdc946f6ce501003365207b0564831e7924f77bfc7f73
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphDocument.Encode\u0060\u00601(\u0060\u00600,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)"
-source: xml
-reviewed: c08f9beab63bcb54e6022b3c24073bc019b67cc0697cb2c26d198992761602c1
-title: "ShaderGraphDocument.Encode"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphDocument.Encode``1(``0,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)
+title: ShaderGraphDocument.Encode
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: c08f9beab63bcb54e6022b3c24073bc019b67cc0697cb2c26d198992761602c1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Encodes a node or document value through the common native serialization channel.

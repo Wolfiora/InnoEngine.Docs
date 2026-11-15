@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ff4146bb4ff4e0654bbbd45fe5e970be290030dc9c6832c63f6f60ce9216e34c
-symbol: "engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderPreviews.OnStop(Inno.Editor.Core.EditorContext)"
-source: xml
-reviewed: 01c88daa1aa690dad103bf45340c3ff5204b9fec7fe8c98447dc553e599d3ec6
-title: "ShaderPreviews.OnStop"
+symbol: engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderPreviews.OnStop(Inno.Editor.Core.EditorContext)
+title: ShaderPreviews.OnStop
 kind: api
-owners: [Inno.Editor.Shaders.ImGui]
+owners:
+- Inno.Editor.Shaders.ImGui
 apiSurface: source-clr
+reviewed: 01c88daa1aa690dad103bf45340c3ff5204b9fec7fe8c98447dc553e599d3ec6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Stops this feature before its owning runtime releases the active generation.

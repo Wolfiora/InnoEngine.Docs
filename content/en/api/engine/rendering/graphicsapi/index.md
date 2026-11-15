@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.06ab30df5061802e
-symbol: "engine:Inno.Rendering:T:Inno.Rendering.GraphicsApi"
-source: xml
-reviewed: 434afdd500cc84904f1cf6648a194774c248374424eb1a600cf676a0d263af16
-title: "GraphicsApi"
+symbol: engine:Inno.Rendering:T:Inno.Rendering.GraphicsApi
+title: GraphicsApi
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 434afdd500cc84904f1cf6648a194774c248374424eb1a600cf676a0d263af16
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-rendering
 aliases: []

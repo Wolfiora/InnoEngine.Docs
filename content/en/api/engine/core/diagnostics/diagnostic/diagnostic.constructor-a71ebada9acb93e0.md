@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a71ebada9acb93e08c77d9a996aa5218f9c9c41fed2381c6927ec1ac7cc7083e
-symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.Diagnostic.#ctor(System.String,System.String,Inno.Core.Diagnostics.DiagnosticSeverity,System.String,System.Nullable{System.Guid},System.Nullable{Inno.Core.Diagnostics.DiagnosticLocation})"
-source: xml
-reviewed: a2eb05d155179e5f1722215752cf59fab5243a723590d244595e0f39b42a4ad0
-title: "Diagnostic.Constructor"
+symbol: engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.Diagnostic.#ctor(System.String,System.String,Inno.Core.Diagnostics.DiagnosticSeverity,System.String,System.Nullable{System.Guid},System.Nullable{Inno.Core.Diagnostics.DiagnosticLocation})
+title: Diagnostic.Constructor
 kind: api
-owners: [Inno.Core.Diagnostics]
+owners:
+- Inno.Core.Diagnostics
 apiSurface: source-clr
+reviewed: a2eb05d155179e5f1722215752cf59fab5243a723590d244595e0f39b42a4ad0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a neutral diagnostic while keeping protocol, object and file identities distinct.

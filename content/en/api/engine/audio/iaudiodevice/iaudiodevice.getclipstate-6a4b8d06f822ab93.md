@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6a4b8d06f822ab932ebdc5b5e80758629270d42896bbac9ac3413f75ab7b32b6
-symbol: "engine:Inno.Audio:M:Inno.Audio.IAudioDevice.GetClipState(Inno.Audio.AudioClipHandle)"
-source: xml
-reviewed: 791c11a9c5e50bfcb07e8b4b5b79b285702d41721787f8743afa3e8ae20b2721
-title: "IAudioDevice.GetClipState"
+symbol: engine:Inno.Audio:M:Inno.Audio.IAudioDevice.GetClipState(Inno.Audio.AudioClipHandle)
+title: IAudioDevice.GetClipState
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 791c11a9c5e50bfcb07e8b4b5b79b285702d41721787f8743afa3e8ae20b2721
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Queries asynchronous clip preparation without blocking the owner thread.

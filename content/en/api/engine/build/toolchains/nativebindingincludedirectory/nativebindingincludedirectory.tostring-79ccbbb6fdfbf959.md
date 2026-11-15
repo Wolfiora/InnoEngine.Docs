@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.79ccbbb6fdfbf95996ad9511829cb939fec58dc5a8bdb7ada28f8a544712ae09
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingIncludeDirectory.ToString"
-source: xml
-reviewed: 5dec079c18975ffa673d12a0af90bdeecce88f222a13a6693dd5b57964a05c27
-title: "NativeBindingIncludeDirectory.ToString"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingIncludeDirectory.ToString
+title: NativeBindingIncludeDirectory.ToString
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 5dec079c18975ffa673d12a0af90bdeecce88f222a13a6693dd5b57964a05c27
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns a string that represents the current object.

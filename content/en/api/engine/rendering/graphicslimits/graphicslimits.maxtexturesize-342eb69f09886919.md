@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.342eb69f098869196681bbd000072344f304d47924bad09819a2cc7b9d18f784
-symbol: "engine:Inno.Rendering:P:Inno.Rendering.GraphicsLimits.maxTextureSize"
-source: xml
-reviewed: b7b76faa87bbae792c90741fe0ffdf210a0869d675c03eb77f755048d506d616
-title: "GraphicsLimits.maxTextureSize"
+symbol: engine:Inno.Rendering:P:Inno.Rendering.GraphicsLimits.maxTextureSize
+title: GraphicsLimits.maxTextureSize
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: b7b76faa87bbae792c90741fe0ffdf210a0869d675c03eb77f755048d506d616
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the maximum two-dimensional texture extent.

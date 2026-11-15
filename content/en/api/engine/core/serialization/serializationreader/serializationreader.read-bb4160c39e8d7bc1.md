@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bb4160c39e8d7bc1f44a5d6306305e95d41ef8e025ca8f909db97e9c8ac4d4f3
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationReader.Read(System.String,System.Type)"
-source: xml
-reviewed: a3ec61c320769185ccef3958ce9188a28e5ffc483908e45c66271ae475ddcc10
-title: "SerializationReader.Read"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationReader.Read(System.String,System.Type)
+title: SerializationReader.Read
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: a3ec61c320769185ccef3958ce9188a28e5ffc483908e45c66271ae475ddcc10
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads a value using its declared metadata type without constructing a generic method at runtime.

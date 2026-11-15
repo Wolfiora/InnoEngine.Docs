@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5ca71da563459a66194e0f802147f282de75cfe3153dc9f599acf5c3cdfd1c9e
-symbol: "scripting:Inno.Rendering.Assets:F:InnoEngine.Rendering.ShaderCompareFunction.Always"
-source: xml
-reviewed: 1ac880a89fc5cae590ba1bc3d01b6091d90e8b6ab4f33349e7d5177fa4f2712f
-title: "ShaderCompareFunction.Always"
+symbol: scripting:Inno.Rendering.Assets:F:InnoEngine.Rendering.ShaderCompareFunction.Always
+title: ShaderCompareFunction.Always
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: editor-script
+reviewed: 1ac880a89fc5cae590ba1bc3d01b6091d90e8b6ab4f33349e7d5177fa4f2712f
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Always accepts the fragment.

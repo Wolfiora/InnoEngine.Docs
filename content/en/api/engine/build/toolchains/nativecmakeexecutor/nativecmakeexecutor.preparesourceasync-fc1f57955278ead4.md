@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fc1f57955278ead4bb850cb6a910ae8ae61c0ff5682079227398862feb7dd3c8
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeCMakeExecutor.PrepareSourceAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeComponentDescriptor,System.Threading.CancellationToken)"
-source: xml
-reviewed: 83d753251a94903a98fcb202b9d4b9627ccc51fdf6e02538ae3a3aefb3e460c1
-title: "NativeCMakeExecutor.PrepareSourceAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeCMakeExecutor.PrepareSourceAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeComponentDescriptor,System.Threading.CancellationToken)
+title: NativeCMakeExecutor.PrepareSourceAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 83d753251a94903a98fcb202b9d4b9627ccc51fdf6e02538ae3a3aefb3e460c1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Copies the recipe's declared checkout inputs before a cold CMake invocation.

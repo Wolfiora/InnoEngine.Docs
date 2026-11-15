@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6d634aeba87a808e59d7a09c873d654fe93a4e316290ebc21e62bf17580929ce
-symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.AddComponent(Inno.Scene.GameObject,System.Type,System.String)"
-source: xml
-reviewed: f66b46d32dae111089254ecfa08ee19dc2a96346f962d493ff777631204f67af
-title: "SceneEdits.AddComponent"
+symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.AddComponent(Inno.Scene.GameObject,System.Type,System.String)
+title: SceneEdits.AddComponent
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: source-clr
+reviewed: f66b46d32dae111089254ecfa08ee19dc2a96346f962d493ff777631204f67af
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds one component and records its identity, stable type, index, and persistent properties.

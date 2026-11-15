@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.65df48696356a822a381403579652a13001ded2856d1524569cfdfff8cca81ae
-symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorShaderDraftCompilationSnapshot.ToString"
-source: xml
-reviewed: 727f0b53ac9708fb319aa6cca7408da4b2cc52cb01fca9bfdd06d70e50777d8f
-title: "EditorShaderDraftCompilationSnapshot.ToString"
+symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorShaderDraftCompilationSnapshot.ToString
+title: EditorShaderDraftCompilationSnapshot.ToString
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: editor-script
+reviewed: 727f0b53ac9708fb319aa6cca7408da4b2cc52cb01fca9bfdd06d70e50777d8f
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns a string that represents the current object.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.16e38437b941e31a69556a680451e17521c378b64174b16954720336a81668f9
-symbol: "engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerMask.GetHashCode"
-source: xml
-reviewed: 43cff00b84601d747b9f05f1bb0fffd7f62d10f44b3be34cf6352eb7ce9f0516
-title: "GameLayerMask.GetHashCode"
+symbol: engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerMask.GetHashCode
+title: GameLayerMask.GetHashCode
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 43cff00b84601d747b9f05f1bb0fffd7f62d10f44b3be34cf6352eb7ce9f0516
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Computes a hash code from the fields that participate in logical equality.

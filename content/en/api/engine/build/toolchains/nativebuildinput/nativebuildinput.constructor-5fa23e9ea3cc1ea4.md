@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5fa23e9ea3cc1ea43f5070d08826a64952ed6398af9c0dbbf80613903828045d
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildInput.#ctor(System.String,System.String)"
-source: xml
-reviewed: f6e74d1000f1188e85be60d5863c12f27942516f8215af44c78a982be7d02217
-title: "NativeBuildInput.Constructor"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildInput.#ctor(System.String,System.String)
+title: NativeBuildInput.Constructor
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: f6e74d1000f1188e85be60d5863c12f27942516f8215af44c78a982be7d02217
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Declares one file or directory consumed by a native recipe.

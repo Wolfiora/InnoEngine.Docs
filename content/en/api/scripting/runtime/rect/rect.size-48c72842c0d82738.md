@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.48c72842c0d82738aa688364c7b4fa50f4c528fed5e39d0e0619a2f22e799232
-symbol: "scripting:Inno.Core.Mathematics:P:InnoEngine.Mathematics.Rect.size"
-source: xml
-reviewed: b58bb15911864640d2adc06d1723a6ceb571d4b7dbc97d6062d58cb057303f86
-title: "Rect.size"
+symbol: scripting:Inno.Core.Mathematics:P:InnoEngine.Mathematics.Rect.size
+title: Rect.size
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: b58bb15911864640d2adc06d1723a6ceb571d4b7dbc97d6062d58cb057303f86
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the width and height derived from the rectangle bounds.

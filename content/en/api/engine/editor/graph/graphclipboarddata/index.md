@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.graph.d3383be96101c019
-symbol: "engine:Inno.Editor.Graph:T:Inno.Editor.Graph.GraphClipboardData"
-source: xml
-reviewed: 3554b9553d19058ce0bff39a1886c2b5f4c458c630b8b2e6d84e39de17ab23f7
-title: "GraphClipboardData"
+symbol: engine:Inno.Editor.Graph:T:Inno.Editor.Graph.GraphClipboardData
+title: GraphClipboardData
 kind: api
-owners: [Inno.Editor.Graph]
+owners:
+- Inno.Editor.Graph
 apiSurface: source-clr
+reviewed: 3554b9553d19058ce0bff39a1886c2b5f4c458c630b8b2e6d84e39de17ab23f7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-editor-graph
 aliases: []

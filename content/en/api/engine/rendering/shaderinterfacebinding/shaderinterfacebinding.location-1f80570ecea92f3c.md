@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1f80570ecea92f3cc99cf6f0457c14c1d864f188928bccff32713ddd825dc719
-symbol: "engine:Inno.Rendering:P:Inno.Rendering.ShaderInterfaceBinding.location"
-source: xml
-reviewed: 35545638a71515e97e7d81e92d23432241cd4e08d6e87729ba2d588d87b88342
-title: "ShaderInterfaceBinding.location"
+symbol: engine:Inno.Rendering:P:Inno.Rendering.ShaderInterfaceBinding.location
+title: ShaderInterfaceBinding.location
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 35545638a71515e97e7d81e92d23432241cd4e08d6e87729ba2d588d87b88342
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets an explicitly compiled resource slot, or null for a caller-assigned layout.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0dcfd864124b768451d113fc7aa18499cf1285fc8cbfbf8359eb218c021f9046
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerId.Equals(System.Object)"
-source: xml
-reviewed: f16f36de3d3d16c5f70e98aae2c318907456c4c9533e5eca47020972055279e2
-title: "GameLayerId.Equals"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerId.Equals(System.Object)
+title: GameLayerId.Equals
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: f16f36de3d3d16c5f70e98aae2c318907456c4c9533e5eca47020972055279e2
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

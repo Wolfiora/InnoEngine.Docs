@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bd01eafb030f55af9b31065fdc32ae31ce54464dce614a828ae53ac8b2d89221
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorModalExtension.TryGetPresentation(Inno.Editor.Interactions.EditorModalExtension.Presentation@)"
-source: xml
-reviewed: 6bee373629f3a4c05fd808f78839fa934be8f43ad46bc74b92c75a6cb075fafd
-title: "EditorModalExtension.TryGetPresentation"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorModalExtension.TryGetPresentation(Inno.Editor.Interactions.EditorModalExtension.Presentation@)
+title: EditorModalExtension.TryGetPresentation
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 6bee373629f3a4c05fd808f78839fa934be8f43ad46bc74b92c75a6cb075fafd
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Safely captures generation-local modal presentation values.

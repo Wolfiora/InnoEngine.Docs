@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c1692c75311ec7ddabf0591e62cc1644b054bfa93fc1ff80a4b7f7b6f6d33770
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.RectInt.op_Subtraction(InnoEngine.Mathematics.RectInt,InnoEngine.Mathematics.RectInt)"
-source: xml
-reviewed: 299f9b2063dbe98f11e618c98f5e2c8a7f8e2744b9984df0d8cb8b317310cc69
-title: "RectInt.op_Subtraction"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.RectInt.op_Subtraction(InnoEngine.Mathematics.RectInt,InnoEngine.Mathematics.RectInt)
+title: RectInt.op_Subtraction
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 299f9b2063dbe98f11e618c98f5e2c8a7f8e2744b9984df0d8cb8b317310cc69
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Subtracts or negates the supplied value component by component.

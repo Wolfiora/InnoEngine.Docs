@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8f55419521464d6a1975341e40c8707b4d14da95e52d4e29c52b4332fc5fc925
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationGeneration.Serialize\u0060\u00601(\u0060\u00600,Inno.Core.Serialization.SerializationContext)"
-source: xml
-reviewed: bd20d19a5455cf4eeb2489a312603b1c84bfb9e3a2cb2a3b3fd90274da5ef216
-title: "SerializationGeneration.Serialize"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationGeneration.Serialize``1(``0,Inno.Core.Serialization.SerializationContext)
+title: SerializationGeneration.Serialize
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: bd20d19a5455cf4eeb2489a312603b1c84bfb9e3a2cb2a3b3fd90274da5ef216
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Serializes a complete root object using the converter generation captured by this instance.

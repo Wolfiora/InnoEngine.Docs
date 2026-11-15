@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a23e2726410f013dcd102d031dd4ddcda5b5e72188a516227feedc82429b41de
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.IsEditing(System.String)"
-source: xml
-reviewed: f451af4961363b6f216c7b49acc40660c5bd380c3fa5304fb69c51a5fed655d4
-title: "ImGuiWidget.IsEditing"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.IsEditing(System.String)
+title: ImGuiWidget.IsEditing
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: f451af4961363b6f216c7b49acc40660c5bd380c3fa5304fb69c51a5fed655d4
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Checks whether this owner still owns a particular edit, including after a close or generation boundary.

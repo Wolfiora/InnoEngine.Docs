@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b637b74869ff34bd2e75d60c1993d9c973a2b0b06cf62e9342e87a4cea44e445
-symbol: "scripting:Inno.Scene:P:InnoEngine.Scene.Transform.worldPosition"
-source: xml
-reviewed: c33555fe02bb792eed8486983c8fc8a9bd2740e65d1e6b8f3aa5cd246a5b026f
-title: "Transform.worldPosition"
+symbol: scripting:Inno.Scene:P:InnoEngine.Scene.Transform.worldPosition
+title: Transform.worldPosition
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: c33555fe02bb792eed8486983c8fc8a9bd2740e65d1e6b8f3aa5cd246a5b026f
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets the world-space position.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b843d6a5f18ad4451c82650585c9474a2f2f6881bec1d79643a2876430979722
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteraction.TryGetShortcut(System.String,Inno.Editor.Interactions.HotKeyGesture@)"
-source: xml
-reviewed: 09387cab79e90d81a07a61ace4bdc53a3259ad9ad766f5b2cd4596276307cafe
-title: "EditorInteraction.TryGetShortcut"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteraction.TryGetShortcut(System.String,Inno.Editor.Interactions.HotKeyGesture@)
+title: EditorInteraction.TryGetShortcut
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 09387cab79e90d81a07a61ace4bdc53a3259ad9ad766f5b2cd4596276307cafe
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves the shortcut displayed for an action in this area.

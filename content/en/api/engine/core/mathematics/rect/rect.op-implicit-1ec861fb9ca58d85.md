@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1ec861fb9ca58d85febe130430794f47402dea0b14ad481dd1983c8643adb481
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.op_Implicit(Inno.Core.Mathematics.Rect)~System.Numerics.Vector4"
-source: xml
-reviewed: 3b43d1dd76a7c37d72fa6cf9a4a9a08c1110059036fbf5429ee3501d01b5b222
-title: "Rect.op_Implicit"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.op_Implicit(Inno.Core.Mathematics.Rect)~System.Numerics.Vector4
+title: Rect.op_Implicit
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 3b43d1dd76a7c37d72fa6cf9a4a9a08c1110059036fbf5429ee3501d01b5b222
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Converts the supplied value to `T:System.Numerics.Vector4`.

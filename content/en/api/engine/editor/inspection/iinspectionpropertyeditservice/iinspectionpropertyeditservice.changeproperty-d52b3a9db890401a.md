@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d52b3a9db890401a1f4d4e16b9688378e222a88ab9613b989ddf421be7494334
-symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.IInspectionPropertyEditService.ChangeProperty(System.Object,System.String,System.Action,System.String,System.String,System.String)"
-source: xml
-reviewed: 570f6d5e7fd63bbaacc57d183f055443153014bb9cae4587d43dca77c7abb261
-title: "IInspectionPropertyEditService.ChangeProperty"
+symbol: engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.IInspectionPropertyEditService.ChangeProperty(System.Object,System.String,System.Action,System.String,System.String,System.String)
+title: IInspectionPropertyEditService.ChangeProperty
 kind: api
-owners: [Inno.Editor.Inspection]
+owners:
+- Inno.Editor.Inspection
 apiSurface: source-clr
+reviewed: 570f6d5e7fd63bbaacc57d183f055443153014bb9cae4587d43dca77c7abb261
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Applies a property mutation and records it when the owning feature observes a value change.

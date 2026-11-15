@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dd26f2830335d829f7d3512d90bee6dcacd46971cc377468855cf53d41924267
-symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.PropertyDrawContext.SetTextState(System.String,System.String)"
-source: xml
-reviewed: 68c8ac77505784541e181b7863f47a3ed44dd75c11cd016ea39af567be264bea
-title: "PropertyDrawContext.SetTextState"
+symbol: engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.PropertyDrawContext.SetTextState(System.String,System.String)
+title: PropertyDrawContext.SetTextState
 kind: api
-owners: [Inno.Editor.Inspection]
+owners:
+- Inno.Editor.Inspection
 apiSurface: source-clr
+reviewed: 68c8ac77505784541e181b7863f47a3ed44dd75c11cd016ea39af567be264bea
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Stores text-edit state scoped to this renderer, inspected owner, and property path.

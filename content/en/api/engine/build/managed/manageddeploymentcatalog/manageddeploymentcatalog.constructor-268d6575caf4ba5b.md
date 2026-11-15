@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.268d6575caf4ba5b39e3dfc34a808879391172aa672cfad7889d507ccef5f633
-symbol: "engine:Inno.Build.Managed:M:Inno.Build.Managed.ManagedDeploymentCatalog.#ctor(System.Collections.Generic.IReadOnlyList{Inno.Build.Managed.IManagedDeploymentCompiler})"
-source: xml
-reviewed: d62b80fefba2f0629f449e031f92d2052a63c76f460dff6d84e450c3cbaf865f
-title: "ManagedDeploymentCatalog.Constructor"
+symbol: engine:Inno.Build.Managed:M:Inno.Build.Managed.ManagedDeploymentCatalog.#ctor(System.Collections.Generic.IReadOnlyList{Inno.Build.Managed.IManagedDeploymentCompiler})
+title: ManagedDeploymentCatalog.Constructor
 kind: api
-owners: [Inno.Build.Managed]
+owners:
+- Inno.Build.Managed
 apiSurface: source-clr
+reviewed: d62b80fefba2f0629f449e031f92d2052a63c76f460dff6d84e450c3cbaf865f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Copies providers and rejects ambiguous identities before any publication starts.

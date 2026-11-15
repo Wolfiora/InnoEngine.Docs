@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.314eee092dc2d5dacb2b6747bf3fdde78b73753e1ca760ba3b3b2f66acfa17ac
-symbol: "scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.F5"
-source: xml
-reviewed: 287d3477fa12808f5dafa94743e20f3d9a87d93aed24b7654f942126c39c9da0
-title: "KeyCode.F5"
+symbol: scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.F5
+title: KeyCode.F5
 kind: api
-owners: [Inno.Core.Input]
+owners:
+- Inno.Core.Input
 apiSurface: editor-script
+reviewed: 287d3477fa12808f5dafa94743e20f3d9a87d93aed24b7654f942126c39c9da0
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The F5 function key.

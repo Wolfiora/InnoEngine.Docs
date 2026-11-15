@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.832fae93389d7d826b215479418154ccdf725c08df3730704cc732b8fd77a5c9
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildArtifactReadLease.AcquireAsync(System.String,System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.Threading.CancellationToken,Inno.Build.Toolchains.NativeBuildContext)"
-source: xml
-reviewed: 69e27733b15a6a7c6ec43cb38a2076a5a3f44a9385b4e7ea3e66146d273dcbfd
-title: "BuildArtifactReadLease.AcquireAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildArtifactReadLease.AcquireAsync(System.String,System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.Threading.CancellationToken,Inno.Build.Toolchains.NativeBuildContext)
+title: BuildArtifactReadLease.AcquireAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 69e27733b15a6a7c6ec43cb38a2076a5a3f44a9385b4e7ea3e66146d273dcbfd
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Acquires reading ownership and verifies the complete artifact before exposing it to a consumer.

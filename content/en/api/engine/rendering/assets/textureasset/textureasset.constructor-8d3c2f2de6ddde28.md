@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8d3c2f2de6ddde28d2d8a64c157e6caff50f9ae7b0f26e505e9417889d9df4a8
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.TextureAsset.#ctor(System.Int32,System.Int32,Inno.Rendering.Assets.TextureColorSpace,System.String)"
-source: xml
-reviewed: 37f111dba800f0eb03a78d8219ef831a409cf24e64c779e94582251565b8a524
-title: "TextureAsset.Constructor"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.TextureAsset.#ctor(System.Int32,System.Int32,Inno.Rendering.Assets.TextureColorSpace,System.String)
+title: TextureAsset.Constructor
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: 37f111dba800f0eb03a78d8219ef831a409cf24e64c779e94582251565b8a524
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an immutable imported texture description.

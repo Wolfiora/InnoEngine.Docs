@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.ui.assets.f357a8957541e868
-symbol: "engine:Inno.UI.Assets:T:Inno.UI.Assets.UiDocumentFontDeclaration"
-source: xml
-reviewed: 6a24627ac72260254299a84152aae52340c4be2aca7a65a6e00801936bd210ea
-title: "UiDocumentFontDeclaration"
+symbol: engine:Inno.UI.Assets:T:Inno.UI.Assets.UiDocumentFontDeclaration
+title: UiDocumentFontDeclaration
 kind: api
-owners: [Inno.UI.Assets]
+owners:
+- Inno.UI.Assets
 apiSurface: source-clr
+reviewed: 6a24627ac72260254299a84152aae52340c4be2aca7a65a6e00801936bd210ea
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-ui-assets#import-and-generation-contract
 aliases: []

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.592c12c3d926fa7060527b07db71cadbce3bbb6ab05d599176823cdfad0cfc63
-symbol: "engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.CloseDocument(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle)"
-source: xml
-reviewed: 8737454cf5bd6b1900cc204ba5c9673fea84451ecba6ccb193a14184cb6587c3
-title: "UiRuntime.CloseDocument"
+symbol: engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.CloseDocument(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle)
+title: UiRuntime.CloseDocument
 kind: api
-owners: [Inno.UI.Runtime]
+owners:
+- Inno.UI.Runtime
 apiSurface: source-clr
+reviewed: 8737454cf5bd6b1900cc204ba5c9673fea84451ecba6ccb193a14184cb6587c3
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Closes the selected document and releases its retained state.

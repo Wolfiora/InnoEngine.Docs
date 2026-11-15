@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b8bd45fc589715d2d31dd0dd952d0769d4c93227d9fde940162a0a57b788ed9e
-symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.LogSessionId.Equals(Inno.Core.Logging.LogSessionId)"
-source: xml
-reviewed: 80d5e45d3c2d35ff5754ecc7ce8a96333950aad9d9569b2b90d02899887b251e
-title: "LogSessionId.Equals"
+symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.LogSessionId.Equals(Inno.Core.Logging.LogSessionId)
+title: LogSessionId.Equals
 kind: api
-owners: [Inno.Core.Logging]
+owners:
+- Inno.Core.Logging
 apiSurface: source-clr
+reviewed: 80d5e45d3c2d35ff5754ecc7ce8a96333950aad9d9569b2b90d02899887b251e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

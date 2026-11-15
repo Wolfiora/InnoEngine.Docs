@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.031cb70c72a9e091f83ba74e1cd38194d31e51d83e16dc3bc87f05d790499043
-symbol: "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackClosureValidator.Validate(System.String)"
-source: xml
-reviewed: d18504cb0c8e5edea5018432f45668637da7ae9b8858a8d884aa7e7a699315e9
-title: "PlayerSupportPackClosureValidator.Validate"
+symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackClosureValidator.Validate(System.String)
+title: PlayerSupportPackClosureValidator.Validate
 kind: api
-owners: [Inno.Build.SupportPacks.Core]
+owners:
+- Inno.Build.SupportPacks.Core
 apiSurface: source-clr
+reviewed: d18504cb0c8e5edea5018432f45668637da7ae9b8858a8d884aa7e7a699315e9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Rejects missing selected inputs, undeclared native groups and invalid deployment metadata.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f666c6e2e6ed8d6e817c5de44700b218a4a8a2bc36730fc776c691376d6ce756
-symbol: "engine:Inno.Build:M:Inno.Build.PlayerSupportPackCatalog.SelectAsync(Inno.Build.BuildTargetId,System.String,Inno.Build.IPlayerSupportPackValidator,System.Func{System.Threading.CancellationToken,System.Threading.Tasks.ValueTask},System.Threading.CancellationToken)"
-source: xml
-reviewed: 3443efa305713d13abd02ea5962bff97290c07df72d59c462ffa2cc017dfc5c7
-title: "PlayerSupportPackCatalog.SelectAsync"
+symbol: engine:Inno.Build:M:Inno.Build.PlayerSupportPackCatalog.SelectAsync(Inno.Build.BuildTargetId,System.String,Inno.Build.IPlayerSupportPackValidator,System.Func{System.Threading.CancellationToken,System.Threading.Tasks.ValueTask},System.Threading.CancellationToken)
+title: PlayerSupportPackCatalog.SelectAsync
 kind: api
-owners: [Inno.Build]
+owners:
+- Inno.Build
 apiSurface: source-clr
+reviewed: 3443efa305713d13abd02ea5962bff97290c07df72d59c462ffa2cc017dfc5c7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Validates one immutable content identity and atomically selects it for subsequent readers.

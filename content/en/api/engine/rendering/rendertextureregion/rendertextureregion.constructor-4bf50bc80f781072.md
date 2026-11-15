@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4bf50bc80f78107227c7776d87fd89fba375a7a31caa881f56d52d3c702e68f4
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderTextureRegion.#ctor(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)"
-source: xml
-reviewed: ea39d34c9469b8c7268062a43d25027a2e32253130292aaddf742b27eb02bb80
-title: "RenderTextureRegion.Constructor"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderTextureRegion.#ctor(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)
+title: RenderTextureRegion.Constructor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: ea39d34c9469b8c7268062a43d25027a2e32253130292aaddf742b27eb02bb80
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a texture subresource box.

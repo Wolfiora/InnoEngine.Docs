@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2894684f38db00c6fd4f0c4b16ae952a0978506fe8bb90727a5d15af13eca904
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderFrameUploadProvider.CreateBufferSlice(Inno.Rendering.PersistentBufferHandle,System.Int32,System.Int32,Inno.Rendering.RenderBufferUsage,System.UInt64)"
-source: xml
-reviewed: f5c3e04633dd84e03001b6992ee99c83eebcab59aaba37d84b61c43984754252
-title: "RenderFrameUploadProvider.CreateBufferSlice"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderFrameUploadProvider.CreateBufferSlice(Inno.Rendering.PersistentBufferHandle,System.Int32,System.Int32,Inno.Rendering.RenderBufferUsage,System.UInt64)
+title: RenderFrameUploadProvider.CreateBufferSlice
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: f5c3e04633dd84e03001b6992ee99c83eebcab59aaba37d84b61c43984754252
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a frame-scoped slice over a provider-owned persistent upload buffer.

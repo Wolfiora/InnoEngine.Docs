@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8cbef1bcc356a8bd3f31f288db2dd72f6189f32eb0415cf982db71303f21b8ca
-symbol: "scripting:Inno.Audio:P:InnoEngine.Audio.AudioParameterId.delayMilliseconds"
-source: xml
-reviewed: 1c389f5db61c7f5fccd8a90eddae43b0d0ca812a214ad4fd87e3317ca10fec60
-title: "AudioParameterId.delayMilliseconds"
+symbol: scripting:Inno.Audio:P:InnoEngine.Audio.AudioParameterId.delayMilliseconds
+title: AudioParameterId.delayMilliseconds
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: 1c389f5db61c7f5fccd8a90eddae43b0d0ca812a214ad4fd87e3317ca10fec60
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the standard delay duration parameter in milliseconds.

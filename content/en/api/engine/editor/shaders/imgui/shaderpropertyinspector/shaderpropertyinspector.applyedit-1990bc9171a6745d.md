@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1990bc9171a6745d09e6e302441adfd508360993c216c90161e277a7e8268f6a
-symbol: "engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderPropertyInspector.ApplyEdit(Inno.Rendering.ShaderPropertyType,Inno.Rendering.Assets.MaterialValue,Inno.Rendering.Assets.MaterialValue,Inno.Rendering.Assets.MaterialValue)"
-source: xml
-reviewed: 0c96e2c0ca89666d3364cc9cb6aaf820afbe4d0f1e14becdf17f46d70cdfadad
-title: "ShaderPropertyInspector.ApplyEdit"
+symbol: engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderPropertyInspector.ApplyEdit(Inno.Rendering.ShaderPropertyType,Inno.Rendering.Assets.MaterialValue,Inno.Rendering.Assets.MaterialValue,Inno.Rendering.Assets.MaterialValue)
+title: ShaderPropertyInspector.ApplyEdit
 kind: api
-owners: [Inno.Editor.Shaders.ImGui]
+owners:
+- Inno.Editor.Shaders.ImGui
 apiSurface: source-clr
+reviewed: 0c96e2c0ca89666d3364cc9cb6aaf820afbe4d0f1e14becdf17f46d70cdfadad
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Applies the edited components of a representative value without replacing unrelated mixed components.

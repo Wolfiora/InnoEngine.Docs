@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.84e8b042bf0286045bb5ef7ed2ee2b128f860ce76df563dab962b2813678dda4
-symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyModuleInfo.#ctor(Inno.Extensibility.Modules.AssemblyModuleHandle,System.String,System.Int32,System.Boolean,System.Boolean,Inno.Extensibility.Modules.AssemblyDomain,Inno.Extensibility.Modules.AssemblyScope,Inno.Extensibility.Modules.AssemblyModuleStatus,System.Collections.Generic.IReadOnlyList{System.String})"
-source: xml
-reviewed: 83e9c65a32046ec270aa9797b5916b3a8dec92be5dfd059514160c4953dc094f
-title: "AssemblyModuleInfo.Constructor"
+symbol: engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyModuleInfo.#ctor(Inno.Extensibility.Modules.AssemblyModuleHandle,System.String,System.Int32,System.Boolean,System.Boolean,Inno.Extensibility.Modules.AssemblyDomain,Inno.Extensibility.Modules.AssemblyScope,Inno.Extensibility.Modules.AssemblyModuleStatus,System.Collections.Generic.IReadOnlyList{System.String})
+title: AssemblyModuleInfo.Constructor
 kind: api
-owners: [Inno.Extensibility.Modules]
+owners:
+- Inno.Extensibility.Modules
 apiSurface: source-clr
+reviewed: 83e9c65a32046ec270aa9797b5916b3a8dec92be5dfd059514160c4953dc094f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Provides non-owning diagnostic information about an active assembly module.

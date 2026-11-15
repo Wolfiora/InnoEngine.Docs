@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.718d3f677592d89f985a4d3cc90aa60e11633e29e2494baee81961cdb43d7fbf
-symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.SerializedPropertyRenderer.DrawDraftProperty(Inno.Editor.Core.EditorContext,System.Object,System.Object,System.String,Inno.Core.Serialization.SerializedProperty,Inno.Editor.Inspection.IInspectionPropertyEditService,System.Boolean)"
-source: xml
-reviewed: 9e8231a4bb38b55cb761068e3d2c48f8edc884453647f794c903a788cc186ef6
-title: "SerializedPropertyRenderer.DrawDraftProperty"
+symbol: engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.SerializedPropertyRenderer.DrawDraftProperty(Inno.Editor.Core.EditorContext,System.Object,System.Object,System.String,Inno.Core.Serialization.SerializedProperty,Inno.Editor.Inspection.IInspectionPropertyEditService,System.Boolean)
+title: SerializedPropertyRenderer.DrawDraftProperty
 kind: api
-owners: [Inno.Editor.Inspection]
+owners:
+- Inno.Editor.Inspection
 apiSurface: source-clr
+reviewed: 9e8231a4bb38b55cb761068e3d2c48f8edc884453647f794c903a788cc186ef6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a detached serialized property with its attributes and a feature-owned draft transaction.

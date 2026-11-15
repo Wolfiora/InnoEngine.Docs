@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.14d00f106fa459c1cfd15208d704ff542f4bcdc5b33a20303953ad96358dd1f7
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2Int.Equals(System.Object)"
-source: xml
-reviewed: 6be3155d4874a57103c4868c29938034ad93df1c651c37d5a32ba0412d7b5392
-title: "Vector2Int.Equals"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2Int.Equals(System.Object)
+title: Vector2Int.Equals
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 6be3155d4874a57103c4868c29938034ad93df1c651c37d5a32ba0412d7b5392
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether this value and the supplied value represent the same logical state.

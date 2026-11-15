@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c0de5d86f4dce3f686430d6e908901b08737febfd13b03455b5c7370f0456892
-symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.SelectedViewContentCollector.Collect(Inno.Rendering.Runtime.ViewContentContext)"
-source: xml
-reviewed: a5609eae3ce2f0ab7ba4289afd8b068d3bcce0dc5f96d50426f7dcb68b1e2999
-title: "SelectedViewContentCollector.Collect"
+symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.SelectedViewContentCollector.Collect(Inno.Rendering.Runtime.ViewContentContext)
+title: SelectedViewContentCollector.Collect
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: a5609eae3ce2f0ab7ba4289afd8b068d3bcce0dc5f96d50426f7dcb68b1e2999
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Collects only the assigned world-content sources for one exact view.

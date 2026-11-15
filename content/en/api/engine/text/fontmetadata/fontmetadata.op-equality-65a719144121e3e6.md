@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.65a719144121e3e6261f330cbf7ecda7cbdc114d256674ebcf44381e1c0cc9ab
-symbol: "engine:Inno.Text:M:Inno.Text.FontMetadata.op_Equality(Inno.Text.FontMetadata,Inno.Text.FontMetadata)"
-source: xml
-reviewed: cd4163fb361471a3e518256407ecc08ac7aca76b69406dbee2af5a54c22b2326
-title: "FontMetadata.op_Equality"
+symbol: engine:Inno.Text:M:Inno.Text.FontMetadata.op_Equality(Inno.Text.FontMetadata,Inno.Text.FontMetadata)
+title: FontMetadata.op_Equality
 kind: api
-owners: [Inno.Text]
+owners:
+- Inno.Text
 apiSurface: source-clr
+reviewed: cd4163fb361471a3e518256407ecc08ac7aca76b69406dbee2af5a54c22b2326
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

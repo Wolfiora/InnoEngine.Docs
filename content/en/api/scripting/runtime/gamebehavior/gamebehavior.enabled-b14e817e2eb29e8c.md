@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b14e817e2eb29e8ce608bb554caa264eb15437a53204ac183b9c6ac31458ca15
-symbol: "scripting:Inno.Scene:P:InnoEngine.Scene.GameBehavior.enabled"
-source: xml
-reviewed: d7f22f11f92dacc9fb6cc62efd0182ea44e23e2f4360e472fb19b54857ff34f3
-title: "GameBehavior.enabled"
+symbol: scripting:Inno.Scene:P:InnoEngine.Scene.GameBehavior.enabled
+title: GameBehavior.enabled
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: d7f22f11f92dacc9fb6cc62efd0182ea44e23e2f4360e472fb19b54857ff34f3
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets whether this component participates in scene lifecycle and frame updates.

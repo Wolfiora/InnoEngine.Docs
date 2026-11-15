@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.66ac41f9b5f9ed44bd2e1de6277f6a91bd9be4c418d0fd1c30c0bdf1d5f2267f
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPassExecute\u00601.Invoke(\u00600,InnoEngine.Rendering.RenderPassContext)"
-source: xml
-reviewed: 6098a354fa3ef1ddf70e09dfca141c65dc7165cd8d41c5ff46b6c5a8e299af1c
-title: "RenderPassExecute\u003CTPassData\u003E.Invoke"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPassExecute`1.Invoke(`0,InnoEngine.Rendering.RenderPassContext)
+title: RenderPassExecute<TPassData>.Invoke
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 6098a354fa3ef1ddf70e09dfca141c65dc7165cd8d41c5ff46b6c5a8e299af1c
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Executes one frame-scoped pass payload.

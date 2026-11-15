@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2a4150184e767c9967d07f0fdefe94f9212ac884d133716e32d994dcb2912872
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorMenuRenderer.ContextMenu(System.String,Inno.Editor.Interactions.EditorInteraction,Inno.Editor.Interactions.EditorInteraction)"
-source: xml
-reviewed: 1501b369e0211cec8aa4a618755835395b50971a570b4d3b87b68247d77c00c1
-title: "EditorMenuRenderer.ContextMenu"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorMenuRenderer.ContextMenu(System.String,Inno.Editor.Interactions.EditorInteraction,Inno.Editor.Interactions.EditorInteraction)
+title: EditorMenuRenderer.ContextMenu
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 1501b369e0211cec8aa4a618755835395b50971a570b4d3b87b68247d77c00c1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws one context popup composed from an item interaction and its containing-scope interaction.

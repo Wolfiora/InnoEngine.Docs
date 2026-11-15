@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9769c699a0739eca1b330bc5bb4d61c44d12bdcd128c1c11635cf84a783fa2c6
-symbol: "engine:Inno.Build.Products.Standard:M:Inno.Build.Products.Standard.StandardNativeComponents.CreateStaticPlayer(System.Func{System.String,Inno.Build.Toolchains.NativeComponentBuildOptions},System.Func{System.String,System.String,System.String,System.String})"
-source: xml
-reviewed: e65ab1efa3e5916f8e6b9d5022c6df466527a369a96a9d776b7e1ca56417d859
-title: "StandardNativeComponents.CreateStaticPlayer"
+symbol: engine:Inno.Build.Products.Standard:M:Inno.Build.Products.Standard.StandardNativeComponents.CreateStaticPlayer(System.Func{System.String,Inno.Build.Toolchains.NativeComponentBuildOptions},System.Func{System.String,System.String,System.String,System.String})
+title: StandardNativeComponents.CreateStaticPlayer
 kind: api
-owners: [Inno.Build.Products.Standard]
+owners:
+- Inno.Build.Products.Standard
 apiSurface: source-clr
+reviewed: e65ab1efa3e5916f8e6b9d5022c6df466527a369a96a9d776b7e1ca56417d859
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Declares the real static component closure consumed by an explicit aggregate executor.

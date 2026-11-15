@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.094dd14a2f69060c65543010365f67ad2d9e0136464903c660c077415007fdf3
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.MeasureWrappedText(System.String,System.Single)"
-source: xml
-reviewed: 94b9313eb48aa351622f8ca3eb44a7103ef60e3bd9f135d5e8715a83e1c3c70e
-title: "ImGui.MeasureWrappedText"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.MeasureWrappedText(System.String,System.Single)
+title: ImGui.MeasureWrappedText
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 94b9313eb48aa351622f8ca3eb44a7103ef60e3bd9f135d5e8715a83e1c3c70e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Measures literal text using the same current font and wrap width as wrapped drawing.

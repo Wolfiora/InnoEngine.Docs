@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a02d733945257b5cfe8ffd7cb602a81ebb88d363d75b94e5cec6616fce0a54c4
-symbol: "engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.SetContent(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle,System.String,Inno.UI.UiDocumentFragment)"
-source: xml
-reviewed: 8ad6b37eeffd580bf973fb9d0a2aec40c61b3edfc24b75e6bd96900280c5bf0f
-title: "UiRuntime.SetContent"
+symbol: engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.SetContent(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle,System.String,Inno.UI.UiDocumentFragment)
+title: UiRuntime.SetContent
 kind: api
-owners: [Inno.UI.Runtime]
+owners:
+- Inno.UI.Runtime
 apiSurface: source-clr
+reviewed: 8ad6b37eeffd580bf973fb9d0a2aec40c61b3edfc24b75e6bd96900280c5bf0f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Updates the content state and applies the resulting invariants.

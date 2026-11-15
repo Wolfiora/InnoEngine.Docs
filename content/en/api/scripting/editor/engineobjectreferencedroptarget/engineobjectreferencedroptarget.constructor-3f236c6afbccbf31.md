@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3f236c6afbccbf31a28c4cd90efb82f7e056a97658707a5a0213da3052bada12
-symbol: "scripting:Inno.Editor.Panel.Inspector:M:InnoEditor.Inspection.EngineObjectReferenceDropTarget.#ctor(System.Type,System.Action{InnoEngine.Scene.EngineObject})"
-source: xml
-reviewed: 345a977b1850115cf8f0ba53455679aea233475a7dfd19f9d4b92e7fcb155150
-title: "EngineObjectReferenceDropTarget.Constructor"
+symbol: scripting:Inno.Editor.Panel.Inspector:M:InnoEditor.Inspection.EngineObjectReferenceDropTarget.#ctor(System.Type,System.Action{InnoEngine.Scene.EngineObject})
+title: EngineObjectReferenceDropTarget.Constructor
 kind: api
-owners: [Inno.Editor.Panel.Inspector]
+owners:
+- Inno.Editor.Panel.Inspector
 apiSurface: editor-script
+reviewed: 345a977b1850115cf8f0ba53455679aea233475a7dfd19f9d4b92e7fcb155150
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a drop target that validates and assigns an engine object to a serialized property.

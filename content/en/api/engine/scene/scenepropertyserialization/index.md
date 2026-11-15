@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.scene.a387628292985037
-symbol: "engine:Inno.Scene:T:Inno.Scene.ScenePropertySerialization"
-source: xml
-reviewed: ed50e9912653d175a8c9cedb74518497d794f4e6c1b7b1fbd46004b7ff649080
-title: "ScenePropertySerialization"
+symbol: engine:Inno.Scene:T:Inno.Scene.ScenePropertySerialization
+title: ScenePropertySerialization
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: ed50e9912653d175a8c9cedb74518497d794f4e6c1b7b1fbd46004b7ff649080
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-scene#scene-ownership-contract
 aliases: []

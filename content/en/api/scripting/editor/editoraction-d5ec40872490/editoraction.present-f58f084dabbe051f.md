@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f58f084dabbe051f4a6a02e2bd0a2b476e90addb20345ce67748f4ca0b0c8de7
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorAction.Present(InnoEditor.Interactions.EditorActionContext)"
-source: xml
-reviewed: 1bb9639894035cdd342c5973976f948bc95e9b32f01cbf31c277b36fb4ac40a5
-title: "EditorAction.Present"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorAction.Present(InnoEditor.Interactions.EditorActionContext)
+title: EditorAction.Present
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 1bb9639894035cdd342c5973976f948bc95e9b32f01cbf31c277b36fb4ac40a5
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Presents an active action at the current target location.

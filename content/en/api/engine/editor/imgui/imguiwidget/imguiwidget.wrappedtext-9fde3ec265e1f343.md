@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9fde3ec265e1f3436d333655431e527e5517049eefbe699c279b124574d3d523
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.WrappedText(System.String)"
-source: xml
-reviewed: 1d3fb3a8f9e92116071dbce46d6c28d97df6d42d6e1ce69b21f99082e1a418d6
-title: "ImGuiWidget.WrappedText"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.WrappedText(System.String)
+title: ImGuiWidget.WrappedText
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 1d3fb3a8f9e92116071dbce46d6c28d97df6d42d6e1ce69b21f99082e1a418d6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws literal text wrapped to the remaining content width without using a native variadic formatting entry point.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4334cacc44d5baa828506a995ff2d6c8501d6e4d4704ffc104227227a75edfb2
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.SetCursorPosition(System.Numerics.Vector2)"
-source: xml
-reviewed: f748ba07206469fb96d3d8d8899f1c451f14b9fa051ff8adc7731d98c0729a44
-title: "ImGui.SetCursorPosition"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.SetCursorPosition(System.Numerics.Vector2)
+title: ImGui.SetCursorPosition
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: f748ba07206469fb96d3d8d8899f1c451f14b9fa051ff8adc7731d98c0729a44
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Sets the current local cursor position.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.64eaa0d0f79de53be7cd170c7aa06e5109af15b8a3ed7faa361ac50511047a5e
-symbol: "engine:Inno.Rendering.Assets.Authoring:P:Inno.Rendering.Assets.Authoring.ShaderGraphSourceSnapshot.contentHash"
-source: xml
-reviewed: 54773edadc82820c6e18704f2c47bcf07e26349ced4e13569e9e15b27d129129
-title: "ShaderGraphSourceSnapshot.contentHash"
+symbol: engine:Inno.Rendering.Assets.Authoring:P:Inno.Rendering.Assets.Authoring.ShaderGraphSourceSnapshot.contentHash
+title: ShaderGraphSourceSnapshot.contentHash
 kind: api
-owners: [Inno.Rendering.Assets.Authoring]
+owners:
+- Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
+reviewed: 54773edadc82820c6e18704f2c47bcf07e26349ced4e13569e9e15b27d129129
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the source fingerprint used to reject external-edit conflicts.

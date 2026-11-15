@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bf6ec77ea5740413d167bbaa44b57f3f9400401d83b296619819d7a9e228ea1a
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderDeviceAllocationCounters.#ctor(System.UInt32,System.UInt64,System.UInt64,System.UInt64)"
-source: xml
-reviewed: 7c830d94a326e4810af1a3d018ccd44db70557da53353c780a572e26ca41b3d8
-title: "RenderDeviceAllocationCounters.Constructor"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderDeviceAllocationCounters.#ctor(System.UInt32,System.UInt64,System.UInt64,System.UInt64)
+title: RenderDeviceAllocationCounters.Constructor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 7c830d94a326e4810af1a3d018ccd44db70557da53353c780a572e26ca41b3d8
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an immutable allocation snapshot scoped to one device generation.

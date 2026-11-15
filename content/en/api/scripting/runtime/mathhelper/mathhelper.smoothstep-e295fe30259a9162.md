@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e295fe30259a916253f2749502d644008deb7ab375865fb631cfa37beb36fd04
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.SmoothStep(System.Single,System.Single,System.Single)"
-source: xml
-reviewed: 49f341fd0c08cb4a496d7be7a84f27ae546ad6da467b40ecb92cd44f9e61312e
-title: "MathHelper.SmoothStep"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.SmoothStep(System.Single,System.Single,System.Single)
+title: MathHelper.SmoothStep
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 49f341fd0c08cb4a496d7be7a84f27ae546ad6da467b40ecb92cd44f9e61312e
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Interpolates between two values using a cubic equation.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.83d78a2f8dbb4ad68da811af1687097e6252e9cc149126bee237792445c37c9c
-symbol: "engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioRuntime.Play(Inno.Audio.AudioClipAsset,Inno.Audio.AudioPlayOptions)"
-source: xml
-reviewed: 71e966d287854b0a78c24a9437e0ed8fbd5d2a479026b873998e6bc66486272d
-title: "AudioRuntime.Play"
+symbol: engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioRuntime.Play(Inno.Audio.AudioClipAsset,Inno.Audio.AudioPlayOptions)
+title: AudioRuntime.Play
 kind: api
-owners: [Inno.Audio.Runtime]
+owners:
+- Inno.Audio.Runtime
 apiSurface: source-clr
+reviewed: 71e966d287854b0a78c24a9437e0ed8fbd5d2a479026b873998e6bc66486272d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Starts one clip using explicit playback parameters.

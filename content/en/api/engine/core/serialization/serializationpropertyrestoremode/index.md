@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.serialization.b2943ce188a12723
-symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationPropertyRestoreMode"
-source: xml
-reviewed: d134f49842a97b6b608951fe775d008955b0c5d53195cb24ed72fbeec92b0705
-title: "SerializationPropertyRestoreMode"
+symbol: engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationPropertyRestoreMode
+title: SerializationPropertyRestoreMode
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: d134f49842a97b6b608951fe775d008955b0c5d53195cb24ed72fbeec92b0705
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e816f7e32ebcb9dd32ebb4fef34c6e550aa3c2370d5f9015b42643e88a89a722
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.GeometryAsset.#ctor(System.Int32,System.Int32,System.Int32,Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3)"
-source: xml
-reviewed: efa75b59e53eae10450335107cb874671533cf7fe5976e3470b30ad20f54acc8
-title: "GeometryAsset.Constructor"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.GeometryAsset.#ctor(System.Int32,System.Int32,System.Int32,Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3)
+title: GeometryAsset.Constructor
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: efa75b59e53eae10450335107cb874671533cf7fe5976e3470b30ad20f54acc8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an immutable imported geometry description.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f0163fac7ad2b54ed22f44774c8f69ce7cc5c8993498f040aaf7fa579674d944
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.ImportTexture(System.String,InnoEngine.Rendering.PersistentTextureHandle,InnoEngine.Rendering.RenderTextureDescriptor)"
-source: xml
-reviewed: d09ca9155661301889c414af994d011a4ce5934ac839cc65ea9df098548e2e13
-title: "RenderGraphBuilder.ImportTexture"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.ImportTexture(System.String,InnoEngine.Rendering.PersistentTextureHandle,InnoEngine.Rendering.RenderTextureDescriptor)
+title: RenderGraphBuilder.ImportTexture
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: d09ca9155661301889c414af994d011a4ce5934ac839cc65ea9df098548e2e13
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Imports a persistent device texture into the current graph.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f19a2ec376543f0a7d444c5027bc379dbd222d60bd350326819ad94c33d8a644
-symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderVertexSemantic.Color1"
-source: xml
-reviewed: d6b1d0f5dfd39ee99e23718ada0ca4d8fa2030f8149304a69eab2a0301411345
-title: "RenderVertexSemantic.Color1"
+symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderVertexSemantic.Color1
+title: RenderVertexSemantic.Color1
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: d6b1d0f5dfd39ee99e23718ada0ca4d8fa2030f8149304a69eab2a0301411345
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Secondary vertex color.

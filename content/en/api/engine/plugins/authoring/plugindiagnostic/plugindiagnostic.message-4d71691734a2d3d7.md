@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4d71691734a2d3d7deb771ce9d8279eda953565e87992320db1fbd9c31ee5792
-symbol: "engine:Inno.Plugins.Authoring:P:Inno.Plugins.Authoring.PluginDiagnostic.message"
-source: xml
-reviewed: 61a09b6c7e1dece0f8b166bc5c3de3a2d5a791ad63eeb6e6f9b76213c389e8d0
-title: "PluginDiagnostic.message"
+symbol: engine:Inno.Plugins.Authoring:P:Inno.Plugins.Authoring.PluginDiagnostic.message
+title: PluginDiagnostic.message
 kind: api
-owners: [Inno.Plugins.Authoring]
+owners:
+- Inno.Plugins.Authoring
 apiSurface: source-clr
+reviewed: 61a09b6c7e1dece0f8b166bc5c3de3a2d5a791ad63eeb6e6f9b76213c389e8d0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the actionable problem description.

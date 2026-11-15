@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8b8d33aab1973731a2a7e8164e0e78d9c0eb7c7a134cafb9abe1aef0829049ee
-symbol: "engine:Inno.Audio:P:Inno.Audio.AudioParameterId.value"
-source: xml
-reviewed: 7900f140fa949b34c92311841612429c4ecc22ab193ef9f5f6cfd0a3263ce53f
-title: "AudioParameterId.value"
+symbol: engine:Inno.Audio:P:Inno.Audio.AudioParameterId.value
+title: AudioParameterId.value
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 7900f140fa949b34c92311841612429c4ecc22ab193ef9f5f6cfd0a3263ce53f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the stable parameter protocol value.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.115c09a2ab2a7ac2c90753c7a0a32dff6aa86689592c532392f23c441bcff3b1
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.MathHelper.Lerp(System.Single,System.Single,System.Single)"
-source: xml
-reviewed: ddf7f4d3a5fc6c1fb32fedf275600099b983e1151238b2774d05d85708fdc321
-title: "MathHelper.Lerp"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.MathHelper.Lerp(System.Single,System.Single,System.Single)
+title: MathHelper.Lerp
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: ddf7f4d3a5fc6c1fb32fedf275600099b983e1151238b2774d05d85708fdc321
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Linearly interpolates between two values.

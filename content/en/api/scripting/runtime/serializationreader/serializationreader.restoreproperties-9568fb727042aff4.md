@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9568fb727042aff462adc65d989537af3fb106091e5a4be7bd15a008bf60669f
-symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationReader.RestoreProperties(InnoEngine.Serialization.ISerializable)"
-source: xml
-reviewed: a9f504be43a0102daa3576dedced091cf8e97826f17a03fcc117fb7ba1008091
-title: "SerializationReader.RestoreProperties"
+symbol: scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationReader.RestoreProperties(InnoEngine.Serialization.ISerializable)
+title: SerializationReader.RestoreProperties
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: editor-script
+reviewed: a9f504be43a0102daa3576dedced091cf8e97826f17a03fcc117fb7ba1008091
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Restores annotated properties from the current structured object into an existing object.

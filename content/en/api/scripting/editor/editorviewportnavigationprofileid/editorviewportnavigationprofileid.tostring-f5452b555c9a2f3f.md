@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f5452b555c9a2f3f605c67fb0660ff22d754b3baf5e284f9fdef73bd62cb5a45
-symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportNavigationProfileId.ToString"
-source: xml
-reviewed: 541e9876f63f1981c477df5aced1c8f43488f5374feedb1df190fab9c3770495
-title: "EditorViewportNavigationProfileId.ToString"
+symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportNavigationProfileId.ToString
+title: EditorViewportNavigationProfileId.ToString
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: editor-script
+reviewed: 541e9876f63f1981c477df5aced1c8f43488f5374feedb1df190fab9c3770495
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Formats this value as a human-readable representation.

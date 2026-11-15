@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.51e2d2f124d0b5f5ec22bb30f02e3743b5ce1d459c0124f25d9a886494db065b
-symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRegistry\u00601.OnActivationCompleted(\u00600,\u00600)"
-source: xml
-reviewed: 9b1f159c29cfaa2c89e02613b72b2a47995745dca837ae694c827934c6069eec
-title: "TypeRegistry\u003CTSnapshot\u003E.OnActivationCompleted"
+symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRegistry`1.OnActivationCompleted(`0,`0)
+title: TypeRegistry<TSnapshot>.OnActivationCompleted
 kind: api
-owners: [Inno.Extensibility.Types]
+owners:
+- Inno.Extensibility.Types
 apiSurface: source-clr
+reviewed: 9b1f159c29cfaa2c89e02613b72b2a47995745dca837ae694c827934c6069eec
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Finalizes a successfully activated candidate after every coordinated registry has activated.

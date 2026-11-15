@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.62bf3168a7369c3145851a231ac51410713db8e861bed78e55799d6b744612b9
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.GraphicsCapabilities.SupportsSampled(Inno.Rendering.RenderTextureFormat,Inno.Rendering.RenderTextureDimension)"
-source: xml
-reviewed: 5e000ae956fc53dc63742651684b46dfc27fbdb6ff31f77c271e73626706ee51
-title: "GraphicsCapabilities.SupportsSampled"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.GraphicsCapabilities.SupportsSampled(Inno.Rendering.RenderTextureFormat,Inno.Rendering.RenderTextureDimension)
+title: GraphicsCapabilities.SupportsSampled
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 5e000ae956fc53dc63742651684b46dfc27fbdb6ff31f77c271e73626706ee51
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tests whether a format is valid for sampled textures of one dimensional shape.

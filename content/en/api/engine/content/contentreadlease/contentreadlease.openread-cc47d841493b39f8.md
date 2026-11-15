@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cc47d841493b39f8f4c60b5c69cef8282b3093165692c6cb5cff63973912005c
-symbol: "engine:Inno.Content:M:Inno.Content.ContentReadLease.OpenRead"
-source: xml
-reviewed: 2c5126d2a9dd8a29782b1ff38757cee62c82ca483731edd741861fdda48d7020
-title: "ContentReadLease.OpenRead"
+symbol: engine:Inno.Content:M:Inno.Content.ContentReadLease.OpenRead
+title: ContentReadLease.OpenRead
 kind: api
-owners: [Inno.Content]
+owners:
+- Inno.Content
 apiSurface: source-clr
+reviewed: 2c5126d2a9dd8a29782b1ff38757cee62c82ca483731edd741861fdda48d7020
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Opens a new independently pinned stream without transferring this lease's ownership.

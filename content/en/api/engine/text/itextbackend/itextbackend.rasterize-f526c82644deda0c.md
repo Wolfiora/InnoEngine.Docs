@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f526c82644deda0cb6a128ff4ef8ddd0a16e922f13725cc59358bb45258c0d93
-symbol: "engine:Inno.Text:M:Inno.Text.ITextBackend.Rasterize(Inno.Text.TextFontHandle,System.UInt32,System.Single)"
-source: xml
-reviewed: 0ed6633451013efc177a3a74f314b1aaef61eab2feffeac508760bef998f4137
-title: "ITextBackend.Rasterize"
+symbol: engine:Inno.Text:M:Inno.Text.ITextBackend.Rasterize(Inno.Text.TextFontHandle,System.UInt32,System.Single)
+title: ITextBackend.Rasterize
 kind: api
-owners: [Inno.Text]
+owners:
+- Inno.Text
 apiSurface: source-clr
+reviewed: 0ed6633451013efc177a3a74f314b1aaef61eab2feffeac508760bef998f4137
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Rasterizes one shaped glyph into 8-bit coverage.

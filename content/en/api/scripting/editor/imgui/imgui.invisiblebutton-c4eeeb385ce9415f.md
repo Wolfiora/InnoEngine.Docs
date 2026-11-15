@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c4eeeb385ce9415fd327523f2e25eeabac1b5298c6f3cbb70291f2e1c213769c
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.InvisibleButton(System.String,System.Numerics.Vector2,InnoEditor.ImGui.ImGuiButtonFlags)"
-source: xml
-reviewed: eb3b20f1181cdc612021a14f25a0d6badf736271bc915d8fcbcf6f773ab8aa06
-title: "ImGui.InvisibleButton"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.InvisibleButton(System.String,System.Numerics.Vector2,InnoEditor.ImGui.ImGuiButtonFlags)
+title: ImGui.InvisibleButton
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: eb3b20f1181cdc612021a14f25a0d6badf736271bc915d8fcbcf6f773ab8aa06
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Submits an explicitly drawn control interaction rectangle.

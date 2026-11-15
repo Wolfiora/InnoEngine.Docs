@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.efd982f5d68ce4fe880f595da671694e51e24d2ac63264777fc0126e1de36f7a
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetInput"
-source: xml
-reviewed: 921c92672d039853eebe11e429ac85888ac5b2ea9583679038108cbbdc0a28a4
-title: "ImGui.GetInput"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetInput
+title: ImGui.GetInput
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 921c92672d039853eebe11e429ac85888ac5b2ea9583679038108cbbdc0a28a4
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Copies the input facts for this frame.

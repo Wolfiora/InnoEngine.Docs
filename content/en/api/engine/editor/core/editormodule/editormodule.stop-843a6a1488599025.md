@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.843a6a1488599025a15efdd44b58b1ebf7e3d733839ceda333423e4eaeb930af
-symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorModule.Stop(Inno.Editor.Core.EditorContext)"
-source: xml
-reviewed: 3791e582193c731a80cb433eaa8244f146ea6b16f99075d8cf43ff99608b942d
-title: "EditorModule.Stop"
+symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorModule.Stop(Inno.Editor.Core.EditorContext)
+title: EditorModule.Stop
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: source-clr
+reviewed: 3791e582193c731a80cb433eaa8244f146ea6b16f99075d8cf43ff99608b942d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Stops the module before the containing extension generation is released.

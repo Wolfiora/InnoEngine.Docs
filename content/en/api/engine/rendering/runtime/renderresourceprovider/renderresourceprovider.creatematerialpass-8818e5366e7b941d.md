@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8818e5366e7b941d416a514b683050cef7c8ea600bb301693fa00cbc4546f288
-symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderResourceProvider.CreateMaterialPass(Inno.Rendering.Assets.ShaderPassDefinition,Inno.Rendering.GraphicsPipelineHandle,Inno.Rendering.ComputePipelineHandle,System.Collections.Generic.IReadOnlyList{Inno.Rendering.Runtime.RenderResourceProvider.MaterialBinding})"
-source: xml
-reviewed: 0babf4c257d50fb59e8ff20e58b5d46f7922b4a1e0d1e46282bbedcf563cb5df
-title: "RenderResourceProvider.CreateMaterialPass"
+symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderResourceProvider.CreateMaterialPass(Inno.Rendering.Assets.ShaderPassDefinition,Inno.Rendering.GraphicsPipelineHandle,Inno.Rendering.ComputePipelineHandle,System.Collections.Generic.IReadOnlyList{Inno.Rendering.Runtime.RenderResourceProvider.MaterialBinding})
+title: RenderResourceProvider.CreateMaterialPass
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: 0babf4c257d50fb59e8ff20e58b5d46f7922b4a1e0d1e46282bbedcf563cb5df
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a generation-scoped resolved material pass when no compiled-interface query is required.

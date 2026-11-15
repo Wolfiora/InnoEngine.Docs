@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8ee5211e0e098d28c38b0a0e32e60edaaeef891bd0c494941d45a01dd1b16869
-symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.InspectionDrawerRegistry.TryResolveExact(Inno.Editor.Core.EditorContext,System.Object,Inno.Editor.Inspection.SerializedPropertyRenderer,Inno.Editor.Inspection.IInspectionDrawer@,Inno.Editor.Inspection.InspectionDrawContext@)"
-source: xml
-reviewed: 87e8bb7a4ecdfc8d1a3ea9016de9286dea0eb3136dc326414922ec82da6259ac
-title: "InspectionDrawerRegistry.TryResolveExact"
+symbol: engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.InspectionDrawerRegistry.TryResolveExact(Inno.Editor.Core.EditorContext,System.Object,Inno.Editor.Inspection.SerializedPropertyRenderer,Inno.Editor.Inspection.IInspectionDrawer@,Inno.Editor.Inspection.InspectionDrawContext@)
+title: InspectionDrawerRegistry.TryResolveExact
 kind: api
-owners: [Inno.Editor.Inspection]
+owners:
+- Inno.Editor.Inspection
 apiSurface: source-clr
+reviewed: 87e8bb7a4ecdfc8d1a3ea9016de9286dea0eb3136dc326414922ec82da6259ac
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves only a drawer explicitly registered for the target's exact runtime type.

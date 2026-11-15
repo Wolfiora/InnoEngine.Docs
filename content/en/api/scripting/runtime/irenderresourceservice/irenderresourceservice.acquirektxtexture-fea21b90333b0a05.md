@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fea21b90333b0a0536a4d6bf70082e5d01aa82a372b33b41e1697fec0a17552d
-symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.AcquireKtxTexture(InnoEngine.Rendering.RenderPersistentResourceId,System.Int64,System.ReadOnlyMemory{System.Byte},System.Boolean,System.String)"
-source: xml
-reviewed: d16bd59fa89b53afd13626d9143b69a86c0d6b966d25d464e67aa23f4fedf915
-title: "IRenderResourceService.AcquireKtxTexture"
+symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.AcquireKtxTexture(InnoEngine.Rendering.RenderPersistentResourceId,System.Int64,System.ReadOnlyMemory{System.Byte},System.Boolean,System.String)
+title: IRenderResourceService.AcquireKtxTexture
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: d16bd59fa89b53afd13626d9143b69a86c0d6b966d25d464e67aa23f4fedf915
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Acquires or atomically replaces a sampled texture from a portable KTX container.

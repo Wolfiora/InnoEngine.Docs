@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2a6e988a68732d9eb49c72532db453b7cb9e43e57b65938c23ddba80d8d78b5a
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.ColoredText(System.Numerics.Vector4,System.String)"
-source: xml
-reviewed: 85b090bd9df2a338aa519064a05dbff80c9eb47de18ffa5e4f299d063cac70f2
-title: "ImGuiWidget.ColoredText"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.ColoredText(System.Numerics.Vector4,System.String)
+title: ImGuiWidget.ColoredText
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 85b090bd9df2a338aa519064a05dbff80c9eb47de18ffa5e4f299d063cac70f2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws unformatted text with a temporary foreground color.

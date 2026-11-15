@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.de63de0f851a4474e5a75fca65d9b79f056fc3c4f3b7b0bb6f632a6747fe3e95
-symbol: "engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorHistoryChange.kind"
-source: xml
-reviewed: f3aeecd0cbca980b31e136b7d6870c0a4ba7e8f339371774037550d17fae4a6e
-title: "EditorHistoryChange.kind"
+symbol: engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorHistoryChange.kind
+title: EditorHistoryChange.kind
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: f3aeecd0cbca980b31e136b7d6870c0a4ba7e8f339371774037550d17fae4a6e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the stable globally unique handler protocol identifier.

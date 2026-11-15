@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ebc29d2a45bbbea225241450c13cd7aeb9dfaf46199260838514fbd3d5346b43
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3Int.#ctor(System.Int32,System.Int32,System.Int32)"
-source: xml
-reviewed: b8a12ac28d2bdaa389cb968a85baf2dd6294b52857220788e100e84203c0dd29
-title: "Vector3Int.Constructor"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3Int.#ctor(System.Int32,System.Int32,System.Int32)
+title: Vector3Int.Constructor
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: b8a12ac28d2bdaa389cb968a85baf2dd6294b52857220788e100e84203c0dd29
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a vector from explicit component values.

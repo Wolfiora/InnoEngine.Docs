@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7b8c10b067bc1ab03355929cf0f671ae959c4ffd42dd2bfe720ea0cbc025db34
-symbol: "scripting:Inno.Animation:F:InnoEngine.Animation.AnimationValueKind.Vector2"
-source: xml
-reviewed: 522328d9d19a1e414ca0436d9ed3715798d81e4de0062fa0a358f34cd1cafdca
-title: "AnimationValueKind.Vector2"
+symbol: scripting:Inno.Animation:F:InnoEngine.Animation.AnimationValueKind.Vector2
+title: AnimationValueKind.Vector2
 kind: api
-owners: [Inno.Animation]
+owners:
+- Inno.Animation
 apiSurface: editor-script
+reviewed: 522328d9d19a1e414ca0436d9ed3715798d81e4de0062fa0a358f34cd1cafdca
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Two independent components.

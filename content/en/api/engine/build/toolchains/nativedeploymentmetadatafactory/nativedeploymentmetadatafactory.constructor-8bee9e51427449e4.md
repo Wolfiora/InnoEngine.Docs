@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8bee9e51427449e4e08db9f0f8d9651a37c9ff970591777f5e7feffe1de0a614
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeDeploymentMetadataFactory.#ctor(System.Object,System.IntPtr)"
-source: xml
-reviewed: 0654365b479a837dbfdbbf0bfda3f70c84d0c8126d2fc320e7d872508311dda2
-title: "NativeDeploymentMetadataFactory.Constructor"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeDeploymentMetadataFactory.#ctor(System.Object,System.IntPtr)
+title: NativeDeploymentMetadataFactory.Constructor
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 0654365b479a837dbfdbbf0bfda3f70c84d0c8126d2fc320e7d872508311dda2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

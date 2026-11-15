@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.core.editor-script.8c1fb241dc036991
-symbol: "scripting:Inno.Editor.Core:T:InnoEditor.Core.EditorModalAttribute"
-source: xml
-reviewed: b1c7fa9e4141baf9edf8479c8d942b57bceed0aca53170ec1e844dc3973eacca
-title: "EditorModalAttribute"
+symbol: scripting:Inno.Editor.Core:T:InnoEditor.Core.EditorModalAttribute
+title: EditorModalAttribute
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: editor-script
+reviewed: b1c7fa9e4141baf9edf8479c8d942b57bceed0aca53170ec1e844dc3973eacca
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - api.projects.inno-editor-core#lifecycle-and-failure-contracts
 - manual.scripting.use-script-api

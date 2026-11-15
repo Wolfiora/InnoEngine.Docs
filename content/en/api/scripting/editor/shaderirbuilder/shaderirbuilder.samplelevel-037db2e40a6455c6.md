@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.037db2e40a6455c6f3925a3d2f59855ab8a578da781de4aed0b98d0dfe5c334d
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.SampleLevel(InnoEditor.Rendering.Shaders.ShaderIrValue,InnoEditor.Rendering.Shaders.ShaderIrValue,InnoEditor.Rendering.Shaders.ShaderIrValue)"
-source: xml
-reviewed: 4e00b7c61c29d9f313555fb349f57b8e3ef03b773a69d2ddf0d864f149100282
-title: "ShaderIrBuilder.SampleLevel"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.SampleLevel(InnoEditor.Rendering.Shaders.ShaderIrValue,InnoEditor.Rendering.Shaders.ShaderIrValue,InnoEditor.Rendering.Shaders.ShaderIrValue)
+title: ShaderIrBuilder.SampleLevel
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 4e00b7c61c29d9f313555fb349f57b8e3ef03b773a69d2ddf0d864f149100282
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Samples a texture at an explicit floating-point mip level without implicit derivatives.

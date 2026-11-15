@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8aef7d855a57651384a8d502518455b871d10b2a1eb99f7989bd0d77905cb631
-symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioMixerExtension.#ctor"
-source: xml
-reviewed: a39c957f8e89e52fcb42df28c410a83459da8361d3aad2abc61dd4c2d0148ee8
-title: "AudioMixerExtension.Constructor"
+symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioMixerExtension.#ctor
+title: AudioMixerExtension.Constructor
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: a39c957f8e89e52fcb42df28c410a83459da8361d3aad2abc61dd4c2d0148ee8
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2b8d4553281006a81e8a505dd1451472f09a91eb6524ef74e6478c8b30687652
-symbol: "engine:Inno.Editor.Audio:M:Inno.Editor.Audio.EditorAudioHost.CreateRuntimeSubsystemFactory(Inno.Runtime.RuntimeSession)"
-source: xml
-reviewed: d8cd10592258d48a62c7625f34d9de0779c26bb701d27311d9bf644e8d26cfc6
-title: "EditorAudioHost.CreateRuntimeSubsystemFactory"
+symbol: engine:Inno.Editor.Audio:M:Inno.Editor.Audio.EditorAudioHost.CreateRuntimeSubsystemFactory(Inno.Runtime.RuntimeSession)
+title: EditorAudioHost.CreateRuntimeSubsystemFactory
 kind: api
-owners: [Inno.Editor.Audio]
+owners:
+- Inno.Editor.Audio
 apiSurface: source-clr
+reviewed: d8cd10592258d48a62c7625f34d9de0779c26bb701d27311d9bf644e8d26cfc6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates the reusable feature factory used by Edit and Play runtime sessions.

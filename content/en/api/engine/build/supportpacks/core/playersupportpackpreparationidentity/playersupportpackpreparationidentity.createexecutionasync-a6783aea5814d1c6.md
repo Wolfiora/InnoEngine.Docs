@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a6783aea5814d1c69415d8e3f8ecb214c34b5e16c8cbb52cb76c7d2dc6e8ba54
-symbol: "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPreparationIdentity.CreateExecutionAsync(System.Threading.CancellationToken)"
-source: xml
-reviewed: d239d7d0d6586f2e78fd27b4cfd8f6645ea1467d4c22756397c58912dbabbbaa
-title: "PlayerSupportPackPreparationIdentity.CreateExecutionAsync"
+symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPreparationIdentity.CreateExecutionAsync(System.Threading.CancellationToken)
+title: PlayerSupportPackPreparationIdentity.CreateExecutionAsync
 kind: api
-owners: [Inno.Build.SupportPacks.Core]
+owners:
+- Inno.Build.SupportPacks.Core
 apiSurface: source-clr
+reviewed: d239d7d0d6586f2e78fd27b4cfd8f6645ea1467d4c22756397c58912dbabbbaa
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates the exclusively owned fixed managed execution planned by this preparation identity.

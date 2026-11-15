@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cc23ad5de5ff2ecb284c5f34298ac9721c63c2dcc9c38bdff2e5f6158641bc5a
-symbol: "engine:Inno.Audio:M:Inno.Audio.IAudioDevice.SetVoiceParameters(Inno.Audio.AudioDeviceVoiceHandle,Inno.Audio.AudioVoiceParameters)"
-source: xml
-reviewed: b7e1a0bab0ef99f77071957ee1a0aa5d34d90aae9e48050d1c38988d59384646
-title: "IAudioDevice.SetVoiceParameters"
+symbol: engine:Inno.Audio:M:Inno.Audio.IAudioDevice.SetVoiceParameters(Inno.Audio.AudioDeviceVoiceHandle,Inno.Audio.AudioVoiceParameters)
+title: IAudioDevice.SetVoiceParameters
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: b7e1a0bab0ef99f77071957ee1a0aa5d34d90aae9e48050d1c38988d59384646
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Replaces mutable parameters for a live voice.

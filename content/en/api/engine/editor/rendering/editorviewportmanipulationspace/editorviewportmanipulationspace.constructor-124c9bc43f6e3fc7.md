@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.124c9bc43f6e3fc7698cfccbefc8f0061ff6d8c63a00e6fe2103af84c2bf7601
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportManipulationSpace.#ctor(Inno.Core.Mathematics.Matrix,Inno.Core.Mathematics.Matrix,System.Boolean,Inno.Editor.Rendering.EditorViewportManipulationPlane)"
-source: xml
-reviewed: 8f822e1fe860678f3146c6ab5c672c3264540692766ef8e1eadf8c3c8a72d0cd
-title: "EditorViewportManipulationSpace.Constructor"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportManipulationSpace.#ctor(Inno.Core.Mathematics.Matrix,Inno.Core.Mathematics.Matrix,System.Boolean,Inno.Editor.Rendering.EditorViewportManipulationPlane)
+title: EditorViewportManipulationSpace.Constructor
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 8f822e1fe860678f3146c6ab5c672c3264540692766ef8e1eadf8c3c8a72d0cd
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a manipulation space matching one rendered viewport frame.

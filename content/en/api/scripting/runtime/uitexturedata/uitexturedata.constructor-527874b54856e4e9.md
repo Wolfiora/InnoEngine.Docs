@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.527874b54856e4e9688b1c37c35e5d93b46007e5820c0b0269491828d766b952
-symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiTextureData.#ctor(System.Int32,System.Int32,System.ReadOnlySpan{System.Byte})"
-source: xml
-reviewed: a154c11585ccb82a76ed227400b3524037e4d9bd61e8f870956ff64167028682
-title: "UiTextureData.Constructor"
+symbol: scripting:Inno.UI:M:InnoEngine.UI.UiTextureData.#ctor(System.Int32,System.Int32,System.ReadOnlySpan{System.Byte})
+title: UiTextureData.Constructor
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: a154c11585ccb82a76ed227400b3524037e4d9bd61e8f870956ff64167028682
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a validated immutable texture.

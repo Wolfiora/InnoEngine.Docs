@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.883da6e99b3ca42139fabe77db1ad62c5dfd585f67caaf58ba6b82da7d2a6aef
-symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRequestProviderContext.#ctor(Inno.Rendering.Runtime.IRenderRequestSink,Inno.References.ContentReadScope,Inno.Rendering.GraphicsCapabilities,System.Nullable{Inno.Rendering.RenderPresentationSize},System.Nullable{Inno.Rendering.RenderViewport},System.UInt64,System.Single,Inno.Rendering.Runtime.IViewContentCollector,Inno.Rendering.Runtime.RenderOutputInput)"
-source: xml
-reviewed: f9ec6102eaed0a008f28156183778e429b002330a334fca0614dc2114124149c
-title: "RenderRequestProviderContext.Constructor"
+symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRequestProviderContext.#ctor(Inno.Rendering.Runtime.IRenderRequestSink,Inno.References.ContentReadScope,Inno.Rendering.GraphicsCapabilities,System.Nullable{Inno.Rendering.RenderPresentationSize},System.Nullable{Inno.Rendering.RenderViewport},System.UInt64,System.Single,Inno.Rendering.Runtime.IViewContentCollector,Inno.Rendering.Runtime.RenderOutputInput)
+title: RenderRequestProviderContext.Constructor
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: f9ec6102eaed0a008f28156183778e429b002330a334fca0614dc2114124149c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a frame-scoped provider context.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.00b04b7611722a2d85964c8fed38b78faa440c39691f69016d92069c644dfe8d
-symbol: "engine:Inno.UI:M:Inno.UI.UI.SetClass(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle,System.String,System.String,System.Boolean)"
-source: xml
-reviewed: ceda0cb13712854995642d36e22e48fd7ca076ed6e5ae710f5b04841bf94f5ba
-title: "UI.SetClass"
+symbol: engine:Inno.UI:M:Inno.UI.UI.SetClass(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle,System.String,System.String,System.Boolean)
+title: UI.SetClass
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: ceda0cb13712854995642d36e22e48fd7ca076ed6e5ae710f5b04841bf94f5ba
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Activates or deactivates one element class.

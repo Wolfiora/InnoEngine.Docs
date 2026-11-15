@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8d270d886eb4e7a10d0e7c3886c38dd22603d2695197f9b9dc859f6aea4b0727
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.DragDropSource\u0060\u00601(System.String,\u0060\u00600@,System.Action,System.Boolean)"
-source: xml
-reviewed: e5b28e51bbb8239cdde44c7b1da6b5b2f37122ad176f119b9492d8b84cfcde06
-title: "ImGuiWidget.DragDropSource"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.DragDropSource``1(System.String,``0@,System.Action,System.Boolean)
+title: ImGuiWidget.DragDropSource
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: e5b28e51bbb8239cdde44c7b1da6b5b2f37122ad176f119b9492d8b84cfcde06
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Publishes an unmanaged drag payload for the most recently submitted item.

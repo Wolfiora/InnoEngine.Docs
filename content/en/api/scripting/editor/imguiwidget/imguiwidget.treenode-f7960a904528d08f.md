@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f7960a904528d08f970853a5ad3eac0eeeaf1e1477651229124d3f27f559331f
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.TreeNode(System.String,System.Action{InnoEditor.ImGui.TreeNodeDrawContext},InnoEditor.ImGui.TreeNodeOptions@)"
-source: xml
-reviewed: e445923157e3aed5aed6ff6eeca61030175dc9c3081fde72deeef707fe2c99c0
-title: "ImGuiWidget.TreeNode"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.TreeNode(System.String,System.Action{InnoEditor.ImGui.TreeNodeDrawContext},InnoEditor.ImGui.TreeNodeOptions@)
+title: ImGuiWidget.TreeNode
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: e445923157e3aed5aed6ff6eeca61030175dc9c3081fde72deeef707fe2c99c0
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a full-width interactive tree row whose non-leaf content toggles expansion when double-clicked, while preserving single-click disclosure-arrow behavior.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.707803f695e984789cfe1090bcfe24886682db03b3c9cdc0544a423527901959
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.GraphicsApi.CompareTo(Inno.Rendering.GraphicsApi)"
-source: xml
-reviewed: 3c6796f23fae4b989d68cf7295ccd2fd6c2bf562bdbba797631987d0d8d73bdd
-title: "GraphicsApi.CompareTo"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.GraphicsApi.CompareTo(Inno.Rendering.GraphicsApi)
+title: GraphicsApi.CompareTo
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 3c6796f23fae4b989d68cf7295ccd2fd6c2bf562bdbba797631987d0d8d73bdd
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Compares two backend identities using stable ordinal ordering.

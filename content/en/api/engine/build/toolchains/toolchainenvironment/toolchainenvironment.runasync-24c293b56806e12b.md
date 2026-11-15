@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.24c293b56806e12b02fdd14d2367da2530ae714ed585d2006b86c5ba741b4bc8
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.RunAsync(System.String,System.String,System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: a916bb1995929700162ab9e081bd11db28a0cd8bad0f1aac6fc74cce6ce2d7a7
-title: "ToolchainEnvironment.RunAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.RunAsync(System.String,System.String,System.String,System.Threading.CancellationToken)
+title: ToolchainEnvironment.RunAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: a916bb1995929700162ab9e081bd11db28a0cd8bad0f1aac6fc74cce6ce2d7a7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Runs a child build using a complete argument string, without a shell.

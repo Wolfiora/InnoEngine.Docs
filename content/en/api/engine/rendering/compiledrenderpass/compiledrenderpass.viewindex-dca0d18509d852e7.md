@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dca0d18509d852e7a4f897980db1716e296eb21f846ddc4e01f3dd393d26e20f
-symbol: "engine:Inno.Rendering:P:Inno.Rendering.CompiledRenderPass.viewIndex"
-source: xml
-reviewed: 82f34d557d37ad4b01c7f48c3e69ab8821efd96618d6a7a5502cc20a0e743331
-title: "CompiledRenderPass.viewIndex"
+symbol: engine:Inno.Rendering:P:Inno.Rendering.CompiledRenderPass.viewIndex
+title: CompiledRenderPass.viewIndex
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 82f34d557d37ad4b01c7f48c3e69ab8821efd96618d6a7a5502cc20a0e743331
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the backend-neutral logical view order.

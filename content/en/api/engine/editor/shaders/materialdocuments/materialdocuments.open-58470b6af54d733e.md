@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.58470b6af54d733eb1f0fc20d422244d7d7cfba316b6701651e3746a00cab037
-symbol: "engine:Inno.Editor.Shaders:M:Inno.Editor.Shaders.MaterialDocuments.Open(Inno.Assets.AssetPath)"
-source: xml
-reviewed: aff2f67015b121dd2efec91911ce5b89c875af8025b3a2435ae7a2dbad5454cc
-title: "MaterialDocuments.Open"
+symbol: engine:Inno.Editor.Shaders:M:Inno.Editor.Shaders.MaterialDocuments.Open(Inno.Assets.AssetPath)
+title: MaterialDocuments.Open
 kind: api
-owners: [Inno.Editor.Shaders]
+owners:
+- Inno.Editor.Shaders
 apiSurface: source-clr
+reviewed: aff2f67015b121dd2efec91911ce5b89c875af8025b3a2435ae7a2dbad5454cc
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Opens native source, including a source with failed import, without publishing its draft.

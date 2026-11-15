@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9a1287e48a086c8ed885445ebc6b876b2e5a3ca9fd5a856f5916295703bd1f3e
-symbol: "engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.RegisterTexture(Inno.UI.UiContextHandle,System.String,Inno.UI.UiTextureData)"
-source: xml
-reviewed: 2d3fb390eca049b0fb09caf2080dbe9c176c2e7d65025dfae48f7daf1de22201
-title: "UiRuntime.RegisterTexture"
+symbol: engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.RegisterTexture(Inno.UI.UiContextHandle,System.String,Inno.UI.UiTextureData)
+title: UiRuntime.RegisterTexture
 kind: api
-owners: [Inno.UI.Runtime]
+owners:
+- Inno.UI.Runtime
 apiSurface: source-clr
+reviewed: 2d3fb390eca049b0fb09caf2080dbe9c176c2e7d65025dfae48f7daf1de22201
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Registers a named RGBA texture source for UI document drawing.

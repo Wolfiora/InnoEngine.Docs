@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.096bea5290020f7f08e305863a6a6d114a7da5ded723d2aad9d59c4b52e673e7
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.GetMouseDragDelta(Inno.Editor.ImGui.ImGuiMouseButton,System.Single)"
-source: xml
-reviewed: 5b95bb156deeb1c173736f463dd549ed526e2e50dbd071fe3a44528bd565c7ac
-title: "ImGui.GetMouseDragDelta"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.GetMouseDragDelta(Inno.Editor.ImGui.ImGuiMouseButton,System.Single)
+title: ImGui.GetMouseDragDelta
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 5b95bb156deeb1c173736f463dd549ed526e2e50dbd071fe3a44528bd565c7ac
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets accumulated pointer displacement from the current UI drag's starting position for timeline and canvas controls.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cf0dfdb47040a7123c33e7d3c2a7dcb66fcf80e71e27f12ae52c6b923d487ade
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrStageInput.#ctor(System.String,InnoEditor.Rendering.Shaders.ShaderSourceType,InnoEditor.Rendering.Shaders.ShaderIrInputKind,System.String,System.Int32)"
-source: xml
-reviewed: e48f6bac9129679665b99836f4f2abd8f17ca8d5fc8583f2201a0e84785085a3
-title: "ShaderIrStageInput.Constructor"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrStageInput.#ctor(System.String,InnoEditor.Rendering.Shaders.ShaderSourceType,InnoEditor.Rendering.Shaders.ShaderIrInputKind,System.String,System.Int32)
+title: ShaderIrStageInput.Constructor
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: e48f6bac9129679665b99836f4f2abd8f17ca8d5fc8583f2201a0e84785085a3
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an immutable stage input binding.

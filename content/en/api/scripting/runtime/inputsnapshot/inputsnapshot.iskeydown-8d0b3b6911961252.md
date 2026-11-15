@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8d0b3b6911961252ee5167fdaa20ecbae40de7e397a820c7a7a0e8511163f02f
-symbol: "scripting:Inno.Input:M:InnoEngine.Input.InputSnapshot.IsKeyDown(InnoEngine.Input.KeyCode)"
-source: xml
-reviewed: 65d90bb5a6dc4638b09bf4bfbd53361d784c01cf1c36aefd4f9177aab6f1886f
-title: "InputSnapshot.IsKeyDown"
+symbol: scripting:Inno.Input:M:InnoEngine.Input.InputSnapshot.IsKeyDown(InnoEngine.Input.KeyCode)
+title: InputSnapshot.IsKeyDown
 kind: api
-owners: [Inno.Input]
+owners:
+- Inno.Input
 apiSurface: editor-script
+reviewed: 65d90bb5a6dc4638b09bf4bfbd53361d784c01cf1c36aefd4f9177aab6f1886f
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether a key is currently held.

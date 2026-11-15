@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b3d6da446ebafff3192e2b3d0e26fba38a6822cef7b5518f12647c7aa41fc020
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.Trend(System.String,System.ReadOnlySpan{System.Single},System.Int32)"
-source: xml
-reviewed: 67c3e87dd3e79817d29749a16213ef62e2012a705420bdc81e3f73b230a43617
-title: "ImGuiWidget.Trend"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.Trend(System.String,System.ReadOnlySpan{System.Single},System.Int32)
+title: ImGuiWidget.Trend
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 67c3e87dd3e79817d29749a16213ef62e2012a705420bdc81e3f73b230a43617
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a bounded line plot from borrowed numeric samples without copying their buffer.

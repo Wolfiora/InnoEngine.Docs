@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bad7af2f6ffbd117e94bae8eca56c55f36aebe5775501d5d8a71200a54d68145
-symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderBufferSlice.elementCount"
-source: xml
-reviewed: 7a7ba4e562c4823fdf4a52db6a2c0d6d9e4fe94526f93fb17bbc48d69646dbdf
-title: "RenderBufferSlice.elementCount"
+symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderBufferSlice.elementCount
+title: RenderBufferSlice.elementCount
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 7a7ba4e562c4823fdf4a52db6a2c0d6d9e4fe94526f93fb17bbc48d69646dbdf
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the number of uploaded elements.

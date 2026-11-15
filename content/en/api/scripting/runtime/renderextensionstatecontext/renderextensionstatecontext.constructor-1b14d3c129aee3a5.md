@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1b14d3c129aee3a5e747b936b899445e25907e9a24524c005f0990c1a4c87792
-symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderExtensionStateContext.#ctor(InnoEngine.Assets.AssetObject)"
-source: xml
-reviewed: fdf3ff8cf3e140d8752e7ea526b372cab5faad673f3c4807136b787eb669a70c
-title: "RenderExtensionStateContext.Constructor"
+symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderExtensionStateContext.#ctor(InnoEngine.Assets.AssetObject)
+title: RenderExtensionStateContext.Constructor
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: fdf3ff8cf3e140d8752e7ea526b372cab5faad673f3c4807136b787eb669a70c
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Binds restoration to a canonical asset, independently of the caller's ambient session.

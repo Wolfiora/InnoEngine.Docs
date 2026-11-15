@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3fd03de904b2ecc28c7d9dffbeb1e2763992c06a7e2a77fd8962bc61a3053fa7
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationWriter.Write(System.String,System.Object,System.Type)"
-source: xml
-reviewed: 247e941ea00da42bc556f993ba3c05c41cbe232661a18db7f2a46f03dcccd235
-title: "SerializationWriter.Write"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationWriter.Write(System.String,System.Object,System.Type)
+title: SerializationWriter.Write
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: 247e941ea00da42bc556f993ba3c05c41cbe232661a18db7f2a46f03dcccd235
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes a value using its declared metadata type without constructing a generic method at runtime.

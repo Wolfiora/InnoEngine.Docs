@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fc7a569bb4fd5ee66411862c93c749cf1f24f460de09223c50d87f9eb8056591
-symbol: "engine:Inno.Build:M:Inno.Build.BuildProgress.#ctor(System.String,System.Double,System.String)"
-source: xml
-reviewed: 0640f1322b5e8dc23e7b35606d9ace4aad3015ebb9a2ba2054d0d4f9b7c5b836
-title: "BuildProgress.Constructor"
+symbol: engine:Inno.Build:M:Inno.Build.BuildProgress.#ctor(System.String,System.Double,System.String)
+title: BuildProgress.Constructor
 kind: api
-owners: [Inno.Build]
+owners:
+- Inno.Build
 apiSurface: source-clr
+reviewed: 0640f1322b5e8dc23e7b35606d9ace4aad3015ebb9a2ba2054d0d4f9b7c5b836
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a validated progress update.

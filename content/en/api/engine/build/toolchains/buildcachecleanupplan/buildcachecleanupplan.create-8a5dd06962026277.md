@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8a5dd0696202627733aa00cbab95e2eff83f898a7bfdd018a4667d8a6630770a
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCacheCleanupPlan.Create(System.String,System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.BuildCacheOwnerDescriptor},Inno.Build.Toolchains.BuildCachePolicy,System.Boolean,System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: 867c35d4812173ea2306bbc22fc211d83d1f6384d4e011e2a60c95e04141c4af
-title: "BuildCacheCleanupPlan.Create"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCacheCleanupPlan.Create(System.String,System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.BuildCacheOwnerDescriptor},Inno.Build.Toolchains.BuildCachePolicy,System.Boolean,System.String,System.Threading.CancellationToken)
+title: BuildCacheCleanupPlan.Create
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 867c35d4812173ea2306bbc22fc211d83d1f6384d4e011e2a60c95e04141c4af
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Plans retirement by budget pressure or an explicit request to retire every unreferenced artifact.

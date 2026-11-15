@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.41241802cfa7590f3de1b6eb4a6651670561e81f4cbaffe0a209ea6bf03ed9c1
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.PipelineDocuments.RestoreSettings(Inno.Rendering.Assets.SerializedRenderExtensionState)"
-source: xml
-reviewed: 56e5a6e02259c5b6ad4a4b6f79acc263317ce4a82dffef3864ec65398e8d8f8f
-title: "PipelineDocuments.RestoreSettings"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.PipelineDocuments.RestoreSettings(Inno.Rendering.Assets.SerializedRenderExtensionState)
+title: PipelineDocuments.RestoreSettings
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 56e5a6e02259c5b6ad4a4b6f79acc263317ce4a82dffef3864ec65398e8d8f8f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Restores detached settings using the current type and serialization generation.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.735ce81012ae76b46e8cfe10c764f68f60ecda4f94c45b3cef64c6219c7e1593
-symbol: "engine:Inno.Editor.Annotations:M:Inno.Editor.Annotations.ShowIfAttribute.#ctor(System.String)"
-source: xml
-reviewed: 501803efe23d66a2fb798ed4d86e0da452ef09b29104edb67b5759450f819c0a
-title: "ShowIfAttribute.Constructor"
+symbol: engine:Inno.Editor.Annotations:M:Inno.Editor.Annotations.ShowIfAttribute.#ctor(System.String)
+title: ShowIfAttribute.Constructor
 kind: api
-owners: [Inno.Editor.Annotations]
+owners:
+- Inno.Editor.Annotations
 apiSurface: source-clr
+reviewed: 501803efe23d66a2fb798ed4d86e0da452ef09b29104edb67b5759450f819c0a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a truthiness condition.

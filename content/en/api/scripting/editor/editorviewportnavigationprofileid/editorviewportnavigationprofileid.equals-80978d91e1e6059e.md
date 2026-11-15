@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.80978d91e1e6059e903170a65fd5ae53c572cd21e37c6b2b61390c007cc97105
-symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportNavigationProfileId.Equals(System.Object)"
-source: xml
-reviewed: a113787c064c04361671dc69debbfa364a1036400fd6b70be1cc891c99c74a5b
-title: "EditorViewportNavigationProfileId.Equals"
+symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportNavigationProfileId.Equals(System.Object)
+title: EditorViewportNavigationProfileId.Equals
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: editor-script
+reviewed: a113787c064c04361671dc69debbfa364a1036400fd6b70be1cc891c99c74a5b
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d13207c0aa19ff94318e40dd267d9da06b8011eba9bcd5f49c5c0a74ee6ee0e3
-symbol: "engine:Inno.Editor.Annotations:M:Inno.Editor.Annotations.ShowIfAttribute.#ctor(System.String,Inno.Editor.Annotations.InspectorCondition)"
-source: xml
-reviewed: b0222e9449418ff2f6c2ccd8a4cec7f1a62c42a452616f9737670e1780a68152
-title: "ShowIfAttribute.Constructor"
+symbol: engine:Inno.Editor.Annotations:M:Inno.Editor.Annotations.ShowIfAttribute.#ctor(System.String,Inno.Editor.Annotations.InspectorCondition)
+title: ShowIfAttribute.Constructor
 kind: api
-owners: [Inno.Editor.Annotations]
+owners:
+- Inno.Editor.Annotations
 apiSurface: source-clr
+reviewed: b0222e9449418ff2f6c2ccd8a4cec7f1a62c42a452616f9737670e1780a68152
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a named condition that does not require an expected value.

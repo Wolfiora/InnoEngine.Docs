@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.47c3b787fe46d77c9f23757e89fcf75556e44ea5cde7b01ca1a14d953e8cc366
-symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.IEditorSceneWorkspace.IsDirty(InnoEngine.Scene.GameScene)"
-source: xml
-reviewed: e30ac79b143a6b2a6e2533bed2f66ed6f306ed3c78899cd470f0bef718c19dd9
-title: "IEditorSceneWorkspace.IsDirty"
+symbol: scripting:Inno.Editor.Scene:M:InnoEditor.Scene.IEditorSceneWorkspace.IsDirty(InnoEngine.Scene.GameScene)
+title: IEditorSceneWorkspace.IsDirty
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: editor-script
+reviewed: e30ac79b143a6b2a6e2533bed2f66ed6f306ed3c78899cd470f0bef718c19dd9
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether an Edit scene contains unsaved serialized changes.

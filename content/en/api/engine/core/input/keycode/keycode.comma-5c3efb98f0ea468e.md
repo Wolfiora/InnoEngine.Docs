@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5c3efb98f0ea468e889d1608555a5724ffd1c41fcb3f0410138fad62983d5de7
-symbol: "engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.Comma"
-source: xml
-reviewed: 64f05f6e5771856af086ba73aa9936c2f710af981f6ede83ccdec3497fd0143d
-title: "KeyCode.Comma"
+symbol: engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.Comma
+title: KeyCode.Comma
 kind: api
-owners: [Inno.Core.Input]
+owners:
+- Inno.Core.Input
 apiSurface: source-clr
+reviewed: 64f05f6e5771856af086ba73aa9936c2f710af981f6ede83ccdec3497fd0143d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The comma key.

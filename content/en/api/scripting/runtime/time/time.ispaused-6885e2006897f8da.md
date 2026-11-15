@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6885e2006897f8da494ecb5d20ac535f727e82d7dee87a341119416f8442b840
-symbol: "scripting:Inno.Runtime:P:InnoEngine.Core.Time.isPaused"
-source: xml
-reviewed: 03c86b0aa5eb94c794a27e1d29ed8cf71f22bf88118981964a39b7b75694b9dd
-title: "Time.isPaused"
+symbol: scripting:Inno.Runtime:P:InnoEngine.Core.Time.isPaused
+title: Time.isPaused
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: editor-script
+reviewed: 03c86b0aa5eb94c794a27e1d29ed8cf71f22bf88118981964a39b7b75694b9dd
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether scaled simulation is paused.

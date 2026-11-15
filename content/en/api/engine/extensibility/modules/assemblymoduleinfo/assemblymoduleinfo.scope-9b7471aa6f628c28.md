@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9b7471aa6f628c284f3dd0151b26ca7dd457f79355804179f0e1b63683c97363
-symbol: "engine:Inno.Extensibility.Modules:P:Inno.Extensibility.Modules.AssemblyModuleInfo.scope"
-source: xml
-reviewed: 1d0e66796c961cb7cedff6a6951921b7353d8bec9d4fd725753e22608cc64f43
-title: "AssemblyModuleInfo.scope"
+symbol: engine:Inno.Extensibility.Modules:P:Inno.Extensibility.Modules.AssemblyModuleInfo.scope
+title: AssemblyModuleInfo.scope
 kind: api
-owners: [Inno.Extensibility.Modules]
+owners:
+- Inno.Extensibility.Modules
 apiSurface: source-clr
+reviewed: 1d0e66796c961cb7cedff6a6951921b7353d8bec9d4fd725753e22608cc64f43
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The assembly scope value used to initialize this instance.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f3a1d6195781d7553241824559bbe6a4af6d4a4cf99390de979f922dbc8b6717
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.ClickableText(System.String,System.String,System.String)"
-source: xml
-reviewed: c89ce4f0521ee94dde3ecc289c36df19f2f14155283dae9868f64ab65e804a0a
-title: "ImGuiWidget.ClickableText"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.ClickableText(System.String,System.String,System.String)
+title: ImGuiWidget.ClickableText
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: c89ce4f0521ee94dde3ecc289c36df19f2f14155283dae9868f64ab65e804a0a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws clickable text without a persistent or hovered background.

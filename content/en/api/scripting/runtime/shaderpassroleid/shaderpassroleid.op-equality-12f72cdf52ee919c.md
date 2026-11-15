@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.12f72cdf52ee919c2d55056ad896aeed85fba6340110772a5c9e71620475cf14
-symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.ShaderPassRoleId.op_Equality(InnoEngine.Rendering.ShaderPassRoleId,InnoEngine.Rendering.ShaderPassRoleId)"
-source: xml
-reviewed: df48d6943267e10deac7c493f7b22c23e1326d9b137716018545c85e95ab7c04
-title: "ShaderPassRoleId.op_Equality"
+symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.ShaderPassRoleId.op_Equality(InnoEngine.Rendering.ShaderPassRoleId,InnoEngine.Rendering.ShaderPassRoleId)
+title: ShaderPassRoleId.op_Equality
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: editor-script
+reviewed: df48d6943267e10deac7c493f7b22c23e1326d9b137716018545c85e95ab7c04
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

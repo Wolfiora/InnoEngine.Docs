@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0deee2387060417c834c36f67c880a5c63186c7147828b464e334016da8f374b
-symbol: "engine:Inno.Core.Mathematics:P:Inno.Core.Mathematics.RectInt.right"
-source: xml
-reviewed: 9ee5449f38a9f62c9ce2c237857b569b630567a021a3006a0d346b9f236e5edc
-title: "RectInt.right"
+symbol: engine:Inno.Core.Mathematics:P:Inno.Core.Mathematics.RectInt.right
+title: RectInt.right
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 9ee5449f38a9f62c9ce2c237857b569b630567a021a3006a0d346b9f236e5edc
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the scalar measurement or identity associated with the current state.

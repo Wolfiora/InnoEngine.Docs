@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8ecb4f464824640316720c75ad960899f69c8e930c2a43dfd4da8a19b550c6ba
-symbol: "scripting:Inno.Rendering:P:InnoEngine.Rendering.GraphicsLimits.maxComputeBindings"
-source: xml
-reviewed: c9d6afef297d68a0816c92c418566ae0ea4c6122416626f837b6a738b8b5d60f
-title: "GraphicsLimits.maxComputeBindings"
+symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.GraphicsLimits.maxComputeBindings
+title: GraphicsLimits.maxComputeBindings
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: c9d6afef297d68a0816c92c418566ae0ea4c6122416626f837b6a738b8b5d60f
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the maximum storage bindings in one compute pass.

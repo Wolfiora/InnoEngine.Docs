@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6d051a23c8c2e87682ee51698e6e43a976f3d90a9a70ee11c27d76dc04fe4b9f
-symbol: "scripting:Inno.Scene:P:InnoEngine.Scene.GameLayerMask.none"
-source: xml
-reviewed: 8baf741617424229db791e900ece74f374272cae57a5180faee4d0412aea8a2b
-title: "GameLayerMask.none"
+symbol: scripting:Inno.Scene:P:InnoEngine.Scene.GameLayerMask.none
+title: GameLayerMask.none
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: 8baf741617424229db791e900ece74f374272cae57a5180faee4d0412aea8a2b
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets a mask containing no layers.

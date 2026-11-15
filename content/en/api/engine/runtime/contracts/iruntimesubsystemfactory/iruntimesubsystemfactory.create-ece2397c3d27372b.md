@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ece2397c3d27372b4a399272668be2f647579f80d4c19138d27273ecd73f251b
-symbol: "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.IRuntimeSubsystemFactory.Create(Inno.Runtime.Contracts.RuntimeSubsystemContext)"
-source: xml
-reviewed: a9fda3c3e581698298a0b52b0eea8425cfe3b12f5411ad72978cdc6fa799c977
-title: "IRuntimeSubsystemFactory.Create"
+symbol: engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.IRuntimeSubsystemFactory.Create(Inno.Runtime.Contracts.RuntimeSubsystemContext)
+title: IRuntimeSubsystemFactory.Create
 kind: api
-owners: [Inno.Runtime.Contracts]
+owners:
+- Inno.Runtime.Contracts
 apiSurface: source-clr
+reviewed: a9fda3c3e581698298a0b52b0eea8425cfe3b12f5411ad72978cdc6fa799c977
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a subsystem owned exclusively by the supplied construction scope.

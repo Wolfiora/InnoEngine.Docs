@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.78aaa9da8fc97ca7152581a6c75db094e7d6e59ef61a171d015b3c81fb4c9b36
-symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRequest.#ctor(System.String,Inno.Rendering.RenderTarget,Inno.Rendering.RenderViewport,Inno.Rendering.Assets.RenderPipelineAsset,Inno.Rendering.Runtime.RenderFrameData,System.Int32)"
-source: xml
-reviewed: fed5cb4435629583d2807aca052f18b22992c08f87e9946bbae7570efc14718d
-title: "RenderRequest.Constructor"
+symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRequest.#ctor(System.String,Inno.Rendering.RenderTarget,Inno.Rendering.RenderViewport,Inno.Rendering.Assets.RenderPipelineAsset,Inno.Rendering.Runtime.RenderFrameData,System.Int32)
+title: RenderRequest.Constructor
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: fed5cb4435629583d2807aca052f18b22992c08f87e9946bbae7570efc14718d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an immutable render request.

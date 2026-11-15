@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.555ceae7fc2de7cf73f3d2a9016bbf5c7ba86648cd93b1c79059a30a3f1a297d
-symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.IEditorReloadParticipant.Capture(Inno.Extensibility.Modules.AssemblyReloadContext)"
-source: xml
-reviewed: 748ea7062b5327a5343a220aa5ee51b1b0c68476bca628d1f87a59e7b531fd70
-title: "IEditorReloadParticipant.Capture"
+symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.IEditorReloadParticipant.Capture(Inno.Extensibility.Modules.AssemblyReloadContext)
+title: IEditorReloadParticipant.Capture
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: source-clr
+reviewed: 748ea7062b5327a5343a220aa5ee51b1b0c68476bca628d1f87a59e7b531fd70
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures one isolated transaction for the prepared assembly generation.

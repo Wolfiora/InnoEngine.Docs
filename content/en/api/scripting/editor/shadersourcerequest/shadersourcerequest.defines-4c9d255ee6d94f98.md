@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4c9d255ee6d94f98842f7033350e245df8862b85dd27c38f99216b03fa1c8427
-symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderSourceRequest.defines"
-source: xml
-reviewed: 6f1ba1f99d05a003c78c7f58344b29b43f0a2f52fe03d68858fb63b752e5a9dc
-title: "ShaderSourceRequest.defines"
+symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderSourceRequest.defines
+title: ShaderSourceRequest.defines
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 6f1ba1f99d05a003c78c7f58344b29b43f0a2f52fe03d68858fb63b752e5a9dc
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets immutable preprocessing inputs included in analysis cache identity.

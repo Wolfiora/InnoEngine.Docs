@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6660accc589c4c8c21eab460a35ff4d0f3fdd9de8bd74a292196d1792b4e3c5e
-symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableColumnFlags.WidthFixed"
-source: xml
-reviewed: 5eeeca1eee57b5c042fe437ab566f67f79c0aefe81d0d7cce60d8e3e316de657
-title: "ImGuiTableColumnFlags.WidthFixed"
+symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableColumnFlags.WidthFixed
+title: ImGuiTableColumnFlags.WidthFixed
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 5eeeca1eee57b5c042fe437ab566f67f79c0aefe81d0d7cce60d8e3e316de657
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Column will not stretch. Preferable with horizontal scrolling enabled (default if table sizing policy is \_SizingFixedFit and table is resizable).

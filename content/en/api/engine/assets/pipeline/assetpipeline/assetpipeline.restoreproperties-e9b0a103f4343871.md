@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e9b0a103f4343871cfdce3e1f4a720a92de26338bf41778816b4d6a5c8f54356
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.RestoreProperties\u0060\u00601(System.Guid,System.Byte[],\u0060\u00600)"
-source: xml
-reviewed: 1722649e760dfd089aa638c92df7e3d368d18ac96e4d7a77ce98a4e204f9d5c5
-title: "AssetPipeline.RestoreProperties"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.RestoreProperties``1(System.Guid,System.Byte[],``0)
+title: AssetPipeline.RestoreProperties
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 1722649e760dfd089aa638c92df7e3d368d18ac96e4d7a77ce98a4e204f9d5c5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Restores serialized properties to the existing asset object.

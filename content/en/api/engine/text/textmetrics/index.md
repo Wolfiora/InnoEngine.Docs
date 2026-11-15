@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.text.ac7c1fd5668efd67
-symbol: "engine:Inno.Text:T:Inno.Text.TextMetrics"
-source: xml
-reviewed: c10485d9b8b87d4cd354723d07dee18f6048fe96e32827abc381f5429ec5fce9
-title: "TextMetrics"
+symbol: engine:Inno.Text:T:Inno.Text.TextMetrics
+title: TextMetrics
 kind: api
-owners: [Inno.Text]
+owners:
+- Inno.Text
 apiSurface: source-clr
+reviewed: c10485d9b8b87d4cd354723d07dee18f6048fe96e32827abc381f5429ec5fce9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-text#shaping-and-glyph-contract
 aliases: []

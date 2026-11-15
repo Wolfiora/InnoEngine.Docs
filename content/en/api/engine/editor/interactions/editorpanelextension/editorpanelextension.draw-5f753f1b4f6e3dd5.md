@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5f753f1b4f6e3dd59c23ee94f82bf030f3aa19d29716ed778f4e8924112b02d1
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorPanelExtension.Draw(Inno.Editor.Core.EditorContext)"
-source: xml
-reviewed: a0c6e50dad5b80a241837fc8c0a53b31b67defe89d9df2a01c91e513d4ff8a28
-title: "EditorPanelExtension.Draw"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorPanelExtension.Draw(Inno.Editor.Core.EditorContext)
+title: EditorPanelExtension.Draw
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: a0c6e50dad5b80a241837fc8c0a53b31b67defe89d9df2a01c91e513d4ff8a28
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Safely draws the panel body and quarantines a failing extension instance.

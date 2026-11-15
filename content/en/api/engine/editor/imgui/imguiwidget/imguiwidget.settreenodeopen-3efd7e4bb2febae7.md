@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3efd7e4bb2febae7cf9620784fd9d3d53b8f46a6b80546541e6eba17cdab26f3
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.SetTreeNodeOpen(System.String,System.Boolean)"
-source: xml
-reviewed: 248fe1de8dd5450aacd773be4390f1d245203adfa197017fed5b71d858d65145
-title: "ImGuiWidget.SetTreeNodeOpen"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.SetTreeNodeOpen(System.String,System.Boolean)
+title: ImGuiWidget.SetTreeNodeOpen
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 248fe1de8dd5450aacd773be4390f1d245203adfa197017fed5b71d858d65145
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Changes retained expansion before a flattened view is computed, without submitting a row.

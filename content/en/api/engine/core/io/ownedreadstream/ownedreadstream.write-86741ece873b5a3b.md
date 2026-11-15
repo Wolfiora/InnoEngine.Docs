@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.86741ece873b5a3bc0b6b94e3c9350b496b4b674d41b0d27f86723e4f85f497f
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.OwnedReadStream.Write(System.Byte[],System.Int32,System.Int32)"
-source: xml
-reviewed: 666a755f0eb12a88b7eb043ab31dc2bd7d5705bd5915c4df037e3807dfc66c72
-title: "OwnedReadStream.Write"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.OwnedReadStream.Write(System.Byte[],System.Int32,System.Int32)
+title: OwnedReadStream.Write
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: 666a755f0eb12a88b7eb043ab31dc2bd7d5705bd5915c4df037e3807dfc66c72
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 When overridden in a derived class, writes a sequence of bytes to the current stream and advances the current position within this stream by the number of bytes written.

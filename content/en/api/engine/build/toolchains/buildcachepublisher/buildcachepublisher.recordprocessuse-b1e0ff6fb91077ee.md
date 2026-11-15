@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b1e0ff6fb91077eedff577c805846fce3099690ee99bdbc6139dbbabde405037
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCachePublisher.RecordProcessUse(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.Threading.CancellationToken)"
-source: xml
-reviewed: fca5edeb2d29e496b0c0b9ac8f2a5a5c938545766a27b098019d1e1b0abe83d6
-title: "BuildCachePublisher.RecordProcessUse"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCachePublisher.RecordProcessUse(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.Threading.CancellationToken)
+title: BuildCachePublisher.RecordProcessUse
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: fca5edeb2d29e496b0c0b9ac8f2a5a5c938545766a27b098019d1e1b0abe83d6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Registers a process-owned loader directory and its dependencies before returning it to a loader. Retirement preserves the directory until every recorded process has exited. Repeated registrations retain the complete dependency closure of that process-owned operation.

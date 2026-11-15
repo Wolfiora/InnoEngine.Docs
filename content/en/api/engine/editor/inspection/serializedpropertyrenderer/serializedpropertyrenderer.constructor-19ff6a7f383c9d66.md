@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.19ff6a7f383c9d66a9d159e60eb7f38a4b645dea8b35bfc49c1d3240a0d53c6b
-symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.SerializedPropertyRenderer.#ctor(Inno.Editor.Inspection.PropertyDrawerRegistry,Inno.Editor.Inspection.InspectorAttributeDrawerRegistry,Inno.Editor.Interactions.EditorInteractions,Inno.Editor.Inspection.IInspectionPropertyEditService,Inno.Core.Logging.LogRouter)"
-source: xml
-reviewed: d0203fbb2eabdfeebaf649ae372252e928fff8aa6bbaf2e616000a8eee0b6faf
-title: "SerializedPropertyRenderer.Constructor"
+symbol: engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.SerializedPropertyRenderer.#ctor(Inno.Editor.Inspection.PropertyDrawerRegistry,Inno.Editor.Inspection.InspectorAttributeDrawerRegistry,Inno.Editor.Interactions.EditorInteractions,Inno.Editor.Inspection.IInspectionPropertyEditService,Inno.Core.Logging.LogRouter)
+title: SerializedPropertyRenderer.Constructor
 kind: api
-owners: [Inno.Editor.Inspection]
+owners:
+- Inno.Editor.Inspection
 apiSurface: source-clr
+reviewed: d0203fbb2eabdfeebaf649ae372252e928fff8aa6bbaf2e616000a8eee0b6faf
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a serialized property renderer over one drawer registry and feature-owned edit service.

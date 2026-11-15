@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c5ce93af6748567fbbb6c912929bbd5448a1a8c15082c85f07f8485e15d809a6
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.RunAsync(Inno.Build.Toolchains.NativeBuildContext,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Threading.CancellationToken,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})"
-source: xml
-reviewed: 099c9591e6b0c7bb73008a87faabaa781ca800c68b44c6051e06390ec82d0fc9
-title: "ToolchainEnvironment.RunAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.RunAsync(Inno.Build.Toolchains.NativeBuildContext,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Threading.CancellationToken,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})
+title: ToolchainEnvironment.RunAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 099c9591e6b0c7bb73008a87faabaa781ca800c68b44c6051e06390ec82d0fc9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Executes a declared absolute tool with an explicitly resolved SDK environment and records the operation cost.

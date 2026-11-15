@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0a2e23e9a69df6e98cee831402abd292a7ab2f25524c57924b6d55eeb25970cb
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeStaticBuildDefinition.#ctor(System.String,System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.String)"
-source: xml
-reviewed: e1ad81b8f5296991c5f668999aae12f60eedd76d9525e76babe0bdf3936a8eba
-title: "NativeStaticBuildDefinition.Constructor"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeStaticBuildDefinition.#ctor(System.String,System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.String)
+title: NativeStaticBuildDefinition.Constructor
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: e1ad81b8f5296991c5f668999aae12f60eedd76d9525e76babe0bdf3936a8eba
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Freezes the component's CMake entry point, source dependencies and exact installed archive names.

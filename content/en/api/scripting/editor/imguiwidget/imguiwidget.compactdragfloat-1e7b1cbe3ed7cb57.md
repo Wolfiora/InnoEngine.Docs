@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1e7b1cbe3ed7cb5702ae06cf0440f401d0393d9999c0e7b1c150fcde1bd5cc5a
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.CompactDragFloat(System.String,System.Single@,System.Single,System.Nullable{System.Single},System.Nullable{System.Single})"
-source: xml
-reviewed: 6484bddfd9c6e5740f0d68017d91f63e0fa59270ab41f7106a0733f65ed76e09
-title: "ImGuiWidget.CompactDragFloat"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.CompactDragFloat(System.String,System.Single@,System.Single,System.Nullable{System.Single},System.Nullable{System.Single})
+title: ImGuiWidget.CompactDragFloat
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 6484bddfd9c6e5740f0d68017d91f63e0fa59270ab41f7106a0733f65ed76e09
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a floating-point drag field with a compact one-decimal presentation and precise text editing.

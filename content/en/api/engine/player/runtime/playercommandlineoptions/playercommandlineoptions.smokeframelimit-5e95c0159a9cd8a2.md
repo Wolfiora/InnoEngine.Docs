@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5e95c0159a9cd8a2d622441eb5f1e1954e246c2d3922633c8ce0f0030defb629
-symbol: "engine:Inno.Player.Runtime:P:Inno.Player.Runtime.PlayerCommandLineOptions.smokeFrameLimit"
-source: xml
-reviewed: 9d37fe5f758f533f5308a57417041246890f2895fad02811062ea0edde083122
-title: "PlayerCommandLineOptions.smokeFrameLimit"
+symbol: engine:Inno.Player.Runtime:P:Inno.Player.Runtime.PlayerCommandLineOptions.smokeFrameLimit
+title: PlayerCommandLineOptions.smokeFrameLimit
 kind: api
-owners: [Inno.Player.Runtime]
+owners:
+- Inno.Player.Runtime
 apiSurface: source-clr
+reviewed: 9d37fe5f758f533f5308a57417041246890f2895fad02811062ea0edde083122
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets an optional positive bounded run length.

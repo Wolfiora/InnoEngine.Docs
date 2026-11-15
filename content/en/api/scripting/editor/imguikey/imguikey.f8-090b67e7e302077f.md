@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.090b67e7e302077fccb175e03c7b43f65891c90c296ae755eba4ce7193562f40
-symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.F8"
-source: xml
-reviewed: 7ff7087ee46bb63984e5ea43b56d3eb0283572e45aa4e43e446cb97d286d008b
-title: "ImGuiKey.F8"
+symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.F8
+title: ImGuiKey.F8
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 7ff7087ee46bb63984e5ea43b56d3eb0283572e45aa4e43e446cb97d286d008b
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Identifies the F8 presentation key or modifier.

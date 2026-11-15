@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fd1cf81eb6aaeb2aa92ce22958541b755bc197e21a67663547a763520d1727f2
-symbol: "engine:Inno.Build:M:Inno.Build.PlayerSupportPackCatalog.PublishAsync(Inno.Build.BuildTargetId,System.String,Inno.Build.IPlayerSupportPackValidator,System.Threading.CancellationToken,System.Func{System.Threading.CancellationToken,System.Threading.Tasks.ValueTask})"
-source: xml
-reviewed: b2989139d7ed416001956aa288e219a71fc89ac77ce7815076325f61b01b83bb
-title: "PlayerSupportPackCatalog.PublishAsync"
+symbol: engine:Inno.Build:M:Inno.Build.PlayerSupportPackCatalog.PublishAsync(Inno.Build.BuildTargetId,System.String,Inno.Build.IPlayerSupportPackValidator,System.Threading.CancellationToken,System.Func{System.Threading.CancellationToken,System.Threading.Tasks.ValueTask})
+title: PlayerSupportPackCatalog.PublishAsync
 kind: api
-owners: [Inno.Build]
+owners:
+- Inno.Build
 apiSurface: source-clr
+reviewed: b2989139d7ed416001956aa288e219a71fc89ac77ce7815076325f61b01b83bb
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Validates and publishes an immutable pack, then atomically selects it for new readers.

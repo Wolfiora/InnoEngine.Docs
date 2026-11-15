@@ -47,14 +47,26 @@ Edit the relevant fragment and change its ownership marker:
 
 ```yaml
 ---
+# Generated metadata. Keep the existing values.
 uid: <keep-the-existing-page-identity>
 symbol: <keep-the-exact-symbol-identity>
+reviewed: <managed-source-contract-fingerprint>
+
+# Authoring metadata.
 source: manual
-reviewed: <the-reviewed-contract-identity>
+outdated: false
 ---
 ```
 
 Write a meaningful explanation, example or applicable constraint. Merely changing the marker does not complete editorial work. Keep the exact existing `uid` and `symbol`; do not invent a new identity to rename an API. The `reviewed` identity records which source contract an author examined, not a machine guarantee of correctness.
+
+After reviewing your explanation against the current declaration and XML, acknowledge that review from the Docs repository:
+
+```sh
+npm run docs:review -- content/en/api/engine/core/identity/identity/index.md
+```
+
+Replace the path with the registered page you edited. The command uses the pinned managed documentation tooling, sets `reviewed` to the current contract and clears `outdated`. It never edits the explanation, builds engine products, or publishes the site. It can explicitly fetch/bootstrap the pinned tool on first use. An explicit existing immutable engine checkout can be selected with `--engine-root PATH`. Ordinary read-only queries do not perform this preparation.
 
 The generated declaration, parameters, inheritance and member list always follow the captured source. An authored signature in prose cannot replace those facts.
 
@@ -77,8 +89,9 @@ Frontmatter is the YAML block between the opening `---` lines. It describes iden
 | --- | --- | --- |
 | `uid` | Stable page identity used by contract links and queries | Preserve it |
 | `symbol` | Exact API family, project and XML documentation ID, including overload identity | Preserve it; source changes own API renames |
+| `outdated` | Sticky editorial review flag | Set `true` to request review; use the review command to acknowledge it. Clearing/deleting it alone cannot hide a changed contract |
 | `source` | `xml` permits automatic prose updates; `manual` transfers prose to the author | Change to `manual` before writing an explanation |
-| `reviewed` | Digest of the contract and XML/context inputs last acknowledged by the author | Copy the registry's current `contract` only after reviewing the explanation |
+| `reviewed` | Digest of the contract and XML/context inputs last acknowledged by the author | Do not edit this hash; run `npm run docs:review -- <page>` after actual review |
 | `title` | Page label; composed API titles follow current source identity | Do not use it to rename a source symbol |
 | `kind` | Page type, `api` here | Keep it |
 | `owners` | Owning projects; composition reconciles actual ownership | Keep the generated owner |
@@ -92,11 +105,21 @@ Member filenames use the first 16 hexadecimal characters of SHA-256 over `family
 
 A manual file is not frozen source code. Its authored explanation is retained when XML or declarations change; displayed declarations and member tables still follow source facts. A path migration can move the file and repair relative links without regenerating its explanation. A deleted API's manual file remains for review, outside current navigation and default queries. Renames are not guessed to be the same API, and text is never silently reassigned to a different overload.
 
-Only explicit `source: xml` displays the XML Tip above required contracts. A missing marker remains automatically managed for synchronization but does not display that explicit-source notice. Manual pages have no XML Tip. Both kinds retain source provenance directly above the footer's GitHub editing link. Build target/configuration details remain in reference/query provenance instead of cluttering declaration headings.
+API frontmatter has two groups separated by a blank line and YAML comments. The upper group holds generated identities, classification and the `reviewed` fingerprint. The lower group holds editable ownership, review requests, contract links, aliases and example settings. Comments are ignored by YAML; they are not extra metadata fields. Synchronization can refresh the upper group and set the stale flag while preserving manual body bytes.
+
+A status panel appears above required contracts:
+
+| Status | Meaning |
+| --- | --- |
+| Synced, pale yellow circle/exclamation | XML-managed explanation, including a missing source marker |
+| Outdated, pale red circle/cross | Manual explanation whose declaration/XML/context fingerprint changed, or whose author requested review |
+| Verified, pale green circle/check | Manual explanation with no outstanding source review |
+
+Verified describes editorial ownership and review state; it does not certify the explanation's semantic correctness. Editorial gaps remain non-blocking warnings. Source provenance remains directly above the footer's GitHub editing link. Build target/configuration details remain in reference/query provenance instead of cluttering declaration headings.
 
 For XML-managed pages, the source summary appears directly below the title. XML remarks, parameters, returns, exceptions and examples become real Markdown sections in the fragment; they are not appended to a generated signature. The website preserves their section headings, and exact symbol queries include the summary and these sections. Project, API family and Scope appear immediately above inheritance. No generic explanation is substituted for the author's source comments.
 
-Sidebar groups start collapsed. Click a category name to read its page, or its arrow to expand the hierarchy; these actions are independent. The sidebar remembers groups you opened during the browsing session. Engine project categories and Scripting Scopes list types alphabetically. Select a type to find its members and nested types in the member table.
+Sidebar groups start collapsed. Top-level headings only expand or collapse and use chevrons. Deeper groups use square plus/minus controls; a linked category name opens its own page independently. Full-row highlights and animated width changes preserve readable labels up to half the desktop viewport. The sidebar remembers groups you opened during the browsing session. Engine project categories and Scripting Scopes list types alphabetically. Select a type to find its members and nested types in the member table.
 
 ## Interpret the checks
 

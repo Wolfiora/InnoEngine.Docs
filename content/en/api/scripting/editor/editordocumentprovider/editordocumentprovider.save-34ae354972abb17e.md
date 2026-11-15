@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.34ae354972abb17ef23b0fb3645da99c1b4904ca88e9ed5389c1f3a00f7ce0b3
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDocumentProvider.Save(InnoEditor.Interactions.EditorDocumentContext)"
-source: xml
-reviewed: df1563823bd416fe5c49cd8e103529278276be485046cb4b07782c6d7caa3b2b
-title: "EditorDocumentProvider.Save"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDocumentProvider.Save(InnoEditor.Interactions.EditorDocumentContext)
+title: EditorDocumentProvider.Save
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: df1563823bd416fe5c49cd8e103529278276be485046cb4b07782c6d7caa3b2b
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Saves all document changes to its asset source.

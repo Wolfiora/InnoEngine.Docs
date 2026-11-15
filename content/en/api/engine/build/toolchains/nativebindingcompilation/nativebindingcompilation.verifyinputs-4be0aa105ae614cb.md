@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4be0aa105ae614cbe4e06300736f714563de1cc21e550e471e403cb064056595
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingCompilation.VerifyInputs(System.Func{System.String,System.String},System.Threading.CancellationToken)"
-source: xml
-reviewed: 26d5cdc07c26b567a8caf24462d24b1b35ef9e64bac0a85220182d15a4339816
-title: "NativeBindingCompilation.VerifyInputs"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingCompilation.VerifyInputs(System.Func{System.String,System.String},System.Threading.CancellationToken)
+title: NativeBindingCompilation.VerifyInputs
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 26d5cdc07c26b567a8caf24462d24b1b35ef9e64bac0a85220182d15a4339816
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Verifies the exact bytes at original or remapped roots before their use.

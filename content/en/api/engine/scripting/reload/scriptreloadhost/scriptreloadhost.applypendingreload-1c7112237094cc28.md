@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1c7112237094cc28fceb6143195a5a10a669236d47404dfa6896ea0170a2c2d6
-symbol: "engine:Inno.Scripting.Reload:M:Inno.Scripting.Reload.ScriptReloadHost.ApplyPendingReload"
-source: xml
-reviewed: dfafe0fa3ccb2668588ccd0e9ea91fa0d7278e13c3ae4eb8a35714b9267dab4e
-title: "ScriptReloadHost.ApplyPendingReload"
+symbol: engine:Inno.Scripting.Reload:M:Inno.Scripting.Reload.ScriptReloadHost.ApplyPendingReload
+title: ScriptReloadHost.ApplyPendingReload
 kind: api
-owners: [Inno.Scripting.Reload]
+owners:
+- Inno.Scripting.Reload
 apiSurface: source-clr
+reviewed: dfafe0fa3ccb2668588ccd0e9ea91fa0d7278e13c3ae4eb8a35714b9267dab4e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Applies the latest compiled generation, or commits a Plugin-unavailability generation when changed Plugin code cannot produce a replacement, at a caller-controlled main-thread safe point.

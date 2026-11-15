@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.41b09af01f2480f967a029b51ecbd46173cde62bc3c7ffd56595860116d91420
-symbol: "engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.Update(Inno.UI.UiContextHandle,Inno.UI.UiInputSnapshot)"
-source: xml
-reviewed: 5dc919e71498cfdee04a047a53d7fca0c6f48760eb071cbe58ab120830fdfa14
-title: "UiRuntime.Update"
+symbol: engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.Update(Inno.UI.UiContextHandle,Inno.UI.UiInputSnapshot)
+title: UiRuntime.Update
 kind: api
-owners: [Inno.UI.Runtime]
+owners:
+- Inno.UI.Runtime
 apiSurface: source-clr
+reviewed: 5dc919e71498cfdee04a047a53d7fca0c6f48760eb071cbe58ab120830fdfa14
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Advances one UI context with input routed from its rendered view.

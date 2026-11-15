@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8f42f8767dda3b6d6765d30a59dbba1d6c3354dcd06554634a98f698a833a840
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceFunction.#ctor(System.String,InnoEditor.Rendering.Shaders.ShaderSourceType,System.Collections.Generic.IEnumerable{InnoEditor.Rendering.Shaders.ShaderSourceParameter},InnoEditor.Rendering.Shaders.ShaderSourcePosition)"
-source: xml
-reviewed: fb223e98d35eea6ffd71656ac6535adb7f3cd9858676d5023f1a0fe7e8e1ffae
-title: "ShaderSourceFunction.Constructor"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceFunction.#ctor(System.String,InnoEditor.Rendering.Shaders.ShaderSourceType,System.Collections.Generic.IEnumerable{InnoEditor.Rendering.Shaders.ShaderSourceParameter},InnoEditor.Rendering.Shaders.ShaderSourcePosition)
+title: ShaderSourceFunction.Constructor
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: fb223e98d35eea6ffd71656ac6535adb7f3cd9858676d5023f1a0fe7e8e1ffae
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures a source function declaration without retaining parser or provider objects.

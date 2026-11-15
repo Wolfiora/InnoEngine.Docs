@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8e700a5f74125b5f7606fe8bebbe67842aa27a11dd435b30261ba8fef91465d8
-symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderTargetUnavailableException.targetId"
-source: xml
-reviewed: e535e5c4da1d37f3f2f7118061b4334ef633def2462385f1fac5bd2768f20eb9
-title: "ShaderTargetUnavailableException.targetId"
+symbol: engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderTargetUnavailableException.targetId
+title: ShaderTargetUnavailableException.targetId
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: e535e5c4da1d37f3f2f7118061b4334ef633def2462385f1fac5bd2768f20eb9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the stable target identity required by the authored graph.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.04dcc19476477dcdcfae8f75349506602480cfe782dd571e98dbcb51516d45f3
-symbol: "engine:Inno.Adapter.Presentation:M:Inno.Adapter.Presentation.PresentationTextureHandle.#ctor(System.UInt64)"
-source: xml
-reviewed: 0c4528c051c150fab631dec50b4f604e9267775ab07894a090f9f3df3ed05bbc
-title: "PresentationTextureHandle.Constructor"
+symbol: engine:Inno.Adapter.Presentation:M:Inno.Adapter.Presentation.PresentationTextureHandle.#ctor(System.UInt64)
+title: PresentationTextureHandle.Constructor
 kind: api
-owners: [Inno.Adapter.Presentation]
+owners:
+- Inno.Adapter.Presentation
 apiSurface: source-clr
+reviewed: 0c4528c051c150fab631dec50b4f604e9267775ab07894a090f9f3df3ed05bbc
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an opaque presentation texture token.

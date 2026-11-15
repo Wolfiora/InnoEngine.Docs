@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.458985ddb5494f932e3e98081ec6b05f48280f6d4226f0c8487fbbea259db5e9
-symbol: "engine:Inno.Audio:M:Inno.Audio.AudioPlayOptions.#ctor(System.Single,System.Single,System.Single,System.Boolean,System.Int32,System.Nullable{Inno.Audio.AudioBusId},Inno.Audio.AudioClipLoadMode,System.Nullable{Inno.Audio.AudioSpatialOptions})"
-source: xml
-reviewed: 403c8f32fb872779f47de72e728948463eee4d7075021870f298258a5e83d21e
-title: "AudioPlayOptions.Constructor"
+symbol: engine:Inno.Audio:M:Inno.Audio.AudioPlayOptions.#ctor(System.Single,System.Single,System.Single,System.Boolean,System.Int32,System.Nullable{Inno.Audio.AudioBusId},Inno.Audio.AudioClipLoadMode,System.Nullable{Inno.Audio.AudioSpatialOptions})
+title: AudioPlayOptions.Constructor
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 403c8f32fb872779f47de72e728948463eee4d7075021870f298258a5e83d21e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates playback parameters.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.60c768d8a078ffda798fff4e01e77c2b291aa14799cd449e4df257ab7982731b
-symbol: "engine:Inno.Audio:M:Inno.Audio.AudioBusDefinition.#ctor(Inno.Audio.AudioBusId,System.Nullable{Inno.Audio.AudioBusId},System.Single,System.Boolean,System.Collections.Generic.IEnumerable{Inno.Audio.AudioProcessorConfiguration})"
-source: xml
-reviewed: 1df4035185561b4c608cfd6d6ec30222b013fce487a460214db184941b116393
-title: "AudioBusDefinition.Constructor"
+symbol: engine:Inno.Audio:M:Inno.Audio.AudioBusDefinition.#ctor(Inno.Audio.AudioBusId,System.Nullable{Inno.Audio.AudioBusId},System.Single,System.Boolean,System.Collections.Generic.IEnumerable{Inno.Audio.AudioProcessorConfiguration})
+title: AudioBusDefinition.Constructor
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 1df4035185561b4c608cfd6d6ec30222b013fce487a460214db184941b116393
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an immutable mixer bus definition.

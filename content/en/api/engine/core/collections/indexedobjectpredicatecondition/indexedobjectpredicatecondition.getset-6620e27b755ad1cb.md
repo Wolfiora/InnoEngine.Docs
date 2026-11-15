@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6620e27b755ad1cb39a0483a361371a28c06601bff57b3732bfd52376f1b9b0a
-symbol: "engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectPredicateCondition\u00601.GetSet(Inno.Core.Collections.IndexedObjectStore{\u00600})"
-source: xml
-reviewed: b538286a8099385e0ada84bd7f0917bc0bc5db7537ee0ce54bb0c63fc28a2c52
-title: "IndexedObjectPredicateCondition\u003CT\u003E.GetSet"
+symbol: engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectPredicateCondition`1.GetSet(Inno.Core.Collections.IndexedObjectStore{`0})
+title: IndexedObjectPredicateCondition<T>.GetSet
 kind: api
-owners: [Inno.Core.Collections]
+owners:
+- Inno.Core.Collections
 apiSurface: source-clr
+reviewed: b538286a8099385e0ada84bd7f0917bc0bc5db7537ee0ce54bb0c63fc28a2c52
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets a set required by the implemented contract.

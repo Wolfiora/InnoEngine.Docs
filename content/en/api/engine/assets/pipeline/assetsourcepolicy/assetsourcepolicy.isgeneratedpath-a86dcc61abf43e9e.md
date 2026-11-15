@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a86dcc61abf43e9e53642ba6a0798aaff85ebf26b4f032d7022665865788df5b
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourcePolicy.IsGeneratedPath(System.String)"
-source: xml
-reviewed: 159bb20ef1a7c4120c321f1ef8a8f4812168807d4c0ef7e4283f79eada2a3e21
-title: "AssetSourcePolicy.IsGeneratedPath"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourcePolicy.IsGeneratedPath(System.String)
+title: AssetSourcePolicy.IsGeneratedPath
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 159bb20ef1a7c4120c321f1ef8a8f4812168807d4c0ef7e4283f79eada2a3e21
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether a path is generated asset metadata.

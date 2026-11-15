@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4396ce470a5e7272723a7bb0745e8cfed905e06152e5651e92b0d0f1b8fd8cf6
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderTargetArtifactProvider.GetTextureArtifact(Inno.Rendering.Assets.RenderTextureArtifactReference,System.ReadOnlyMemory{System.Byte}@)"
-source: xml
-reviewed: 6c5d1367c1e52a8667f528b61f68b4123a7dfe1d9bbdf81ff4d9fcf8203bdb3a
-title: "EditorRenderTargetArtifactProvider.GetTextureArtifact"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderTargetArtifactProvider.GetTextureArtifact(Inno.Rendering.Assets.RenderTextureArtifactReference,System.ReadOnlyMemory{System.Byte}@)
+title: EditorRenderTargetArtifactProvider.GetTextureArtifact
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 6c5d1367c1e52a8667f528b61f68b4123a7dfe1d9bbdf81ff4d9fcf8203bdb3a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns a matching compiled texture when available and schedules a replacement when source state changed.

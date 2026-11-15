@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.build.toolchains.aaa2ad78c607f7a8
-symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.BuildArtifactOptions"
-source: xml
-reviewed: 7b5d32a6fb3102368ba295fa9b6ba3b6b6d07568cf9b7cd33d96002cc52c502a
-title: "BuildArtifactOptions"
+symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.BuildArtifactOptions
+title: BuildArtifactOptions
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 7b5d32a6fb3102368ba295fa9b6ba3b6b6d07568cf9b7cd33d96002cc52c502a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-build-toolchains
 aliases: []

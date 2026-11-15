@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a2c6778ee78a1339dc5441ebc5b4a8804d99f305470cfe194d38609fa35af3c8
-symbol: "engine:Inno.Core.Layers:M:Inno.Core.Layers.LayerStack.Dispose"
-source: xml
-reviewed: dc6dba3a215324e6848c146ec6ef389f499c8c5be333721e4ff3fd6f4f055819
-title: "LayerStack.Dispose"
+symbol: engine:Inno.Core.Layers:M:Inno.Core.Layers.LayerStack.Dispose
+title: LayerStack.Dispose
 kind: api
-owners: [Inno.Core.Layers]
+owners:
+- Inno.Core.Layers
 apiSurface: source-clr
+reviewed: dc6dba3a215324e6848c146ec6ef389f499c8c5be333721e4ff3fd6f4f055819
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Detaches every layer and permanently releases this stack.

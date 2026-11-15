@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.runtime-script.4e9260ee7fa61efb
-symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderStoreAction"
-source: xml
-reviewed: e9f31ae002db0bf3117adcac7a0d00f73105524a758a8944a3a5a62e9b52f731
-title: "RenderStoreAction"
+symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderStoreAction
+title: RenderStoreAction
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: e9f31ae002db0bf3117adcac7a0d00f73105524a758a8944a3a5a62e9b52f731
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-rendering

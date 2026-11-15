@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a41cfd38ad31de7496cff043d88492cdff33b8e589913f8f34ec4f5137cfc234
-symbol: "scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.PropertyDrawContext.DrawInlineChild(System.String,System.Type,System.Func{System.Object},System.Action{System.Object},System.Boolean)"
-source: xml
-reviewed: e736695880555addd7374b76ee12bca8ddef6b35848c04fd897027b8277a2673
-title: "PropertyDrawContext.DrawInlineChild"
+symbol: scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.PropertyDrawContext.DrawInlineChild(System.String,System.Type,System.Func{System.Object},System.Action{System.Object},System.Boolean)
+title: PropertyDrawContext.DrawInlineChild
 kind: api
-owners: [Inno.Editor.Inspection]
+owners:
+- Inno.Editor.Inspection
 apiSurface: editor-script
+reviewed: e736695880555addd7374b76ee12bca8ddef6b35848c04fd897027b8277a2673
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a nested value inline without adding another label row.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c0b472e7d1d1326833dd577c37244622c74c6fd8b01a9f2b709346b3f3c47c71
-symbol: "engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioRuntime.Resume(Inno.Audio.AudioVoiceHandle)"
-source: xml
-reviewed: 5be5da6d2bfcd574af43348c99b70d9a7f53a198b28e9dbd2adb28e4036b7a23
-title: "AudioRuntime.Resume"
+symbol: engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioRuntime.Resume(Inno.Audio.AudioVoiceHandle)
+title: AudioRuntime.Resume
 kind: api
-owners: [Inno.Audio.Runtime]
+owners:
+- Inno.Audio.Runtime
 apiSurface: source-clr
+reviewed: 5be5da6d2bfcd574af43348c99b70d9a7f53a198b28e9dbd2adb28e4036b7a23
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resumes a paused voice.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2a2cf322af9d78753ab805c8a04e780f602194b607349a930bc03fb11f1cba3a
-symbol: "engine:Inno.Assets:P:Inno.Assets.AssetInfo.lastSuccessfulArtifactKey"
-source: xml
-reviewed: ec59d6c33102f27261194062eceff2ece1e7480273e688e9243cc349c39957c6
-title: "AssetInfo.lastSuccessfulArtifactKey"
+symbol: engine:Inno.Assets:P:Inno.Assets.AssetInfo.lastSuccessfulArtifactKey
+title: AssetInfo.lastSuccessfulArtifactKey
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: ec59d6c33102f27261194062eceff2ece1e7480273e688e9243cc349c39957c6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the most recent successfully imported artifact key.

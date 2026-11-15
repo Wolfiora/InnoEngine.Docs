@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d32c8ba505b192e088041e48a28dea8cfdf5cedba65b5fc6440a8fe9c2b5bd02
-symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.Audio.ReleasePreload(InnoEngine.Audio.AudioClipAsset)"
-source: xml
-reviewed: 3c68a22a4f34b3c3699f661c81a482cb7827d1c72fed766b3f688ec3de597496
-title: "Audio.ReleasePreload"
+symbol: scripting:Inno.Audio:M:InnoEngine.Audio.Audio.ReleasePreload(InnoEngine.Audio.AudioClipAsset)
+title: Audio.ReleasePreload
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: 3c68a22a4f34b3c3699f661c81a482cb7827d1c72fed766b3f688ec3de597496
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Releases one explicit preload retention without interrupting active voices.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.abe6e70ccaaf765feab132d81a39083e36c7884e2dfb13bed412197f16befd8a
-symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.Log.Debug(System.Type,System.String,System.Collections.Generic.IReadOnlyList{System.Object},System.String,System.Int32)"
-source: xml
-reviewed: 4479504b780fa1238459eac958d64007e3d28fba948d73af473ceefdba3d9cc4
-title: "Log.Debug"
+symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.Log.Debug(System.Type,System.String,System.Collections.Generic.IReadOnlyList{System.Object},System.String,System.Int32)
+title: Log.Debug
 kind: api
-owners: [Inno.Core.Logging]
+owners:
+- Inno.Core.Logging
 apiSurface: source-clr
+reviewed: 4479504b780fa1238459eac958d64007e3d28fba948d73af473ceefdba3d9cc4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes a formatted debug-level message with its source location.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f1cd50e63b51406b4d0674e682800f8bb7f338b86b1108bb39c4c659c873ae38
-symbol: "engine:Inno.Adapter.Rendering:M:Inno.Adapter.Rendering.RenderingBackendId.Equals(System.Object)"
-source: xml
-reviewed: c72929377a0a3511da961852159c908be277386617346bc6e40fb0fe08730c68
-title: "RenderingBackendId.Equals"
+symbol: engine:Inno.Adapter.Rendering:M:Inno.Adapter.Rendering.RenderingBackendId.Equals(System.Object)
+title: RenderingBackendId.Equals
 kind: api
-owners: [Inno.Adapter.Rendering]
+owners:
+- Inno.Adapter.Rendering
 apiSurface: source-clr
+reviewed: c72929377a0a3511da961852159c908be277386617346bc6e40fb0fe08730c68
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

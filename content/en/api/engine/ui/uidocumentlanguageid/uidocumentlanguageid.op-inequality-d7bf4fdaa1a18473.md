@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d7bf4fdaa1a184738ffb14f5c3191d88951493a492f690125776f7cd8f3fb897
-symbol: "engine:Inno.UI:M:Inno.UI.UiDocumentLanguageId.op_Inequality(Inno.UI.UiDocumentLanguageId,Inno.UI.UiDocumentLanguageId)"
-source: xml
-reviewed: 4393684bbe54616f86d511a1578204f0cc98909c642c8161947cd88e2bb5ff83
-title: "UiDocumentLanguageId.op_Inequality"
+symbol: engine:Inno.UI:M:Inno.UI.UiDocumentLanguageId.op_Inequality(Inno.UI.UiDocumentLanguageId,Inno.UI.UiDocumentLanguageId)
+title: UiDocumentLanguageId.op_Inequality
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: 4393684bbe54616f86d511a1578204f0cc98909c642c8161947cd88e2bb5ff83
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

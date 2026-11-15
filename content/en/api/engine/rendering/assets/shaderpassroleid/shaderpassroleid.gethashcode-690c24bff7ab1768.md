@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.690c24bff7ab17687a3611e309c01b7b27df82bfed706124e6a28dad891dfac3
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderPassRoleId.GetHashCode"
-source: xml
-reviewed: f1c1eacbb551b943f85b934d3ed626759acf2232b0e5ce3a421f501bb27754ef
-title: "ShaderPassRoleId.GetHashCode"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderPassRoleId.GetHashCode
+title: ShaderPassRoleId.GetHashCode
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: f1c1eacbb551b943f85b934d3ed626759acf2232b0e5ce3a421f501bb27754ef
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

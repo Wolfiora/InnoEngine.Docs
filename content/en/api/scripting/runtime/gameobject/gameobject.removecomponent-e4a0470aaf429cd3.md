@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e4a0470aaf429cd3fc9509726f003cf26b042ebc6b618c0cd5ce57c1c9b03e4f
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameObject.RemoveComponent(InnoEngine.Scene.GameComponent)"
-source: xml
-reviewed: b5b47a9adb951d0b6142662cc94473dd55b5c879890bb16393677e4e60faf0b4
-title: "GameObject.RemoveComponent"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameObject.RemoveComponent(InnoEngine.Scene.GameComponent)
+title: GameObject.RemoveComponent
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: b5b47a9adb951d0b6142662cc94473dd55b5c879890bb16393677e4e60faf0b4
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Removes and destroys a specific attached component.

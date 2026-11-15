@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d63e80535785eb7511b98b1757dccd0cd194672cdbf01c5bb87ae031ec6fc6bf
-symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.Diagnostic.Warning(System.String,System.String,System.Nullable{Inno.Core.Diagnostics.DiagnosticLocation})"
-source: xml
-reviewed: 37689f7161e06051a5e28b6ad9bf43a6e761c6672d18d261049bc34a84da2131
-title: "Diagnostic.Warning"
+symbol: engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.Diagnostic.Warning(System.String,System.String,System.Nullable{Inno.Core.Diagnostics.DiagnosticLocation})
+title: Diagnostic.Warning
 kind: api
-owners: [Inno.Core.Diagnostics]
+owners:
+- Inno.Core.Diagnostics
 apiSurface: source-clr
+reviewed: 37689f7161e06051a5e28b6ad9bf43a6e761c6672d18d261049bc34a84da2131
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a warning diagnostic value without publishing it.

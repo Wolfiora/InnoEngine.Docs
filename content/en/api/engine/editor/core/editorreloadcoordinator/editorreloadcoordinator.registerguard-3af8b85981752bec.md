@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3af8b85981752beccc3750fbfbd8ad48daf7bef9edd5110af849c22f6a1a0330
-symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorReloadCoordinator.RegisterGuard(Inno.Editor.Core.IEditorReloadGuard)"
-source: xml
-reviewed: f4d7c59b5bc0c5eafa1b5425a66042957c8ce2ea6c3567e2af09a83e10dae1cb
-title: "EditorReloadCoordinator.RegisterGuard"
+symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorReloadCoordinator.RegisterGuard(Inno.Editor.Core.IEditorReloadGuard)
+title: EditorReloadCoordinator.RegisterGuard
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: source-clr
+reviewed: f4d7c59b5bc0c5eafa1b5425a66042957c8ce2ea6c3567e2af09a83e10dae1cb
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Registers a weak admission guard without stopping its owner or creating a generation transaction.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a93220113cc39fc444c5d862d490673654311ccb3792f5b63ff4f3a7329ceeaf
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.IsAnyItemActive"
-source: xml
-reviewed: d840fd6ce45d25e9d19b62c0e6f08e2cb4074de334d9f4ec27cde359c1cd2d36
-title: "ImGui.IsAnyItemActive"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.IsAnyItemActive
+title: ImGui.IsAnyItemActive
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: d840fd6ce45d25e9d19b62c0e6f08e2cb4074de334d9f4ec27cde359c1cd2d36
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Checks whether a submitted control owns an active interaction.

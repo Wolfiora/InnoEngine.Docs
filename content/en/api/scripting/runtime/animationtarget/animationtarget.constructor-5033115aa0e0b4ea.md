@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5033115aa0e0b4ea5179025053b9d13f2258c95c3b463372f690c8b2024c089d
-symbol: "scripting:Inno.Animation:M:InnoEngine.Animation.AnimationTarget.#ctor(InnoEngine.Core.Identity)"
-source: xml
-reviewed: 41c1c635b73f9bb65141999c8ad21c982e6ff4bde262cd31f6cad5ae83fabb7a
-title: "AnimationTarget.Constructor"
+symbol: scripting:Inno.Animation:M:InnoEngine.Animation.AnimationTarget.#ctor(InnoEngine.Core.Identity)
+title: AnimationTarget.Constructor
 kind: api
-owners: [Inno.Animation]
+owners:
+- Inno.Animation
 apiSurface: editor-script
+reviewed: 41c1c635b73f9bb65141999c8ad21c982e6ff4bde262cd31f6cad5ae83fabb7a
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures one currently registered destination in its original identity domain.

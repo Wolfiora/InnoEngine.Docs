@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7723587880398141abc103d8f7c4230fb3bee488c6f58e2a8cd8849c0b31765d
-symbol: "engine:Inno.Core.Layers:M:Inno.Core.Layers.Layer.ListenOnce\u0060\u00601(System.Action{\u0060\u00600},System.Int32)"
-source: xml
-reviewed: ebda02a1ea20985505ac6ba92695c2c05b18eddb6323c26e8b778e149239eeb5
-title: "Layer.ListenOnce"
+symbol: engine:Inno.Core.Layers:M:Inno.Core.Layers.Layer.ListenOnce``1(System.Action{``0},System.Int32)
+title: Layer.ListenOnce
 kind: api
-owners: [Inno.Core.Layers]
+owners:
+- Inno.Core.Layers
 apiSurface: source-clr
+reviewed: ebda02a1ea20985505ac6ba92695c2c05b18eddb6323c26e8b778e149239eeb5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Subscribes once to an event for the lifetime of this layer attachment.

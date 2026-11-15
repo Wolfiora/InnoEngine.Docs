@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.54778d614563f12d1d866994a052f679eb482aa9c2ff0b6451e142f272e3bf13
-symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationRegistry.Restore\u0060\u00601(\u0060\u00600,System.ReadOnlySpan{System.Byte},InnoEngine.Serialization.SerializationContext)"
-source: xml
-reviewed: 17d3a08ddb1d789a06e50845ccc9ce0aee922027410467665d940ee57d667324
-title: "SerializationRegistry.Restore"
+symbol: scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationRegistry.Restore``1(``0,System.ReadOnlySpan{System.Byte},InnoEngine.Serialization.SerializationContext)
+title: SerializationRegistry.Restore
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: editor-script
+reviewed: 17d3a08ddb1d789a06e50845ccc9ce0aee922027410467665d940ee57d667324
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Restores deterministic binary data into an existing serializable root object.

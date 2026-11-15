@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9d1b676ed8272bcc11b2696e8659b5f844dd097efd2a4c56e51afbc0deffecb4
-symbol: "engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Rect.x"
-source: xml
-reviewed: d05dcf00cfbbbf6b2e3556e335938d8c507d6e63ab31432cc19cabe1321af027
-title: "Rect.x"
+symbol: engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Rect.x
+title: Rect.x
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: d05dcf00cfbbbf6b2e3556e335938d8c507d6e63ab31432cc19cabe1321af027
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The horizontal or first component.

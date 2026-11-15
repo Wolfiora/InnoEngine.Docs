@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fed2361705b9abae89d64341c3972dc26487ba64d5fa21daaf161ff3c06caca0
-symbol: "engine:Inno.Text.Runtime:M:Inno.Text.Runtime.TextRuntime.Shape(Inno.Text.FontAsset,System.String,Inno.Text.TextStyle,Inno.Text.TextShapingOptions)"
-source: xml
-reviewed: 6a15878774a74bc92832d30721f9e3c0b4e624125f706e5e10c66b67d341d0f5
-title: "TextRuntime.Shape"
+symbol: engine:Inno.Text.Runtime:M:Inno.Text.Runtime.TextRuntime.Shape(Inno.Text.FontAsset,System.String,Inno.Text.TextStyle,Inno.Text.TextShapingOptions)
+title: TextRuntime.Shape
 kind: api
-owners: [Inno.Text.Runtime]
+owners:
+- Inno.Text.Runtime
 apiSurface: source-clr
+reviewed: 6a15878774a74bc92832d30721f9e3c0b4e624125f706e5e10c66b67d341d0f5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Shapes one Unicode string with an imported font.

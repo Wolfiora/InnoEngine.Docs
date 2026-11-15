@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.891a79d4b97c0df1f80444b2d22520c12b94592a5f95aab995eaacfd1fa6a066
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderContractId.Equals(Inno.Rendering.Assets.ShaderContractId)"
-source: xml
-reviewed: c1aec1a03a05c8dd63f7f47325a0e99ba84f4afa5ebee4972945206330cb473e
-title: "ShaderContractId.Equals"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderContractId.Equals(Inno.Rendering.Assets.ShaderContractId)
+title: ShaderContractId.Equals
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: c1aec1a03a05c8dd63f7f47325a0e99ba84f4afa5ebee4972945206330cb473e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

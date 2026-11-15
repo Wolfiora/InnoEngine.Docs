@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.010e1e5dc206c8ae50b16153cd506e54ce346742a05ca87fd79cf09e0590e5c3
-symbol: "engine:Inno.Editor.Panel.Inspector:M:Inno.Editor.Panel.Inspector.AssetReferenceDropTarget.#ctor(System.Type,System.Action{System.Guid})"
-source: xml
-reviewed: abad58880e02fa687493239e8b22463239e981d4315952f1e5257ecc4d633733
-title: "AssetReferenceDropTarget.Constructor"
+symbol: engine:Inno.Editor.Panel.Inspector:M:Inno.Editor.Panel.Inspector.AssetReferenceDropTarget.#ctor(System.Type,System.Action{System.Guid})
+title: AssetReferenceDropTarget.Constructor
 kind: api
-owners: [Inno.Editor.Panel.Inspector]
+owners:
+- Inno.Editor.Panel.Inspector
 apiSurface: source-clr
+reviewed: abad58880e02fa687493239e8b22463239e981d4315952f1e5257ecc4d633733
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a drop target that validates an asset type and assigns its persistent identity to a property.

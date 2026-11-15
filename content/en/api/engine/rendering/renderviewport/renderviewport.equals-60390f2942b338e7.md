@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.60390f2942b338e770e7811bba699622bf74726c6bbb79b1631a7c8849aafb30
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderViewport.Equals(System.Object)"
-source: xml
-reviewed: 8ad8f70269d2b3ef503f8423986198baa0f14b1b463a8697a7aa3528a886106e
-title: "RenderViewport.Equals"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderViewport.Equals(System.Object)
+title: RenderViewport.Equals
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 8ad8f70269d2b3ef503f8423986198baa0f14b1b463a8697a7aa3528a886106e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9e23ee8535dd58913ba73f5b028e127fdf122572a3f17afabce4d113bf80a3ec
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationResult.ContainsKey(System.String)"
-source: xml
-reviewed: f21353419b9acb78fb51ba7046c789a4222576028af445d6bdaadb3fb954f1a2
-title: "NativeBindingGenerationResult.ContainsKey"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationResult.ContainsKey(System.String)
+title: NativeBindingGenerationResult.ContainsKey
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: f21353419b9acb78fb51ba7046c789a4222576028af445d6bdaadb3fb954f1a2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether the read-only dictionary contains an element that has the specified key.

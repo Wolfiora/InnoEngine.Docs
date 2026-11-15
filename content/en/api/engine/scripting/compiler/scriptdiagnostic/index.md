@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.scripting.compiler.15ef34a77546d5bf
-symbol: "engine:Inno.Scripting.Compiler:T:Inno.Scripting.Compiler.ScriptDiagnostic"
-source: xml
-reviewed: 470318c78818083e4016b59fa7fd83235a525f74d049cfa8a03d83c1e7d9098f
-title: "ScriptDiagnostic"
+symbol: engine:Inno.Scripting.Compiler:T:Inno.Scripting.Compiler.ScriptDiagnostic
+title: ScriptDiagnostic
 kind: api
-owners: [Inno.Scripting.Compiler]
+owners:
+- Inno.Scripting.Compiler
 apiSurface: source-clr
+reviewed: 470318c78818083e4016b59fa7fd83235a525f74d049cfa8a03d83c1e7d9098f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-scripting-compiler
 aliases: []

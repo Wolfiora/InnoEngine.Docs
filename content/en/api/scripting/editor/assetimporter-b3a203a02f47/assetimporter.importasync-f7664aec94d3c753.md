@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f7664aec94d3c753d3708827aaebe5b7ab82f4beba57fa0d2e0d501e16edb28f
-symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetImporter\u00601.ImportAsync(InnoEditor.Assets.AssetImportContext,InnoEditor.Assets.AssetImportWriter{\u00600},System.Threading.CancellationToken)"
-source: xml
-reviewed: 5f56ed6ee2bd772232276faa4421635e95d111a1fce1685ed8e14efbd4423021
-title: "AssetImporter\u003CTAsset\u003E.ImportAsync"
+symbol: scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetImporter`1.ImportAsync(InnoEditor.Assets.AssetImportContext,InnoEditor.Assets.AssetImportWriter{`0},System.Threading.CancellationToken)
+title: AssetImporter<TAsset>.ImportAsync
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: editor-script
+reviewed: 5f56ed6ee2bd772232276faa4421635e95d111a1fce1685ed8e14efbd4423021
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Imports one source into a managed asset and named artifact outputs.

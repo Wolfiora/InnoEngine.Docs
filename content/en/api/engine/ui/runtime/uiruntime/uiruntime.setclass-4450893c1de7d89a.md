@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4450893c1de7d89a5951b1283950649b7a729df71bcad9a4639b5cc5977c9fef
-symbol: "engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.SetClass(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle,System.String,System.String,System.Boolean)"
-source: xml
-reviewed: dc07724bf54c6e652ec9de9007fab554a14e21a92792a262c2a2a3884a8cea8f
-title: "UiRuntime.SetClass"
+symbol: engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.SetClass(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle,System.String,System.String,System.Boolean)
+title: UiRuntime.SetClass
 kind: api
-owners: [Inno.UI.Runtime]
+owners:
+- Inno.UI.Runtime
 apiSurface: source-clr
+reviewed: dc07724bf54c6e652ec9de9007fab554a14e21a92792a262c2a2a3884a8cea8f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Updates the class state and applies the resulting invariants.

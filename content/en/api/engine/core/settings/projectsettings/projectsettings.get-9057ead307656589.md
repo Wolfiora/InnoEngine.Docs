@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9057ead3076565893875601adf57fe761c5df909102c011a689584bc8850cb2b
-symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettings.Get\u0060\u00601(Inno.Core.Settings.ProjectSettingId)"
-source: xml
-reviewed: fbbe8e7bde8356476771ca94ca76a06813df05ab65fcfad04d335f236596c5b5
-title: "ProjectSettings.Get"
+symbol: engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettings.Get``1(Inno.Core.Settings.ProjectSettingId)
+title: ProjectSettings.Get
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: source-clr
+reviewed: fbbe8e7bde8356476771ca94ca76a06813df05ab65fcfad04d335f236596c5b5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets an isolated snapshot of a current-generation setting.

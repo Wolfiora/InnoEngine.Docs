@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3eaf574a5a41000a968ca3f27b3b56477147b1a62fa02d7daf0fbcdc70dd35e9
-symbol: "engine:Inno.Core.Events:P:Inno.Core.Events.ApplicationSuspensionChangedEvent.isSuspended"
-source: xml
-reviewed: f36e313bdec7d113a6e1ce94afa15ae31737cee13c84e988fd11be708553ea4b
-title: "ApplicationSuspensionChangedEvent.isSuspended"
+symbol: engine:Inno.Core.Events:P:Inno.Core.Events.ApplicationSuspensionChangedEvent.isSuspended
+title: ApplicationSuspensionChangedEvent.isSuspended
 kind: api
-owners: [Inno.Core.Events]
+owners:
+- Inno.Core.Events
 apiSurface: source-clr
+reviewed: f36e313bdec7d113a6e1ce94afa15ae31737cee13c84e988fd11be708553ea4b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether application execution is suspended after this notification.

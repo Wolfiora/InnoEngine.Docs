@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f00d7c6a709cd70ddf84a762c4a021aecb8ea16461632f65b2e8a73e27654974
-symbol: "engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphEdgeId.GetHashCode"
-source: xml
-reviewed: 14c17f08ac395ccd3e499aafe61aedae3cd05e16190f982f7c70ae213179d6bc
-title: "GraphEdgeId.GetHashCode"
+symbol: engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphEdgeId.GetHashCode
+title: GraphEdgeId.GetHashCode
 kind: api
-owners: [Inno.Core.Graphs]
+owners:
+- Inno.Core.Graphs
 apiSurface: source-clr
+reviewed: 14c17f08ac395ccd3e499aafe61aedae3cd05e16190f982f7c70ae213179d6bc
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

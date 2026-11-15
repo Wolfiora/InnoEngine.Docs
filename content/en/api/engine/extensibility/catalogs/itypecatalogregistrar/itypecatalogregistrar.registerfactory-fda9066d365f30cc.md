@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fda9066d365f30ccfbf5c546aa23b9cbcda4af71b024c4fb88e99cf4668aa509
-symbol: "engine:Inno.Extensibility.Catalogs:M:Inno.Extensibility.Catalogs.ITypeCatalogRegistrar.RegisterFactory(System.Type,System.Func{System.Object})"
-source: xml
-reviewed: 7111d672fd9f95fdfaefb9d24d5466547aa12ca665379844603de176ff3568ac
-title: "ITypeCatalogRegistrar.RegisterFactory"
+symbol: engine:Inno.Extensibility.Catalogs:M:Inno.Extensibility.Catalogs.ITypeCatalogRegistrar.RegisterFactory(System.Type,System.Func{System.Object})
+title: ITypeCatalogRegistrar.RegisterFactory
 kind: api
-owners: [Inno.Extensibility.Catalogs]
+owners:
+- Inno.Extensibility.Catalogs
 apiSurface: source-clr
+reviewed: 7111d672fd9f95fdfaefb9d24d5466547aa12ca665379844603de176ff3568ac
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Registers a closed generic construction linked by the contributing assembly.

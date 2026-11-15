@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.860172bfb09d06c5783accd9b9ded61f3312b833eb97a051f509f8eb55cf4763
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.TypeBadge(System.String,System.Numerics.Vector4,System.String)"
-source: xml
-reviewed: ca9124075136d09b4d4d5f7e56ca2224d8ccd4fb6e8724e0b3378046f3644c2d
-title: "ImGuiWidget.TypeBadge"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.TypeBadge(System.String,System.Numerics.Vector4,System.String)
+title: ImGuiWidget.TypeBadge
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: ca9124075136d09b4d4d5f7e56ca2224d8ccd4fb6e8724e0b3378046f3644c2d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a compact, non-interactive type badge with a subdued fill and semantic outline.

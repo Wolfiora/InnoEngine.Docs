@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.933c592f4dcc0794cf73055eb58769cfff4cbe5ba9a78b3bbdacc58dd5a65ce0
-symbol: "engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.Q"
-source: xml
-reviewed: a580a4855601e902422512626cb87c6de74b97118feb03df63723e5e8a31094f
-title: "KeyCode.Q"
+symbol: engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.Q
+title: KeyCode.Q
 kind: api
-owners: [Inno.Core.Input]
+owners:
+- Inno.Core.Input
 apiSurface: source-clr
+reviewed: a580a4855601e902422512626cb87c6de74b97118feb03df63723e5e8a31094f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The Q letter key.

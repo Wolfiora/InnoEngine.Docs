@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f280d5655af2fd8038d112f59204075ec470ec3cd840a445ac777d7c487eeaf8
-symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.PropertyDrawContext.DrawChild(System.String,System.Type,System.Func{System.Object},System.Action{System.Object},System.Boolean)"
-source: xml
-reviewed: 8c63f329a876933e770290963cee1ad46e0579f98d639db72ee74c9209277044
-title: "PropertyDrawContext.DrawChild"
+symbol: engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.PropertyDrawContext.DrawChild(System.String,System.Type,System.Func{System.Object},System.Action{System.Object},System.Boolean)
+title: PropertyDrawContext.DrawChild
 kind: api
-owners: [Inno.Editor.Inspection]
+owners:
+- Inno.Editor.Inspection
 apiSurface: source-clr
+reviewed: 8c63f329a876933e770290963cee1ad46e0579f98d639db72ee74c9209277044
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a nested value whose setter writes through this property path.

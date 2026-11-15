@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ef2112a03e4c78f69656041918ec139d928ff24f9d48524ba50631c9ebc4f47a
-symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioVoiceParameters.#ctor(System.Single,System.Single,System.Single,System.Nullable{InnoEngine.Audio.AudioSpatialOptions})"
-source: xml
-reviewed: 518551d08e4e14991119116beec24a8a94cfc29abea25fd503711dfbf4e3a362
-title: "AudioVoiceParameters.Constructor"
+symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioVoiceParameters.#ctor(System.Single,System.Single,System.Single,System.Nullable{InnoEngine.Audio.AudioSpatialOptions})
+title: AudioVoiceParameters.Constructor
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: 518551d08e4e14991119116beec24a8a94cfc29abea25fd503711dfbf4e3a362
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a voice parameter snapshot.

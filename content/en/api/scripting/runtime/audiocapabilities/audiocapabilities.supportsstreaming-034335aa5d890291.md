@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.034335aa5d890291e4490b1103145104bd30996f6b9b68bd4746b3d0121c556a
-symbol: "scripting:Inno.Audio:P:InnoEngine.Audio.AudioCapabilities.supportsStreaming"
-source: xml
-reviewed: ee41ddb3e73660f6276a82d598be9b733bf5398e83f7899c6a939efa32fd514e
-title: "AudioCapabilities.supportsStreaming"
+symbol: scripting:Inno.Audio:P:InnoEngine.Audio.AudioCapabilities.supportsStreaming
+title: AudioCapabilities.supportsStreaming
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: ee41ddb3e73660f6276a82d598be9b733bf5398e83f7899c6a939efa32fd514e
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether clips can be decoded incrementally.

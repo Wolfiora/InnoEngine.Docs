@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.16aa2dd38770af742f575a4b42ad84aa5b841b1836990763028961aef9f24cea
-symbol: "engine:Inno.Scripting.Reload:M:Inno.Scripting.Reload.ScriptReloadHost.#ctor(Inno.Scripting.Reload.ScriptReloadOptions,Inno.Scripting.Compiler.ScriptCompiler,Inno.Assets.Pipeline.AssetPipeline,Inno.Plugins.Authoring.PluginEnvironment,Inno.Extensibility.Modules.ModuleHost,Inno.Core.Settings.ProjectSettingsStore,Inno.Scripting.Reload.IScriptReloadCoordinator,System.Func{Inno.Scripting.Compiler.ScriptModuleDeployment,Inno.Extensibility.Modules.IModuleSource})"
-source: xml
-reviewed: 03b54d46f7e43aa30eee160c942ba7ad17631e1a8682455be70bc49da0fa6d00
-title: "ScriptReloadHost.Constructor"
+symbol: engine:Inno.Scripting.Reload:M:Inno.Scripting.Reload.ScriptReloadHost.#ctor(Inno.Scripting.Reload.ScriptReloadOptions,Inno.Scripting.Compiler.ScriptCompiler,Inno.Assets.Pipeline.AssetPipeline,Inno.Plugins.Authoring.PluginEnvironment,Inno.Extensibility.Modules.ModuleHost,Inno.Core.Settings.ProjectSettingsStore,Inno.Scripting.Reload.IScriptReloadCoordinator,System.Func{Inno.Scripting.Compiler.ScriptModuleDeployment,Inno.Extensibility.Modules.IModuleSource})
+title: ScriptReloadHost.Constructor
 kind: api
-owners: [Inno.Scripting.Reload]
+owners:
+- Inno.Scripting.Reload
 apiSurface: source-clr
+reviewed: 03b54d46f7e43aa30eee160c942ba7ad17631e1a8682455be70bc49da0fa6d00
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a reload host for one compiler and runtime module owner.

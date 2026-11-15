@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8d26aa3977f0a7949a993db37ae77d81f0b2e7b177ac6a161fa8deb51bebf650
-symbol: "engine:Inno.Content:P:Inno.Content.ContentPackIndex.totalLength"
-source: xml
-reviewed: 745ae8938ac046e63d02a64fdf30a81c9acca557e0987d85fcc7e295c27dcd39
-title: "ContentPackIndex.totalLength"
+symbol: engine:Inno.Content:P:Inno.Content.ContentPackIndex.totalLength
+title: ContentPackIndex.totalLength
 kind: api
-owners: [Inno.Content]
+owners:
+- Inno.Content
 apiSurface: source-clr
+reviewed: 745ae8938ac046e63d02a64fdf30a81c9acca557e0987d85fcc7e295c27dcd39
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the checked sum of all decoded payload lengths, excluding the index.

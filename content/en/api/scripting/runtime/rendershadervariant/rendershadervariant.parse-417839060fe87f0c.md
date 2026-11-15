@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.417839060fe87f0cbbfca153b8d46abf19daad7b25ba4439f1e5309505eabc3a
-symbol: "scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.RenderShaderVariant.Parse(System.String)"
-source: xml
-reviewed: 156c3ecb0c3ee206be162898542642f016f5faf36d5e35f2fbf1fca9b0dd7500
-title: "RenderShaderVariant.Parse"
+symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.RenderShaderVariant.Parse(System.String)
+title: RenderShaderVariant.Parse
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: editor-script
+reviewed: 156c3ecb0c3ee206be162898542642f016f5faf36d5e35f2fbf1fca9b0dd7500
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Parses the canonical representation stored in a deployed artifact.

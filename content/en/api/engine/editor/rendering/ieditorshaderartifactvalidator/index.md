@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.rendering.ab397d6d58bc9ca0
-symbol: "engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.IEditorShaderArtifactValidator"
-source: xml
-reviewed: a597089c76533166f1d75d6531566080e9f962cc0410659bfc6948d5d1b1b5a9
-title: "IEditorShaderArtifactValidator"
+symbol: engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.IEditorShaderArtifactValidator
+title: IEditorShaderArtifactValidator
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: a597089c76533166f1d75d6531566080e9f962cc0410659bfc6948d5d1b1b5a9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-editor-rendering
 aliases: []

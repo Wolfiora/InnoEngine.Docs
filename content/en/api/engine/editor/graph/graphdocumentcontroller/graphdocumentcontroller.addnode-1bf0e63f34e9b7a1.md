@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1bf0e63f34e9b7a103dc9fbc015432810b8e2afaa84f1fac73083491fef38a21
-symbol: "engine:Inno.Editor.Graph:M:Inno.Editor.Graph.GraphDocumentController.AddNode(System.String,Inno.Core.Graphs.GraphPosition,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Core.Graphs.GraphSerializedValue})"
-source: xml
-reviewed: 90fed6f0ee503fc0fbf723d66661f48deeb67820f96c3c15895acc3538f44dcf
-title: "GraphDocumentController.AddNode"
+symbol: engine:Inno.Editor.Graph:M:Inno.Editor.Graph.GraphDocumentController.AddNode(System.String,Inno.Core.Graphs.GraphPosition,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Core.Graphs.GraphSerializedValue})
+title: GraphDocumentController.AddNode
 kind: api
-owners: [Inno.Editor.Graph]
+owners:
+- Inno.Editor.Graph
 apiSurface: source-clr
+reviewed: 90fed6f0ee503fc0fbf723d66661f48deeb67820f96c3c15895acc3538f44dcf
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds a node with a generated stable identity.

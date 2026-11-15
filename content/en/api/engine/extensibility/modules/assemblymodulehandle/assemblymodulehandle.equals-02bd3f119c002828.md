@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.02bd3f119c002828153950bfe0f890c80ff12bd8a21ba52d060d6ff72479f0ba
-symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyModuleHandle.Equals(Inno.Extensibility.Modules.AssemblyModuleHandle)"
-source: xml
-reviewed: 0647ab260129230b973172dce9ea788348f32e53c556c32dc79ad7fad57e124e
-title: "AssemblyModuleHandle.Equals"
+symbol: engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyModuleHandle.Equals(Inno.Extensibility.Modules.AssemblyModuleHandle)
+title: AssemblyModuleHandle.Equals
 kind: api
-owners: [Inno.Extensibility.Modules]
+owners:
+- Inno.Extensibility.Modules
 apiSurface: source-clr
+reviewed: 0647ab260129230b973172dce9ea788348f32e53c556c32dc79ad7fad57e124e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

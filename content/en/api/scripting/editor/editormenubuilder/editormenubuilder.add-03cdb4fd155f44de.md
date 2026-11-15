@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.03cdb4fd155f44de4a009e9dfc4d87ade86cd4380e1ddbb215b62c1dd491c26d
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorMenuBuilder.Add(System.String,System.String,System.Int32,System.Boolean,System.Object)"
-source: xml
-reviewed: 2434d37770b08730c9eeafae396e84d5fde14ef577e5243b467b7ea13afd6679
-title: "EditorMenuBuilder.Add"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorMenuBuilder.Add(System.String,System.String,System.Int32,System.Boolean,System.Object)
+title: EditorMenuBuilder.Add
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 2434d37770b08730c9eeafae396e84d5fde14ef577e5243b467b7ea13afd6679
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds a dynamic action placement to the menu currently being constructed.

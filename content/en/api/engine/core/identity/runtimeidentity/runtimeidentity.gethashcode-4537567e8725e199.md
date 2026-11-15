@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4537567e8725e199f42eebb45f1c189b4d01c59de3ff55431f663ad2c9005239
-symbol: "engine:Inno.Core.Identity:M:Inno.Core.Identity.RuntimeIdentity.GetHashCode"
-source: xml
-reviewed: 969f64aa6f3e41496cce8c7d1004452cc539fa53a1b4f1b7177298968f5ab730
-title: "RuntimeIdentity.GetHashCode"
+symbol: engine:Inno.Core.Identity:M:Inno.Core.Identity.RuntimeIdentity.GetHashCode
+title: RuntimeIdentity.GetHashCode
 kind: api
-owners: [Inno.Core.Identity]
+owners:
+- Inno.Core.Identity
 apiSurface: source-clr
+reviewed: 969f64aa6f3e41496cce8c7d1004452cc539fa53a1b4f1b7177298968f5ab730
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Computes a hash code from the domain and runtime identifier.

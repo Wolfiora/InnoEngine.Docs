@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f725081b932dd9a8500ce63875afe906af875c378370c144d7f18da98fd20058
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.#ctor(Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.ISerializationMetadataSource)"
-source: xml
-reviewed: 63fa03741261be4a4a0eddc65e2c04caa1dcec09fcee48409c877784cdcdbe52
-title: "SerializationRegistry.Constructor"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.#ctor(Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.ISerializationMetadataSource)
+title: SerializationRegistry.Constructor
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: 63fa03741261be4a4a0eddc65e2c04caa1dcec09fcee48409c877784cdcdbe52
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a serialization registry derived from one isolated type catalog.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5b9d96bac3f36a7aab9f0cf9cf14aa074dbd68716ea0d0ea6d52cdb3cc250d35
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.ExportRuntimeArtifactsAsync(System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: a4491ad269b59b1597d7a445a8e8e527b7f6f6d9444828438af220013136c6c6
-title: "AssetPipeline.ExportRuntimeArtifactsAsync"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.ExportRuntimeArtifactsAsync(System.String,System.Threading.CancellationToken)
+title: AssetPipeline.ExportRuntimeArtifactsAsync
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: a4491ad269b59b1597d7a445a8e8e527b7f6f6d9444828438af220013136c6c6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Exports a runtime-only artifact snapshot on a worker without loading artifact files into memory.

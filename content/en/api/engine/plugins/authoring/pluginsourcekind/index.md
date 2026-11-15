@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.plugins.authoring.aec146e1aad86277
-symbol: "engine:Inno.Plugins.Authoring:T:Inno.Plugins.Authoring.PluginSourceKind"
-source: xml
-reviewed: dc177e4d5e3f708cded811746ccfa72d858d473d8ee995a98743e9d81df27d43
-title: "PluginSourceKind"
+symbol: engine:Inno.Plugins.Authoring:T:Inno.Plugins.Authoring.PluginSourceKind
+title: PluginSourceKind
 kind: api
-owners: [Inno.Plugins.Authoring]
+owners:
+- Inno.Plugins.Authoring
 apiSurface: source-clr
+reviewed: dc177e4d5e3f708cded811746ccfa72d858d473d8ee995a98743e9d81df27d43
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-plugins-authoring#installation-and-generation-contract
 aliases: []

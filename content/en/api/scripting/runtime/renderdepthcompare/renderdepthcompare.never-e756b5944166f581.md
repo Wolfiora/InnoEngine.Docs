@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e756b5944166f581ad763caba8f55339bae5a0f94b561f53f022cd453c0a4c98
-symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderDepthCompare.Never"
-source: xml
-reviewed: 68701e29a7c6f05361afadb022d4e4b638313539da5acf96107a8d29007330d3
-title: "RenderDepthCompare.Never"
+symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderDepthCompare.Never
+title: RenderDepthCompare.Never
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 68701e29a7c6f05361afadb022d4e4b638313539da5acf96107a8d29007330d3
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Always rejects.

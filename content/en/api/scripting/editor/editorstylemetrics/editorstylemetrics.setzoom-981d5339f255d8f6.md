@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.981d5339f255d8f60d5da65e30c6a4282d477487963fbe8bae7dab2dcbadccc9
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorStyleMetrics.SetZoom(System.Single)"
-source: xml
-reviewed: d65928fc742e5775b923f10986190a298ba65ce9a200c4bcb38c35ecdd9c9f7f
-title: "EditorStyleMetrics.SetZoom"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorStyleMetrics.SetZoom(System.Single)
+title: EditorStyleMetrics.SetZoom
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: d65928fc742e5775b923f10986190a298ba65ce9a200c4bcb38c35ecdd9c9f7f
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Requests a bounded zoom without changing metrics partway through an owned native frame.

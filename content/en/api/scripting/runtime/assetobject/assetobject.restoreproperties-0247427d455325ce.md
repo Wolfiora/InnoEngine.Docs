@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0247427d455325cea70c1c1ef8860f6777df5d8574fdb68165f52baf53ddbb0f
-symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.AssetObject.RestoreProperties\u0060\u00601(System.Guid,System.Byte[],\u0060\u00600)"
-source: xml
-reviewed: 5b4607b52c33ad54cbb8d8d81e71f9b8bde700aa4d46f50121abd86e8922e589
-title: "AssetObject.RestoreProperties"
+symbol: scripting:Inno.Assets:M:InnoEngine.Assets.AssetObject.RestoreProperties``1(System.Guid,System.Byte[],``0)
+title: AssetObject.RestoreProperties
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: editor-script
+reviewed: 5b4607b52c33ad54cbb8d8d81e71f9b8bde700aa4d46f50121abd86e8922e589
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Restores detached extension settings using this asset's actual owner and converter generation.

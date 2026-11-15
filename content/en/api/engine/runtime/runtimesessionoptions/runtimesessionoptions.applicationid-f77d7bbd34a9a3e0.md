@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f77d7bbd34a9a3e08713ace2d8eb37a31af3ff2072c043e272131ab0e0bd2e59
-symbol: "engine:Inno.Runtime:P:Inno.Runtime.RuntimeSessionOptions.applicationId"
-source: xml
-reviewed: fcbd7572b2595c3e99c2faf744e8dfa2ab3effd46451bc8de4b81114da3b335b
-title: "RuntimeSessionOptions.applicationId"
+symbol: engine:Inno.Runtime:P:Inno.Runtime.RuntimeSessionOptions.applicationId
+title: RuntimeSessionOptions.applicationId
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: fcbd7572b2595c3e99c2faf744e8dfa2ab3effd46451bc8de4b81114da3b335b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or initializes the stable application identifier used to isolate persistent data.

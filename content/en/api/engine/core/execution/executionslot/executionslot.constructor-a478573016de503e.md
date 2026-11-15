@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a478573016de503e7ff1131af5f8076af689fb4d5c30d403f6db2d3fdfec5369
-symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.ExecutionSlot\u00601.#ctor(System.String)"
-source: xml
-reviewed: 8a91ba7bd242290bc5f1854166ab3632c195308e3684e08f87f492c4fd81097d
-title: "ExecutionSlot\u003CTValue\u003E.Constructor"
+symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.ExecutionSlot`1.#ctor(System.String)
+title: ExecutionSlot<TValue>.Constructor
 kind: api
-owners: [Inno.Core.Execution]
+owners:
+- Inno.Core.Execution
 apiSurface: source-clr
+reviewed: 8a91ba7bd242290bc5f1854166ab3632c195308e3684e08f87f492c4fd81097d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a slot without binding a process-global service.

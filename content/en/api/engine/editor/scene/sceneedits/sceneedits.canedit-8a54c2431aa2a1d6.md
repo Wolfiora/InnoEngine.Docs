@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8a54c2431aa2a1d670cbec988cd45055f36de417a07ba62b33cef41c5197e168
-symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.CanEdit(Inno.Scene.GameScene)"
-source: xml
-reviewed: a53bd40183f9794549e060b0ba363a8250f4e0c2e773db72f3da967fcb9b9ebd
-title: "SceneEdits.CanEdit"
+symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.CanEdit(Inno.Scene.GameScene)
+title: SceneEdits.CanEdit
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: source-clr
+reviewed: a53bd40183f9794549e060b0ba363a8250f4e0c2e773db72f3da967fcb9b9ebd
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether the scene is editable in the current Edit or isolated Play world.

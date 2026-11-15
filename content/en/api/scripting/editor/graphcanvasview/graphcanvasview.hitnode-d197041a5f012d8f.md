@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d197041a5f012d8f20264908ff28de0b86c9b3d3111b940fa342283673cd3391
-symbol: "scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasView.HitNode(InnoEditor.Graph.GraphCanvasLayout,System.Numerics.Vector2)"
-source: xml
-reviewed: 254166bd07bd7730263c0b809819238cc1533fc1f35f71bb429fcb58f99b5938
-title: "GraphCanvasView.HitNode"
+symbol: scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasView.HitNode(InnoEditor.Graph.GraphCanvasLayout,System.Numerics.Vector2)
+title: GraphCanvasView.HitNode
 kind: api
-owners: [Inno.Editor.Graph.ImGui]
+owners:
+- Inno.Editor.Graph.ImGui
 apiSurface: editor-script
+reviewed: 254166bd07bd7730263c0b809819238cc1533fc1f35f71bb429fcb58f99b5938
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Finds the frontmost node beneath a pointer using the same geometry as drawing.

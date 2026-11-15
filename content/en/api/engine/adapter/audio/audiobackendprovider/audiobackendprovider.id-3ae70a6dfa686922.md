@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3ae70a6dfa686922de9abdc7caedd7d56679096bef3db684219e781f20537a85
-symbol: "engine:Inno.Adapter.Audio:P:Inno.Adapter.Audio.AudioBackendProvider.id"
-source: xml
-reviewed: e4810f8b82a6504370af8b0d035eeda3988939c8cc6b58cf891db248d9d51374
-title: "AudioBackendProvider.id"
+symbol: engine:Inno.Adapter.Audio:P:Inno.Adapter.Audio.AudioBackendProvider.id
+title: AudioBackendProvider.id
 kind: api
-owners: [Inno.Adapter.Audio]
+owners:
+- Inno.Adapter.Audio
 apiSurface: source-clr
+reviewed: e4810f8b82a6504370af8b0d035eeda3988939c8cc6b58cf891db248d9d51374
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets this registration's immutable implementation identity.

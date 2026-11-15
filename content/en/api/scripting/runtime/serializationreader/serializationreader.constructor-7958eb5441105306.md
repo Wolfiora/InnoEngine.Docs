@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7958eb5441105306303ea1add3d73b2ade147ae093a3878b2bc75aa366b3af95
-symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationReader.#ctor"
-source: xml
-reviewed: 5d0104ac8f7e5a2cf63bd07a4c789f92ac0b94ec7c79d09161e544a5f0077a70
-title: "SerializationReader.Constructor"
+symbol: scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationReader.#ctor
+title: SerializationReader.Constructor
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: editor-script
+reviewed: 5d0104ac8f7e5a2cf63bd07a4c789f92ac0b94ec7c79d09161e544a5f0077a70
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Appears in the generated script reference without a matching public or protected engine constructor.

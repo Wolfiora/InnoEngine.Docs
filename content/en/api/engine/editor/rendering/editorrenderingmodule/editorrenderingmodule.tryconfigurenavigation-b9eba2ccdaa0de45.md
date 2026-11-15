@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b9eba2ccdaa0de45bb576d2bdaf3bb58723b56ed024ec8b1dfca3736a36e5267
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderingModule.TryConfigureNavigation(Inno.Editor.Rendering.EditorViewportKindId,System.String,System.Int32,System.Int32,Inno.Editor.Rendering.EditorViewportNavigationProfile@)"
-source: xml
-reviewed: be79444d843a910684a8af269236649acbacfcfd543ae96a46bdde994ed795f2
-title: "EditorRenderingModule.TryConfigureNavigation"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderingModule.TryConfigureNavigation(Inno.Editor.Rendering.EditorViewportKindId,System.String,System.Int32,System.Int32,Inno.Editor.Rendering.EditorViewportNavigationProfile@)
+title: EditorRenderingModule.TryConfigureNavigation
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: be79444d843a910684a8af269236649acbacfcfd543ae96a46bdde994ed795f2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Queries the selected controller's navigation contract before viewport input is processed.

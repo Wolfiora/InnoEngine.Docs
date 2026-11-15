@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b5374f2d92a8f913ff47a1e4434692af077ce4cb9276cb7f072ae61af9481cbd
-symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.IEditorSceneWorkspace.TryGetSourcePath(InnoEngine.Scene.GameScene,System.String@)"
-source: xml
-reviewed: 6a423e4a1defea446baa7a60705b7847b8186680dab90129abd93cd3e1ba1a7e
-title: "IEditorSceneWorkspace.TryGetSourcePath"
+symbol: scripting:Inno.Editor.Scene:M:InnoEditor.Scene.IEditorSceneWorkspace.TryGetSourcePath(InnoEngine.Scene.GameScene,System.String@)
+title: IEditorSceneWorkspace.TryGetSourcePath
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: editor-script
+reviewed: 6a423e4a1defea446baa7a60705b7847b8186680dab90129abd93cd3e1ba1a7e
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tries to get the current source-relative asset path of a saved scene.

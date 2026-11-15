@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a1edc54fdaca9e7a269ea8f391ab8311646574aae95beadc32de94e26a66841a
-symbol: "engine:Inno.Runtime:M:Inno.Runtime.EngineHost.CreateSession(Inno.Runtime.RuntimeSessionOptions)"
-source: xml
-reviewed: 76c007bd463a3035de8d05240aeae835746ad65ec83e0d784fc9948cc08df605
-title: "EngineHost.CreateSession"
+symbol: engine:Inno.Runtime:M:Inno.Runtime.EngineHost.CreateSession(Inno.Runtime.RuntimeSessionOptions)
+title: EngineHost.CreateSession
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: 76c007bd463a3035de8d05240aeae835746ad65ec83e0d784fc9948cc08df605
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an isolated Edit, Play, or Player runtime session.

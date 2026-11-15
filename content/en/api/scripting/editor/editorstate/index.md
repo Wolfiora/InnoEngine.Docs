@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.core.editor-script.e38bde66627dc4bb
-symbol: "scripting:Inno.Editor.Core:T:InnoEditor.Core.EditorState"
-source: xml
-reviewed: 0d040087f41e96de056558b66d18b336bdbfb928d2190e1d6f52783a20cec88e
-title: "EditorState"
+symbol: scripting:Inno.Editor.Core:T:InnoEditor.Core.EditorState
+title: EditorState
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: editor-script
+reviewed: 0d040087f41e96de056558b66d18b336bdbfb928d2190e1d6f52783a20cec88e
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - api.projects.inno-editor-core#lifecycle-and-failure-contracts
 - manual.scripting.use-script-api

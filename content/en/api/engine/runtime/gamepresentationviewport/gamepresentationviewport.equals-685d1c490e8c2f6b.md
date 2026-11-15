@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.685d1c490e8c2f6bba57fad73fbd4b029b813558ff2359b3c64a0a91e6e4d303
-symbol: "engine:Inno.Runtime:M:Inno.Runtime.GamePresentationViewport.Equals(Inno.Runtime.GamePresentationViewport)"
-source: xml
-reviewed: e5e66994cf030423ee4129ce54c1685c70860e8a5e8c25cdc6da6fdd62217c98
-title: "GamePresentationViewport.Equals"
+symbol: engine:Inno.Runtime:M:Inno.Runtime.GamePresentationViewport.Equals(Inno.Runtime.GamePresentationViewport)
+title: GamePresentationViewport.Equals
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: e5e66994cf030423ee4129ce54c1685c70860e8a5e8c25cdc6da6fdd62217c98
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

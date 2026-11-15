@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d908f524ac6566cc5638aa63a9d4eefe976ab178b4c0774d2a2084e587e6f380
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCachePublisher.Record(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: 752c6380dc29ad26bdf1f93df4918af6c11f830dcced648193ace8f786331b75
-title: "BuildCachePublisher.Record"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCachePublisher.Record(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.String,System.Threading.CancellationToken)
+title: BuildCachePublisher.Record
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 752c6380dc29ad26bdf1f93df4918af6c11f830dcced648193ace8f786331b75
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Records a completed generation and optionally selects it as a protected current root. The caller must hold this publisher's activity lease and the artifact's producer or reading lease.

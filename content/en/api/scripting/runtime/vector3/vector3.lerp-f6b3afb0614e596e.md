@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f6b3afb0614e596ebf25e4b7e1dd8cf611f2edea5ba11e99d726863cc1995d42
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.Lerp(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3,System.Single)"
-source: xml
-reviewed: 72fe38959e9c4cbc80c8f1dea8be01159269fa6a2c7f570f199338c1048b3f00
-title: "Vector3.Lerp"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.Lerp(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3,System.Single)
+title: Vector3.Lerp
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 72fe38959e9c4cbc80c8f1dea8be01159269fa6a2c7f570f199338c1048b3f00
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Interpolates linearly after clamping the interpolation factor to \[0, 1\].

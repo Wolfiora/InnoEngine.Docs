@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0b8d6cdc37376b2f5251ef96ea2c68fc734783dffc3cd920e5245ed0993e4868
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameScene.FindObjectsWithLayer(InnoEngine.Scene.GameLayer)"
-source: xml
-reviewed: f3057f53cd40d947f215cf9e0920b34bf17fd188436d087715de6d80807868ab
-title: "GameScene.FindObjectsWithLayer"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameScene.FindObjectsWithLayer(InnoEngine.Scene.GameLayer)
+title: GameScene.FindObjectsWithLayer
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: f3057f53cd40d947f215cf9e0920b34bf17fd188436d087715de6d80807868ab
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Finds every game object assigned to one layer in scene storage order.

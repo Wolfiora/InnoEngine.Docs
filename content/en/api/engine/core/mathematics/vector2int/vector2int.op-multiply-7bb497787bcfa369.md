@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7bb497787bcfa369a34c8dc6d6c083871ec57ff9bbedab73331cba9678e3933c
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector2Int.op_Multiply(Inno.Core.Mathematics.Vector2Int,System.Int32)"
-source: xml
-reviewed: f4592360c729d3397ba810743c75e2d521ed22d375e27acd2f23302c1863a800
-title: "Vector2Int.op_Multiply"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector2Int.op_Multiply(Inno.Core.Mathematics.Vector2Int,System.Int32)
+title: Vector2Int.op_Multiply
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: f4592360c729d3397ba810743c75e2d521ed22d375e27acd2f23302c1863a800
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Multiplies the supplied values according to their algebraic contract.

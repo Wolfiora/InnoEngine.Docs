@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f785b55acf5871cbca51cd5381a00cb9d138eab6f16d9aaea4115a292e131599
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.SliderInt(System.String,System.Int32@,System.Int32,System.Int32,System.String,Inno.Editor.ImGui.ImGuiSliderFlags)"
-source: xml
-reviewed: c5f391d2f7847ffa9bc71a3e40451cf9c68e148132326dcfa47b10552eb34aa6
-title: "ImGui.SliderInt"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.SliderInt(System.String,System.Int32@,System.Int32,System.Int32,System.String,Inno.Editor.ImGui.ImGuiSliderFlags)
+title: ImGui.SliderInt
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: c5f391d2f7847ffa9bc71a3e40451cf9c68e148132326dcfa47b10552eb34aa6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Edits an integer within explicit inclusive bounds.

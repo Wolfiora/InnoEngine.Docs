@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.358a30647fbcc7459020c04502afe9f357e4984d1acecd8be57df4222c5a768c
-symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiButtonFlags.MouseButtonLeft"
-source: xml
-reviewed: 1cc15d9b62d9ca64d2eceef45dd4094451a2ba4949286393e8aee48e16cb4aba
-title: "ImGuiButtonFlags.MouseButtonLeft"
+symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiButtonFlags.MouseButtonLeft
+title: ImGuiButtonFlags.MouseButtonLeft
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 1cc15d9b62d9ca64d2eceef45dd4094451a2ba4949286393e8aee48e16cb4aba
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 React on left mouse button (default)

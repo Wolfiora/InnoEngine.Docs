@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4f483d9bc88723f360b32bec82003a424c195e6a118851d56483b8321e383e4a
-symbol: "engine:Inno.Build.Bindings:M:Inno.Build.Bindings.NativeBindingProfile.#ctor(System.String,BGCS.Configuration.TargetConfiguration,System.Nullable{BGCS.Core.Targets.ManagedRuntimeId},System.Collections.Generic.IEnumerable{System.String},System.Action{BGCS.BindingHostBuilder},System.Nullable{BGCS.Core.BindingImportMode})"
-source: xml
-reviewed: 405f0695c28f4e099559c8b8d74ad56d32a72d095699edba8d30fe68a599f6d0
-title: "NativeBindingProfile.Constructor"
+symbol: engine:Inno.Build.Bindings:M:Inno.Build.Bindings.NativeBindingProfile.#ctor(System.String,BGCS.Configuration.TargetConfiguration,System.Nullable{BGCS.Core.Targets.ManagedRuntimeId},System.Collections.Generic.IEnumerable{System.String},System.Action{BGCS.BindingHostBuilder},System.Nullable{BGCS.Core.BindingImportMode})
+title: NativeBindingProfile.Constructor
 kind: api
-owners: [Inno.Build.Bindings]
+owners:
+- Inno.Build.Bindings
 apiSurface: source-clr
+reviewed: 405f0695c28f4e099559c8b8d74ad56d32a72d095699edba8d30fe68a599f6d0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a target profile without discovering an SDK or executing a generator.

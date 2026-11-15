@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.audio.9ba5ad2168e42c86
-symbol: "engine:Inno.Audio:T:Inno.Audio.AudioContentProviderContext"
-source: xml
-reviewed: b9bc15d5457f4b32d68f719482f58070a17b500b83ffe2e482a61b9fb1c75580
-title: "AudioContentProviderContext"
+symbol: engine:Inno.Audio:T:Inno.Audio.AudioContentProviderContext
+title: AudioContentProviderContext
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: b9bc15d5457f4b32d68f719482f58070a17b500b83ffe2e482a61b9fb1c75580
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-audio#playback-and-device-contract
 aliases: []

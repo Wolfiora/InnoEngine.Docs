@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b8806a4369a9bbfa4468b24f7f28074ba7cf96b23f743ea9f33e4c5a4baa2925
-symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.IEditorScenePlayMode.BeginPlayMode(Inno.Runtime.RuntimeSession)"
-source: xml
-reviewed: 95511d22342c55b3064db5883be6c44969c11b81b8192768b0ebb0b7e99dac4e
-title: "IEditorScenePlayMode.BeginPlayMode"
+symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.IEditorScenePlayMode.BeginPlayMode(Inno.Runtime.RuntimeSession)
+title: IEditorScenePlayMode.BeginPlayMode
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: source-clr
+reviewed: 95511d22342c55b3064db5883be6c44969c11b81b8192768b0ebb0b7e99dac4e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures the editable scene set and materializes independent runtime copies in the supplied session.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1e83b327951c0b71a15c7c165997a8a384819a7238e03d441cc9155470b126b7
-symbol: "engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorDropAttribute.priority"
-source: xml
-reviewed: c3cb8fcb78f76cb4e6f9da23982269824a7780dc4b59b0d4ee9dcf1ec90c7b5e
-title: "EditorDropAttribute.priority"
+symbol: engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorDropAttribute.priority
+title: EditorDropAttribute.priority
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: c3cb8fcb78f76cb4e6f9da23982269824a7780dc4b59b0d4ee9dcf1ec90c7b5e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the tie-breaking priority.

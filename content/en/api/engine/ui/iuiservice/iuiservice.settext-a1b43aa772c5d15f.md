@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a1b43aa772c5d15f7e2ea566da5368b26e17793da1e682609830625956da3ea9
-symbol: "engine:Inno.UI:M:Inno.UI.IUiService.SetText(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle,System.String,System.String)"
-source: xml
-reviewed: 3e72a7304846f9307d42d9a5b494f4450b5d4971a67cd4edde7d0165c5a49a75
-title: "IUiService.SetText"
+symbol: engine:Inno.UI:M:Inno.UI.IUiService.SetText(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle,System.String,System.String)
+title: IUiService.SetText
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: 3e72a7304846f9307d42d9a5b494f4450b5d4971a67cd4edde7d0165c5a49a75
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Replaces an element's children with plain Unicode text.

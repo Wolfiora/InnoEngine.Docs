@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.40f44b3beff47c145859e1aa49d46aaf92e30933bd1eaec0fd51dd6a615c3177
-symbol: "engine:Inno.Player.Runtime:M:Inno.Player.Runtime.IPlayerModuleActivator.Activate(Inno.Extensibility.Modules.ModuleHost,Inno.Runtime.GameCodeDeployment)"
-source: xml
-reviewed: a27d657f449ac0ae0943e4a2a44a828c6462438decb669b79f2b6dbdd33da138
-title: "IPlayerModuleActivator.Activate"
+symbol: engine:Inno.Player.Runtime:M:Inno.Player.Runtime.IPlayerModuleActivator.Activate(Inno.Extensibility.Modules.ModuleHost,Inno.Runtime.GameCodeDeployment)
+title: IPlayerModuleActivator.Activate
 kind: api
-owners: [Inno.Player.Runtime]
+owners:
+- Inno.Player.Runtime
 apiSurface: source-clr
+reviewed: a27d657f449ac0ae0943e4a2a44a828c6462438decb669b79f2b6dbdd33da138
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Verifies the code closure and publishes its module contributions atomically.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4ca02d27436c2540e506315b2485b183dd7575f28a7088c5b985b3eb5ab83827
-symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.FileLogSink.Receive(Inno.Core.Logging.LogEntry)"
-source: xml
-reviewed: 86263b88859131f72e22f8eaa9d1928d1f4e5f7a582d929fa7b7fedee7d0eb08
-title: "FileLogSink.Receive"
+symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.FileLogSink.Receive(Inno.Core.Logging.LogEntry)
+title: FileLogSink.Receive
 kind: api
-owners: [Inno.Core.Logging]
+owners:
+- Inno.Core.Logging
 apiSurface: source-clr
+reviewed: 86263b88859131f72e22f8eaa9d1928d1f4e5f7a582d929fa7b7fedee7d0eb08
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes and flushes one complete entry before returning, serializing concurrent callers.

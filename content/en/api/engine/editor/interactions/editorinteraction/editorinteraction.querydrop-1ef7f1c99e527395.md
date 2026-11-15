@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1ef7f1c99e5273957114a9fb7a10751b1352813b7afaee9a15aac706125f8844
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteraction.QueryDrop(Inno.Core.Identity.RuntimeIdentity,Inno.Editor.Interactions.EditorDropPlacement)"
-source: xml
-reviewed: fd3bae640ef54ed3cde07c9977f38d246e414ffc4bfe17c9c058194bdacc3755
-title: "EditorInteraction.QueryDrop"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteraction.QueryDrop(Inno.Core.Identity.RuntimeIdentity,Inno.Editor.Interactions.EditorDropPlacement)
+title: EditorInteraction.QueryDrop
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: fd3bae640ef54ed3cde07c9977f38d246e414ffc4bfe17c9c058194bdacc3755
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Queries this handle as a drop target.

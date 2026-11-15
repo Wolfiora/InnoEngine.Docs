@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8dcaa31446f26e391032e20add824b85485ef54babcec0cb3c4d68385759f4a2
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderTextureArtifactReference.Equals(Inno.Rendering.Assets.RenderTextureArtifactReference)"
-source: xml
-reviewed: c5216acda2041716540f33e73ad46e683dee5cb5ac1d1ec19985e72f718047e9
-title: "RenderTextureArtifactReference.Equals"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderTextureArtifactReference.Equals(Inno.Rendering.Assets.RenderTextureArtifactReference)
+title: RenderTextureArtifactReference.Equals
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: c5216acda2041716540f33e73ad46e683dee5cb5ac1d1ec19985e72f718047e9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

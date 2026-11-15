@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.163d7e6df64ba39c64775d6dbf3a28c36bc03c96a2880edf5fe2b340a06239a6
-symbol: "scripting:Inno.Editor.Rendering:P:InnoEditor.Rendering.EditorViewportNavigationProfile.maximumFocusDistance"
-source: xml
-reviewed: 970d068c970af20cc74dd56c6dbe8ece82a2272c347638b10ba647ffdbf4e4c2
-title: "EditorViewportNavigationProfile.maximumFocusDistance"
+symbol: scripting:Inno.Editor.Rendering:P:InnoEditor.Rendering.EditorViewportNavigationProfile.maximumFocusDistance
+title: EditorViewportNavigationProfile.maximumFocusDistance
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: editor-script
+reviewed: 970d068c970af20cc74dd56c6dbe8ece82a2272c347638b10ba647ffdbf4e4c2
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets maximum orbit or framing distance.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7470ce69006ea12e5557ae5bcf3fef4dbba4ced6744e8b2e2e61c0b107d81e34
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCacheCleanupPlan.ExecuteAsync(System.Boolean,System.Threading.CancellationToken)"
-source: xml
-reviewed: 7e2d997e2dcdb50e45cf771a5038b6b774d5b53142d8c01f0d6c4b05f8ad94ad
-title: "BuildCacheCleanupPlan.ExecuteAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCacheCleanupPlan.ExecuteAsync(System.Boolean,System.Threading.CancellationToken)
+title: BuildCacheCleanupPlan.ExecuteAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 7e2d997e2dcdb50e45cf771a5038b6b774d5b53142d8c01f0d6c4b05f8ad94ad
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Executes the original proposal under fresh owner and artifact leases without waiting for active readers.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bde901ff5e00dc691450a0bac37f3aa6725ed21d708f96d572ccfc8721abff0d
-symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRegistry\u00601.DisposeExtensions(System.Collections.Generic.IEnumerable{System.Object})"
-source: xml
-reviewed: b4c072417b2cdd50e1e17f8c96c5cd5d38ea9f2171f467f07c915fed137f3481
-title: "TypeRegistry\u003CTSnapshot\u003E.DisposeExtensions"
+symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRegistry`1.DisposeExtensions(System.Collections.Generic.IEnumerable{System.Object})
+title: TypeRegistry<TSnapshot>.DisposeExtensions
 kind: api
-owners: [Inno.Extensibility.Types]
+owners:
+- Inno.Extensibility.Types
 apiSurface: source-clr
+reviewed: b4c072417b2cdd50e1e17f8c96c5cd5d38ea9f2171f467f07c915fed137f3481
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Retires distinct disposable extensions in reverse order, draining pending work before lower dependencies.

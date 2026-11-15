@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.46231817103088de4b6b4982d6acb30f4f571f2a3e45adc5da77df932b853d50
-symbol: "engine:Inno.Core.Identity:P:Inno.Core.Identity.Identity.runtimeId"
-source: xml
-reviewed: 59ce82ccf07cf310f7eb94f2c264c9c60a46592ab3438f7c36c2f372f3543fba
-title: "Identity.runtimeId"
+symbol: engine:Inno.Core.Identity:P:Inno.Core.Identity.Identity.runtimeId
+title: Identity.runtimeId
 kind: api
-owners: [Inno.Core.Identity]
+owners:
+- Inno.Core.Identity
 apiSurface: source-clr
+reviewed: 59ce82ccf07cf310f7eb94f2c264c9c60a46592ab3438f7c36c2f372f3543fba
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the identifier assigned by the currently bound runtime registry.

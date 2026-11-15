@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.imgui.e0d3ffa7c449fd75
-symbol: "engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGui"
-source: xml
-reviewed: 56b3881234cf8af070de99a9682e9cb44b8ad1098c823c1f4a3b8b5f4866683f
-title: "ImGui"
+symbol: engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGui
+title: ImGui
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 56b3881234cf8af070de99a9682e9cb44b8ad1098c823c1f4a3b8b5f4866683f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - api.inno.editor.imgui.e0d3ffa7c449fd75#declaration
 - project.inno-editor-imgui

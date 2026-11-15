@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.settings.e01d080313ab9e06
-symbol: "engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectSettingsExecutionContext"
-source: xml
-reviewed: 6d005fc5b374ed03fd71c55bddfc00f9da6aa166253d9928cedf91437aac609a
-title: "ProjectSettingsExecutionContext"
+symbol: engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectSettingsExecutionContext
+title: ProjectSettingsExecutionContext
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: source-clr
+reviewed: 6d005fc5b374ed03fd71c55bddfc00f9da6aa166253d9928cedf91437aac609a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-core-settings#settings-ownership-contract
 aliases: []

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.190ea123093a1c2b59e4b9cfa701e7ab53adafbaca03be9b475b148db43be372
-symbol: "engine:Inno.Rendering:F:Inno.Rendering.RenderVertexSemantic.Color3"
-source: xml
-reviewed: 37c38fe1bc379b2367e91be6d90f3a47130712f3a704ae8ef9264230bf516acf
-title: "RenderVertexSemantic.Color3"
+symbol: engine:Inno.Rendering:F:Inno.Rendering.RenderVertexSemantic.Color3
+title: RenderVertexSemantic.Color3
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 37c38fe1bc379b2367e91be6d90f3a47130712f3a704ae8ef9264230bf516acf
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Fourth vertex color channel.

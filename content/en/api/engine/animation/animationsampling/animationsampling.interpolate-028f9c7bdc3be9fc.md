@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.028f9c7bdc3be9fc3f13ba25a7ef03c6bba8f32cf7c3b90dcdd0616ed6ba0d40
-symbol: "engine:Inno.Animation:M:Inno.Animation.AnimationSampling.Interpolate(Inno.Animation.AnimationValue,Inno.Animation.AnimationValue,System.Single)"
-source: xml
-reviewed: 60d0b0b1424bab20a0bfbfc8ab074a3386fce92f9874cdd1e71fa36e3e33b046
-title: "AnimationSampling.Interpolate"
+symbol: engine:Inno.Animation:M:Inno.Animation.AnimationSampling.Interpolate(Inno.Animation.AnimationValue,Inno.Animation.AnimationValue,System.Single)
+title: AnimationSampling.Interpolate
 kind: api
-owners: [Inno.Animation]
+owners:
+- Inno.Animation
 apiSurface: source-clr
+reviewed: 60d0b0b1424bab20a0bfbfc8ab074a3386fce92f9874cdd1e71fa36e3e33b046
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Interpolates compatible values, normalizing quaternion output.

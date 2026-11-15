@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3fd4361232360614cb77796454a1dfa90396a84ec9196a30b5f29ea54b535fb1
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.Contains(System.Single,System.Single)"
-source: xml
-reviewed: 82753e3e1e42d55e53878909e264a91873ad95ae898b59c8b6eafebf5e461506
-title: "Rect.Contains"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.Contains(System.Single,System.Single)
+title: Rect.Contains
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 82753e3e1e42d55e53878909e264a91873ad95ae898b59c8b6eafebf5e461506
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Checks if this rectangle contains a point.

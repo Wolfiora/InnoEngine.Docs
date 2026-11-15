@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2df1b40be2fc7cd1789fa80468c134c4a26b59dba4182476d1e5b2ac91bb3764
-symbol: "engine:Inno.Scene:M:Inno.Scene.SceneWorld.MoveGameObjectToScene(Inno.Scene.GameObject,Inno.Scene.GameScene)"
-source: xml
-reviewed: 507599faab1da883cd10e55cd3de1da5dd1c4a9c6c71549dcf91eb5cada555f6
-title: "SceneWorld.MoveGameObjectToScene"
+symbol: engine:Inno.Scene:M:Inno.Scene.SceneWorld.MoveGameObjectToScene(Inno.Scene.GameObject,Inno.Scene.GameScene)
+title: SceneWorld.MoveGameObjectToScene
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 507599faab1da883cd10e55cd3de1da5dd1c4a9c6c71549dcf91eb5cada555f6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Moves a live object subtree between two scenes loaded by this world.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7c6cd299f71f1e34358808610400eb50b6664e5763c7b4b9accd0fbd92ba3ae6
-symbol: "engine:Inno.Adapter.Storage:M:Inno.Adapter.Storage.StorageBackendId.GetHashCode"
-source: xml
-reviewed: 7f798df180ba317855fdf179cc8e92d6457b386856853c4d4a21bc005b56d71a
-title: "StorageBackendId.GetHashCode"
+symbol: engine:Inno.Adapter.Storage:M:Inno.Adapter.Storage.StorageBackendId.GetHashCode
+title: StorageBackendId.GetHashCode
 kind: api
-owners: [Inno.Adapter.Storage]
+owners:
+- Inno.Adapter.Storage
 apiSurface: source-clr
+reviewed: 7f798df180ba317855fdf179cc8e92d6457b386856853c4d4a21bc005b56d71a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

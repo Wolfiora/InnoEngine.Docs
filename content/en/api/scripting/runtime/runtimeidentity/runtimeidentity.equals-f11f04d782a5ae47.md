@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f11f04d782a5ae473d139bf5ecab0ef668824e3ff986714a4c04cd8776beb084
-symbol: "scripting:Inno.Core.Identity:M:InnoEngine.Core.RuntimeIdentity.Equals(InnoEngine.Core.RuntimeIdentity)"
-source: xml
-reviewed: ff40214705d88ba4d809b20a3fd0cbd60c9f046dfca3bcdca533161fbd0d09a4
-title: "RuntimeIdentity.Equals"
+symbol: scripting:Inno.Core.Identity:M:InnoEngine.Core.RuntimeIdentity.Equals(InnoEngine.Core.RuntimeIdentity)
+title: RuntimeIdentity.Equals
 kind: api
-owners: [Inno.Core.Identity]
+owners:
+- Inno.Core.Identity
 apiSurface: editor-script
+reviewed: ff40214705d88ba4d809b20a3fd0cbd60c9f046dfca3bcdca533161fbd0d09a4
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether this value and another value address the same live identity slot.

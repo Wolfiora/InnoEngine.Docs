@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5c7efa8887e2d0efaa92be104dd420d880da6cf92ec8868b070c8df98f4137b4
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.MeasureDialog(InnoEditor.ImGui.DialogPresentation,System.Numerics.Vector2)"
-source: xml
-reviewed: 42e86133687499ce72ea5403c765ac3dc3ee7ecc048bb065a759cb4491a9cbbc
-title: "ImGuiWidget.MeasureDialog"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.MeasureDialog(InnoEditor.ImGui.DialogPresentation,System.Numerics.Vector2)
+title: ImGuiWidget.MeasureDialog
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 42e86133687499ce72ea5403c765ac3dc3ee7ecc048bb065a759cb4491a9cbbc
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Measures current dialog content before its window is opened. The returned geometry must be used with the same presentation.

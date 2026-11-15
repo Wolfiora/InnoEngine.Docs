@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.948360c330f9eaf5a442197202d3df6cfd65b38be9c6f395b8fd02bfe7e35ee2
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ManagedProjectGraphCapture.CaptureAsync(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.Threading.CancellationToken,System.Boolean)"
-source: xml
-reviewed: aa3bc23d4b44fc5d1dbdc39ee5b5aaae180c95cf91903041b5e91ee9a1e8f42f
-title: "ManagedProjectGraphCapture.CaptureAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ManagedProjectGraphCapture.CaptureAsync(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.Threading.CancellationToken,System.Boolean)
+title: ManagedProjectGraphCapture.CaptureAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: aa3bc23d4b44fc5d1dbdc39ee5b5aaae180c95cf91903041b5e91ee9a1e8f42f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures effective properties, references, source items and imports using the shared SDK evaluator.

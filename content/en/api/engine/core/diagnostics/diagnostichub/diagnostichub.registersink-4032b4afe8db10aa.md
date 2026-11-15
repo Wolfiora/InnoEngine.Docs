@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4032b4afe8db10aa023cdd1e5e11061e82f89cdd7b4f15b97cca443357c6cbbe
-symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticHub.RegisterSink(Inno.Core.Diagnostics.IDiagnosticSink)"
-source: xml
-reviewed: da69df30f6a01b1df05b903238b9c83d81899c6fe53ce7c4a763f43927e47463
-title: "DiagnosticHub.RegisterSink"
+symbol: engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticHub.RegisterSink(Inno.Core.Diagnostics.IDiagnosticSink)
+title: DiagnosticHub.RegisterSink
 kind: api
-owners: [Inno.Core.Diagnostics]
+owners:
+- Inno.Core.Diagnostics
 apiSurface: source-clr
+reviewed: da69df30f6a01b1df05b903238b9c83d81899c6fe53ce7c4a763f43927e47463
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Registers a sink and synchronously replays every active report before registration completes.

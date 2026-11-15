@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9ffabec7a9ebd03244bc4056ee45945aba8c22f71e6262be3add13d5c360165f
-symbol: "engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.GenerationCoordinator.TryAcquireChange(System.String,System.IDisposable@)"
-source: xml
-reviewed: 9083479332e1c1d807c96cef47a355ed02779a75a32042f5dfcfb598f370e51e
-title: "GenerationCoordinator.TryAcquireChange"
+symbol: engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.GenerationCoordinator.TryAcquireChange(System.String,System.IDisposable@)
+title: GenerationCoordinator.TryAcquireChange
 kind: api
-owners: [Inno.Extensibility.Reload]
+owners:
+- Inno.Extensibility.Reload
 apiSurface: source-clr
+reviewed: 9083479332e1c1d807c96cef47a355ed02779a75a32042f5dfcfb598f370e51e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tries to reserve exclusive owner-controlled publication without disturbing active read leases.

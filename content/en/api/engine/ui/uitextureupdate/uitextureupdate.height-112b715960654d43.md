@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.112b715960654d43130deadf862b79f1da052a241b2ccf2fe98f891e166ca4dc
-symbol: "engine:Inno.UI:P:Inno.UI.UiTextureUpdate.height"
-source: xml
-reviewed: f1e5d95da40bf154535f17a5a153455fdeeecc39c3c763999e3426d8db6f7195
-title: "UiTextureUpdate.height"
+symbol: engine:Inno.UI:P:Inno.UI.UiTextureUpdate.height
+title: UiTextureUpdate.height
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: f1e5d95da40bf154535f17a5a153455fdeeecc39c3c763999e3426d8db6f7195
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the texture height.

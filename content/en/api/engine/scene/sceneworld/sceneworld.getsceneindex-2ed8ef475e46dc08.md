@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2ed8ef475e46dc08ede269e85a1af2099760386c9740b30c4aa44c00ca09cafd
-symbol: "engine:Inno.Scene:M:Inno.Scene.SceneWorld.GetSceneIndex(Inno.Scene.GameScene)"
-source: xml
-reviewed: aa0865054598a440bfe8b6282685f88dda8a6c23150c610d5e1c9293a65a17dd
-title: "SceneWorld.GetSceneIndex"
+symbol: engine:Inno.Scene:M:Inno.Scene.SceneWorld.GetSceneIndex(Inno.Scene.GameScene)
+title: SceneWorld.GetSceneIndex
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: aa0865054598a440bfe8b6282685f88dda8a6c23150c610d5e1c9293a65a17dd
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the hierarchy index of a loaded scene.

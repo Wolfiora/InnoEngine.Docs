@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.assets.pipeline.editor-script.e931f712e2bb4e38
-symbol: "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetBuildContext\u00601"
-source: xml
-reviewed: 7bbddc4c7eca49b763c5183c1a34c765298526d4cfd1220d3f2ad311eec81d2a
-title: "AssetBuildContext\u003CTDefinition\u003E"
+symbol: scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetBuildContext`1
+title: AssetBuildContext<TDefinition>
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: editor-script
+reviewed: 7bbddc4c7eca49b763c5183c1a34c765298526d4cfd1220d3f2ad311eec81d2a
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-assets-pipeline

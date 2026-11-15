@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.789f1a11eb656ac0716b9479e692ac9faddf390b60fc7c136827615400251558
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteraction.Execute(System.String,System.Object)"
-source: xml
-reviewed: c3980777c7cecb132f1d324fda53692babca2bfd994cc579f235b5db7d37a005
-title: "EditorInteraction.Execute"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteraction.Execute(System.String,System.Object)
+title: EditorInteraction.Execute
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: c3980777c7cecb132f1d324fda53692babca2bfd994cc579f235b5db7d37a005
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Executes an action for this area and target.

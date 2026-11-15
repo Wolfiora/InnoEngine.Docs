@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.32a29d1a785705054cac913a8f2ef325805cdf92bbe686e443143c5900394e35
-symbol: "engine:Inno.Rendering:F:Inno.Rendering.RenderUniformType.Matrix3x3"
-source: xml
-reviewed: d2944322c34d581c69d5d6cf2a9073b7aeaf2cfb9b29d7f0aa797d1058c7024d
-title: "RenderUniformType.Matrix3x3"
+symbol: engine:Inno.Rendering:F:Inno.Rendering.RenderUniformType.Matrix3x3
+title: RenderUniformType.Matrix3x3
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: d2944322c34d581c69d5d6cf2a9073b7aeaf2cfb9b29d7f0aa797d1058c7024d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Three-by-three 32-bit floating-point matrix.

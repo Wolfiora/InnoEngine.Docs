@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.30bff3a78abbb4e5c6f68fb90ac7dae29ac63344b22bef188f89b1d913670497
-symbol: "engine:Inno.Assets:M:Inno.Assets.AssetDatabase.RestoreProperties\u0060\u00601(System.Guid,System.Byte[],\u0060\u00600)"
-source: xml
-reviewed: aed492be70b6e45236431a9388effefae9e1c73da7e67730a108a6cb3fe5fd4a
-title: "AssetDatabase.RestoreProperties"
+symbol: engine:Inno.Assets:M:Inno.Assets.AssetDatabase.RestoreProperties``1(System.Guid,System.Byte[],``0)
+title: AssetDatabase.RestoreProperties
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: aed492be70b6e45236431a9388effefae9e1c73da7e67730a108a6cb3fe5fd4a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Restores serialized properties to the existing asset object.

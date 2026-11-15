@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ca2f57b08d0208d343235acff88babb0506ebc372fd22e6dd914373f25146939
-symbol: "engine:Inno.Build.TaskHosting:M:Inno.Build.TaskHosting.PublishTaskHostTask.Execute"
-source: xml
-reviewed: f87f61b055ad5e25d160a06e5a673fb875cfb1c9adf01ed312f88cd7593fa2e9
-title: "PublishTaskHostTask.Execute"
+symbol: engine:Inno.Build.TaskHosting:M:Inno.Build.TaskHosting.PublishTaskHostTask.Execute
+title: PublishTaskHostTask.Execute
 kind: api
-owners: [Inno.Build.TaskHosting]
+owners:
+- Inno.Build.TaskHosting
 apiSurface: source-clr
+reviewed: f87f61b055ad5e25d160a06e5a673fb875cfb1c9adf01ed312f88cd7593fa2e9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Verifies sources and cached files, publishes a complete candidate under exclusive ownership, and registers the private reader before returning its shared runtime.

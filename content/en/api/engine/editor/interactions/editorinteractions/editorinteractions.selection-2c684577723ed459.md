@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2c684577723ed459b1e2ccbdaf8b6cdbebe76dc80098ae777e2621961f29df2e
-symbol: "engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorInteractions.selection"
-source: xml
-reviewed: 04afb9fd318193ffb26f2f76ec9b47f5b6e1e58b3b6ce3297d84ebdc6a60b800
-title: "EditorInteractions.selection"
+symbol: engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorInteractions.selection
+title: EditorInteractions.selection
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 04afb9fd318193ffb26f2f76ec9b47f5b6e1e58b3b6ce3297d84ebdc6a60b800
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the shared read-only editor selection state.

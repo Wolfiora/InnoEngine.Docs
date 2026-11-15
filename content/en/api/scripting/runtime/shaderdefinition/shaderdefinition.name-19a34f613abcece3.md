@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.19a34f613abcece313d3bca4072bc02c6f24ed633fbc99c008a818daa31fd6b0
-symbol: "scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.ShaderDefinition.name"
-source: xml
-reviewed: b021a0d81d3f5a3414e653d4a9d2d0727f32de424c532de779b91a1fad77b049
-title: "ShaderDefinition.name"
+symbol: scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.ShaderDefinition.name
+title: ShaderDefinition.name
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: editor-script
+reviewed: b021a0d81d3f5a3414e653d4a9d2d0727f32de424c532de779b91a1fad77b049
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets the artist-facing shader name.

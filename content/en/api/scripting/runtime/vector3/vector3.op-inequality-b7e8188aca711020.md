@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b7e8188aca711020b9eb88a7607331e6acb852593a833662992e4533d6caebd5
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.op_Inequality(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3)"
-source: xml
-reviewed: 00d45e13acb7fc51b7c3e8f634744e96ab8c45080324864c02eacfb6edd3c090
-title: "Vector3.op_Inequality"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.op_Inequality(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3)
+title: Vector3.op_Inequality
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 00d45e13acb7fc51b7c3e8f634744e96ab8c45080324864c02eacfb6edd3c090
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether the supplied values differ under the type's equality tolerance.

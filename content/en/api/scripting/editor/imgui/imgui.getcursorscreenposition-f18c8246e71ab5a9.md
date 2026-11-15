@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f18c8246e71ab5a9d68d85b36357f6a5b71208c68b2fe5a2972a608ef8ddccf7
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetCursorScreenPosition"
-source: xml
-reviewed: d48ec010d3e070bfbd53830680e2c349ebd279ac930f1f889f270bc111b5a214
-title: "ImGui.GetCursorScreenPosition"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetCursorScreenPosition
+title: ImGui.GetCursorScreenPosition
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: d48ec010d3e070bfbd53830680e2c349ebd279ac930f1f889f270bc111b5a214
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the current screen-space cursor position.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9aaf73c1eaeceef30866350f049d980a1930f35f5b654d4b39c36479c41d3811
-symbol: "engine:Inno.Build.Managed:M:Inno.Build.Managed.ManagedDeploymentCatalog.Resolve(Inno.Build.Managed.ManagedDeploymentId,System.String)"
-source: xml
-reviewed: 9e4a92cf6f3a5757d82dd7e415b7320b3f2d4d1323dbe126ad1b5440cc863b10
-title: "ManagedDeploymentCatalog.Resolve"
+symbol: engine:Inno.Build.Managed:M:Inno.Build.Managed.ManagedDeploymentCatalog.Resolve(Inno.Build.Managed.ManagedDeploymentId,System.String)
+title: ManagedDeploymentCatalog.Resolve
 kind: api
-owners: [Inno.Build.Managed]
+owners:
+- Inno.Build.Managed
 apiSurface: source-clr
+reviewed: 9e4a92cf6f3a5757d82dd7e415b7320b3f2d4d1323dbe126ad1b5440cc863b10
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves a provider and verifies target support before staging begins.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.56381495613ce81baf332413ca187caa962fa83d672c0c9715e95292fcf5c0b6
-symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.AssetArtifactInfo.#ctor(InnoEngine.Assets.AssetArtifactKey,System.String,System.String,System.Int64)"
-source: xml
-reviewed: 6c62d20b7bae8512b193726127cf2543d061dd847e88c89e7963f14fcc8d0dd2
-title: "AssetArtifactInfo.Constructor"
+symbol: scripting:Inno.Assets:M:InnoEngine.Assets.AssetArtifactInfo.#ctor(InnoEngine.Assets.AssetArtifactKey,System.String,System.String,System.Int64)
+title: AssetArtifactInfo.Constructor
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: editor-script
+reviewed: 6c62d20b7bae8512b193726127cf2543d061dd847e88c89e7963f14fcc8d0dd2
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an artifact output descriptor.

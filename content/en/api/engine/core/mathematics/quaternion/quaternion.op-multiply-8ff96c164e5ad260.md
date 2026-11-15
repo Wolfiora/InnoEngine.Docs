@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8ff96c164e5ad260cbfc8320c28c3996aa8a3ec288db5700172b99ff4e9db085
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Quaternion.op_Multiply(Inno.Core.Mathematics.Quaternion,Inno.Core.Mathematics.Quaternion)"
-source: xml
-reviewed: 5af8c4a9737611579e8acad7a8d152506bc2f65d19e22b3e3638de4add78d26c
-title: "Quaternion.op_Multiply"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Quaternion.op_Multiply(Inno.Core.Mathematics.Quaternion,Inno.Core.Mathematics.Quaternion)
+title: Quaternion.op_Multiply
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 5af8c4a9737611579e8acad7a8d152506bc2f65d19e22b3e3638de4add78d26c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Multiplies the supplied values according to their algebraic contract.

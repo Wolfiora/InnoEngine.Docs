@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.38054458d08498c63efa79c965d5ffcebbdebcf36bd459c1d16d9dc41b70c781
-symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorState.Set\u0060\u00601(System.String,\u0060\u00600)"
-source: xml
-reviewed: e2fe7ae43a41ee851123e6b3422411ea90ca1ffb30e607b066f6680d9ce191b1
-title: "EditorState.Set"
+symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorState.Set``1(System.String,``0)
+title: EditorState.Set
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: editor-script
+reviewed: e2fe7ae43a41ee851123e6b3422411ea90ca1ffb30e607b066f6680d9ce191b1
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes one neutral value under a stable extension-local key.

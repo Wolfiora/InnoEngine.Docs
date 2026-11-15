@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e996a1ea618a88e33420a6a449613761b76ea10dedeaeed2e6a22f1ed9378aa1
-symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.CloseScene(Inno.Scene.GameScene,System.String)"
-source: xml
-reviewed: 790a82a0576b08094c019ba614519046dd6e0f0a4923ee7abbdf5baeff14fe6a
-title: "SceneEdits.CloseScene"
+symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.CloseScene(Inno.Scene.GameScene,System.String)
+title: SceneEdits.CloseScene
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: source-clr
+reviewed: 790a82a0576b08094c019ba614519046dd6e0f0a4923ee7abbdf5baeff14fe6a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Closes one loaded scene without deleting its source asset and records a reversible document change.

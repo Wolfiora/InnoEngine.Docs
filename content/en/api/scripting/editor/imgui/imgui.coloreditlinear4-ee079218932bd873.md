@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ee079218932bd87399dddf1a36daca78596eda8dfc680c6a65b6cbbe26a507ad
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.ColorEditLinear4(System.String,System.Numerics.Vector4@,InnoEditor.ImGui.ImGuiColorEditFlags)"
-source: xml
-reviewed: 32233434239022599f101006f20c44ce89b205326eec05b7cf7bfa678e50a340
-title: "ImGui.ColorEditLinear4"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.ColorEditLinear4(System.String,System.Numerics.Vector4@,InnoEditor.ImGui.ImGuiColorEditFlags)
+title: ImGui.ColorEditLinear4
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 32233434239022599f101006f20c44ce89b205326eec05b7cf7bfa678e50a340
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Displays a linear RGBA color through a display-sRGB picker and returns edits in linear space.

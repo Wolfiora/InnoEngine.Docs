@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b1764d9bb0ece210c15e86ebe4a794d02920232f45dc53869f85db1332362e36
-symbol: "scripting:Inno.Core.Diagnostics:M:InnoEngine.Diagnostics.DiagnosticLocation.#ctor(System.String,System.Int32,System.Int32)"
-source: xml
-reviewed: e78670f7411d248171bdb1cfce16ee39a0491f8cb9fa2f9e07fb8578fcd3b147
-title: "DiagnosticLocation.Constructor"
+symbol: scripting:Inno.Core.Diagnostics:M:InnoEngine.Diagnostics.DiagnosticLocation.#ctor(System.String,System.Int32,System.Int32)
+title: DiagnosticLocation.Constructor
 kind: api
-owners: [Inno.Core.Diagnostics]
+owners:
+- Inno.Core.Diagnostics
 apiSurface: editor-script
+reviewed: e78670f7411d248171bdb1cfce16ee39a0491f8cb9fa2f9e07fb8578fcd3b147
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a source location.

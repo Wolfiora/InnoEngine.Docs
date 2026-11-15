@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9b37876f3e23c5256fa14514f600414a29126db375e5279c60b05eba2ef9afad
-symbol: "engine:Inno.Audio:M:Inno.Audio.AudioDevice.DeviceHandleIdentity.Equals(System.Object)"
-source: xml
-reviewed: 442fb74edb502ed697fd818bd84ce9dd1f3fe03bbc0ac1d4fb03b1ba59f931a9
-title: "AudioDevice.DeviceHandleIdentity.Equals"
+symbol: engine:Inno.Audio:M:Inno.Audio.AudioDevice.DeviceHandleIdentity.Equals(System.Object)
+title: AudioDevice.DeviceHandleIdentity.Equals
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 442fb74edb502ed697fd818bd84ce9dd1f3fe03bbc0ac1d4fb03b1ba59f931a9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

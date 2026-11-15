@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4f276762db87e3cf0cb2b579775fe4a4731d1ac3ca079245c735b7e1b32ed38d
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderTextureRegion.GetHashCode"
-source: xml
-reviewed: 252d1053be1c569c1fca61ee28e4dd3d2ec967d6751fd550479a81fe45871f96
-title: "RenderTextureRegion.GetHashCode"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderTextureRegion.GetHashCode
+title: RenderTextureRegion.GetHashCode
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 252d1053be1c569c1fca61ee28e4dd3d2ec967d6751fd550479a81fe45871f96
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

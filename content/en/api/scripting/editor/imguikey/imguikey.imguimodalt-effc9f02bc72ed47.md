@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.effc9f02bc72ed471285091ea89f140eef2040ad70f2af7f63c7ae837d6adf29
-symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.ImGuiModAlt"
-source: xml
-reviewed: 390cf2fdebdf89de10b71b7fb9e98971a64ba0a93450a4b530649414ad87db18
-title: "ImGuiKey.ImGuiModAlt"
+symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.ImGuiModAlt
+title: ImGuiKey.ImGuiModAlt
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 390cf2fdebdf89de10b71b7fb9e98971a64ba0a93450a4b530649414ad87db18
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Identifies the ImGuiModAlt presentation key or modifier.

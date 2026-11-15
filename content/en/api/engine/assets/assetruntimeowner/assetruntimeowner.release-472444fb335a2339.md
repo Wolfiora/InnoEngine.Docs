@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.472444fb335a233964acf845059bee476bac4efe7564891d4c539b0cfbdbdab0
-symbol: "engine:Inno.Assets:M:Inno.Assets.AssetRuntimeOwner.Release(Inno.Assets.AssetObject)"
-source: xml
-reviewed: bce9e69f44ba7b1fc072e943de2ac1ccf6c049445423546c18e4efddf30f6e23
-title: "AssetRuntimeOwner.Release"
+symbol: engine:Inno.Assets:M:Inno.Assets.AssetRuntimeOwner.Release(Inno.Assets.AssetObject)
+title: AssetRuntimeOwner.Release
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: bce9e69f44ba7b1fc072e943de2ac1ccf6c049445423546c18e4efddf30f6e23
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Releases an owned instance after quiescence, without relinquishing its mutation authority.

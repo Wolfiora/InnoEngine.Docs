@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a2b9d18f1639b9b6c0c0cd17d6fcc63896eb4912e5786449fb697f60d6366e5a
-symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorPanel.Capture(InnoEditor.Core.EditorState)"
-source: xml
-reviewed: 994800e4e0b9af42a598d09b45f0f070b9933fdafc75d8ee3e224d78860dfbf7
-title: "EditorPanel.Capture"
+symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorPanel.Capture(InnoEditor.Core.EditorState)
+title: EditorPanel.Capture
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: editor-script
+reviewed: 994800e4e0b9af42a598d09b45f0f070b9933fdafc75d8ee3e224d78860dfbf7
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures readable project state owned by this panel.

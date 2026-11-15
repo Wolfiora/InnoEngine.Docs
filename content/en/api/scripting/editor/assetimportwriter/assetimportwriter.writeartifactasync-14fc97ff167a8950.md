@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.14fc97ff167a8950409478b3ca546493321049638fb60532a4619079bc18e944
-symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetImportWriter\u00601.WriteArtifactAsync(System.String,System.ReadOnlyMemory{System.Byte},System.Threading.CancellationToken,InnoEditor.Assets.AssetDeploymentScope)"
-source: xml
-reviewed: 8002372369eb22f14819c45b9fa0b29fb6e70f4f0ce16a557b9985d57b6e71e4
-title: "AssetImportWriter\u003CTAsset\u003E.WriteArtifactAsync"
+symbol: scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetImportWriter`1.WriteArtifactAsync(System.String,System.ReadOnlyMemory{System.Byte},System.Threading.CancellationToken,InnoEditor.Assets.AssetDeploymentScope)
+title: AssetImportWriter<TAsset>.WriteArtifactAsync
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: editor-script
+reviewed: 8002372369eb22f14819c45b9fa0b29fb6e70f4f0ce16a557b9985d57b6e71e4
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes one immutable named artifact output.

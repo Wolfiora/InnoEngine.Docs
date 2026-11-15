@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b6befb8660e2f1a46820ba5b9a26b1c83396e3b5205d15b0de5a47295ae996cf
-symbol: "engine:Inno.Assets:M:Inno.Assets.IAssetResidency.AcquireArtifact(System.Guid,System.String)"
-source: xml
-reviewed: 719ca871ed7c74f2ca5b63cc83ccd5247f8192b79a6ea130aac1e50862cd4ada
-title: "IAssetResidency.AcquireArtifact"
+symbol: engine:Inno.Assets:M:Inno.Assets.IAssetResidency.AcquireArtifact(System.Guid,System.String)
+title: IAssetResidency.AcquireArtifact
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: 719ca871ed7c74f2ca5b63cc83ccd5247f8192b79a6ea130aac1e50862cd4ada
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Acquires one verified immutable artifact output.

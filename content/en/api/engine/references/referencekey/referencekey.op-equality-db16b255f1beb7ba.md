@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.db16b255f1beb7ba4f26fbf5e677cb88fbb693dce5051b22ec7fc569fad7886c
-symbol: "engine:Inno.References:M:Inno.References.ReferenceKey.op_Equality(Inno.References.ReferenceKey,Inno.References.ReferenceKey)"
-source: xml
-reviewed: d3a8ac3a5b95e060a2b514be38c13f67522c7bd7d1e2dff88aaf73f6f188f989
-title: "ReferenceKey.op_Equality"
+symbol: engine:Inno.References:M:Inno.References.ReferenceKey.op_Equality(Inno.References.ReferenceKey,Inno.References.ReferenceKey)
+title: ReferenceKey.op_Equality
 kind: api
-owners: [Inno.References]
+owners:
+- Inno.References
 apiSurface: source-clr
+reviewed: d3a8ac3a5b95e060a2b514be38c13f67522c7bd7d1e2dff88aaf73f6f188f989
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether two reference keys are equal.

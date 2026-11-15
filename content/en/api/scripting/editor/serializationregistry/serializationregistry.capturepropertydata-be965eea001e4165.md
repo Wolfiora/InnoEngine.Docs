@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.be965eea001e41657d4f0923e19f190ff98301d3427f87869591b75400f3f33a
-symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationRegistry.CapturePropertyData(InnoEngine.Serialization.ISerializable,System.String,InnoEngine.Serialization.SerializationContext)"
-source: xml
-reviewed: caefb72b294e22330a0957f2ee06efd00a59aa1df7f9530a348ffefb5e93511e
-title: "SerializationRegistry.CapturePropertyData"
+symbol: scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationRegistry.CapturePropertyData(InnoEngine.Serialization.ISerializable,System.String,InnoEngine.Serialization.SerializationContext)
+title: SerializationRegistry.CapturePropertyData
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: editor-script
+reviewed: caefb72b294e22330a0957f2ee06efd00a59aa1df7f9530a348ffefb5e93511e
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures one persistent property as independently restorable neutral bytes without reading unrelated members.

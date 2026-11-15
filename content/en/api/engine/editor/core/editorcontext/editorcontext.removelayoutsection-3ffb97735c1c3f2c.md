@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3ffb97735c1c3f2c5f3047511370b2124e81e60b6c8d8352f0a94e0a9d623724
-symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorContext.RemoveLayoutSection(System.String)"
-source: xml
-reviewed: 9f3e1917496f1c3cec08fc0912136d4403918b1e70a54ced15e51d3f95b2b875
-title: "EditorContext.RemoveLayoutSection"
+symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorContext.RemoveLayoutSection(System.String)
+title: EditorContext.RemoveLayoutSection
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: source-clr
+reviewed: 9f3e1917496f1c3cec08fc0912136d4403918b1e70a54ced15e51d3f95b2b875
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Removes one editor layout section from the in-memory document.

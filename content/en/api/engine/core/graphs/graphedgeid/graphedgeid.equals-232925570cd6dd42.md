@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.232925570cd6dd4291ce01c87a8a510ee39c30cd4ad321e556af45f30d95c812
-symbol: "engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphEdgeId.Equals(Inno.Core.Graphs.GraphEdgeId)"
-source: xml
-reviewed: 242f857d92033ea56728683fac33033314c2c8f02225606195c700d82f60d857
-title: "GraphEdgeId.Equals"
+symbol: engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphEdgeId.Equals(Inno.Core.Graphs.GraphEdgeId)
+title: GraphEdgeId.Equals
 kind: api
-owners: [Inno.Core.Graphs]
+owners:
+- Inno.Core.Graphs
 apiSurface: source-clr
+reviewed: 242f857d92033ea56728683fac33033314c2c8f02225606195c700d82f60d857
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

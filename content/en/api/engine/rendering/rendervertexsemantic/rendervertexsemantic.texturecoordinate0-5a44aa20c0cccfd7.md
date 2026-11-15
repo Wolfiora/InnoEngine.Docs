@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5a44aa20c0cccfd78568933143ba5ca0afddd8ed40325b0de342e5d13539a51f
-symbol: "engine:Inno.Rendering:F:Inno.Rendering.RenderVertexSemantic.TextureCoordinate0"
-source: xml
-reviewed: 28e4e26da02ec43ece45f2cc7ff6c2df20e1ec60897e072e23d704e779a9cbca
-title: "RenderVertexSemantic.TextureCoordinate0"
+symbol: engine:Inno.Rendering:F:Inno.Rendering.RenderVertexSemantic.TextureCoordinate0
+title: RenderVertexSemantic.TextureCoordinate0
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 28e4e26da02ec43ece45f2cc7ff6c2df20e1ec60897e072e23d704e779a9cbca
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Primary texture coordinate.

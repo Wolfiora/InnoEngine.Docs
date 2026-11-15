@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e60bbc3840414a7f862775fe7383beb2ac7808e93a8581f9fa28a4bdfeb6af46
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetBuildProcessor.#ctor"
-source: xml
-reviewed: e1e5b29746fc858258b56732467ec2d2ef2220688845cb0e4634d5c4398f7df5
-title: "AssetBuildProcessor.Constructor"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetBuildProcessor.#ctor
+title: AssetBuildProcessor.Constructor
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: e1e5b29746fc858258b56732467ec2d2ef2220688845cb0e4634d5c4398f7df5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

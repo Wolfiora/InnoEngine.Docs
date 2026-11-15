@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b855ec3079a38155f1ede97898af28e91c3ebfe29c0f07b63bf29c406c65774e
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Rect.#ctor(System.Single,System.Single,System.Single,System.Single)"
-source: xml
-reviewed: dd8dff34f848e05233cbcc59f93765d1315ec4ac3a9db0e23a65deca731ac8d0
-title: "Rect.Constructor"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Rect.#ctor(System.Single,System.Single,System.Single,System.Single)
+title: Rect.Constructor
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: dd8dff34f848e05233cbcc59f93765d1315ec4ac3a9db0e23a65deca731ac8d0
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a validated rect instance.

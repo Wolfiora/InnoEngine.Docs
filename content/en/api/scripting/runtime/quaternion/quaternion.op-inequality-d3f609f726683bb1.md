@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d3f609f726683bb1946a3dad6c1e12350e5c4876684faa055a259280fd866516
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.op_Inequality(InnoEngine.Mathematics.Quaternion,InnoEngine.Mathematics.Quaternion)"
-source: xml
-reviewed: 1596ce40827eca9fee01aa172a8ba978846587d83f42f509aa949b128c3967f6
-title: "Quaternion.op_Inequality"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.op_Inequality(InnoEngine.Mathematics.Quaternion,InnoEngine.Mathematics.Quaternion)
+title: Quaternion.op_Inequality
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 1596ce40827eca9fee01aa172a8ba978846587d83f42f509aa949b128c3967f6
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether the supplied values differ under the type's equality tolerance.

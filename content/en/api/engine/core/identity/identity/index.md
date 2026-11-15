@@ -1,16 +1,20 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.core-identity.identity
 symbol: engine:Inno.Core.Identity:T:Inno.Core.Identity.Identity
-source: manual
-reviewed: efe47613a66c0ff13723866f1e4296bf8c59c5a5e69a0aca065e6907c3ccedb3
 title: Identity
 kind: api
 owners:
-  - Inno.Core.Identity
+- Inno.Core.Identity
 apiSurface: source-clr
+reviewed: efe47613a66c0ff13723866f1e4296bf8c59c5a5e69a0aca065e6907c3ccedb3
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: manual
+outdated: true
 aliases: []
 contracts:
-  - api.projects.inno-core-identity#lifecycle-and-failure-contracts
+- api.projects.inno-core-identity#lifecycle-and-failure-contracts
 ---
 
 Identity payload for an object, carrying persistent id and runtime id.

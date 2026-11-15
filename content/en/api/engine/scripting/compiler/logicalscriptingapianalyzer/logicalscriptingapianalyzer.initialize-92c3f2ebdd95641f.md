@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.92c3f2ebdd95641fc9e0eebc4a314c2a9b69095e0ed2be4104ebb122e8d5334f
-symbol: "engine:Inno.Scripting.Compiler:M:Inno.Scripting.Compiler.LogicalScriptingApiAnalyzer.Initialize(Microsoft.CodeAnalysis.Diagnostics.AnalysisContext)"
-source: xml
-reviewed: 383e939a19615a9a9991c7eba2311da55d4634284606bab6378d96602f88066e
-title: "LogicalScriptingApiAnalyzer.Initialize"
+symbol: engine:Inno.Scripting.Compiler:M:Inno.Scripting.Compiler.LogicalScriptingApiAnalyzer.Initialize(Microsoft.CodeAnalysis.Diagnostics.AnalysisContext)
+title: LogicalScriptingApiAnalyzer.Initialize
 kind: api
-owners: [Inno.Scripting.Compiler]
+owners:
+- Inno.Scripting.Compiler
 apiSurface: source-clr
+reviewed: 383e939a19615a9a9991c7eba2311da55d4634284606bab6378d96602f88066e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Initializes owned resources and establishes the instance's active lifetime.

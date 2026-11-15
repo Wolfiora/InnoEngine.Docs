@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9c3d9b623262e5476935d407a2d2b176540fd1fdb89bf0c208aff59e54606f75
-symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.O"
-source: xml
-reviewed: c8977b035c2729676d5910eefe37e3174310b484e6b0b237a17c526d12d96be2
-title: "ImGuiKey.O"
+symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.O
+title: ImGuiKey.O
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: c8977b035c2729676d5910eefe37e3174310b484e6b0b237a17c526d12d96be2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Identifies the O presentation key or modifier.

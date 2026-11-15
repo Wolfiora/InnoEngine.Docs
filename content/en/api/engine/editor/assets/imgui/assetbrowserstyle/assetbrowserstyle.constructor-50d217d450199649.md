@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.50d217d450199649b87768a9c050d60b44eed68f1cd0e9216acc583386b41514
-symbol: "engine:Inno.Editor.Assets.ImGui:M:Inno.Editor.Assets.ImGui.AssetBrowserStyle.#ctor(Inno.Editor.ImGui.EditorStyleMetrics)"
-source: xml
-reviewed: b9f7512df7d24dbcf9e814b8eb7c700efbeff7dfdedbece680094277d4117876
-title: "AssetBrowserStyle.Constructor"
+symbol: engine:Inno.Editor.Assets.ImGui:M:Inno.Editor.Assets.ImGui.AssetBrowserStyle.#ctor(Inno.Editor.ImGui.EditorStyleMetrics)
+title: AssetBrowserStyle.Constructor
 kind: api
-owners: [Inno.Editor.Assets.ImGui]
+owners:
+- Inno.Editor.Assets.ImGui
 apiSurface: source-clr
+reviewed: b9f7512df7d24dbcf9e814b8eb7c700efbeff7dfdedbece680094277d4117876
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures the current shared scale for one Browser presentation pass.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ea449c231a4d302ac23b049cf5aab4e2d6c3d490225112536cde49573e917252
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.op_Equality(InnoEngine.Mathematics.Matrix,InnoEngine.Mathematics.Matrix)"
-source: xml
-reviewed: a3c2117c89291ac78f18d5dacf82aba6eaecebc638aa9972623f10d1b9745890
-title: "Matrix.op_Equality"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.op_Equality(InnoEngine.Mathematics.Matrix,InnoEngine.Mathematics.Matrix)
+title: Matrix.op_Equality
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: a3c2117c89291ac78f18d5dacf82aba6eaecebc638aa9972623f10d1b9745890
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tests matrices for approximate equality (per-element).

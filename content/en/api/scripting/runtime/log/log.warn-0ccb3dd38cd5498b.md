@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0ccb3dd38cd5498b8f0f691158094728d4a084fccdef3a085b299b927c46bcb6
-symbol: "scripting:Inno.Core.Logging:M:InnoEngine.Logging.Log.Warn(System.Type,System.String,System.Collections.Generic.IReadOnlyList{System.Object},System.String,System.Int32)"
-source: xml
-reviewed: 2b5acecbecdb8608c047dcd992e806e04d285f2b236fbba0c9f5da9c2304a329
-title: "Log.Warn"
+symbol: scripting:Inno.Core.Logging:M:InnoEngine.Logging.Log.Warn(System.Type,System.String,System.Collections.Generic.IReadOnlyList{System.Object},System.String,System.Int32)
+title: Log.Warn
 kind: api
-owners: [Inno.Core.Logging]
+owners:
+- Inno.Core.Logging
 apiSurface: editor-script
+reviewed: 2b5acecbecdb8608c047dcd992e806e04d285f2b236fbba0c9f5da9c2304a329
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes a formatted warn-level message with its source location.

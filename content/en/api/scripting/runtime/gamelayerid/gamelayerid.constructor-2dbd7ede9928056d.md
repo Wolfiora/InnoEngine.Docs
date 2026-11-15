@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2dbd7ede9928056db57129aac6cb5e2e66ea9644b5f9b4861cd3a4695b0b1784
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerId.#ctor(InnoEngine.Settings.ProjectId,InnoEngine.Settings.ProjectLocalId)"
-source: xml
-reviewed: 88885bb32667a2cf5b5e7674d9aefe31cb750b3a7b71760fc4ed9b8b412c8c1d
-title: "GameLayerId.Constructor"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerId.#ctor(InnoEngine.Settings.ProjectId,InnoEngine.Settings.ProjectLocalId)
+title: GameLayerId.Constructor
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: 88885bb32667a2cf5b5e7674d9aefe31cb750b3a7b71760fc4ed9b8b412c8c1d
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a project-scoped layer identity from its project and local parts.

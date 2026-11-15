@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.serialization.6f07b7634363d447
-symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationCaptureKeyBuilder"
-source: xml
-reviewed: 5367cd8e46c5222206639ba4ce0db7d45c288158b97aec06eadd5c4484255b68
-title: "SerializationCaptureKeyBuilder"
+symbol: engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationCaptureKeyBuilder
+title: SerializationCaptureKeyBuilder
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: 5367cd8e46c5222206639ba4ce0db7d45c288158b97aec06eadd5c4484255b68
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []

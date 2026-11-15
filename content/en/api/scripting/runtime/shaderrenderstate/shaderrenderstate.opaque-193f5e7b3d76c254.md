@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.193f5e7b3d76c2545842cb70c83fbd6ba07b416e917e376ac4d1758c890a62d3
-symbol: "scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.ShaderRenderState.opaque"
-source: xml
-reviewed: 5093a1042bd5e21a0fc1f9b40b581a68f5d95bb70f9930af73a7a595685e9d53
-title: "ShaderRenderState.opaque"
+symbol: scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.ShaderRenderState.opaque
+title: ShaderRenderState.opaque
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: editor-script
+reviewed: 5093a1042bd5e21a0fc1f9b40b581a68f5d95bb70f9930af73a7a595685e9d53
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the default opaque raster state.

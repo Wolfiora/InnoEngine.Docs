@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.ui.415278d026b1bc06
-symbol: "engine:Inno.UI:T:Inno.UI.UI"
-source: xml
-reviewed: 3ab265c4142bed33c3c2fb524d8050a2675109592655b422ad8b6d26e7621983
-title: "UI"
+symbol: engine:Inno.UI:T:Inno.UI.UI
+title: UI
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: 3ab265c4142bed33c3c2fb524d8050a2675109592655b422ad8b6d26e7621983
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-ui#document-and-frame-contract
 aliases: []

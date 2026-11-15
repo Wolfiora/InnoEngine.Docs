@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.37af2a96a06ae094391e34a19ebeb7ef3e8f4f571dda592ab030d08610a74185
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.LerpPrecise(System.Single,System.Single,System.Single)"
-source: xml
-reviewed: 98a12564337b507073ff715bbdad3816cff446c9abc014f793c931412bdf4001
-title: "MathHelper.LerpPrecise"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.LerpPrecise(System.Single,System.Single,System.Single)
+title: MathHelper.LerpPrecise
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 98a12564337b507073ff715bbdad3816cff446c9abc014f793c931412bdf4001
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Linearly interpolates between two values. This method is a less efficient, more precise version of `M:MathHelper.Lerp(System.Single,System.Single,System.Single)`. See remarks for more info.

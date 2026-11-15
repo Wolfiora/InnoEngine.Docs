@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f780699188c35c34cb8837995aa2bca79dba079dc7a061a21b3145a258545090
-symbol: "scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.ImGuiWidget.isSectionContentVisible"
-source: xml
-reviewed: deb6b8a65d9e84887017809b94b19eecef68b3c2659c698551d881dcf0ea87bb
-title: "ImGuiWidget.isSectionContentVisible"
+symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.ImGuiWidget.isSectionContentVisible
+title: ImGuiWidget.isSectionContentVisible
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: deb6b8a65d9e84887017809b94b19eecef68b3c2659c698551d881dcf0ea87bb
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether content belonging to the current Inspector section should be drawn.

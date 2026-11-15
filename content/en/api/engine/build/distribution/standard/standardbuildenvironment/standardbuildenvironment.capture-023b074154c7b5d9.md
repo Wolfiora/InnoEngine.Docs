@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.023b074154c7b5d99d95bb379551494ff3141874418abb34f54af7a4b689d6bb
-symbol: "engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildEnvironment.Capture(System.String,Inno.Build.BuildTargetId,System.String)"
-source: xml
-reviewed: 50aa19953c0edd7584c826f4ce2ebc061fdceddb77234d12eac888e81812cc0e
-title: "StandardBuildEnvironment.Capture"
+symbol: engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildEnvironment.Capture(System.String,Inno.Build.BuildTargetId,System.String)
+title: StandardBuildEnvironment.Capture
 kind: api
-owners: [Inno.Build.Distribution.Standard]
+owners:
+- Inno.Build.Distribution.Standard
 apiSurface: source-clr
+reviewed: 50aa19953c0edd7584c826f4ce2ebc061fdceddb77234d12eac888e81812cc0e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves the selected managed host and captures execution capabilities at the composition boundary.

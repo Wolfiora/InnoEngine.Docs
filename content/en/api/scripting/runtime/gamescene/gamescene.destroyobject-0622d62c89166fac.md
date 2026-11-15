@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0622d62c89166fac0890c7489311d769094201d9312edd0686caa9f54db40574
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameScene.DestroyObject(InnoEngine.Scene.GameObject)"
-source: xml
-reviewed: 19404978cefc02397beffc67d62d3c7def41eaf27107df2891d22b9a8b3d296f
-title: "GameScene.DestroyObject"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameScene.DestroyObject(InnoEngine.Scene.GameObject)
+title: GameScene.DestroyObject
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: 19404978cefc02397beffc67d62d3c7def41eaf27107df2891d22b9a8b3d296f
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Recursively destroys a game object and its complete child subtree.

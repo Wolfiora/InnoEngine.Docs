@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c1f7f4d1ea5dfed608c2943ef939cfc4873b40c9ee588ff97fc8d3581125e911
-symbol: "engine:Inno.Build.Bindings:M:Inno.Build.Bindings.NativeBindingGenerator.GenerateAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeBindingGenerationRequest,System.Threading.CancellationToken)"
-source: xml
-reviewed: cfa67593f4ab49d46402e6267bbac89fe6710daf534a60210e077f34bb1f701f
-title: "NativeBindingGenerator.GenerateAsync"
+symbol: engine:Inno.Build.Bindings:M:Inno.Build.Bindings.NativeBindingGenerator.GenerateAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeBindingGenerationRequest,System.Threading.CancellationToken)
+title: NativeBindingGenerator.GenerateAsync
 kind: api
-owners: [Inno.Build.Bindings]
+owners:
+- Inno.Build.Bindings
 apiSurface: source-clr
+reviewed: cfa67593f4ab49d46402e6267bbac89fe6710daf534a60210e077f34bb1f701f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Generates or verifies the requested closure under publication ownership.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.01e801a208b34f8a13fe114cf0a9e690c28b8c830d17eda6df965d0318c94b6a
-symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.SerializedAudioExtensionState.#ctor(System.Guid,System.ReadOnlySpan{System.Byte})"
-source: xml
-reviewed: dcf5255c69e0118b1030bf85d1c03e71573ee780f22abf9e778238a0b3bf1943
-title: "SerializedAudioExtensionState.Constructor"
+symbol: scripting:Inno.Audio:M:InnoEngine.Audio.SerializedAudioExtensionState.#ctor(System.Guid,System.ReadOnlySpan{System.Byte})
+title: SerializedAudioExtensionState.Constructor
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: dcf5255c69e0118b1030bf85d1c03e71573ee780f22abf9e778238a0b3bf1943
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates neutral extension state.

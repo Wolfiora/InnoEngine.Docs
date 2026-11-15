@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.33def99435f119ced1776373cdce766e7219634c173cb1e399e799cec061db82
-symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiInputTextFlags.DisplayEmptyRefVal"
-source: xml
-reviewed: 2d8ae7b93718ac7723490271e3c06776201c824457928085c2b06a9dd44e4cc1
-title: "ImGuiInputTextFlags.DisplayEmptyRefVal"
+symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiInputTextFlags.DisplayEmptyRefVal
+title: ImGuiInputTextFlags.DisplayEmptyRefVal
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 2d8ae7b93718ac7723490271e3c06776201c824457928085c2b06a9dd44e4cc1
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 InputFloat(), InputInt(), InputScalar() etc. only: when value is zero, do not display it. Generally used with ImGuiInputTextFlags\_ParseEmptyRefVal.

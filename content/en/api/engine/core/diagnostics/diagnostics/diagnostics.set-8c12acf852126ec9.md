@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8c12acf852126ec945229e738b8d0249c78e1911ff2b82a2c440ff897df03b21
-symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.Diagnostics.Set(System.String,System.Collections.Generic.IEnumerable{Inno.Core.Diagnostics.Diagnostic})"
-source: xml
-reviewed: 1b89369ead5f828420ec8e484ba63425ec47dd54faa518fa5ab39fdd724f6c35
-title: "Diagnostics.Set"
+symbol: engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.Diagnostics.Set(System.String,System.Collections.Generic.IEnumerable{Inno.Core.Diagnostics.Diagnostic})
+title: Diagnostics.Set
 kind: api
-owners: [Inno.Core.Diagnostics]
+owners:
+- Inno.Core.Diagnostics
 apiSurface: source-clr
+reviewed: 1b89369ead5f828420ec8e484ba63425ec47dd54faa518fa5ab39fdd724f6c35
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Atomically sets the complete current state of one diagnostic group owned by the calling type.
