@@ -11,3 +11,7 @@ Cross-repository permissions, branch protection, and Vercel Git integration requ
 The user-approved Vercel Git deployment change supersedes the earlier exact-artifact-upload policy. Historical receipts remain evidence of their original runs. Do not revive the retired Pages publisher, CLI upload package, main-artifact selector or PowerShell-only catalog bootstrap.
 
 Preserve original failures and explain retries. Clean only task-owned temporary output, protecting active users and required evidence. Completion includes the full approved migration, callers, tests, deployment, and legacy removal.
+
+## Shared output and evidence reuse
+
+Archive the checked site once for both preview and delivery (90 days); retain diagnostics separately (30 days). Reuse Windows projection evidence only from successful same-repository draft/main push runs of the same workflow with identical Git tree, rendering origin, Node version and Windows runner image. Import the small receipt using its authenticated artifact digest and require the original site artifact to remain available. Retain the original producer identity; do not relabel its site as a new build. Linux portability still runs on the current runner. Missing evidence executes checks; failed integrity validation blocks. Vercel remains a separate main-only build.

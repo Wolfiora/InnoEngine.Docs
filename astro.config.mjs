@@ -4,12 +4,13 @@ import starlight from '@astrojs/starlight';
 import { unified } from '@astrojs/markdown-remark';
 import { parse } from 'yaml';
 import { documentationLinks } from './scripts/documentation-links.mjs';
-import { documentationNavigation } from './scripts/documentation-navigation.mjs';
 import { apiPresentation } from './scripts/api-presentation.mjs';
 import { siteOrigin } from './scripts/site-environment.mjs';
 
-const navigation = documentationNavigation(parse(readFileSync(new URL('./navigation/en.yml', import.meta.url), 'utf8')),
-  JSON.parse(readFileSync(new URL('./artifacts/canonical-catalog.json', import.meta.url), 'utf8')));
+// Framework navigation supplies tutorial pagination only. The shared sidebar owns
+// the complete API tree, so Starlight need not rebuild that tree for every page.
+const navigation = parse(readFileSync(new URL('./navigation/en.yml', import.meta.url), 'utf8'))
+  .map(item => item.apiDirectories ? { slug: 'api', label: item.label } : item);
 
 export default defineConfig({
   site: siteOrigin(),

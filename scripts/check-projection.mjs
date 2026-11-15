@@ -5,6 +5,7 @@ import { pathToFileURL } from 'node:url';
 import { parse } from 'yaml';
 import { fromHtml } from 'hast-util-from-html';
 import { contentRoute } from './documentation-routes.mjs';
+import { sharedNavigation } from './shared-navigation.mjs';
 import { documentationNavigation } from './documentation-navigation.mjs';
 import { isDocumentedProject, isDocumentedProjectGuide } from './api-scope.mjs';
 import { checkExampleEvidence } from './example-evidence.mjs';
@@ -73,6 +74,14 @@ export async function checkProjection({ root, catalog, site, complete = false, e
     .map((page) => `${page.path}\0${page.contentIdentity}`).join('\n'));
   if (contentIdentity !== catalog.contentIdentity) errors.push('Canonical aggregate content identity is invalid.');
   const navigation = documentationNavigation(parse(await readFile(inside(root, 'navigation/en.yml'), 'utf8')), catalog);
+  // Verify each shared navigation fragment once; pages retain their own HTML checks.
+  if (site) {
+    const shared = sharedNavigation(navigation, catalog);
+    for (const [id, expected] of shared.chunks) {
+      const actual = await readFile(inside(path.resolve(site), 'navigation-data/' + id + '.json'), 'utf8');
+      if (actual !== expected || digest(actual) !== id) errors.push('Invalid shared navigation resource: ' + id);
+    }
+  }
   const navigated = new Set();
   function inspect(items) {
     if (!Array.isArray(items)) throw new Error('Navigation items must be an array.');

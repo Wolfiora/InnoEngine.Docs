@@ -39,7 +39,7 @@ test('only draft/main updates and PRs enter documentation validation; feature pu
   assert.deepEqual(value.on.pull_request.branches, ['draft', 'main']);
   assert.equal(value.env.DOCUMENTATION_COMMIT, '${{ github.sha }}');
   assert.equal(value.jobs.source, undefined);
-  assert.deepEqual(value.jobs.validation.needs, ['projection', 'tooling-portability']);
+  assert.deepEqual(value.jobs.validation.needs, ['reuse', 'projection', 'tooling-portability']);
   assert.equal(value.jobs.validation.if, 'always()');
   assert.match(JSON.stringify(value.jobs.validation.steps), /PROJECTION_RESULT.*success/);
   assert.match(JSON.stringify(value.jobs.validation.steps), /PORTABILITY_RESULT.*success/);
@@ -65,8 +65,8 @@ test('Vercel imports main directly while GitHub remains a non-deploying acceptan
   assert.equal(config.outputDirectory, 'dist');
   assert.deepEqual(config.git.deploymentEnabled, { '**': false, main: true });
   assert.deepEqual(config.routes[0], { src: '^/$', status: 307, headers: { Location: '/InnoEngine.Docs/' } });
-  assert.equal(config.routes[1].handle, 'filesystem');
-  assert.equal(config.routes[2].status, 404);
+  assert.equal(config.routes[2].handle, 'filesystem');
+  assert.equal(config.routes[3].status, 404);
   const required = await workflow('documentation');
   assert.doesNotMatch(JSON.stringify(required), /deploy-pages|VERCEL_TOKEN|DOCS_HOSTING|vercel\.cmd/);
   assert.equal(required.jobs['tooling-portability']['runs-on'], 'ubuntu-24.04');
