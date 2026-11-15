@@ -1,0 +1,8 @@
+---
+const status = Astro.locals.starlightRoute.entry.data.editorialStatus;
+const labels: Record<string, string> = { synced: 'Synced', outdated: 'Outdated', verified: 'Verified' };
+---
+{status && <div class:list={['api-status', `api-status-${status}`]} aria-label={`Editorial status: ${labels[status]}`}>
+  <span class="api-status-icon" aria-hidden="true">{status === 'synced' ? '!' : status === 'outdated' ? '×' : '✓'}</span>
+  <strong>{labels[status]}</strong>
+</div>}

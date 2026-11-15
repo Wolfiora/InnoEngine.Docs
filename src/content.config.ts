@@ -22,6 +22,7 @@ export const collections = {
         outdated: z.boolean().optional(),
         symbol: z.string().optional(),
         sourceDeclaration: z.string().url().optional(),
+        editorialStatus: z.enum(['synced', 'outdated', 'verified']).optional(),
         exampleMode: z.enum(['host', 'runtime-script', 'editor-script']).optional(),
         exampleProjects: z.array(z.string()).optional(),
       }),
