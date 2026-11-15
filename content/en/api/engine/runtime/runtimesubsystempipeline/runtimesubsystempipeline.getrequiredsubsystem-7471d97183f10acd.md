@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7471d97183f10acd70b38505759f31ffa5fbb05ff84e885157fd47b09d9233e4
-symbol: "engine:Inno.Runtime:M:Inno.Runtime.RuntimeSubsystemPipeline.GetRequiredSubsystem\u0060\u00601"
-source: xml
-reviewed: 163dcf0616e0beed5cf98301fcc8d6eed049193d257757946cbf9e91ee283357
-title: "RuntimeSubsystemPipeline.GetRequiredSubsystem"
+symbol: engine:Inno.Runtime:M:Inno.Runtime.RuntimeSubsystemPipeline.GetRequiredSubsystem``1
+title: RuntimeSubsystemPipeline.GetRequiredSubsystem
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: 163dcf0616e0beed5cf98301fcc8d6eed049193d257757946cbf9e91ee283357
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves the unique active subsystem that implements the requested contract.

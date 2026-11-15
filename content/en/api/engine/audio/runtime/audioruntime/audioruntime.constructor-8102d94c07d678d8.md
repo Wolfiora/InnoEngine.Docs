@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8102d94c07d678d81c1c28749df1c33fa1b3d195b3f9331e02cc0f9d1afa50a7
-symbol: "engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioRuntime.#ctor(Inno.Extensibility.Types.TypeCatalog,Inno.Audio.IAudioDevice,Inno.Assets.IAssetArtifactLookup,Inno.Core.Events.EventDispatcher,Inno.Core.Diagnostics.IDiagnosticReporter,Inno.Audio.Runtime.AudioRuntimeOptions,System.Func{Inno.References.ContentReadScope},System.Func{Inno.Audio.IAudioDevice})"
-source: xml
-reviewed: 0cd6486cb3c84ab6311332493e39b4b7acfce13e06c9a512bc3fdbb8adc21fa1
-title: "AudioRuntime.Constructor"
+symbol: engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioRuntime.#ctor(Inno.Extensibility.Types.TypeCatalog,Inno.Audio.IAudioDevice,Inno.Assets.IAssetArtifactLookup,Inno.Core.Events.EventDispatcher,Inno.Core.Diagnostics.IDiagnosticReporter,Inno.Audio.Runtime.AudioRuntimeOptions,System.Func{Inno.References.ContentReadScope},System.Func{Inno.Audio.IAudioDevice})
+title: AudioRuntime.Constructor
 kind: api
-owners: [Inno.Audio.Runtime]
+owners:
+- Inno.Audio.Runtime
 apiSurface: source-clr
+reviewed: 0cd6486cb3c84ab6311332493e39b4b7acfce13e06c9a512bc3fdbb8adc21fa1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an audio runtime over one backend device generation.

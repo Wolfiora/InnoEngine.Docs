@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.eb7b214ac92d55d52771363fea72bc21469b3c12bdbd3d1d84e9d45dd3f2993d
-symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyExtensions.TryGetInnoAssemblyClassification(System.Reflection.Assembly,Inno.Extensibility.Modules.AssemblyDomain@,Inno.Extensibility.Modules.AssemblyScope@)"
-source: xml
-reviewed: c20e0bed61854dd23b7e0e8a7606bf48e2ab05273a9db7530693388794171cdc
-title: "AssemblyExtensions.TryGetInnoAssemblyClassification"
+symbol: engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyExtensions.TryGetInnoAssemblyClassification(System.Reflection.Assembly,Inno.Extensibility.Modules.AssemblyDomain@,Inno.Extensibility.Modules.AssemblyScope@)
+title: AssemblyExtensions.TryGetInnoAssemblyClassification
 kind: api
-owners: [Inno.Extensibility.Modules]
+owners:
+- Inno.Extensibility.Modules
 apiSurface: source-clr
+reviewed: c20e0bed61854dd23b7e0e8a7606bf48e2ab05273a9db7530693388794171cdc
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads ownership metadata without treating an unrelated assembly as an extension.

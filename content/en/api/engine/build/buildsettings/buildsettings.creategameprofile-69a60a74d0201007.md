@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.69a60a74d020100786842c93e4a8c5b58bfeb6fb847044819c7f6b8df68e5247
-symbol: "engine:Inno.Build:M:Inno.Build.BuildSettings.CreateGameProfile(Inno.Core.Settings.ProjectId)"
-source: xml
-reviewed: 6b85964dbf6b237822b56692561ef3a1132711602f5164457c9e285d656edb72
-title: "BuildSettings.CreateGameProfile"
+symbol: engine:Inno.Build:M:Inno.Build.BuildSettings.CreateGameProfile(Inno.Core.Settings.ProjectId)
+title: BuildSettings.CreateGameProfile
 kind: api
-owners: [Inno.Build]
+owners:
+- Inno.Build
 apiSurface: source-clr
+reviewed: 6b85964dbf6b237822b56692561ef3a1132711602f5164457c9e285d656edb72
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an isolated game profile from the current defaults.

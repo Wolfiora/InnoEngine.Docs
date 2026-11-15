@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.290d2516d14811f121b1d923f8ec0c18b6aaa315abea96a28f69886904e231dd
-symbol: "scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportPresentation.GetHashCode"
-source: xml
-reviewed: cc9849328defaf45c2a4739e972988e9d66174a03e74994254c6b68d88835b7a
-title: "EditorViewportPresentation.GetHashCode"
+symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportPresentation.GetHashCode
+title: EditorViewportPresentation.GetHashCode
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: editor-script
+reviewed: cc9849328defaf45c2a4739e972988e9d66174a03e74994254c6b68d88835b7a
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

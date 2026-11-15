@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7514c748b097539cfcfb8f8c0520d432797893f06459bf5fcc3367413ca7ccf2
-symbol: "engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphDocument.AddNode(Inno.Core.Graphs.GraphNodeRecord)"
-source: xml
-reviewed: 9fa8bb6d6af850c6b57a3ded5e5ebb7fe3b02760dbbafd8017592b8a15e6e5ec
-title: "GraphDocument.AddNode"
+symbol: engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphDocument.AddNode(Inno.Core.Graphs.GraphNodeRecord)
+title: GraphDocument.AddNode
 kind: api
-owners: [Inno.Core.Graphs]
+owners:
+- Inno.Core.Graphs
 apiSurface: source-clr
+reviewed: 9fa8bb6d6af850c6b57a3ded5e5ebb7fe3b02760dbbafd8017592b8a15e6e5ec
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds a node while preserving document order.

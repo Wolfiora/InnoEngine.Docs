@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.mathematics.950d79d89205df55
-symbol: "engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.Matrix"
-source: xml
-reviewed: 4acb028cc732baf02692f604ff8722fe345003f6e7ec06365c2df4bbeedb2e5c
-title: "Matrix"
+symbol: engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.Matrix
+title: Matrix
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 4acb028cc732baf02692f604ff8722fe345003f6e7ec06365c2df4bbeedb2e5c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-core-mathematics#numeric-and-layout-contract
 aliases: []

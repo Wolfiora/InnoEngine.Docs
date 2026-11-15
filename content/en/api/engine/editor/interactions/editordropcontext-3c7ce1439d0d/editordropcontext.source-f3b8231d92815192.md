@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f3b8231d92815192e6028e5992c59b30888fbc633fb5b64fee4aa1d66db5e3a2
-symbol: "engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorDropContext.source"
-source: xml
-reviewed: ffe7a0f878c1475efe0d7d2147379548794604a4ec68936056c04ab0f8db2bb2
-title: "EditorDropContext.source"
+symbol: engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorDropContext.source
+title: EditorDropContext.source
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: ffe7a0f878c1475efe0d7d2147379548794604a4ec68936056c04ab0f8db2bb2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the live source resolved for this query or delivery operation.

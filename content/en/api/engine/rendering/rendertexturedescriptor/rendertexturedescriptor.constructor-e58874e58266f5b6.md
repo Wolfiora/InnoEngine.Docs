@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e58874e58266f5b65df32c07cc5fa1e527bb286639a144309197712123c24f35
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderTextureDescriptor.#ctor(System.Int32,System.Int32,Inno.Rendering.RenderTextureFormat,Inno.Rendering.RenderTextureUsage,System.Int32,System.Int32,System.Int32,Inno.Rendering.RenderTextureDimension,System.Int32)"
-source: xml
-reviewed: d0f39e8b8744b26ae874dfad862fd4f0cd1ac3582010e89b595f7efe0e721a84
-title: "RenderTextureDescriptor.Constructor"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderTextureDescriptor.#ctor(System.Int32,System.Int32,Inno.Rendering.RenderTextureFormat,Inno.Rendering.RenderTextureUsage,System.Int32,System.Int32,System.Int32,Inno.Rendering.RenderTextureDimension,System.Int32)
+title: RenderTextureDescriptor.Constructor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: d0f39e8b8744b26ae874dfad862fd4f0cd1ac3582010e89b595f7efe0e721a84
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a texture descriptor.

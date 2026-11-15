@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.07235012d03787f1ad4de862f11ee3b4306767bb5fcfa0305cdf90bdd67464a9
-symbol: "scripting:Inno.UI:P:InnoEngine.UI.UiDocumentAsset.implementationId"
-source: xml
-reviewed: 5b2473da0be654bb18d5889d9360cc03ba18f53e3145a01f7161c66a52418e9e
-title: "UiDocumentAsset.implementationId"
+symbol: scripting:Inno.UI:P:InnoEngine.UI.UiDocumentAsset.implementationId
+title: UiDocumentAsset.implementationId
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: 5b2473da0be654bb18d5889d9360cc03ba18f53e3145a01f7161c66a52418e9e
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the exact backend implementation selected when the source was imported.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.61c3415ee334853480d27a6067eb610602a5d50276f5b5b3cf55b829ec4afe8a
-symbol: "engine:Inno.Adapter.Authoring.Default:P:Inno.Adapter.Authoring.Default.DefaultAuthoringAdapterCatalog.rendering"
-source: xml
-reviewed: 8a928ff587260b6104289b580d12eb63e26ae24df6c021ed11cf97dcc87d81c1
-title: "DefaultAuthoringAdapterCatalog.rendering"
+symbol: engine:Inno.Adapter.Authoring.Default:P:Inno.Adapter.Authoring.Default.DefaultAuthoringAdapterCatalog.rendering
+title: DefaultAuthoringAdapterCatalog.rendering
 kind: api
-owners: [Inno.Adapter.Authoring.Default]
+owners:
+- Inno.Adapter.Authoring.Default
 apiSurface: source-clr
+reviewed: 8a928ff587260b6104289b580d12eb63e26ae24df6c021ed11cf97dcc87d81c1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the built-in runtime rendering backend factory.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ef759654d29d36b614249ecb892a3787047fbbb2a6ebb7529fc9e987b04309e7
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameLayer.op_Inequality(InnoEngine.Scene.GameLayer,InnoEngine.Scene.GameLayer)"
-source: xml
-reviewed: 3eb1a67fc236eeda9d39be3509d05b85d716ebba69d56130737508c2acba2c25
-title: "GameLayer.op_Inequality"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameLayer.op_Inequality(InnoEngine.Scene.GameLayer,InnoEngine.Scene.GameLayer)
+title: GameLayer.op_Inequality
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: 3eb1a67fc236eeda9d39be3509d05b85d716ebba69d56130737508c2acba2c25
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether two layer identifiers contain different indices.

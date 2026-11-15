@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.eca956e4fc434c7b635d965e42744b14e76a947669f9aeb4a569cf3131b0afe0
-symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.Log.Info(System.Type,System.Object,System.String,System.Int32)"
-source: xml
-reviewed: 19d0f792fc797e437be4e89546d0d7eadd279ab469dcc6070e29dfb56b05eca4
-title: "Log.Info"
+symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.Log.Info(System.Type,System.Object,System.String,System.Int32)
+title: Log.Info
 kind: api
-owners: [Inno.Core.Logging]
+owners:
+- Inno.Core.Logging
 apiSurface: source-clr
+reviewed: 19d0f792fc797e437be4e89546d0d7eadd279ab469dcc6070e29dfb56b05eca4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes a info-level message using the object's string representation.

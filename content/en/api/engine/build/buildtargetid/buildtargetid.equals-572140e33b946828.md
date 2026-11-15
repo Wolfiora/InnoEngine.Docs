@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.572140e33b9468282871da1d197cb2ebf19e86dd3a627e1edb4b891f492e0ff6
-symbol: "engine:Inno.Build:M:Inno.Build.BuildTargetId.Equals(Inno.Build.BuildTargetId)"
-source: xml
-reviewed: 69d6a2a37e641ed1eb312a31d7dede79d6182b7106bd9db07d03070f345d4844
-title: "BuildTargetId.Equals"
+symbol: engine:Inno.Build:M:Inno.Build.BuildTargetId.Equals(Inno.Build.BuildTargetId)
+title: BuildTargetId.Equals
 kind: api
-owners: [Inno.Build]
+owners:
+- Inno.Build
 apiSurface: source-clr
+reviewed: 69d6a2a37e641ed1eb312a31d7dede79d6182b7106bd9db07d03070f345d4844
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

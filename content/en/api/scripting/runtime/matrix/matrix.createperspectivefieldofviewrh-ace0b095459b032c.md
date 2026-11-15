@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ace0b095459b032ce231d562bdda1d19a51cb48fab6e7204db049888d8d46531
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.CreatePerspectiveFieldOfViewRH(System.Single,System.Single,System.Single,System.Single)"
-source: xml
-reviewed: a00990bbf7cdfd605f6172dcdb5434b251451da156e66969edb9e551b65b5c59
-title: "Matrix.CreatePerspectiveFieldOfViewRH"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.CreatePerspectiveFieldOfViewRH(System.Single,System.Single,System.Single,System.Single)
+title: Matrix.CreatePerspectiveFieldOfViewRH
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: a00990bbf7cdfd605f6172dcdb5434b251451da156e66969edb9e551b65b5c59
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a right-handed, perspective projection matrix (depth range 0..1).

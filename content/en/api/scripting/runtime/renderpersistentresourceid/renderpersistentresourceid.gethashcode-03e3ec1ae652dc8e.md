@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.03e3ec1ae652dc8e292176ac07138313a5532ef146cc14f3097ce450220db473
-symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderPersistentResourceId.GetHashCode"
-source: xml
-reviewed: 385eec8051fcf5fb8c62ad27e763858d50f922145c69773caf3e464bb0e971b3
-title: "RenderPersistentResourceId.GetHashCode"
+symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderPersistentResourceId.GetHashCode
+title: RenderPersistentResourceId.GetHashCode
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: 385eec8051fcf5fb8c62ad27e763858d50f922145c69773caf3e464bb0e971b3
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

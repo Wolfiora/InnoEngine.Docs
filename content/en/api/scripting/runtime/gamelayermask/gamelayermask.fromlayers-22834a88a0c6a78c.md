@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.22834a88a0c6a78c5eb093e86393ba7ec5669b9daad19260bb9d7d0ab9f3dcb0
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerMask.FromLayers(System.Collections.Generic.IEnumerable{InnoEngine.Scene.GameLayer})"
-source: xml
-reviewed: 6060d6109d3cb0b169196d4a2a5f6d709098d06f50ea525354d3726a9842329e
-title: "GameLayerMask.FromLayers"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerMask.FromLayers(System.Collections.Generic.IEnumerable{InnoEngine.Scene.GameLayer})
+title: GameLayerMask.FromLayers
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: 6060d6109d3cb0b169196d4a2a5f6d709098d06f50ea525354d3726a9842329e
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a mask containing the supplied layers.

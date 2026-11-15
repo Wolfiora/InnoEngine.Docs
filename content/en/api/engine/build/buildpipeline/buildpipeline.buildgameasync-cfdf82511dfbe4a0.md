@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cfdf82511dfbe4a091fdf82d7a26a8a5e8f3315b6e14a708d0a0940847e5a39e
-symbol: "engine:Inno.Build:M:Inno.Build.BuildPipeline.BuildGameAsync(Inno.Build.GameBuildRequest,System.IProgress{Inno.Build.BuildProgress},System.Threading.CancellationToken)"
-source: xml
-reviewed: d04650c5653dbc97d97287c5327c7399d18b213966fb0afe2800ad78442e24ac
-title: "BuildPipeline.BuildGameAsync"
+symbol: engine:Inno.Build:M:Inno.Build.BuildPipeline.BuildGameAsync(Inno.Build.GameBuildRequest,System.IProgress{Inno.Build.BuildProgress},System.Threading.CancellationToken)
+title: BuildPipeline.BuildGameAsync
 kind: api
-owners: [Inno.Build]
+owners:
+- Inno.Build
 apiSurface: source-clr
+reviewed: d04650c5653dbc97d97287c5327c7399d18b213966fb0afe2800ad78442e24ac
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Builds and installs one complete source-free game deployment with rollback protection.

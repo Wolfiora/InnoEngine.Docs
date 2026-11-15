@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3612688301e1cbd1dce06dac255d25fe3b7647a0c3f7f5797a378c3226563063
-symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRegistry\u00601.OnActivating(\u00600,\u00600)"
-source: xml
-reviewed: 1351c11f23248298624b2632797ecee0c49c46127d2e008da7ee18a9d6207354
-title: "TypeRegistry\u003CTSnapshot\u003E.OnActivating"
+symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRegistry`1.OnActivating(`0,`0)
+title: TypeRegistry<TSnapshot>.OnActivating
 kind: api
-owners: [Inno.Extensibility.Types]
+owners:
+- Inno.Extensibility.Types
 apiSurface: source-clr
+reviewed: 1351c11f23248298624b2632797ecee0c49c46127d2e008da7ee18a9d6207354
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reversibly activates a complete candidate while the previous snapshot remains available.

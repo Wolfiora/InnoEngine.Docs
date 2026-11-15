@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0b97217179bf8be0120f9ffa1aa73f007a814430ae29a4a7a4aaa43752d153d2
-symbol: "engine:Inno.Animation.Runtime:M:Inno.Animation.Runtime.AnimationRuntime.Seek(Inno.Animation.AnimationPlaybackHandle,System.Single)"
-source: xml
-reviewed: 2370a3f24be3f1b19deec69be76c114f6324e71949662ab00b0ccd323b1a8fa9
-title: "AnimationRuntime.Seek"
+symbol: engine:Inno.Animation.Runtime:M:Inno.Animation.Runtime.AnimationRuntime.Seek(Inno.Animation.AnimationPlaybackHandle,System.Single)
+title: AnimationRuntime.Seek
 kind: api
-owners: [Inno.Animation.Runtime]
+owners:
+- Inno.Animation.Runtime
 apiSurface: source-clr
+reviewed: 2370a3f24be3f1b19deec69be76c114f6324e71949662ab00b0ccd323b1a8fa9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Seeks one live playback to a clamped clip-local time.

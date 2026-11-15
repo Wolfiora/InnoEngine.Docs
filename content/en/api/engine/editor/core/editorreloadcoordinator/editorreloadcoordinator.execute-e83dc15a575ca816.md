@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e83dc15a575ca81684710232a0d5f7510d4c0cf1d9aea13f73358b13120deda6
-symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorReloadCoordinator.Execute(Inno.Extensibility.Modules.AssemblyReloadSession,Inno.Extensibility.Reload.IGenerationChange)"
-source: xml
-reviewed: f5c4509e33f3ef65b64ce9a58bb30789a1be55e73374c96cfb86af4ee7cc1a43
-title: "EditorReloadCoordinator.Execute"
+symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorReloadCoordinator.Execute(Inno.Extensibility.Modules.AssemblyReloadSession,Inno.Extensibility.Reload.IGenerationChange)
+title: EditorReloadCoordinator.Execute
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: source-clr
+reviewed: f5c4509e33f3ef65b64ce9a58bb30789a1be55e73374c96cfb86af4ee7cc1a43
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Applies one prepared assembly reload together with every registered editor feature migration.

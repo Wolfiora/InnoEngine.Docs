@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a44f2a755f117cf64879e0a10c1a4473b96b6e01aa6f01feb76d34f6de2f5f82
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.PrepareSampleImport(Inno.Assets.AssetPath)"
-source: xml
-reviewed: 7a5b8d638a6ffa46f67ff4ea06eb9daa36a133b7acef266d7b32646e61156a65
-title: "AssetPipeline.PrepareSampleImport"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.PrepareSampleImport(Inno.Assets.AssetPath)
+title: AssetPipeline.PrepareSampleImport
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 7a5b8d638a6ffa46f67ff4ea06eb9daa36a133b7acef266d7b32646e61156a65
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Starts a private background sample clone without waiting for file copying or transformation.

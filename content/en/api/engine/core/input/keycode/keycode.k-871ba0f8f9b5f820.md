@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.871ba0f8f9b5f820702eec30ba9e7d63d2601c2b3387fd957fd71ae55a7f2359
-symbol: "engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.K"
-source: xml
-reviewed: 4f760e3986d4799acae224f99d46f7a3a5077fc78f639688e2aad395af9407bf
-title: "KeyCode.K"
+symbol: engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.K
+title: KeyCode.K
 kind: api
-owners: [Inno.Core.Input]
+owners:
+- Inno.Core.Input
 apiSurface: source-clr
+reviewed: 4f760e3986d4799acae224f99d46f7a3a5077fc78f639688e2aad395af9407bf
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The K letter key.

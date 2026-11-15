@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dd3aef6e3605cf35423340adf04e431cfdff9965028b99a06e3b02ad17c5ec17
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.Transform.SetParent(InnoEngine.Scene.Transform)"
-source: xml
-reviewed: 6e3c9d6c9b92f9b31f251ca7b4f038ddad20e888ac0986a60e405a926045f390
-title: "Transform.SetParent"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.Transform.SetParent(InnoEngine.Scene.Transform)
+title: Transform.SetParent
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: 6e3c9d6c9b92f9b31f251ca7b4f038ddad20e888ac0986a60e405a926045f390
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Sets the parent while preserving this transform's world-space values.

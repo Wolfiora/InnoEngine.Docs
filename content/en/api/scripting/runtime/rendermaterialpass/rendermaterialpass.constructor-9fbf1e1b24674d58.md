@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9fbf1e1b24674d586676848acb96a9070491b75656e23335dbf3367364d52cee
-symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderMaterialPass.#ctor"
-source: xml
-reviewed: bee9ecc71abd27d972f66ced83c01e30b7d7099d0950521cfd1ba52cd7037156
-title: "RenderMaterialPass.Constructor"
+symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderMaterialPass.#ctor
+title: RenderMaterialPass.Constructor
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: bee9ecc71abd27d972f66ced83c01e30b7d7099d0950521cfd1ba52cd7037156
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Appears in the generated script reference without a matching public or protected engine constructor.

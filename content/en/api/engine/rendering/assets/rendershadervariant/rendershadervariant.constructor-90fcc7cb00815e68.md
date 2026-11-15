@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.90fcc7cb00815e68c74edd017d8a0af0350d4c4a25c2b77f31f3d6167300deca
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderShaderVariant.#ctor(System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})"
-source: xml
-reviewed: 9f521d468c1e2ddb516079412f3a7461fb193c27b04fcdfc9610f630f1f9ef0d
-title: "RenderShaderVariant.Constructor"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderShaderVariant.#ctor(System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})
+title: RenderShaderVariant.Constructor
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: 9f521d468c1e2ddb516079412f3a7461fb193c27b04fcdfc9610f630f1f9ef0d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a canonical shader variant from stable keyword selections.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ad261007773c96b8aa3078d9c874b3471e2daa9f649977405b13f3b38129922f
-symbol: "scripting:Inno.Audio:P:InnoEngine.Audio.AudioMixerFeatureConfiguration.state"
-source: xml
-reviewed: e7f3519399eb6b834138088f83db02ddc07b62207b131aa8f2c1d582ddf33fbb
-title: "AudioMixerFeatureConfiguration.state"
+symbol: scripting:Inno.Audio:P:InnoEngine.Audio.AudioMixerFeatureConfiguration.state
+title: AudioMixerFeatureConfiguration.state
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: e7f3519399eb6b834138088f83db02ddc07b62207b131aa8f2c1d582ddf33fbb
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets reload-safe feature settings.

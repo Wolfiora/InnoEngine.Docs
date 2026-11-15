@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d1a4bdeff290a6c23abd21f2a271f6f1657f6c675cbeb873cd9096860c26a517
-symbol: "engine:Inno.Editor.Shaders:M:Inno.Editor.Shaders.ShaderPreviewProviderAttribute.#ctor(System.String)"
-source: xml
-reviewed: 6fc25a1e9df69ab1f292fc1976413b56ab43e98965a2afaf9837b796d9841e66
-title: "ShaderPreviewProviderAttribute.Constructor"
+symbol: engine:Inno.Editor.Shaders:M:Inno.Editor.Shaders.ShaderPreviewProviderAttribute.#ctor(System.String)
+title: ShaderPreviewProviderAttribute.Constructor
 kind: api
-owners: [Inno.Editor.Shaders]
+owners:
+- Inno.Editor.Shaders
 apiSurface: source-clr
+reviewed: 6fc25a1e9df69ab1f292fc1976413b56ab43e98965a2afaf9837b796d9841e66
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Associates a reloadable preview implementation with one open Shader contract.

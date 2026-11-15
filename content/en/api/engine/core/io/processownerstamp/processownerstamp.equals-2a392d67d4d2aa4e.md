@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2a392d67d4d2aa4ec0c9ac0e22b1fa3e81a3d2720c19d0b5388de39dcd29b741
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.ProcessOwnerStamp.Equals(System.Object)"
-source: xml
-reviewed: 9537955b3d92e2a2a3199cd57fa381b3cb7b2784204124bfb2462e07f302a7ad
-title: "ProcessOwnerStamp.Equals"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.ProcessOwnerStamp.Equals(System.Object)
+title: ProcessOwnerStamp.Equals
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: 9537955b3d92e2a2a3199cd57fa381b3cb7b2784204124bfb2462e07f302a7ad
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

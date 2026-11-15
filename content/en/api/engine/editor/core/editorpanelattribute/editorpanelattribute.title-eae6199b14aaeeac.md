@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.eae6199b14aaeeacda51033ff6e572948b664ada7ea940da10d2ecfbe3f9444c
-symbol: "engine:Inno.Editor.Core:P:Inno.Editor.Core.EditorPanelAttribute.title"
-source: xml
-reviewed: 2f3256ab181213c11bad48d4f25f4f46c2388bd3f8747de270169c9f373f4f6b
-title: "EditorPanelAttribute.title"
+symbol: engine:Inno.Editor.Core:P:Inno.Editor.Core.EditorPanelAttribute.title
+title: EditorPanelAttribute.title
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: source-clr
+reviewed: 2f3256ab181213c11bad48d4f25f4f46c2388bd3f8747de270169c9f373f4f6b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the visible panel title.

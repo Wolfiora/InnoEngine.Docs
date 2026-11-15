@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ff9948a8897e94f6f61ec4ed0df42e38cae6857d39e73452209f12cc6bd1baec
-symbol: "scripting:Inno.Editor.Assets.ImGui:M:InnoEditor.Assets.AssetBrowserState.SetLocation(InnoEditor.Assets.AssetBrowserRoot,System.String)"
-source: xml
-reviewed: f1236835785f9f1962d341417195cd60aa12459aee3f7c90b76736a4683ab7be
-title: "AssetBrowserState.SetLocation"
+symbol: scripting:Inno.Editor.Assets.ImGui:M:InnoEditor.Assets.AssetBrowserState.SetLocation(InnoEditor.Assets.AssetBrowserRoot,System.String)
+title: AssetBrowserState.SetLocation
 kind: api
-owners: [Inno.Editor.Assets.ImGui]
+owners:
+- Inno.Editor.Assets.ImGui
 apiSurface: editor-script
+reviewed: f1236835785f9f1962d341417195cd60aa12459aee3f7c90b76736a4683ab7be
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Changes the displayed source root and its isolated navigation directory.

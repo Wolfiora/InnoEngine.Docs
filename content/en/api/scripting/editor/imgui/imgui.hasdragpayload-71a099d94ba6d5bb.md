@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.71a099d94ba6d5bb2ba9370d321998e4a1d09f1d897bdbeafb53982eca694be0
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.HasDragPayload(System.String)"
-source: xml
-reviewed: aa63683273c2bd24de8517ce728eed7a9f3658b271eff3cf6d08ca69d8d92eb1
-title: "ImGui.HasDragPayload"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.HasDragPayload(System.String)
+title: ImGui.HasDragPayload
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: aa63683273c2bd24de8517ce728eed7a9f3658b271eff3cf6d08ca69d8d92eb1
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Checks the active payload's logical protocol without exposing its native buffer.

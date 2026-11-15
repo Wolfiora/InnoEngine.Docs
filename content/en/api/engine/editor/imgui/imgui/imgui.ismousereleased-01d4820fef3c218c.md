@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.01d4820fef3c218c7b5d0a7701abd966f22a950dab985a36b99780d333b8377e
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.IsMouseReleased(Inno.Editor.ImGui.ImGuiMouseButton)"
-source: xml
-reviewed: 766984a9d4424667221217c9afa963d856fb205854a1475835b53d718b45460e
-title: "ImGui.IsMouseReleased"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.IsMouseReleased(Inno.Editor.ImGui.ImGuiMouseButton)
+title: ImGui.IsMouseReleased
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 766984a9d4424667221217c9afa963d856fb205854a1475835b53d718b45460e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Checks a pointer-button release in the current frame.

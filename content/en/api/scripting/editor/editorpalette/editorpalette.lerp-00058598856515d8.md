@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.00058598856515d8434c6aadbd613f6d308f035f976c1cde2f62953f3a034289
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorPalette.Lerp(System.Numerics.Vector4,System.Numerics.Vector4,System.Single)"
-source: xml
-reviewed: 4e1525079725d7472e54330cc9128fbd76c338e47ecacb49532754a6899ac68e
-title: "EditorPalette.Lerp"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorPalette.Lerp(System.Numerics.Vector4,System.Numerics.Vector4,System.Single)
+title: EditorPalette.Lerp
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 4e1525079725d7472e54330cc9128fbd76c338e47ecacb49532754a6899ac68e
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Linearly interpolates two palette colors using a clamped amount.

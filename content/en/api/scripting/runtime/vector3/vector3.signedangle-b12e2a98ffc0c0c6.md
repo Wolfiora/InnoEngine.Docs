@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b12e2a98ffc0c0c6174947f850c074f816a190ce2b6ece3e56ed20774fc960ed
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.SignedAngle(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3)"
-source: xml
-reviewed: 0608eb162a9bf4ecb356b8dcbb8ea2f4b87d7a9d5d4a28b18a85786e801b68ef
-title: "Vector3.SignedAngle"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.SignedAngle(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3)
+title: Vector3.SignedAngle
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 0608eb162a9bf4ecb356b8dcbb8ea2f4b87d7a9d5d4a28b18a85786e801b68ef
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Calculates the signed angle in radians from one value to another.

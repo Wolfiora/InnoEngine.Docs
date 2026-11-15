@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.51730470ca7b720be35f4db5610be08897785f87f272ad1470db1a2f3e5f1453
-symbol: "engine:Inno.Content:P:Inno.Content.ContentPackDescriptor.contentHash"
-source: xml
-reviewed: be4e614197b096280d6bb5f6cdf8bc7e92a22323514d8bcf6ea42dcb8cfc03ab
-title: "ContentPackDescriptor.contentHash"
+symbol: engine:Inno.Content:P:Inno.Content.ContentPackDescriptor.contentHash
+title: ContentPackDescriptor.contentHash
 kind: api
-owners: [Inno.Content]
+owners:
+- Inno.Content
 apiSurface: source-clr
+reviewed: be4e614197b096280d6bb5f6cdf8bc7e92a22323514d8bcf6ea42dcb8cfc03ab
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the SHA-256 of all encoded bytes, including the index.

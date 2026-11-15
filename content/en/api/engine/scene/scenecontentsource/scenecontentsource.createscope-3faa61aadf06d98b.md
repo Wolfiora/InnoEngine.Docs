@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3faa61aadf06d98b9b3a94f6363894325e29a0684e803dbcff5f7fe1a7bbbe80
-symbol: "engine:Inno.Scene:M:Inno.Scene.SceneContentSource.CreateScope(Inno.Scene.SceneWorld)"
-source: xml
-reviewed: 50ec42d1b0825894e021478ec85d321c94010b9410ea182859292b3f62dd4e40
-title: "SceneContentSource.CreateScope"
+symbol: engine:Inno.Scene:M:Inno.Scene.SceneContentSource.CreateScope(Inno.Scene.SceneWorld)
+title: SceneContentSource.CreateScope
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 50ec42d1b0825894e021478ec85d321c94010b9410ea182859292b3f62dd4e40
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures the ordered roots and primary identity of one scene world.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.11c1cac13f53a0fca1d5fe168dc0577a8852513e30b4d6b84290ea81aaa51960
-symbol: "engine:Inno.Animation:M:Inno.Animation.AnimationPlaybackAllocator.Create(System.Int32,System.UInt32)"
-source: xml
-reviewed: 0c8fbdc897abb2bf59b91634588fef729a55e75be78b53a21ed57e76cf68b866
-title: "AnimationPlaybackAllocator.Create"
+symbol: engine:Inno.Animation:M:Inno.Animation.AnimationPlaybackAllocator.Create(System.Int32,System.UInt32)
+title: AnimationPlaybackAllocator.Create
 kind: api
-owners: [Inno.Animation]
+owners:
+- Inno.Animation
 apiSurface: source-clr
+reviewed: 0c8fbdc897abb2bf59b91634588fef729a55e75be78b53a21ed57e76cf68b866
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Encodes one owner-managed slot revision into an opaque playback handle.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.34c04b756b57a4a51e218c9baf01c95d86337a1bf8c5d4cfe79dc84b952bb90c
-symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderBufferUsage.Uniform"
-source: xml
-reviewed: 98b32ed4eed3a5462b55d3506a706aa98cc1973fafa8af68b1938002428d925d
-title: "RenderBufferUsage.Uniform"
+symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderBufferUsage.Uniform
+title: RenderBufferUsage.Uniform
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 98b32ed4eed3a5462b55d3506a706aa98cc1973fafa8af68b1938002428d925d
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Read-only shader data.

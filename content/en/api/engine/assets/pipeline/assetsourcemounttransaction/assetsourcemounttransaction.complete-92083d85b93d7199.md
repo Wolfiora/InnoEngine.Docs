@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.92083d85b93d71997c089d135d645afee929a7d1b8e38d5542470608d1fd4d81
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourceMountTransaction.Complete"
-source: xml
-reviewed: fd71428aca95337c57a88efe7823f6a6ed4fed77c37263e8010bf092cd00d1d5
-title: "AssetSourceMountTransaction.Complete"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourceMountTransaction.Complete
+title: AssetSourceMountTransaction.Complete
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: fd71428aca95337c57a88efe7823f6a6ed4fed77c37263e8010bf092cd00d1d5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Commits an activated candidate, notifies observers, and retires the previous generation.

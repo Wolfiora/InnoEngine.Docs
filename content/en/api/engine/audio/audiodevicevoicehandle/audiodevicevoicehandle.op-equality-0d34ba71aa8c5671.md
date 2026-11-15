@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0d34ba71aa8c5671e6bc3f56925a32912a72d6e06b983b30475e7c06aa162467
-symbol: "engine:Inno.Audio:M:Inno.Audio.AudioDeviceVoiceHandle.op_Equality(Inno.Audio.AudioDeviceVoiceHandle,Inno.Audio.AudioDeviceVoiceHandle)"
-source: xml
-reviewed: 0dea8df0e5372a5ad112a2028b7561e2e961caa4d778775a5a1a13905a7238fb
-title: "AudioDeviceVoiceHandle.op_Equality"
+symbol: engine:Inno.Audio:M:Inno.Audio.AudioDeviceVoiceHandle.op_Equality(Inno.Audio.AudioDeviceVoiceHandle,Inno.Audio.AudioDeviceVoiceHandle)
+title: AudioDeviceVoiceHandle.op_Equality
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 0dea8df0e5372a5ad112a2028b7561e2e961caa4d778775a5a1a13905a7238fb
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

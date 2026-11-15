@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9aea19850b67a6c25512413aceaea327867ed1636f0a75859323b643f93e33b8
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeToolchainSelection.WithTools(System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.Collections.Generic.IEnumerable{System.String})"
-source: xml
-reviewed: 0b9973c5b28333cda55874883337c5eeb92bee0e45fe095fc8a8851b9a58eddf
-title: "NativeToolchainSelection.WithTools"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeToolchainSelection.WithTools(System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.Collections.Generic.IEnumerable{System.String})
+title: NativeToolchainSelection.WithTools
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 0b9973c5b28333cda55874883337c5eeb92bee0e45fe095fc8a8851b9a58eddf
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds integration-owned tools without changing the platform SDK or replacing existing commands.

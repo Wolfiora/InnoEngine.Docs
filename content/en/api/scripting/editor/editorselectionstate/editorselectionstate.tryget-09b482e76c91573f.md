@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.09b482e76c91573f161568b77c491fe6638f72ad7dcc86f7fa63c23064290b47
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorSelectionState.TryGet\u0060\u00601(\u0060\u00600@)"
-source: xml
-reviewed: 5abe7cebd7426ff4748a343edb710df7e7651e030850c3cc04b8246a62c4afad
-title: "EditorSelectionState.TryGet"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorSelectionState.TryGet``1(``0@)
+title: EditorSelectionState.TryGet
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 5abe7cebd7426ff4748a343edb710df7e7651e030850c3cc04b8246a62c4afad
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves the primary selected target as the requested type for immediate use.

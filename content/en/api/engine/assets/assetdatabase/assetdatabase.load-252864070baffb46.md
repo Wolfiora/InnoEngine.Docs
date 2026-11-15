@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.252864070baffb46c66ad02ebff9eab56d28b165f97802b1c3933679d71550d6
-symbol: "engine:Inno.Assets:M:Inno.Assets.AssetDatabase.Load\u0060\u00601(System.Guid)"
-source: xml
-reviewed: 3fd02bffcf311e0ebc8e83d8cee8e699c6e292ce3fd027d585a3d0ec04499e1f
-title: "AssetDatabase.Load"
+symbol: engine:Inno.Assets:M:Inno.Assets.AssetDatabase.Load``1(System.Guid)
+title: AssetDatabase.Load
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: 3fd02bffcf311e0ebc8e83d8cee8e699c6e292ce3fd027d585a3d0ec04499e1f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Loads the canonical asset with one persistent identity.

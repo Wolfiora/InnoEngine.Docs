@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f3f9d070f3f7a50ce8a491c432b3093527d0b5a20d9705ffa278dea5ea74e765
-symbol: "engine:Inno.Runtime:M:Inno.Runtime.GameCodeAssembly.GetHashCode"
-source: xml
-reviewed: 02c78f9e1bc2a00bf85430fdd15a84f67f9c21219a8a512d132d7a08826bbc06
-title: "GameCodeAssembly.GetHashCode"
+symbol: engine:Inno.Runtime:M:Inno.Runtime.GameCodeAssembly.GetHashCode
+title: GameCodeAssembly.GetHashCode
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: 02c78f9e1bc2a00bf85430fdd15a84f67f9c21219a8a512d132d7a08826bbc06
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Serves as the default hash function.

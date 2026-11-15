@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5049135701f58f81e0437132acc43ecdc2cdd1357d71b297f027d332135594e9
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderTarget.FromTexture(InnoEngine.Rendering.RenderTexture)"
-source: xml
-reviewed: 8809ecacd1a239fe4f4837b7057a16f2fbdd647e7ca7a92641270caba2181183
-title: "RenderTarget.FromTexture"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderTarget.FromTexture(InnoEngine.Rendering.RenderTexture)
+title: RenderTarget.FromTexture
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 8809ecacd1a239fe4f4837b7057a16f2fbdd647e7ca7a92641270caba2181183
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an offscreen render target.

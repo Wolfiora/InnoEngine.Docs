@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.annotations.d97698f91094c2f2
-symbol: "engine:Inno.Editor.Annotations:T:Inno.Editor.Annotations.InspectorPresentationAttribute"
-source: xml
-reviewed: b8f98326b7b3a899ed37abad5b13f0ac36b1859584977b1da41973d115d18851
-title: "InspectorPresentationAttribute"
+symbol: engine:Inno.Editor.Annotations:T:Inno.Editor.Annotations.InspectorPresentationAttribute
+title: InspectorPresentationAttribute
 kind: api
-owners: [Inno.Editor.Annotations]
+owners:
+- Inno.Editor.Annotations
 apiSurface: source-clr
+reviewed: b8f98326b7b3a899ed37abad5b13f0ac36b1859584977b1da41973d115d18851
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - api.projects.inno-editor-annotations#loading-and-script-availability
 aliases: []

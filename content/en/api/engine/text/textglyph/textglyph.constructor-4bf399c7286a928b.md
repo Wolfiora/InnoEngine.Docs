@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4bf399c7286a928ba038cd2505423f7e6082f0169a9fca8132afde7d4e8eb0a7
-symbol: "engine:Inno.Text:M:Inno.Text.TextGlyph.#ctor(System.UInt32,System.UInt32,System.Single,System.Single,System.Single,System.Single)"
-source: xml
-reviewed: 8db5f60da5f8d87a7987b1c308747f7ee6322e264c1dfba88e53fa2057c247b5
-title: "TextGlyph.Constructor"
+symbol: engine:Inno.Text:M:Inno.Text.TextGlyph.#ctor(System.UInt32,System.UInt32,System.Single,System.Single,System.Single,System.Single)
+title: TextGlyph.Constructor
 kind: api
-owners: [Inno.Text]
+owners:
+- Inno.Text
 apiSurface: source-clr
+reviewed: 8db5f60da5f8d87a7987b1c308747f7ee6322e264c1dfba88e53fa2057c247b5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Describes one positioned glyph emitted by Unicode shaping.

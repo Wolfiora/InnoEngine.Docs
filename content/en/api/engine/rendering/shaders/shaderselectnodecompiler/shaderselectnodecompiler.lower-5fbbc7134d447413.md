@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5fbbc7134d447413c3ec25bcfc86e04aa3f1782b0b2d45c4eeb31a2abbab9348
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSelectNodeCompiler.Lower(Inno.Rendering.Shaders.ShaderNodeLoweringContext)"
-source: xml
-reviewed: 0838363677e184a892eb1853a446ccd131aeb9611ab54a7243bd43c8da344d85
-title: "ShaderSelectNodeCompiler.Lower"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSelectNodeCompiler.Lower(Inno.Rendering.Shaders.ShaderNodeLoweringContext)
+title: ShaderSelectNodeCompiler.Lower
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: 0838363677e184a892eb1853a446ccd131aeb9611ab54a7243bd43c8da344d85
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Lowers this graph node to typed shader IR after validating its inputs.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.assets.runtime-script.cec3865348e8104a
-symbol: "scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.RenderShaderVariant"
-source: xml
-reviewed: 9c50d36d7cb0d30b7305602f43ab2c30d375433966d4851d1a1239ea758531dd
-title: "RenderShaderVariant"
+symbol: scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.RenderShaderVariant
+title: RenderShaderVariant
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: editor-script
+reviewed: 9c50d36d7cb0d30b7305602f43ab2c30d375433966d4851d1a1239ea758531dd
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-rendering-assets

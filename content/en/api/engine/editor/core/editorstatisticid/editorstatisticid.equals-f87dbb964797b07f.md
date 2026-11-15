@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f87dbb964797b07f37ead5d00d76ce7bcbe85015fd9ab2629006f8a53d6f1882
-symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorStatisticId.Equals(System.Object)"
-source: xml
-reviewed: 32bd7f3bf3105d176d58ce9e3293ff4275c9d7ce969c5fd6e47898fefd0040a8
-title: "EditorStatisticId.Equals"
+symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorStatisticId.Equals(System.Object)
+title: EditorStatisticId.Equals
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: source-clr
+reviewed: 32bd7f3bf3105d176d58ce9e3293ff4275c9d7ce969c5fd6e47898fefd0040a8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

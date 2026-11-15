@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d9e6dca8bd059e783b1ff899e2d209777986c5376049d17b0725f9fdecc55ae9
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeInputMaterializer.CopyAsync(Inno.Build.Toolchains.NativeBuildContext,System.String,System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: 631d4fe2b692d36adabad536a98edc182cd823e36d6a583d58bdc9abfe0795a3
-title: "NativeInputMaterializer.CopyAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeInputMaterializer.CopyAsync(Inno.Build.Toolchains.NativeBuildContext,System.String,System.String,System.Threading.CancellationToken)
+title: NativeInputMaterializer.CopyAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 631d4fe2b692d36adabad536a98edc182cd823e36d6a583d58bdc9abfe0795a3
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Copies a declared input atomically when its destination differs, preserving identical file timestamps.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.62bb19504ecc6a7e1853633f423ee4443fd38154d9e7ce393a5a7446cfae0d5c
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderingModule.DrawControllerToolbar(Inno.Editor.Rendering.EditorViewportKindId,System.String,System.Int32,System.Int32)"
-source: xml
-reviewed: 14ffd1598e6b0af7736b59d14be5befb8a05c8384bb9011ab76fc5a46bf95a5b
-title: "EditorRenderingModule.DrawControllerToolbar"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderingModule.DrawControllerToolbar(Inno.Editor.Rendering.EditorViewportKindId,System.String,System.Int32,System.Int32)
+title: EditorRenderingModule.DrawControllerToolbar
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 14ffd1598e6b0af7736b59d14be5befb8a05c8384bb9011ab76fc5a46bf95a5b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws toolbar controls owned by the selected model controller.

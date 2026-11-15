@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.serialization.cece4bab5907d676
-symbol: "engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationRevisionAttribute"
-source: xml
-reviewed: 4a636f42fd422016d2371920ad57e1b0194411c1d220b5260055a0bbc9739926
-title: "SerializationRevisionAttribute"
+symbol: engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationRevisionAttribute
+title: SerializationRevisionAttribute
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: 4a636f42fd422016d2371920ad57e1b0194411c1d220b5260055a0bbc9739926
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 aliases: []

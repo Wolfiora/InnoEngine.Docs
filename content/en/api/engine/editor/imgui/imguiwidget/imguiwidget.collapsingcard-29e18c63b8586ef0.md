@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.29e18c63b8586ef0817ecc267c1a8f186c7edf439f3121664afa85c48a703a37
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.CollapsingCard(System.String,System.String,System.Action,System.Action,System.Boolean,System.Boolean,System.Single,System.Action)"
-source: xml
-reviewed: 310111936db7ac3ff95aee0c32f10eb22cd4e093fd8ea04049c464a406f42e62
-title: "ImGuiWidget.CollapsingCard"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.CollapsingCard(System.String,System.String,System.Action,System.Action,System.Boolean,System.Boolean,System.Single,System.Action)
+title: ImGuiWidget.CollapsingCard
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 310111936db7ac3ff95aee0c32f10eb22cd4e093fd8ea04049c464a406f42e62
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a component-style collapsible card header.

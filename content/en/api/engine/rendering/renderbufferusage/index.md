@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.a090cb78dac7b29c
-symbol: "engine:Inno.Rendering:T:Inno.Rendering.RenderBufferUsage"
-source: xml
-reviewed: c3e50719c314dfc9af74ab9afc757254f1aa76eada4b077c1384cbdc844ec512
-title: "RenderBufferUsage"
+symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderBufferUsage
+title: RenderBufferUsage
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: c3e50719c314dfc9af74ab9afc757254f1aa76eada4b077c1384cbdc844ec512
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-rendering
 aliases: []

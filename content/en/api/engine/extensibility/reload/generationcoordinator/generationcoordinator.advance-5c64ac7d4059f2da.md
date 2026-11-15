@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5c64ac7d4059f2da9685b25538a675a5570070ccebcc4c3ca1e52ecafec34fff
-symbol: "engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.GenerationCoordinator.Advance"
-source: xml
-reviewed: c815428bb7aed2a0e1d4d7f905f8748afb532132e189f36f5f7ff77586c48cf2
-title: "GenerationCoordinator.Advance"
+symbol: engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.GenerationCoordinator.Advance
+title: GenerationCoordinator.Advance
 kind: api
-owners: [Inno.Extensibility.Reload]
+owners:
+- Inno.Extensibility.Reload
 apiSurface: source-clr
+reviewed: c815428bb7aed2a0e1d4d7f905f8748afb532132e189f36f5f7ff77586c48cf2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Runs a due Full GC/finalizer/Full GC cycle only after candidate stack frames have unwound.

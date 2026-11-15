@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2fa857efd93a8f8948e4fbccb93bfea00f1ceb7b6d6d9f24f6f24a6271e0e63a
-symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.ValidateDeleteSelection(Inno.Editor.Core.EditorContext,System.Collections.Generic.IReadOnlyList{Inno.Assets.Pipeline.AssetFileEntry})"
-source: xml
-reviewed: 38aa912f152da57c11e030f5073ea5af7d9aa6807cc1604a5d85e5c7b0435359
-title: "AssetEditingModule.ValidateDeleteSelection"
+symbol: engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.ValidateDeleteSelection(Inno.Editor.Core.EditorContext,System.Collections.Generic.IReadOnlyList{Inno.Assets.Pipeline.AssetFileEntry})
+title: AssetEditingModule.ValidateDeleteSelection
 kind: api
-owners: [Inno.Editor.Assets]
+owners:
+- Inno.Editor.Assets
 apiSurface: source-clr
+reviewed: 38aa912f152da57c11e030f5073ea5af7d9aa6807cc1604a5d85e5c7b0435359
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Checks the entire source selection before a batch mutation, including extension validation and read-only ownership.

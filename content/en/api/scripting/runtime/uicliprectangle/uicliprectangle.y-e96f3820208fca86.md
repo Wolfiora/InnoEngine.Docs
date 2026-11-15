@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e96f3820208fca860ff57f6bcb171c9a31e573132b8a19d65f81f06bb30b047c
-symbol: "scripting:Inno.UI:P:InnoEngine.UI.UiClipRectangle.y"
-source: xml
-reviewed: e6ce885ef21874175e35c505f9d77eaf4694b85a52c4a388d4dcb410c49076bd
-title: "UiClipRectangle.y"
+symbol: scripting:Inno.UI:P:InnoEngine.UI.UiClipRectangle.y
+title: UiClipRectangle.y
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: e6ce885ef21874175e35c505f9d77eaf4694b85a52c4a388d4dcb410c49076bd
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The vertical or second component.

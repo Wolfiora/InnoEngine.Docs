@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c4684353055722ee56a67ae9c074a36051500cfdd2fa6b269436d89fc82f23d9
-symbol: "engine:Inno.UI.Assets:M:Inno.UI.Assets.UiDocumentDiagnostic.GetHashCode"
-source: xml
-reviewed: 54ad77851cb137f6dd0d7a0742436d73ff56d88093c8ecf4f9d9f49288b5627a
-title: "UiDocumentDiagnostic.GetHashCode"
+symbol: engine:Inno.UI.Assets:M:Inno.UI.Assets.UiDocumentDiagnostic.GetHashCode
+title: UiDocumentDiagnostic.GetHashCode
 kind: api
-owners: [Inno.UI.Assets]
+owners:
+- Inno.UI.Assets
 apiSurface: source-clr
+reviewed: 54ad77851cb137f6dd0d7a0742436d73ff56d88093c8ecf4f9d9f49288b5627a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Serves as the default hash function.

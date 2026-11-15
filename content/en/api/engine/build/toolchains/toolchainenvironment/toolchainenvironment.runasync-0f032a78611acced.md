@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0f032a78611accedfeb68ae725a4d5b85120d564ce102c7f8b32924e727d7ef8
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.RunAsync(System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Threading.CancellationToken,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})"
-source: xml
-reviewed: 8ec710e4b16218f546df9c799828ede75f105a1eda34b29f4d604db2a074707a
-title: "ToolchainEnvironment.RunAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.RunAsync(System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Threading.CancellationToken,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})
+title: ToolchainEnvironment.RunAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 8ec710e4b16218f546df9c799828ede75f105a1eda34b29f4d604db2a074707a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Runs a child build with structured arguments, cancellation and hidden windows.

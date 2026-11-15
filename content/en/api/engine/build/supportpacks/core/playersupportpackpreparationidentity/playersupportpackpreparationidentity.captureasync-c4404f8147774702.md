@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c4404f8147774702876aa7a9341f3cb2e0288dcef11516fe053f6ee45747f7d1
-symbol: "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPreparationIdentity.CaptureAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.ProductNativeBuildPlan,Inno.Build.Toolchains.DotNetSdkDescriptor,System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.Collections.Generic.IReadOnlyList{System.String},System.Threading.CancellationToken)"
-source: xml
-reviewed: f534f6bfdfa5ecda429e7b1798db1528ef55fb50ccc7fdfd1601160c1d740427
-title: "PlayerSupportPackPreparationIdentity.CaptureAsync"
+symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPreparationIdentity.CaptureAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.ProductNativeBuildPlan,Inno.Build.Toolchains.DotNetSdkDescriptor,System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.Collections.Generic.IReadOnlyList{System.String},System.Threading.CancellationToken)
+title: PlayerSupportPackPreparationIdentity.CaptureAsync
 kind: api
-owners: [Inno.Build.SupportPacks.Core]
+owners:
+- Inno.Build.SupportPacks.Core
 apiSurface: source-clr
+reviewed: f534f6bfdfa5ecda429e7b1798db1528ef55fb50ccc7fdfd1601160c1d740427
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures Native declarations, selected binding inputs, the managed graph and explicit packaging inputs.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.20cac2df7c6d1930fc098031c769d429b88da6f4eb4d400d54d973bf354d4c81
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderTextureReadbackHandle.GetHashCode"
-source: xml
-reviewed: c15cf7b3fa33c5d42ece538a7b8f7e05b80d9cdf76564edf979cfc2fd49ca683
-title: "RenderTextureReadbackHandle.GetHashCode"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderTextureReadbackHandle.GetHashCode
+title: RenderTextureReadbackHandle.GetHashCode
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: c15cf7b3fa33c5d42ece538a7b8f7e05b80d9cdf76564edf979cfc2fd49ca683
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

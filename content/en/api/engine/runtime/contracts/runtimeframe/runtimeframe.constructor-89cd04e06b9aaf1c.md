@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.89cd04e06b9aaf1cf269a9c7d0828b62260e94ee623d76d9cee521064f29007d
-symbol: "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeFrame.#ctor(System.Int64,System.Single,System.Single,System.Single,System.Single,System.Single,System.Boolean)"
-source: xml
-reviewed: 5b3e7bda0f69217eb00908b396a851dfe5aa0b5053771bbf835fd3985f52df1b
-title: "RuntimeFrame.Constructor"
+symbol: engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeFrame.#ctor(System.Int64,System.Single,System.Single,System.Single,System.Single,System.Single,System.Boolean)
+title: RuntimeFrame.Constructor
 kind: api
-owners: [Inno.Runtime.Contracts]
+owners:
+- Inno.Runtime.Contracts
 apiSurface: source-clr
+reviewed: 5b3e7bda0f69217eb00908b396a851dfe5aa0b5053771bbf835fd3985f52df1b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates the immutable timing snapshot for one variable frame.

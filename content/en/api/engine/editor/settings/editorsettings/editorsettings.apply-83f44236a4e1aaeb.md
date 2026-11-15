@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.83f44236a4e1aaeb34e1a317a0f33575c1ef2aab8cd4ff3a3a09b1a93b2b226f
-symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettings.Apply(System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Editor.Settings.EditorSettingObject},System.Collections.Generic.IReadOnlySet{System.String})"
-source: xml
-reviewed: f45fb1a31cb20752d418eec19cbc33815c0800c8cae6f949eb2f49ed37bd59df
-title: "EditorSettings.Apply"
+symbol: engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettings.Apply(System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Editor.Settings.EditorSettingObject},System.Collections.Generic.IReadOnlySet{System.String})
+title: EditorSettings.Apply
 kind: api
-owners: [Inno.Editor.Settings]
+owners:
+- Inno.Editor.Settings
 apiSurface: source-clr
+reviewed: f45fb1a31cb20752d418eec19cbc33815c0800c8cae6f949eb2f49ed37bd59df
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Atomically applies staged field objects as one shared Undo and Redo history entry.

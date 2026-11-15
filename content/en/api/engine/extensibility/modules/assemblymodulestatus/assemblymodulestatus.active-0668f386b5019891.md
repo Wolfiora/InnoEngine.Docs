@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0668f386b5019891d112bd232651b9fc95db2a9fbd227e89ae41106052c20c4d
-symbol: "engine:Inno.Extensibility.Modules:F:Inno.Extensibility.Modules.AssemblyModuleStatus.Active"
-source: xml
-reviewed: c77ac873d47425348d48454fd8c8aa3b9525a30a6226e40a41cbe0cc4d59f39b
-title: "AssemblyModuleStatus.Active"
+symbol: engine:Inno.Extensibility.Modules:F:Inno.Extensibility.Modules.AssemblyModuleStatus.Active
+title: AssemblyModuleStatus.Active
 kind: api
-owners: [Inno.Extensibility.Modules]
+owners:
+- Inno.Extensibility.Modules
 apiSurface: source-clr
+reviewed: c77ac873d47425348d48454fd8c8aa3b9525a30a6226e40a41cbe0cc4d59f39b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The module generation is visible to assembly catalog participants.

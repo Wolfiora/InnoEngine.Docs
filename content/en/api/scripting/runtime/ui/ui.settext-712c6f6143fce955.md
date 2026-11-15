@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.712c6f6143fce955c752344f52aab272a169c68e29fdce4e84edcbb3014635e8
-symbol: "scripting:Inno.UI:M:InnoEngine.UI.UI.SetText(InnoEngine.UI.UiContextHandle,InnoEngine.UI.UiDocumentHandle,System.String,System.String)"
-source: xml
-reviewed: 48e337215805affe48b7fdfc213b9868ff5561f0646385fff00552d8bfc5be3a
-title: "UI.SetText"
+symbol: scripting:Inno.UI:M:InnoEngine.UI.UI.SetText(InnoEngine.UI.UiContextHandle,InnoEngine.UI.UiDocumentHandle,System.String,System.String)
+title: UI.SetText
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: 48e337215805affe48b7fdfc213b9868ff5561f0646385fff00552d8bfc5be3a
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Replaces an element's children with plain Unicode text.

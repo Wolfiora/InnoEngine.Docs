@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0f405cbd929a0c5204a57b182cdbfe8dd964cfcb59785b6545438500558df87c
-symbol: "engine:Inno.Audio:M:Inno.Audio.AudioSpatialOptions.#ctor(Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3,Inno.Audio.AudioDistanceModel,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)"
-source: xml
-reviewed: ff13d44fad3159c049c2b6490b7ea3d21b9bdad3284668ff3aa26122bbbe08e5
-title: "AudioSpatialOptions.Constructor"
+symbol: engine:Inno.Audio:M:Inno.Audio.AudioSpatialOptions.#ctor(Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3,Inno.Audio.AudioDistanceModel,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)
+title: AudioSpatialOptions.Constructor
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: ff13d44fad3159c049c2b6490b7ea3d21b9bdad3284668ff3aa26122bbbe08e5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates spatial playback parameters.

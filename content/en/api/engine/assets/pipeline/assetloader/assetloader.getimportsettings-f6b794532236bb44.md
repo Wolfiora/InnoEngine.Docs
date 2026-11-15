@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f6b794532236bb44e175a1014bea31e2033bd44c55c6721dda8e13ebe18c1fc3
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.GetImportSettings(Inno.Assets.AssetPath)"
-source: xml
-reviewed: 1e3cf7316454451263f41e9010eb5f74a866c6c2edc3927fe149118f78076e04
-title: "AssetLoader.GetImportSettings"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.GetImportSettings(Inno.Assets.AssetPath)
+title: AssetLoader.GetImportSettings
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 1e3cf7316454451263f41e9010eb5f74a866c6c2edc3927fe149118f78076e04
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads a detached importer settings value without changing source metadata.

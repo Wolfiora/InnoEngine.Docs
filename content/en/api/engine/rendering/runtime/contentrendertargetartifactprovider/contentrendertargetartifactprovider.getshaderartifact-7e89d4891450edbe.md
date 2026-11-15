@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7e89d4891450edbe1d68a50f4daeae916f923a3937b7b8a3c49bc18f26e8f2a2
-symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.ContentRenderTargetArtifactProvider.GetShaderArtifact(Inno.Rendering.Assets.ShaderAsset,Inno.Rendering.Assets.RenderShaderVariant,Inno.Rendering.GraphicsCapabilities,Inno.Rendering.Assets.RenderShaderArtifact@)"
-source: xml
-reviewed: d12b3fa239485d1b14d9931195e974255dfb066c29d1b68cdc7322b8cea18f9e
-title: "ContentRenderTargetArtifactProvider.GetShaderArtifact"
+symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.ContentRenderTargetArtifactProvider.GetShaderArtifact(Inno.Rendering.Assets.ShaderAsset,Inno.Rendering.Assets.RenderShaderVariant,Inno.Rendering.GraphicsCapabilities,Inno.Rendering.Assets.RenderShaderArtifact@)
+title: ContentRenderTargetArtifactProvider.GetShaderArtifact
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: d12b3fa239485d1b14d9931195e974255dfb066c29d1b68cdc7322b8cea18f9e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Loads and validates one packaged shader target artifact when it exists.

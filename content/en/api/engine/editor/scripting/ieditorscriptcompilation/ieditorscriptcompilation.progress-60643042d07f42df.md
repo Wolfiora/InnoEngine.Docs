@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.60643042d07f42dfe273e9ab76de416c50aa6afa02c4878b386d20bd480ecf0c
-symbol: "engine:Inno.Editor.Scripting:P:Inno.Editor.Scripting.IEditorScriptCompilation.progress"
-source: xml
-reviewed: 6977b29bcde164c29c90449da3f4846d32e0ca1811f624107c94ce13b1f6fe96
-title: "IEditorScriptCompilation.progress"
+symbol: engine:Inno.Editor.Scripting:P:Inno.Editor.Scripting.IEditorScriptCompilation.progress
+title: IEditorScriptCompilation.progress
 kind: api
-owners: [Inno.Editor.Scripting]
+owners:
+- Inno.Editor.Scripting
 apiSurface: source-clr
+reviewed: 6977b29bcde164c29c90449da3f4846d32e0ca1811f624107c94ce13b1f6fe96
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets one immutable snapshot of the current reload operation and its cancellation policy.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5cb689deeeed25827d28797a0af5c9974a0d0b7a02a4449ca964f12bd2f8e449
-symbol: "engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderGraphArtifact.Capture(Inno.Core.Graphs.GraphDocument,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext,System.Func{System.Guid,System.String,System.Byte[]},System.Threading.CancellationToken,System.Func{System.Guid,System.String,Inno.Core.Graphs.GraphDocument})"
-source: xml
-reviewed: 6bf7569bbdb5d6a6e035a91da32fda10f889431a51725757ebf4d5696ec245a3
-title: "ShaderGraphArtifact.Capture"
+symbol: engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderGraphArtifact.Capture(Inno.Core.Graphs.GraphDocument,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext,System.Func{System.Guid,System.String,System.Byte[]},System.Threading.CancellationToken,System.Func{System.Guid,System.String,Inno.Core.Graphs.GraphDocument})
+title: ShaderGraphArtifact.Capture
 kind: api
-owners: [Inno.Rendering.Assets.Authoring]
+owners:
+- Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
+reviewed: 6bf7569bbdb5d6a6e035a91da32fda10f889431a51725757ebf4d5696ec245a3
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Freezes an authored graph and its target-expanded function dependencies without publishing an asset.

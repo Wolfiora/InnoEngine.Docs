@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.766d3f1f6acf4c623a8e9ce7af7c5a176ffd6bdea7afbfaec392d458f35fdc17
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryHandler.Apply(InnoEditor.Interactions.EditorHistoryContext,InnoEditor.Interactions.EditorHistoryChange,InnoEditor.Interactions.EditorHistoryDirection)"
-source: xml
-reviewed: eefd46f398768f00aa50efe1d50c5be56bd308b7cee0f793a22545bfab84b9b8
-title: "EditorHistoryHandler.Apply"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryHandler.Apply(InnoEditor.Interactions.EditorHistoryContext,InnoEditor.Interactions.EditorHistoryChange,InnoEditor.Interactions.EditorHistoryDirection)
+title: EditorHistoryHandler.Apply
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: eefd46f398768f00aa50efe1d50c5be56bd308b7cee0f793a22545bfab84b9b8
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Atomically applies a neutral history change in the requested direction.

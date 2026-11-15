@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4e74d5676e64bf39168491428d72a3fa25fe765d8c7e4f37c5f7a84a0262e892
-symbol: "scripting:Inno.Editor.Graph.ImGui:P:InnoEditor.Graph.GraphCanvasPointerInput.cancel"
-source: xml
-reviewed: a720990e581c5da7eb971a275f621e6503797ecf338a9bf2325435883cb05a36
-title: "GraphCanvasPointerInput.cancel"
+symbol: scripting:Inno.Editor.Graph.ImGui:P:InnoEditor.Graph.GraphCanvasPointerInput.cancel
+title: GraphCanvasPointerInput.cancel
 kind: api
-owners: [Inno.Editor.Graph.ImGui]
+owners:
+- Inno.Editor.Graph.ImGui
 apiSurface: editor-script
+reviewed: a720990e581c5da7eb971a275f621e6503797ecf338a9bf2325435883cb05a36
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether the current preview must be canceled without modifying document data.

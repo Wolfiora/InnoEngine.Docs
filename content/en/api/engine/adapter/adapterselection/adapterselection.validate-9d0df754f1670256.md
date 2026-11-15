@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9d0df754f16702560daabaa975122ad817c20c7b44777fffe161f3a8a0942014
-symbol: "engine:Inno.Adapter:M:Inno.Adapter.AdapterSelection.Validate(Inno.Adapter.IAdapterCatalog)"
-source: xml
-reviewed: 87cb83ffcc36d440345edfcd3af10acf568920b24f24226131eca0949bde7399
-title: "AdapterSelection.Validate"
+symbol: engine:Inno.Adapter:M:Inno.Adapter.AdapterSelection.Validate(Inno.Adapter.IAdapterCatalog)
+title: AdapterSelection.Validate
 kind: api
-owners: [Inno.Adapter]
+owners:
+- Inno.Adapter
 apiSurface: source-clr
+reviewed: 87cb83ffcc36d440345edfcd3af10acf568920b24f24226131eca0949bde7399
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Validates every selected registration before the composition creates any service.

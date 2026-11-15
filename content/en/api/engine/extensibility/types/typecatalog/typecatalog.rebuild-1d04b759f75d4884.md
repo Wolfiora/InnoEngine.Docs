@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1d04b759f75d488495fd958b36884c1018dbc16df262a8687fe2179145cd5ab7
-symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCatalog.Rebuild"
-source: xml
-reviewed: 73298e3339f35f57f08dd361d25c6a8a480a4336753883218de8a75bcd683829
-title: "TypeCatalog.Rebuild"
+symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCatalog.Rebuild
+title: TypeCatalog.Rebuild
 kind: api
-owners: [Inno.Extensibility.Types]
+owners:
+- Inno.Extensibility.Types
 apiSurface: source-clr
+reviewed: 73298e3339f35f57f08dd361d25c6a8a480a4336753883218de8a75bcd683829
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Rebuilds the assembly catalog, type snapshot, and every registered type registry.

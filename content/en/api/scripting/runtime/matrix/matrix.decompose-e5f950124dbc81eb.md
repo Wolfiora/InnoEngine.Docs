@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e5f950124dbc81eb37d1fb0b626358606bc7d4ac06ccedeec57413525e89d42f
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.Decompose(InnoEngine.Mathematics.Matrix,InnoEngine.Mathematics.Vector3@,InnoEngine.Mathematics.Quaternion@,InnoEngine.Mathematics.Vector3@)"
-source: xml
-reviewed: 168213f1b1a6bf353ffbb014f866d3e51f3e0ef98e0c25c523a4ae9c56686522
-title: "Matrix.Decompose"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.Decompose(InnoEngine.Mathematics.Matrix,InnoEngine.Mathematics.Vector3@,InnoEngine.Mathematics.Quaternion@,InnoEngine.Mathematics.Vector3@)
+title: Matrix.Decompose
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 168213f1b1a6bf353ffbb014f866d3e51f3e0ef98e0c25c523a4ae9c56686522
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Decomposes a matrix into scale, rotation and translation.

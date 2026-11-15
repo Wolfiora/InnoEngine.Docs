@@ -7,6 +7,17 @@ using Inno.Tooling.Documentation;
 using var cancellation = new CancellationTokenSource();
 Console.CancelKeyPress += (_, options) => { options.Cancel = true; cancellation.Cancel(); };
 string root = Path.GetFullPath(args[0]);
+if (args.Length > 1)
+{
+    string[] command = args[1] switch
+    {
+        "api-sync" when args.Length == 2 => ["api-sync", "--docs-root", root],
+        "api-review" when args.Length == 3 => ["api-review", "--docs-root", root, "--page", args[2]],
+        _ => throw new ArgumentException("Expected api-sync or api-review followed by one registered page.")
+    };
+    Environment.ExitCode = await DocumentationCommand.ExecuteAsync(command, cancellation.Token);
+    return;
+}
 string cache = Path.Combine(root, "artifacts", "documentation-query");
 using var editorial = new StringWriter();
 TextWriter output = Console.Out;

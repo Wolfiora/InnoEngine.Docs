@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1d8ca0f3ea506a4ae7d6f15ce7a950d4380e7eb56e9d8332c653daad4020e495
-symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.EditorStyleMetrics.C_ZOOM_STEP"
-source: xml
-reviewed: aa5b2cbf60779e7748eea6e05b23060dda0b8724d44be9d47c5fc25206e50e13
-title: "EditorStyleMetrics.C_ZOOM_STEP"
+symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.EditorStyleMetrics.C_ZOOM_STEP
+title: EditorStyleMetrics.C_ZOOM_STEP
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: aa5b2cbf60779e7748eea6e05b23060dda0b8724d44be9d47c5fc25206e50e13
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Defines one keyboard or menu zoom increment.

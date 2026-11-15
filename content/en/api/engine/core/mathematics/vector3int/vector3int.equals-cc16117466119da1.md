@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cc16117466119da1546f5026279a06cda1fee2a0a770bf2b51b675759718859e
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector3Int.Equals(System.Object)"
-source: xml
-reviewed: e17e0e627426d50702b0f63455080c37fc09b8cdf48d2519d7f8fe8c86fcacbf
-title: "Vector3Int.Equals"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector3Int.Equals(System.Object)
+title: Vector3Int.Equals
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: e17e0e627426d50702b0f63455080c37fc09b8cdf48d2519d7f8fe8c86fcacbf
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether this value and the supplied value represent the same logical state.

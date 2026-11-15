@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5be199f7bf390136c2ae597d5914f94faf2cbb9d96e1f2ef5c9e347d33ed97e9
-symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorKeyboardPolicy.#ctor(Inno.Core.Input.KeyModifier,System.String)"
-source: xml
-reviewed: a547efaa737934f4db4de2164643cc4cac4c52c6baf0d7b3db04d6502de71a00
-title: "EditorKeyboardPolicy.Constructor"
+symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorKeyboardPolicy.#ctor(Inno.Core.Input.KeyModifier,System.String)
+title: EditorKeyboardPolicy.Constructor
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: source-clr
+reviewed: a547efaa737934f4db4de2164643cc4cac4c52c6baf0d7b3db04d6502de71a00
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Defines the primary shortcut modifier and the display name of the Super modifier.

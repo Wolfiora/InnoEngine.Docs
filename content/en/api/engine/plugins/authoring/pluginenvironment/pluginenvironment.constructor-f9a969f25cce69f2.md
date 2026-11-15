@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f9a969f25cce69f29e0b66d15434c6b11e36ac987c3e7da589ac2cf16705d4eb
-symbol: "engine:Inno.Plugins.Authoring:M:Inno.Plugins.Authoring.PluginEnvironment.#ctor(Inno.Assets.Pipeline.AssetPipeline,Inno.Core.Settings.ProjectSettingsStore,Inno.Core.Serialization.SerializationRegistry,System.String,System.String,Inno.Plugins.Authoring.PluginScanResult,Inno.Extensibility.Reload.GenerationCoordinator)"
-source: xml
-reviewed: 50a0bfd86ce5a5a0058e3b7be034f087ab4197602e276f96ee5d3974b1dd2675
-title: "PluginEnvironment.Constructor"
+symbol: engine:Inno.Plugins.Authoring:M:Inno.Plugins.Authoring.PluginEnvironment.#ctor(Inno.Assets.Pipeline.AssetPipeline,Inno.Core.Settings.ProjectSettingsStore,Inno.Core.Serialization.SerializationRegistry,System.String,System.String,Inno.Plugins.Authoring.PluginScanResult,Inno.Extensibility.Reload.GenerationCoordinator)
+title: PluginEnvironment.Constructor
 kind: api
-owners: [Inno.Plugins.Authoring]
+owners:
+- Inno.Plugins.Authoring
 apiSurface: source-clr
+reviewed: 50a0bfd86ce5a5a0058e3b7be034f087ab4197602e276f96ee5d3974b1dd2675
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates automatic Plugin discovery around one asset pipeline and project settings store.

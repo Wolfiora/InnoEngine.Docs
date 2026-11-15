@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b3bcbf1a6998ecc6a5e818f904058fb40b7d669905f95940f0fedc49a785fcc8
-symbol: "engine:Inno.Shell:M:Inno.Shell.IShellFrameDriver.RunAsync(System.Func{System.Boolean},System.Threading.CancellationToken)"
-source: xml
-reviewed: a15f571f8a9477d185fdbe352e99c2ab7bf00ac2b42d2699daf2246e81f3852c
-title: "IShellFrameDriver.RunAsync"
+symbol: engine:Inno.Shell:M:Inno.Shell.IShellFrameDriver.RunAsync(System.Func{System.Boolean},System.Threading.CancellationToken)
+title: IShellFrameDriver.RunAsync
 kind: api
-owners: [Inno.Shell]
+owners:
+- Inno.Shell
 apiSurface: source-clr
+reviewed: a15f571f8a9477d185fdbe352e99c2ab7bf00ac2b42d2699daf2246e81f3852c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Schedules frames on the owning thread until a frame callback requests termination.

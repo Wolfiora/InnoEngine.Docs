@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.314b23b2308d44742741357973c3b8576ff44baf0076431c3cf905af3e92f385
-symbol: "engine:Inno.UI:M:Inno.UI.UiDocumentFontFace.Equals(System.Object)"
-source: xml
-reviewed: b5f2e2e1885ae5fc46ee540efbc6fd10ce1fd7df28e93cdae3fbc5c1e461460f
-title: "UiDocumentFontFace.Equals"
+symbol: engine:Inno.UI:M:Inno.UI.UiDocumentFontFace.Equals(System.Object)
+title: UiDocumentFontFace.Equals
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: b5f2e2e1885ae5fc46ee540efbc6fd10ce1fd7df28e93cdae3fbc5c1e461460f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

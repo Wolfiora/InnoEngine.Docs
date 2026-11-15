@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.638d47019538e36092b60f35fc23c0c73ca94f394fdb6373d935f16abfe246fe
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeCompilerInputs.#ctor(System.String,System.String,System.String,System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String})"
-source: xml
-reviewed: 2aa2503cb5d8b6e17ebac8a6218c6bc5e44b6f8818488562337ee81a5c400ff8
-title: "NativeCompilerInputs.Constructor"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeCompilerInputs.#ctor(System.String,System.String,System.String,System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String})
+title: NativeCompilerInputs.Constructor
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 2aa2503cb5d8b6e17ebac8a6218c6bc5e44b6f8818488562337ee81a5c400ff8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures explicit parser inputs supplied by the target SDK provider.

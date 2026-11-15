@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dff1453748696a0f25295b56f36783a24046d64a821c8e8101e3418eea4aaeb3
-symbol: "scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.P"
-source: xml
-reviewed: d3dce9f36e05f95cdc693f8743ee9f288308b14bc06e865f3d075be4d0bb4558
-title: "KeyCode.P"
+symbol: scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.P
+title: KeyCode.P
 kind: api
-owners: [Inno.Core.Input]
+owners:
+- Inno.Core.Input
 apiSurface: editor-script
+reviewed: d3dce9f36e05f95cdc693f8743ee9f288308b14bc06e865f3d075be4d0bb4558
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The P letter key.

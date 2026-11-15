@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.runtime.2d0639efb337203c
-symbol: "engine:Inno.Runtime:T:Inno.Runtime.RuntimeSessionKind"
-source: xml
-reviewed: 6b2d8aa10ae17b2bbdd59af20b583ba58dcc23ef3bdfbda02744b945e93660e9
-title: "RuntimeSessionKind"
+symbol: engine:Inno.Runtime:T:Inno.Runtime.RuntimeSessionKind
+title: RuntimeSessionKind
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: 6b2d8aa10ae17b2bbdd59af20b583ba58dcc23ef3bdfbda02744b945e93660e9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-runtime
 aliases: []

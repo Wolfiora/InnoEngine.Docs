@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c45ffd50b781f21dd9562238e8dd8aaefcbe88fc4ffb0b9e3a18319efe0eb4f1
-symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiVertex.#ctor(System.Single,System.Single,System.Single,System.Single,System.UInt32)"
-source: xml
-reviewed: ab6429132e7fcabdb96b7c33357efd11c36fd342365dfae8544048fd708b4ee4
-title: "UiVertex.Constructor"
+symbol: scripting:Inno.UI:M:InnoEngine.UI.UiVertex.#ctor(System.Single,System.Single,System.Single,System.Single,System.UInt32)
+title: UiVertex.Constructor
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: ab6429132e7fcabdb96b7c33357efd11c36fd342365dfae8544048fd708b4ee4
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Describes one vertex in backend-neutral UI draw geometry.

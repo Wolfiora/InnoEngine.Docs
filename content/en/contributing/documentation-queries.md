@@ -185,9 +185,11 @@ For an explicitly prepared authoring checkout, the shared tooling supports:
 docs api-plan --docs-root /work/InnoEngine.Docs
 docs api-sync --docs-root /work/InnoEngine.Docs
 docs api-check --docs-root /work/InnoEngine.Docs
+# Only after reviewing the chosen manual explanation:
+docs api-review --docs-root /work/InnoEngine.Docs --page content/en/api/engine/core/identity/identity/index.md
 ```
 
-These commands consume the bound facts; they do not extract source, build products or contact the network. Synchronization updates registered API pages and derived navigation, repairing incoming links when pages move. It preserves manual prose, updates declarations independently and reports removed or changed contracts for review. Each type and member is published as its own page for both website and query readers. Type pages contain tables of immediate members and nested types; member results carry explicit continuations to their declaring type and required contracts.
+These commands consume the bound facts; they do not extract source, build products or contact the network. Synchronization updates registered API pages and derived navigation, repairing incoming links when pages move. It preserves manual body bytes, groups generated and editable frontmatter, updates declarations independently and persists outdated: true for changed manual contracts. The explicit review operation updates the reviewed fingerprint and clears the flag without changing prose. It reports removed APIs for separate handling. Each type and member is published as its own page for both website and query readers. Type pages contain tables of immediate members and nested types; member results carry explicit continuations to their declaring type and required contracts.
 
 Engine API uses only src/ and build/; tools, entries, platforms, backends, extern, test/fixture and non-C# APIs are excluded. Their useful engine integration and validation guides remain independent. Engine APIs follow the actual project tree; script APIs follow declared Runtime, Editor and Authoring Scope. Compilation availability is a separate fact, so Runtime APIs available to Editor scripts share one authored body.
 

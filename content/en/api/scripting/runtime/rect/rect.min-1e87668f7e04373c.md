@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1e87668f7e04373cc847b0252f86a0aec0d4b64e60329e6652a26ebe8e510e7a
-symbol: "scripting:Inno.Core.Mathematics:P:InnoEngine.Mathematics.Rect.min"
-source: xml
-reviewed: 481d2b5c5d77e99aebb3d50a985883ab674b4e7c2e8a416ce74a1b09053aee73
-title: "Rect.min"
+symbol: scripting:Inno.Core.Mathematics:P:InnoEngine.Mathematics.Rect.min
+title: Rect.min
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 481d2b5c5d77e99aebb3d50a985883ab674b4e7c2e8a416ce74a1b09053aee73
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the minimum corner of this axis-aligned rectangle.

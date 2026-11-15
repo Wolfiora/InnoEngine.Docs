@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3bec7871e1302dc840302b5070b125c507e2396a400cdbf91926f1df174c3e42
-symbol: "engine:Inno.Editor.Scripting:P:Inno.Editor.Scripting.IScriptCompilationTicket.requestId"
-source: xml
-reviewed: 16176b8e3d4f02925b52957fefa4ce36635385366f23f5f3eb5ae1436437e557
-title: "IScriptCompilationTicket.requestId"
+symbol: engine:Inno.Editor.Scripting:P:Inno.Editor.Scripting.IScriptCompilationTicket.requestId
+title: IScriptCompilationTicket.requestId
 kind: api
-owners: [Inno.Editor.Scripting]
+owners:
+- Inno.Editor.Scripting
 apiSurface: source-clr
+reviewed: 16176b8e3d4f02925b52957fefa4ce36635385366f23f5f3eb5ae1436437e557
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the producer-local monotonic identifier of this request.

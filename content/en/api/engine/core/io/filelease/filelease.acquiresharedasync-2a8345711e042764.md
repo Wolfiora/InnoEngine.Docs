@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2a8345711e04276432d3b66c8cef2e36169c22ceaf3d1269beae88e3505e1ef4
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.FileLease.AcquireSharedAsync(System.String,System.TimeSpan,System.Threading.CancellationToken)"
-source: xml
-reviewed: e2a0b54acb9d6a6cac4751000e28b8cd940248f6c6cbd2a0c065e3fd0cf1ac1e
-title: "FileLease.AcquireSharedAsync"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.FileLease.AcquireSharedAsync(System.String,System.TimeSpan,System.Threading.CancellationToken)
+title: FileLease.AcquireSharedAsync
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: e2a0b54acb9d6a6cac4751000e28b8cd940248f6c6cbd2a0c065e3fd0cf1ac1e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Pins an existing generation against exclusive retirement while permitting other readers.

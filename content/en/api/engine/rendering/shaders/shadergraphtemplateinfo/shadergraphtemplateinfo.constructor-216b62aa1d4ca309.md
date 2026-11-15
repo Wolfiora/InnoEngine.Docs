@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.216b62aa1d4ca309cabed92c4b5822aab85ac6292b93033892af3ef9deacef0d
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphTemplateInfo.#ctor(System.String,System.String)"
-source: xml
-reviewed: 9d15c5a25362adf8e286a7cce034bd2820d1a6e0bb4fff8cbf66774963131a3a
-title: "ShaderGraphTemplateInfo.Constructor"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphTemplateInfo.#ctor(System.String,System.String)
+title: ShaderGraphTemplateInfo.Constructor
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: 9d15c5a25362adf8e286a7cce034bd2820d1a6e0bb4fff8cbf66774963131a3a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Describes a creation menu item without retaining a plugin instance.

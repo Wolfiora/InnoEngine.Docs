@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.530bdc92275bbbb1376040ee009f0606b225e7f041117d688d02416c3a350801
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerCatalog.GetId(InnoEngine.Settings.ProjectId,InnoEngine.Scene.GameLayer)"
-source: xml
-reviewed: 23370a4d3839ee939b81b3ba1e36c0be20a8a46a560e5648050d947e8a18c90a
-title: "GameLayerCatalog.GetId"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerCatalog.GetId(InnoEngine.Settings.ProjectId,InnoEngine.Scene.GameLayer)
+title: GameLayerCatalog.GetId
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: 23370a4d3839ee939b81b3ba1e36c0be20a8a46a560e5648050d947e8a18c90a
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the complete identity assigned to a layer slot.

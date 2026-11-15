@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8f08609e80660277987b029b5c785067e4ce039559ab2886ee97d4ad7381728e
-symbol: "engine:Inno.Rendering:P:Inno.Rendering.CompiledRenderGraph.generation"
-source: xml
-reviewed: 0c41683f62306e8069fee86a206e9909fdd832c6ac03b5dbbd5b39ce595ce723
-title: "CompiledRenderGraph.generation"
+symbol: engine:Inno.Rendering:P:Inno.Rendering.CompiledRenderGraph.generation
+title: CompiledRenderGraph.generation
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 0c41683f62306e8069fee86a206e9909fdd832c6ac03b5dbbd5b39ce595ce723
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the source frame generation.

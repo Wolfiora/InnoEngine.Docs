@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fddf239edfe41d162b950e7f8cdbec8c8cd4e086294c7509d92e1146ad19331b
-symbol: "engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasPointerController.Step(Inno.Editor.Graph.ImGui.GraphCanvasView,Inno.Editor.Graph.ImGui.GraphCanvasLayout,Inno.Editor.Graph.ImGui.GraphCanvasPointerInput)"
-source: xml
-reviewed: 1a112797907e32877af2a26ec5aef1a9f4b864296ef3f1ab4422749d85589a2b
-title: "GraphCanvasPointerController.Step"
+symbol: engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasPointerController.Step(Inno.Editor.Graph.ImGui.GraphCanvasView,Inno.Editor.Graph.ImGui.GraphCanvasLayout,Inno.Editor.Graph.ImGui.GraphCanvasPointerInput)
+title: GraphCanvasPointerController.Step
 kind: api
-owners: [Inno.Editor.Graph.ImGui]
+owners:
+- Inno.Editor.Graph.ImGui
 apiSurface: source-clr
+reviewed: 1a112797907e32877af2a26ec5aef1a9f4b864296ef3f1ab4422749d85589a2b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Consumes one routed frame and returns data-editing intents without invoking domain code.

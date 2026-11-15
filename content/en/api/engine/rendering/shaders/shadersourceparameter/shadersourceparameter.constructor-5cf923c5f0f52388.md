@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5cf923c5f0f52388ae7e6ce8fdd9a3998cd8765bda372395fc843c4bee7449ec
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourceParameter.#ctor(System.String,Inno.Rendering.Shaders.ShaderSourceType,Inno.Rendering.Shaders.ShaderSourceParameterDirection)"
-source: xml
-reviewed: b3b6138497e3e3de1935f66043bb9ef3243d9fed68183534095f68b008143fe1
-title: "ShaderSourceParameter.Constructor"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourceParameter.#ctor(System.String,Inno.Rendering.Shaders.ShaderSourceType,Inno.Rendering.Shaders.ShaderSourceParameterDirection)
+title: ShaderSourceParameter.Constructor
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: b3b6138497e3e3de1935f66043bb9ef3243d9fed68183534095f68b008143fe1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a validated function parameter.

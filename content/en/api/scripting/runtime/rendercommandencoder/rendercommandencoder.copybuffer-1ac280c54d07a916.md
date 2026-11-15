@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1ac280c54d07a9165640c4e70c581f95f3a4fb61cdd5895e3a0977fffb610b07
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.CopyBuffer(InnoEngine.Rendering.RenderBufferHandle,InnoEngine.Rendering.RenderBufferHandle)"
-source: xml
-reviewed: 59360b156633915bd18a1df86c51980b610b64e261770822a45df023f7b18c35
-title: "RenderCommandEncoder.CopyBuffer"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.CopyBuffer(InnoEngine.Rendering.RenderBufferHandle,InnoEngine.Rendering.RenderBufferHandle)
+title: RenderCommandEncoder.CopyBuffer
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 59360b156633915bd18a1df86c51980b610b64e261770822a45df023f7b18c35
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Copies buffer content without transferring resource ownership.

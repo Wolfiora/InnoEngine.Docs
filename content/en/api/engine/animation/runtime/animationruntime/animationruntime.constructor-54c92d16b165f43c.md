@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.54c92d16b165f43c0d68024f0ef7da23e253e7484c12801c1b8f0628bdb1d422
-symbol: "engine:Inno.Animation.Runtime:M:Inno.Animation.Runtime.AnimationRuntime.#ctor(Inno.Core.Events.EventDispatcher,Inno.Animation.IAnimationBindingSink,System.Int32)"
-source: xml
-reviewed: 650342ed35cb3ced5d803038213b89c567eb4ce78998f180a06f146b20386864
-title: "AnimationRuntime.Constructor"
+symbol: engine:Inno.Animation.Runtime:M:Inno.Animation.Runtime.AnimationRuntime.#ctor(Inno.Core.Events.EventDispatcher,Inno.Animation.IAnimationBindingSink,System.Int32)
+title: AnimationRuntime.Constructor
 kind: api
-owners: [Inno.Animation.Runtime]
+owners:
+- Inno.Animation.Runtime
 apiSurface: source-clr
+reviewed: 650342ed35cb3ced5d803038213b89c567eb4ce78998f180a06f146b20386864
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates one isolated animation runtime generation.

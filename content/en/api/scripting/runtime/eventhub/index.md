@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.events.runtime-script.b769708cdced8a07
-symbol: "scripting:Inno.Core.Events:T:InnoEngine.Events.EventHub"
-source: xml
-reviewed: f4569364fa483870fdccf5e41584a207b766f037f961a479b18aff23d56368c0
-title: "EventHub"
+symbol: scripting:Inno.Core.Events:T:InnoEngine.Events.EventHub
+title: EventHub
 kind: api
-owners: [Inno.Core.Events]
+owners:
+- Inno.Core.Events
 apiSurface: editor-script
+reviewed: f4569364fa483870fdccf5e41584a207b766f037f961a479b18aff23d56368c0
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-core-events#dispatch-and-lifetime-contract

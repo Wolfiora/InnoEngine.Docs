@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b05ee6ec49fb3bb9e14fd57675ffe3d56957957119493edd1ba4b0e96bbb985d
-symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorModal.Draw(InnoEditor.Core.EditorContext)"
-source: xml
-reviewed: 4eb74059ddde3d3329b229776eee3b6bacbacafc2693edc9801738242040f373
-title: "EditorModal.Draw"
+symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorModal.Draw(InnoEditor.Core.EditorContext)
+title: EditorModal.Draw
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: editor-script
+reviewed: 4eb74059ddde3d3329b229776eee3b6bacbacafc2693edc9801738242040f373
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws the modal body inside the runtime-managed centered window.

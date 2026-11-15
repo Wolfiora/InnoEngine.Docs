@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f61cf3d8f8059db22dfcfe9bdf39112910d33ddf894f5db7e542876337b00386
-symbol: "engine:Inno.Adapter.Audio:M:Inno.Adapter.Audio.AudioBackendCatalog.CreateDevice(Inno.Adapter.Audio.AudioBackendId,Inno.Adapter.Audio.AudioBackendOptions)"
-source: xml
-reviewed: fa7ffe9c4b5248a8b9781bf1475ed186033c857d6b5c71fb28d42176a60ccf51
-title: "AudioBackendCatalog.CreateDevice"
+symbol: engine:Inno.Adapter.Audio:M:Inno.Adapter.Audio.AudioBackendCatalog.CreateDevice(Inno.Adapter.Audio.AudioBackendId,Inno.Adapter.Audio.AudioBackendOptions)
+title: AudioBackendCatalog.CreateDevice
 kind: api
-owners: [Inno.Adapter.Audio]
+owners:
+- Inno.Adapter.Audio
 apiSurface: source-clr
+reviewed: fa7ffe9c4b5248a8b9781bf1475ed186033c857d6b5c71fb28d42176a60ccf51
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a new audio device for one runtime audio generation.

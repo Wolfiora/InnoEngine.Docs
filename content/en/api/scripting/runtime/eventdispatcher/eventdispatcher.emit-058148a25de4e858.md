@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.058148a25de4e85816d96c9489db0e8372097ca8a7adf69635d084fc26089e8a
-symbol: "scripting:Inno.Core.Events:M:InnoEngine.Events.EventDispatcher.Emit(InnoEngine.Events.Event)"
-source: xml
-reviewed: 2e631f1e0fdbbe83fe28da86c954e91ecd47b4d89d556aac437ad5c98858c5b7
-title: "EventDispatcher.Emit"
+symbol: scripting:Inno.Core.Events:M:InnoEngine.Events.EventDispatcher.Emit(InnoEngine.Events.Event)
+title: EventDispatcher.Emit
 kind: api
-owners: [Inno.Core.Events]
+owners:
+- Inno.Core.Events
 apiSurface: editor-script
+reviewed: 2e631f1e0fdbbe83fe28da86c954e91ecd47b4d89d556aac437ad5c98858c5b7
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Immediately dispatches an event to all valid hubs in priority order.

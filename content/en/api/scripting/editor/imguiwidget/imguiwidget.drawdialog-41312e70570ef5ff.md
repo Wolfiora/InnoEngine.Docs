@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.41312e70570ef5ff508689e5096dd48f6bc40bbe94cb5067878f84f3db060d55
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.DrawDialog(InnoEditor.ImGui.DialogPresentation,InnoEditor.ImGui.DialogLayout)"
-source: xml
-reviewed: d687583af63f5f32503a270a5eee0e88070328947f8192b94a6e90235d7498bb
-title: "ImGuiWidget.DrawDialog"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.DrawDialog(InnoEditor.ImGui.DialogPresentation,InnoEditor.ImGui.DialogLayout)
+title: ImGuiWidget.DrawDialog
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: d687583af63f5f32503a270a5eee0e88070328947f8192b94a6e90235d7498bb
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws one prepared message dialog. Text owns one bounded scroll region and actions remain outside it.

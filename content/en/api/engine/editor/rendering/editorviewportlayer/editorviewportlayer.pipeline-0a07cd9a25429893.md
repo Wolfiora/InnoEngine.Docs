@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0a07cd9a254298933429266cd56e880ffc9db73ffc4b2f0c50baa01b00ac37f4
-symbol: "engine:Inno.Editor.Rendering:P:Inno.Editor.Rendering.EditorViewportLayer.pipeline"
-source: xml
-reviewed: 952652abff8a9f9497eb3348eda82fc3611ff78809cbbb0a6437c2fb002f89e0
-title: "EditorViewportLayer.pipeline"
+symbol: engine:Inno.Editor.Rendering:P:Inno.Editor.Rendering.EditorViewportLayer.pipeline
+title: EditorViewportLayer.pipeline
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 952652abff8a9f9497eb3348eda82fc3611ff78809cbbb0a6437c2fb002f89e0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the contributor-selected pipeline, or null for the project default.

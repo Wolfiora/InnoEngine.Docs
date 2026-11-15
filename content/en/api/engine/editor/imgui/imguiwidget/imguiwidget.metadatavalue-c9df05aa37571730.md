@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c9df05aa3757173097a743f8561a71def462b3025f132a7e10d39a7b4f88b532
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.MetadataValue(System.String,System.Action,System.String)"
-source: xml
-reviewed: f64789cb21a40feb4a1d411128864237ed8171467832abd4dd920c4a6d95eec7
-title: "ImGuiWidget.MetadataValue"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.MetadataValue(System.String,System.Action,System.String)
+title: ImGuiWidget.MetadataValue
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: f64789cb21a40feb4a1d411128864237ed8171467832abd4dd920c4a6d95eec7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a subdued metadata prefix followed by an interactive value on the same line.

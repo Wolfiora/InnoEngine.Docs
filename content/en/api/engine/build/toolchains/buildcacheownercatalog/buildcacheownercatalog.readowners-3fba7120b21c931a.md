@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3fba7120b21c931a9ad7b70dc1a8e99a61aaadf9d842d12cbb15a1cc53655681
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCacheOwnerCatalog.ReadOwners(System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: f6a7fc9dc8aebf1b106662b7189e4ef50c973a7cd60e9500dc579f6692ccedbd
-title: "BuildCacheOwnerCatalog.ReadOwners"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCacheOwnerCatalog.ReadOwners(System.String,System.Threading.CancellationToken)
+title: BuildCacheOwnerCatalog.ReadOwners
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: f6a7fc9dc8aebf1b106662b7189e4ef50c973a7cd60e9500dc579f6692ccedbd
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads explicitly registered roots using each publisher's existing inventory and protection rules.

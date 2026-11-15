@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2a61b81afa3599691c847056208156a3dce5322aad39264cdf3d7d3460421ffd
-symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.HaveSamePropertyValues(System.Collections.Generic.IReadOnlyList{Inno.Scene.EngineObject},System.String)"
-source: xml
-reviewed: bb6d3015e830b1f94b46320927a2ddd9d2b8507ada3cbaf158c27604075f97c6
-title: "SceneEdits.HaveSamePropertyValues"
+symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.HaveSamePropertyValues(System.Collections.Generic.IReadOnlyList{Inno.Scene.EngineObject},System.String)
+title: SceneEdits.HaveSamePropertyValues
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: source-clr
+reviewed: bb6d3015e830b1f94b46320927a2ddd9d2b8507ada3cbaf158c27604075f97c6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Compares common serialized property values using the complete owner serialization context.

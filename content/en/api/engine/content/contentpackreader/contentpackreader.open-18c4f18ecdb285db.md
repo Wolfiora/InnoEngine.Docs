@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.18c4f18ecdb285dbc534c253f463a5d7ecab9d3099685aee337d8121547bc60b
-symbol: "engine:Inno.Content:M:Inno.Content.ContentPackReader.Open(System.IO.Stream,Inno.Content.ContentPackDescriptor,Inno.Core.Serialization.SerializationGeneration,Inno.Content.ContentReadLimits,System.Threading.CancellationToken)"
-source: xml
-reviewed: 696f05744962cba87846899b1c3a38b5e4de94b0975df37f3358e0f90fb35c7c
-title: "ContentPackReader.Open"
+symbol: engine:Inno.Content:M:Inno.Content.ContentPackReader.Open(System.IO.Stream,Inno.Content.ContentPackDescriptor,Inno.Core.Serialization.SerializationGeneration,Inno.Content.ContentReadLimits,System.Threading.CancellationToken)
+title: ContentPackReader.Open
 kind: api
-owners: [Inno.Content]
+owners:
+- Inno.Content
 apiSurface: source-clr
+reviewed: 696f05744962cba87846899b1c3a38b5e4de94b0975df37f3358e0f90fb35c7c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Takes ownership of a readable seekable pack and validates all bytes, entries, and budgets.

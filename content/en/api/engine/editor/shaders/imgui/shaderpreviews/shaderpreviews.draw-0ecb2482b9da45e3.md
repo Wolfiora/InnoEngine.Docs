@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0ecb2482b9da45e331fac5042fb43ec6a1341f77155c0de81ac981994e9536da
-symbol: "engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderPreviews.Draw(System.Guid,Inno.Rendering.Assets.MaterialAsset,Inno.Editor.Rendering.EditorShaderDraftCompilationSnapshot,System.Single)"
-source: xml
-reviewed: 97be7ae9fdf3c716a363678627985d23592eee2a638b4d0cf51fa8c4701a36fd
-title: "ShaderPreviews.Draw"
+symbol: engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderPreviews.Draw(System.Guid,Inno.Rendering.Assets.MaterialAsset,Inno.Editor.Rendering.EditorShaderDraftCompilationSnapshot,System.Single)
+title: ShaderPreviews.Draw
 kind: api
-owners: [Inno.Editor.Shaders.ImGui]
+owners:
+- Inno.Editor.Shaders.ImGui
 apiSurface: source-clr
+reviewed: 97be7ae9fdf3c716a363678627985d23592eee2a638b4d0cf51fa8c4701a36fd
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a compiled draft without modifying the source Shader or its canonical runtime publication.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.runtime-script.2c807dc78599b5b7
-symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderStencilCompare"
-source: xml
-reviewed: 53ee1fc9e4c4b59b70cd64e38a7ac3f4676a5fcd3143f930e6df25f0e4815462
-title: "RenderStencilCompare"
+symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderStencilCompare
+title: RenderStencilCompare
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 53ee1fc9e4c4b59b70cd64e38a7ac3f4676a5fcd3143f930e6df25f0e4815462
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-rendering

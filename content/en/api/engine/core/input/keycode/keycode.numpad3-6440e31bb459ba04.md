@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6440e31bb459ba04a58e209289b08a013449224ea8bf612dbea034e06e96a4e6
-symbol: "engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.NumPad3"
-source: xml
-reviewed: 3b28e36416adfd53c92cee5d3ebad5d3c946b8f8d876c3e7a32b357f2d44ee81
-title: "KeyCode.NumPad3"
+symbol: engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.NumPad3
+title: KeyCode.NumPad3
 kind: api
-owners: [Inno.Core.Input]
+owners:
+- Inno.Core.Input
 apiSurface: source-clr
+reviewed: 3b28e36416adfd53c92cee5d3ebad5d3c946b8f8d876c3e7a32b357f2d44ee81
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The 3 key on the numeric keypad.

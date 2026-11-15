@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9ede56236728fd915639085c0d0c1a80ff7fb971dd34f6262534a5bdd440d995
-symbol: "scripting:Inno.Storage:M:InnoEngine.Storage.Storage.ReadAsync(InnoEngine.Storage.StorageKey,System.Threading.CancellationToken)"
-source: xml
-reviewed: 9f8d6c552f7f2071b2af6dfef89f6f97b9822666e8a96b4449f367783cb1d4e0
-title: "Storage.ReadAsync"
+symbol: scripting:Inno.Storage:M:InnoEngine.Storage.Storage.ReadAsync(InnoEngine.Storage.StorageKey,System.Threading.CancellationToken)
+title: Storage.ReadAsync
 kind: api
-owners: [Inno.Storage]
+owners:
+- Inno.Storage
 apiSurface: editor-script
+reviewed: 9f8d6c552f7f2071b2af6dfef89f6f97b9822666e8a96b4449f367783cb1d4e0
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads a complete value.

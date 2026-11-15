@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d8a5d186a1fa85bb1e1aecca1bf4a4fbe51d2d9b35ed720617e6f0f410b3b930
-symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiDocumentHandle.Equals(System.Object)"
-source: xml
-reviewed: 781cd16d3eadbfc8616a891414bc195801b2b14173f05daafec35bbcce09e490
-title: "UiDocumentHandle.Equals"
+symbol: scripting:Inno.UI:M:InnoEngine.UI.UiDocumentHandle.Equals(System.Object)
+title: UiDocumentHandle.Equals
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: 781cd16d3eadbfc8616a891414bc195801b2b14173f05daafec35bbcce09e490
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

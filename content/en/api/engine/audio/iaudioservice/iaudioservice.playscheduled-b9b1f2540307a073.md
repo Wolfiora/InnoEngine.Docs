@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b9b1f2540307a07370953d18455cf01863b74fe4582551044c2ede70131e59b9
-symbol: "engine:Inno.Audio:M:Inno.Audio.IAudioService.PlayScheduled(Inno.Audio.AudioClipAsset,System.Double,Inno.Audio.AudioPlayOptions)"
-source: xml
-reviewed: aaf76820d984575d7171d987f43d356481a696ffd6743213eae79bbc63b10969
-title: "IAudioService.PlayScheduled"
+symbol: engine:Inno.Audio:M:Inno.Audio.IAudioService.PlayScheduled(Inno.Audio.AudioClipAsset,System.Double,Inno.Audio.AudioPlayOptions)
+title: IAudioService.PlayScheduled
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: aaf76820d984575d7171d987f43d356481a696ffd6743213eae79bbc63b10969
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Schedules one clip against the monotonic audio clock.

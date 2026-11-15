@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5109c056525b614ca26aa5f5cb8e358fc99a95202e5ab17a5f18ff25b79a14d1
-symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementPendingException.#ctor(System.String,System.Exception)"
-source: xml
-reviewed: 5caf7ccdd566be43d357590540393818b8a4dace615f651de4edb7b3311b2855
-title: "RetirementPendingException.Constructor"
+symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementPendingException.#ctor(System.String,System.Exception)
+title: RetirementPendingException.Constructor
 kind: api
-owners: [Inno.Core.Execution]
+owners:
+- Inno.Core.Execution
 apiSurface: source-clr
+reviewed: 5caf7ccdd566be43d357590540393818b8a4dace615f651de4edb7b3311b2855
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a retryable retirement barrier for an owner with unfinished work.

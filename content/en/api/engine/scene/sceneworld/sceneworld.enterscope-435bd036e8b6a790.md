@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.435bd036e8b6a79029becb590e59f1ab6d046bd44ed3e643f9279a2edc811d0a
-symbol: "engine:Inno.Scene:M:Inno.Scene.SceneWorld.EnterScope"
-source: xml
-reviewed: 71e5f1cb52210e8744bf97e11ed9b635020925fab6bbffd6a41b1c65eca0363e
-title: "SceneWorld.EnterScope"
+symbol: engine:Inno.Scene:M:Inno.Scene.SceneWorld.EnterScope
+title: SceneWorld.EnterScope
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 71e5f1cb52210e8744bf97e11ed9b635020925fab6bbffd6a41b1c65eca0363e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Binds this world and its identity allocator to the current asynchronous execution context.

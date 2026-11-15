@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.assets.3f2e4a4fbb45bc46
-symbol: "engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.ShaderCompareFunction"
-source: xml
-reviewed: 43cca161c65593892d3428fd8ad73fc02b2339e47454a050d750f01a63b15106
-title: "ShaderCompareFunction"
+symbol: engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.ShaderCompareFunction
+title: ShaderCompareFunction
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: 43cca161c65593892d3428fd8ad73fc02b2339e47454a050d750f01a63b15106
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-rendering-assets
 aliases: []

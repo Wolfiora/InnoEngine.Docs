@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.94602282a82beb8239b884229465d23c0235ebc66407f2bd6308ad86ab05fab7
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.PropertyRow(System.String,System.Action,System.Action)"
-source: xml
-reviewed: 1fccec3ffb605fb1a8c63144fc4038d653f736f6ae9cf47f0b70ae24339cf189
-title: "ImGuiWidget.PropertyRow"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.PropertyRow(System.String,System.Action,System.Action)
+title: ImGuiWidget.PropertyRow
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 1fccec3ffb605fb1a8c63144fc4038d653f736f6ae9cf47f0b70ae24339cf189
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a two-column property row whose label is supplied by a custom presentation callback.

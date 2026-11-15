@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ef1894123b7f0c5083f6cf3f6382a852d819ae78ccf20b8dbcc01c897ae5be97
-symbol: "engine:Inno.Animation.Runtime:M:Inno.Animation.Runtime.AnimationRuntime.Play(Inno.Animation.AnimationClipAsset,Inno.Animation.AnimationTarget,Inno.Animation.AnimationPlayOptions)"
-source: xml
-reviewed: f4c69eb5f6cbef872cd05139c582b2acbb389b35a6691b26ecf6d2cbe919b6d1
-title: "AnimationRuntime.Play"
+symbol: engine:Inno.Animation.Runtime:M:Inno.Animation.Runtime.AnimationRuntime.Play(Inno.Animation.AnimationClipAsset,Inno.Animation.AnimationTarget,Inno.Animation.AnimationPlayOptions)
+title: AnimationRuntime.Play
 kind: api
-owners: [Inno.Animation.Runtime]
+owners:
+- Inno.Animation.Runtime
 apiSurface: source-clr
+reviewed: f4c69eb5f6cbef872cd05139c582b2acbb389b35a6691b26ecf6d2cbe919b6d1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Starts one clip with an explicit clock, looping, speed, layer, and blend policy.

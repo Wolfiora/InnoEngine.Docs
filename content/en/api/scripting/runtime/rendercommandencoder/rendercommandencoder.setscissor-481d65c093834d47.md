@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.481d65c093834d4762372fcc658476754c4ae75864d4914d510b0094dc1f2641
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.SetScissor(System.Int32,System.Int32,System.Int32,System.Int32)"
-source: xml
-reviewed: 8ba7946dee4752551b30747edaef36ed6b300c165e13f0583430106d92029e4f
-title: "RenderCommandEncoder.SetScissor"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.SetScissor(System.Int32,System.Int32,System.Int32,System.Int32)
+title: RenderCommandEncoder.SetScissor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 8ba7946dee4752551b30747edaef36ed6b300c165e13f0583430106d92029e4f
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Sets the scissor rectangle in render-target pixels.

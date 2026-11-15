@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a247c4a0ecdbbe922235445d25f205b1617dfd9cf43662e3b1b0fd7241039756
-symbol: "engine:Inno.Core.Events:M:Inno.Core.Events.WindowVisibilityChangedEvent.#ctor(System.UInt32,System.Boolean)"
-source: xml
-reviewed: 9de838193345a849dac4318fbdfc7d804a79d231d8229088af4860d4fd8bcfc4
-title: "WindowVisibilityChangedEvent.Constructor"
+symbol: engine:Inno.Core.Events:M:Inno.Core.Events.WindowVisibilityChangedEvent.#ctor(System.UInt32,System.Boolean)
+title: WindowVisibilityChangedEvent.Constructor
 kind: api
-owners: [Inno.Core.Events]
+owners:
+- Inno.Core.Events
 apiSurface: source-clr
+reviewed: 9de838193345a849dac4318fbdfc7d804a79d231d8229088af4860d4fd8bcfc4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reports whether a platform window can present visible content.

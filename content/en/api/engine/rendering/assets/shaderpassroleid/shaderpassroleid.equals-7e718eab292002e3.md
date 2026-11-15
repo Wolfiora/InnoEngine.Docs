@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7e718eab292002e3ff72ef637fbf7d9b136de930144e90470d7ae599a0582c15
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderPassRoleId.Equals(Inno.Rendering.Assets.ShaderPassRoleId)"
-source: xml
-reviewed: 605aed6b6b07c02d12cdb917b26f4c93aae2805c6a55650b93de1c1e1e18e637
-title: "ShaderPassRoleId.Equals"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderPassRoleId.Equals(Inno.Rendering.Assets.ShaderPassRoleId)
+title: ShaderPassRoleId.Equals
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: 605aed6b6b07c02d12cdb917b26f4c93aae2805c6a55650b93de1c1e1e18e637
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

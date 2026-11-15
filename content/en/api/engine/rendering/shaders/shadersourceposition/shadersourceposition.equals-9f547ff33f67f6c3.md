@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9f547ff33f67f6c3f0ce3923e102a2b595b828482e1b6787ece27c9eb49e0043
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourcePosition.Equals(System.Object)"
-source: xml
-reviewed: 30468df736ad53ee8920706a002e4f8a44f58bdaf9a985f84b231af51c08ca7b
-title: "ShaderSourcePosition.Equals"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourcePosition.Equals(System.Object)
+title: ShaderSourcePosition.Equals
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: 30468df736ad53ee8920706a002e4f8a44f58bdaf9a985f84b231af51c08ca7b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5ce3e14a1daf2425298e737ed3bebdf071eec9fd7a58d039ade30f0b6f2fe646
-symbol: "engine:Inno.Audio:M:Inno.Audio.AudioCapabilities.#ctor(System.Boolean,System.Boolean,System.Boolean,System.Int32,System.Int32)"
-source: xml
-reviewed: 6a01bb5539ffeca4be9e6002c738ddb72342f01301310c19c3fb46e1a77440de
-title: "AudioCapabilities.Constructor"
+symbol: engine:Inno.Audio:M:Inno.Audio.AudioCapabilities.#ctor(System.Boolean,System.Boolean,System.Boolean,System.Int32,System.Int32)
+title: AudioCapabilities.Constructor
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 6a01bb5539ffeca4be9e6002c738ddb72342f01301310c19c3fb46e1a77440de
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an immutable audio capability snapshot.

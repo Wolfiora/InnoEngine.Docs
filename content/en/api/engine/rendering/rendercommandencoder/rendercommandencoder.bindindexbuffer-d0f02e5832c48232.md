@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d0f02e5832c48232eb1dbcab63a352622f3aa13752c70bbc6432136841f7936f
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.BindIndexBuffer(Inno.Rendering.RenderBufferSlice)"
-source: xml
-reviewed: 8a7f664edf2eea3783043a5b0109902137e59e0f9d196914c4d2749619d1f1a2
-title: "RenderCommandEncoder.BindIndexBuffer"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.BindIndexBuffer(Inno.Rendering.RenderBufferSlice)
+title: RenderCommandEncoder.BindIndexBuffer
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 8a7f664edf2eea3783043a5b0109902137e59e0f9d196914c4d2749619d1f1a2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Binds a frame-uploaded index slice.

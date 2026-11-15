@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7e7ad4dcdedf8ebfb437e1bba5ecfafb9be57cbb8fe6820b9131168f196a74d8
-symbol: "engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildCaches.CreateShaderWorkspaceAsync(System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: 4512044d5d5e93368cd3b444c6a2bb889d0bfad6254acef3e1206b50b202c734
-title: "StandardBuildCaches.CreateShaderWorkspaceAsync"
+symbol: engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildCaches.CreateShaderWorkspaceAsync(System.String,System.Threading.CancellationToken)
+title: StandardBuildCaches.CreateShaderWorkspaceAsync
 kind: api
-owners: [Inno.Build.Distribution.Standard]
+owners:
+- Inno.Build.Distribution.Standard
 apiSurface: source-clr
+reviewed: 4512044d5d5e93368cd3b444c6a2bb889d0bfad6254acef3e1206b50b202c734
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a shader compilation workspace in the registered process-owned build cache.

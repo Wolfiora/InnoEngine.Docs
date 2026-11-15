@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f886b45212e9146f9e532c438af5724b7554f0e82582fa1f76ba785e0b243792
-symbol: "engine:Inno.References:M:Inno.References.ReferenceKindId.ToString"
-source: xml
-reviewed: 3865e9c580b7a2ce2e9e535c116fe94cc2e6a81c8258745c032e78f5eb01fce9
-title: "ReferenceKindId.ToString"
+symbol: engine:Inno.References:M:Inno.References.ReferenceKindId.ToString
+title: ReferenceKindId.ToString
 kind: api
-owners: [Inno.References]
+owners:
+- Inno.References
 apiSurface: source-clr
+reviewed: 3865e9c580b7a2ce2e9e535c116fe94cc2e6a81c8258745c032e78f5eb01fce9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Formats the protocol identifier for diagnostics.

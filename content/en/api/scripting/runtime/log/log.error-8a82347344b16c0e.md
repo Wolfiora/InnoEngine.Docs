@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8a82347344b16c0ee6929433c1eefd29016168a84a4a9925b507f56342c2a255
-symbol: "scripting:Inno.Core.Logging:M:InnoEngine.Logging.Log.Error(System.Type,System.String,System.Collections.Generic.IReadOnlyList{System.Object},System.String,System.Int32)"
-source: xml
-reviewed: 948bed7991c4485a5955ffd1bce2d0b5dd83f32e1e3fda57f0373c8a06d1ea5d
-title: "Log.Error"
+symbol: scripting:Inno.Core.Logging:M:InnoEngine.Logging.Log.Error(System.Type,System.String,System.Collections.Generic.IReadOnlyList{System.Object},System.String,System.Int32)
+title: Log.Error
 kind: api
-owners: [Inno.Core.Logging]
+owners:
+- Inno.Core.Logging
 apiSurface: editor-script
+reviewed: 948bed7991c4485a5955ffd1bce2d0b5dd83f32e1e3fda57f0373c8a06d1ea5d
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Writes a formatted error-level message with its source location.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0983f8451befd417e15d6b7a69ad64ce6a8b5f457d869ac6ffafd7b314ff84ba
-symbol: "engine:Inno.Adapter.Platform:M:Inno.Adapter.Platform.PlatformNativeHandles.#ctor(System.IntPtr,System.IntPtr,Inno.Adapter.Platform.PlatformNativeHandleId)"
-source: xml
-reviewed: 2ca3ac73dbc04d5f7b9512c62b45aa78a8ea08b73f5d0d111d0033425bb78500
-title: "PlatformNativeHandles.Constructor"
+symbol: engine:Inno.Adapter.Platform:M:Inno.Adapter.Platform.PlatformNativeHandles.#ctor(System.IntPtr,System.IntPtr,Inno.Adapter.Platform.PlatformNativeHandleId)
+title: PlatformNativeHandles.Constructor
 kind: api
-owners: [Inno.Adapter.Platform]
+owners:
+- Inno.Adapter.Platform
 apiSurface: source-clr
+reviewed: 2ca3ac73dbc04d5f7b9512c62b45aa78a8ea08b73f5d0d111d0033425bb78500
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Borrows surface handles from a live window for cooperating native adapters.

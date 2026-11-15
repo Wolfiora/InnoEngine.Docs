@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6d10f5cc7f543391bc126e0b2938874dda232dfae055a2f5f83607af4023530d
-symbol: "scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetSerializationServices.#ctor"
-source: xml
-reviewed: 70f0f108e2d40497c3bdf4a09fabe6ebc9ba0d0d9047327a15412f62c9ca7641
-title: "AssetSerializationServices.Constructor"
+symbol: scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetSerializationServices.#ctor
+title: AssetSerializationServices.Constructor
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: editor-script
+reviewed: 70f0f108e2d40497c3bdf4a09fabe6ebc9ba0d0d9047327a15412f62c9ca7641
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Appears in the generated script reference without a matching public or protected engine constructor.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2610750b2a30f303a257f428a53d5ce35c0315595bfee0ccaaf1ca13d70a0524
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderNodePort.#ctor(System.String,InnoEditor.Rendering.Shaders.ShaderSourceType,InnoEngine.Graphs.GraphPortDirection,System.Boolean)"
-source: xml
-reviewed: 94ddaabd596f5a64a813c8f761e43fb313925ab34781a5e7b01886ce1dbb130d
-title: "ShaderNodePort.Constructor"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderNodePort.#ctor(System.String,InnoEditor.Rendering.Shaders.ShaderSourceType,InnoEngine.Graphs.GraphPortDirection,System.Boolean)
+title: ShaderNodePort.Constructor
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 94ddaabd596f5a64a813c8f761e43fb313925ab34781a5e7b01886ce1dbb130d
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Declares a typed shader port independently of editor presentation and backend source syntax.

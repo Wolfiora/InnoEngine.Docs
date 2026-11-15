@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.462489b004d1ef268135673f3f75b33f7509bde765daa43a0fd9840a05ec5606
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourceRequest.#ctor(Inno.Rendering.Shaders.ShaderSourceFile,System.String,Inno.Rendering.Shaders.IShaderSourceResolver,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})"
-source: xml
-reviewed: 6c3474d73d67c29c28744c3b0cd3bf1741439f227df0e513438caaed60fc8f89
-title: "ShaderSourceRequest.Constructor"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourceRequest.#ctor(Inno.Rendering.Shaders.ShaderSourceFile,System.String,Inno.Rendering.Shaders.IShaderSourceResolver,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})
+title: ShaderSourceRequest.Constructor
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: 6c3474d73d67c29c28744c3b0cd3bf1741439f227df0e513438caaed60fc8f89
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an analysis request for an explicitly selected function.

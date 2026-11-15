@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.50004ae5c18278e605bdffd1e0b90242abd859d1b2ed49f4bc10d63c5a2eb57c
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorDrawList.Text(System.Numerics.Vector2,System.UInt32,System.String,System.Single)"
-source: xml
-reviewed: 522534ae4729e9c9e6aab53ccc59bd5554a1656c649978232e79c375537115d1
-title: "EditorDrawList.Text"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorDrawList.Text(System.Numerics.Vector2,System.UInt32,System.String,System.Single)
+title: EditorDrawList.Text
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 522534ae4729e9c9e6aab53ccc59bd5554a1656c649978232e79c375537115d1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds literal text using the current font and an explicit scale.

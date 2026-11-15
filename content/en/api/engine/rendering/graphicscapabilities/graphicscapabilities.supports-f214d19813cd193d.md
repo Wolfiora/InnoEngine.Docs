@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f214d19813cd193d232e6f8c53949ebfe8a88cbade29a364e337e71d57d3b318
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.GraphicsCapabilities.Supports(Inno.Rendering.GraphicsCapability)"
-source: xml
-reviewed: 490a80806f2f376a1c6638fc1e0c5b0c1303b2acc6fd05a5f8f75b8300f453ff
-title: "GraphicsCapabilities.Supports"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.GraphicsCapabilities.Supports(Inno.Rendering.GraphicsCapability)
+title: GraphicsCapabilities.Supports
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 490a80806f2f376a1c6638fc1e0c5b0c1303b2acc6fd05a5f8f75b8300f453ff
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tests whether every requested optional feature is supported.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.69b3134c70322f6e3f628e3845d833a56f9818648be4e0b9fc8af586a4c3b437
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.RectInt.op_Addition(InnoEngine.Mathematics.RectInt,InnoEngine.Mathematics.RectInt)"
-source: xml
-reviewed: 3a0bf3c00658f1fe115ab6aae4611c453c3cad3f7a7476105256a7febbdcd373
-title: "RectInt.op_Addition"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.RectInt.op_Addition(InnoEngine.Mathematics.RectInt,InnoEngine.Mathematics.RectInt)
+title: RectInt.op_Addition
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 3a0bf3c00658f1fe115ab6aae4611c453c3cad3f7a7476105256a7febbdcd373
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds the supplied values component by component.

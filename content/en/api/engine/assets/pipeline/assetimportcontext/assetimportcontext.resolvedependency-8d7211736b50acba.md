@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8d7211736b50acba73c76796e211a9fe422452470e554c7f07dc8b2e2b7f1a06
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetImportContext.ResolveDependency\u0060\u00601(Inno.Assets.AssetPath)"
-source: xml
-reviewed: 641b7e914d391cfd7c867fca41a9aa86f239bc05c8945dc10887b3fc7051a1c0
-title: "AssetImportContext.ResolveDependency"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetImportContext.ResolveDependency``1(Inno.Assets.AssetPath)
+title: AssetImportContext.ResolveDependency
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 641b7e914d391cfd7c867fca41a9aa86f239bc05c8945dc10887b3fc7051a1c0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves and declares a strongly typed runtime asset dependency during import.

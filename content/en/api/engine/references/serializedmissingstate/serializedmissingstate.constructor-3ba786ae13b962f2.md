@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3ba786ae13b962f2aaa571ebbd78a115bc87ce756a4c994fe33a89b9d9e34bfe
-symbol: "engine:Inno.References:M:Inno.References.SerializedMissingState.#ctor(Inno.References.ReferenceKey,Inno.References.ReferenceDescriptor,System.ReadOnlySpan{System.Byte})"
-source: xml
-reviewed: 53192d64c3ebdd3504f7bc925b69d0814bcc716f0541b27536554c8242f90fa6
-title: "SerializedMissingState.Constructor"
+symbol: engine:Inno.References:M:Inno.References.SerializedMissingState.#ctor(Inno.References.ReferenceKey,Inno.References.ReferenceDescriptor,System.ReadOnlySpan{System.Byte})
+title: SerializedMissingState.Constructor
 kind: api
-owners: [Inno.References]
+owners:
+- Inno.References
 apiSurface: source-clr
+reviewed: 53192d64c3ebdd3504f7bc925b69d0814bcc716f0541b27536554c8242f90fa6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an immutable missing-state record.

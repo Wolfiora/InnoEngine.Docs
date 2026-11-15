@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5402e74dd25bd62c0fd829b67ce16bbd1b884844ce63a5ff6bad1cb10dca62d0
-symbol: "engine:Inno.Audio:P:Inno.Audio.AudioMixerExtensionAttribute.id"
-source: xml
-reviewed: 918a1f5b392fcf7f8da5af6126a12b2f7dd16b346a55e370db3ff154a3eeace2
-title: "AudioMixerExtensionAttribute.id"
+symbol: engine:Inno.Audio:P:Inno.Audio.AudioMixerExtensionAttribute.id
+title: AudioMixerExtensionAttribute.id
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 918a1f5b392fcf7f8da5af6126a12b2f7dd16b346a55e370db3ff154a3eeace2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the globally stable mixer extension identifier.

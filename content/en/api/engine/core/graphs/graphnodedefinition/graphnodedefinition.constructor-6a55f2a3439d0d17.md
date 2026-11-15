@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6a55f2a3439d0d177102993045e4e05fbea3cb7f31bfd10646a7058f45ec87fe
-symbol: "engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphNodeDefinition.#ctor(System.String,System.String,System.String)"
-source: xml
-reviewed: 58723c8fb87ec15da405091557f567d1ed11adfcebd80fb4891ce2d15e8dc77f
-title: "GraphNodeDefinition.Constructor"
+symbol: engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphNodeDefinition.#ctor(System.String,System.String,System.String)
+title: GraphNodeDefinition.Constructor
 kind: api
-owners: [Inno.Core.Graphs]
+owners:
+- Inno.Core.Graphs
 apiSurface: source-clr
+reviewed: 58723c8fb87ec15da405091557f567d1ed11adfcebd80fb4891ce2d15e8dc77f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a graph node definition.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c64748c945791178593581130ae8372415d0df41e235338f83cae8eecfd055d5
-symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.PrewarmTexture(InnoEngine.Rendering.TextureAsset)"
-source: xml
-reviewed: 49a241ec2f0310db3f3b1fd243645d81c1ee35bf15e3cd86b9a74cc7f14374f2
-title: "IRenderResourceService.PrewarmTexture"
+symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.PrewarmTexture(InnoEngine.Rendering.TextureAsset)
+title: IRenderResourceService.PrewarmTexture
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: 49a241ec2f0310db3f3b1fd243645d81c1ee35bf15e3cd86b9a74cc7f14374f2
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Queues target texture conversion without blocking the render thread.

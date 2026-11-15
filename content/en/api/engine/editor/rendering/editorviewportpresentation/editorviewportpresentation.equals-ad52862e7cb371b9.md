@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ad52862e7cb371b9e6ff3832fdc8e0ccfbda3dda90d500fa769a12b243908838
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportPresentation.Equals(Inno.Editor.Rendering.EditorViewportPresentation)"
-source: xml
-reviewed: 8ee02c27be53729aac6c3e85c6743c32082e99455f729a04fb9f5eedf47430f7
-title: "EditorViewportPresentation.Equals"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportPresentation.Equals(Inno.Editor.Rendering.EditorViewportPresentation)
+title: EditorViewportPresentation.Equals
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 8ee02c27be53729aac6c3e85c6743c32082e99455f729a04fb9f5eedf47430f7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

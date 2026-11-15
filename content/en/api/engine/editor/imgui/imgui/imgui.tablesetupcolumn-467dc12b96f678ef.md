@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.467dc12b96f678ef5a16bb5e5b91aa293dee01bc66642c48e95f02d9d94cc507
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.TableSetupColumn(System.String,Inno.Editor.ImGui.ImGuiTableColumnFlags,System.Single)"
-source: xml
-reviewed: 16f6ecd1b2af931a38598041294459a7c2dcaa3401d676297c4a3264934c6807
-title: "ImGui.TableSetupColumn"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.TableSetupColumn(System.String,Inno.Editor.ImGui.ImGuiTableColumnFlags,System.Single)
+title: ImGui.TableSetupColumn
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 16f6ecd1b2af931a38598041294459a7c2dcaa3401d676297c4a3264934c6807
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Declares one table column.

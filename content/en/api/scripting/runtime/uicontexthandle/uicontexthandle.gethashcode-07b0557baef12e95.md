@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.07b0557baef12e95ee8c1cc80d0c2c21aa2529ae31c26114644185dffa32e25f
-symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiContextHandle.GetHashCode"
-source: xml
-reviewed: 9013a2ca9c8bd564dcb6c47647f287d20d0e8c273671cf6563aeee624d15812e
-title: "UiContextHandle.GetHashCode"
+symbol: scripting:Inno.UI:M:InnoEngine.UI.UiContextHandle.GetHashCode
+title: UiContextHandle.GetHashCode
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: 9013a2ca9c8bd564dcb6c47647f287d20d0e8c273671cf6563aeee624d15812e
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

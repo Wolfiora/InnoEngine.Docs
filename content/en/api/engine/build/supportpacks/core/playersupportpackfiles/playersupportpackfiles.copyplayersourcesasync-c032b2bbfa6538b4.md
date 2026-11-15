@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c032b2bbfa6538b4478ecb7d71c226ffd5d7f5f17394e7ff49b34c079528f4a8
-symbol: "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackFiles.CopyPlayerSourcesAsync(Inno.Build.SupportPacks.PlayerSupportPackBuildContext,System.String,System.String,System.Threading.CancellationToken,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})"
-source: xml
-reviewed: e12393665a49fa759058db8d6b17a8344172c162329d40237ffaeed391894fb8
-title: "PlayerSupportPackFiles.CopyPlayerSourcesAsync"
+symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackFiles.CopyPlayerSourcesAsync(Inno.Build.SupportPacks.PlayerSupportPackBuildContext,System.String,System.String,System.Threading.CancellationToken,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})
+title: PlayerSupportPackFiles.CopyPlayerSourcesAsync
 kind: api
-owners: [Inno.Build.SupportPacks.Core]
+owners:
+- Inno.Build.SupportPacks.Core
 apiSurface: source-clr
+reviewed: e12393665a49fa759058db8d6b17a8344172c162329d40237ffaeed391894fb8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Copies the selected project's evaluated source closure into isolated template input.

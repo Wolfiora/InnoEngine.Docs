@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2d1d7d44c80918755521595e57e8acd1a5126a84bb21845f8c14bcf16bbc2fed
-symbol: "engine:Inno.Shell:M:Inno.Shell.ShellFrame.Equals(Inno.Shell.ShellFrame)"
-source: xml
-reviewed: bd523f64a9f5c8fe3d52b5f9fef25c3fdc1cf9fd484baf0998d2d00e5aa52325
-title: "ShellFrame.Equals"
+symbol: engine:Inno.Shell:M:Inno.Shell.ShellFrame.Equals(Inno.Shell.ShellFrame)
+title: ShellFrame.Equals
 kind: api
-owners: [Inno.Shell]
+owners:
+- Inno.Shell
 apiSurface: source-clr
+reviewed: bd523f64a9f5c8fe3d52b5f9fef25c3fdc1cf9fd484baf0998d2d00e5aa52325
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

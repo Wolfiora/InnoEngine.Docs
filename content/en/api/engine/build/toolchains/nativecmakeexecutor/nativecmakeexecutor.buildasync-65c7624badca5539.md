@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.65c7624badca55399dbf27b8651b38ce94f10ace3b38c17274a0fb8fe6782700
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeCMakeExecutor.BuildAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeComponentDescriptor,System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.Threading.CancellationToken)"
-source: xml
-reviewed: 5da20faee51ff3ef862c3096a86f9d10e4404ac25183f30193c71dfd269cac21
-title: "NativeCMakeExecutor.BuildAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeCMakeExecutor.BuildAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeComponentDescriptor,System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.Threading.CancellationToken)
+title: NativeCMakeExecutor.BuildAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 5da20faee51ff3ef862c3096a86f9d10e4404ac25183f30193c71dfd269cac21
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Configures and builds an explicit component target without detecting the current platform.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9a5c75ef387bad70fa73320635262bf19f9343dbec733e287a66b2f2da6f31a6
-symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorStatistics.Publish(InnoEditor.Core.EditorStatistic)"
-source: xml
-reviewed: 4bb50fcec07498dcbcdd8e7beb18386bd29320e7c7c479a447ae64bf434e490a
-title: "EditorStatistics.Publish"
+symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorStatistics.Publish(InnoEditor.Core.EditorStatistic)
+title: EditorStatistics.Publish
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: editor-script
+reviewed: 4bb50fcec07498dcbcdd8e7beb18386bd29320e7c7c479a447ae64bf434e490a
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Publishes or replaces one statistic for the current editor frame.

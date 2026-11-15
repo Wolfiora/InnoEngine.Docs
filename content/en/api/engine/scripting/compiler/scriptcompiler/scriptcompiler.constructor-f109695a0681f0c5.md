@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f109695a0681f0c5089d556601b27056cba9e0210d273139fd67646f2edc4147
-symbol: "engine:Inno.Scripting.Compiler:M:Inno.Scripting.Compiler.ScriptCompiler.#ctor(Inno.Scripting.Compiler.ScriptCompilerOptions,Inno.Assets.Pipeline.AssetPipeline,Inno.Plugins.Authoring.PluginEnvironment)"
-source: xml
-reviewed: 53a7055e9148c00aef9333b7159a3e12ac85a3c8048a000a6794b6c81e83224a
-title: "ScriptCompiler.Constructor"
+symbol: engine:Inno.Scripting.Compiler:M:Inno.Scripting.Compiler.ScriptCompiler.#ctor(Inno.Scripting.Compiler.ScriptCompilerOptions,Inno.Assets.Pipeline.AssetPipeline,Inno.Plugins.Authoring.PluginEnvironment)
+title: ScriptCompiler.Constructor
 kind: api
-owners: [Inno.Scripting.Compiler]
+owners:
+- Inno.Scripting.Compiler
 apiSurface: source-clr
+reviewed: 53a7055e9148c00aef9333b7159a3e12ac85a3c8048a000a6794b6c81e83224a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a compiler over explicit authoring services owned by one host.

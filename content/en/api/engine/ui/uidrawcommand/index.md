@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.ui.0d3a9bb5d82163bb
-symbol: "engine:Inno.UI:T:Inno.UI.UiDrawCommand"
-source: xml
-reviewed: 5da3cdf906d0c835965b1c05959565faa3bc5ebee44e26ac1a78fc86b076052a
-title: "UiDrawCommand"
+symbol: engine:Inno.UI:T:Inno.UI.UiDrawCommand
+title: UiDrawCommand
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: 5da3cdf906d0c835965b1c05959565faa3bc5ebee44e26ac1a78fc86b076052a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-ui#document-and-frame-contract
 aliases: []

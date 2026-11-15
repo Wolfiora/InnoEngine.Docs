@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.934ef4ba02b9ad965b6fe9385c5ae73820b776065587eda94c5830f7d5098889
-symbol: "engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderPreviews.OnUpdate(Inno.Editor.Core.EditorContext)"
-source: xml
-reviewed: 1a4a10b33508abf2410c9cfc935c5d9e256a4e63d915f6ca73ec4c1d0f85b99f
-title: "ShaderPreviews.OnUpdate"
+symbol: engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderPreviews.OnUpdate(Inno.Editor.Core.EditorContext)
+title: ShaderPreviews.OnUpdate
 kind: api
-owners: [Inno.Editor.Shaders.ImGui]
+owners:
+- Inno.Editor.Shaders.ImGui
 apiSurface: source-clr
+reviewed: 1a4a10b33508abf2410c9cfc935c5d9e256a4e63d915f6ca73ec4c1d0f85b99f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Advances this feature using the current runtime state.

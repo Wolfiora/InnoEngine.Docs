@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.10574e15ee7e0ce0b4246372d2039a9504535cd126af68f869f49e25dd922d02
-symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.AssetInfo.#ctor(System.Guid,InnoEngine.Assets.AssetPath,InnoEngine.Assets.AssetSourceKind,InnoEngine.Assets.AssetImportStatus,System.String,System.Guid,InnoEngine.Assets.AssetArtifactKey,InnoEngine.Assets.AssetArtifactKey,System.Collections.Generic.IReadOnlyList{System.String})"
-source: xml
-reviewed: 81f26858c74adf3a1b220e3ff9dbbdbabf40ae47688f3b2c90c10d3254cc594d
-title: "AssetInfo.Constructor"
+symbol: scripting:Inno.Assets:M:InnoEngine.Assets.AssetInfo.#ctor(System.Guid,InnoEngine.Assets.AssetPath,InnoEngine.Assets.AssetSourceKind,InnoEngine.Assets.AssetImportStatus,System.String,System.Guid,InnoEngine.Assets.AssetArtifactKey,InnoEngine.Assets.AssetArtifactKey,System.Collections.Generic.IReadOnlyList{System.String})
+title: AssetInfo.Constructor
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: editor-script
+reviewed: 81f26858c74adf3a1b220e3ff9dbbdbabf40ae47688f3b2c90c10d3254cc594d
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an asset information snapshot.

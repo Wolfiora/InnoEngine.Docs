@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f908c7ac2f8f5a57841c72bf07af0c11af7825fb0f35b04c9a1a2a56024e6999
-symbol: "engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Matrix.m33"
-source: xml
-reviewed: 68bc66853ada92e43836d72adefbda1d9954493abd99d1cd5c018783bb0c1a6f
-title: "Matrix.m33"
+symbol: engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Matrix.m33
+title: Matrix.m33
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 68bc66853ada92e43836d72adefbda1d9954493abd99d1cd5c018783bb0c1a6f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Row 3, Column 3.

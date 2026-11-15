@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.da1d973c9a08d048316264ebcb98144302af29cd7be7da4f60fe3c6874c4f1fa
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.AtomicFile.Install(System.String,System.String,System.Boolean)"
-source: xml
-reviewed: 22795254272974970d020ffd4d470c24e4ad49db2b25671bf7ecdf6c5b9951e4
-title: "AtomicFile.Install"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.AtomicFile.Install(System.String,System.String,System.Boolean)
+title: AtomicFile.Install
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: 22795254272974970d020ffd4d470c24e4ad49db2b25671bf7ecdf6c5b9951e4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Atomically installs an existing same-directory candidate file.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7a1bd8a2c841ebd50eaa2a82b973c1f27e26ebeb5b6097be6e7c43b5c6f22d8a
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderTextureReadbackHandle.Equals(System.Object)"
-source: xml
-reviewed: 366180c21649277b9b7e4d5e1e62afb01bfedb5e6f214e0e7dae9a19663ef23d
-title: "RenderTextureReadbackHandle.Equals"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderTextureReadbackHandle.Equals(System.Object)
+title: RenderTextureReadbackHandle.Equals
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 366180c21649277b9b7e4d5e1e62afb01bfedb5e6f214e0e7dae9a19663ef23d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

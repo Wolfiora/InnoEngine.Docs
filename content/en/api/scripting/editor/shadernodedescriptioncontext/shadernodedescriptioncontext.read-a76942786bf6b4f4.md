@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a76942786bf6b4f4fca48e3a6318cc1b3e8c2c158f5de3213695581e5724361d
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderNodeDescriptionContext.Read\u0060\u00601(System.String,\u0060\u00600)"
-source: xml
-reviewed: 60252a60009de0462aefc7cd865a715d3c8b10f45ee6e2e2973f714804fba958
-title: "ShaderNodeDescriptionContext.Read"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderNodeDescriptionContext.Read``1(System.String,``0)
+title: ShaderNodeDescriptionContext.Read
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 60252a60009de0462aefc7cd865a715d3c8b10f45ee6e2e2973f714804fba958
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads a property using the owner's converter generation and complete reference resolver context.

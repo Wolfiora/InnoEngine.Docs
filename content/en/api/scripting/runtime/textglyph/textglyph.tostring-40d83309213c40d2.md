@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.40d83309213c40d2f8538a6b8a6ef7c73307649f692c6c01448d080f58eaa105
-symbol: "scripting:Inno.Text:M:InnoEngine.Text.TextGlyph.ToString"
-source: xml
-reviewed: 9eb8930d68a9c624fbc7d145f683f7df8b8cd5c9430af532f40c2ac6f0ec8452
-title: "TextGlyph.ToString"
+symbol: scripting:Inno.Text:M:InnoEngine.Text.TextGlyph.ToString
+title: TextGlyph.ToString
 kind: api
-owners: [Inno.Text]
+owners:
+- Inno.Text
 apiSurface: editor-script
+reviewed: 9eb8930d68a9c624fbc7d145f683f7df8b8cd5c9430af532f40c2ac6f0ec8452
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the fully qualified type name of this instance.

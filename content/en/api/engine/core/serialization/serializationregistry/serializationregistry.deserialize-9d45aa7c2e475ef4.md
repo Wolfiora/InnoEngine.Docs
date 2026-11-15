@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9d45aa7c2e475ef44131fdd6f7918517afd6e7911d9b1ddde88c489054164578
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.Deserialize\u0060\u00601(System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationContext)"
-source: xml
-reviewed: c87d2fe941e9968676e9db78f99018e0e0ac2aad7a3a42c28283a01b44161e5a
-title: "SerializationRegistry.Deserialize"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationRegistry.Deserialize``1(System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationContext)
+title: SerializationRegistry.Deserialize
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: c87d2fe941e9968676e9db78f99018e0e0ac2aad7a3a42c28283a01b44161e5a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Deserializes a new serializable root object from deterministic binary data.

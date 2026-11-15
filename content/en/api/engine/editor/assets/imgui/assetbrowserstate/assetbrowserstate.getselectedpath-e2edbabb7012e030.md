@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e2edbabb7012e030ba7514efde2aebaa3564147c1c6a36049a3669651d3a9247
-symbol: "engine:Inno.Editor.Assets.ImGui:M:Inno.Editor.Assets.ImGui.AssetBrowserState.GetSelectedPath(Inno.Editor.Core.EditorContext)"
-source: xml
-reviewed: ba3b199ec6e4168dd7e3aaca5b96bb33b1e101fb1cc6849a14e3d91c8153e382
-title: "AssetBrowserState.GetSelectedPath"
+symbol: engine:Inno.Editor.Assets.ImGui:M:Inno.Editor.Assets.ImGui.AssetBrowserState.GetSelectedPath(Inno.Editor.Core.EditorContext)
+title: AssetBrowserState.GetSelectedPath
 kind: api
-owners: [Inno.Editor.Assets.ImGui]
+owners:
+- Inno.Editor.Assets.ImGui
 apiSurface: source-clr
+reviewed: ba3b199ec6e4168dd7e3aaca5b96bb33b1e101fb1cc6849a14e3d91c8153e382
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the selected asset path when the editor-wide target belongs to the Asset Browser.

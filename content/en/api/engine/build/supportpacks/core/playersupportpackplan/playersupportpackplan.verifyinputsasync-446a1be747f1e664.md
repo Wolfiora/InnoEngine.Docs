@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.446a1be747f1e66408ca2cc27d04072f2860603fabf05692558ba6dbfa384bd1
-symbol: "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPlan.VerifyInputsAsync(System.Threading.CancellationToken)"
-source: xml
-reviewed: 9fce51bbe7f0ab6cda6272b3ce4883dc4e83c6ca5a28dece9f8030e0a92e3a2c
-title: "PlayerSupportPackPlan.VerifyInputsAsync"
+symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPlan.VerifyInputsAsync(System.Threading.CancellationToken)
+title: PlayerSupportPackPlan.VerifyInputsAsync
 kind: api
-owners: [Inno.Build.SupportPacks.Core]
+owners:
+- Inno.Build.SupportPacks.Core
 apiSurface: source-clr
+reviewed: 9fce51bbe7f0ab6cda6272b3ce4883dc4e83c6ca5a28dece9f8030e0a92e3a2c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Freshly verifies the planned source graph after an ownership wait or preparation work.

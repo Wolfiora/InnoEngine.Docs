@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.994415d1d6a7f08a57a2e9b27e2a5f57b27c1d1d25d51db5377483dcbfeaf922
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.BindInstanceBuffer(InnoEngine.Rendering.PersistentBufferHandle,System.Int32,System.Int32)"
-source: xml
-reviewed: 053ada08ffc382c7c21a4c36c271942413df8e4b143efdf291307f6690683c24
-title: "RenderCommandEncoder.BindInstanceBuffer"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.BindInstanceBuffer(InnoEngine.Rendering.PersistentBufferHandle,System.Int32,System.Int32)
+title: RenderCommandEncoder.BindInstanceBuffer
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 053ada08ffc382c7c21a4c36c271942413df8e4b143efdf291307f6690683c24
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Selects the buffer range supplying per-instance attributes.

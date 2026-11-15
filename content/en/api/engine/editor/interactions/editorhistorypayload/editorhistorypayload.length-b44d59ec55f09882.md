@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b44d59ec55f0988231a4d784582b22021a718b2fdc64d57428eb3c5ee3aa3daf
-symbol: "engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorHistoryPayload.length"
-source: xml
-reviewed: 0a78f0db1998457f2df163f85b8ea3d2a752efbc70244a50110869e483fee4bf
-title: "EditorHistoryPayload.length"
+symbol: engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorHistoryPayload.length
+title: EditorHistoryPayload.length
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 0a78f0db1998457f2df163f85b8ea3d2a752efbc70244a50110869e483fee4bf
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the number of immutable bytes represented by this payload.

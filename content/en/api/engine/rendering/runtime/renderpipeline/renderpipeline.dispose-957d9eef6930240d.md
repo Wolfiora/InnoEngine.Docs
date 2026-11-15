@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.957d9eef6930240d48bd7faea27cc109624d8081720fb8451f67a9f5462e0a52
-symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderPipeline.Dispose"
-source: xml
-reviewed: d1b283fed1af1bcf53a14ef12ce97a10e7a77a369f458729696fe2cc58aeec90
-title: "RenderPipeline.Dispose"
+symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderPipeline.Dispose
+title: RenderPipeline.Dispose
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: d1b283fed1af1bcf53a14ef12ce97a10e7a77a369f458729696fe2cc58aeec90
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Releases generation-scoped pipeline state.

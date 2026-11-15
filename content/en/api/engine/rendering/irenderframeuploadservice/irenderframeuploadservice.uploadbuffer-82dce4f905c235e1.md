@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.82dce4f905c235e1628ec1ea1a887e027a6db49bc165efefa6e787f0caee1591
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.IRenderFrameUploadService.UploadBuffer(Inno.Rendering.RenderBufferUploadDescriptor,System.ReadOnlyMemory{System.Byte},System.String)"
-source: xml
-reviewed: 6c200de7f01e42717dcd62d0a89d8805b837cb6ca201d590e75652d3e01a84b6
-title: "IRenderFrameUploadService.UploadBuffer"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.IRenderFrameUploadService.UploadBuffer(Inno.Rendering.RenderBufferUploadDescriptor,System.ReadOnlyMemory{System.Byte},System.String)
+title: IRenderFrameUploadService.UploadBuffer
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 6c200de7f01e42717dcd62d0a89d8805b837cb6ca201d590e75652d3e01a84b6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Uploads complete elements and returns a slice valid only during the current frame.

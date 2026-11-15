@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a9ebfd9e78091e57bde90931eac5d5aa4e82acfa12817405717699c2abf88e14
-symbol: "scripting:Inno.UI:M:InnoEngine.UI.UI.LoadDocument(InnoEngine.UI.UiContextHandle,InnoEngine.UI.UiDocumentSource)"
-source: xml
-reviewed: 6c9d80322826724f55d20837704dda060ec7d7dcce28f0c0530d65a251aa0754
-title: "UI.LoadDocument"
+symbol: scripting:Inno.UI:M:InnoEngine.UI.UI.LoadDocument(InnoEngine.UI.UiContextHandle,InnoEngine.UI.UiDocumentSource)
+title: UI.LoadDocument
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: 6c9d80322826724f55d20837704dda060ec7d7dcce28f0c0530d65a251aa0754
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Loads one explicitly tagged in-memory document.

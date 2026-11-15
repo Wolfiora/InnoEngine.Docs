@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.df07af2e93e04d31773cdb44d210cc5272645e75efa8451f0e2d58e93f813230
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.AtomicAddStorage(InnoEditor.Rendering.Shaders.ShaderIrValue,InnoEditor.Rendering.Shaders.ShaderIrValue,InnoEditor.Rendering.Shaders.ShaderIrValue)"
-source: xml
-reviewed: 5e7a782ebbe8e4bf73c31953876a660e277fef9d71a8d878e00f1786bb5d8df4
-title: "ShaderIrBuilder.AtomicAddStorage"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.AtomicAddStorage(InnoEditor.Rendering.Shaders.ShaderIrValue,InnoEditor.Rendering.Shaders.ShaderIrValue,InnoEditor.Rendering.Shaders.ShaderIrValue)
+title: ShaderIrBuilder.AtomicAddStorage
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 5e7a782ebbe8e4bf73c31953876a660e277fef9d71a8d878e00f1786bb5d8df4
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Atomically adds to a scalar integer buffer element and returns its previous value.

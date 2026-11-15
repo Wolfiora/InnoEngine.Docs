@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.runtime-script.c2ce12d001293ecb
-symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderSamplerAddressMode"
-source: xml
-reviewed: d0661669eb7e308b0ea22ae6a5ba15d9f9beca1c25aa5a67aef242dc61a35ca8
-title: "RenderSamplerAddressMode"
+symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderSamplerAddressMode
+title: RenderSamplerAddressMode
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: d0661669eb7e308b0ea22ae6a5ba15d9f9beca1c25aa5a67aef242dc61a35ca8
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-rendering

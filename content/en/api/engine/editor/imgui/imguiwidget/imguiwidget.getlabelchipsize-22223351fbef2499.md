@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.22223351fbef24997f44724dc9cc3acbe4038aed165cce115b113a0c74de2aca
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.GetLabelChipSize(System.String)"
-source: xml
-reviewed: 21c3094224379aa70cc3db6f9ac74a68cc3fe52c05facec3c433ab6f2b131c57
-title: "ImGuiWidget.GetLabelChipSize"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.GetLabelChipSize(System.String)
+title: ImGuiWidget.GetLabelChipSize
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 21c3094224379aa70cc3db6f9ac74a68cc3fe52c05facec3c433ab6f2b131c57
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the layout size of a compact colored label chip using the centralized editor style.

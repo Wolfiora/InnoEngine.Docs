@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d73bb103939856ce1485f086c8a0c519815f6e1ce084939e5a837ff6cf144057
-symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderIrInstruction.source"
-source: xml
-reviewed: 752a09e10b352dc228972c3318ff4d3a0c94ad36220c64fa4c754fdcc5b9cb20
-title: "ShaderIrInstruction.source"
+symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderIrInstruction.source
+title: ShaderIrInstruction.source
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 752a09e10b352dc228972c3318ff4d3a0c94ad36220c64fa4c754fdcc5b9cb20
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets a frozen, analyzed function implementation only for a SourceCall instruction.

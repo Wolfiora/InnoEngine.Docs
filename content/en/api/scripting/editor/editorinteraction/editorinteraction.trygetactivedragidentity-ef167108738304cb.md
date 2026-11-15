@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ef167108738304cb7c83492a76b288e4a10f265905625b35f7f75dee2b17df8b
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteraction.TryGetActiveDragIdentity(InnoEngine.Core.RuntimeIdentity@)"
-source: xml
-reviewed: 117f063f1b5818a2f4cc852f9675a6205c5de4f3711880c230dbaee576a2284b
-title: "EditorInteraction.TryGetActiveDragIdentity"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteraction.TryGetActiveDragIdentity(InnoEngine.Core.RuntimeIdentity@)
+title: EditorInteraction.TryGetActiveDragIdentity
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 117f063f1b5818a2f4cc852f9675a6205c5de4f3711880c230dbaee576a2284b
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the currently active drag identity, if its source remains registered.

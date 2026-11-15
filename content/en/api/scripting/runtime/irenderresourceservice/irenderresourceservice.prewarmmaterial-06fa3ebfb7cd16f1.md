@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.06fa3ebfb7cd16f171f364faa6da81a54244cf1be694790addd19cc7bfc80509
-symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.PrewarmMaterial(InnoEngine.Rendering.MaterialAsset)"
-source: xml
-reviewed: 19756efc57dd33649a148c7e79cae5f72e6677412c6d6e03cdee418b7d859f29
-title: "IRenderResourceService.PrewarmMaterial"
+symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.PrewarmMaterial(InnoEngine.Rendering.MaterialAsset)
+title: IRenderResourceService.PrewarmMaterial
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: 19756efc57dd33649a148c7e79cae5f72e6677412c6d6e03cdee418b7d859f29
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Queues all target shader work required by a material without blocking the render thread.

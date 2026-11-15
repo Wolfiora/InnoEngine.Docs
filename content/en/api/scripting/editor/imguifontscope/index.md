@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.imgui.editor-script.a653139fc5fbd09f
-symbol: "scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiFontScope"
-source: xml
-reviewed: bc6c4c12f4b07e2ec192ec3510147cc2909ddbbd5193dbeb1e65e9975f003311
-title: "ImGuiFontScope"
+symbol: scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiFontScope
+title: ImGuiFontScope
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: bc6c4c12f4b07e2ec192ec3510147cc2909ddbbd5193dbeb1e65e9975f003311
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-editor-imgui

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0a8f9011e881261b3257212598ea43a4a0f1764d41b7dfe5affc4b3a8cc87bd6
-symbol: "scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorDocumentContext.isProviderAvailable"
-source: xml
-reviewed: 4da00d4644adc95c177e49a072d463c8950bf57a82fc53d6c356fed2ecf9f5e8
-title: "EditorDocumentContext.isProviderAvailable"
+symbol: scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorDocumentContext.isProviderAvailable
+title: EditorDocumentContext.isProviderAvailable
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 4da00d4644adc95c177e49a072d463c8950bf57a82fc53d6c356fed2ecf9f5e8
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether a current-generation provider is available.

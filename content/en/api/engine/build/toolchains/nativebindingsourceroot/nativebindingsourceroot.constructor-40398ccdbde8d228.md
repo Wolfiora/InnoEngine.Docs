@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.40398ccdbde8d2286ebe8c5c18a645980f16972a68a70dbab24d2c21b632b34b
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingSourceRoot.#ctor(System.String,System.String,System.Boolean,System.Boolean)"
-source: xml
-reviewed: 959c5b10e86356797affedd4604a934dd3fa0ad091bf1eddf57707e5635cf03b
-title: "NativeBindingSourceRoot.Constructor"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingSourceRoot.#ctor(System.String,System.String,System.Boolean,System.Boolean)
+title: NativeBindingSourceRoot.Constructor
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 959c5b10e86356797affedd4604a934dd3fa0ad091bf1eddf57707e5635cf03b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Identifies one component-local root without exposing a generator-specific contract.

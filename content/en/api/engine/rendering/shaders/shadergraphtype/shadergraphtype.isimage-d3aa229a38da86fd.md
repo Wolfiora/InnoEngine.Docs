@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d3aa229a38da86fd27ff3ec46a30ec5ddf920169b56e4a6390e6d5d5d0819d76
-symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderGraphType.isImage"
-source: xml
-reviewed: 5775cb66cc5085453b6fee704d1c3349d69b627e417b40e3f110354a080e167e
-title: "ShaderGraphType.isImage"
+symbol: engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderGraphType.isImage
+title: ShaderGraphType.isImage
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: 5775cb66cc5085453b6fee704d1c3349d69b627e417b40e3f110354a080e167e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets whether storage is an image instead of a buffer.

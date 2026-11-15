@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e4aa258a643c974e06d903bc1a3f6744b82b191a7ad052117d6593d452be5387
-symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.Audio.TryGetVoiceState(InnoEngine.Audio.AudioVoiceHandle,InnoEngine.Audio.AudioPlaybackState@)"
-source: xml
-reviewed: abbdf4e8fda86f98667255aff5a0adbaf79e85c4f4fec5b87a1e3c7f9adaa886
-title: "Audio.TryGetVoiceState"
+symbol: scripting:Inno.Audio:M:InnoEngine.Audio.Audio.TryGetVoiceState(InnoEngine.Audio.AudioVoiceHandle,InnoEngine.Audio.AudioPlaybackState@)
+title: Audio.TryGetVoiceState
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: abbdf4e8fda86f98667255aff5a0adbaf79e85c4f4fec5b87a1e3c7f9adaa886
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Queries the current state of a voice.

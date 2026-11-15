@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.955716d567f91257a2b43ca1eb318050a2371f53466eeb670a746ad8834d4ad2
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.DialogPresentation.GetHashCode"
-source: xml
-reviewed: 5a66cef9797f8d714f8fac1e9b117395fd8d5f3a26feb5883ae9fca3225e47de
-title: "DialogPresentation.GetHashCode"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.DialogPresentation.GetHashCode
+title: DialogPresentation.GetHashCode
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 5a66cef9797f8d714f8fac1e9b117395fd8d5f3a26feb5883ae9fca3225e47de
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

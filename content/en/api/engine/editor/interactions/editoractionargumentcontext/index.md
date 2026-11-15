@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.interactions.2efcac326ce7b7ce
-symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorActionArgumentContext\u00601"
-source: xml
-reviewed: 6d6b1033608f341a4a43cacdd370f9f09a2502d7b4ed65cf500eb25ed4e5eecc
-title: "EditorActionArgumentContext\u003CTArgument\u003E"
+symbol: engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorActionArgumentContext`1
+title: EditorActionArgumentContext<TArgument>
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 6d6b1033608f341a4a43cacdd370f9f09a2502d7b4ed65cf500eb25ed4e5eecc
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 aliases: []

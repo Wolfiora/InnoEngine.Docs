@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.42908c085b0314bb2eceaf16e1f03d32b5331885aa000d9c25ed65d79bbc886c
-symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.ChangeProperty(Inno.Scene.EngineObject,System.String,System.Action,System.String,System.String)"
-source: xml
-reviewed: fdd76b0913daa465588e577c8f3ec25a796231aaa2c6bde1d977c774f44df742
-title: "SceneEdits.ChangeProperty"
+symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.ChangeProperty(Inno.Scene.EngineObject,System.String,System.Action,System.String,System.String)
+title: SceneEdits.ChangeProperty
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: source-clr
+reviewed: fdd76b0913daa465588e577c8f3ec25a796231aaa2c6bde1d977c774f44df742
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Applies a mutation to one serializable scene property and records only its before and after values.

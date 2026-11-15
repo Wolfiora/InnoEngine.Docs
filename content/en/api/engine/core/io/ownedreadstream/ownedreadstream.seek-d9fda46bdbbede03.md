@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d9fda46bdbbede0390ee50fec60d47f530ff955987e65d3386584a427bdc11bb
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.OwnedReadStream.Seek(System.Int64,System.IO.SeekOrigin)"
-source: xml
-reviewed: 52e181b748b657bc2a649fa89e8c1252169c3a7ef2cdf5160a66b5ad03fc3564
-title: "OwnedReadStream.Seek"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.OwnedReadStream.Seek(System.Int64,System.IO.SeekOrigin)
+title: OwnedReadStream.Seek
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: 52e181b748b657bc2a649fa89e8c1252169c3a7ef2cdf5160a66b5ad03fc3564
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 When overridden in a derived class, sets the position within the current stream.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e444db0c8743fc73af5413dd18bd178d3211df130d27b92e0f24c68850185049
-symbol: "scripting:Inno.Assets:M:InnoEngine.Assets.AssetSourceId.#ctor(System.String)"
-source: xml
-reviewed: 546f185aa3f7ee64bcd7aad79c6a9e8e9da4babf1cec3097b36c2d02b7942fe6
-title: "AssetSourceId.Constructor"
+symbol: scripting:Inno.Assets:M:InnoEngine.Assets.AssetSourceId.#ctor(System.String)
+title: AssetSourceId.Constructor
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: editor-script
+reviewed: 546f185aa3f7ee64bcd7aad79c6a9e8e9da4babf1cec3097b36c2d02b7942fe6
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a globally stable source identifier.

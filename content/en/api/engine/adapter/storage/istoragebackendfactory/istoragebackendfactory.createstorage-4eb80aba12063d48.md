@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4eb80aba12063d4875793acb1f6f62c7d5d0a65b97ab1c01c432232fcf1ca971
-symbol: "engine:Inno.Adapter.Storage:M:Inno.Adapter.Storage.IStorageBackendFactory.CreateStorage(Inno.Adapter.Storage.StorageBackendId,Inno.Storage.StorageScope)"
-source: xml
-reviewed: 6ccf484f65e52028801bc34e9a061a4eb55f6b412ceaf2ad8809d073642d2fd2
-title: "IStorageBackendFactory.CreateStorage"
+symbol: engine:Inno.Adapter.Storage:M:Inno.Adapter.Storage.IStorageBackendFactory.CreateStorage(Inno.Adapter.Storage.StorageBackendId,Inno.Storage.StorageScope)
+title: IStorageBackendFactory.CreateStorage
 kind: api
-owners: [Inno.Adapter.Storage]
+owners:
+- Inno.Adapter.Storage
 apiSurface: source-clr
+reviewed: 6ccf484f65e52028801bc34e9a061a4eb55f6b412ceaf2ad8809d073642d2fd2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates isolated storage for a logical application namespace.

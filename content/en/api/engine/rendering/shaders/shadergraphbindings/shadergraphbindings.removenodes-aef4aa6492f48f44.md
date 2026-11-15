@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.aef4aa6492f48f44694bf5a753f8cdfa915c115abaa365af85b2cf7b242af3c7
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphBindings.RemoveNodes(Inno.Core.Graphs.GraphDocument,System.Collections.Generic.IEnumerable{Inno.Core.Graphs.GraphNodeId},Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)"
-source: xml
-reviewed: 37430a5e99064131a9733b99b2c09a44784b0a806175e88ecd8c8786c9b39367
-title: "ShaderGraphBindings.RemoveNodes"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphBindings.RemoveNodes(Inno.Core.Graphs.GraphDocument,System.Collections.Generic.IEnumerable{Inno.Core.Graphs.GraphNodeId},Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)
+title: ShaderGraphBindings.RemoveNodes
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: 37430a5e99064131a9733b99b2c09a44784b0a806175e88ecd8c8786c9b39367
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Removes selected nodes, stage-owned nodes and declarations which lose their last graph owner.

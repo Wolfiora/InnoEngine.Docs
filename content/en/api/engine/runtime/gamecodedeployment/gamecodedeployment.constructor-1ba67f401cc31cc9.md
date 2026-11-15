@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1ba67f401cc31cc9c27f8f8bbfba226968c17a29662b34cb3b4374a29973ce9d
-symbol: "engine:Inno.Runtime:M:Inno.Runtime.GameCodeDeployment.#ctor(System.Collections.Generic.IReadOnlyList{Inno.Runtime.GameCodeModule})"
-source: xml
-reviewed: e952d3c0dc985cdaaa64fecea7d7d0e0455424b9cc6273c41c9656ef5c018e94
-title: "GameCodeDeployment.Constructor"
+symbol: engine:Inno.Runtime:M:Inno.Runtime.GameCodeDeployment.#ctor(System.Collections.Generic.IReadOnlyList{Inno.Runtime.GameCodeModule})
+title: GameCodeDeployment.Constructor
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: e952d3c0dc985cdaaa64fecea7d7d0e0455424b9cc6273c41c9656ef5c018e94
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Copies an explicit code closure and verifies unique ownership and dependency ordering.

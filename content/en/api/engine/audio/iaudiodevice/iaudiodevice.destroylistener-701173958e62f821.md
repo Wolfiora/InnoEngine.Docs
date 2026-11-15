@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.701173958e62f821c4c95e871639571d1f7df9d5b39297521e53854569d80584
-symbol: "engine:Inno.Audio:M:Inno.Audio.IAudioDevice.DestroyListener(Inno.Audio.AudioListenerHandle)"
-source: xml
-reviewed: c977ea31bb17a7564d8184fd0c22ba0e84e66fa5a2db59213f94dd51eb847c9c
-title: "IAudioDevice.DestroyListener"
+symbol: engine:Inno.Audio:M:Inno.Audio.IAudioDevice.DestroyListener(Inno.Audio.AudioListenerHandle)
+title: IAudioDevice.DestroyListener
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: c977ea31bb17a7564d8184fd0c22ba0e84e66fa5a2db59213f94dd51eb847c9c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Releases one backend spatial listener.

@@ -1,16 +1,20 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.core-identity.runtimeidentity
 symbol: engine:Inno.Core.Identity:T:Inno.Core.Identity.RuntimeIdentity
-source: manual
-reviewed: a50ea281e9e34ba651cdc2dd5d2e9936c45be05e42414bbb8aef136c055841a2
 title: RuntimeIdentity
 kind: api
 owners:
-  - Inno.Core.Identity
+- Inno.Core.Identity
 apiSurface: source-clr
+reviewed: a50ea281e9e34ba651cdc2dd5d2e9936c45be05e42414bbb8aef136c055841a2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: manual
+outdated: true
 aliases: []
 contracts:
-  - api.projects.inno-core-identity#lifecycle-and-failure-contracts
+- api.projects.inno-core-identity#lifecycle-and-failure-contracts
 ---
 
 Addresses a live identity object within one explicitly identified runtime domain.

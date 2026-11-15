@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.af94d58ac2ccf54175f5e1bbefa430ee4d3f378f14d8dbeb7149f9e13c4a276d
-symbol: "engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.CreateDirectory(Inno.Assets.AssetPath)"
-source: xml
-reviewed: c2a0508505fa7e270769c61e3c86aa337b056afc4f1d8a6dfe2461d68efccb42
-title: "AssetEditingModule.CreateDirectory"
+symbol: engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.CreateDirectory(Inno.Assets.AssetPath)
+title: AssetEditingModule.CreateDirectory
 kind: api
-owners: [Inno.Editor.Assets]
+owners:
+- Inno.Editor.Assets
 apiSurface: source-clr
+reviewed: c2a0508505fa7e270769c61e3c86aa337b056afc4f1d8a6dfe2461d68efccb42
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a uniquely named directory and records its removal and restoration in shared History.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5eb59bd71a793fedaf0245362a67d5ae54ac1da4d77796f8603671af070e3261
-symbol: "engine:Inno.UI:M:Inno.UI.IUiBackend.DrainEvents(Inno.UI.UiContextHandle)"
-source: xml
-reviewed: 265098f8160918fd34f7133c07d1274e0ef2b9aed83e537b692d7bd891f20be4
-title: "IUiBackend.DrainEvents"
+symbol: engine:Inno.UI:M:Inno.UI.IUiBackend.DrainEvents(Inno.UI.UiContextHandle)
+title: IUiBackend.DrainEvents
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: 265098f8160918fd34f7133c07d1274e0ef2b9aed83e537b692d7bd891f20be4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Drains document events queued by the preceding updates.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4b3282d43e2256113955b0710c37cd05aec3a156089e9fd9af9926f95ad81af2
-symbol: "engine:Inno.Rendering.Assets.Authoring:P:Inno.Rendering.Assets.Authoring.ShaderStageArtifact.sourceLocation"
-source: xml
-reviewed: 793c36d12d853b0edd0e01903c8cbb2e183bd238339e23bb870db9190a126117
-title: "ShaderStageArtifact.sourceLocation"
+symbol: engine:Inno.Rendering.Assets.Authoring:P:Inno.Rendering.Assets.Authoring.ShaderStageArtifact.sourceLocation
+title: ShaderStageArtifact.sourceLocation
 kind: api
-owners: [Inno.Rendering.Assets.Authoring]
+owners:
+- Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
+reviewed: 793c36d12d853b0edd0e01903c8cbb2e183bd238339e23bb870db9190a126117
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the original source mapping.

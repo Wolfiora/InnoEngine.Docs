@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a7a45f6dd98db08cb053cec9e3eefb07bcb0a6a480875ae0268ce5f48b6da5df
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.RectInt.Contains(Inno.Core.Mathematics.RectInt)"
-source: xml
-reviewed: 4b7896b086aecd65d70c817a8f58944f10314816cceb04963544d9dcf9cc010a
-title: "RectInt.Contains"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.RectInt.Contains(Inno.Core.Mathematics.RectInt)
+title: RectInt.Contains
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 4b7896b086aecd65d70c817a8f58944f10314816cceb04963544d9dcf9cc010a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Checks if this rectangle fully contains another rectangle.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.53d2ada38b68ef50f3200f9653e4b626f3c1c474cdd81ecb429b200366fbb6a6
-symbol: "engine:Inno.Core.Identity:M:Inno.Core.Identity.IdentityAllocator.InitializePersistentIdentity(Inno.Core.Identity.IdentityObject,System.Guid)"
-source: xml
-reviewed: 9f004fd5dbd320e33939cdc776674daf0a8a030f974f0ad20d0b571e834d7e8b
-title: "IdentityAllocator.InitializePersistentIdentity"
+symbol: engine:Inno.Core.Identity:M:Inno.Core.Identity.IdentityAllocator.InitializePersistentIdentity(Inno.Core.Identity.IdentityObject,System.Guid)
+title: IdentityAllocator.InitializePersistentIdentity
 kind: api
-owners: [Inno.Core.Identity]
+owners:
+- Inno.Core.Identity
 apiSurface: source-clr
+reviewed: 9f004fd5dbd320e33939cdc776674daf0a8a030f974f0ad20d0b571e834d7e8b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Assigns a persistent identity to a detached object without allocating a runtime identity.

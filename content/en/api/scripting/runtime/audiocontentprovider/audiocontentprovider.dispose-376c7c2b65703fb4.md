@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.376c7c2b65703fb488a12784696a546b6bb53c5a7bb0a4969637bf0a6d5eb4ff
-symbol: "scripting:Inno.Audio:M:InnoEngine.Audio.AudioContentProvider.Dispose(System.Boolean)"
-source: xml
-reviewed: a998e49225e3f60ff77f357ca0579cafbfabd4a85f906f3774eeca659124f1b6
-title: "AudioContentProvider.Dispose"
+symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioContentProvider.Dispose(System.Boolean)
+title: AudioContentProvider.Dispose
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: a998e49225e3f60ff77f357ca0579cafbfabd4a85f906f3774eeca659124f1b6
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Releases managed generation-scoped state.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bc1e0bad9b3eaab729d14d2470ca6979cf7bc63c86a201ae70c14534d09d5b9b
-symbol: "engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderGraphArtifact.Encode(Inno.Core.Graphs.GraphDocument,System.Collections.Generic.IReadOnlyDictionary{Inno.Core.Graphs.GraphNodeId,System.Byte[]},Inno.Core.Serialization.SerializationRegistry,Inno.Core.Graphs.GraphDocument)"
-source: xml
-reviewed: 85ed45d96c73590bc2ca77090fff875bb5474fe652ec71afaf8cb6511313fe52
-title: "ShaderGraphArtifact.Encode"
+symbol: engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderGraphArtifact.Encode(Inno.Core.Graphs.GraphDocument,System.Collections.Generic.IReadOnlyDictionary{Inno.Core.Graphs.GraphNodeId,System.Byte[]},Inno.Core.Serialization.SerializationRegistry,Inno.Core.Graphs.GraphDocument)
+title: ShaderGraphArtifact.Encode
 kind: api
-owners: [Inno.Rendering.Assets.Authoring]
+owners:
+- Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
+reviewed: 85ed45d96c73590bc2ca77090fff875bb5474fe652ec71afaf8cb6511313fe52
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures one native immutable graph import candidate.

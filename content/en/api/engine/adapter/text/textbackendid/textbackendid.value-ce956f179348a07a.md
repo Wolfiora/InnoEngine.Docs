@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ce956f179348a07adc9024566f5ef878e3e81785a1879c38b55f51dfaf307d57
-symbol: "engine:Inno.Adapter.Text:P:Inno.Adapter.Text.TextBackendId.value"
-source: xml
-reviewed: a92d16a7ef3b59ec5e894d996cebf486a2fd415d850a6bb7d99f3a499c917524
-title: "TextBackendId.value"
+symbol: engine:Inno.Adapter.Text:P:Inno.Adapter.Text.TextBackendId.value
+title: TextBackendId.value
 kind: api
-owners: [Inno.Adapter.Text]
+owners:
+- Inno.Adapter.Text
 apiSurface: source-clr
+reviewed: a92d16a7ef3b59ec5e894d996cebf486a2fd415d850a6bb7d99f3a499c917524
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the stable identifier; a default value is unassigned.

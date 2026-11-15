@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.de0a9bc061548e9c5381e7f362e73db34ad4c925a870fd7f8d72e30ebc3ddd44
-symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderView.ToString"
-source: xml
-reviewed: 306cfb8773ee23cf0531b3241f50fb7ff9c2ec33f2f1ae680bf6202f90685fbf
-title: "RenderView.ToString"
+symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderView.ToString
+title: RenderView.ToString
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: 306cfb8773ee23cf0531b3241f50fb7ff9c2ec33f2f1ae680bf6202f90685fbf
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the fully qualified type name of this instance.

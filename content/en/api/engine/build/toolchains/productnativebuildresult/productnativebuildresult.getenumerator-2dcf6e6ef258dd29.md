@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2dcf6e6ef258dd2902dd4b1caa28f3718f2ff098cac9874e30320441bb8a082a
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativeBuildResult.GetEnumerator"
-source: xml
-reviewed: 09e819fcd18a6776875ab215e9b7ffb0ee27167bfc0d18f9ae4bb3e701dcb605
-title: "ProductNativeBuildResult.GetEnumerator"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativeBuildResult.GetEnumerator
+title: ProductNativeBuildResult.GetEnumerator
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 09e819fcd18a6776875ab215e9b7ffb0ee27167bfc0d18f9ae4bb3e701dcb605
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Enumerates borrowed products in plan order without transferring their ownership.

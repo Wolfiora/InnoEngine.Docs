@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bb62e70b88aebbbc47a11def9816347e5ef98c0fe7602b5a4cd1ab42b1ffb9aa
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector2.#ctor(System.Single,System.Single)"
-source: xml
-reviewed: 70ca6166850387dcf972f5225c5d3c00ce82b02a4a93764f0154ab2c6ad2e289
-title: "Vector2.Constructor"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector2.#ctor(System.Single,System.Single)
+title: Vector2.Constructor
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 70ca6166850387dcf972f5225c5d3c00ce82b02a4a93764f0154ab2c6ad2e289
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a vector from explicit component values.

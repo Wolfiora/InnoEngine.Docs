@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.897677dd64920116bd66da72689ab6c1df20b30b7192a959881d91703f20664f
-symbol: "scripting:Inno.Editor.Annotations:P:InnoEditor.Annotations.HelpBoxAttribute.condition"
-source: xml
-reviewed: 2da96b09824fc6f9f3b998364a8f1dd397b4e0639b47c8df29face3bf5840398
-title: "HelpBoxAttribute.condition"
+symbol: scripting:Inno.Editor.Annotations:P:InnoEditor.Annotations.HelpBoxAttribute.condition
+title: HelpBoxAttribute.condition
 kind: api
-owners: [Inno.Editor.Annotations]
+owners:
+- Inno.Editor.Annotations
 apiSurface: editor-script
+reviewed: 2da96b09824fc6f9f3b998364a8f1dd397b4e0639b47c8df29face3bf5840398
 apiScope: Authoring
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the optional sibling comparison.

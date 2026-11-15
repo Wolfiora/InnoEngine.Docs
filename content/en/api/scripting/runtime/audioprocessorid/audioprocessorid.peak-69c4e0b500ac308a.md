@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.69c4e0b500ac308a8d482472a11863ad27c6f21c45980c794417a1c8a126942c
-symbol: "scripting:Inno.Audio:P:InnoEngine.Audio.AudioProcessorId.peak"
-source: xml
-reviewed: 766b0f3974a972ffff67e8bbe20948cda14869e63dde81e9b20cc1625883cd1e
-title: "AudioProcessorId.peak"
+symbol: scripting:Inno.Audio:P:InnoEngine.Audio.AudioProcessorId.peak
+title: AudioProcessorId.peak
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: 766b0f3974a972ffff67e8bbe20948cda14869e63dde81e9b20cc1625883cd1e
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the standard peak equalizer processor identifier.

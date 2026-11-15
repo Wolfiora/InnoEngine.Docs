@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.91023310bb83ab92266bdc7ded1c46500adb0e2677564aed8f0957642d71c0d6
-symbol: "engine:Inno.Scene:P:Inno.Scene.Layers.GameLayerMask.value"
-source: xml
-reviewed: 0b8f4b035d9ec1872e0958b7701347f74e7244250a4701c6f17da4783c775f03
-title: "GameLayerMask.value"
+symbol: engine:Inno.Scene:P:Inno.Scene.Layers.GameLayerMask.value
+title: GameLayerMask.value
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 0b8f4b035d9ec1872e0958b7701347f74e7244250a4701c6f17da4783c775f03
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the raw thirty-two-bit mask value.

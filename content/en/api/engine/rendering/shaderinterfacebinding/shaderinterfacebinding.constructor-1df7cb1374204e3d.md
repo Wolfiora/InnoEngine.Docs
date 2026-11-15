@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1df7cb1374204e3d0bd3cd00756ef999e4cd8931230056742d6b200fdd7e2863
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.ShaderInterfaceBinding.#ctor(Inno.Rendering.ShaderPropertyId,Inno.Rendering.ShaderPropertyType,Inno.Rendering.ShaderStage,System.Int32,Inno.Rendering.ShaderPropertyBindingKind,Inno.Rendering.RenderStorageAccess,System.String,System.Nullable{System.Int32})"
-source: xml
-reviewed: a4dca39ba5a75df7fbee523aaf2f0c5277a98875c5062b7a5e86ccccfd0d472c
-title: "ShaderInterfaceBinding.Constructor"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.ShaderInterfaceBinding.#ctor(Inno.Rendering.ShaderPropertyId,Inno.Rendering.ShaderPropertyType,Inno.Rendering.ShaderStage,System.Int32,Inno.Rendering.ShaderPropertyBindingKind,Inno.Rendering.RenderStorageAccess,System.String,System.Nullable{System.Int32})
+title: ShaderInterfaceBinding.Constructor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: a4dca39ba5a75df7fbee523aaf2f0c5277a98875c5062b7a5e86ccccfd0d472c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a reflected interface binding.

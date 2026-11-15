@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.41923a5f69679b9740398f85bb23aed90d9df11d5584c7267a27c2763895512c
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.MathHelper.ToRadians(System.Single)"
-source: xml
-reviewed: 71459252286b2f3583c9ec678d6bb6bfad7b9ffe18d5dc3f8cda6919a09bdc1c
-title: "MathHelper.ToRadians"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.MathHelper.ToRadians(System.Single)
+title: MathHelper.ToRadians
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 71459252286b2f3583c9ec678d6bb6bfad7b9ffe18d5dc3f8cda6919a09bdc1c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Converts degrees to radians.

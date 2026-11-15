@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.18a44efe12ef2bcf0b6112aaa70bad3e0fcb4e2b47196416147aee7ff7ec274f
-symbol: "engine:Inno.UI:M:Inno.UI.UiDocumentAsset.CreateRuntimePayload(System.String,Inno.UI.UiDocumentSource,System.Collections.Generic.IReadOnlyList{Inno.UI.UiDocumentFontFace})"
-source: xml
-reviewed: fc9e4886b71b0a2146dd5a336ca5ea7816140f6c261b840287021524b6ef3e8c
-title: "UiDocumentAsset.CreateRuntimePayload"
+symbol: engine:Inno.UI:M:Inno.UI.UiDocumentAsset.CreateRuntimePayload(System.String,Inno.UI.UiDocumentSource,System.Collections.Generic.IReadOnlyList{Inno.UI.UiDocumentFontFace})
+title: UiDocumentAsset.CreateRuntimePayload
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: fc9e4886b71b0a2146dd5a336ca5ea7816140f6c261b840287021524b6ef3e8c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Encodes an importer-owned runtime payload without exposing an implementation-specific format.

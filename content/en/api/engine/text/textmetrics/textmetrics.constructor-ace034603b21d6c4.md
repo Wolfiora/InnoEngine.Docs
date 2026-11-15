@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ace034603b21d6c4dc8c3d194a8e8d503af684b93ad274ad519cef17260aa024
-symbol: "engine:Inno.Text:M:Inno.Text.TextMetrics.#ctor(System.Single,System.Single,System.Single,System.Single,System.Single)"
-source: xml
-reviewed: 0773b456fd3694fd3fdb02729bd3949622b24451770996e6194b917dd60a883d
-title: "TextMetrics.Constructor"
+symbol: engine:Inno.Text:M:Inno.Text.TextMetrics.#ctor(System.Single,System.Single,System.Single,System.Single,System.Single)
+title: TextMetrics.Constructor
 kind: api
-owners: [Inno.Text]
+owners:
+- Inno.Text
 apiSurface: source-clr
+reviewed: 0773b456fd3694fd3fdb02729bd3949622b24451770996e6194b917dd60a883d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Describes scalable metrics for one font face and logical size.

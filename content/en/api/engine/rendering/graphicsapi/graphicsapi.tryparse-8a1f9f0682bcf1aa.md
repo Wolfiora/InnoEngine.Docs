@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8a1f9f0682bcf1aa694c9964a38a7e9df615ff4406e1d9c654d775e6d9f0b179
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.GraphicsApi.TryParse(System.String,Inno.Rendering.GraphicsApi@)"
-source: xml
-reviewed: b14dde44d687938f0019863fb8fe865778c68158815343ea37f591d306b18f8f
-title: "GraphicsApi.TryParse"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.GraphicsApi.TryParse(System.String,Inno.Rendering.GraphicsApi@)
+title: GraphicsApi.TryParse
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: b14dde44d687938f0019863fb8fe865778c68158815343ea37f591d306b18f8f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Parses an open backend identity without consulting a closed engine-side backend list.

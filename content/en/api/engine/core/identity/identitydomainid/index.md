@@ -1,16 +1,20 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.core-identity.identitydomainid
 symbol: engine:Inno.Core.Identity:T:Inno.Core.Identity.IdentityDomainId
-source: manual
-reviewed: d812c2a94ab6e94dafae9d4801bc6a3d0fc32e1013b9e11fbcf89c40244bf6d8
 title: IdentityDomainId
 kind: api
 owners:
-  - Inno.Core.Identity
+- Inno.Core.Identity
 apiSurface: source-clr
+reviewed: d812c2a94ab6e94dafae9d4801bc6a3d0fc32e1013b9e11fbcf89c40244bf6d8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: manual
+outdated: true
 aliases: []
 contracts:
-  - api.projects.inno-core-identity#lifecycle-and-failure-contracts
+- api.projects.inno-core-identity#lifecycle-and-failure-contracts
 ---
 
 Identifies one isolated runtime identity namespace within the current process.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fc7d0284947985636251cf02859187e592cd09d514648a24cdb7ef28818b71d6
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildRecipe.WithDependency(Inno.Build.Toolchains.NativeBuildInput,System.String)"
-source: xml
-reviewed: 8a6264ec4f08b9f0aca5ddb8f4d274b6963100cb7b3ba2817472edc1aa826582
-title: "NativeBuildRecipe.WithDependency"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildRecipe.WithDependency(Inno.Build.Toolchains.NativeBuildInput,System.String)
+title: NativeBuildRecipe.WithDependency
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 8a6264ec4f08b9f0aca5ddb8f4d274b6963100cb7b3ba2817472edc1aa826582
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds one explicitly selected published dependency while preserving the recipe's frozen execution tools.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.38e94e07124e48aaa143c9b686f58c583f93701918d98111169857b6a1eed3f3
-symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderSamplerAddressMode.Mirror"
-source: xml
-reviewed: 94117e15eec32aecf6d8d9d2eab6b9432009bbf4d436e520a7e199b07f7199be
-title: "RenderSamplerAddressMode.Mirror"
+symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderSamplerAddressMode.Mirror
+title: RenderSamplerAddressMode.Mirror
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 94117e15eec32aecf6d8d9d2eab6b9432009bbf4d436e520a7e199b07f7199be
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Mirrors repeated texture coordinates.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.input.297f3ef80d095b3e
-symbol: "engine:Inno.Input:T:Inno.Input.Input"
-source: xml
-reviewed: e8fcf419e122e280e18ae7ca74573d78bfff1704961cf0eebbb2b1fa358dbdb1
-title: "Input"
+symbol: engine:Inno.Input:T:Inno.Input.Input
+title: Input
 kind: api
-owners: [Inno.Input]
+owners:
+- Inno.Input
 apiSurface: source-clr
+reviewed: e8fcf419e122e280e18ae7ca74573d78bfff1704961cf0eebbb2b1fa358dbdb1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-input#execution-and-ownership-contract
 aliases: []

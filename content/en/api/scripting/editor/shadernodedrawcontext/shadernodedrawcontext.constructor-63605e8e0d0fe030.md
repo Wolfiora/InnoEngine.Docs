@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.63605e8e0d0fe0303b7b4644f9d215f697fc29e5b413957d4e836fa1b7d1f139
-symbol: "scripting:Inno.Editor.Shaders.ImGui:M:InnoEditor.Shaders.ShaderNodeDrawContext.#ctor(InnoEngine.Graphs.GraphNodeRecord,InnoEngine.Serialization.SerializationRegistry,InnoEngine.Serialization.SerializationContext,System.Action{System.String,InnoEngine.Graphs.GraphSerializedValue,System.String},InnoEditor.Rendering.IEditorPreviewService,InnoEditor.Inspection.InspectionDrawContext,System.Boolean)"
-source: xml
-reviewed: 220c0ecda61c4b9e9caafb79e0537458f40f38efa32e4151aa32586b8098dd75
-title: "ShaderNodeDrawContext.Constructor"
+symbol: scripting:Inno.Editor.Shaders.ImGui:M:InnoEditor.Shaders.ShaderNodeDrawContext.#ctor(InnoEngine.Graphs.GraphNodeRecord,InnoEngine.Serialization.SerializationRegistry,InnoEngine.Serialization.SerializationContext,System.Action{System.String,InnoEngine.Graphs.GraphSerializedValue,System.String},InnoEditor.Rendering.IEditorPreviewService,InnoEditor.Inspection.InspectionDrawContext,System.Boolean)
+title: ShaderNodeDrawContext.Constructor
 kind: api
-owners: [Inno.Editor.Shaders.ImGui]
+owners:
+- Inno.Editor.Shaders.ImGui
 apiSurface: editor-script
+reviewed: 220c0ecda61c4b9e9caafb79e0537458f40f38efa32e4151aa32586b8098dd75
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates invocation-scoped access for a graph or Inspector host.

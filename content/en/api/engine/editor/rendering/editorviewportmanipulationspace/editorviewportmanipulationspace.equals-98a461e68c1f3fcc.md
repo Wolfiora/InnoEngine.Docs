@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.98a461e68c1f3fcc2e554772f6efada7fb6ef88a1fa8a7d83ce910c6bf91a54f
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportManipulationSpace.Equals(System.Object)"
-source: xml
-reviewed: 93605ea8ad6df9de002c0ff6fd08806e0f2dff1f9145207f0b95beac42550a76
-title: "EditorViewportManipulationSpace.Equals"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportManipulationSpace.Equals(System.Object)
+title: EditorViewportManipulationSpace.Equals
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 93605ea8ad6df9de002c0ff6fd08806e0f2dff1f9145207f0b95beac42550a76
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

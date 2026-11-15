@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d0c6bbf54f7daf92ace7d235e542ac94186583e14ea69078ee447dba6474cfb2
-symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.OwnerThreadExecution.Run\u0060\u00601(System.Func{System.Threading.Tasks.Task{\u0060\u00600}})"
-source: xml
-reviewed: 589aab57c00ef5e53f1cb54df31923a0151e2a482136f9091bf9fd54bda7276c
-title: "OwnerThreadExecution.Run"
+symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.OwnerThreadExecution.Run``1(System.Func{System.Threading.Tasks.Task{``0}})
+title: OwnerThreadExecution.Run
 kind: api
-owners: [Inno.Core.Execution]
+owners:
+- Inno.Core.Execution
 apiSurface: source-clr
+reviewed: 589aab57c00ef5e53f1cb54df31923a0151e2a482136f9091bf9fd54bda7276c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Pumps continuations until the owned operation completes, then restores the previous context.

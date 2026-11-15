@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.audio.runtime.a63dcfeede6e3455
-symbol: "engine:Inno.Audio.Runtime:T:Inno.Audio.Runtime.MutedAudioDevice"
-source: xml
-reviewed: 830aa5e84e0f42b8dbe1d1541ea723aaa35ca2d05b16fc0aa0aad916bcfe1b06
-title: "MutedAudioDevice"
+symbol: engine:Inno.Audio.Runtime:T:Inno.Audio.Runtime.MutedAudioDevice
+title: MutedAudioDevice
 kind: api
-owners: [Inno.Audio.Runtime]
+owners:
+- Inno.Audio.Runtime
 apiSurface: source-clr
+reviewed: 830aa5e84e0f42b8dbe1d1541ea723aaa35ca2d05b16fc0aa0aad916bcfe1b06
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-audio-runtime#composition-and-lifetime-contract
 aliases: []

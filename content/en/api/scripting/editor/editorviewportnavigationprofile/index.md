@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.rendering.editor-script.57a7c5f658402ef9
-symbol: "scripting:Inno.Editor.Rendering:T:InnoEditor.Rendering.EditorViewportNavigationProfile"
-source: xml
-reviewed: 871d9241ec98cd309049eb8ae6ae27b85117617d365289f035b326535db739d7
-title: "EditorViewportNavigationProfile"
+symbol: scripting:Inno.Editor.Rendering:T:InnoEditor.Rendering.EditorViewportNavigationProfile
+title: EditorViewportNavigationProfile
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: editor-script
+reviewed: 871d9241ec98cd309049eb8ae6ae27b85117617d365289f035b326535db739d7
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-editor-rendering

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.assets.runtime-script.d166ef2a6ae9cf38
-symbol: "scripting:Inno.Assets:T:InnoEngine.Assets.AssetPath"
-source: xml
-reviewed: cceca1aaf299af8536447e3da79f79428c66b3a4bc96f3c1dc5bab180d397e29
-title: "AssetPath"
+symbol: scripting:Inno.Assets:T:InnoEngine.Assets.AssetPath
+title: AssetPath
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: editor-script
+reviewed: cceca1aaf299af8536447e3da79f79428c66b3a4bc96f3c1dc5bab180d397e29
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-assets

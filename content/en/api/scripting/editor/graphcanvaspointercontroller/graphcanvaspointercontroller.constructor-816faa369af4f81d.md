@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.816faa369af4f81d105824ce897be7b12f78cc9b63af52be3ddea9c705993a44
-symbol: "scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasPointerController.#ctor(InnoEditor.Graph.GraphCanvasState)"
-source: xml
-reviewed: f8b806909991b931ab34a9ac90783160be5dc0edd2e910b390729242f57ef948
-title: "GraphCanvasPointerController.Constructor"
+symbol: scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasPointerController.#ctor(InnoEditor.Graph.GraphCanvasState)
+title: GraphCanvasPointerController.Constructor
 kind: api
-owners: [Inno.Editor.Graph.ImGui]
+owners:
+- Inno.Editor.Graph.ImGui
 apiSurface: editor-script
+reviewed: f8b806909991b931ab34a9ac90783160be5dc0edd2e910b390729242f57ef948
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a pointer owner over existing document navigation and selection state.

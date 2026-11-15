@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c407ba4ffe58b54bb4eab099e266581767fd727ebd51779833b989e22779b905
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.Converters.SerializationConverter.#ctor"
-source: xml
-reviewed: 3645c0c39fdcc711c4d8a972d5922252ee2a42eb99695471dd87a2e0f90c6565
-title: "SerializationConverter.Constructor"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.Converters.SerializationConverter.#ctor
+title: SerializationConverter.Constructor
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: 3645c0c39fdcc711c4d8a972d5922252ee2a42eb99695471dd87a2e0f90c6565
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

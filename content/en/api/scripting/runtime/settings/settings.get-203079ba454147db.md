@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.203079ba454147db3cf7ae8677f0f5b9794272aeaf0cb629e9e3da5464b79eab
-symbol: "scripting:Inno.Core.Settings:M:InnoEngine.Settings.Settings.Get\u0060\u00601(InnoEngine.Settings.ProjectSettingId)"
-source: xml
-reviewed: 20a34839212e6b11ea67a5ebf69771657f66586e9f69cfa74fea0b46795ab3a6
-title: "Settings.Get"
+symbol: scripting:Inno.Core.Settings:M:InnoEngine.Settings.Settings.Get``1(InnoEngine.Settings.ProjectSettingId)
+title: Settings.Get
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: editor-script
+reviewed: 20a34839212e6b11ea67a5ebf69771657f66586e9f69cfa74fea0b46795ab3a6
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets an isolated effective setting from the current extension generation.

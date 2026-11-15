@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f4cf5e273a8aac5841e166b594bc6aa97f9aa397a979812b158ef9f9c327fdde
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeCMakeSource.ResolveDefinition(System.String)"
-source: xml
-reviewed: ec353a97fa477c1f8dbf17987d41b1231eb7eb81b3e4d618fba7f980233c5f4b
-title: "NativeCMakeSource.ResolveDefinition"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeCMakeSource.ResolveDefinition(System.String)
+title: NativeCMakeSource.ResolveDefinition
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: ec353a97fa477c1f8dbf17987d41b1231eb7eb81b3e4d618fba7f980233c5f4b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves declared input paths in one CMake definition without redirecting output or SDK locations.

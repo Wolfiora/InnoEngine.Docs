@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.45853b5d16fc092627ff31d86b8a904c1910ab253a4208010e93cc2cd81cde0d
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderBufferHandle.ToString"
-source: xml
-reviewed: 88c81690dd870b7d7c5c349a665226b8abc6d4036c7b6602724b7ada0daad1da
-title: "RenderBufferHandle.ToString"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderBufferHandle.ToString
+title: RenderBufferHandle.ToString
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 88c81690dd870b7d7c5c349a665226b8abc6d4036c7b6602724b7ada0daad1da
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the fully qualified type name of this instance.

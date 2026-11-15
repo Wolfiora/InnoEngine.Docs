@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b2c5b7f5d1034c2adf3de957ae2a2a58bbd3c0b7df73aac8aaaf341c46cd956c
-symbol: "engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Color.b"
-source: xml
-reviewed: b51d681a99863c270915f4cf590184df87c88426f07ff9a6551d59c4bfa56c6b
-title: "Color.b"
+symbol: engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Color.b
+title: Color.b
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: b51d681a99863c270915f4cf590184df87c88426f07ff9a6551d59c4bfa56c6b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The blue color component.

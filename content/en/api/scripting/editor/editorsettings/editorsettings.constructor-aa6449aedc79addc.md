@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.aa6449aedc79addcaf1aae137320455c4fd2da81db2164c6663639ef74c83f66
-symbol: "scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettings.#ctor"
-source: xml
-reviewed: 2a5f85a71c6dbb2d85bf4e776c3225d8a287497df6562ad08f7e5d01cc9bd888
-title: "EditorSettings.Constructor"
+symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettings.#ctor
+title: EditorSettings.Constructor
 kind: api
-owners: [Inno.Editor.Settings]
+owners:
+- Inno.Editor.Settings
 apiSurface: editor-script
+reviewed: 2a5f85a71c6dbb2d85bf4e776c3225d8a287497df6562ad08f7e5d01cc9bd888
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Appears in the generated script reference without a matching public or protected engine constructor.

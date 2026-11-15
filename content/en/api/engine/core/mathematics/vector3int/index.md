@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.mathematics.80b282805223ff8f
-symbol: "engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.Vector3Int"
-source: xml
-reviewed: c041c480246c172c05ff593b3588258361c3773503f7e2a0e9ba18a9e47feff7
-title: "Vector3Int"
+symbol: engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.Vector3Int
+title: Vector3Int
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: c041c480246c172c05ff593b3588258361c3773503f7e2a0e9ba18a9e47feff7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-core-mathematics#numeric-and-layout-contract
 aliases: []

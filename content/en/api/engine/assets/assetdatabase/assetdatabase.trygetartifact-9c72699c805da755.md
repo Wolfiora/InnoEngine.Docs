@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9c72699c805da75557e67d2cf01c87588be8995fb44d84ee493e326e546a218a
-symbol: "engine:Inno.Assets:M:Inno.Assets.AssetDatabase.TryGetArtifact(System.Guid,System.String,Inno.Assets.AssetArtifactInfo@)"
-source: xml
-reviewed: 4d0120fc46d743e1abec95f6a3c0ce98d8dedfcc8ebc8e93eac9923cb002d5b8
-title: "AssetDatabase.TryGetArtifact"
+symbol: engine:Inno.Assets:M:Inno.Assets.AssetDatabase.TryGetArtifact(System.Guid,System.String,Inno.Assets.AssetArtifactInfo@)
+title: AssetDatabase.TryGetArtifact
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: 4d0120fc46d743e1abec95f6a3c0ce98d8dedfcc8ebc8e93eac9923cb002d5b8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tries to resolve one named immutable artifact output by persistent asset identity.

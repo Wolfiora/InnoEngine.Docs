@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d12d511d541850c22d2432bb52d6cc235adc2575026b60c3fc33857c7a356d5f
-symbol: "engine:Inno.Audio:M:Inno.Audio.AudioProcessorParameter.Equals(Inno.Audio.AudioProcessorParameter)"
-source: xml
-reviewed: bac3bbaca718b5fca165fb511810149492f6d49e50c959ca45b21e74c71a676b
-title: "AudioProcessorParameter.Equals"
+symbol: engine:Inno.Audio:M:Inno.Audio.AudioProcessorParameter.Equals(Inno.Audio.AudioProcessorParameter)
+title: AudioProcessorParameter.Equals
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: bac3bbaca718b5fca165fb511810149492f6d49e50c959ca45b21e74c71a676b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

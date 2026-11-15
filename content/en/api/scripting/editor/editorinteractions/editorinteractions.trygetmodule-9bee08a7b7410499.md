@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9bee08a7b7410499b6085838ff3715773758631aac60c28e2cfa3858f6399c73
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.TryGetModule\u0060\u00601(\u0060\u00600@)"
-source: xml
-reviewed: f3700a5b5cfbd6ac21453ba4adf0c7785800f4f572c2de90fb0cfbb0557eccd8
-title: "EditorInteractions.TryGetModule"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.TryGetModule``1(``0@)
+title: EditorInteractions.TryGetModule
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: f3700a5b5cfbd6ac21453ba4adf0c7785800f4f572c2de90fb0cfbb0557eccd8
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves an active feature module for immediate use in the current Editor callback.

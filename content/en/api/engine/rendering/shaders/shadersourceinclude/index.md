@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.shaders.645b08a55926df12
-symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderSourceInclude"
-source: xml
-reviewed: 40885e8e6af3b5c32aed49aa8133409dbf286dab31be308886502a635d7bcb55
-title: "ShaderSourceInclude"
+symbol: engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderSourceInclude
+title: ShaderSourceInclude
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: 40885e8e6af3b5c32aed49aa8133409dbf286dab31be308886502a635d7bcb55
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-rendering-shaders
 aliases: []

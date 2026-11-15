@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.33986aee50aa16a12e59b24aa1f0f9a475959792f377392f1e985af9d390f494
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingIncludeDirectory.#ctor(System.String,System.String,System.Boolean,System.Boolean)"
-source: xml
-reviewed: c2fa66c27dc815e2355b3db33538f9d146d2f66faee0d957e406e9e6ec41deeb
-title: "NativeBindingIncludeDirectory.Constructor"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingIncludeDirectory.#ctor(System.String,System.String,System.Boolean,System.Boolean)
+title: NativeBindingIncludeDirectory.Constructor
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: c2fa66c27dc815e2355b3db33538f9d146d2f66faee0d957e406e9e6ec41deeb
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Preserves the order and search semantics of one native include requirement.

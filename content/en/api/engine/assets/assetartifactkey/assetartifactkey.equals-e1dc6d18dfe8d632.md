@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e1dc6d18dfe8d6321691906d8c33ecc3ef9310867f91aa74336c0c28e2eab8b9
-symbol: "engine:Inno.Assets:M:Inno.Assets.AssetArtifactKey.Equals(Inno.Assets.AssetArtifactKey)"
-source: xml
-reviewed: 0c192f176d136f4d90606292c16f6f1c8978df3585447f7b59f9f68e0edc7fab
-title: "AssetArtifactKey.Equals"
+symbol: engine:Inno.Assets:M:Inno.Assets.AssetArtifactKey.Equals(Inno.Assets.AssetArtifactKey)
+title: AssetArtifactKey.Equals
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: 0c192f176d136f4d90606292c16f6f1c8978df3585447f7b59f9f68e0edc7fab
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether this instance and the supplied value represent the same logical state.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.69a67dbc964bfe99308ad43a1258b4c730056d047ee2c641e0f986dd03dd2e80
-symbol: "scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationRegistry.CapturePropertiesData(InnoEngine.Serialization.ISerializable,InnoEngine.Serialization.SerializationContext)"
-source: xml
-reviewed: eed9bd6e1271dd95b22a8abe090b76e51c6c27f42e89e0ddf8e9db4eb8f73b6a
-title: "SerializationRegistry.CapturePropertiesData"
+symbol: scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationRegistry.CapturePropertiesData(InnoEngine.Serialization.ISerializable,InnoEngine.Serialization.SerializationContext)
+title: SerializationRegistry.CapturePropertiesData
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: editor-script
+reviewed: eed9bd6e1271dd95b22a8abe090b76e51c6c27f42e89e0ddf8e9db4eb8f73b6a
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures every persistent property as neutral bytes without serializing the owning object graph.

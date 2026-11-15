@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.52888311329413422d4329e93c892e2ded72d0d259a2ececc19367294017b08b
-symbol: "engine:Inno.UI:M:Inno.UI.IUiBackend.Render(Inno.UI.UiContextHandle)"
-source: xml
-reviewed: 2782956630b426e42ec570bb6272b275ca459aa5dab3686aa85abeb111e239f3
-title: "IUiBackend.Render"
+symbol: engine:Inno.UI:M:Inno.UI.IUiBackend.Render(Inno.UI.UiContextHandle)
+title: IUiBackend.Render
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: 2782956630b426e42ec570bb6272b275ca459aa5dab3686aa85abeb111e239f3
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Builds an immutable frame of incremental resources and ordered draws.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.365642b8380a2a29ecc00c1607aa23f68813f7a7125e090cca1e9d2ed3b5f56e
-symbol: "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.BuildCacheCleanupResult.timeLimitReached"
-source: xml
-reviewed: fd47dc29b78f8d978ffed8315754f8d60c15e9887d16a1f735876c8bd5b09d99
-title: "BuildCacheCleanupResult.timeLimitReached"
+symbol: engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.BuildCacheCleanupResult.timeLimitReached
+title: BuildCacheCleanupResult.timeLimitReached
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: fd47dc29b78f8d978ffed8315754f8d60c15e9887d16a1f735876c8bd5b09d99
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether the bounded attempt ended before processing all eligible candidates.

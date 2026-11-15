@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5f28e67612ce261a391d3d65e0f6d5bec6e41d199baac583578733bb21f867fd
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.Binary(Inno.Rendering.Shaders.ShaderIrOperation,Inno.Rendering.Shaders.ShaderIrValue,Inno.Rendering.Shaders.ShaderIrValue)"
-source: xml
-reviewed: f7f719307b531d396692b35debd104887d521415c689c124c996f175aff81e10
-title: "ShaderIrBuilder.Binary"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.Binary(Inno.Rendering.Shaders.ShaderIrOperation,Inno.Rendering.Shaders.ShaderIrValue,Inno.Rendering.Shaders.ShaderIrValue)
+title: ShaderIrBuilder.Binary
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: f7f719307b531d396692b35debd104887d521415c689c124c996f175aff81e10
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Applies an explicitly typed binary arithmetic or scalar comparison operation.

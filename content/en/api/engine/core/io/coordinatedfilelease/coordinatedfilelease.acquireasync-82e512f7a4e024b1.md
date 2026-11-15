@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.82e512f7a4e024b1fb4173c682c09ad546a2b5bba4e5725fc07f06db88814080
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.CoordinatedFileLease.AcquireAsync(System.String,System.String,System.TimeSpan,System.Boolean,System.Threading.CancellationToken)"
-source: xml
-reviewed: e71eeb1fa7c3586208fd92bc4a6d23fcf1868e206dedf1023367652501ae6d8f
-title: "CoordinatedFileLease.AcquireAsync"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.CoordinatedFileLease.AcquireAsync(System.String,System.String,System.TimeSpan,System.Boolean,System.Threading.CancellationToken)
+title: CoordinatedFileLease.AcquireAsync
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: e71eeb1fa7c3586208fd92bc4a6d23fcf1868e206dedf1023367652501ae6d8f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Acquires owner reading rights before opening or waiting for a leaf lease.

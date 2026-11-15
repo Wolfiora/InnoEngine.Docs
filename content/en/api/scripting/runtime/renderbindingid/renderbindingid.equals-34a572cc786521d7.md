@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.34a572cc786521d7a2bf80b2046a41a6cb11e148261bc49804b52e6d4f3dc06b
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderBindingId.Equals(System.Object)"
-source: xml
-reviewed: 11ac1f38a9ba3f8ec4d47a4d75de40a49c82e127b1d8122d3d97b6dd627da9ec
-title: "RenderBindingId.Equals"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderBindingId.Equals(System.Object)
+title: RenderBindingId.Equals
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 11ac1f38a9ba3f8ec4d47a4d75de40a49c82e127b1d8122d3d97b6dd627da9ec
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

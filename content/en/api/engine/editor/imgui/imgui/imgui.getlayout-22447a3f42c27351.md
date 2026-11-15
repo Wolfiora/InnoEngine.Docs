@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.22447a3f42c27351132fc6cc9a2ee66742e0a134228a902e83d3b897bcb79fab
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.GetLayout"
-source: xml
-reviewed: 692021e397dd7137d76f5b072191be75059c570f7c405fc176a93468ffcc92b9
-title: "ImGui.GetLayout"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.GetLayout
+title: ImGui.GetLayout
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 692021e397dd7137d76f5b072191be75059c570f7c405fc176a93468ffcc92b9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Copies the current UI layout metrics.

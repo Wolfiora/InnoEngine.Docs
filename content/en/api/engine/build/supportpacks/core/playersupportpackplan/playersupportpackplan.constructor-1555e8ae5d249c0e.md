@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1555e8ae5d249c0ef47792fef678de36e8fc55e722efe0ce5bace32237f817f7
-symbol: "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPlan.#ctor(Inno.Build.BuildTargetId,System.String)"
-source: xml
-reviewed: aa1ffc9f95a0f32cd5888300e030683af8228b60ef1f0a0867090df0b9a6be23
-title: "PlayerSupportPackPlan.Constructor"
+symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPlan.#ctor(Inno.Build.BuildTargetId,System.String)
+title: PlayerSupportPackPlan.Constructor
 kind: api
-owners: [Inno.Build.SupportPacks.Core]
+owners:
+- Inno.Build.SupportPacks.Core
 apiSurface: source-clr
+reviewed: aa1ffc9f95a0f32cd5888300e030683af8228b60ef1f0a0867090df0b9a6be23
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Fixes the publication identity before preparation is permitted.

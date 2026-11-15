@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3ab8c34b3e66d23716d4a6ea61922fab3e6791cbf7ec62fac610b047ba94206f
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorAction\u00601.Query(Inno.Editor.Interactions.EditorActionContext)"
-source: xml
-reviewed: 275d6203cd4a5754b26e9130edd44142e3c3b09f0bccd0777eac046ad83f5912
-title: "EditorAction\u003CTTarget\u003E.Query"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorAction`1.Query(Inno.Editor.Interactions.EditorActionContext)
+title: EditorAction<TTarget>.Query
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 275d6203cd4a5754b26e9130edd44142e3c3b09f0bccd0777eac046ad83f5912
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Evaluates the operation's current availability and presentation state.

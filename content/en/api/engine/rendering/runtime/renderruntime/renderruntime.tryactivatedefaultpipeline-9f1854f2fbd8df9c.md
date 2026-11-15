@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9f1854f2fbd8df9c982f382da4466200df4653fd6953ccc7273b73bc534ec12d
-symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRuntime.TryActivateDefaultPipeline(Inno.Rendering.Assets.RenderPipelineAsset)"
-source: xml
-reviewed: 95a2ebbba22fbf016df0aaeeab43d359bfef6e9a78888f3c5314a64276441e21
-title: "RenderRuntime.TryActivateDefaultPipeline"
+symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRuntime.TryActivateDefaultPipeline(Inno.Rendering.Assets.RenderPipelineAsset)
+title: RenderRuntime.TryActivateDefaultPipeline
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: 95a2ebbba22fbf016df0aaeeab43d359bfef6e9a78888f3c5314a64276441e21
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Validates and selects a project default while preserving its last-good generation.

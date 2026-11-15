@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.runtime-script.eb7264955ebe0f7f
-symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.ShaderPropertyType"
-source: xml
-reviewed: aaa67beafdbd6b0819432eda8e1e1f297c096f54f6e94e42ab0f166613977a76
-title: "ShaderPropertyType"
+symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.ShaderPropertyType
+title: ShaderPropertyType
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: aaa67beafdbd6b0819432eda8e1e1f297c096f54f6e94e42ab0f166613977a76
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-rendering

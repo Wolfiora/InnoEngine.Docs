@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.20c7d42657304156e328f59aac6fba21d06373291e3a68f8959f70abf640d956
-symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IViewPointerTarget.TryHit(Inno.Rendering.Runtime.RenderView,Inno.Rendering.Runtime.RenderOutputInput,Inno.Core.Mathematics.Vector2@)"
-source: xml
-reviewed: dbf2ff6ed2ba5c46175c2fa63234b426a5caceac0ea01df580d9cf5e0db389d5
-title: "IViewPointerTarget.TryHit"
+symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IViewPointerTarget.TryHit(Inno.Rendering.Runtime.RenderView,Inno.Rendering.Runtime.RenderOutputInput,Inno.Core.Mathematics.Vector2@)
+title: IViewPointerTarget.TryHit
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: dbf2ff6ed2ba5c46175c2fa63234b426a5caceac0ea01df580d9cf5e0db389d5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Maps one output pointer onto this item's local surface.

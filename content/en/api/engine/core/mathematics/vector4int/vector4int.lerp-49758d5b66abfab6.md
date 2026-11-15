@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.49758d5b66abfab68a73ad979232a608f485b4fb62f18fedf61865bade105eab
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector4Int.Lerp(Inno.Core.Mathematics.Vector4Int,Inno.Core.Mathematics.Vector4Int,System.Single)"
-source: xml
-reviewed: 04fa1349b30a93a520f6e55c9341d9c9078ad363b37ad149a5d1f46df11b37f1
-title: "Vector4Int.Lerp"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector4Int.Lerp(Inno.Core.Mathematics.Vector4Int,Inno.Core.Mathematics.Vector4Int,System.Single)
+title: Vector4Int.Lerp
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 04fa1349b30a93a520f6e55c9341d9c9078ad363b37ad149a5d1f46df11b37f1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Clamps the interpolation factor to \[0, 1\] and truncates each interpolated component to an integer.

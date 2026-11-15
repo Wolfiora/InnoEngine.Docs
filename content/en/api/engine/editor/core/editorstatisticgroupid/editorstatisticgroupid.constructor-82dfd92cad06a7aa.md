@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.82dfd92cad06a7aa232049ea52a20d1366b0eccde7890b824892fe4dad18fa88
-symbol: "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorStatisticGroupId.#ctor(System.String)"
-source: xml
-reviewed: 40989f31294965273552303caa8da94502245297d704868b92b1d8802e51a941
-title: "EditorStatisticGroupId.Constructor"
+symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorStatisticGroupId.#ctor(System.String)
+title: EditorStatisticGroupId.Constructor
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: source-clr
+reviewed: 40989f31294965273552303caa8da94502245297d704868b92b1d8802e51a941
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a globally stable statistic-group identifier.

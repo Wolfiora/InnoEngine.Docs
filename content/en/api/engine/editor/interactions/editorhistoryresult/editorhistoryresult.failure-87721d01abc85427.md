@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.87721d01abc85427ed675b54d492e04bdbb45ea0521a4516edd7e45072f8193a
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorHistoryResult.Failure(System.String)"
-source: xml
-reviewed: 8d0992d4b920cd1cf5381ad3ca57bdc565d64880f3791b09e53d77f05aa72344
-title: "EditorHistoryResult.Failure"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorHistoryResult.Failure(System.String)
+title: EditorHistoryResult.Failure
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 8d0992d4b920cd1cf5381ad3ca57bdc565d64880f3791b09e53d77f05aa72344
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a failed history result without changing the owning history stack.

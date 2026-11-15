@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.490dfd620da183f4de6c7b5b4aa087a01ac192cb04d717b2ef996a7b108da7fd
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderTexture.Resize(Inno.Rendering.RenderTextureDescriptor)"
-source: xml
-reviewed: 8dacdff2fb67c13de66c8908dd5ff4b2871a4c53e95b8ed824ccff8f83b23efe
-title: "RenderTexture.Resize"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderTexture.Resize(Inno.Rendering.RenderTextureDescriptor)
+title: RenderTexture.Resize
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 8dacdff2fb67c13de66c8908dd5ff4b2871a4c53e95b8ed824ccff8f83b23efe
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Replaces texture requirements at the next render-frame safety point.

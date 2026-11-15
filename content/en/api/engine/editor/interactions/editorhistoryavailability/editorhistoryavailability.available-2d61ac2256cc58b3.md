@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2d61ac2256cc58b3573b2f823e83606ea8944d555a1b26afa1d64ec5bfbb1252
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorHistoryAvailability.Available"
-source: xml
-reviewed: d2801c23689b1d1fbe9e7ec078bb7479019539e62bb20032da7d2cc6087d8e8e
-title: "EditorHistoryAvailability.Available"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorHistoryAvailability.Available
+title: EditorHistoryAvailability.Available
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: d2801c23689b1d1fbe9e7ec078bb7479019539e62bb20032da7d2cc6087d8e8e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an available transition result.

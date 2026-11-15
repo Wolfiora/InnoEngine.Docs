@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c5e924ef7eb7c1bb49a2341fa9158150886a3581849efd1a54d47740726fea34
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector4Int.ToString"
-source: xml
-reviewed: 533af442e0369113b99db1506e14caca8871027f71bbfd894601bd2e878b4c6a
-title: "Vector4Int.ToString"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector4Int.ToString
+title: Vector4Int.ToString
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 533af442e0369113b99db1506e14caca8871027f71bbfd894601bd2e878b4c6a
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Formats this value as a human-readable component list.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.3ffa79c29c7054e80ff8aa09231f650507de67a888dfc137dd280a6ddc5f85c9
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphNodes.Expand(Inno.Core.Graphs.GraphDocument,System.Func{System.Guid,System.String,Inno.Core.Graphs.GraphDocument},Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)"
-source: xml
-reviewed: 3c3028ced85a75803544411410e58148601e20f13fb6f8e9951473eb9024d8ae
-title: "ShaderGraphNodes.Expand"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphNodes.Expand(Inno.Core.Graphs.GraphDocument,System.Func{System.Guid,System.String,Inno.Core.Graphs.GraphDocument},Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)
+title: ShaderGraphNodes.Expand
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: 3c3028ced85a75803544411410e58148601e20f13fb6f8e9951473eb9024d8ae
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Expands every inline graph-node reference and refreshes domain-output interfaces.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d00ea0cee5e5bd00839166dbca15fddc1f9d691646dc99b432ece29c6983f29d
-symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettings.ListenChanges(System.Action{Inno.Editor.Settings.EditorSettings})"
-source: xml
-reviewed: 05e70ec5b1c028c9bf195b901009ab6d38808a139e50c561e6784c18e2843fbc
-title: "EditorSettings.ListenChanges"
+symbol: engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettings.ListenChanges(System.Action{Inno.Editor.Settings.EditorSettings})
+title: EditorSettings.ListenChanges
 kind: api
-owners: [Inno.Editor.Settings]
+owners:
+- Inno.Editor.Settings
 apiSurface: source-clr
+reviewed: 05e70ec5b1c028c9bf195b901009ab6d38808a139e50c561e6784c18e2843fbc
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Observes committed Apply, Undo and Redo changes through an owned Core Event hub.

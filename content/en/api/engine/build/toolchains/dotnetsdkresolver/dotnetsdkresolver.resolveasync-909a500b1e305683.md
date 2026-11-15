@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.909a500b1e30568330ca62b2b40059e3ec6fb166d21c4b146701a4cf04ae2c0a
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.DotNetSdkResolver.ResolveAsync(System.String,System.String,System.Threading.CancellationToken)"
-source: xml
-reviewed: 66b08ebcb10624494319a122e8d097c5f0fa287789c24436da08815026af140e
-title: "DotNetSdkResolver.ResolveAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.DotNetSdkResolver.ResolveAsync(System.String,System.String,System.Threading.CancellationToken)
+title: DotNetSdkResolver.ResolveAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 66b08ebcb10624494319a122e8d097c5f0fa287789c24436da08815026af140e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Asks the selected host to resolve its SDK from the project location without guessing installed versions.

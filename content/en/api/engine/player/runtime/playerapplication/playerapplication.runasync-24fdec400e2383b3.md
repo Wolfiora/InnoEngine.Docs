@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.24fdec400e2383b3eff322d6fabfadf5f8b28fdc7b8757cfbb42802b0dffdf6a
-symbol: "engine:Inno.Player.Runtime:M:Inno.Player.Runtime.PlayerApplication.RunAsync(Inno.Player.Runtime.PlayerLaunchOptions,System.Threading.CancellationToken)"
-source: xml
-reviewed: db54f2225ddb9b593adb0550e70d7abb8411b5d0994f58c55881961b861b5c40
-title: "PlayerApplication.RunAsync"
+symbol: engine:Inno.Player.Runtime:M:Inno.Player.Runtime.PlayerApplication.RunAsync(Inno.Player.Runtime.PlayerLaunchOptions,System.Threading.CancellationToken)
+title: PlayerApplication.RunAsync
 kind: api
-owners: [Inno.Player.Runtime]
+owners:
+- Inno.Player.Runtime
 apiSurface: source-clr
+reviewed: db54f2225ddb9b593adb0550e70d7abb8411b5d0994f58c55881961b861b5c40
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Runs a frozen game deployment using explicitly supplied host services.

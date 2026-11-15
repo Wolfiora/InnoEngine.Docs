@@ -119,7 +119,7 @@ test('Scope labels and independent member editing reflect canonical ownership', 
   await expect(page.getByRole('main').getByRole('link', { name: 'Edit this page on GitHub', exact: true })).toHaveCount(1);
   await expect(page.getByRole('main').getByRole('link', { name: 'SceneManager', exact: true })).toBeVisible();
   await expect(page.getByRole('main')).not.toContainText('XML-synced');
-  const tip = page.locator('aside.documentation-tip');
+  const tip = page.locator('aside.api-status-synced');
   await expect(tip).toContainText('synchronized from the source XML');
   expect(await tip.evaluate(element => !!(element.compareDocumentPosition(document.getElementById('required-contracts')!) & Node.DOCUMENT_POSITION_FOLLOWING))).toBe(true);
   const actions = page.locator('.source-actions');
@@ -179,8 +179,8 @@ test('sidebar rows align controls, distinguish root disclosures and grow within 
   await expect(api.locator('.chevron')).toHaveCount(1);
   const initialWidth = await page.locator('.sidebar-pane').evaluate(el => el.getBoundingClientRect().width);
   await api.click();
-  for (const name of ['Engine', 'Adapter', 'Audio']) {
-    const button = sidebar.getByRole('button', { name: `Toggle ${name}`, exact: true });
+  for (const path of ['engine', 'engine/adapter', 'engine/adapter/audio']) {
+    const button = sidebar.locator(`li[data-key="/InnoEngine.Docs/api/${path}/"] > .nav-row > button`);
     await button.click();
     await expect(button).toHaveAttribute('aria-expanded', 'true');
     await expect(button.locator('.chevron')).toHaveCount(0);
@@ -246,11 +246,13 @@ test('XML summaries lead the page and project metadata sits directly above inher
   const order = await main.evaluate(element => {
     const heading = element.querySelector('h1')!;
     const summary = (heading.closest('.sl-heading-wrapper') ?? heading).nextElementSibling;
-    const inherits = [...element.querySelectorAll('p')].find(p=>p.textContent?.startsWith('Inherits:'))!;
-    return { summary: summary?.textContent, project: inherits.previousElementSibling?.textContent };
+    const metadata = [...element.querySelectorAll('p')].find(p=>p.textContent?.startsWith('Project:'))!;
+    return { summary: summary?.textContent, project: metadata.textContent, breaks: metadata.querySelectorAll('br').length };
   });
   expect(order.summary).toContain('Starts a visually separated Inspector section');
   expect(order.project).toContain('Project: Inno.Editor.Annotations');
+  expect(order.project).toContain('Inherits:');
+  expect(order.breaks).toBeGreaterThan(0);
   await page.screenshot({ path: testInfo.outputPath('xml-summary-and-metadata.png') });
   await page.goto('api/engine/core/collections/');
   await main.getByRole('link', { name: 'DependencyGraph<TKey>', exact: true }).click();
@@ -281,7 +283,8 @@ test('type members form one compact table and manual explanations have no XML no
   await table.scrollIntoViewIfNeeded();
   await page.screenshot({ path: testInfo.outputPath('api-members-table.png') });
   await page.goto('api/engine/core/identity/identityobject/');
-  await expect(page.locator('aside.documentation-tip')).toHaveCount(0);
+  await expect(page.locator('aside.api-status-synced')).toHaveCount(0);
+  await expect(page.locator('aside.api-status-verified, aside.api-status-outdated')).toHaveCount(1);
   await expect(page.locator('.source-actions a').first()).toHaveText('Source declaration');
 });
 

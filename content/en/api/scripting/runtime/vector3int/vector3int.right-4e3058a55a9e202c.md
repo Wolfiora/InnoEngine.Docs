@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4e3058a55a9e202c4fbb1661196e26bad5d80297d4a877f6800337ca969bfc9f
-symbol: "scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Vector3Int.RIGHT"
-source: xml
-reviewed: bc5f83fc8f24cfbeee7c5fae6ba24ee637b1e31c45adce9003309604d3c154e1
-title: "Vector3Int.RIGHT"
+symbol: scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Vector3Int.RIGHT
+title: Vector3Int.RIGHT
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: bc5f83fc8f24cfbeee7c5fae6ba24ee637b1e31c45adce9003309604d3c154e1
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The right value used as part of this type's public representation.

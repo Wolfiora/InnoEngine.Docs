@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a2afd77c45b0c392fc0c49873e69b45a8ca3d73bdbd1c744840a4622a7caf5e0
-symbol: "engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.EditorDropWidgetResult.none"
-source: xml
-reviewed: 22b6d24b69656f6ca27707ea504f89de44520b4d499c546550280c47411ad996
-title: "EditorDropWidgetResult.none"
+symbol: engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.EditorDropWidgetResult.none
+title: EditorDropWidgetResult.none
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 22b6d24b69656f6ca27707ea504f89de44520b4d499c546550280c47411ad996
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets an inactive drop target result.

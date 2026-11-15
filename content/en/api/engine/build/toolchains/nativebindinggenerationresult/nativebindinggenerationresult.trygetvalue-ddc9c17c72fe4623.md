@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ddc9c17c72fe462367eef88bdc51ae4cd38dc2708c05c09e0ff03f8594fd949a
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationResult.TryGetValue(System.String,Inno.Build.Toolchains.NativeBindingGenerationDescriptor@)"
-source: xml
-reviewed: e57a6a88f3aeab35fa66d89f5a7419fbc5d6ed01e75e6b2104aa3b2636ae43cd
-title: "NativeBindingGenerationResult.TryGetValue"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationResult.TryGetValue(System.String,Inno.Build.Toolchains.NativeBindingGenerationDescriptor@)
+title: NativeBindingGenerationResult.TryGetValue
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: e57a6a88f3aeab35fa66d89f5a7419fbc5d6ed01e75e6b2104aa3b2636ae43cd
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the value that is associated with the specified key.

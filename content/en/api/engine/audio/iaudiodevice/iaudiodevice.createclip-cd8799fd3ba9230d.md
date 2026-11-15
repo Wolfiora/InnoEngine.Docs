@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cd8799fd3ba9230d8bb244652bfce696d9ad9f0d46ac4726e0f2423f6c8d68fa
-symbol: "engine:Inno.Audio:M:Inno.Audio.IAudioDevice.CreateClip(Inno.Audio.AudioClipDescriptor,Inno.Audio.IAudioClipSource)"
-source: xml
-reviewed: 83e9babfde894da9a8720fb5c1e4af13063abde419bd6d4f11846887b449fdac
-title: "IAudioDevice.CreateClip"
+symbol: engine:Inno.Audio:M:Inno.Audio.IAudioDevice.CreateClip(Inno.Audio.AudioClipDescriptor,Inno.Audio.IAudioClipSource)
+title: IAudioDevice.CreateClip
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 83e9babfde894da9a8720fb5c1e4af13063abde419bd6d4f11846887b449fdac
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Starts preparation of one decoded or streamed clip from immutable encoded content.

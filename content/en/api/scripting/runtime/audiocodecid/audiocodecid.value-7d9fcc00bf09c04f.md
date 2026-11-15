@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7d9fcc00bf09c04f6023557d1d5a17626bb42c799ecf8f91678f693bb1c6fb48
-symbol: "scripting:Inno.Audio:P:InnoEngine.Audio.AudioCodecId.value"
-source: xml
-reviewed: 3cdcc8e566c4696b464451567114c11118efbe92b49b18d35145a0feb824d23d
-title: "AudioCodecId.value"
+symbol: scripting:Inno.Audio:P:InnoEngine.Audio.AudioCodecId.value
+title: AudioCodecId.value
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: 3cdcc8e566c4696b464451567114c11118efbe92b49b18d35145a0feb824d23d
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the globally stable protocol value.

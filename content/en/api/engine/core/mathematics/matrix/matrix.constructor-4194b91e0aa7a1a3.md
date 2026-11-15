@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4194b91e0aa7a1a36015d6b632f0a1f38d703e9f6a672dbf260ffe482d3d5f48
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.#ctor(System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)"
-source: xml
-reviewed: 45d98ca063a3fe6fe60f44702cf3b889a2173c9bb5d12059a1240495860c9984
-title: "Matrix.Constructor"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.#ctor(System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)
+title: Matrix.Constructor
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 45d98ca063a3fe6fe60f44702cf3b889a2173c9bb5d12059a1240495860c9984
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Initializes a 4x4 matrix with explicit row-major elements.

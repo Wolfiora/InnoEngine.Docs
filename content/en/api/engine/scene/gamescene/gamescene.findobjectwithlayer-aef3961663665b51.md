@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.aef3961663665b51ddf0d7c41a3a3bfa6a3c90d9a4c7cd6ea9e2d48bd600b79f
-symbol: "engine:Inno.Scene:M:Inno.Scene.GameScene.FindObjectWithLayer(Inno.Scene.Layers.GameLayer)"
-source: xml
-reviewed: 3615d2a46186831a878009eb990636b5f7286af851b7f1b719104b301c0a3923
-title: "GameScene.FindObjectWithLayer"
+symbol: engine:Inno.Scene:M:Inno.Scene.GameScene.FindObjectWithLayer(Inno.Scene.Layers.GameLayer)
+title: GameScene.FindObjectWithLayer
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 3615d2a46186831a878009eb990636b5f7286af851b7f1b719104b301c0a3923
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Finds the first game object assigned to a layer in scene storage order.

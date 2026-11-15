@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c43f1db3e78fb952465bd806677110453c6ef946249ab88b7a904aca03637c16
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.IEditorHistory.Execute(System.String,Inno.Editor.Interactions.EditorHistoryChange)"
-source: xml
-reviewed: 3e4c5737ac813fe0eb9d3d8a236362d6fc9c2474977afa7a06e1d4e529829e58
-title: "IEditorHistory.Execute"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.IEditorHistory.Execute(System.String,Inno.Editor.Interactions.EditorHistoryChange)
+title: IEditorHistory.Execute
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 3e4c5737ac813fe0eb9d3d8a236362d6fc9c2474977afa7a06e1d4e529829e58
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Applies and records a neutral change through its current-generation handler.

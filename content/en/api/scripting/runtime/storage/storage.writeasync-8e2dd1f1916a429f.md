@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8e2dd1f1916a429f8bc4f29abd75aaf3264686b6690cae0ff4e56321b26db9ae
-symbol: "scripting:Inno.Storage:M:InnoEngine.Storage.Storage.WriteAsync(InnoEngine.Storage.StorageKey,System.ReadOnlyMemory{System.Byte},System.Threading.CancellationToken)"
-source: xml
-reviewed: 1c31f7c81227f5347da1796376fbd4ba577f27a2b9809ab500bc25cd28941511
-title: "Storage.WriteAsync"
+symbol: scripting:Inno.Storage:M:InnoEngine.Storage.Storage.WriteAsync(InnoEngine.Storage.StorageKey,System.ReadOnlyMemory{System.Byte},System.Threading.CancellationToken)
+title: Storage.WriteAsync
 kind: api
-owners: [Inno.Storage]
+owners:
+- Inno.Storage
 apiSurface: editor-script
+reviewed: 1c31f7c81227f5347da1796376fbd4ba577f27a2b9809ab500bc25cd28941511
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Atomically replaces a complete value.

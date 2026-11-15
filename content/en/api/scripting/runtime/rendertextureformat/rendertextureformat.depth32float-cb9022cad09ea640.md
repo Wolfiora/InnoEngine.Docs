@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cb9022cad09ea640f26a2d51a8807065f633dc73e6a11f605ad9c1e4f31531c3
-symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderTextureFormat.Depth32Float"
-source: xml
-reviewed: 88e56d1d8fbe1b9cd194211deed0d4f456148a479512ad81f5e4b47e228bb805
-title: "RenderTextureFormat.Depth32Float"
+symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderTextureFormat.Depth32Float
+title: RenderTextureFormat.Depth32Float
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 88e56d1d8fbe1b9cd194211deed0d4f456148a479512ad81f5e4b47e228bb805
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Thirty-two-bit floating-point depth format.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.441ef0fb2b9b18b67a9c73b0913163e9bf9bc6d1439894837a31360264e519cb
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.ImportBuffer(System.String,InnoEngine.Rendering.PersistentBufferHandle,InnoEngine.Rendering.RenderBufferDescriptor)"
-source: xml
-reviewed: 354f72657cf44cecec37aa8734bd53674625290b7f9ee11e16f40aa45cc25f9b
-title: "RenderGraphBuilder.ImportBuffer"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.ImportBuffer(System.String,InnoEngine.Rendering.PersistentBufferHandle,InnoEngine.Rendering.RenderBufferDescriptor)
+title: RenderGraphBuilder.ImportBuffer
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 354f72657cf44cecec37aa8734bd53674625290b7f9ee11e16f40aa45cc25f9b
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Imports a persistent device buffer into the current graph.

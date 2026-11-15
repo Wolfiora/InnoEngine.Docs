@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7e668344c3405954c8c850c93ae8a196f68ba3a8ddfe41a199b8c52795387f24
-symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingsExecutionContext.EnterScope(Inno.Core.Settings.IProjectSettingsLookup)"
-source: xml
-reviewed: ff9e19bac336789e7f4b475eb1390bbd05ffaabe178ae105d527da5142d68f9f
-title: "ProjectSettingsExecutionContext.EnterScope"
+symbol: engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingsExecutionContext.EnterScope(Inno.Core.Settings.IProjectSettingsLookup)
+title: ProjectSettingsExecutionContext.EnterScope
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: source-clr
+reviewed: ff9e19bac336789e7f4b475eb1390bbd05ffaabe178ae105d527da5142d68f9f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Binds a settings lookup until the returned strict last-in-first-out scope is disposed.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cede2a6d0fb61b9503994a89aea458d90579ce4b32b1a42616be9fc5bdc2170f
-symbol: "engine:Inno.Core.Identity:M:Inno.Core.Identity.IdentityAllocator.Get\u0060\u00601(System.Guid)"
-source: xml
-reviewed: 088e8bd0c6d6e55abbc306d259cedd6560d3b09d671f3c17b174672f1e59c057
-title: "IdentityAllocator.Get"
+symbol: engine:Inno.Core.Identity:M:Inno.Core.Identity.IdentityAllocator.Get``1(System.Guid)
+title: IdentityAllocator.Get
 kind: api
-owners: [Inno.Core.Identity]
+owners:
+- Inno.Core.Identity
 apiSurface: source-clr
+reviewed: 088e8bd0c6d6e55abbc306d259cedd6560d3b09d671f3c17b174672f1e59c057
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves a registered object by its persistent identity.

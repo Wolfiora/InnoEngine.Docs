@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c433c9838a8616d8f6b5c92948725c4527e72aec776ac8fa1ab4fe7c70296764
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderShaderVariant.Equals(Inno.Rendering.Assets.RenderShaderVariant)"
-source: xml
-reviewed: fd4d7bcb0c60139a5e993203e7c504d068ecaa4eac281ec2cde8994805e881ef
-title: "RenderShaderVariant.Equals"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderShaderVariant.Equals(Inno.Rendering.Assets.RenderShaderVariant)
+title: RenderShaderVariant.Equals
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: fd4d7bcb0c60139a5e993203e7c504d068ecaa4eac281ec2cde8994805e881ef
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether this instance and the supplied value represent the same logical state.

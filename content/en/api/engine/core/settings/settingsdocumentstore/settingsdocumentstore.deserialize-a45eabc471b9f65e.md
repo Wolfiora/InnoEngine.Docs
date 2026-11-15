@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a45eabc471b9f65e9718324663b0980ef6f555672e9b44cce1fd8968db5548e6
-symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.SettingsDocumentStore\u00601.Deserialize(System.ReadOnlySpan{System.Byte})"
-source: xml
-reviewed: 440ec9a8a23492cd065fc7f45cc774f52b5d3c9f7b172baab93936127a28eb19
-title: "SettingsDocumentStore\u003CTDocument\u003E.Deserialize"
+symbol: engine:Inno.Core.Settings:M:Inno.Core.Settings.SettingsDocumentStore`1.Deserialize(System.ReadOnlySpan{System.Byte})
+title: SettingsDocumentStore<TDocument>.Deserialize
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: source-clr
+reviewed: 440ec9a8a23492cd065fc7f45cc774f52b5d3c9f7b172baab93936127a28eb19
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Deserializes and validates a native payload without changing the file.

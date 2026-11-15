@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9dfb6ad31bea927b9724b1ec60c7b4a67ec013fb66813c36f395488cb8933ecd
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportLayer.#ctor(System.String,Inno.Rendering.Assets.RenderPipelineAsset,Inno.Rendering.Runtime.RenderFrameData,System.Int32)"
-source: xml
-reviewed: 58368aad0c43884917d537c64ea8017994e2e01892dc500415ccb549fbe41a26
-title: "EditorViewportLayer.Constructor"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportLayer.#ctor(System.String,Inno.Rendering.Assets.RenderPipelineAsset,Inno.Rendering.Runtime.RenderFrameData,System.Int32)
+title: EditorViewportLayer.Constructor
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 58368aad0c43884917d537c64ea8017994e2e01892dc500415ccb549fbe41a26
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates one immutable model-neutral viewport layer.

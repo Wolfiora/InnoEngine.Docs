@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6b03b2344a9427cdc568567df27cecb8758c88eeef7706056b10dd8ca0b93bf0
-symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.Diagnostic.Info(System.String,System.String,System.Nullable{Inno.Core.Diagnostics.DiagnosticLocation})"
-source: xml
-reviewed: b325ca48195d20c7ef9ac1d4dc7464c118272de299764cd73df5df19cfcf64ff
-title: "Diagnostic.Info"
+symbol: engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.Diagnostic.Info(System.String,System.String,System.Nullable{Inno.Core.Diagnostics.DiagnosticLocation})
+title: Diagnostic.Info
 kind: api
-owners: [Inno.Core.Diagnostics]
+owners:
+- Inno.Core.Diagnostics
 apiSurface: source-clr
+reviewed: b325ca48195d20c7ef9ac1d4dc7464c118272de299764cd73df5df19cfcf64ff
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an informational diagnostic value without publishing it.

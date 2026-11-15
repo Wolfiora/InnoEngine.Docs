@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.mathematics.9fd8bbef3007f39b
-symbol: "engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.Color"
-source: xml
-reviewed: 522a5a90394a063a254d9906f34c13df16f9596ae05ca53571620af60fd86f82
-title: "Color"
+symbol: engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.Color
+title: Color
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 522a5a90394a063a254d9906f34c13df16f9596ae05ca53571620af60fd86f82
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-core-mathematics#numeric-and-layout-contract
 aliases: []

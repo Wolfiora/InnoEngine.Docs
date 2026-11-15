@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c73bd848eae539842fb3b8e07603f4c9be419151f5ec0a0585384e0239c9938c
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.SaveImportSettings(Inno.Assets.AssetPath,Inno.Core.Serialization.ISerializable,System.String)"
-source: xml
-reviewed: bddd6a00abafeeae85617bb582ceb3be66ca51d18afa56cbe0ad6cd18a0872c1
-title: "AssetPipeline.SaveImportSettings"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.SaveImportSettings(Inno.Assets.AssetPath,Inno.Core.Serialization.ISerializable,System.String)
+title: AssetPipeline.SaveImportSettings
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: bddd6a00abafeeae85617bb582ceb3be66ca51d18afa56cbe0ad6cd18a0872c1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Saves import settings with conflict detection and immediately attempts to reimport the source.

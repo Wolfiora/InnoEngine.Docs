@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a10e8f68498a11a1d997df426780b27cae1c71cc366b8be0f895ffa51103f65c
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.MathHelper.AlmostEquals(System.Single,System.Single,System.Single)"
-source: xml
-reviewed: 9827a1a19358f0779fde21290e3bd47691017b7be3be8a0ccaf9688b3ae13990
-title: "MathHelper.AlmostEquals"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.MathHelper.AlmostEquals(System.Single,System.Single,System.Single)
+title: MathHelper.AlmostEquals
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 9827a1a19358f0779fde21290e3bd47691017b7be3be8a0ccaf9688b3ae13990
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether two floating-point numbers are approximately equal, using a relative tolerance based on the magnitude of the numbers. This is useful for comparing floats where rounding errors may occur.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.92922af1fab5121aa9196209d0259316803f1a03f5eee85d2d8b0f6204981733
-symbol: "engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticSource.op_Equality(Inno.Core.Diagnostics.DiagnosticSource,Inno.Core.Diagnostics.DiagnosticSource)"
-source: xml
-reviewed: 9e70a39746de5fc8d5849c19892f4ff396db33c8836df381cf9d87e947aa5817
-title: "DiagnosticSource.op_Equality"
+symbol: engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticSource.op_Equality(Inno.Core.Diagnostics.DiagnosticSource,Inno.Core.Diagnostics.DiagnosticSource)
+title: DiagnosticSource.op_Equality
 kind: api
-owners: [Inno.Core.Diagnostics]
+owners:
+- Inno.Core.Diagnostics
 apiSurface: source-clr
+reviewed: 9e70a39746de5fc8d5849c19892f4ff396db33c8836df381cf9d87e947aa5817
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether two sources have the same stable identifier.

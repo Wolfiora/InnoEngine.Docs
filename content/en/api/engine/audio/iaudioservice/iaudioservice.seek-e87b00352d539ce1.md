@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e87b00352d539ce1c401f88efc2c9157630cf0598c9d266534410a7b5d64a3c7
-symbol: "engine:Inno.Audio:M:Inno.Audio.IAudioService.Seek(Inno.Audio.AudioVoiceHandle,System.TimeSpan)"
-source: xml
-reviewed: d4bcb9948ddb4295f5a4154648804e72e065cd1d3874b536d4d9e6f47d38129b
-title: "IAudioService.Seek"
+symbol: engine:Inno.Audio:M:Inno.Audio.IAudioService.Seek(Inno.Audio.AudioVoiceHandle,System.TimeSpan)
+title: IAudioService.Seek
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: d4bcb9948ddb4295f5a4154648804e72e065cd1d3874b536d4d9e6f47d38129b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Moves a live voice cursor to a clip-relative position.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5a53fc966493c70acf09c495e72b84e7ba5f0d6889a9a527921ce6a353101cb0
-symbol: "scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorModule.Restore(InnoEditor.Core.EditorState)"
-source: xml
-reviewed: c0ad558a52cb4b12c01b489486894d0d7f50312af2b87013779c22ba28eca64f
-title: "EditorModule.Restore"
+symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorModule.Restore(InnoEditor.Core.EditorState)
+title: EditorModule.Restore
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: editor-script
+reviewed: c0ad558a52cb4b12c01b489486894d0d7f50312af2b87013779c22ba28eca64f
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Restores readable project state owned by this module.

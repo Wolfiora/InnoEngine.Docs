@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7b699a30f3d4601c28b6db36bf6ba0f3937eb99de2a99e5e1fc2df78076f5304
-symbol: "engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.LoadDocument(Inno.UI.UiContextHandle,Inno.UI.UiDocumentAsset)"
-source: xml
-reviewed: 4fd4b46075df754a05afaafe3e482b3fca1712845748a116989f766786cbdc80
-title: "UiRuntime.LoadDocument"
+symbol: engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.LoadDocument(Inno.UI.UiContextHandle,Inno.UI.UiDocumentAsset)
+title: UiRuntime.LoadDocument
 kind: api
-owners: [Inno.UI.Runtime]
+owners:
+- Inno.UI.Runtime
 apiSurface: source-clr
+reviewed: 4fd4b46075df754a05afaafe3e482b3fca1712845748a116989f766786cbdc80
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Loads a document into the specified independent UI context.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d7918154e9d947a0d857b56afce261bd16b2b6f0a21043e526a80825d1e06b61
-symbol: "engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.E"
-source: xml
-reviewed: aa9226742e18528df1d453be1f2a039b298c786e22756e39d5a3596bf61598ef
-title: "KeyCode.E"
+symbol: engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.E
+title: KeyCode.E
 kind: api
-owners: [Inno.Core.Input]
+owners:
+- Inno.Core.Input
 apiSurface: source-clr
+reviewed: aa9226742e18528df1d453be1f2a039b298c786e22756e39d5a3596bf61598ef
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The E letter key.

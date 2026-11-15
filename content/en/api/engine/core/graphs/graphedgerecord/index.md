@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.graphs.e433f4764eba6315
-symbol: "engine:Inno.Core.Graphs:T:Inno.Core.Graphs.GraphEdgeRecord"
-source: xml
-reviewed: 387e362e450af385467579781de6aaac3a482247b06d3eb6760245880b46e456
-title: "GraphEdgeRecord"
+symbol: engine:Inno.Core.Graphs:T:Inno.Core.Graphs.GraphEdgeRecord
+title: GraphEdgeRecord
 kind: api
-owners: [Inno.Core.Graphs]
+owners:
+- Inno.Core.Graphs
 apiSurface: source-clr
+reviewed: 387e362e450af385467579781de6aaac3a482247b06d3eb6760245880b46e456
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-core-graphs#document-and-definition-contract
 aliases: []

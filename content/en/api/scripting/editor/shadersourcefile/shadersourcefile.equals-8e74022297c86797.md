@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8e74022297c867978c1876c383f890ae2793540d53bff5b7b6744f5aeeb21d1e
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceFile.Equals(System.Object)"
-source: xml
-reviewed: 1d0e1f0ddba8152336dbf3d07f9b1bd8fa74028420ddfd60f77322fe03e94895
-title: "ShaderSourceFile.Equals"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceFile.Equals(System.Object)
+title: ShaderSourceFile.Equals
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 1d0e1f0ddba8152336dbf3d07f9b1bd8fa74028420ddfd60f77322fe03e94895
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether the specified object is equal to the current object.

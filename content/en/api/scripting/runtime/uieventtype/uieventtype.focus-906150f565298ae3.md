@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.906150f565298ae3b118f295e4aa3be7324931eed3a30ee327365a3f7c470e9c
-symbol: "scripting:Inno.UI:F:InnoEngine.UI.UiEventType.Focus"
-source: xml
-reviewed: 0579e2943afc06ebd9031bb90c42ff3c32c0a0a773fddbd10b0e0c794258c71c
-title: "UiEventType.Focus"
+symbol: scripting:Inno.UI:F:InnoEngine.UI.UiEventType.Focus
+title: UiEventType.Focus
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: 0579e2943afc06ebd9031bb90c42ff3c32c0a0a773fddbd10b0e0c794258c71c
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The target gained focus.

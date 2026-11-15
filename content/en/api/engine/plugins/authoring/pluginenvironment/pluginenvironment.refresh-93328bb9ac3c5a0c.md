@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.93328bb9ac3c5a0cbfcbb52cf7057d972cacce248bfb4e90e7086fe70a2553c3
-symbol: "engine:Inno.Plugins.Authoring:M:Inno.Plugins.Authoring.PluginEnvironment.Refresh"
-source: xml
-reviewed: c0252f21bd26873495f0cc705582774aee30f88ac59e9513084e890c74dfb149
-title: "PluginEnvironment.Refresh"
+symbol: engine:Inno.Plugins.Authoring:M:Inno.Plugins.Authoring.PluginEnvironment.Refresh
+title: PluginEnvironment.Refresh
 kind: api
-owners: [Inno.Plugins.Authoring]
+owners:
+- Inno.Plugins.Authoring
 apiSurface: source-clr
+reviewed: c0252f21bd26873495f0cc705582774aee30f88ac59e9513084e890c74dfb149
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Forces validation and prepares or commits one atomic Plugin availability generation.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4578ef5153c63c87a5a227cfa50fb588dab0493d54c10a7ebdd80d3ecb53100d
-symbol: "engine:Inno.Rendering:P:Inno.Rendering.RenderTextureRegion.x"
-source: xml
-reviewed: f84b46a8d0a8a6c9933a91a37445c743d466d3d8b03cc256417f2e55862b27c8
-title: "RenderTextureRegion.x"
+symbol: engine:Inno.Rendering:P:Inno.Rendering.RenderTextureRegion.x
+title: RenderTextureRegion.x
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: f84b46a8d0a8a6c9933a91a37445c743d466d3d8b03cc256417f2e55862b27c8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the horizontal texel origin.

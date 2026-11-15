@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.608bc35afc053c0896f9bba4a5a957b49f7755128db79e2053ac269ad26430ac
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeComponentDescriptor.GetToolchainRoot(System.String)"
-source: xml
-reviewed: 318537534a19b1a538e5fb29c6909771c619cb74f63056db1c36cba66e1c2270
-title: "NativeComponentDescriptor.GetToolchainRoot"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeComponentDescriptor.GetToolchainRoot(System.String)
+title: NativeComponentDescriptor.GetToolchainRoot
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 318537534a19b1a538e5fb29c6909771c619cb74f63056db1c36cba66e1c2270
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves the declared recipe owner within an explicitly supplied checkout.

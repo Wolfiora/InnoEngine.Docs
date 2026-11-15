@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1533e60f82a5ffbc29a43410ca3de865f463ec72f39e439babd84af5d652359f
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.GetClickableTextSize(System.String,System.Numerics.Vector2)"
-source: xml
-reviewed: d60b85b1cc31fff874f0dabde0b12104dfbccbc57a1a071f6d4692421370198b
-title: "ImGuiWidget.GetClickableTextSize"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.GetClickableTextSize(System.String,System.Numerics.Vector2)
+title: ImGuiWidget.GetClickableTextSize
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: d60b85b1cc31fff874f0dabde0b12104dfbccbc57a1a071f6d4692421370198b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Calculates a clickable text area from visible text and requested inner padding.

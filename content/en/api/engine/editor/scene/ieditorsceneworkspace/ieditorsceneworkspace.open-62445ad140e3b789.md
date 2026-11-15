@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.62445ad140e3b789ffb2c47f6640025edc444707fcbb3eca194eb7456b0f14b2
-symbol: "engine:Inno.Editor.Scene:M:Inno.Editor.Scene.IEditorSceneWorkspace.Open(System.String)"
-source: xml
-reviewed: f797ea9824e430c1cbe6bcd1a5fc4fe18efb0aaf4579267480710d1a7a3a7b86
-title: "IEditorSceneWorkspace.Open"
+symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.IEditorSceneWorkspace.Open(System.String)
+title: IEditorSceneWorkspace.Open
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: source-clr
+reviewed: f797ea9824e430c1cbe6bcd1a5fc4fe18efb0aaf4579267480710d1a7a3a7b86
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Opens a scene asset additively as the active editor scene.

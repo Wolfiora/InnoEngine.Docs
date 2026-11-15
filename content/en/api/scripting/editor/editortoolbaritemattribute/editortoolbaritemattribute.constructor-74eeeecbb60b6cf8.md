@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.74eeeecbb60b6cf8ef70e2f45e3ba2f7ea66bf3a47cf825044bb1fbdee227508
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorToolbarItemAttribute.#ctor(System.String,InnoEditor.Interactions.EditorToolbarIcon,System.String,System.Int32,InnoEditor.Interactions.EditorToolbarIcon)"
-source: xml
-reviewed: 133575f2d4672bd7323732778e09b967ca499a03917de39046bb7b4ce63e8c16
-title: "EditorToolbarItemAttribute.Constructor"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorToolbarItemAttribute.#ctor(System.String,InnoEditor.Interactions.EditorToolbarIcon,System.String,System.Int32,InnoEditor.Interactions.EditorToolbarIcon)
+title: EditorToolbarItemAttribute.Constructor
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 133575f2d4672bd7323732778e09b967ca499a03917de39046bb7b4ce63e8c16
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a toolbar placement for the annotated targetless action.

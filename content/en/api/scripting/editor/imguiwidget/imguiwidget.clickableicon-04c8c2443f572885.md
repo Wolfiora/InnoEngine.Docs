@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.04c8c2443f572885c21b705df2977f04e058604717d663906fb13d38f79885b6
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.ClickableIcon(System.String,System.String,System.String)"
-source: xml
-reviewed: 461ee91fc6de48350e87e586e82d9fc8c6a7f93015af4868fb4ce9833b33db57
-title: "ImGuiWidget.ClickableIcon"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.ClickableIcon(System.String,System.String,System.String)
+title: ImGuiWidget.ClickableIcon
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 461ee91fc6de48350e87e586e82d9fc8c6a7f93015af4868fb4ce9833b33db57
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a clickable icon inside the same square interaction slot used by editor close controls. The icon has no resting background and changes only its glyph color while hovered or active.

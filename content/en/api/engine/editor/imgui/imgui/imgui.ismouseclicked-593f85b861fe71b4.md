@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.593f85b861fe71b4fdfa3ad90b6763cb43c29ea90df501c3da6458adf8536d94
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.IsMouseClicked(Inno.Editor.ImGui.ImGuiMouseButton,System.Boolean)"
-source: xml
-reviewed: 368cae1d0013e53f31d5bdc8524c116777077622c8bab3679d5d872b54e52be8
-title: "ImGui.IsMouseClicked"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.IsMouseClicked(Inno.Editor.ImGui.ImGuiMouseButton,System.Boolean)
+title: ImGui.IsMouseClicked
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 368cae1d0013e53f31d5bdc8524c116777077622c8bab3679d5d872b54e52be8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Checks a pointer-button press in the current frame.

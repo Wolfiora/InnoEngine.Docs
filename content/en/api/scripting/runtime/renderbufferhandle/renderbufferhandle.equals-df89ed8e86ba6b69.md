@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.df89ed8e86ba6b69dd1dba4922968efc7b67dc46761af0f57dc1f6c34bd33458
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderBufferHandle.Equals(System.Object)"
-source: xml
-reviewed: aa701dc62e0ba007dfd10437cf4b934d3698485fb95ddf06304764b2b8e45acb
-title: "RenderBufferHandle.Equals"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderBufferHandle.Equals(System.Object)
+title: RenderBufferHandle.Equals
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: aa701dc62e0ba007dfd10437cf4b934d3698485fb95ddf06304764b2b8e45acb
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

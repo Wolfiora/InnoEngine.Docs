@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b02e2331696c46d41d3ec8a279657012b3d6839fe1c4a40cc520142246a781d6
-symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IRenderTargetArtifactProvider.GetTextureArtifact(Inno.Rendering.Assets.RenderTextureArtifactReference,System.ReadOnlyMemory{System.Byte}@)"
-source: xml
-reviewed: 3795b734fe29d6f5b939c74366ca3c5a8952469baf9d92a014790f8a705afd3b
-title: "IRenderTargetArtifactProvider.GetTextureArtifact"
+symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IRenderTargetArtifactProvider.GetTextureArtifact(Inno.Rendering.Assets.RenderTextureArtifactReference,System.ReadOnlyMemory{System.Byte}@)
+title: IRenderTargetArtifactProvider.GetTextureArtifact
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: 3795b734fe29d6f5b939c74366ca3c5a8952469baf9d92a014790f8a705afd3b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves the portable KTX artifact for one imported runtime texture.

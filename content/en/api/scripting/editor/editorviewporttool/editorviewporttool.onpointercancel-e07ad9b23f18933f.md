@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e07ad9b23f18933f27eebbc2803f8396d9c70ab66fe32c66dcffa2ba7e25cc14
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorViewportTool.OnPointerCancel(InnoEditor.Interactions.EditorViewportToolContext,InnoEditor.Interactions.EditorViewportPointerEvent)"
-source: xml
-reviewed: f4de8e805cdf7c1c28844d31562abc5f70f28f5e47bc1b95f0612e0358f81dd9
-title: "EditorViewportTool.OnPointerCancel"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorViewportTool.OnPointerCancel(InnoEditor.Interactions.EditorViewportToolContext,InnoEditor.Interactions.EditorViewportPointerEvent)
+title: EditorViewportTool.OnPointerCancel
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: f4de8e805cdf7c1c28844d31562abc5f70f28f5e47bc1b95f0612e0358f81dd9
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Handles platform cancellation of an active gesture.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d53d35f7d15130a6ae73e7e28b2808816b35fbb82964d97dbe66594178b64194
-symbol: "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackRequirements.#ctor(Inno.Build.BuildTargetId,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Collections.Generic.IReadOnlyList{System.String})"
-source: xml
-reviewed: d5fcc99ba3f92d5ab04942357431b138947034b1f8c67b3264f48834aaec1c4a
-title: "PlayerSupportPackRequirements.Constructor"
+symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackRequirements.#ctor(Inno.Build.BuildTargetId,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Collections.Generic.IReadOnlyList{System.String})
+title: PlayerSupportPackRequirements.Constructor
 kind: api
-owners: [Inno.Build.SupportPacks.Core]
+owners:
+- Inno.Build.SupportPacks.Core
 apiSurface: source-clr
+reviewed: d5fcc99ba3f92d5ab04942357431b138947034b1f8c67b3264f48834aaec1c4a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures the exact publication inputs and native groups supplied by the selected product closure.

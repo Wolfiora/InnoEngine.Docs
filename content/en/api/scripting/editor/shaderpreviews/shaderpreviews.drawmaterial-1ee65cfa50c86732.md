@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1ee65cfa50c8673232993daa5b40e9b32cc5521ae4dc905daf5bf25d1dcf1052
-symbol: "scripting:Inno.Editor.Shaders.ImGui:M:InnoEditor.Shaders.ShaderPreviews.DrawMaterial(System.Guid,InnoEngine.Rendering.MaterialAsset,System.Single)"
-source: xml
-reviewed: 7f81b0d8a07cdf7e7c66a9e5931524b5ef0108319e94a158dec0248e84d91a9d
-title: "ShaderPreviews.DrawMaterial"
+symbol: scripting:Inno.Editor.Shaders.ImGui:M:InnoEditor.Shaders.ShaderPreviews.DrawMaterial(System.Guid,InnoEngine.Rendering.MaterialAsset,System.Single)
+title: ShaderPreviews.DrawMaterial
 kind: api
-owners: [Inno.Editor.Shaders.ImGui]
+owners:
+- Inno.Editor.Shaders.ImGui
 apiSurface: editor-script
+reviewed: 7f81b0d8a07cdf7e7c66a9e5931524b5ef0108319e94a158dec0248e84d91a9d
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws detached Material overrides using its Shader's compiled contract.

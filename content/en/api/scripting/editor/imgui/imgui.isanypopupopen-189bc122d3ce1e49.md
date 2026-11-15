@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.189bc122d3ce1e493b6f3338652f55ffc677219195a7a73f465820a2a3febf35
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.IsAnyPopupOpen"
-source: xml
-reviewed: b112a39cd68fc08d797d72f0499988988f052f71dbefa719ed8598e7c64ec9d6
-title: "ImGui.IsAnyPopupOpen"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.IsAnyPopupOpen
+title: ImGui.IsAnyPopupOpen
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: b112a39cd68fc08d797d72f0499988988f052f71dbefa719ed8598e7c64ec9d6
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads whether an open popup or modal currently prevents underlying canvas and list input.

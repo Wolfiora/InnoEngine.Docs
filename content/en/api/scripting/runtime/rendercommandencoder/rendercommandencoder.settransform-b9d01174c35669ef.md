@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b9d01174c35669ef243cf786e5fa1f1579aae17b76403bb97efafea9ac05f21b
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.SetTransform(System.ReadOnlySpan{System.Single})"
-source: xml
-reviewed: a7ba3157813a733057182de24a7a3f103a69062d5f09032ae36ae4a4d20e0190
-title: "RenderCommandEncoder.SetTransform"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.SetTransform(System.ReadOnlySpan{System.Single})
+title: RenderCommandEncoder.SetTransform
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: a7ba3157813a733057182de24a7a3f103a69062d5f09032ae36ae4a4d20e0190
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Sets the column-major object transform for subsequent draws.

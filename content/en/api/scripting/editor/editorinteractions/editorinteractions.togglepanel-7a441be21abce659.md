@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7a441be21abce659de019c70d21efe0baa083f18ba681ea8e8407990c4a650d9
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.TogglePanel(System.String)"
-source: xml
-reviewed: 8a522bd56da43750f6ec05b16d3fd7f09c702bd00529dbd0c60eceabdc4676b6
-title: "EditorInteractions.TogglePanel"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.TogglePanel(System.String)
+title: EditorInteractions.TogglePanel
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 8a522bd56da43750f6ec05b16d3fd7f09c702bd00529dbd0c60eceabdc4676b6
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Toggles one panel in the currently active extension generation.

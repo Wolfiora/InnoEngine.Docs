@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1cbe2e20aa0527115486d1d47e720a6a25f4fb1cee955141863ba6dac0918ed6
-symbol: "scripting:Inno.Rendering.Runtime:P:InnoEngine.Rendering.RenderFeatureExtensionAttribute.id"
-source: xml
-reviewed: dc617c6211e49f52e9144ded47b6a0fbf4dd6deb05865bb51992ab435e138c7d
-title: "RenderFeatureExtensionAttribute.id"
+symbol: scripting:Inno.Rendering.Runtime:P:InnoEngine.Rendering.RenderFeatureExtensionAttribute.id
+title: RenderFeatureExtensionAttribute.id
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: dc617c6211e49f52e9144ded47b6a0fbf4dd6deb05865bb51992ab435e138c7d
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the globally stable feature extension identifier.

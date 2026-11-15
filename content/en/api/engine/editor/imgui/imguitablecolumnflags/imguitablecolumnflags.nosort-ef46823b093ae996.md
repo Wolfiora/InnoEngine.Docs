@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ef46823b093ae996161c0a69862755620ba4d8ecc264931808643b591f6708b6
-symbol: "engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiTableColumnFlags.NoSort"
-source: xml
-reviewed: ce2af0d874515dc9de587d6d288fc361f56850576d5203f229f1e06ddc4ffd81
-title: "ImGuiTableColumnFlags.NoSort"
+symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiTableColumnFlags.NoSort
+title: ImGuiTableColumnFlags.NoSort
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: ce2af0d874515dc9de587d6d288fc361f56850576d5203f229f1e06ddc4ffd81
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Disable ability to sort on this field (even if ImGuiTableFlags\_Sortable is set on the table).

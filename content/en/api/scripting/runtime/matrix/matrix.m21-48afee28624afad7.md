@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.48afee28624afad7ed658cd7895692580df018e722cc12ccd0a4d5875b15b1d4
-symbol: "scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Matrix.m21"
-source: xml
-reviewed: 414ff09bdff1f4a433257cb1b95477a111480fe655c395f7f8160efb5eb24067
-title: "Matrix.m21"
+symbol: scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Matrix.m21
+title: Matrix.m21
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 414ff09bdff1f4a433257cb1b95477a111480fe655c395f7f8160efb5eb24067
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Row 2, Column 1.

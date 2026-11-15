@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c26f2fb089f1bd4e3d4905ae80815776f5fa08c9d9a86d34e495088d371a0793
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorStyleMetrics.SetCompactMode(System.Boolean)"
-source: xml
-reviewed: 5d8b6dfe679c98d31109a27543d05e5e2f4628fc2b1409cbb631748a8208ca6a
-title: "EditorStyleMetrics.SetCompactMode"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorStyleMetrics.SetCompactMode(System.Boolean)
+title: EditorStyleMetrics.SetCompactMode
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 5d8b6dfe679c98d31109a27543d05e5e2f4628fc2b1409cbb631748a8208ca6a
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Requests comfortable or compact density without changing an active session frame.

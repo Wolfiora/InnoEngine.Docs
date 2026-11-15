@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e424f1d4dc2622def3b01b1cc742c8c6d0e203beed755861e942b1df5fd7f63e
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphDiagnostic.#ctor(System.String,System.String,InnoEngine.Diagnostics.DiagnosticSeverity,System.String,System.String)"
-source: xml
-reviewed: 11aa7251b5f735d95accc983d4e019c3fb794efc49bd1b68feb6a7891d3b89dd
-title: "RenderGraphDiagnostic.Constructor"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphDiagnostic.#ctor(System.String,System.String,InnoEngine.Diagnostics.DiagnosticSeverity,System.String,System.String)
+title: RenderGraphDiagnostic.Constructor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 11aa7251b5f735d95accc983d4e019c3fb794efc49bd1b68feb6a7891d3b89dd
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a render-graph diagnostic.

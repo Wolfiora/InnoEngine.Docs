@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b72a0be56088a2d8ef833f4c00aaa1a138bc4d0ff572f129f0408518698ccd0c
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetFileSystem.#ctor(System.String,System.Boolean,System.Int32,Inno.Assets.Pipeline.AssetSourcePolicy)"
-source: xml
-reviewed: 5931b65567b9b200b16be333db8dc6d53c979ae124f7a429e8efbf6608137969
-title: "AssetFileSystem.Constructor"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetFileSystem.#ctor(System.String,System.Boolean,System.Int32,Inno.Assets.Pipeline.AssetSourcePolicy)
+title: AssetFileSystem.Constructor
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 5931b65567b9b200b16be333db8dc6d53c979ae124f7a429e8efbf6608137969
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an indexed source file system.

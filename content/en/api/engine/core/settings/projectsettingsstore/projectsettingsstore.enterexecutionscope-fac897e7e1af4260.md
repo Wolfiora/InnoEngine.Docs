@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fac897e7e1af4260b018561f33fee0c51e0771193e6db279ed7b68d943a22e2c
-symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingsStore.EnterExecutionScope"
-source: xml
-reviewed: 8d345099439447de65d297ad5e201f534bd3189efe9f33dda45f154b418797fe
-title: "ProjectSettingsStore.EnterExecutionScope"
+symbol: engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingsStore.EnterExecutionScope
+title: ProjectSettingsStore.EnterExecutionScope
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: source-clr
+reviewed: 8d345099439447de65d297ad5e201f534bd3189efe9f33dda45f154b418797fe
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Binds this settings store to the current asynchronous script execution context.

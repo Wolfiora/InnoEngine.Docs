@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6799557c86e13246ea4da1184c3232de0732504b2dac64fa11a9d9d6701d4dc1
-symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderIrInstruction.regions"
-source: xml
-reviewed: 22cbddd78df23f6498ef18f49ea410c090f25dcb0ffd211ddc9ad940838be7f2
-title: "ShaderIrInstruction.regions"
+symbol: engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderIrInstruction.regions
+title: ShaderIrInstruction.regions
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: 22cbddd78df23f6498ef18f49ea410c090f25dcb0ffd211ddc9ad940838be7f2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets immutable nested regions: true/false for Branch, or one body for Loop.

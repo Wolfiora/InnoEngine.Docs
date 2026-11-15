@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8d855e0471a7a60c39ba8ffcc44b7c9d1a7264661ff4377abf7f13abb268d36c
-symbol: "scripting:Inno.Animation:M:InnoEngine.Animation.AnimationClipAsset.Validate"
-source: xml
-reviewed: 88183940790ee88958f30bfd1289cc29a3aa481fb0ab3073adf7c99d0023ec2e
-title: "AnimationClipAsset.Validate"
+symbol: scripting:Inno.Animation:M:InnoEngine.Animation.AnimationClipAsset.Validate
+title: AnimationClipAsset.Validate
 kind: api
-owners: [Inno.Animation]
+owners:
+- Inno.Animation
 apiSurface: editor-script
+reviewed: 88183940790ee88958f30bfd1289cc29a3aa481fb0ab3073adf7c99d0023ec2e
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Validates the complete clip contract before import or playback.

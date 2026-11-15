@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7b76dde307584409b1ae60d250c4d07dc5e1dca161677449f72da0b3b400ba5b
-symbol: "engine:Inno.Audio:M:Inno.Audio.IAudioDevice.Pause(Inno.Audio.AudioDeviceVoiceHandle)"
-source: xml
-reviewed: d588f21d7661022604f74f39f3f2fe9fc9478a4d8292859a059e6c8e2578d7b1
-title: "IAudioDevice.Pause"
+symbol: engine:Inno.Audio:M:Inno.Audio.IAudioDevice.Pause(Inno.Audio.AudioDeviceVoiceHandle)
+title: IAudioDevice.Pause
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: d588f21d7661022604f74f39f3f2fe9fc9478a4d8292859a059e6c8e2578d7b1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Pauses a live voice.

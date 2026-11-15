@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c5f100573b3a6509d86a04de0d2d5ff878da3b0e3d3e3b7d895ae1bb4de5252b
-symbol: "scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.RectInt.x"
-source: xml
-reviewed: dccf746f541ac9186943f8713f409ee445ecac87efafeb71bac423a59fd1ba3c
-title: "RectInt.x"
+symbol: scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.RectInt.x
+title: RectInt.x
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: dccf746f541ac9186943f8713f409ee445ecac87efafeb71bac423a59fd1ba3c
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The horizontal or first component.

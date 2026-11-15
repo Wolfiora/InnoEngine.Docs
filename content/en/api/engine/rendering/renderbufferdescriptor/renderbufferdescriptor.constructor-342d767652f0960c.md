@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.342d767652f0960c3165507859682228ae17eb2d24c80d214de41d4880e3ed36
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderBufferDescriptor.#ctor(System.Int32,System.Int32,Inno.Rendering.RenderBufferUsage)"
-source: xml
-reviewed: 439b94fedeb1bcdf29220c4b1ac6618ecdcaa056ef334c31bf806fafccb40393
-title: "RenderBufferDescriptor.Constructor"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderBufferDescriptor.#ctor(System.Int32,System.Int32,Inno.Rendering.RenderBufferUsage)
+title: RenderBufferDescriptor.Constructor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 439b94fedeb1bcdf29220c4b1ac6618ecdcaa056ef334c31bf806fafccb40393
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a buffer descriptor.

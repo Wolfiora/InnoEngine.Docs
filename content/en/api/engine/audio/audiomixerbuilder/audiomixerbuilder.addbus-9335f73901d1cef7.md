@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9335f73901d1cef730dbd2b853ef5e081a91b826a0b254e8a2da512367f7ae1b
-symbol: "engine:Inno.Audio:M:Inno.Audio.AudioMixerBuilder.AddBus(Inno.Audio.AudioBusId,Inno.Audio.AudioBusId,System.Single,System.Boolean)"
-source: xml
-reviewed: 29022bff08a4953cd645cd7caab54946c0ad98da776c07b5a44e3c68a82b4e14
-title: "AudioMixerBuilder.AddBus"
+symbol: engine:Inno.Audio:M:Inno.Audio.AudioMixerBuilder.AddBus(Inno.Audio.AudioBusId,Inno.Audio.AudioBusId,System.Single,System.Boolean)
+title: AudioMixerBuilder.AddBus
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 29022bff08a4953cd645cd7caab54946c0ad98da776c07b5a44e3c68a82b4e14
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds one semantic bus to the graph.

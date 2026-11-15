@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.646f561b1426bef93c26984e0c33061644992ecc7224466793d0d5578e10bd78
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.NavigateList(Inno.Editor.Interactions.EditorInteractions,System.Int32,System.Int32,System.Int32)"
-source: xml
-reviewed: 14aaf137b805b28b05795221cb9303d8476216ba8f94af43e98253f998143323
-title: "ImGuiWidget.NavigateList"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.NavigateList(Inno.Editor.Interactions.EditorInteractions,System.Int32,System.Int32,System.Int32)
+title: ImGuiWidget.NavigateList
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 14aaf137b805b28b05795221cb9303d8476216ba8f94af43e98253f998143323
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads one focused list's keyboard navigation without retaining its entries or changing domain selection.

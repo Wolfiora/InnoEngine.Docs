@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.21b85ca11b734804384e8fee5b36557088ddaff1dcc34c83938cb29a44a2d8c3
-symbol: "engine:Inno.Assets:M:Inno.Assets.AssetSerializationContext.Create(Inno.Assets.IAssetReferenceResolver,Inno.Assets.AssetDependencyCollection)"
-source: xml
-reviewed: 42577caccb4b220cc4225179d460de1111287babe2d5c6975fcf24575698d0ed
-title: "AssetSerializationContext.Create"
+symbol: engine:Inno.Assets:M:Inno.Assets.AssetSerializationContext.Create(Inno.Assets.IAssetReferenceResolver,Inno.Assets.AssetDependencyCollection)
+title: AssetSerializationContext.Create
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: 42577caccb4b220cc4225179d460de1111287babe2d5c6975fcf24575698d0ed
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a context containing the required asset resolver and an optional dependency collector.

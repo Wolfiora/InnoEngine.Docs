@@ -17,10 +17,18 @@ export function apiPresentation() {
     for (const node of tree.children) {
       if (node.type !== 'blockquote') continue;
       const first = node.children[0]?.children?.[0];
-      if (first?.type !== 'text' || !first.value.startsWith('[!TIP]\n')) continue;
-      first.value = first.value.slice('[!TIP]\n'.length);
-      node.data = { hName: 'aside', hProperties: { className: ['documentation-tip'], 'aria-label': 'Tip' } };
-      node.children.unshift({ type: 'paragraph', children: [{ type: 'strong', children: [{ type: 'text', value: 'Tip' }] }] });
+      if (first?.type !== 'text') continue;
+      const match = /^\[!(SYNCED|OUTDATED|VERIFIED)\]\n/.exec(first.value);
+      if (!match) continue;
+      const status = match[1].toLowerCase();
+      const title = status[0].toUpperCase() + status.slice(1);
+      first.value = first.value.slice(match[0].length);
+      node.data = { hName: 'aside', hProperties: { className: ['api-status', 'api-status-' + status], 'aria-label': title } };
+      node.children.unshift({ type: 'paragraph', data: { hProperties: { className: ['api-status-heading'] } }, children: [
+        { type: 'emphasis', children: [{ type: 'text', value: status === 'synced' ? '!' : status === 'outdated' ? '×' : '✓' }],
+          data: { hName: 'span', hProperties: { className: ['api-status-icon'], 'aria-hidden': 'true' } } },
+        { type: 'strong', children: [{ type: 'text', value: title }] },
+      ] });
     }
   };
 }

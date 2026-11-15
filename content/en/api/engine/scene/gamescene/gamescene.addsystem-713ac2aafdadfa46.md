@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.713ac2aafdadfa462be48f3b772f6af2d6820258378718063c7ccfa0d5d84cf3
-symbol: "engine:Inno.Scene:M:Inno.Scene.GameScene.AddSystem\u0060\u00601"
-source: xml
-reviewed: 9f86c9fbcc739c9ad5ef13403ad3bfac1463d5257866aa1c2102834bff7ac5f6
-title: "GameScene.AddSystem"
+symbol: engine:Inno.Scene:M:Inno.Scene.GameScene.AddSystem``1
+title: GameScene.AddSystem
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 9f86c9fbcc739c9ad5ef13403ad3bfac1463d5257866aa1c2102834bff7ac5f6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates and registers a parameterless game system.

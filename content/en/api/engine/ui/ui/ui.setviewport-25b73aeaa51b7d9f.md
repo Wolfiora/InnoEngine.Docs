@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.25b73aeaa51b7d9f7d362c2c28628077b2926df119ecc2d23669894d62f89445
-symbol: "engine:Inno.UI:M:Inno.UI.UI.SetViewport(Inno.UI.UiContextHandle,System.Int32,System.Int32,System.Single)"
-source: xml
-reviewed: 3a0e70e1a6c6b3adc64ed3bf43ff74bffd7e974c67eb420b748b666354d89014
-title: "UI.SetViewport"
+symbol: engine:Inno.UI:M:Inno.UI.UI.SetViewport(Inno.UI.UiContextHandle,System.Int32,System.Int32,System.Single)
+title: UI.SetViewport
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: 3a0e70e1a6c6b3adc64ed3bf43ff74bffd7e974c67eb420b748b666354d89014
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Changes one context's pixel dimensions and density.

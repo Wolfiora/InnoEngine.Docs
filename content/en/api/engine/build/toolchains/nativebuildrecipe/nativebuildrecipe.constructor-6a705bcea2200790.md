@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6a705bcea2200790c2c97bfd2becb020c30f1305c66e754a0c2f5fac2265e3d1
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildRecipe.#ctor(Inno.Build.Toolchains.NativeComponentDescriptor,System.String,System.String,System.Collections.Generic.IEnumerable{Inno.Build.Toolchains.NativeBuildInput},System.Collections.Generic.IEnumerable{System.String})"
-source: xml
-reviewed: 016719d9c42ae60a565b7622ce0e4711f2f2ddb31b6e04cd6f508fa3d9567fbd
-title: "NativeBuildRecipe.Constructor"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildRecipe.#ctor(Inno.Build.Toolchains.NativeComponentDescriptor,System.String,System.String,System.Collections.Generic.IEnumerable{Inno.Build.Toolchains.NativeBuildInput},System.Collections.Generic.IEnumerable{System.String})
+title: NativeBuildRecipe.Constructor
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 016719d9c42ae60a565b7622ce0e4711f2f2ddb31b6e04cd6f508fa3d9567fbd
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a complete recipe without inferring implementation identity from an assembly MVID.

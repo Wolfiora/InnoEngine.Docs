@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d3399113f55f1a895e3ae7d0afa1ca90be41cc9862c9aa4797a61cb598ed927b
-symbol: "engine:Inno.Adapter.Platform:M:Inno.Adapter.Platform.PlatformBackendId.GetHashCode"
-source: xml
-reviewed: d866cfd867e8a20be2de143362b7bc25688640352cc9a8f783298d493d8a1607
-title: "PlatformBackendId.GetHashCode"
+symbol: engine:Inno.Adapter.Platform:M:Inno.Adapter.Platform.PlatformBackendId.GetHashCode
+title: PlatformBackendId.GetHashCode
 kind: api
-owners: [Inno.Adapter.Platform]
+owners:
+- Inno.Adapter.Platform
 apiSurface: source-clr
+reviewed: d866cfd867e8a20be2de143362b7bc25688640352cc9a8f783298d493d8a1607
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Returns the hash code for this instance.

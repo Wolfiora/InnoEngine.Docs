@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c18ac69787547547491625973d6757f254c86bcfb0b2b022001fec031ff85d29
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.GeometryArtifact.Decode(System.ReadOnlySpan{System.Byte})"
-source: xml
-reviewed: 2d705b8193d1036d85488df8e332a282db7da98a995352042fb8304be9c63b78
-title: "GeometryArtifact.Decode"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.GeometryArtifact.Decode(System.ReadOnlySpan{System.Byte})
+title: GeometryArtifact.Decode
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: 2d705b8193d1036d85488df8e332a282db7da98a995352042fb8304be9c63b78
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Decodes and strictly validates one immutable geometry artifact.

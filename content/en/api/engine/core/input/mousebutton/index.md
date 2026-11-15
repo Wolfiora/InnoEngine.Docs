@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.input.01b091eb5ecbacb5
-symbol: "engine:Inno.Core.Input:T:Inno.Core.Input.MouseButton"
-source: xml
-reviewed: 17da92167aa61ec9ce985829a00a4d7da3e12f29226988bdf2cca87917c0abca
-title: "MouseButton"
+symbol: engine:Inno.Core.Input:T:Inno.Core.Input.MouseButton
+title: MouseButton
 kind: api
-owners: [Inno.Core.Input]
+owners:
+- Inno.Core.Input
 apiSurface: source-clr
+reviewed: 17da92167aa61ec9ce985829a00a4d7da3e12f29226988bdf2cca87917c0abca
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-core-input#input-value-contract
 aliases: []

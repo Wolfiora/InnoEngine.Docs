@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4c14c4a612d5ecbd3638375adc3cb464a7f396b1e1d7df60823047464371df81
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.IRenderLayerCompositionProgramProvider.CreateOutputTransferDescriptor(Inno.Rendering.GraphicsCapabilities,Inno.Rendering.RenderVertexLayout)"
-source: xml
-reviewed: 77e996b699bc0c7f3ae20d57af255cc8e247d7fefd84b1ef1320ac5cdcb15468
-title: "IRenderLayerCompositionProgramProvider.CreateOutputTransferDescriptor"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.IRenderLayerCompositionProgramProvider.CreateOutputTransferDescriptor(Inno.Rendering.GraphicsCapabilities,Inno.Rendering.RenderVertexLayout)
+title: IRenderLayerCompositionProgramProvider.CreateOutputTransferDescriptor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 77e996b699bc0c7f3ae20d57af255cc8e247d7fefd84b1ef1320ac5cdcb15468
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates the final transfer pipeline for a presentation target without automatic sRGB encoding.

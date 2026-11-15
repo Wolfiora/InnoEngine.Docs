@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d70d077e11813f9ae17e1efb62b98efb9a3298d24325a8ef47e6c90320d98ab1
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.AtomicFile.IsCandidatePath(System.String)"
-source: xml
-reviewed: b61186377b8fac974937d5d66b18b95e9e30e7a1f8f84618bc2054556bbb418e
-title: "AtomicFile.IsCandidatePath"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.AtomicFile.IsCandidatePath(System.String)
+title: AtomicFile.IsCandidatePath
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: b61186377b8fac974937d5d66b18b95e9e30e7a1f8f84618bc2054556bbb418e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Recognizes the reserved temporary file names created by atomic byte publication.

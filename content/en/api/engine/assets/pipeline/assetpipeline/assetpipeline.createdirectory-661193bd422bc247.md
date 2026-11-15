@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.661193bd422bc2476ed5f89173cbc4c2377c990712ccd94c00bfeab130cc26fa
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.CreateDirectory(Inno.Assets.AssetPath)"
-source: xml
-reviewed: 306d2600481dfd0d428345b8a4ac3c00d287ea0d7198dee41119adc36fddb2f2
-title: "AssetPipeline.CreateDirectory"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.CreateDirectory(Inno.Assets.AssetPath)
+title: AssetPipeline.CreateDirectory
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: 306d2600481dfd0d428345b8a4ac3c00d287ea0d7198dee41119adc36fddb2f2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a tracked source directory and its persistent metadata.

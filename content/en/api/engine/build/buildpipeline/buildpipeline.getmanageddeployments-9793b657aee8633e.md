@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9793b657aee8633e366d28f87aec2ebbd8345a1faafd3184c0f9bddbfc956c09
-symbol: "engine:Inno.Build:M:Inno.Build.BuildPipeline.GetManagedDeployments(Inno.Build.BuildTargetId)"
-source: xml
-reviewed: 71be791566f189db19009106fb4229ddb3ae4c0ca1c5f44b20ffc434fc216665
-title: "BuildPipeline.GetManagedDeployments"
+symbol: engine:Inno.Build:M:Inno.Build.BuildPipeline.GetManagedDeployments(Inno.Build.BuildTargetId)
+title: BuildPipeline.GetManagedDeployments
 kind: api
-owners: [Inno.Build]
+owners:
+- Inno.Build
 apiSurface: source-clr
+reviewed: 71be791566f189db19009106fb4229ddb3ae4c0ca1c5f44b20ffc434fc216665
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the managed deployment choices supported by a registered publication platform.

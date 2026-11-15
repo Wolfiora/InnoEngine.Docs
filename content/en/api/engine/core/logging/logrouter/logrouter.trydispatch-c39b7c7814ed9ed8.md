@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c39b7c7814ed9ed83260006ace8a91d2c7f4d0567a2f6a40d5877538caa3ec8b
-symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.LogRouter.TryDispatch(Inno.Core.Logging.LogEntry)"
-source: xml
-reviewed: a0cff379f444b549e3dbd22cef747b92b87844dcdff07b23148038c8521ce339
-title: "LogRouter.TryDispatch"
+symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.LogRouter.TryDispatch(Inno.Core.Logging.LogEntry)
+title: LogRouter.TryDispatch
 kind: api
-owners: [Inno.Core.Logging]
+owners:
+- Inno.Core.Logging
 apiSurface: source-clr
+reviewed: a0cff379f444b549e3dbd22cef747b92b87844dcdff07b23148038c8521ce339
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Attempts to queue an immutable entry, draining it inline when the host has no logging worker.

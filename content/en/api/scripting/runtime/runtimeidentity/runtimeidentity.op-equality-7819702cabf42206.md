@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7819702cabf42206591e5d060269da26b4478955d2aad4ff6d890977406722f0
-symbol: "scripting:Inno.Core.Identity:M:InnoEngine.Core.RuntimeIdentity.op_Equality(InnoEngine.Core.RuntimeIdentity,InnoEngine.Core.RuntimeIdentity)"
-source: xml
-reviewed: d0c012a224e9f3587a44b293647dc8cfa1f63941197d16ff98ac16feee27353d
-title: "RuntimeIdentity.op_Equality"
+symbol: scripting:Inno.Core.Identity:M:InnoEngine.Core.RuntimeIdentity.op_Equality(InnoEngine.Core.RuntimeIdentity,InnoEngine.Core.RuntimeIdentity)
+title: RuntimeIdentity.op_Equality
 kind: api
-owners: [Inno.Core.Identity]
+owners:
+- Inno.Core.Identity
 apiSurface: editor-script
+reviewed: d0c012a224e9f3587a44b293647dc8cfa1f63941197d16ff98ac16feee27353d
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether two runtime identities are equal.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.53b135588255c170049864ae8636f6239ad4d5c4e38239b112c01ac3410b1b7a
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderSamplerState.Equals(System.Object)"
-source: xml
-reviewed: 566fc32037e26d03eecbe6eeb9b82015d5c4ba17a9908a1aa6f9cc4a7a92a393
-title: "RenderSamplerState.Equals"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderSamplerState.Equals(System.Object)
+title: RenderSamplerState.Equals
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 566fc32037e26d03eecbe6eeb9b82015d5c4ba17a9908a1aa6f9cc4a7a92a393
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether this instance and the supplied value represent the same logical state.

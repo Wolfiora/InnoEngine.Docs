@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ca4708d8276dfda5ca520cc53ef7c24dd10994907cd22a5bcccc90da7affcbce
-symbol: "engine:Inno.Audio:P:Inno.Audio.AudioDeviceCompletion.voice"
-source: xml
-reviewed: 5ed0a64b9148e1ec10da3446adaca7228fff5d2a2ce92fd021fb09f74fae7baa
-title: "AudioDeviceCompletion.voice"
+symbol: engine:Inno.Audio:P:Inno.Audio.AudioDeviceCompletion.voice
+title: AudioDeviceCompletion.voice
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 5ed0a64b9148e1ec10da3446adaca7228fff5d2a2ce92fd021fb09f74fae7baa
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the completed voice handle.

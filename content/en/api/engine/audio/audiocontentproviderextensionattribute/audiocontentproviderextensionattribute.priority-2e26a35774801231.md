@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2e26a35774801231f1568e4388054f1c5aca3bc273bfcddb3c1f954c75f6f0c5
-symbol: "engine:Inno.Audio:P:Inno.Audio.AudioContentProviderExtensionAttribute.priority"
-source: xml
-reviewed: efb5cdb9fdc06c562dc0b1215c40a37717c68fe856f7128222f8230db964e08e
-title: "AudioContentProviderExtensionAttribute.priority"
+symbol: engine:Inno.Audio:P:Inno.Audio.AudioContentProviderExtensionAttribute.priority
+title: AudioContentProviderExtensionAttribute.priority
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: efb5cdb9fdc06c562dc0b1215c40a37717c68fe856f7128222f8230db964e08e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the provider invocation priority.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dd67f11530a86c96da20ab4142747f57605b1e739f315bdda949032b81a102a3
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorModalExtension.Draw(Inno.Editor.Core.EditorContext)"
-source: xml
-reviewed: bcb0bfded1df41108804b0a5cfc414d536c4a93195783c95db7f15daa137781b
-title: "EditorModalExtension.Draw"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorModalExtension.Draw(Inno.Editor.Core.EditorContext)
+title: EditorModalExtension.Draw
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: bcb0bfded1df41108804b0a5cfc414d536c4a93195783c95db7f15daa137781b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Safely draws the modal body and quarantines a failing extension instance.

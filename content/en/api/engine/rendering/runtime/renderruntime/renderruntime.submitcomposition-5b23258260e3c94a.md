@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5b23258260e3c94a0b616dcc6dfcb1ada062ae6a33a2d7aeec02093c5610d5fd
-symbol: "engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRuntime.SubmitComposition(System.String,Inno.Rendering.RenderTarget,Inno.Rendering.RenderViewport,Inno.Rendering.RenderTextureFormat,System.Collections.Generic.IReadOnlyList{Inno.Rendering.Runtime.RenderRequest},System.Int32)"
-source: xml
-reviewed: f6931b38995dfb2abdfb2a63c975f4082c2484d05a2c88b323f83303edbe07b6
-title: "RenderRuntime.SubmitComposition"
+symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRuntime.SubmitComposition(System.String,Inno.Rendering.RenderTarget,Inno.Rendering.RenderViewport,Inno.Rendering.RenderTextureFormat,System.Collections.Generic.IReadOnlyList{Inno.Rendering.Runtime.RenderRequest},System.Int32)
+title: RenderRuntime.SubmitComposition
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: source-clr
+reviewed: f6931b38995dfb2abdfb2a63c975f4082c2484d05a2c88b323f83303edbe07b6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Submits one or more independently rendered model layers for premultiplied-alpha output composition.

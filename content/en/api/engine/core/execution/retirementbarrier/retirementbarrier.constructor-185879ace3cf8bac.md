@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.185879ace3cf8bac6e30db449a54cd0777368e967d9e639319196bcf640c1b4e
-symbol: "engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementBarrier.#ctor(System.String,System.Nullable{System.TimeSpan})"
-source: xml
-reviewed: 1b2886fbb1de9639e6811f33fdca7b5c538ab19ccbf5e02b6ec5adfe5bb01cae
-title: "RetirementBarrier.Constructor"
+symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementBarrier.#ctor(System.String,System.Nullable{System.TimeSpan})
+title: RetirementBarrier.Constructor
 kind: api
-owners: [Inno.Core.Execution]
+owners:
+- Inno.Core.Execution
 apiSurface: source-clr
+reviewed: 1b2886fbb1de9639e6811f33fdca7b5c538ab19ccbf5e02b6ec5adfe5bb01cae
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a deadline that starts with the first retirement attempt.

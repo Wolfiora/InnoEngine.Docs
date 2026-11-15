@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b46a5a1753fdf493b6647b88ecea4f653a532e40f16d5d8f3c4d60fa42ac4e9d
-symbol: "engine:Inno.Assets:M:Inno.Assets.AssetArtifactKey.#ctor(System.String)"
-source: xml
-reviewed: 629498d20e8ac4cbb91dbf9742e2f3813b0208496ebe3e167d4fb4ed1f435ee0
-title: "AssetArtifactKey.Constructor"
+symbol: engine:Inno.Assets:M:Inno.Assets.AssetArtifactKey.#ctor(System.String)
+title: AssetArtifactKey.Constructor
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: 629498d20e8ac4cbb91dbf9742e2f3813b0208496ebe3e167d4fb4ed1f435ee0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an artifact key from a hexadecimal content fingerprint.

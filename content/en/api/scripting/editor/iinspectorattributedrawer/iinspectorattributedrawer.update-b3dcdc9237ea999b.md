@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b3dcdc9237ea999b59e664d4ad55c01d90fad1563de0c76071ee7ccfabb96362
-symbol: "scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.IInspectorAttributeDrawer.Update(InnoEditor.Inspection.InspectorAttributeDrawContext)"
-source: xml
-reviewed: ddd938f1153edb3a138aecf308b4c871e5e1390816f2889a40d04e703345f3d0
-title: "IInspectorAttributeDrawer.Update"
+symbol: scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.IInspectorAttributeDrawer.Update(InnoEditor.Inspection.InspectorAttributeDrawContext)
+title: IInspectorAttributeDrawer.Update
 kind: api
-owners: [Inno.Editor.Inspection]
+owners:
+- Inno.Editor.Inspection
 apiSurface: editor-script
+reviewed: ddd938f1153edb3a138aecf308b4c871e5e1390816f2889a40d04e703345f3d0
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Updates visibility, interactivity, labeling, help, or numeric constraints before layout.

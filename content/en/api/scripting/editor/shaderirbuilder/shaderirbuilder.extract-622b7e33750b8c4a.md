@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.622b7e33750b8c4a34bd90c580cd76114743099b8b10447dee19c053d3531488
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.Extract(InnoEditor.Rendering.Shaders.ShaderIrValue,System.Int32)"
-source: xml
-reviewed: c920103b7697353d2b74d21b86c36fdef6705079613533f77feb8d19087d67c1
-title: "ShaderIrBuilder.Extract"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.Extract(InnoEditor.Rendering.Shaders.ShaderIrValue,System.Int32)
+title: ShaderIrBuilder.Extract
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: c920103b7697353d2b74d21b86c36fdef6705079613533f77feb8d19087d67c1
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Extracts one static component, structure member or array element without source-language member syntax.

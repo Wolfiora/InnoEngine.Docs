@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fd6e840859a631340278ffdc468f6d92a24707b945a2cb486451aa181cc7492e
-symbol: "engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildDistribution.TryResolveNativeToolchain(System.String,Inno.Build.Toolchains.INativeToolchainProvider@)"
-source: xml
-reviewed: cc7140c172650a2c1a6a8a0d8367a8773372e614ffffd657456c445db2f5043a
-title: "BuildDistribution.TryResolveNativeToolchain"
+symbol: engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildDistribution.TryResolveNativeToolchain(System.String,Inno.Build.Toolchains.INativeToolchainProvider@)
+title: BuildDistribution.TryResolveNativeToolchain
 kind: api
-owners: [Inno.Build.Composition]
+owners:
+- Inno.Build.Composition
 apiSurface: source-clr
+reviewed: cc7140c172650a2c1a6a8a0d8367a8773372e614ffffd657456c445db2f5043a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Checks whether this distribution contributes an SDK for an explicitly requested binding target. A standalone binding definition may describe a target without registering a product publisher.

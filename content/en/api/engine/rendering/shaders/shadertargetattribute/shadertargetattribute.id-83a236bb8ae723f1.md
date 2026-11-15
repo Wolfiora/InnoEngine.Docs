@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.83a236bb8ae723f11acdaf9426dff2b31acebd94be2079c71b5a6ca320c8cfe4
-symbol: "engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderTargetAttribute.id"
-source: xml
-reviewed: 8246497c55e2cb4858d9d2b2e62184bb1322ae09e10d4e9fabcb0a634e253d8b
-title: "ShaderTargetAttribute.id"
+symbol: engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderTargetAttribute.id
+title: ShaderTargetAttribute.id
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: 8246497c55e2cb4858d9d2b2e62184bb1322ae09e10d4e9fabcb0a634e253d8b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the stable target identity persisted by Shader assets.

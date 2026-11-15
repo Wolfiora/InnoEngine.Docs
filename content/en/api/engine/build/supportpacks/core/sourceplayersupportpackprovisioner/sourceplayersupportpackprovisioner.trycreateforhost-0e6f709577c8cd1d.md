@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0e6f709577c8cd1d86ead6dc0b0913eae4de81e290f91df322479ea860ed93dc
-symbol: "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.SourcePlayerSupportPackProvisioner.TryCreateForHost(System.String,Inno.Build.SupportPacks.PlayerSupportPackPublisher,System.String,System.Action{System.String})"
-source: xml
-reviewed: a641d607950324dbde56a6fbb2ee24bf3de4ea65718b17861e5260ddb34c0ec5
-title: "SourcePlayerSupportPackProvisioner.TryCreateForHost"
+symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.SourcePlayerSupportPackProvisioner.TryCreateForHost(System.String,Inno.Build.SupportPacks.PlayerSupportPackPublisher,System.String,System.Action{System.String})
+title: SourcePlayerSupportPackProvisioner.TryCreateForHost
 kind: api
-owners: [Inno.Build.SupportPacks.Core]
+owners:
+- Inno.Build.SupportPacks.Core
 apiSurface: source-clr
+reviewed: a641d607950324dbde56a6fbb2ee24bf3de4ea65718b17861e5260ddb34c0ec5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Finds the checkout that owns the running Editor or build command.

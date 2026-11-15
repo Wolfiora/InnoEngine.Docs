@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6fcb86858d03cac3966316564b062f4fdf3222c0f1b0abb75feb0e54c649de57
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDragData.#ctor(InnoEngine.Core.IdentityObject,System.String)"
-source: xml
-reviewed: cd272571a082312e9902be98d9c2161b24a66703e40d59058f763e8d7853880f
-title: "EditorDragData.Constructor"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDragData.#ctor(InnoEngine.Core.IdentityObject,System.String)
+title: EditorDragData.Constructor
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: cd272571a082312e9902be98d9c2161b24a66703e40d59058f763e8d7853880f
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates drag data for a registered identity object.

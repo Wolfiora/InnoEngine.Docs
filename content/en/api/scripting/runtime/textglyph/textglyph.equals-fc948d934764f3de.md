@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fc948d934764f3de6c278e938d1b9ab2b6cc3e1313a39181f1166df5a8870cdf
-symbol: "scripting:Inno.Text:M:InnoEngine.Text.TextGlyph.Equals(InnoEngine.Text.TextGlyph)"
-source: xml
-reviewed: 0d537e698704555448a95ecc475e10ecc4703a90435d67b57cc9b729b04057f4
-title: "TextGlyph.Equals"
+symbol: scripting:Inno.Text:M:InnoEngine.Text.TextGlyph.Equals(InnoEngine.Text.TextGlyph)
+title: TextGlyph.Equals
 kind: api
-owners: [Inno.Text]
+owners:
+- Inno.Text
 apiSurface: editor-script
+reviewed: 0d537e698704555448a95ecc475e10ecc4703a90435d67b57cc9b729b04057f4
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

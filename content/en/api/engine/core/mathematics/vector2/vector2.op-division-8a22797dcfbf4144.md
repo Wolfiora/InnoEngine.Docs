@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8a22797dcfbf4144ffd67444db46851c0c3f6cabdfc204c032c57c8116b6ecba
-symbol: "engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector2.op_Division(Inno.Core.Mathematics.Vector2,System.Single)"
-source: xml
-reviewed: 6969ed3678f4740c3ed2ada9279eb6baf4caf5a25b403734024d8cb1dfd3849f
-title: "Vector2.op_Division"
+symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector2.op_Division(Inno.Core.Mathematics.Vector2,System.Single)
+title: Vector2.op_Division
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: source-clr
+reviewed: 6969ed3678f4740c3ed2ada9279eb6baf4caf5a25b403734024d8cb1dfd3849f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Divides the supplied value by the scalar divisor component by component.

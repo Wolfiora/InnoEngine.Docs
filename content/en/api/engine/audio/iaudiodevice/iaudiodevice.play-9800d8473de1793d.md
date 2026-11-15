@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9800d8473de1793dc19d3c7018b87d00d40e5b02f84f1fb3d85b67cdc9f6a020
-symbol: "engine:Inno.Audio:M:Inno.Audio.IAudioDevice.Play(Inno.Audio.AudioClipHandle,Inno.Audio.AudioBusHandle,Inno.Audio.AudioPlayOptions,System.Nullable{System.Double})"
-source: xml
-reviewed: 49665069cd8cacf84b0f6083541d7118c3f2cb10c154696c94eae51518666411
-title: "IAudioDevice.Play"
+symbol: engine:Inno.Audio:M:Inno.Audio.IAudioDevice.Play(Inno.Audio.AudioClipHandle,Inno.Audio.AudioBusHandle,Inno.Audio.AudioPlayOptions,System.Nullable{System.Double})
+title: IAudioDevice.Play
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 49665069cd8cacf84b0f6083541d7118c3f2cb10c154696c94eae51518666411
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates and starts or schedules one playback voice.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e92d106385ae373702090dba9ddd950ab21154f4f9c1068e8ea67bdeb9e7ed00
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.GraphicsPipelineHandle.Equals(System.Object)"
-source: xml
-reviewed: 2c2fcd077f266d8f6363586014cc4e2bc6969740390efb4798116785b0b1a659
-title: "GraphicsPipelineHandle.Equals"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.GraphicsPipelineHandle.Equals(System.Object)
+title: GraphicsPipelineHandle.Equals
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 2c2fcd077f266d8f6363586014cc4e2bc6969740390efb4798116785b0b1a659
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

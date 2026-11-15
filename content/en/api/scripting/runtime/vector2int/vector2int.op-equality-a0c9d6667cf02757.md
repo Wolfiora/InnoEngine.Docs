@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a0c9d6667cf02757c338a23626bbccceb2e427afd3062df8bf9e23e5988c6713
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2Int.op_Equality(InnoEngine.Mathematics.Vector2Int,InnoEngine.Mathematics.Vector2Int)"
-source: xml
-reviewed: fda86ea65205cf9b595e29c398e7081bd5fb0ead9d1fcd7183c89fba414594d3
-title: "Vector2Int.op_Equality"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2Int.op_Equality(InnoEngine.Mathematics.Vector2Int,InnoEngine.Mathematics.Vector2Int)
+title: Vector2Int.op_Equality
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: fda86ea65205cf9b595e29c398e7081bd5fb0ead9d1fcd7183c89fba414594d3
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether the supplied values are equal under the type's equality tolerance.

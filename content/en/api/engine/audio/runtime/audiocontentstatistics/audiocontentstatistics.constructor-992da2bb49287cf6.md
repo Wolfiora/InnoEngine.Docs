@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.992da2bb49287cf677ac100ec89b1f713f338092928d6ad343fef4ff71149130
-symbol: "engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioContentStatistics.#ctor(System.Int32,System.Int32,System.Int32)"
-source: xml
-reviewed: 1b7dcea869894a5acb0f6b63f2b7d8307cb5476c27532928bf29e71b86620faa
-title: "AudioContentStatistics.Constructor"
+symbol: engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioContentStatistics.#ctor(System.Int32,System.Int32,System.Int32)
+title: AudioContentStatistics.Constructor
 kind: api
-owners: [Inno.Audio.Runtime]
+owners:
+- Inno.Audio.Runtime
 apiSurface: source-clr
+reviewed: 1b7dcea869894a5acb0f6b63f2b7d8307cb5476c27532928bf29e71b86620faa
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a content admission snapshot without retaining providers or host content.

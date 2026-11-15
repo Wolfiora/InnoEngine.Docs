@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b61a83ffa7bc72ed7580593b8c26b87c2c281ba7de65646e121d01f54d3c43cd
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.OwnedReadStream.ReadAsync(System.Byte[],System.Int32,System.Int32,System.Threading.CancellationToken)"
-source: xml
-reviewed: d2f17e890241f22221b01fd16d1fa23cb2524775c6b18b9b3c1c375c73010d70
-title: "OwnedReadStream.ReadAsync"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.OwnedReadStream.ReadAsync(System.Byte[],System.Int32,System.Int32,System.Threading.CancellationToken)
+title: OwnedReadStream.ReadAsync
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: d2f17e890241f22221b01fd16d1fa23cb2524775c6b18b9b3c1c375c73010d70
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Asynchronously reads a sequence of bytes from the current stream, advances the position within the stream by the number of bytes read, and monitors cancellation requests.

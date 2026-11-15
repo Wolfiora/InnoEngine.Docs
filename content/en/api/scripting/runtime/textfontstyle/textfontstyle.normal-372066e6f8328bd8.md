@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.372066e6f8328bd883f73cb7455403eeb64c20341def92d24248e78f3fe3627d
-symbol: "scripting:Inno.Text:F:InnoEngine.Text.TextFontStyle.Normal"
-source: xml
-reviewed: b762e4d46de2a049af6faebe81baa99ed425a214eb128bb7d02d59ddafc120cc
-title: "TextFontStyle.Normal"
+symbol: scripting:Inno.Text:F:InnoEngine.Text.TextFontStyle.Normal
+title: TextFontStyle.Normal
 kind: api
-owners: [Inno.Text]
+owners:
+- Inno.Text
 apiSurface: editor-script
+reviewed: b762e4d46de2a049af6faebe81baa99ed425a214eb128bb7d02d59ddafc120cc
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Uses an upright face.

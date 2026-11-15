@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1ec5a34d0c3a891c1dc2b4e2bb23056786f05100023f3a1ec38c232d67088723
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.ComputePipelineHandle.op_Equality(InnoEngine.Rendering.ComputePipelineHandle,InnoEngine.Rendering.ComputePipelineHandle)"
-source: xml
-reviewed: a1117e8e8288b4f7d1fe468984d43917b0ddfdb1cd1a6cfe2afbff9934aeaf9f
-title: "ComputePipelineHandle.op_Equality"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.ComputePipelineHandle.op_Equality(InnoEngine.Rendering.ComputePipelineHandle,InnoEngine.Rendering.ComputePipelineHandle)
+title: ComputePipelineHandle.op_Equality
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: a1117e8e8288b4f7d1fe468984d43917b0ddfdb1cd1a6cfe2afbff9934aeaf9f
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9f7de3230417b56562b9b30ccfc3f4adf9937d2fc572d46ea4c4611d5b057774
-symbol: "engine:Inno.Rendering:P:Inno.Rendering.ShaderInterface.bindings"
-source: xml
-reviewed: 5fbeda8c82506a0c5718b109eb9b78edde4309320a7924dc0688ce676bc49cf5
-title: "ShaderInterface.bindings"
+symbol: engine:Inno.Rendering:P:Inno.Rendering.ShaderInterface.bindings
+title: ShaderInterface.bindings
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 5fbeda8c82506a0c5718b109eb9b78edde4309320a7924dc0688ce676bc49cf5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets stable expected bindings.

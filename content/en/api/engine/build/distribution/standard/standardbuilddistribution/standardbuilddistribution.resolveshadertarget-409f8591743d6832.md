@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.409f8591743d6832d9ad6dadb5d7c17630587c089116ed94c4c7658e115f2dc2
-symbol: "engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildDistribution.ResolveShaderTarget(Inno.Build.BuildTargetId)"
-source: xml
-reviewed: 3462ca5d2d927a0f265dbd70a9db5098b412bf84f4d74a86c30cd3b8c738e936
-title: "StandardBuildDistribution.ResolveShaderTarget"
+symbol: engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildDistribution.ResolveShaderTarget(Inno.Build.BuildTargetId)
+title: StandardBuildDistribution.ResolveShaderTarget
 kind: api
-owners: [Inno.Build.Distribution.Standard]
+owners:
+- Inno.Build.Distribution.Standard
 apiSurface: source-clr
+reviewed: 3462ca5d2d927a0f265dbd70a9db5098b412bf84f4d74a86c30cd3b8c738e936
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves explicitly registered shader configuration independently of tool execution target.

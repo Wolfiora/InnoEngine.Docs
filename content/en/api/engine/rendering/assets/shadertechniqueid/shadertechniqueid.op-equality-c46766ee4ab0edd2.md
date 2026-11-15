@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c46766ee4ab0edd2d64c1b623c2d293742eb6d355a8f6f8fe5c55d8972d043ce
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderTechniqueId.op_Equality(Inno.Rendering.Assets.ShaderTechniqueId,Inno.Rendering.Assets.ShaderTechniqueId)"
-source: xml
-reviewed: d33ff7ecc110cd6daba578db2ec62d0bd687c5d9f660ba6ff199aa1003b2865a
-title: "ShaderTechniqueId.op_Equality"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderTechniqueId.op_Equality(Inno.Rendering.Assets.ShaderTechniqueId,Inno.Rendering.Assets.ShaderTechniqueId)
+title: ShaderTechniqueId.op_Equality
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: d33ff7ecc110cd6daba578db2ec62d0bd687c5d9f660ba6ff199aa1003b2865a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

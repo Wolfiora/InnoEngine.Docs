@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6ce320d6b382d4804c6e71e7c6bf85efecbbf45dc7c97afea392b507a7b652e7
-symbol: "engine:Inno.Editor.Diagnostics:M:Inno.Editor.Diagnostics.IEditorConsole.Capture"
-source: xml
-reviewed: 30a43d78dbe5dca6c4cd7c6cd7cf0375ac9093a416aab7a00b19823fad81bb03
-title: "IEditorConsole.Capture"
+symbol: engine:Inno.Editor.Diagnostics:M:Inno.Editor.Diagnostics.IEditorConsole.Capture
+title: IEditorConsole.Capture
 kind: api
-owners: [Inno.Editor.Diagnostics]
+owners:
+- Inno.Editor.Diagnostics
 apiSurface: source-clr
+reviewed: 30a43d78dbe5dca6c4cd7c6cd7cf0375ac9093a416aab7a00b19823fad81bb03
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures an immutable snapshot containing both individual occurrences and global groups.

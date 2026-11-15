@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4e739b279c892092b56868880953cfbd5aef6feaba6c811dc709f21fadb94514
-symbol: "engine:Inno.Audio:M:Inno.Audio.IAudioService.PreloadAsync(Inno.Audio.AudioClipAsset,Inno.Audio.AudioClipLoadMode,System.Threading.CancellationToken)"
-source: xml
-reviewed: 2c4a249736662b0d115e6240a4b9949166479dcbaf2b9399c2725202d65c6d26
-title: "IAudioService.PreloadAsync"
+symbol: engine:Inno.Audio:M:Inno.Audio.IAudioService.PreloadAsync(Inno.Audio.AudioClipAsset,Inno.Audio.AudioClipLoadMode,System.Threading.CancellationToken)
+title: IAudioService.PreloadAsync
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 2c4a249736662b0d115e6240a4b9949166479dcbaf2b9399c2725202d65c6d26
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Prepares a clip and retains it in the decoded or streamed cache.

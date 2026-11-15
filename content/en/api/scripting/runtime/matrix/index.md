@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.mathematics.runtime-script.2a3e30d2fc986231
-symbol: "scripting:Inno.Core.Mathematics:T:InnoEngine.Mathematics.Matrix"
-source: xml
-reviewed: 49c1dac79db2cccc69f901ac8b8e0e5f5da891c536e4e0d8f7c4a02d900b8ef6
-title: "Matrix"
+symbol: scripting:Inno.Core.Mathematics:T:InnoEngine.Mathematics.Matrix
+title: Matrix
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 49c1dac79db2cccc69f901ac8b8e0e5f5da891c536e4e0d8f7c4a02d900b8ef6
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-core-mathematics#numeric-and-layout-contract

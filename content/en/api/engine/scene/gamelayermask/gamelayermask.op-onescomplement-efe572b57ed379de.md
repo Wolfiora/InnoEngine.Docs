@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.efe572b57ed379de29e8a3cbecab15330022c178cb181165259e6cedbc513080
-symbol: "engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerMask.op_OnesComplement(Inno.Scene.Layers.GameLayerMask)"
-source: xml
-reviewed: a3ca992973047a710b9b5a471aef5b5b18ade4516369d3def029d5b3896fef87
-title: "GameLayerMask.op_OnesComplement"
+symbol: engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerMask.op_OnesComplement(Inno.Scene.Layers.GameLayerMask)
+title: GameLayerMask.op_OnesComplement
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: a3ca992973047a710b9b5a471aef5b5b18ade4516369d3def029d5b3896fef87
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Inverts every layer bit in a mask.

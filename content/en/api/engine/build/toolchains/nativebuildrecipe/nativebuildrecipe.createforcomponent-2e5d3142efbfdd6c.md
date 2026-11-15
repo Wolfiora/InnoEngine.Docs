@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2e5d3142efbfdd6c2e78f3044ec548203733e1c0658b2b0a500b32923ca7570b
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildRecipe.CreateForComponent(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeComponentDescriptor,System.String,System.String,System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String})"
-source: xml
-reviewed: 213b375fe616a4238b4dbd262999b2d6c1fd73f764fdd3e33aa14927af327417
-title: "NativeBuildRecipe.CreateForComponent"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildRecipe.CreateForComponent(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeComponentDescriptor,System.String,System.String,System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String})
+title: NativeBuildRecipe.CreateForComponent
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 213b375fe616a4238b4dbd262999b2d6c1fd73f764fdd3e33aa14927af327417
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Declares a component's source, execution and SDK inputs before binding outputs need to exist. The artifact publisher attaches the exact selected generation before hashing or compiling.

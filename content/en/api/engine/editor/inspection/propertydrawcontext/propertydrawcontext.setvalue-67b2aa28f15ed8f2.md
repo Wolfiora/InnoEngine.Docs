@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.67b2aa28f15ed8f2d98601f8dfed5f1ab178f153763c45f47cfa78a13cd771d9
-symbol: "engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.PropertyDrawContext.SetValue(System.Object,System.String)"
-source: xml
-reviewed: e32af57fd29206918e74801f1a01ea67a447a2209f63e96b6b74b067878c782d
-title: "PropertyDrawContext.SetValue"
+symbol: engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.PropertyDrawContext.SetValue(System.Object,System.String)
+title: PropertyDrawContext.SetValue
 kind: api
-owners: [Inno.Editor.Inspection]
+owners:
+- Inno.Editor.Inspection
 apiSurface: source-clr
+reviewed: e32af57fd29206918e74801f1a01ea67a447a2209f63e96b6b74b067878c782d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Assigns a value when the property is writable.

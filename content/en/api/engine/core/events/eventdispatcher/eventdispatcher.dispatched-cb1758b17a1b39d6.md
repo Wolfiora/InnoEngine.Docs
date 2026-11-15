@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.cb1758b17a1b39d6eb1a4dd3cdd41a6d4007a59d7b6efaea386d43cec1271d8e
-symbol: "engine:Inno.Core.Events:E:Inno.Core.Events.EventDispatcher.dispatched"
-source: xml
-reviewed: c8ae82f6cb5313df8806d721b940e8b67a03ec97ba82f7a946d84ad7148e7ace
-title: "EventDispatcher.dispatched"
+symbol: engine:Inno.Core.Events:E:Inno.Core.Events.EventDispatcher.dispatched
+title: EventDispatcher.dispatched
 kind: api
-owners: [Inno.Core.Events]
+owners:
+- Inno.Core.Events
 apiSurface: source-clr
+reviewed: c8ae82f6cb5313df8806d721b940e8b67a03ec97ba82f7a946d84ad7148e7ace
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Observes an event after its ordered hub dispatch has completed, including globally consumed events.

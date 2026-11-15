@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d2ad0603c8de45fb027997c972052517031e148e2725d5e79eecfb9b4e631b60
-symbol: "engine:Inno.Audio:M:Inno.Audio.AudioContentProviderContext.#ctor(Inno.References.ContentReadScope,System.Single,System.Int32)"
-source: xml
-reviewed: 58abe2dd388d1ff1626ace359e07e60af08d86eb102fc1c9588d24cc7b39fcb1
-title: "AudioContentProviderContext.Constructor"
+symbol: engine:Inno.Audio:M:Inno.Audio.AudioContentProviderContext.#ctor(Inno.References.ContentReadScope,System.Single,System.Int32)
+title: AudioContentProviderContext.Constructor
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 58abe2dd388d1ff1626ace359e07e60af08d86eb102fc1c9588d24cc7b39fcb1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Opens a control-thread snapshot collector over one content read scope.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9b6b43b1989c87ac6197de05708818a607eb28018d862f71b6657ad81e311451
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphPasteResult.#ctor"
-source: xml
-reviewed: b9c32f2572fb3d2e62ae359c997346fd792ab5686b9312512e300717dc4c18e1
-title: "ShaderGraphPasteResult.Constructor"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphPasteResult.#ctor
+title: ShaderGraphPasteResult.Constructor
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: b9c32f2572fb3d2e62ae359c997346fd792ab5686b9312512e300717dc4c18e1
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Appears in the generated script reference without a matching public or protected engine constructor.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d35106132d3852e0b804435a79ce37a953419860345cd1e0fdf9cdad8c829ce7
-symbol: "scripting:Inno.UI:M:InnoEngine.UI.UI.Render(InnoEngine.UI.UiContextHandle)"
-source: xml
-reviewed: 8752700deef03de0d9b4526803d1f2b218846a38a0eb5607b180d7d6b2ba9a07
-title: "UI.Render"
+symbol: scripting:Inno.UI:M:InnoEngine.UI.UI.Render(InnoEngine.UI.UiContextHandle)
+title: UI.Render
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: 8752700deef03de0d9b4526803d1f2b218846a38a0eb5607b180d7d6b2ba9a07
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Builds an immutable frame of incremental resources and ordered draws.

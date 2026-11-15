@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dc81231b768e6bbe2b9cb24ff274ce95b37516aab8b8670fa14a10258a8a1605
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeLinkPlan.#ctor(System.String,System.String,System.String,System.Collections.Generic.IEnumerable{System.String})"
-source: xml
-reviewed: b6c8faff9755e5bef79ec217d6be232afca22619208abf350a91a083143af110
-title: "NativeLinkPlan.Constructor"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeLinkPlan.#ctor(System.String,System.String,System.String,System.Collections.Generic.IEnumerable{System.String})
+title: NativeLinkPlan.Constructor
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: b6c8faff9755e5bef79ec217d6be232afca22619208abf350a91a083143af110
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures explicitly supported library formats and ordered linker configuration.

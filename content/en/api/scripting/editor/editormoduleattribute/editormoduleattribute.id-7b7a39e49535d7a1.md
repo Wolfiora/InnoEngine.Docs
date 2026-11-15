@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7b7a39e49535d7a1f97028f554979af357f1141243fecb601a7baf0a2ae255a5
-symbol: "scripting:Inno.Editor.Core:P:InnoEditor.Core.EditorModuleAttribute.id"
-source: xml
-reviewed: e25e8565288f5d1457c61689a7924d844e65b8bd6040c20256c220f331c31848
-title: "EditorModuleAttribute.id"
+symbol: scripting:Inno.Editor.Core:P:InnoEditor.Core.EditorModuleAttribute.id
+title: EditorModuleAttribute.id
 kind: api
-owners: [Inno.Editor.Core]
+owners:
+- Inno.Editor.Core
 apiSurface: editor-script
+reviewed: e25e8565288f5d1457c61689a7924d844e65b8bd6040c20256c220f331c31848
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the stable module identifier.

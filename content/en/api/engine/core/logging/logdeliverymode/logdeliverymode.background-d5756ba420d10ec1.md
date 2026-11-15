@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d5756ba420d10ec146e37073f5bfe31091458a5e1d14583c793552dfae6d24f5
-symbol: "engine:Inno.Core.Logging:F:Inno.Core.Logging.LogDeliveryMode.Background"
-source: xml
-reviewed: a1e97a6e3451b2f8069f0ce57af3bf9e10fd050ecbccd87f9d5f053943216cd1
-title: "LogDeliveryMode.Background"
+symbol: engine:Inno.Core.Logging:F:Inno.Core.Logging.LogDeliveryMode.Background
+title: LogDeliveryMode.Background
 kind: api
-owners: [Inno.Core.Logging]
+owners:
+- Inno.Core.Logging
 apiSurface: source-clr
+reviewed: a1e97a6e3451b2f8069f0ce57af3bf9e10fd050ecbccd87f9d5f053943216cd1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Delivers queued entries through a dedicated background worker.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.67afa8cd388aa2e88aa3750ffe83efc3839ef037429305b2c4f2959a021d2755
-symbol: "engine:Inno.Adapter.Input:M:Inno.Adapter.Input.EventInputBackend.ProcessEvent(Inno.Core.Events.Event)"
-source: xml
-reviewed: 321a9e425a8d0aa3ecd3dbf5ec21013656742bfc1e9547c488834ea7797486f3
-title: "EventInputBackend.ProcessEvent"
+symbol: engine:Inno.Adapter.Input:M:Inno.Adapter.Input.EventInputBackend.ProcessEvent(Inno.Core.Events.Event)
+title: EventInputBackend.ProcessEvent
 kind: api
-owners: [Inno.Adapter.Input]
+owners:
+- Inno.Adapter.Input
 apiSurface: source-clr
+reviewed: 321a9e425a8d0aa3ecd3dbf5ec21013656742bfc1e9547c488834ea7797486f3
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Applies one backend-neutral event translated by the owning platform application.

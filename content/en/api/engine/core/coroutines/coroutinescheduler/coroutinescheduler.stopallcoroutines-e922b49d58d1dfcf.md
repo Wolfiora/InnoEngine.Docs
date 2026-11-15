@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e922b49d58d1dfcf422fb9f0e584bc84a3a1b3532bf2ceaa2c1199fd8ecfa791
-symbol: "engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.CoroutineScheduler.StopAllCoroutines(System.Object)"
-source: xml
-reviewed: cd1096286d6d163228d48f446dfa6a3cb074537773944f1e1c5e0e33487e3c85
-title: "CoroutineScheduler.StopAllCoroutines"
+symbol: engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.CoroutineScheduler.StopAllCoroutines(System.Object)
+title: CoroutineScheduler.StopAllCoroutines
 kind: api
-owners: [Inno.Core.Coroutines]
+owners:
+- Inno.Core.Coroutines
 apiSurface: source-clr
+reviewed: cd1096286d6d163228d48f446dfa6a3cb074537773944f1e1c5e0e33487e3c85
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Stops owned coroutines and disposes their nested enumerators in reverse order. Reentrant calls defer cleanup of an executing callback until that callback returns.

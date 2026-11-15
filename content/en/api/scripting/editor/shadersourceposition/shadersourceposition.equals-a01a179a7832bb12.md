@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a01a179a7832bb12ab40c3706a59e46e5b06f188912cfcad184f2d81148d9a7e
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourcePosition.Equals(InnoEditor.Rendering.Shaders.ShaderSourcePosition)"
-source: xml
-reviewed: 7abf5ee2457a55317624325cc39858d95d650785b42aac714976ffbf85f7b7b2
-title: "ShaderSourcePosition.Equals"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourcePosition.Equals(InnoEditor.Rendering.Shaders.ShaderSourcePosition)
+title: ShaderSourcePosition.Equals
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 7abf5ee2457a55317624325cc39858d95d650785b42aac714976ffbf85f7b7b2
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

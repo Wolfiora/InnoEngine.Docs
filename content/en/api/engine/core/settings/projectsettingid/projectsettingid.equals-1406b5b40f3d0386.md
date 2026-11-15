@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1406b5b40f3d038640fcbd1e98a0ba99deb47aa92e3fe742b531146479dd5e7b
-symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingId.Equals(System.Object)"
-source: xml
-reviewed: caf8f9471a63950717bfd44646f2e176f82d25d7aef1c5172b567b5a9b71391d
-title: "ProjectSettingId.Equals"
+symbol: engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingId.Equals(System.Object)
+title: ProjectSettingId.Equals
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: source-clr
+reviewed: caf8f9471a63950717bfd44646f2e176f82d25d7aef1c5172b567b5a9b71391d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether this instance and a specified object are equal.

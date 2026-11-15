@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c0f6c235a35aef3dc017d1047094fbcffc4f3593dcec480f809c622c0eb62305
-symbol: "engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.SetViewport(Inno.UI.UiContextHandle,System.Int32,System.Int32,System.Single)"
-source: xml
-reviewed: 786207f66df12f95dba9aeab52e3145e37d99c9904bd0d23ef5c4d2abb1ab242
-title: "UiRuntime.SetViewport"
+symbol: engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.SetViewport(Inno.UI.UiContextHandle,System.Int32,System.Int32,System.Single)
+title: UiRuntime.SetViewport
 kind: api
-owners: [Inno.UI.Runtime]
+owners:
+- Inno.UI.Runtime
 apiSurface: source-clr
+reviewed: 786207f66df12f95dba9aeab52e3145e37d99c9904bd0d23ef5c4d2abb1ab242
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Updates the viewport state and applies the resulting invariants.

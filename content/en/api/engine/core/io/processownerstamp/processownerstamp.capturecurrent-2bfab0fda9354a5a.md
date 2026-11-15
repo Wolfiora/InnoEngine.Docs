@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2bfab0fda9354a5a918274a5cde66987aade0aac15ec5ade618ab0db2ad08b74
-symbol: "engine:Inno.Core.IO:M:Inno.Core.IO.ProcessOwnerStamp.CaptureCurrent"
-source: xml
-reviewed: 8c2e23bf2c1fad4701b55c636cb136296e769fa929084a02969ae9f9811e436f
-title: "ProcessOwnerStamp.CaptureCurrent"
+symbol: engine:Inno.Core.IO:M:Inno.Core.IO.ProcessOwnerStamp.CaptureCurrent
+title: ProcessOwnerStamp.CaptureCurrent
 kind: api
-owners: [Inno.Core.IO]
+owners:
+- Inno.Core.IO
 apiSurface: source-clr
+reviewed: 8c2e23bf2c1fad4701b55c636cb136296e769fa929084a02969ae9f9811e436f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures the current process lifetime and releases its temporary inspection handle.

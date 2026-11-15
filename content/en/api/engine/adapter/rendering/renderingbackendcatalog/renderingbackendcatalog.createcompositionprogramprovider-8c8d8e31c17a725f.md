@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8c8d8e31c17a725f8aff327672740b3bbb82f8efbb3b3f56f2379bd25c7f4ac8
-symbol: "engine:Inno.Adapter.Rendering:M:Inno.Adapter.Rendering.RenderingBackendCatalog.CreateCompositionProgramProvider(Inno.Adapter.Rendering.RenderingBackendId)"
-source: xml
-reviewed: 444eabb0659856b854392338de84d63f609f677172405e2fbbdd712cef2b17ec
-title: "RenderingBackendCatalog.CreateCompositionProgramProvider"
+symbol: engine:Inno.Adapter.Rendering:M:Inno.Adapter.Rendering.RenderingBackendCatalog.CreateCompositionProgramProvider(Inno.Adapter.Rendering.RenderingBackendId)
+title: RenderingBackendCatalog.CreateCompositionProgramProvider
 kind: api
-owners: [Inno.Adapter.Rendering]
+owners:
+- Inno.Adapter.Rendering
 apiSurface: source-clr
+reviewed: 444eabb0659856b854392338de84d63f609f677172405e2fbbdd712cef2b17ec
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves a backend-owned program provider for ordered render layer composition.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.15bc8ca536a97cb23438b68de50faafd9e3823f57f70ef77786964a30beae9bf
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.BlitTexture(Inno.Rendering.RenderTextureHandle,Inno.Rendering.RenderTextureRegion,Inno.Rendering.RenderTextureHandle,Inno.Rendering.RenderTextureRegion)"
-source: xml
-reviewed: a6b88b8ba4e391221a4b15325706a645d44a86f7ec42490cfd64c4c63f06d23b
-title: "RenderCommandEncoder.BlitTexture"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.BlitTexture(Inno.Rendering.RenderTextureHandle,Inno.Rendering.RenderTextureRegion,Inno.Rendering.RenderTextureHandle,Inno.Rendering.RenderTextureRegion)
+title: RenderCommandEncoder.BlitTexture
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: a6b88b8ba4e391221a4b15325706a645d44a86f7ec42490cfd64c4c63f06d23b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Copies a source texture region into a destination texture region.

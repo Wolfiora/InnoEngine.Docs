@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d6aab8feb516586b69d4e618b5ffe16295bb12409b5cf45b8f809937ae3a0a15
-symbol: "engine:Inno.UI:M:Inno.UI.UiContextOptions.#ctor(System.String,System.Int32,System.Int32,System.Single)"
-source: xml
-reviewed: a41d8aa68eb98680be3b617a34be718c055c8ac28fe330f0ff38723d0c4be842
-title: "UiContextOptions.Constructor"
+symbol: engine:Inno.UI:M:Inno.UI.UiContextOptions.#ctor(System.String,System.Int32,System.Int32,System.Single)
+title: UiContextOptions.Constructor
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: a41d8aa68eb98680be3b617a34be718c055c8ac28fe330f0ff38723d0c4be842
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates validated context options.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.335a070b215f29af00ed3e7648065bee2e8b6e855b4449199afc67bed5033ecc
-symbol: "scripting:Inno.Editor.Annotations:M:InnoEditor.Annotations.HelpBoxAttribute.#ctor(System.String,System.String,System.Object,InnoEditor.Annotations.InspectorMessageType)"
-source: xml
-reviewed: 943f96f77eff7853074fb835fca49b5eaab58b51d94e001ac2c4569296bb0616
-title: "HelpBoxAttribute.Constructor"
+symbol: scripting:Inno.Editor.Annotations:M:InnoEditor.Annotations.HelpBoxAttribute.#ctor(System.String,System.String,System.Object,InnoEditor.Annotations.InspectorMessageType)
+title: HelpBoxAttribute.Constructor
 kind: api
-owners: [Inno.Editor.Annotations]
+owners:
+- Inno.Editor.Annotations
 apiSurface: editor-script
+reviewed: 943f96f77eff7853074fb835fca49b5eaab58b51d94e001ac2c4569296bb0616
 apiScope: Authoring
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an Inspector help message shown when a sibling equals a compile-time value.

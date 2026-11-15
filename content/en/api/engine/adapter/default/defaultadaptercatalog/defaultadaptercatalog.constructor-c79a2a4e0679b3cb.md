@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c79a2a4e0679b3cb66b7d1b26cf8f9bf5a0ea945e59f0b062e1e13a9f4b2ca98
-symbol: "engine:Inno.Adapter.Default:M:Inno.Adapter.Default.DefaultAdapterCatalog.#ctor(Inno.Adapter.Default.DefaultAdapterCatalogOptions,System.Collections.Generic.IEnumerable{Inno.Adapter.UI.UiBackendProvider},System.Collections.Generic.IEnumerable{Inno.Adapter.Input.InputBackendProvider},System.Collections.Generic.IEnumerable{Inno.Adapter.Audio.AudioBackendProvider},System.Collections.Generic.IEnumerable{Inno.Adapter.Text.TextBackendProvider})"
-source: xml
-reviewed: 1f5f60d8cfa9bc2e5e2d3d819c6f3ad3ba223553a773ae0c667fccaafc3190d5
-title: "DefaultAdapterCatalog.Constructor"
+symbol: engine:Inno.Adapter.Default:M:Inno.Adapter.Default.DefaultAdapterCatalog.#ctor(Inno.Adapter.Default.DefaultAdapterCatalogOptions,System.Collections.Generic.IEnumerable{Inno.Adapter.UI.UiBackendProvider},System.Collections.Generic.IEnumerable{Inno.Adapter.Input.InputBackendProvider},System.Collections.Generic.IEnumerable{Inno.Adapter.Audio.AudioBackendProvider},System.Collections.Generic.IEnumerable{Inno.Adapter.Text.TextBackendProvider})
+title: DefaultAdapterCatalog.Constructor
 kind: api
-owners: [Inno.Adapter.Default]
+owners:
+- Inno.Adapter.Default
 apiSurface: source-clr
+reviewed: 1f5f60d8cfa9bc2e5e2d3d819c6f3ad3ba223553a773ae0c667fccaafc3190d5
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures each domain registration snapshot without initializing native services.

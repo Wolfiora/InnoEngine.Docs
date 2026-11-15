@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.92e9253555c638dc9a0d61a70c31d9ece848a3efb35956015062e5af3a2efe2a
-symbol: "engine:Inno.Assets:M:Inno.Assets.IAssetLookup.Load\u0060\u00601(Inno.Assets.AssetPath)"
-source: xml
-reviewed: 423862e1eb11b0302f6a7c47443d2d5a64936554e625f97e5840c6f54f9bae6e
-title: "IAssetLookup.Load"
+symbol: engine:Inno.Assets:M:Inno.Assets.IAssetLookup.Load``1(Inno.Assets.AssetPath)
+title: IAssetLookup.Load
 kind: api
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
 apiSurface: source-clr
+reviewed: 423862e1eb11b0302f6a7c47443d2d5a64936554e625f97e5840c6f54f9bae6e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Loads the canonical asset at a logical catalog path.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.70449b39bdd1b04f72279df4cbafcb5b376e0195fa9732f7a71e0ebe22a74b47
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.IsTreeNodeOpen(System.String)"
-source: xml
-reviewed: 05e41346c9cfa6b6fbf67f67f9dacf2c4f98b37d064298268dfb9c35bf7c0dac
-title: "ImGuiWidget.IsTreeNodeOpen"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.IsTreeNodeOpen(System.String)
+title: ImGuiWidget.IsTreeNodeOpen
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 05e41346c9cfa6b6fbf67f67f9dacf2c4f98b37d064298268dfb9c35bf7c0dac
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads a retained expansion value without submitting a native row or retaining domain objects.

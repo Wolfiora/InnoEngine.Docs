@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1dd2374f42020a6a6798eadfaf429f85a2f1052e6aa31ea055ce616eca2e4f5d
-symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderStencilOperation.Invert"
-source: xml
-reviewed: e8c7162b2b8af5d32c6ef8400106c9216718bb980b9849b1898dffdcc7db1198
-title: "RenderStencilOperation.Invert"
+symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderStencilOperation.Invert
+title: RenderStencilOperation.Invert
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: e8c7162b2b8af5d32c6ef8400106c9216718bb980b9849b1898dffdcc7db1198
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Bitwise-inverts the stored value.

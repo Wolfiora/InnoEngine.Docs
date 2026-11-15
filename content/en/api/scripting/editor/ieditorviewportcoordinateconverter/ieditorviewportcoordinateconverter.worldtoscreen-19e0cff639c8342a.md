@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.19e0cff639c8342a09a3e34dcb88ad11ae68d5f152d86dcb8d4df702d6d81001
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.IEditorViewportCoordinateConverter.WorldToScreen(InnoEngine.Mathematics.Vector2)"
-source: xml
-reviewed: 301107dd4431608d48bb385e1ce471f8f11cf0f4874154c1b55190e102f0e05c
-title: "IEditorViewportCoordinateConverter.WorldToScreen"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.IEditorViewportCoordinateConverter.WorldToScreen(InnoEngine.Mathematics.Vector2)
+title: IEditorViewportCoordinateConverter.WorldToScreen
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 301107dd4431608d48bb385e1ce471f8f11cf0f4874154c1b55190e102f0e05c
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Converts world coordinates to viewport-local pixel coordinates.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b17eee1ddcffd3d5fc80e3903d80eb32d271696f51a9ef91af3e07c47c7e80a4
-symbol: "engine:Inno.Core.Logging:M:Inno.Core.Logging.LogRouter.Dispatch(Inno.Core.Logging.LogEntry)"
-source: xml
-reviewed: 081cb3b8379ed15eaba883ef0ea1be9d3a51792eb1a97e4b6d901d5aa41a5c9f
-title: "LogRouter.Dispatch"
+symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.LogRouter.Dispatch(Inno.Core.Logging.LogEntry)
+title: LogRouter.Dispatch
 kind: api
-owners: [Inno.Core.Logging]
+owners:
+- Inno.Core.Logging
 apiSurface: source-clr
+reviewed: 081cb3b8379ed15eaba883ef0ea1be9d3a51792eb1a97e4b6d901d5aa41a5c9f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Queues an immutable entry under the configured worker or inline delivery policy.

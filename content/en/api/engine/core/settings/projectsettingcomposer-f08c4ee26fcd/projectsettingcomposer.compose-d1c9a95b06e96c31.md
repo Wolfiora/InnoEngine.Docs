@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d1c9a95b06e96c31e08129539704a13b38c07ee7993ed2bcfbd6f3b2ddd4e6db
-symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingComposer\u00602.Compose(\u00600,System.Collections.Generic.IReadOnlyList{Inno.Core.Settings.ProjectSettingContribution{\u00601}})"
-source: xml
-reviewed: 1a813aa12aa7c96ac35e11ea81e4984fe52bf9bdbe6d34d03dc7dbcddd0d61b6
-title: "ProjectSettingComposer\u003CTSetting, TContribution\u003E.Compose"
+symbol: engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingComposer`2.Compose(`0,System.Collections.Generic.IReadOnlyList{Inno.Core.Settings.ProjectSettingContribution{`1}})
+title: ProjectSettingComposer<TSetting, TContribution>.Compose
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: source-clr
+reviewed: 1a813aa12aa7c96ac35e11ea81e4984fe52bf9bdbe6d34d03dc7dbcddd0d61b6
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Composes dependency-ordered Plugin deltas and the optional final project delta into a host default.

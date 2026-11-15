@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8d7728f43b139ac0c0cc47eeb0c51035e766fc54f544f366d89a89828078ef95
-symbol: "scripting:Inno.References:M:InnoEngine.References.ContentReadScope.GetValues\u0060\u00601"
-source: xml
-reviewed: 78130e1aa6003a49d212085d3dcdf0611cb39ae55f77b5f8adb6aeaf9cb42167
-title: "ContentReadScope.GetValues"
+symbol: scripting:Inno.References:M:InnoEngine.References.ContentReadScope.GetValues``1
+title: ContentReadScope.GetValues
 kind: api
-owners: [Inno.References]
+owners:
+- Inno.References
 apiSurface: editor-script
+reviewed: 78130e1aa6003a49d212085d3dcdf0611cb39ae55f77b5f8adb6aeaf9cb42167
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Resolves all live roots matching the requested content contract.

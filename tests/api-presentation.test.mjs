@@ -3,13 +3,15 @@ import assert from 'node:assert/strict';
 import { apiPresentation } from '../scripts/api-presentation.mjs';
 import { createMarkdownProcessor } from '@astrojs/markdown-remark';
 
-test('the real Markdown renderer forwards source metadata and renders a visible Tip', async () => {
+test('the real Markdown renderer forwards source metadata and renders a status header and icon', async () => {
   const url = 'https://github.com/Wolfiora/InnoEngine/blob/' + 'a'.repeat(40) + '/src/Value.cs#L8';
   const processor = await createMarkdownProcessor({ remarkPlugins: [apiPresentation], syntaxHighlight: false });
-  const rendered = await processor.render('> [!TIP]\n> XML explanation.\n\n## Required contracts\n\nRead ownership.\n\n<!-- api-source -->\n[Source declaration](' + url + ')');
+  const rendered = await processor.render('> [!SYNCED]\n> XML explanation.\n\n## Required contracts\n\nRead ownership.\n\n<!-- api-source -->\n[Source declaration](' + url + ')');
   assert.equal(rendered.metadata.frontmatter.sourceDeclaration, url);
-  assert.match(rendered.code, /<aside class="documentation-tip"/);
+  assert.match(rendered.code, /<aside class="api-status api-status-synced"/);
   assert.match(rendered.code, /XML explanation\./);
+  assert.match(rendered.code, /class="api-status-icon" aria-hidden="true"/);
+  assert.match(rendered.code, /<strong>Synced<\/strong>/);
   assert.doesNotMatch(rendered.code, /Source declaration|api-source/);
 });
 
@@ -30,9 +32,20 @@ test('malformed or noncanonical source footers fail instead of hiding content', 
   assert.throws(() => apiPresentation()(tree, { data: {} }), /Invalid canonical/);
 });
 
-test('GitHub-style tips have visible semantic presentation without collapsing content', () => {
-  const tip = { type: 'blockquote', children: [{ type: 'paragraph', children: [{ type: 'text', value: '[!TIP]\nXML explanation.' }] }] };
+test('Status panels have visible semantic presentation without collapsing content', () => {
+  const tip = { type: 'blockquote', children: [{ type: 'paragraph', children: [{ type: 'text', value: '[!SYNCED]\nXML explanation.' }] }] };
   apiPresentation()({ children: [tip] }, { data: {} });
   assert.equal(tip.data.hName, 'aside');
   assert.equal(tip.children[1].children[0].value, 'XML explanation.');
 });
+
+for (const status of ['OUTDATED', 'VERIFIED']) {
+  test(status + ' has a distinct accessible header without hiding its explanation', async () => {
+    const processor = await createMarkdownProcessor({ remarkPlugins: [apiPresentation], syntaxHighlight: false });
+    const rendered = await processor.render('> [!' + status + ']\n> Manual explanation.');
+    assert.match(rendered.code, new RegExp('api-status-' + status.toLowerCase()));
+    assert.match(rendered.code, /Manual explanation\./);
+    assert.match(rendered.code, /api-status-heading/);
+    assert.doesNotMatch(rendered.code, /Tip|\[!/);
+  });
+}

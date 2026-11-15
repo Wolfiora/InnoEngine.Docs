@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.435e377c92aa3f99bdf018add00e5b64af9f01088f8833bc459af2f6aae5dc52
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourceFrontendCatalog.#ctor(System.Collections.Generic.IEnumerable{Inno.Rendering.Shaders.IShaderSourceFrontend})"
-source: xml
-reviewed: c0978122a73356002674deee1aef43aef0cf271cea561f7514842589d1ed39a0
-title: "ShaderSourceFrontendCatalog.Constructor"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourceFrontendCatalog.#ctor(System.Collections.Generic.IEnumerable{Inno.Rendering.Shaders.IShaderSourceFrontend})
+title: ShaderSourceFrontendCatalog.Constructor
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: c0978122a73356002674deee1aef43aef0cf271cea561f7514842589d1ed39a0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures a validated language provider set without a process-global registry.

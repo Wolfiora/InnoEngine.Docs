@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.acd67d2f3814ff66bffedc67303dc2c0ca55ec6df155346478948332b73744a0
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.BeginTabItem(System.String,System.Boolean@,InnoEditor.ImGui.ImGuiTabItemFlags)"
-source: xml
-reviewed: cb7c5b6a446578ee32fcf65c614e66aa51521ca9827e7cf0a68bdc928704ab52
-title: "ImGui.BeginTabItem"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.BeginTabItem(System.String,System.Boolean@,InnoEditor.ImGui.ImGuiTabItemFlags)
+title: ImGui.BeginTabItem
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: cb7c5b6a446578ee32fcf65c614e66aa51521ca9827e7cf0a68bdc928704ab52
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Begins one closeable tab item.

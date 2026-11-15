@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7f2651a12483af82c2f661ab2ff88bbaa7adc61130fbc06816dd1da628cb5d58
-symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderOutputSession.#ctor(System.String,InnoEngine.References.ContentReadScope,InnoEngine.Rendering.RenderViewport,System.UInt64,System.Single,InnoEngine.Rendering.IViewContentCollector,InnoEngine.Rendering.RenderOutputInput,InnoEngine.Rendering.RenderOutputRoute)"
-source: xml
-reviewed: eb30bd23d280b6068521b57ed30422aacb0dce1412aec703dd48aa2432fa810c
-title: "RenderOutputSession.Constructor"
+symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderOutputSession.#ctor(System.String,InnoEngine.References.ContentReadScope,InnoEngine.Rendering.RenderViewport,System.UInt64,System.Single,InnoEngine.Rendering.IViewContentCollector,InnoEngine.Rendering.RenderOutputInput,InnoEngine.Rendering.RenderOutputRoute)
+title: RenderOutputSession.Constructor
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: eb30bd23d280b6068521b57ed30422aacb0dce1412aec703dd48aa2432fa810c
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a frame-scoped output session.

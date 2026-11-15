@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f749481401221742d2d300ca2c4ed41d6839c4855d5c4175c4d4a50d952fdb78
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ManagedBuildInputSnapshot.CaptureAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.DotNetSdkDescriptor,System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.Threading.CancellationToken)"
-source: xml
-reviewed: 8ed35dd485cd5532a568169939356de825ebcc597b2c61b7d1231649f2bdedcb
-title: "ManagedBuildInputSnapshot.CaptureAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ManagedBuildInputSnapshot.CaptureAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.DotNetSdkDescriptor,System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.Threading.CancellationToken)
+title: ManagedBuildInputSnapshot.CaptureAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 8ed35dd485cd5532a568169939356de825ebcc597b2c61b7d1231649f2bdedcb
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Evaluates an explicit managed graph using its frozen SDK and hashes its declared compilation inputs.

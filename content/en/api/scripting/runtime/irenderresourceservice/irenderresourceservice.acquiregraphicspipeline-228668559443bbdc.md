@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.228668559443bbdca3d815f5e9564d52ca77227e87a8471032e689f18b4976d4
-symbol: "scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.AcquireGraphicsPipeline(InnoEngine.Rendering.RenderPersistentResourceId,System.Int64,InnoEngine.Rendering.GraphicsPipelineDescriptor,System.String)"
-source: xml
-reviewed: cc1a3f71a6e1dd08bf7d2c2cf3de084005312929250facbccdeedb85a74e4fdf
-title: "IRenderResourceService.AcquireGraphicsPipeline"
+symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.AcquireGraphicsPipeline(InnoEngine.Rendering.RenderPersistentResourceId,System.Int64,InnoEngine.Rendering.GraphicsPipelineDescriptor,System.String)
+title: IRenderResourceService.AcquireGraphicsPipeline
 kind: api
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
 apiSurface: editor-script
+reviewed: cc1a3f71a6e1dd08bf7d2c2cf3de084005312929250facbccdeedb85a74e4fdf
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Acquires or atomically replaces a provider-owned graphics pipeline.

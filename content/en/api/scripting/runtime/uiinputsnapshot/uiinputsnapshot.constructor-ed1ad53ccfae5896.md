@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ed1ad53ccfae5896c75d69890f90fb7e0cc96e7c831d0795afec7a7467b76326
-symbol: "scripting:Inno.UI:M:InnoEngine.UI.UiInputSnapshot.#ctor(InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Vector2,InnoEngine.Input.KeyModifier,System.Collections.Generic.IReadOnlyCollection{InnoEngine.Input.KeyCode},System.Collections.Generic.IReadOnlyCollection{InnoEngine.Input.KeyCode},System.Collections.Generic.IReadOnlyCollection{InnoEngine.Input.MouseButton},System.Collections.Generic.IReadOnlyCollection{InnoEngine.Input.MouseButton},System.Collections.Generic.IReadOnlyList{System.String})"
-source: xml
-reviewed: 74f843ff85dcce6e198d6ad3a34dbd5e6b66a981f739e07a8583ebd0ead81da0
-title: "UiInputSnapshot.Constructor"
+symbol: scripting:Inno.UI:M:InnoEngine.UI.UiInputSnapshot.#ctor(InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Vector2,InnoEngine.Input.KeyModifier,System.Collections.Generic.IReadOnlyCollection{InnoEngine.Input.KeyCode},System.Collections.Generic.IReadOnlyCollection{InnoEngine.Input.KeyCode},System.Collections.Generic.IReadOnlyCollection{InnoEngine.Input.MouseButton},System.Collections.Generic.IReadOnlyCollection{InnoEngine.Input.MouseButton},System.Collections.Generic.IReadOnlyList{System.String})
+title: UiInputSnapshot.Constructor
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: 74f843ff85dcce6e198d6ad3a34dbd5e6b66a981f739e07a8583ebd0ead81da0
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates one backend-neutral UI input snapshot.

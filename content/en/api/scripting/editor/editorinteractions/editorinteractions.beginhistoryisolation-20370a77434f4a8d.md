@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.20370a77434f4a8d3e1d5d5ac93f1ff0c0463ad0536fc06f22737c8ef126ccf5
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.BeginHistoryIsolation"
-source: xml
-reviewed: 892f3fb99d3f8b7e6b29bfcfe7cf1f9f1fdd32be4061f77774836fd57d764fd6
-title: "EditorInteractions.BeginHistoryIsolation"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.BeginHistoryIsolation
+title: EditorInteractions.BeginHistoryIsolation
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 892f3fb99d3f8b7e6b29bfcfe7cf1f9f1fdd32be4061f77774836fd57d764fd6
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Starts an isolated temporary Undo and Redo branch while retaining the current editing branch.

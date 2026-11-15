@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d604897f6ce7374203880373925f63ccbcfe9bc47eebdfe5323d46f8f81c12f2
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.BeginBoundedCombo(System.String,System.String,InnoEditor.ImGui.ImGuiComboFlags)"
-source: xml
-reviewed: 15bb97f8306e7970506fe2dc15ec78366e8ee02061f20712ad615986d7461842
-title: "ImGuiWidget.BeginBoundedCombo"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.BeginBoundedCombo(System.String,System.String,InnoEditor.ImGui.ImGuiComboFlags)
+title: ImGuiWidget.BeginBoundedCombo
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 15bb97f8306e7970506fe2dc15ec78366e8ee02061f20712ad615986d7461842
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Begins a combo whose popup opens below the control and stays within its containing window.

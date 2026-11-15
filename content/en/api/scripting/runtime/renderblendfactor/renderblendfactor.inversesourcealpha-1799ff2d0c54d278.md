@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1799ff2d0c54d278628a36c3a2bf6b7a6b8e1f0361f4bb78793432a730483e75
-symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderBlendFactor.InverseSourceAlpha"
-source: xml
-reviewed: 404a01be8d54b3c1f398b9ddc8a47ff0ad497755d44e5d3132768b812f8345e8
-title: "RenderBlendFactor.InverseSourceAlpha"
+symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderBlendFactor.InverseSourceAlpha
+title: RenderBlendFactor.InverseSourceAlpha
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 404a01be8d54b3c1f398b9ddc8a47ff0ad497755d44e5d3132768b812f8345e8
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Multiplies by one minus source alpha.

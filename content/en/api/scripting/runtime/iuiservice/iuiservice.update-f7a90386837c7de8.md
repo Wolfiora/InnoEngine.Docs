@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f7a90386837c7de8277f7fe3979d2bc31f4fe4496337cdd4721f38b6b68c5899
-symbol: "scripting:Inno.UI:M:InnoEngine.UI.IUiService.Update(InnoEngine.UI.UiContextHandle,InnoEngine.UI.UiInputSnapshot)"
-source: xml
-reviewed: 63e6eb5d96577ddd4c061769ae595fd25e90eccf5da15f39699e11f2c28ed236
-title: "IUiService.Update"
+symbol: scripting:Inno.UI:M:InnoEngine.UI.IUiService.Update(InnoEngine.UI.UiContextHandle,InnoEngine.UI.UiInputSnapshot)
+title: IUiService.Update
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: editor-script
+reviewed: 63e6eb5d96577ddd4c061769ae595fd25e90eccf5da15f39699e11f2c28ed236
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Advances one context with explicitly routed viewport-local input.

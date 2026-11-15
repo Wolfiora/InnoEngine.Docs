@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a213de4e864a9e3f64c9c7570eda6a10a1abe312ca464cf4b7da8d6c5882a8a9
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.GraphicsPipelineDescriptor.#ctor(System.ReadOnlySpan{System.Byte},System.ReadOnlySpan{System.Byte},System.Collections.Generic.IReadOnlyList{Inno.Rendering.RenderShaderBindingDescriptor},Inno.Rendering.RenderVertexLayout,Inno.Rendering.RenderRasterState)"
-source: xml
-reviewed: 5abb537bf0b45dbfd607f46dba4c3b7208e4907bc99d776eb20baef0445c609d
-title: "GraphicsPipelineDescriptor.Constructor"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.GraphicsPipelineDescriptor.#ctor(System.ReadOnlySpan{System.Byte},System.ReadOnlySpan{System.Byte},System.Collections.Generic.IReadOnlyList{Inno.Rendering.RenderShaderBindingDescriptor},Inno.Rendering.RenderVertexLayout,Inno.Rendering.RenderRasterState)
+title: GraphicsPipelineDescriptor.Constructor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 5abb537bf0b45dbfd607f46dba4c3b7208e4907bc99d776eb20baef0445c609d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a graphics pipeline descriptor.

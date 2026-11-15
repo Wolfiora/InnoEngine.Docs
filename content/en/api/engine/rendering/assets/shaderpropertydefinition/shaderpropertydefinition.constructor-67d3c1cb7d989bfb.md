@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.67d3c1cb7d989bfb27dd4d225ef16bd9cf996b92fd5a8c3eaffb486f934f8e87
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderPropertyDefinition.#ctor(Inno.Rendering.ShaderPropertyId,System.String,Inno.Rendering.ShaderPropertyType,Inno.Rendering.ShaderStage,Inno.Rendering.Assets.MaterialValue,System.Nullable{Inno.Rendering.ShaderPropertyBindingKind},Inno.Rendering.RenderStorageAccess,Inno.Rendering.Assets.ShaderPropertyBindingOwner)"
-source: xml
-reviewed: c262d31d7c166166f26a98ca94341effeaf59c1a17d0e3a5c6f13ee5d520988f
-title: "ShaderPropertyDefinition.Constructor"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderPropertyDefinition.#ctor(Inno.Rendering.ShaderPropertyId,System.String,Inno.Rendering.ShaderPropertyType,Inno.Rendering.ShaderStage,Inno.Rendering.Assets.MaterialValue,System.Nullable{Inno.Rendering.ShaderPropertyBindingKind},Inno.Rendering.RenderStorageAccess,Inno.Rendering.Assets.ShaderPropertyBindingOwner)
+title: ShaderPropertyDefinition.Constructor
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: c262d31d7c166166f26a98ca94341effeaf59c1a17d0e3a5c6f13ee5d520988f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a shader property definition.

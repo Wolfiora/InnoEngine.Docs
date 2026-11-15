@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.29484e99c2f43e004d526044345e0d70e768e50ec2269a46fe7013e94fc93edf
-symbol: "scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderSourceField.type"
-source: xml
-reviewed: 1ead81a092d7840db437b7872e578695ac250f86c178bc2131e0647623ab839d
-title: "ShaderSourceField.type"
+symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderSourceField.type
+title: ShaderSourceField.type
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 1ead81a092d7840db437b7872e578695ac250f86c178bc2131e0647623ab839d
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the complete field type.

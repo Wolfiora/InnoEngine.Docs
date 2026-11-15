@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.runtime-script.74879487fe02baa0
-symbol: "scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderBlendEquation"
-source: xml
-reviewed: 5425e8f0cf4328ecbfb87fb6bf97231da5f9233287e7da3f0e05010c22d9b1b0
-title: "RenderBlendEquation"
+symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderBlendEquation
+title: RenderBlendEquation
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 5425e8f0cf4328ecbfb87fb6bf97231da5f9233287e7da3f0e05010c22d9b1b0
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-rendering

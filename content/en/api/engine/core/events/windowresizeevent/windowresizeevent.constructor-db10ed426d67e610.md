@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.db10ed426d67e6106903b24c67c3a950cd2146ab653d9a1d911560d27d3a5cdc
-symbol: "engine:Inno.Core.Events:M:Inno.Core.Events.WindowResizeEvent.#ctor(System.UInt32,System.Int32,System.Int32)"
-source: xml
-reviewed: f3206d86e5093076881bf404de66e75aeedb60a7b3b959ea8e6077d631a3db51
-title: "WindowResizeEvent.Constructor"
+symbol: engine:Inno.Core.Events:M:Inno.Core.Events.WindowResizeEvent.#ctor(System.UInt32,System.Int32,System.Int32)
+title: WindowResizeEvent.Constructor
 kind: api
-owners: [Inno.Core.Events]
+owners:
+- Inno.Core.Events
 apiSurface: source-clr
+reviewed: f3206d86e5093076881bf404de66e75aeedb60a7b3b959ea8e6077d631a3db51
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Raised when the window size changes.

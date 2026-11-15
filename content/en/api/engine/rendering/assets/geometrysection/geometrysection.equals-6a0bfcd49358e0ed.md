@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6a0bfcd49358e0ed81224595697677f335fb920abe348e8a713279df632393db
-symbol: "engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.GeometrySection.Equals(Inno.Rendering.Assets.GeometrySection)"
-source: xml
-reviewed: ef15cf488a4be568c5703bf8fceb50751395ab3f53fddd7cf8aaaf7c3f542f2e
-title: "GeometrySection.Equals"
+symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.GeometrySection.Equals(Inno.Rendering.Assets.GeometrySection)
+title: GeometrySection.Equals
 kind: api
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
 apiSurface: source-clr
+reviewed: ef15cf488a4be568c5703bf8fceb50751395ab3f53fddd7cf8aaaf7c3f542f2e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Indicates whether the current object is equal to another object of the same type.

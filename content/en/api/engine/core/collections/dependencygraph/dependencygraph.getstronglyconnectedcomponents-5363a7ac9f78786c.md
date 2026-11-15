@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5363a7ac9f78786c859819eef56668e67165402605e2c0c57e21e39f83d55d64
-symbol: "engine:Inno.Core.Collections:M:Inno.Core.Collections.DependencyGraph\u00601.GetStronglyConnectedComponents"
-source: xml
-reviewed: 5ca644d6aff601db73d39c1deb888037805398b01370ec479bd10c70b8b1b3e3
-title: "DependencyGraph\u003CTKey\u003E.GetStronglyConnectedComponents"
+symbol: engine:Inno.Core.Collections:M:Inno.Core.Collections.DependencyGraph`1.GetStronglyConnectedComponents
+title: DependencyGraph<TKey>.GetStronglyConnectedComponents
 kind: api
-owners: [Inno.Core.Collections]
+owners:
+- Inno.Core.Collections
 apiSurface: source-clr
+reviewed: 5ca644d6aff601db73d39c1deb888037805398b01370ec479bd10c70b8b1b3e3
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets every strongly connected component in deterministic order.

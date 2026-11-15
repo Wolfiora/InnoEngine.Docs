@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.5d014f30c3bb5d9735484c7349be5a376ab68e6d9491a68ab04be3abe218457a
-symbol: "engine:Inno.Scene:M:Inno.Scene.ScenePropertySerialization.RestoreProperties(Inno.Scene.EngineObject,System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver,Inno.Core.Serialization.SerializationPropertyRestoreMode)"
-source: xml
-reviewed: 0ec68563d40b3e584c3e3bc183f052c93d70a6a97583a24796b27d4ed932f5ca
-title: "ScenePropertySerialization.RestoreProperties"
+symbol: engine:Inno.Scene:M:Inno.Scene.ScenePropertySerialization.RestoreProperties(Inno.Scene.EngineObject,System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver,Inno.Core.Serialization.SerializationPropertyRestoreMode)
+title: ScenePropertySerialization.RestoreProperties
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 0ec68563d40b3e584c3e3bc183f052c93d70a6a97583a24796b27d4ed932f5ca
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Restores independently captured properties into a live scene object.

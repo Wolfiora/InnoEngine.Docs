@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9396a00e22a6b7c30187b6e7b68125ca80a8b021e10a1f03bf288b361b3affa7
-symbol: "engine:Inno.Editor.Interactions:F:Inno.Editor.Interactions.EditorDocumentCloseMode.Save"
-source: xml
-reviewed: 6b7c9add00e74a21863b8201853ee29e7d9202118281eebbf1c7ede8618f66a4
-title: "EditorDocumentCloseMode.Save"
+symbol: engine:Inno.Editor.Interactions:F:Inno.Editor.Interactions.EditorDocumentCloseMode.Save
+title: EditorDocumentCloseMode.Save
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 6b7c9add00e74a21863b8201853ee29e7d9202118281eebbf1c7ede8618f66a4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Closes the document after saving.

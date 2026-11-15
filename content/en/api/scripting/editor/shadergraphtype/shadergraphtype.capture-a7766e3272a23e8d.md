@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a7766e3272a23e8d43cfc1d8a9a0c6b37a30b4dd99090e3a781c6686892f8087
-symbol: "scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphType.Capture(InnoEditor.Rendering.Shaders.ShaderSourceType)"
-source: xml
-reviewed: 29f0f8d0c40a03c76faca19b02c3ba91ff5b12f47c658898c87adec3c451cd63
-title: "ShaderGraphType.Capture"
+symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphType.Capture(InnoEditor.Rendering.Shaders.ShaderSourceType)
+title: ShaderGraphType.Capture
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: editor-script
+reviewed: 29f0f8d0c40a03c76faca19b02c3ba91ff5b12f47c658898c87adec3c451cd63
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Captures a full immutable source type as reload-safe authoring data.

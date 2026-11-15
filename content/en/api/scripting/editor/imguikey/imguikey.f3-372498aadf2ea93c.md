@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.372498aadf2ea93c158ba670c711d16b5eae15dabcaffabe68c06e33fd012937
-symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.F3"
-source: xml
-reviewed: 821a3fd4807f9b5714a7bd793e9bd4bc83de34a75474f065cda7684a732978db
-title: "ImGuiKey.F3"
+symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.F3
+title: ImGuiKey.F3
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 821a3fd4807f9b5714a7bd793e9bd4bc83de34a75474f065cda7684a732978db
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Identifies the F3 presentation key or modifier.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.b7838130609b9a1476010edd5ddb327fb9be1cbcb8d42d467e8eb8592ab1073f
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.RectInt.op_Inequality(InnoEngine.Mathematics.RectInt,InnoEngine.Mathematics.RectInt)"
-source: xml
-reviewed: ece5efbb4d4e7808e09f3961304516f634708448bf6c44243981ec59f0c499ed
-title: "RectInt.op_Inequality"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.RectInt.op_Inequality(InnoEngine.Mathematics.RectInt,InnoEngine.Mathematics.RectInt)
+title: RectInt.op_Inequality
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: ece5efbb4d4e7808e09f3961304516f634708448bf6c44243981ec59f0c499ed
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether the supplied values differ under the type's equality tolerance.

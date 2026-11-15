@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a66ebca8af732ed2c4dd5caff4428349d56adfdd4b0160933c1312fddd14d364
-symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiIcon.CircleQuestion"
-source: xml
-reviewed: 8b0ed7189cc701872216f4b642bbf6b2a8ca558816e3d878d078fd080261f938
-title: "ImGuiIcon.CircleQuestion"
+symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiIcon.CircleQuestion
+title: ImGuiIcon.CircleQuestion
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 8b0ed7189cc701872216f4b642bbf6b2a8ca558816e3d878d078fd080261f938
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the circle question glyph used by standard Editor controls.

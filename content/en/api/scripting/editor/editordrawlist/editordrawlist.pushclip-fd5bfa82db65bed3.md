@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fd5bfa82db65bed3a3ebd74e742e7f7781f810c5e38a97adc287a89be8de77c7
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorDrawList.PushClip(System.Numerics.Vector2,System.Numerics.Vector2,System.Boolean)"
-source: xml
-reviewed: 3e0526018e177f5c5700b7847eafbe9de3a09c23e3ead6a4db6f3abefec11a15
-title: "EditorDrawList.PushClip"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorDrawList.PushClip(System.Numerics.Vector2,System.Numerics.Vector2,System.Boolean)
+title: EditorDrawList.PushClip
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 3e0526018e177f5c5700b7847eafbe9de3a09c23e3ead6a4db6f3abefec11a15
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Restricts subsequent drawing to one screen rectangle.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c9956dd39ad7a93de58fe05c04da08f4fc0cc479522e84f2e3edaff5ae269272
-symbol: "scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.InspectionDrawContext.GetProperty\u0060\u00601(System.String)"
-source: xml
-reviewed: c1d9f5043c8ba81ffc804302ac390c7fefe44781a397c593f029e573ace3f61a
-title: "InspectionDrawContext.GetProperty"
+symbol: scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.InspectionDrawContext.GetProperty``1(System.String)
+title: InspectionDrawContext.GetProperty
 kind: api
-owners: [Inno.Editor.Inspection]
+owners:
+- Inno.Editor.Inspection
 apiSurface: editor-script
+reviewed: c1d9f5043c8ba81ffc804302ac390c7fefe44781a397c593f029e573ace3f61a
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads one runtime-visible serialized property from the target.

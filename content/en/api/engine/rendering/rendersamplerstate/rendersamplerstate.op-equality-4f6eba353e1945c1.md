@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4f6eba353e1945c1f4566c51ad2fea16726b383311ceadb7096aef81935b7066
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderSamplerState.op_Equality(Inno.Rendering.RenderSamplerState,Inno.Rendering.RenderSamplerState)"
-source: xml
-reviewed: 953a1e676284779fdea65080487a8aeea5472faee50fcd95540f63b87b55f92f
-title: "RenderSamplerState.op_Equality"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderSamplerState.op_Equality(Inno.Rendering.RenderSamplerState,Inno.Rendering.RenderSamplerState)
+title: RenderSamplerState.op_Equality
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 953a1e676284779fdea65080487a8aeea5472faee50fcd95540f63b87b55f92f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether two sampler descriptions are equal.

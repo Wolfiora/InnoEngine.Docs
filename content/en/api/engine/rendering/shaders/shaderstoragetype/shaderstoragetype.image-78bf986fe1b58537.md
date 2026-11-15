@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.78bf986fe1b58537e33989b1db0e45b27ac271bc032579d5d250070d60925443
-symbol: "engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderStorageType.Image(Inno.Rendering.RenderTextureFormat,Inno.Rendering.RenderStorageAccess,Inno.Rendering.RenderTextureDimension,System.Boolean)"
-source: xml
-reviewed: ef1ddc1083f46813f23fc6ce6e5fc8dc0039dec4ef8c324c38a654bf3d766fa4
-title: "ShaderStorageType.Image"
+symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderStorageType.Image(Inno.Rendering.RenderTextureFormat,Inno.Rendering.RenderStorageAccess,Inno.Rendering.RenderTextureDimension,System.Boolean)
+title: ShaderStorageType.Image
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: ef1ddc1083f46813f23fc6ce6e5fc8dc0039dec4ef8c324c38a654bf3d766fa4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a formatted storage image; target capabilities must separately support its access and format.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.262c9b5fe5714074b680b384087ac8b0cba6653d40e636ef1a4046e21dd48823
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.Selectable(System.String,System.Boolean,InnoEditor.ImGui.ImGuiSelectableFlags,System.Numerics.Vector2)"
-source: xml
-reviewed: d027686d0739d5db9c95c790327f0f91e324dddd3094c8cf373f51025c5d5eed
-title: "ImGui.Selectable"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.Selectable(System.String,System.Boolean,InnoEditor.ImGui.ImGuiSelectableFlags,System.Numerics.Vector2)
+title: ImGui.Selectable
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: d027686d0739d5db9c95c790327f0f91e324dddd3094c8cf373f51025c5d5eed
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws one selectable item.

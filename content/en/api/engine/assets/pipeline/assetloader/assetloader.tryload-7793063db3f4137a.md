@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.7793063db3f4137ae1e3010b5cc3c789f6a7526cc63498ab64be8fb1d4e85ea1
-symbol: "engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.TryLoad(Inno.Assets.AssetPath,System.Type,Inno.Assets.AssetObject@)"
-source: xml
-reviewed: bbc75508022b936b808949d23925965d7782ffad1d4e643a0703e68d3277c58e
-title: "AssetLoader.TryLoad"
+symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.TryLoad(Inno.Assets.AssetPath,System.Type,Inno.Assets.AssetObject@)
+title: AssetLoader.TryLoad
 kind: api
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
 apiSurface: source-clr
+reviewed: bbc75508022b936b808949d23925965d7782ffad1d4e643a0703e68d3277c58e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tries to load a canonical asset by isolated source path.

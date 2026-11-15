@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.92bd75e5ba76a47b64630d7bc824473edf1f345ba04354b905a39de52ef725ac
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.SliderFloat(System.String,System.Single@,System.Single,System.Single,InnoEditor.ImGui.ImGuiSliderFlags)"
-source: xml
-reviewed: f8e50155bf1f0aca7823c97f07a84384c535d33b1713318a4dafc4eacd42e2ac
-title: "ImGui.SliderFloat"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.SliderFloat(System.String,System.Single@,System.Single,System.Single,InnoEditor.ImGui.ImGuiSliderFlags)
+title: ImGui.SliderFloat
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: f8e50155bf1f0aca7823c97f07a84384c535d33b1713318a4dafc4eacd42e2ac
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a bounded floating-point slider.

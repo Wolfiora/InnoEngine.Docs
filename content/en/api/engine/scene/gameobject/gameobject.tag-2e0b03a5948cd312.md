@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2e0b03a5948cd3125f3e72a714a1a0de62a2de9e49e7275d24d1cc32636621b6
-symbol: "engine:Inno.Scene:P:Inno.Scene.GameObject.tag"
-source: xml
-reviewed: 414440bc22dd542fa3beac83342fd49407e9f68d8308881533d6bafb181109a1
-title: "GameObject.tag"
+symbol: engine:Inno.Scene:P:Inno.Scene.GameObject.tag
+title: GameObject.tag
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 414440bc22dd542fa3beac83342fd49407e9f68d8308881533d6bafb181109a1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets the ordinal tag used to categorize and query this game object.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bd73b4d87fea3db605ef473ff9df1353096571b9c850598190803acb5985951c
-symbol: "engine:Inno.Adapter.Input:M:Inno.Adapter.Input.EventInputSource.ProcessEvent(Inno.Core.Events.Event)"
-source: xml
-reviewed: 7b27c950c7afc1a8a8f0e2c0e1a27cfcb0d0d905e95e4de11058692486786a8f
-title: "EventInputSource.ProcessEvent"
+symbol: engine:Inno.Adapter.Input:M:Inno.Adapter.Input.EventInputSource.ProcessEvent(Inno.Core.Events.Event)
+title: EventInputSource.ProcessEvent
 kind: api
-owners: [Inno.Adapter.Input]
+owners:
+- Inno.Adapter.Input
 apiSurface: source-clr
+reviewed: 7b27c950c7afc1a8a8f0e2c0e1a27cfcb0d0d905e95e4de11058692486786a8f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Dispatches one translated platform event to active session backends, honoring event consumption.

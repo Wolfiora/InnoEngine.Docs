@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c8e59e10c66eb371b0998bcc6900a5efda4d82eb6269acdc69a7e159cd57d599
-symbol: "engine:Inno.Adapter.Text:M:Inno.Adapter.Text.TextBackendId.#ctor(System.String)"
-source: xml
-reviewed: 28cca0c003c9faf0e70dc70898b6e8ec48b9ba8bc01eb1db0796bb8a7f0b822c
-title: "TextBackendId.Constructor"
+symbol: engine:Inno.Adapter.Text:M:Inno.Adapter.Text.TextBackendId.#ctor(System.String)
+title: TextBackendId.Constructor
 kind: api
-owners: [Inno.Adapter.Text]
+owners:
+- Inno.Adapter.Text
 apiSurface: source-clr
+reviewed: 28cca0c003c9faf0e70dc70898b6e8ec48b9ba8bc01eb1db0796bb8a7f0b822c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an ordinal, case-sensitive implementation identifier.

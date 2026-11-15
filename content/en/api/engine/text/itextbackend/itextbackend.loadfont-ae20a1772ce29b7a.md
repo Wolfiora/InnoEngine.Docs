@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ae20a1772ce29b7a1b8e3a6fc9bcf4b325fa63f5109bebfa205d0460c93a8940
-symbol: "engine:Inno.Text:M:Inno.Text.ITextBackend.LoadFont(System.ReadOnlySpan{System.Byte},System.Int32)"
-source: xml
-reviewed: b6c28fa2edcaeb712332902087996372ce169388a3b4108cf5061aeaf302989b
-title: "ITextBackend.LoadFont"
+symbol: engine:Inno.Text:M:Inno.Text.ITextBackend.LoadFont(System.ReadOnlySpan{System.Byte},System.Int32)
+title: ITextBackend.LoadFont
 kind: api
-owners: [Inno.Text]
+owners:
+- Inno.Text
 apiSurface: source-clr
+reviewed: b6c28fa2edcaeb712332902087996372ce169388a3b4108cf5061aeaf302989b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Loads one face from encoded OpenType data.

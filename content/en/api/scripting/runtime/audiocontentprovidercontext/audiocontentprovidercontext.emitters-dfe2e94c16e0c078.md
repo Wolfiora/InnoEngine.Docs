@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.dfe2e94c16e0c07899c4ed3e56aec29fc8ec196db25e669b4714a448dc670265
-symbol: "scripting:Inno.Audio:P:InnoEngine.Audio.AudioContentProviderContext.emitters"
-source: xml
-reviewed: 7f7de03f55a73da8f208e0abc47d6ed3fbdffe5654b598a25ab97d4f2612714c
-title: "AudioContentProviderContext.emitters"
+symbol: scripting:Inno.Audio:P:InnoEngine.Audio.AudioContentProviderContext.emitters
+title: AudioContentProviderContext.emitters
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: editor-script
+reviewed: 7f7de03f55a73da8f208e0abc47d6ed3fbdffe5654b598a25ab97d4f2612714c
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets a frozen copy of submitted source state in provider order.

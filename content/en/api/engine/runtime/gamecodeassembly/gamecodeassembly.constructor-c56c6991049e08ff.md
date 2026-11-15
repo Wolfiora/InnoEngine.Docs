@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c56c6991049e08ff291497be1de588e3511d5db4323c8bfede79933c042bbb71
-symbol: "engine:Inno.Runtime:M:Inno.Runtime.GameCodeAssembly.#ctor(System.String,System.String)"
-source: xml
-reviewed: 7fc2007819b8fdedd0f4da6f8bb437c9b172af7a77fba91c9efd1919f00fe4f8
-title: "GameCodeAssembly.Constructor"
+symbol: engine:Inno.Runtime:M:Inno.Runtime.GameCodeAssembly.#ctor(System.String,System.String)
+title: GameCodeAssembly.Constructor
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: 7fc2007819b8fdedd0f4da6f8bb437c9b172af7a77fba91c9efd1919f00fe4f8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Validates and freezes one logical assembly identity.

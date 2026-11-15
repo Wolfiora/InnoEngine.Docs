@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.interactions.b6567fd27bbfedd4
-symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorMenuAttribute"
-source: xml
-reviewed: 874f4e91e0f461b4c80376974a338ed7829d7f0a9208a52aa139118d35c1d243
-title: "EditorMenuAttribute"
+symbol: engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorMenuAttribute
+title: EditorMenuAttribute
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 874f4e91e0f461b4c80376974a338ed7829d7f0a9208a52aa139118d35c1d243
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 aliases: []

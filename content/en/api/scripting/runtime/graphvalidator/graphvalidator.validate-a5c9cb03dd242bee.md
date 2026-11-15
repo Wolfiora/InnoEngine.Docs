@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a5c9cb03dd242bee4badaff506466aff17572ba7679494822629c7b3d45fabaa
-symbol: "scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphValidator.Validate(InnoEngine.Graphs.GraphDocument,InnoEngine.Graphs.IGraphNodeDefinitionResolver,InnoEngine.Graphs.IGraphTypeConversion,System.Boolean)"
-source: xml
-reviewed: 2641faaf2b1dcfca2d320f3f80baafc1e5d05fee56607226da629f1577c47471
-title: "GraphValidator.Validate"
+symbol: scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphValidator.Validate(InnoEngine.Graphs.GraphDocument,InnoEngine.Graphs.IGraphNodeDefinitionResolver,InnoEngine.Graphs.IGraphTypeConversion,System.Boolean)
+title: GraphValidator.Validate
 kind: api
-owners: [Inno.Core.Graphs]
+owners:
+- Inno.Core.Graphs
 apiSurface: editor-script
+reviewed: 2641faaf2b1dcfca2d320f3f80baafc1e5d05fee56607226da629f1577c47471
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Validates node availability, ports, edge types, capacity, required inputs and cycles.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0c2c4a47e828c367d5dcd87d92d5ad55836addc75cee48c071066ff406ed83b3
-symbol: "engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportOutput.#ctor(System.String,Inno.Adapter.Presentation.PresentationTextureHandle,System.Int32,System.Int32)"
-source: xml
-reviewed: 0d562c8597bbc1bb002efc0dded39a01edc970cf92f789f52c9a4b28b3fa7cc0
-title: "EditorViewportOutput.Constructor"
+symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportOutput.#ctor(System.String,Inno.Adapter.Presentation.PresentationTextureHandle,System.Int32,System.Int32)
+title: EditorViewportOutput.Constructor
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 0d562c8597bbc1bb002efc0dded39a01edc970cf92f789f52c9a4b28b3fa7cc0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates an editor viewport output snapshot.

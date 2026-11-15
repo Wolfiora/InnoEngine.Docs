@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.1f97333f18c8504a058a7087edfd949e0a374422311a8d043d5a40c5e79357cf
-symbol: "engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.F11"
-source: xml
-reviewed: 784841537de100fb30f48a69252513adf5b25ba956dbf624ef55bd6899e3f743
-title: "KeyCode.F11"
+symbol: engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.F11
+title: KeyCode.F11
 kind: api
-owners: [Inno.Core.Input]
+owners:
+- Inno.Core.Input
 apiSurface: source-clr
+reviewed: 784841537de100fb30f48a69252513adf5b25ba956dbf624ef55bd6899e3f743
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 The F11 function key.

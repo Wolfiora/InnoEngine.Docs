@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.78d435c655f58c20677d013f8076ac44e33bc0c2206fee4d2487a7968052f5f6
-symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCacheSnapshot.TryGetTypeRef(System.Type,Inno.Extensibility.Types.TypeRef@)"
-source: xml
-reviewed: 3f63ac87f03a2f4bde9bb4bfc355e5a0400047dfec5a470e90c00a88d7050446
-title: "TypeCacheSnapshot.TryGetTypeRef"
+symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCacheSnapshot.TryGetTypeRef(System.Type,Inno.Extensibility.Types.TypeRef@)
+title: TypeCacheSnapshot.TryGetTypeRef
 kind: api
-owners: [Inno.Extensibility.Types]
+owners:
+- Inno.Extensibility.Types
 apiSurface: source-clr
+reviewed: 3f63ac87f03a2f4bde9bb4bfc355e5a0400047dfec5a470e90c00a88d7050446
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tries to get the reference for a CLR type in this snapshot.

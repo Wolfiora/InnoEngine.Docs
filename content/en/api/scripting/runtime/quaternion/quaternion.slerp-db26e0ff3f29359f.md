@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.db26e0ff3f29359fa235172e027fb084fd705a30682ca62f9462b9ef258b56c5
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.Slerp(InnoEngine.Mathematics.Quaternion,InnoEngine.Mathematics.Quaternion,System.Single)"
-source: xml
-reviewed: c7a49d6d6b56c53036b6f70eaf5179515a998e82731aa538bb65c89cf0278f5d
-title: "Quaternion.Slerp"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.Slerp(InnoEngine.Mathematics.Quaternion,InnoEngine.Mathematics.Quaternion,System.Single)
+title: Quaternion.Slerp
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: c7a49d6d6b56c53036b6f70eaf5179515a998e82731aa538bb65c89cf0278f5d
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Interpolates along the shortest spherical path between two rotations.

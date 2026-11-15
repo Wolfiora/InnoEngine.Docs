@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fb72a3e087f3a7ab35e10f5eb215031e6482595e31dd8b2718d10b268fffbc5a
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderStencilFaceState.#ctor(Inno.Rendering.RenderStencilCompare,Inno.Rendering.RenderStencilOperation,Inno.Rendering.RenderStencilOperation,Inno.Rendering.RenderStencilOperation)"
-source: xml
-reviewed: 86ecbc5498226afedc8985b228ca029b5a8b6617e186754134483aec89a2f5e7
-title: "RenderStencilFaceState.Constructor"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderStencilFaceState.#ctor(Inno.Rendering.RenderStencilCompare,Inno.Rendering.RenderStencilOperation,Inno.Rendering.RenderStencilOperation,Inno.Rendering.RenderStencilOperation)
+title: RenderStencilFaceState.Constructor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 86ecbc5498226afedc8985b228ca029b5a8b6617e186754134483aec89a2f5e7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates one face stencil state.

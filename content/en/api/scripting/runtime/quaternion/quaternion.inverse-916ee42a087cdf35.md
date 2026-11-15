@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.916ee42a087cdf353b825aa5d5a9bf144efbd19e44012853d58de35c82edbb63
-symbol: "scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.Inverse(InnoEngine.Mathematics.Quaternion)"
-source: xml
-reviewed: 19bff09d9f7de3e67fd1a998bdd037a06fb779552ada0a64865c3d6ac7bea610
-title: "Quaternion.Inverse"
+symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.Inverse(InnoEngine.Mathematics.Quaternion)
+title: Quaternion.Inverse
 kind: api
-owners: [Inno.Core.Mathematics]
+owners:
+- Inno.Core.Mathematics
 apiSurface: editor-script
+reviewed: 19bff09d9f7de3e67fd1a998bdd037a06fb779552ada0a64865c3d6ac7bea610
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Calculates the inverse rotation represented by the supplied quaternion.

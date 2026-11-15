@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4f9783d10ee624d8358aea6462b4878879ce3ec399758978c418028daa82e673
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.CopyPassBuilder.CopyTexture(InnoEngine.Rendering.RenderTextureHandle,InnoEngine.Rendering.RenderTextureHandle)"
-source: xml
-reviewed: 0471e427a35e24133486e250fba0d08a2bc82335f0baad0072ce5c29cc6105ee
-title: "CopyPassBuilder.CopyTexture"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.CopyPassBuilder.CopyTexture(InnoEngine.Rendering.RenderTextureHandle,InnoEngine.Rendering.RenderTextureHandle)
+title: CopyPassBuilder.CopyTexture
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 0471e427a35e24133486e250fba0d08a2bc82335f0baad0072ce5c29cc6105ee
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Declares one texture copy operation.

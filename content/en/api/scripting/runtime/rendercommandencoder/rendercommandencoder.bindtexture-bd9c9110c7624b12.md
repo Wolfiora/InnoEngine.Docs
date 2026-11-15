@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.bd9c9110c7624b12283d311d209216450034049b574e95821ae6143c8aab82bb
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.BindTexture(InnoEngine.Rendering.RenderBindingId,InnoEngine.Rendering.RenderTextureHandle)"
-source: xml
-reviewed: c5b9b0f1366cd1ec807c87f533181eaf672c5bb0dbe29d3fab142fd442f3ac58
-title: "RenderCommandEncoder.BindTexture"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.BindTexture(InnoEngine.Rendering.RenderBindingId,InnoEngine.Rendering.RenderTextureHandle)
+title: RenderCommandEncoder.BindTexture
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: c5b9b0f1366cd1ec807c87f533181eaf672c5bb0dbe29d3fab142fd442f3ac58
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Binds a graph texture to a shader interface slot.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.05e583d92dcc23d8f8059aa9c48122d7ca2655dc9e8c8f56bf6380087d02576a
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.RunAsync(System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Threading.CancellationToken,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.IO.TextWriter,System.IO.TextWriter)"
-source: xml
-reviewed: 1e1e72b74446138adf84b373c6add40e4d83ef348130083d375c13e24be8ec3d
-title: "ToolchainEnvironment.RunAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.RunAsync(System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Threading.CancellationToken,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.IO.TextWriter,System.IO.TextWriter)
+title: ToolchainEnvironment.RunAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 1e1e72b74446138adf84b373c6add40e4d83ef348130083d375c13e24be8ec3d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Runs a child build with caller-owned output destinations and the shared process retirement protocol.

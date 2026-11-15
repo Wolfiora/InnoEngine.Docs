@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.453f442fc2344304644ad27cf2f2895c2926061bc3ffc37981ff30f5110ebd30
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.IEditorSelectionCoordinator.RegisterIdentityDomain(Inno.Core.Identity.IdentityAllocator)"
-source: xml
-reviewed: 7048073b4282d91feecfca68b9e057f022835cf913c0709c1221669923d96ab4
-title: "IEditorSelectionCoordinator.RegisterIdentityDomain"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.IEditorSelectionCoordinator.RegisterIdentityDomain(Inno.Core.Identity.IdentityAllocator)
+title: IEditorSelectionCoordinator.RegisterIdentityDomain
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 7048073b4282d91feecfca68b9e057f022835cf913c0709c1221669923d96ab4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Registers the Core identity domain used by a temporary scene presentation.

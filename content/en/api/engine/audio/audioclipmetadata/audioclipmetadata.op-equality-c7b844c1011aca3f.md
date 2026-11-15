@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c7b844c1011aca3f73fd86551cab25acb368ba4d22324e8b94d793dbedcc7c2d
-symbol: "engine:Inno.Audio:M:Inno.Audio.AudioClipMetadata.op_Equality(Inno.Audio.AudioClipMetadata,Inno.Audio.AudioClipMetadata)"
-source: xml
-reviewed: 1e7d5a69e1808a9e97a97a7d3c3b1667451a34bd19123b12327152993dda3f1b
-title: "AudioClipMetadata.op_Equality"
+symbol: engine:Inno.Audio:M:Inno.Audio.AudioClipMetadata.op_Equality(Inno.Audio.AudioClipMetadata,Inno.Audio.AudioClipMetadata)
+title: AudioClipMetadata.op_Equality
 kind: api
-owners: [Inno.Audio]
+owners:
+- Inno.Audio
 apiSurface: source-clr
+reviewed: 1e7d5a69e1808a9e97a97a7d3c3b1667451a34bd19123b12327152993dda3f1b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

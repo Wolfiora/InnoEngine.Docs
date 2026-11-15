@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ae39662ed69dee7322321b469043abe5476f351862dec77d031cd61235ff8a46
-symbol: "engine:Inno.Scripting.Compiler:M:Inno.Scripting.Compiler.ScriptAssemblyDefinitionAsset.#ctor(System.String,Inno.Scripting.Compiler.ScriptAssemblyScope,System.String[],System.String[],System.Boolean,System.Boolean)"
-source: xml
-reviewed: f853c610884aa1940ea1ffa0d906dd515ed8a569f4c3646bf1a2f34accb3c37b
-title: "ScriptAssemblyDefinitionAsset.Constructor"
+symbol: engine:Inno.Scripting.Compiler:M:Inno.Scripting.Compiler.ScriptAssemblyDefinitionAsset.#ctor(System.String,Inno.Scripting.Compiler.ScriptAssemblyScope,System.String[],System.String[],System.Boolean,System.Boolean)
+title: ScriptAssemblyDefinitionAsset.Constructor
 kind: api
-owners: [Inno.Scripting.Compiler]
+owners:
+- Inno.Scripting.Compiler
 apiSurface: source-clr
+reviewed: f853c610884aa1940ea1ffa0d906dd515ed8a569f4c3646bf1a2f34accb3c37b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a configured script assembly definition for native asset export.

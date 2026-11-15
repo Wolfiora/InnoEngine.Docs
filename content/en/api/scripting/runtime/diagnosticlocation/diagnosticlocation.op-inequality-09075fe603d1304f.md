@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.09075fe603d1304f1f63a9c8c7c3ca6b419dadce0f56c8677fc6718c2f4981b0
-symbol: "scripting:Inno.Core.Diagnostics:M:InnoEngine.Diagnostics.DiagnosticLocation.op_Inequality(InnoEngine.Diagnostics.DiagnosticLocation,InnoEngine.Diagnostics.DiagnosticLocation)"
-source: xml
-reviewed: 5dea97802ac963682c122115f774bd2200a29427d7820d3959967c6cadd5df19
-title: "DiagnosticLocation.op_Inequality"
+symbol: scripting:Inno.Core.Diagnostics:M:InnoEngine.Diagnostics.DiagnosticLocation.op_Inequality(InnoEngine.Diagnostics.DiagnosticLocation,InnoEngine.Diagnostics.DiagnosticLocation)
+title: DiagnosticLocation.op_Inequality
 kind: api
-owners: [Inno.Core.Diagnostics]
+owners:
+- Inno.Core.Diagnostics
 apiSurface: editor-script
+reviewed: 5dea97802ac963682c122115f774bd2200a29427d7820d3959967c6cadd5df19
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether two locations are different.

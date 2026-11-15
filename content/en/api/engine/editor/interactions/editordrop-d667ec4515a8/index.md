@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.interactions.b26d3b6076d96255
-symbol: "engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorDrop\u00602"
-source: xml
-reviewed: 16c32725c9874c8796f304a96f4f549889e10cfcb39e0d6f8e5796694c9ba8f1
-title: "EditorDrop\u003CTSource, TTarget\u003E"
+symbol: engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorDrop`2
+title: EditorDrop<TSource, TTarget>
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 16c32725c9874c8796f304a96f4f549889e10cfcb39e0d6f8e5796694c9ba8f1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 aliases: []

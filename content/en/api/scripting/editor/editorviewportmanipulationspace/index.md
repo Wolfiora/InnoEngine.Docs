@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.editor.rendering.editor-script.bca4218cd453c1f4
-symbol: "scripting:Inno.Editor.Rendering:T:InnoEditor.Rendering.EditorViewportManipulationSpace"
-source: xml
-reviewed: c4903b2107887e7197922e30a034408be2be28500ec6bed99a1bc0ba917a5003
-title: "EditorViewportManipulationSpace"
+symbol: scripting:Inno.Editor.Rendering:T:InnoEditor.Rendering.EditorViewportManipulationSpace
+title: EditorViewportManipulationSpace
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: editor-script
+reviewed: c4903b2107887e7197922e30a034408be2be28500ec6bed99a1bc0ba917a5003
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-editor-rendering

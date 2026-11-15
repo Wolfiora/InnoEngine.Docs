@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.159e1ca6dc9f513e98a97c8a9a46b7343b563e5c661ec5e2f1e5727951437477
-symbol: "engine:Inno.Input:M:Inno.Input.InputSnapshot.#ctor(System.Int64,System.Collections.Generic.IEnumerable{Inno.Core.Input.KeyCode},System.Collections.Generic.IEnumerable{Inno.Core.Input.KeyCode},System.Collections.Generic.IEnumerable{Inno.Core.Input.KeyCode},System.Collections.Generic.IEnumerable{Inno.Core.Input.MouseButton},System.Collections.Generic.IEnumerable{Inno.Core.Input.MouseButton},System.Collections.Generic.IEnumerable{Inno.Core.Input.MouseButton},Inno.Core.Mathematics.Vector2,Inno.Core.Mathematics.Vector2,Inno.Core.Mathematics.Vector2,Inno.Core.Input.KeyModifier,System.Collections.Generic.IEnumerable{System.String})"
-source: xml
-reviewed: 10124605765604e993088a5e4c7dfc6653c9c41b23e3a996421a59ec482788a4
-title: "InputSnapshot.Constructor"
+symbol: engine:Inno.Input:M:Inno.Input.InputSnapshot.#ctor(System.Int64,System.Collections.Generic.IEnumerable{Inno.Core.Input.KeyCode},System.Collections.Generic.IEnumerable{Inno.Core.Input.KeyCode},System.Collections.Generic.IEnumerable{Inno.Core.Input.KeyCode},System.Collections.Generic.IEnumerable{Inno.Core.Input.MouseButton},System.Collections.Generic.IEnumerable{Inno.Core.Input.MouseButton},System.Collections.Generic.IEnumerable{Inno.Core.Input.MouseButton},Inno.Core.Mathematics.Vector2,Inno.Core.Mathematics.Vector2,Inno.Core.Mathematics.Vector2,Inno.Core.Input.KeyModifier,System.Collections.Generic.IEnumerable{System.String})
+title: InputSnapshot.Constructor
 kind: api
-owners: [Inno.Input]
+owners:
+- Inno.Input
 apiSurface: source-clr
+reviewed: 10124605765604e993088a5e4c7dfc6653c9c41b23e3a996421a59ec482788a4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a complete immutable input snapshot.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f7360f7308ab25c8e3648973dff20180fb96e74e32d4840c5d402ff982964a15
-symbol: "engine:Inno.Editor.Rendering:P:Inno.Editor.Rendering.EditorShaderArtifactValidationSnapshot.state"
-source: xml
-reviewed: 88ea3b7ef72a46e557c256388cc8b75bf61cc693cf260e7a9a9ddf42febe06c0
-title: "EditorShaderArtifactValidationSnapshot.state"
+symbol: engine:Inno.Editor.Rendering:P:Inno.Editor.Rendering.EditorShaderArtifactValidationSnapshot.state
+title: EditorShaderArtifactValidationSnapshot.state
 kind: api
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
 apiSurface: source-clr
+reviewed: 88ea3b7ef72a46e557c256388cc8b75bf61cc693cf260e7a9a9ddf42febe06c0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Pending, successful, or failed validation state.

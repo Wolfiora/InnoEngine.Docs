@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c81ac1a1dec9e0c3b4f95fc798140b5987316b37c2204b1d949fe7f57f263282
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.AddRasterPass\u0060\u00601(System.String,InnoEngine.Rendering.RenderPhaseId,\u0060\u00600,InnoEngine.Rendering.RenderPassExecute{\u0060\u00600})"
-source: xml
-reviewed: b1ef0246c516d8a304a8bfd07977e73c76b14b007be05795ecc683d4a5698f79
-title: "RenderGraphBuilder.AddRasterPass"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.AddRasterPass``1(System.String,InnoEngine.Rendering.RenderPhaseId,``0,InnoEngine.Rendering.RenderPassExecute{``0})
+title: RenderGraphBuilder.AddRasterPass
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: b1ef0246c516d8a304a8bfd07977e73c76b14b007be05795ecc683d4a5698f79
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Adds a frame-scoped raster pass.

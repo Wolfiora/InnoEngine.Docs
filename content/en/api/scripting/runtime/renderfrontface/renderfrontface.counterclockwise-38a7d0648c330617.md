@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.38a7d0648c330617e0050d7c405495648d8200fd1ce43de0aea96c7bf867ee09
-symbol: "scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderFrontFace.CounterClockwise"
-source: xml
-reviewed: 76f8c439b15ebb7fe4f992a2177abcd6ca1137d8412ffb3a43f2afc932d0d420
-title: "RenderFrontFace.CounterClockwise"
+symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderFrontFace.CounterClockwise
+title: RenderFrontFace.CounterClockwise
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 76f8c439b15ebb7fe4f992a2177abcd6ca1137d8412ffb3a43f2afc932d0d420
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Counter-clockwise vertices form a front-facing triangle.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.rendering.shaders.7f970da683c5cadc
-symbol: "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderNodePort"
-source: xml
-reviewed: bd41508fe70a9936e426faa2005151372c0310f272999d2213624ab4466e510f
-title: "ShaderNodePort"
+symbol: engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderNodePort
+title: ShaderNodePort
 kind: api
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
 apiSurface: source-clr
+reviewed: bd41508fe70a9936e426faa2005151372c0310f272999d2213624ab4466e510f
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-rendering-shaders
 aliases: []

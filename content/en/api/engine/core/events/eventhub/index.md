@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.core.events.cbb7274ff8371a01
-symbol: "engine:Inno.Core.Events:T:Inno.Core.Events.EventHub"
-source: xml
-reviewed: d884f8944fe808180effbca7d5c57b51d184314655f503c5e241119d9610c3b9
-title: "EventHub"
+symbol: engine:Inno.Core.Events:T:Inno.Core.Events.EventHub
+title: EventHub
 kind: api
-owners: [Inno.Core.Events]
+owners:
+- Inno.Core.Events
 apiSurface: source-clr
+reviewed: d884f8944fe808180effbca7d5c57b51d184314655f503c5e241119d9610c3b9
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-core-events#dispatch-and-lifetime-contract
 aliases: []

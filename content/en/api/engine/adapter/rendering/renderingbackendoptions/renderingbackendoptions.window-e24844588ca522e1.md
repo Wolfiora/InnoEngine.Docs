@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e24844588ca522e155823607a0d652e93396a21ec4abb7f0eab03582fdf92409
-symbol: "engine:Inno.Adapter.Rendering:P:Inno.Adapter.Rendering.RenderingBackendOptions.window"
-source: xml
-reviewed: 41856e94cc771e9478a6b12a7556b60a8c8e54113e5d11d72d0191d867e6c709
-title: "RenderingBackendOptions.window"
+symbol: engine:Inno.Adapter.Rendering:P:Inno.Adapter.Rendering.RenderingBackendOptions.window
+title: RenderingBackendOptions.window
 kind: api
-owners: [Inno.Adapter.Rendering]
+owners:
+- Inno.Adapter.Rendering
 apiSurface: source-clr
+reviewed: 41856e94cc771e9478a6b12a7556b60a8c8e54113e5d11d72d0191d867e6c709
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets or sets the primary platform window used as the presentation surface.

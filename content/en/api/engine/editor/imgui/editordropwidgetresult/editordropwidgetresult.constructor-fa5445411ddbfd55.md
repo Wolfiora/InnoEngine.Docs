@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fa5445411ddbfd558ccbbd4898b56dac816a6365ab2b0c2c2c94b0b3cfb69a19
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorDropWidgetResult.#ctor(System.Boolean,Inno.Editor.Interactions.EditorDropStatus,Inno.Editor.Interactions.EditorDropResult)"
-source: xml
-reviewed: 637c8fe87a978542ce522253dcf5611c03ddc0bc9d84134b89f1914cb757a2c0
-title: "EditorDropWidgetResult.Constructor"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorDropWidgetResult.#ctor(System.Boolean,Inno.Editor.Interactions.EditorDropStatus,Inno.Editor.Interactions.EditorDropResult)
+title: EditorDropWidgetResult.Constructor
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 637c8fe87a978542ce522253dcf5611c03ddc0bc9d84134b89f1914cb757a2c0
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a combined native-preview and managed-drop result.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9fc1b95e2dffbf1a6154133b8c57d923d314531e8e0e1b480dad1ef9ab02a8e3
-symbol: "engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettingObject.GetAsDoubleArray(System.String,System.Double[])"
-source: xml
-reviewed: a30b21c3bf7516311766ffb809f1bc306f5d527456d22561945214ef018a705c
-title: "EditorSettingObject.GetAsDoubleArray"
+symbol: engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettingObject.GetAsDoubleArray(System.String,System.Double[])
+title: EditorSettingObject.GetAsDoubleArray
 kind: api
-owners: [Inno.Editor.Settings]
+owners:
+- Inno.Editor.Settings
 apiSurface: source-clr
+reviewed: a30b21c3bf7516311766ffb809f1bc306f5d527456d22561945214ef018a705c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets a double-precision array property, or a copied fallback when absent.

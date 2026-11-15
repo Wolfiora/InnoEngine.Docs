@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0999e8f188a0b5ffa8d13ef4f3d4a121f1e00a2b48d837f063d752f27771a4db
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildFingerprint.Create(Inno.Build.Toolchains.NativeBuildContext,System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{Inno.Build.Toolchains.NativeBuildInput},System.Threading.CancellationToken)"
-source: xml
-reviewed: b86a685994475c4f800e5dd6838400edc90b6899270bf61e71ed708723ed0687
-title: "NativeBuildFingerprint.Create"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildFingerprint.Create(Inno.Build.Toolchains.NativeBuildContext,System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{Inno.Build.Toolchains.NativeBuildInput},System.Threading.CancellationToken)
+title: NativeBuildFingerprint.Create
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: b86a685994475c4f800e5dd6838400edc90b6899270bf61e71ed708723ed0687
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Hashes declarations using the current operation's initial snapshot or explicit fresh verification phase.

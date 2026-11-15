@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.d9fdeeac2ae3203a0f2369b6558ce646e4141cf88e47ef71b4aa53f9ebf4941d
-symbol: "scripting:Inno.Core.Settings:P:InnoEngine.Settings.ProjectSettingContributionContext.contributorId"
-source: xml
-reviewed: 6433092ea0cddd7a27e03cadbd3367bcb48fcba3102dbae3066ed6609cd742a9
-title: "ProjectSettingContributionContext.contributorId"
+symbol: scripting:Inno.Core.Settings:P:InnoEngine.Settings.ProjectSettingContributionContext.contributorId
+title: ProjectSettingContributionContext.contributorId
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: editor-script
+reviewed: 6433092ea0cddd7a27e03cadbd3367bcb48fcba3102dbae3066ed6609cd742a9
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the stable Plugin ID, or `project` for the project-authored contribution.

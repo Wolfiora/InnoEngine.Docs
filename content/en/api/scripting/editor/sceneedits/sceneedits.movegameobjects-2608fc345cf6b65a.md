@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2608fc345cf6b65a4b5fae414c52ef0a03e3b5e208abd0ac2a543a6ccf6fc8d5
-symbol: "scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneEdits.MoveGameObjects(System.Collections.Generic.IReadOnlyList{InnoEngine.Scene.GameObject},InnoEngine.Scene.GameScene,InnoEngine.Scene.GameObject,System.Int32)"
-source: xml
-reviewed: c45262e034db2cb0bc6232c4668fca6229baff04fc6912e0bd5c8f38509df880
-title: "SceneEdits.MoveGameObjects"
+symbol: scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneEdits.MoveGameObjects(System.Collections.Generic.IReadOnlyList{InnoEngine.Scene.GameObject},InnoEngine.Scene.GameScene,InnoEngine.Scene.GameObject,System.Int32)
+title: SceneEdits.MoveGameObjects
 kind: api
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
 apiSurface: editor-script
+reviewed: c45262e034db2cb0bc6232c4668fca6229baff04fc6912e0bd5c8f38509df880
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Moves minimal selected roots together, preserving descendants and recording only affected placements.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.c6bc90617140e352576f6ce915b4c62d6e46c57abddbea57126d818e4a79a8db
-symbol: "engine:Inno.Editor.Graph:M:Inno.Editor.Graph.GraphDocumentController.ReplaceDocument(Inno.Core.Graphs.GraphDocument,System.String,System.String)"
-source: xml
-reviewed: dfd9f7ea9c2780ee0ee77f4458a86dd8c57cd0ad44fd33e476c0267580e3a0e4
-title: "GraphDocumentController.ReplaceDocument"
+symbol: engine:Inno.Editor.Graph:M:Inno.Editor.Graph.GraphDocumentController.ReplaceDocument(Inno.Core.Graphs.GraphDocument,System.String,System.String)
+title: GraphDocumentController.ReplaceDocument
 kind: api
-owners: [Inno.Editor.Graph]
+owners:
+- Inno.Editor.Graph
 apiSurface: source-clr
+reviewed: dfd9f7ea9c2780ee0ee77f4458a86dd8c57cd0ad44fd33e476c0267580e3a0e4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Replaces the complete neutral document as one atomic, undoable authoring operation.

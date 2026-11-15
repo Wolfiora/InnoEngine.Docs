@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.89ca8024be37b658f7fb6422f95e4c8a5ee9ce988abfdad29967f9b59d0e8046
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorActionContext\u00601.#ctor"
-source: xml
-reviewed: 288ebcef1835f91dc371d1f9770eaf5e8223b2cd303fb89a87ad776af18b8367
-title: "EditorActionContext\u003CTTarget\u003E.Constructor"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorActionContext`1.#ctor
+title: EditorActionContext<TTarget>.Constructor
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: 288ebcef1835f91dc371d1f9770eaf5e8223b2cd303fb89a87ad776af18b8367
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Appears in the generated script reference without a matching public or protected engine constructor.

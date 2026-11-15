@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.9b06fd3bf648bade8cdcb262bcd9c1eb9ce89f1e2083760501aed46343fdb290
-symbol: "engine:Inno.UI:M:Inno.UI.UI.SetContent(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle,System.String,Inno.UI.UiDocumentFragment)"
-source: xml
-reviewed: f9b0f0038ea1f49405517ebd812bd63f012ebe439b875256ade901c706c9f259
-title: "UI.SetContent"
+symbol: engine:Inno.UI:M:Inno.UI.UI.SetContent(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle,System.String,Inno.UI.UiDocumentFragment)
+title: UI.SetContent
 kind: api
-owners: [Inno.UI]
+owners:
+- Inno.UI
 apiSurface: source-clr
+reviewed: f9b0f0038ea1f49405517ebd812bd63f012ebe439b875256ade901c706c9f259
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Replaces an element's children with an explicitly tagged source-language fragment.

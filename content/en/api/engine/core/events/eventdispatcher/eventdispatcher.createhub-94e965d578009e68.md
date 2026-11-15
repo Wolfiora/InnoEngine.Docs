@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.94e965d578009e6818b0c6db4495f2f6285c4e9e90de0a1115a1010b1c52be74
-symbol: "engine:Inno.Core.Events:M:Inno.Core.Events.EventDispatcher.CreateHub(System.Int32)"
-source: xml
-reviewed: 8a74dc9762f02fccb69a7688a65948820d3ab18a9cb408d4dc056a4a5709113c
-title: "EventDispatcher.CreateHub"
+symbol: engine:Inno.Core.Events:M:Inno.Core.Events.EventDispatcher.CreateHub(System.Int32)
+title: EventDispatcher.CreateHub
 kind: api
-owners: [Inno.Core.Events]
+owners:
+- Inno.Core.Events
 apiSurface: source-clr
+reviewed: 8a74dc9762f02fccb69a7688a65948820d3ab18a9cb408d4dc056a4a5709113c
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a new hub attached to this dispatcher.

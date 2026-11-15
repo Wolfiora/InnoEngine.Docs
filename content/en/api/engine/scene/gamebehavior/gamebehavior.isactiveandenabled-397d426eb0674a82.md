@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.397d426eb0674a825c2263ba8a6b0ff5f3193de0a13d0b7ff85dfe34bc56d67d
-symbol: "engine:Inno.Scene:P:Inno.Scene.GameBehavior.isActiveAndEnabled"
-source: xml
-reviewed: 5bc9a55d26caa37e5da8f2196606bafa234dc49ae489bbd387c8c9370cc1702b
-title: "GameBehavior.isActiveAndEnabled"
+symbol: engine:Inno.Scene:P:Inno.Scene.GameBehavior.isActiveAndEnabled
+title: GameBehavior.isActiveAndEnabled
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: source-clr
+reviewed: 5bc9a55d26caa37e5da8f2196606bafa234dc49ae489bbd387c8c9370cc1702b
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets whether this component is enabled and active in its owning hierarchy.

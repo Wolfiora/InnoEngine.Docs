@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0c93b1cef6ca80454e29a5d09918bd929ba24bfd5cb752f50b0b12fcfa31bfbe
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderTextureDescriptor.GetSubresourceLayerCount(System.Int32)"
-source: xml
-reviewed: c7989e24cc57edb7f42749361fb7008dfe430a68ccb07459527efd8098139bcf
-title: "RenderTextureDescriptor.GetSubresourceLayerCount"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderTextureDescriptor.GetSubresourceLayerCount(System.Int32)
+title: RenderTextureDescriptor.GetSubresourceLayerCount
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: c7989e24cc57edb7f42749361fb7008dfe430a68ccb07459527efd8098139bcf
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the number of independently addressable layers or slices at one mip level.

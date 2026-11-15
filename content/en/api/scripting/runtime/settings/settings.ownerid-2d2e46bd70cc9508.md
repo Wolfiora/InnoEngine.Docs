@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2d2e46bd70cc950808a57712105f7dd41d6e99982d80b4a6ff34b5246bff1b68
-symbol: "scripting:Inno.Core.Settings:P:InnoEngine.Settings.Settings.ownerId"
-source: xml
-reviewed: 07a140cb0ce735c297cde564b171b57d37842db7e732d3874c2a26bd11e08d6c
-title: "Settings.ownerId"
+symbol: scripting:Inno.Core.Settings:P:InnoEngine.Settings.Settings.ownerId
+title: Settings.ownerId
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: editor-script
+reviewed: 07a140cb0ce735c297cde564b171b57d37842db7e732d3874c2a26bd11e08d6c
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the current owner's lifetime identity. Pair it with revision when caching an isolated settings snapshot.

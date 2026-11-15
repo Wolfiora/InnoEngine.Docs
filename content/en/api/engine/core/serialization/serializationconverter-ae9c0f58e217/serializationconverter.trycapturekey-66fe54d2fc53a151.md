@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.66fe54d2fc53a1517981904ef29f223eee2aa9a2c782b568c0261a54141da3e2
-symbol: "engine:Inno.Core.Serialization:M:Inno.Core.Serialization.Converters.SerializationConverter\u00601.TryCaptureKey(\u00600,Inno.Core.Serialization.SerializationCaptureKeyBuilder)"
-source: xml
-reviewed: 43b1f026b8edc05455db5cbedc3ad3e11a931e9c991653a6a4fee0d8889487f1
-title: "SerializationConverter\u003CT\u003E.TryCaptureKey"
+symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.Converters.SerializationConverter`1.TryCaptureKey(`0,Inno.Core.Serialization.SerializationCaptureKeyBuilder)
+title: SerializationConverter<T>.TryCaptureKey
 kind: api
-owners: [Inno.Core.Serialization]
+owners:
+- Inno.Core.Serialization
 apiSurface: source-clr
+reviewed: 43b1f026b8edc05455db5cbedc3ad3e11a931e9c991653a6a4fee0d8889487f1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Optionally declares every input to a snapshot capture without writing data.

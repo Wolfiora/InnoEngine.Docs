@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.8a1813cb0ac294dfbc5c14ec4a3c0398ea4850093ad5d3fca753923ff1a80864
-symbol: "scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderTextureReadbackResult.#ctor(InnoEngine.Rendering.RenderTextureDescriptor,System.Int32,System.Int32,System.ReadOnlySpan{System.Byte})"
-source: xml
-reviewed: 4f2500e2a98b0b1aeb94499c8dee8a1ddb0caeb09a952f92d7e852f425137021
-title: "RenderTextureReadbackResult.Constructor"
+symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderTextureReadbackResult.#ctor(InnoEngine.Rendering.RenderTextureDescriptor,System.Int32,System.Int32,System.ReadOnlySpan{System.Byte})
+title: RenderTextureReadbackResult.Constructor
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: editor-script
+reviewed: 4f2500e2a98b0b1aeb94499c8dee8a1ddb0caeb09a952f92d7e852f425137021
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates one immutable texture readback result.

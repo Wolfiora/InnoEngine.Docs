@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.4b01ea381a407438eead1a4a2a635fbd84444ba466e37ef6aa41eaaabf3fe6a0
-symbol: "scripting:Inno.Scene:M:InnoEngine.Scene.GameScene.FindObjectWithTag(System.String)"
-source: xml
-reviewed: 24047b8d9c6988a0dfd75bdd642a6e10c5981a8a5b6330b943982fff26f88ccf
-title: "GameScene.FindObjectWithTag"
+symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameScene.FindObjectWithTag(System.String)
+title: GameScene.FindObjectWithTag
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: 24047b8d9c6988a0dfd75bdd642a6e10c5981a8a5b6330b943982fff26f88ccf
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Finds the first game object with an ordinally matching tag in scene storage order.

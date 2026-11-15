@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f41758aca9d5f30fd69e639723d337d52e7627cce66a993f83e5f991ed1c3b93
-symbol: "engine:Inno.Rendering:P:Inno.Rendering.RenderDeviceAllocationCounters.textureAllocations"
-source: xml
-reviewed: c85432bfc307cd1bf899514fe3630f247b7ec8f2cfc42d64e3850a03b4c775c7
-title: "RenderDeviceAllocationCounters.textureAllocations"
+symbol: engine:Inno.Rendering:P:Inno.Rendering.RenderDeviceAllocationCounters.textureAllocations
+title: RenderDeviceAllocationCounters.textureAllocations
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: c85432bfc307cd1bf899514fe3630f247b7ec8f2cfc42d64e3850a03b4c775c7
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets successful native transient texture allocations since device creation.

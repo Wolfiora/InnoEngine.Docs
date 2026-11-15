@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.2e55df87e962307033aba63fba022bef635750050f9e57702dc4fc2138370a9b
-symbol: "engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorAction.Cancel"
-source: xml
-reviewed: 65541b2d63d6fb5af475aefe9fe981f10675de4cf74143842d31a21aafaaac2d
-title: "EditorAction.Cancel"
+symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorAction.Cancel
+title: EditorAction.Cancel
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: 65541b2d63d6fb5af475aefe9fe981f10675de4cf74143842d31a21aafaaac2d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Cancels the current operation and returns the action to its idle state.

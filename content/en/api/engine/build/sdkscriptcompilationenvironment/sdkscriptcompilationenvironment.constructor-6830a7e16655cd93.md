@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.6830a7e16655cd939cbb0185b94c8f8e6fdcf2535caff34df690d24680b15830
-symbol: "engine:Inno.Build:M:Inno.Build.SdkScriptCompilationEnvironment.#ctor(System.String,System.String)"
-source: xml
-reviewed: a3b52c2660955023e71b007a71420c52b4b907bea76d775207c8d14db8ef6e49
-title: "SdkScriptCompilationEnvironment.Constructor"
+symbol: engine:Inno.Build:M:Inno.Build.SdkScriptCompilationEnvironment.#ctor(System.String,System.String)
+title: SdkScriptCompilationEnvironment.Constructor
 kind: api
-owners: [Inno.Build]
+owners:
+- Inno.Build
 apiSurface: source-clr
+reviewed: a3b52c2660955023e71b007a71420c52b4b907bea76d775207c8d14db8ef6e49
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Creates a host-owned input provider without selecting installed reference packs independently.

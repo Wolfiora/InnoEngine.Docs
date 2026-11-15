@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.f51e69ac39345306cc5831ddcdcb2a4cb66f9ac7d389c8a94b4fd553602d03a8
-symbol: "engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorSelectionSnapshot.anchor"
-source: xml
-reviewed: e8bd6dc70d1eacbdf0eaa1c3e72fc13c8116114db9c23c46ecb91e057ff0184a
-title: "EditorSelectionSnapshot.anchor"
+symbol: engine:Inno.Editor.Interactions:P:Inno.Editor.Interactions.EditorSelectionSnapshot.anchor
+title: EditorSelectionSnapshot.anchor
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: source-clr
+reviewed: e8bd6dc70d1eacbdf0eaa1c3e72fc13c8116114db9c23c46ecb91e057ff0184a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the range anchor identity, or null when there is no registered anchor.

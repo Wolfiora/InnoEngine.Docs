@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.fe8f596424088b86b692289f3503062370f8986cd725ecbcd3a1cb2c3e2b1a68
-symbol: "engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorDragDropRenderer.Source(Inno.Editor.Interactions.EditorInteraction,Inno.Editor.Interactions.EditorDragData,System.Action)"
-source: xml
-reviewed: 164d7ba05ddab3309c96c664013ec5198bf3057ad2c8a6d3d771466761aaeee2
-title: "EditorDragDropRenderer.Source"
+symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorDragDropRenderer.Source(Inno.Editor.Interactions.EditorInteraction,Inno.Editor.Interactions.EditorDragData,System.Action)
+title: EditorDragDropRenderer.Source
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: source-clr
+reviewed: 164d7ba05ddab3309c96c664013ec5198bf3057ad2c8a6d3d771466761aaeee2
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Publishes managed drag data for the most recently submitted ImGui item.

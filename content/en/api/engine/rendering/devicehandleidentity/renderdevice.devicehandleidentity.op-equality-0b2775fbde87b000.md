@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0b2775fbde87b000aa37e08118a78430bd1fab84e4eeff5208a1dcb66125ea68
-symbol: "engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.DeviceHandleIdentity.op_Equality(Inno.Rendering.RenderDevice.DeviceHandleIdentity,Inno.Rendering.RenderDevice.DeviceHandleIdentity)"
-source: xml
-reviewed: 2084905730d79874aa5045e3861cdb128e889fa816530b3bae224867c37e0c09
-title: "RenderDevice.DeviceHandleIdentity.op_Equality"
+symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.DeviceHandleIdentity.op_Equality(Inno.Rendering.RenderDevice.DeviceHandleIdentity,Inno.Rendering.RenderDevice.DeviceHandleIdentity)
+title: RenderDevice.DeviceHandleIdentity.op_Equality
 kind: api
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
 apiSurface: source-clr
+reviewed: 2084905730d79874aa5045e3861cdb128e889fa816530b3bae224867c37e0c09
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

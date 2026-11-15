@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.inno.build.toolchains.0557f94c44647f8a
-symbol: "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeLibraryKind"
-source: xml
-reviewed: 3cbe0a8819a51322c58c5bc20b7bd0dacf8dc251725740913066ace2f09ba925
-title: "NativeLibraryKind"
+symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeLibraryKind
+title: NativeLibraryKind
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 3cbe0a8819a51322c58c5bc20b7bd0dacf8dc251725740913066ace2f09ba925
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 contracts:
 - project.inno-build-toolchains
 aliases: []

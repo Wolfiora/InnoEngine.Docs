@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.ceb1a411036cd5217f96e6fe50a6f0c5e174381d2874008a96b3028d3666767b
-symbol: "engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.ModuleAssemblyDescriptor.op_Inequality(Inno.Extensibility.Modules.ModuleAssemblyDescriptor,Inno.Extensibility.Modules.ModuleAssemblyDescriptor)"
-source: xml
-reviewed: 61b721222746bb639f0d51e32a3f249e2c66021a179d20bee2bda8a6906e81ea
-title: "ModuleAssemblyDescriptor.op_Inequality"
+symbol: engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.ModuleAssemblyDescriptor.op_Inequality(Inno.Extensibility.Modules.ModuleAssemblyDescriptor,Inno.Extensibility.Modules.ModuleAssemblyDescriptor)
+title: ModuleAssemblyDescriptor.op_Inequality
 kind: api
-owners: [Inno.Extensibility.Modules]
+owners:
+- Inno.Extensibility.Modules
 apiSurface: source-clr
+reviewed: 61b721222746bb639f0d51e32a3f249e2c66021a179d20bee2bda8a6906e81ea
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 No XML description is available.

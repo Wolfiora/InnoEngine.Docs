@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a83cd8b5ccea96b0a7e974f443e3c6996a76e214057ed8360c0500177a659752
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeArtifactPublisher.PublishAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeBuildRecipe,System.Func{Inno.Build.Toolchains.NativeBuildContext,System.String,System.Threading.CancellationToken,System.Threading.Tasks.Task},System.Threading.CancellationToken,System.Func{Inno.Build.Toolchains.NativeBuildContext,System.String,System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.NativeArtifact}})"
-source: xml
-reviewed: fe93314f46b3e7aee7c6f07b9eaf3ef3453e01bee2ee71f6c7d0d7fade60956d
-title: "NativeArtifactPublisher.PublishAsync"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeArtifactPublisher.PublishAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeBuildRecipe,System.Func{Inno.Build.Toolchains.NativeBuildContext,System.String,System.Threading.CancellationToken,System.Threading.Tasks.Task},System.Threading.CancellationToken,System.Func{Inno.Build.Toolchains.NativeBuildContext,System.String,System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.NativeArtifact}})
+title: NativeArtifactPublisher.PublishAsync
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: fe93314f46b3e7aee7c6f07b9eaf3ef3453e01bee2ee71f6c7d0d7fade60956d
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reuses a validated product or builds an isolated candidate and publishes it after input stability checks.

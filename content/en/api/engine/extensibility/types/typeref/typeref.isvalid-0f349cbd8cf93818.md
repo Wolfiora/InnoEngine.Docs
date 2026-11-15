@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0f349cbd8cf9381808114cb6726239d05909a470e2961eba5bca74ea2bd1b94e
-symbol: "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRef.IsValid(Inno.Extensibility.Types.TypeCatalog)"
-source: xml
-reviewed: c17ff947948be240f4803e5591505fceeabc501ca3a2004f28052fddf9ead0f8
-title: "TypeRef.IsValid"
+symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRef.IsValid(Inno.Extensibility.Types.TypeCatalog)
+title: TypeRef.IsValid
 kind: api
-owners: [Inno.Extensibility.Types]
+owners:
+- Inno.Extensibility.Types
 apiSurface: source-clr
+reviewed: c17ff947948be240f4803e5591505fceeabc501ca3a2004f28052fddf9ead0f8
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Determines whether one type catalog currently resolves this reference.

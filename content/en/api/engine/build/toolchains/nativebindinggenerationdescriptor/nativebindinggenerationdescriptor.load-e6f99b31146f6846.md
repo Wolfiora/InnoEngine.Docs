@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.e6f99b31146f6846b9a80668003310c51d95944abb3812dc3abb29e394b5e1b8
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationDescriptor.Load(System.String)"
-source: xml
-reviewed: 2b0eadd6f0b1afed4c16b42181646bb723684fba7ebd8058a929bcbf4c082dfc
-title: "NativeBindingGenerationDescriptor.Load"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationDescriptor.Load(System.String)
+title: NativeBindingGenerationDescriptor.Load
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 2b0eadd6f0b1afed4c16b42181646bb723684fba7ebd8058a929bcbf4c082dfc
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Reads and validates the result of a completed component generation request.

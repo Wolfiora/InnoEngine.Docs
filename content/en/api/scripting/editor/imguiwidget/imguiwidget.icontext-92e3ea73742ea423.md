@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.92e3ea73742ea423cb158b141a4176a3dc6a188e54bd962c934392a35a7fc883
-symbol: "scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.IconText(System.String,System.String,System.Boolean)"
-source: xml
-reviewed: 6a320c52b4893d2c01126eb1970376379bd0a2393ab7c40f724a524d5094f51e
-title: "ImGuiWidget.IconText"
+symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.IconText(System.String,System.String,System.Boolean)
+title: ImGuiWidget.IconText
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: 6a320c52b4893d2c01126eb1970376379bd0a2393ab7c40f724a524d5094f51e
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws icon and text with the icon's visible glyph bounds centered in a slot that expands when the glyph is wider than the normal editor icon slot.

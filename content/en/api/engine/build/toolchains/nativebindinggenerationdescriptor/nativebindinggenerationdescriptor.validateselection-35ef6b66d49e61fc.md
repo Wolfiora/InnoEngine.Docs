@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.35ef6b66d49e61fcbdbd340d6208a150264c2a9189a1a99446cdb5188bc8a90c
-symbol: "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationDescriptor.ValidateSelection(System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeBindingGenerationDescriptor},System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeLibraryKind})"
-source: xml
-reviewed: 993f7046ed9aae3df7a38ccb954f34fed539a967ef6d2cd53fb615255dbc5b7a
-title: "NativeBindingGenerationDescriptor.ValidateSelection"
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationDescriptor.ValidateSelection(System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeBindingGenerationDescriptor},System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeLibraryKind})
+title: NativeBindingGenerationDescriptor.ValidateSelection
 kind: api
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
 apiSurface: source-clr
+reviewed: 993f7046ed9aae3df7a38ccb954f34fed539a967ef6d2cd53fb615255dbc5b7a
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Rejects publication when the managed selection differs from the complete native generations to deploy.

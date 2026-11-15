@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.312db7f244039a3e243d151d42b987a9521a304b86bb783ddd10d1db9d83f03d
-symbol: "engine:Inno.Runtime:M:Inno.Runtime.StaticAssemblyCatalogSource.GetAssemblies"
-source: xml
-reviewed: a66811b4266f918dad9f507f9ad37c0635e396f52419ac23cc28f67f9b2eaaa1
-title: "StaticAssemblyCatalogSource.GetAssemblies"
+symbol: engine:Inno.Runtime:M:Inno.Runtime.StaticAssemblyCatalogSource.GetAssemblies
+title: StaticAssemblyCatalogSource.GetAssemblies
 kind: api
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
 apiSurface: source-clr
+reviewed: a66811b4266f918dad9f507f9ad37c0635e396f52419ac23cc28f67f9b2eaaa1
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the complete host assemblies that participate in extension discovery.

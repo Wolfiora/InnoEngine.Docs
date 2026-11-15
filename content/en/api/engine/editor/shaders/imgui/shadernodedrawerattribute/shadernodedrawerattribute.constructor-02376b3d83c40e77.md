@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.02376b3d83c40e77244f8473c2e0173038e3844ea9c7633c44b5776d983b0a6a
-symbol: "engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderNodeDrawerAttribute.#ctor(System.String,System.String,System.String,System.Int32,System.Boolean)"
-source: xml
-reviewed: 47d5455f58271b3dcaec7f774757b494e203957f8171dd609c1c4d145ed985bd
-title: "ShaderNodeDrawerAttribute.Constructor"
+symbol: engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderNodeDrawerAttribute.#ctor(System.String,System.String,System.String,System.Int32,System.Boolean)
+title: ShaderNodeDrawerAttribute.Constructor
 kind: api
-owners: [Inno.Editor.Shaders.ImGui]
+owners:
+- Inno.Editor.Shaders.ImGui
 apiSurface: source-clr
+reviewed: 47d5455f58271b3dcaec7f774757b494e203957f8171dd609c1c4d145ed985bd
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Associates the drawer with one stable node definition.

@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.46aa83b0cdcd0002d598e57d1253e9d93998cec8cde00e08604c06ef6b044641
-symbol: "scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.EditorPalette.opacitySubtle"
-source: xml
-reviewed: d1212b8d7c9018ec12941ba478df88a2aa5c48207d6e707256100ba681afdc73
-title: "EditorPalette.opacitySubtle"
+symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.EditorPalette.opacitySubtle
+title: EditorPalette.opacitySubtle
 kind: api
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
 apiSurface: editor-script
+reviewed: d1212b8d7c9018ec12941ba478df88a2aa5c48207d6e707256100ba681afdc73
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets subtle opacity for selection washes and low-emphasis overlays.

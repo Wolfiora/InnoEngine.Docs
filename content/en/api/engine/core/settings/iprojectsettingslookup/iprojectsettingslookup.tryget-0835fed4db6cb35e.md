@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.0835fed4db6cb35eeac4402403f37188186d53d344d2f57a3de39954a5b2ecbf
-symbol: "engine:Inno.Core.Settings:M:Inno.Core.Settings.IProjectSettingsLookup.TryGet\u0060\u00601(Inno.Core.Settings.ProjectSettingId,\u0060\u00600@)"
-source: xml
-reviewed: 0af07641084c1de36c1388e4efc1f4c5176aed905d5ba9e5fc8a65565c164d0e
-title: "IProjectSettingsLookup.TryGet"
+symbol: engine:Inno.Core.Settings:M:Inno.Core.Settings.IProjectSettingsLookup.TryGet``1(Inno.Core.Settings.ProjectSettingId,``0@)
+title: IProjectSettingsLookup.TryGet
 kind: api
-owners: [Inno.Core.Settings]
+owners:
+- Inno.Core.Settings
 apiSurface: source-clr
+reviewed: 0af07641084c1de36c1388e4efc1f4c5176aed905d5ba9e5fc8a65565c164d0e
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Tries to get an isolated effective setting from the active extension generation.

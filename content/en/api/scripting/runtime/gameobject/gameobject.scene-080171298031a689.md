@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.080171298031a689abae81d0dcc2a144504e208954645ab1345526005c732223
-symbol: "scripting:Inno.Scene:P:InnoEngine.Scene.GameObject.scene"
-source: xml
-reviewed: 114ddebb7ce4399a18a8bdf309d154fe795a1d62243467bbacbea7bf0c56cd9b
-title: "GameObject.scene"
+symbol: scripting:Inno.Scene:P:InnoEngine.Scene.GameObject.scene
+title: GameObject.scene
 kind: api
-owners: [Inno.Scene]
+owners:
+- Inno.Scene
 apiSurface: editor-script
+reviewed: 114ddebb7ce4399a18a8bdf309d154fe795a1d62243467bbacbea7bf0c56cd9b
 apiScope: Runtime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Gets the owning scene.

@@ -1,12 +1,17 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.a97d02ce88f3b69e36f2d5fb34e8ec3eca4ea23e1f9e64b56fea9c41373e9cd7
-symbol: "engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasView.DrawConnection(Inno.Editor.ImGui.EditorDrawList,System.Numerics.Vector2,System.Numerics.Vector2,System.UInt32,System.Single)"
-source: xml
-reviewed: 1e0f93a6be5655c9b952c3016ed8c9a25e74af016b7a67868e12cb0aea9c00d4
-title: "GraphCanvasView.DrawConnection"
+symbol: engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasView.DrawConnection(Inno.Editor.ImGui.EditorDrawList,System.Numerics.Vector2,System.Numerics.Vector2,System.UInt32,System.Single)
+title: GraphCanvasView.DrawConnection
 kind: api
-owners: [Inno.Editor.Graph.ImGui]
+owners:
+- Inno.Editor.Graph.ImGui
 apiSurface: source-clr
+reviewed: 1e0f93a6be5655c9b952c3016ed8c9a25e74af016b7a67868e12cb0aea9c00d4
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Draws a horizontal-tangent connection using the same curve used for hit testing.

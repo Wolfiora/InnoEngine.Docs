@@ -1,13 +1,18 @@
 ---
+# Generated metadata. Maintained by API synchronization and review tooling.
 uid: api.79a69246f9d6175a0c3db64cfd06c39ea4416467dc572cf181a8552dae3ea8d7
-symbol: "scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorArgumentAction\u00601.Execute(InnoEditor.Interactions.EditorActionContext)"
-source: xml
-reviewed: bfb29400a1226aa1573c9abe5ca55fca652ed40085fbbba961e0bb97210ba2ba
-title: "EditorArgumentAction\u003CTArgument\u003E.Execute"
+symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorArgumentAction`1.Execute(InnoEditor.Interactions.EditorActionContext)
+title: EditorArgumentAction<TArgument>.Execute
 kind: api
-owners: [Inno.Editor.Interactions]
+owners:
+- Inno.Editor.Interactions
 apiSurface: editor-script
+reviewed: bfb29400a1226aa1573c9abe5ca55fca652ed40085fbbba961e0bb97210ba2ba
 apiScope: Editor
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+outdated: false
 ---
 
 Applies the editor action to the supplied interaction context.
