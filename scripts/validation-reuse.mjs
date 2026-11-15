@@ -58,7 +58,7 @@ export async function verify() {
     return;
   }
   await copyFile('artifacts/reuse/import/api-editorial.json', 'artifacts/api-editorial.json');
-  await output({ reused: 'true', source: selection.run });
+  await output({ reused: 'true', source: selection.run, artifact: selection.site });
   await appendFile(process.env.GITHUB_STEP_SUMMARY, `Reused identical-tree validation from [run ${selection.run}](https://github.com/${repository}/actions/runs/${selection.run}). Preview and delivery use its [single site artifact](https://github.com/${repository}/actions/runs/${selection.run}/artifacts/${selection.site}). No build or upload repeated.\n`);
 }
 export async function create() {

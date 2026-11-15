@@ -1,5 +1,7 @@
 # Shared navigation and validation reuse
 
+Historical implementation record. Hosting details are superseded by [Pages publication](../plans/PAGES_PUBLICATION_2026_11_15.md).
+
 ## Requested behavior
 
 Replace per-page complete sidebar HTML with shared, content-addressed child lists. Ordinary categories are disclosure-only; categories with canonical home pages use a separate left plus/minus button and linked label. Keep alphabetical API navigation, reader choice persistence, animations in both directions, reduced-motion support, and no-JavaScript category-table reading paths.
