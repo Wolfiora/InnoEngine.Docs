@@ -6,8 +6,7 @@ import path from 'node:path';
 import { createHash } from 'node:crypto';
 import { selectSdk, verifySdkArchive } from '../scripts/documentation-sdk.mjs';
 import { prepareCatalog, validateBinding } from '../scripts/prepare-catalog.mjs';
-import { siteOrigin, assertPublicationBranch } from '../scripts/site-environment.mjs';
-import { nestSite, buildSite } from '../scripts/build-site.mjs';
+import { siteOrigin } from '../scripts/site-environment.mjs';
 import { run } from '../scripts/tooling-process.mjs';
 import { readExampleReceipts } from '../scripts/check-projection.mjs';
 
@@ -18,22 +17,8 @@ async function fixture(t) {
   return root;
 }
 
-test('production domain needs no user token or hardcoded project name', () => {
-  assert.equal(siteOrigin({ VERCEL: '1', VERCEL_PROJECT_PRODUCTION_URL: 'assigned.vercel.app' }), 'https://assigned.vercel.app');
-  assert.equal(siteOrigin({ DOCS_SITE_URL: 'https://docs.example.org' }), 'https://docs.example.org');
-  assert.throws(() => siteOrigin({ VERCEL: '1' }), /system environment/);
-  for (const value of ['http://docs.example.org', 'https://name:secret@example.org', 'https://example.org/path', 'https://example.org/?x=y']) {
-    assert.throws(() => siteOrigin({ DOCS_SITE_URL: value }), /HTTPS origin/);
-  }
-});
-
-test('only main production can enter the hosting build, even through manual redeploy', async () => {
-  assertPublicationBranch({});
-  assertPublicationBranch({ VERCEL: '1', VERCEL_ENV: 'production', VERCEL_GIT_COMMIT_REF: 'main' });
-  for (const branch of ['draft', 'feature/test', undefined]) {
-    await assert.rejects(buildSite('does-not-exist', { VERCEL: '1', VERCEL_ENV: 'production', VERCEL_GIT_COMMIT_REF: branch }), /main production/);
-  }
-  assert.throws(() => assertPublicationBranch({ VERCEL: '1', VERCEL_ENV: 'preview', VERCEL_GIT_COMMIT_REF: 'main' }), /main production/);
+test('GitHub Pages uses one canonical origin without host environment fallbacks', () => {
+  assert.equal(siteOrigin(), 'https://wolfiora.github.io');
 });
 
 test('mutable tooling refs and another source repository cannot bootstrap', () => {
@@ -72,18 +57,6 @@ test('an active preparation lock preserves existing catalog and lock bytes', asy
   await assert.rejects(prepareCatalog({ root }), /Another catalog preparation/);
   assert.equal(await readFile(path.join(root, 'artifacts/canonical-catalog.json'), 'utf8'), 'previous snapshot');
   assert.equal(await readFile(path.join(workspace, 'prepare.lock'), 'utf8'), 'active-owner');
-});
-
-test('static host output retains base-path deep links, bytes and no second copy', async t => {
-  const root = await fixture(t);
-  const site = path.join(root, 'dist');
-  await mkdir(path.join(site, 'api/type'), { recursive: true });
-  await writeFile(path.join(site, 'index.html'), 'home');
-  await writeFile(path.join(site, 'api/type/index.html'), 'member');
-  await nestSite(site);
-  assert.equal(await readFile(path.join(site, 'InnoEngine.Docs/api/type/index.html'), 'utf8'), 'member');
-  await assert.rejects(readFile(path.join(site, 'index.html')), /ENOENT/);
-  await assert.rejects(readFile(site + '.vercel-staging/index.html'), /ENOENT/);
 });
 
 test('tool failures and cancellation stop preparation instead of falling through to a stale build', async () => {

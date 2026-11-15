@@ -1,5 +1,7 @@
 # Vercel Git deployment
 
+Superseded on 2026-11-15 by [GitHub Pages publication](../plans/PAGES_PUBLICATION_2026_11_15.md). The original decision below is retained as historical context.
+
 Date: 2026-11-14. Approved by the user after comparing artifact upload with direct Git import.
 
 ## Decision and reason
