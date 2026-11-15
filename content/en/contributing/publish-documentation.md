@@ -34,9 +34,9 @@ Only the deploy job receives `pages: write` and `id-token: write`. It uses the r
 
 The pipeline freezes the validated site's file identities, checks the publication size, and uploads one Pages-compatible archive. That archive is both the downloadable preview and the delivery artifact. To inspect a preview locally, unpack the downloaded ZIP, then its `artifact.tar`, and serve the files under `/InnoEngine.Docs/`.
 
-A successful trusted draft/main run may supply Windows projection evidence when the Git tree, canonical origin, Node version and Windows image match. The pipeline authenticates the receipt and requires the original site archive to remain available. The current Linux preparation check still runs. Expired or missing evidence causes execution; invalid evidence fails visibly.
+Draft checks use an Incremental plan and explicitly partial previews. A release PR validates its complete merge candidate and archives one site. Main can reuse that authenticated Release artifact when content, API binding, controls, origin and runtime inputs match, even if the commit identity changes. Candidate control code must match trusted main; otherwise main revalidates once. Linux portability has a separate input-bound receipt. Expired or missing evidence causes execution; altered authenticated evidence fails visibly.
 
-Publication verifies the artifact producer and source tree, confirms current required validation, rejects an obsolete main revision, and asks GitHub Pages to deploy the existing artifact ID. It does not rebuild, copy source files into a publishing branch, or upload another site. Both fresh and reused archives preserve their original producer identity.
+Publication verifies the artifact producer and actual publication inputs, confirms current required validation, rejects an obsolete main revision, and asks GitHub Pages to deploy the existing artifact ID. It does not rebuild, copy source files into a publishing branch, or upload another site. Both fresh and reused archives preserve their original producer identity.
 
 ## Size, caching and retention
 

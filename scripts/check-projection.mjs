@@ -14,7 +14,7 @@ import { inside, readOwned } from './owned-input.mjs';
 const digest = (bytes) => createHash('sha256').update(bytes).digest('hex');
 
 /** Validate a website projection against exported canonical facts, never a second Markdown interpretation. */
-export async function checkProjection({ root, catalog, site, complete = false, exampleReceipts = [] }) {
+export async function checkProjection({ root, catalog, site, complete = false, exampleReceipts = [], selectedPaths = null, frozen = false }) {
   root = path.resolve(root);
   const errors = [];
   const binding = JSON.parse(await readOwned(root, 'reference/engine.lock.json'));
@@ -27,11 +27,11 @@ export async function checkProjection({ root, catalog, site, complete = false, e
   }
   const projectNames = projects.filter(isDocumentedProjectGuide).map((project) => project.name).sort();
   if (JSON.stringify(projectNames) !== JSON.stringify(Object.keys(catalog.projects).sort())) errors.push('Canonical project coverage differs from the bound manifest.');
-  const sourceFiles = (await files(inside(root, 'content/en'))).filter((file) => file.endsWith('.md'))
+  const sourceFiles = frozen ? null : (await files(inside(root, 'content/en'))).filter((file) => file.endsWith('.md'))
     .map((file) => path.relative(root, file).replaceAll('\\', '/')).sort();
   const catalogFiles = Object.keys(catalog.sourceFiles ?? {}).filter(file => file.startsWith('content/en/') && file.endsWith('.md')).sort();
-  if (JSON.stringify(sourceFiles) !== JSON.stringify(catalogFiles)) errors.push('Canonical catalog does not contain the exact current Markdown file set. Refresh explicitly.');
-  for (const [file, identity] of Object.entries(catalog.sourceFiles ?? {})) {
+  if (!frozen && JSON.stringify(sourceFiles) !== JSON.stringify(catalogFiles)) errors.push('Canonical catalog does not contain the exact current Markdown file set. Refresh explicitly.');
+  for (const [file, identity] of Object.entries(frozen ? {} : catalog.sourceFiles ?? {})) {
     if (digest((await readOwned(root, file)).toString('utf8')) !== identity) errors.push(`Stale canonical input: ${file}.`);
   }
   const pages = new Map();
@@ -47,7 +47,7 @@ export async function checkProjection({ root, catalog, site, complete = false, e
     const slug = route(page.path);
     if (pages.has(slug)) errors.push(`Duplicate website route: ${slug}.`);
     pages.set(slug, page);
-    if (!site) continue;
+    if (!site || (selectedPaths && !selectedPaths.has(page.path))) continue;
     const rendered = inside(path.resolve(site), slug === '404' ? '404.html' : `${slug ? slug + '/' : ''}index.html`);
     const tree = fromHtml(await readFile(rendered, 'utf8'));
     const ids = new Set();
@@ -108,8 +108,8 @@ export async function checkProjection({ root, catalog, site, complete = false, e
     siteBytes = 0;
     await files(path.resolve(site), (_file, info) => { siteBytes += info.size; });
   }
-  return { status: errors.length ? 'Failed' : 'Passed', scope: complete ? 'CompleteProjection' : 'AvailableProjection',
-    snapshot: catalog.snapshot, contentIdentity, pages: catalog.pages.length, projects: projectNames.length, siteBytes,
+  return { status: errors.length ? 'Failed' : 'Passed', scope: selectedPaths ? 'PartialPreview' : complete ? 'CompleteProjection' : 'AvailableProjection',
+    snapshot: catalog.snapshot, contentIdentity, pages: selectedPaths?.size ?? catalog.pages.length, projects: projectNames.length, siteBytes,
     missingProjects, sourceApiStatus: catalog.sourceApiStatus,
     apiInputsIdentity: digest(JSON.stringify((catalog.references ?? []).map(reference => [reference.model, reference.configuration, reference.target ?? null, reference.identity]).sort())),
     exampleReceiptsIdentity: digest(JSON.stringify(exampleReceipts.map(receipt => receipt.identity).sort())), exampleEvidence, api, licenses, errors };
@@ -264,7 +264,7 @@ export async function readExampleReceipts(root, file) {
   const receipts = [];
   for (const report of manifest.reports) {
     if (typeof report.path !== 'string' || !/^reports\/[a-f0-9]{64}\.json$/.test(report.path)) throw new Error('Example receipts require explicit content-addressed report files.');
-    receipts.push({ identity: report.identity, bytes: await readOwned(root, path.join(path.dirname(file), report.path)) });
+    receipts.push({ identity: report.identity, bytes: await readOwned(root, path.join(path.dirname(file), report.path)), ...(report.context ? {context:report.context} : {}) });
   }
   return receipts;
 }

@@ -7,7 +7,7 @@ function fixture() {
   const run = { id: 12, run_attempt: 2, repository: { full_name: 'Wolfiora/InnoEngine.Docs' },
     head_repository: { full_name: 'Wolfiora/InnoEngine.Docs' }, head_sha: commit, head_branch: 'main',
     path: '.github/workflows/documentation.yml', event: 'push', status: 'completed', conclusion: 'success' };
-  const jobs = [{ name: 'Documentation validation', run_id: 12, status: 'completed', conclusion: 'success' }];
+  const jobs = [{ name: 'Documentation projection', run_id: 12, status: 'in_progress', steps: ['Reconcile reused and newly executed example groups', 'Retain exact example receipts for trusted reuse'].map(name=>({name,status:'completed',conclusion:'success'})) }];
   const artifacts = [{ id: 24, name: 'documentation-examples-attempt-2', expired: false, size_in_bytes: 42,
     workflow_run: { id: 12, head_sha: commit }, digest: 'sha256:' + 'b'.repeat(64) }];
   return { run, jobs, artifacts };
@@ -23,7 +23,7 @@ test('missing baseline requires compilation without inventing a successful recei
 for (const [name, change, accepted] of [
   ['exact successful main attempt', () => {}, true],
   ['foreign origin', f => { f.run.head_repository.full_name = 'foreign/fork'; }, false],
-  ['failed aggregate', f => { f.jobs[0].conclusion = 'failure'; }, false],
+  ['failed compiler reconciliation', f => { f.jobs[0].steps[0].conclusion = 'failure'; }, false],
   ['missing digest', f => { delete f.artifacts[0].digest; }, false],
   ['wrong producer commit', f => { f.artifacts[0].workflow_run.head_sha = 'c'.repeat(40); }, false],
 ]) test(`example reuse authorizes ${name}`, async t => {

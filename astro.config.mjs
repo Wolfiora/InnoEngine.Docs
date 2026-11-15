@@ -9,8 +9,16 @@ import { siteOrigin } from './scripts/site-environment.mjs';
 
 // Framework navigation supplies tutorial pagination only. The shared sidebar owns
 // the complete API tree, so Starlight need not rebuild that tree for every page.
-const navigation = parse(readFileSync(new URL('./navigation/en.yml', import.meta.url), 'utf8'))
+let navigation = parse(readFileSync(new URL('./navigation/en.yml', import.meta.url), 'utf8'))
   .map(item => item.apiDirectories ? { slug: 'api', label: item.label } : item);
+const plan = process.env.INNO_DOCS_PLAN ? JSON.parse(readFileSync(process.env.INNO_DOCS_PLAN, 'utf8')) : null;
+if (plan?.mode === 'Incremental') {
+  const routes = new Set(plan.pages.map(page => page.route));
+  const filter = items => items.flatMap(item => item.items
+    ? [{ ...item, items: filter(item.items) }].filter(group => group.items.length)
+    : routes.has(item.slug) ? [item] : []);
+  navigation = filter(navigation);
+}
 
 export default defineConfig({
   site: siteOrigin(),
@@ -19,6 +27,7 @@ export default defineConfig({
   markdown: { processor: unified({ remarkPlugins: [apiPresentation, [documentationLinks, { contentRoot: './content/en', publicRoot: './public', base: '/InnoEngine.Docs' }]] }) },
   integrations: [
     starlight({
+      pagefind: !plan || plan.search,
       title: 'InnoEngine',
       description: 'The InnoEngine manual, architecture, extension guides, and API reference.',
       logo: { src: './public/branding/logo.svg', replacesTitle: false },

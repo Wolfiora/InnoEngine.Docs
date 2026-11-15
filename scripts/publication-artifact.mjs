@@ -28,6 +28,7 @@ export async function createPublication({ site, catalog, completion, repository,
   requireValue(catalog.repository === 'https://github.com/Wolfiora/InnoEngine'
     && hex(catalog.revision, 40) && hex(catalog.sourceTree, 40), 'Publication has no exact engine binding.');
   const files = await inventory(site);
+  requireValue(files['partial-preview.json'] === undefined, 'A partial preview cannot be published.');
   requireValue(files['index.html'] !== undefined, 'Publication lacks its home page.');
   const manifest = { schema: 'inno-site/2', repository, commit, run: String(run), attempt,
     engine: { repository: 'Wolfiora/InnoEngine', revision: catalog.revision, tree: catalog.sourceTree },

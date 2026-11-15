@@ -7,7 +7,7 @@ import { contentEntryId } from './documentation-routes.mjs';
 const hash = (value) => createHash('sha256').update(value).digest('hex');
 
 /** Read the prepared canonical projection. Rendering never reparses API ownership or invokes the SDK. */
-export async function readCanonicalContent(root, file = 'artifacts/canonical-catalog.json') {
+export async function readCanonicalContent(root, file = 'artifacts/canonical-catalog.json', { frozen = false } = {}) {
   root = path.resolve(root);
   const catalog = JSON.parse(await readFile(path.join(root, file), 'utf8'));
   if (!catalog.sourceFiles || !Array.isArray(catalog.pages)) {
@@ -25,7 +25,7 @@ export async function readCanonicalContent(root, file = 'artifacts/canonical-cat
     }
     return full;
   }
-  for (const [relative, expected] of Object.entries(catalog.sourceFiles)) {
+  for (const [relative, expected] of Object.entries(frozen ? {} : catalog.sourceFiles)) {
     if (hash(await readFile(await owned(relative), 'utf8')) !== expected) {
       throw new Error(`Stale documentation snapshot: ${relative}. Refresh the catalog explicitly.`);
     }
@@ -39,14 +39,14 @@ export async function readCanonicalContent(root, file = 'artifacts/canonical-cat
       else if (item.isFile() && item.name.endsWith('.md')) actual.push(child);
     }
   }
-  await visit('content/en');
+  if (!frozen) await visit('content/en');
   const expected = Object.keys(catalog.sourceFiles).filter((name) => name.startsWith('content/en/') && name.endsWith('.md'));
-  if (JSON.stringify(actual.sort()) !== JSON.stringify(expected.sort())) throw new Error('The Markdown file set changed. Refresh the catalog explicitly.');
+  if (!frozen && JSON.stringify(actual.sort()) !== JSON.stringify(expected.sort())) throw new Error('The Markdown file set changed. Refresh the catalog explicitly.');
   const ids = new Set();
   for (const page of catalog.pages) {
     if (!page.path.startsWith('content/en/') || !page.path.endsWith('.md') || typeof page.markdown !== 'string'
       || hash(page.markdown) !== page.contentIdentity) throw new Error(`Invalid canonical page: ${page.path}`);
-    await owned(page.path);
+    if (!frozen) await owned(page.path);
     const id = contentEntryId(page.path.slice('content/en/'.length));
     if (ids.has(id)) throw new Error(`Duplicate canonical route: ${id}`);
     ids.add(id);
@@ -64,12 +64,18 @@ export function canonicalContentLoader() {
     async load({ config, store, parseData, renderMarkdown, generateDigest, watcher }) {
       const root = config.root;
       async function load() {
-        const catalog = await readCanonicalContent(fileURLToPath(root));
+        const catalog = await readCanonicalContent(fileURLToPath(root), undefined, { frozen: process.env.INNO_DOCS_FROZEN === 'true' });
+        const renderingInputs = ['package-lock.json', 'astro.config.mjs', 'src/content.config.ts', 'scripts/canonical-content.mjs',
+          'scripts/documentation-links.mjs', 'scripts/documentation-routes.mjs', 'scripts/api-presentation.mjs'];
+        const renderingIdentity = hash(Buffer.concat(await Promise.all(renderingInputs.map(file => readFile(new URL(file, root))))));
+        const plan = process.env.INNO_DOCS_PLAN ? JSON.parse(await readFile(process.env.INNO_DOCS_PLAN, 'utf8')) : null;
+        const selected = plan ? new Set(plan.pages.map(page => page.path)) : null;
         const remaining = new Set(store.keys());
         for (const page of catalog.pages) {
+          if (selected && !selected.has(page.path)) continue;
           const id = contentEntryId(page.path.slice('content/en/'.length));
           remaining.delete(id);
-          const digest = generateDigest(page.markdown);
+          const digest = generateDigest(renderingIdentity + '\0' + page.markdown);
           if (store.get(id)?.digest === digest) continue;
           const fileURL = new URL(page.path, root);
           const rendered = await renderMarkdown(page.markdown, { fileURL });

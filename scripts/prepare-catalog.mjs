@@ -2,9 +2,10 @@ import path from 'node:path';
 import os from 'node:os';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { mkdir, readFile, writeFile, open, rm, lstat } from 'node:fs/promises';
-import { randomUUID } from 'node:crypto';
+import { randomUUID, createHash } from 'node:crypto';
 import { run } from './tooling-process.mjs';
 import { documentationSdk } from './documentation-sdk.mjs';
+import { bundleInputs, reusableBundle, sealBundle } from './tooling-bundle.mjs';
 
 const repository = 'https://github.com/Wolfiora/InnoEngine';
 export function validateBinding(binding) {
@@ -76,13 +77,36 @@ export async function prepareCatalog({ root = process.cwd(), engineRoot = proces
   <ItemGroup><Compile Include="CatalogAdapter.cs" /><ProjectReference Include="${xml(project.replaceAll('\\', '/'))}" /></ItemGroup>
 </Project>\n`);
     const host = await documentationSdk({ engine, workspace, signal, host: dotnetHost });
-    const bundle = path.join(workspace, 'bundle');
     const env = { ...process.env, DOTNET_NOLOGO: '1', DOTNET_CLI_TELEMETRY_OPTOUT: '1', DOTNET_CLI_UI_LANGUAGE: 'en-US' };
     if (path.isAbsolute(host)) env.DOTNET_ROOT = path.dirname(host);
+    const inputs = await bundleInputs({ host, project: projectPath, engine, workspace, env, signal });
+    const bundle = path.join(workspace, 'bundles', inputs.key);
+    const reused = await reusableBundle(bundle, inputs.key);
+    if (!reused) {
     await run(host, ['build', projectPath, '--output', bundle, '--artifacts-path', path.join(workspace, 'obj'),
       `-p:InnoTaskBootstrapOwner=${randomUUID().replaceAll('-', '')}`, `-m:${Math.min(os.availableParallelism(), 4)}`,
       '-warnAsError:MSB9008', '-nodeReuse:false', '--disable-build-servers', '-v', 'minimal'], { cwd: workspace, env, signal });
+      await sealBundle(bundle, inputs.key);
+    }
+    console.log(`Managed documentation bundle ${reused ? 'Reused' : 'Passed'}: ${inputs.key}`);
+    await writeFile(path.join(root, 'artifacts/tooling-bundle.json'), JSON.stringify({ key: inputs.key, inputs: inputs.inputs, reused }));
+    if (operation[0] === 'bundle-only') return;
     await run(host, [path.join(bundle, 'CatalogAdapter.dll'), root, ...operation], { cwd: workspace, env, signal });
+    if (!operation.length) {
+      const compilerInputs = await bundleInputs({ host, project:path.join(engine,'tools/Inno.Tooling.Architecture/Inno.Tooling.Architecture.csproj'), engine, workspace, env, signal });
+      const catalogPath = path.join(root,'artifacts/canonical-catalog.json');
+      const catalog = JSON.parse(await readFile(catalogPath,'utf8'));
+      // Bind actual compiler implementation inputs, not an unrelated engine commit.
+      // API dependencies remain conservative until the capture has precise references.
+      const captureInputs = [];
+      for (const reference of catalog.references.filter(reference=>reference.model !== 'project-inventory')) {
+        const facts = JSON.parse(await readFile(path.join(root,reference.path),'utf8'));
+        const encoded = JSON.stringify(facts,(key,value)=>['documentation','source','line','documentationIdentity'].includes(key)?undefined:value);
+        captureInputs.push([reference.model,reference.configuration,reference.target,createHash('sha256').update(encoded).digest('hex')]);
+      }
+      catalog.exampleContext = { tool:compilerInputs.key, api:createHash('sha256').update(JSON.stringify(captureInputs.sort())).digest('hex') };
+      await writeFile(catalogPath,JSON.stringify(catalog)+'\n');
+    }
   } finally { await lock.close(); await rm(lockPath); }
 }
 
@@ -93,6 +117,7 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
   while (args.length) {
     const option = args.shift();
     if (option === '--engine-root' && args[0]) engineRoot = args.shift();
+    else if (option === '--bundle-only' && !operation.length) operation = ['bundle-only'];
     else if (option === '--review' && args[0] && !operation.length) operation = ['api-review', args.shift()];
     else if (option === '--sync' && !operation.length) operation = ['api-sync'];
     else throw new Error('Usage: prepare-catalog.mjs [--engine-root PATH] [--review REGISTERED_API_MARKDOWN | --sync]');

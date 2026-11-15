@@ -5,6 +5,14 @@ const requireValue = (condition, message) => { if (!condition) throw new Error(m
 export function editorialCheck(report, { sha, runUrl, annotationLimit = 100 }) {
   requireValue(/^[a-f0-9]{40}$/.test(sha), 'Editorial reporting requires the triggering run commit.');
   requireValue(/^https:\/\/github\.com\/Wolfiora\/InnoEngine\.Docs\/actions\/runs\/\d+$/.test(runUrl), 'Invalid editorial report source.');
+  if (report?.schema === 'inno-api-editorial/1' && report.status === 'NotApplicable') {
+    requireValue(['NoApiInputsChanged','CoveredByRelease'].includes(report.reason)
+      && (report.reason !== 'CoveredByRelease' || (Number.isSafeInteger(report.run) && report.run > 0)), 'Invalid editorial routing result.');
+    return {name:'API editorial coverage',head_sha:sha,status:'completed',conclusion:'neutral',details_url:runUrl,
+      output:{title:'No separate API editorial pass selected',summary:report.reason === 'NoApiInputsChanged'
+        ? 'Only operational guidance changed. No API ownership counts were recomputed.'
+        : `This draft revision is covered by successful release validation in run ${report.run}.`,annotations:[]}};
+  }
   requireValue(report?.schema === 'inno-api-editorial/1' && report.status === 'Passed'
     && Number.isSafeInteger(report.symbols) && report.symbols > 0 && Array.isArray(report.warnings)
     && Array.isArray(report.pendingSynchronization) && report.pendingSynchronization.length === 0,
