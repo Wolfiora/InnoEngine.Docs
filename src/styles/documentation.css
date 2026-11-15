@@ -65,8 +65,11 @@ body { text-rendering: optimizeLegibility; }
   .document-header .document-context { min-width: 0; }
   .document-header .api-status { flex-basis: min(18rem, 40%); }
   .toc-resizer:defined { display: block; position: fixed; z-index: 20; top: var(--sl-nav-height); bottom: 0; left: calc(100% - var(--inno-toc-width) - 4px); width: 9px; cursor: col-resize; touch-action: none; }
-  .toc-resizer::after { content: ''; position: absolute; left: 4px; height: 100%; width: 1px; background: var(--sl-color-hairline); }
-  .toc-resizer:hover::after, .toc-resizer:focus-visible::after { background: var(--sl-color-accent); width: 2px; }
+  /* A single neutral bar replaces the global focus outline around the full-height hit area. */
+  .toc-resizer:focus-visible { outline: none; }
+  .toc-resizer::after { content: ''; position: absolute; left: 2px; height: 100%; width: 5px; background: var(--sl-color-gray-4); }
+  .toc-resizer:hover::after { background: var(--sl-color-gray-3); }
+  .toc-resizer:focus-visible::after { background: var(--sl-color-gray-2); }
   :root[data-toc-resizing] { cursor: col-resize; user-select: none; }
   :root[data-toc-resizing] .main-frame, :root[data-toc-resizing] .sidebar-pane { transition: none; }
 }
