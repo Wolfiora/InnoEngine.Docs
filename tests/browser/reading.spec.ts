@@ -54,6 +54,20 @@ test('TOC divider resizes within bounds and preserves the session choice', async
   expect(Math.abs(selected - width * .4)).toBeLessThanOrEqual(1);
   await page.reload();
   await expect(divider).toHaveAttribute('aria-valuenow', String(selected));
+  // Fresh-page pointer focus must not add the global outline's two extra vertical lines.
+  const restored = (await divider.boundingBox())!;
+  await page.mouse.move(restored.x + restored.width / 2, restored.y + 80);
+  await page.mouse.down();
+  await page.mouse.move(width * .65, restored.y + 80);
+  await expect(divider).toHaveCSS('outline-style', 'none');
+  const bar = await divider.evaluate(element => {
+    const style = getComputedStyle(element, '::after');
+    return { width: style.width, color: style.backgroundColor };
+  });
+  expect(bar.width).toBe('5px');
+  expect(bar.color).not.toBe('rgba(0, 0, 0, 0)');
+  await page.mouse.up();
+  await expect(divider).toHaveCSS('outline-style', 'none');
   await divider.dblclick();
   await expect.poll(async () => Number(await divider.getAttribute('aria-valuenow'))).toBeCloseTo(width / 3, 0);
 });
@@ -195,6 +209,8 @@ test('shared sidebar loads only expanded groups, links homes and animates both d
   await expect(toggle('API Reference')).toHaveAttribute('aria-expanded', 'true');
   const selected = sidebar.getByRole('link', { name: 'Engine', exact: true });
   await expect(selected).toHaveAttribute('aria-current', 'page');
+  await expect(selected).toHaveCSS('text-decoration-line', 'underline');
+  await expect(toggle('API Reference').locator('.nav-label')).toHaveCSS('text-decoration-line', 'none');
   const selectedColor = await selected.evaluate(el => getComputedStyle(el.parentElement!).backgroundColor);
   const ancestorColor = await toggle('API Reference').evaluate(el => getComputedStyle(el.parentElement!).backgroundColor);
   expect(selectedColor).not.toBe(ancestorColor);
@@ -204,6 +220,11 @@ test('shared sidebar loads only expanded groups, links homes and animates both d
   await expect(editorGroup.locator('..').locator(':scope > a')).toHaveCount(0);
   await editorGroup.click();
   await expect(editorGroup).toHaveAttribute('aria-expanded', 'true');
+  await page.mouse.move(0, 0);
+  for (const button of [toggle('Manual'), editorGroup]) {
+    await expect(button.locator('..')).toHaveCSS('background-color', 'rgba(0, 0, 0, 0)');
+    await expect(button.locator('.nav-label')).not.toHaveCSS('font-weight', '650');
+  }
   await editorGroup.click();
   await expect(editorGroup).toHaveAttribute('aria-expanded', 'false');
   await toggle('Manual').click();
@@ -244,9 +265,11 @@ test('sidebar rows align controls, distinguish root disclosures and grow within 
   }
   const audio = sidebar.locator('li[data-key="/InnoEngine.Docs/api/engine/adapter/audio/"]');
   const row = audio.locator(':scope > .nav-row');
-  await expect(row.locator('a')).toHaveCSS('font-weight', '650');
-  await expect(row.locator('a')).toHaveCSS('text-decoration-line', 'underline');
-  expect(await row.evaluate(el => getComputedStyle(el).backgroundColor)).not.toBe('rgba(0, 0, 0, 0)');
+  await expect(row.locator('a')).not.toHaveCSS('font-weight', '650');
+  await expect(row.locator('a')).toHaveCSS('text-decoration-line', 'none');
+  await expect(api.locator('.nav-label')).toHaveCSS('text-decoration-line', 'none');
+  await page.mouse.move(0, 0);
+  await expect(row).toHaveCSS('background-color', 'rgba(0, 0, 0, 0)');
   await expect(row.locator('a')).toHaveCSS('background-color', 'rgba(0, 0, 0, 0)');
   const geometry = await row.evaluate(el => {
     const icon = el.querySelector('.caret')!.getBoundingClientRect();
