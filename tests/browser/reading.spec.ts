@@ -153,7 +153,7 @@ test('shared sidebar loads only expanded groups, links homes and animates both d
   await toggle('Scripting').click();
   await toggle('Authoring').click();
   const authoring = sidebar.locator('li[data-key="/InnoEngine.Docs/api/scripting/authoring/"]');
-  const links = authoring.locator(':scope > .children > ul > li > .nav-row > a');
+  const links = authoring.locator(':scope > .children > .children-inner > ul > li > .nav-row > a');
   await expect(links.filter({ hasText: 'HeaderAttribute' })).toBeVisible();
   const names = await links.allTextContents();
   expect(names).toEqual([...names].sort((a,b)=>a.localeCompare(b,'en',{sensitivity:'base'})));
@@ -167,6 +167,77 @@ test('shared sidebar loads only expanded groups, links homes and animates both d
   await page.screenshot({ path: testInfo.outputPath('shared-categories.png') });
   await authoring.locator(':scope > .nav-row > a').click();
   await expect(page).toHaveURL(/\/api\/scripting\/authoring\/$/);
+});
+
+test('sidebar rows align controls, distinguish root disclosures and grow within half the desktop', async ({ page }, testInfo) => {
+  await page.goto('api/');
+  const menu = page.getByRole('button', { name: /Menu/ });
+  if (await menu.isVisible()) await menu.click();
+  const sidebar = page.locator('inno-sidebar');
+  await expect(sidebar.locator('.root > li > .nav-row > a')).toHaveCount(0);
+  const api = sidebar.getByRole('button', { name: 'Toggle API Reference', exact: true });
+  await expect(api.locator('.chevron')).toHaveCount(1);
+  const initialWidth = await page.locator('.sidebar-pane').evaluate(el => el.getBoundingClientRect().width);
+  await api.click();
+  for (const name of ['Engine', 'Adapter', 'Audio']) {
+    const button = sidebar.getByRole('button', { name: `Toggle ${name}`, exact: true });
+    await button.click();
+    await expect(button).toHaveAttribute('aria-expanded', 'true');
+    await expect(button.locator('.chevron')).toHaveCount(0);
+  }
+  const audio = sidebar.locator('li[data-key="/InnoEngine.Docs/api/engine/adapter/audio/"]');
+  const row = audio.locator(':scope > .nav-row');
+  await expect(row.locator('a')).toHaveCSS('font-weight', '650');
+  await expect(row.locator('a')).toHaveCSS('text-decoration-line', 'underline');
+  expect(await row.evaluate(el => getComputedStyle(el).backgroundColor)).not.toBe('rgba(0, 0, 0, 0)');
+  await expect(row.locator('a')).toHaveCSS('background-color', 'rgba(0, 0, 0, 0)');
+  const geometry = await row.evaluate(el => {
+    const icon = el.querySelector('.caret')!.getBoundingClientRect();
+    const label = el.querySelector('a')!.getBoundingClientRect();
+    return Math.abs(icon.top + icon.height / 2 - label.top - label.height / 2);
+  });
+  expect(geometry).toBeLessThan(1.5);
+  if (testInfo.project.name !== 'mobile') {
+    await expect.poll(() => page.locator('.sidebar-pane').evaluate(el => el.getBoundingClientRect().width)).toBeGreaterThan(initialWidth + 1);
+    await expect.poll(() => page.evaluate(() => document.querySelector('.sidebar-pane')!.getBoundingClientRect().width)).toBeLessThanOrEqual(page.viewportSize()!.width / 2 + 1);
+  }
+  const leaf = audio.locator(':scope > .children .nav-row > a').first();
+  const normalWeight = await leaf.evaluate(el => getComputedStyle(el).fontWeight);
+  await leaf.hover();
+  await expect(leaf).toHaveCSS('font-weight', normalWeight);
+  expect(await leaf.evaluate(el => getComputedStyle(el.parentElement!).backgroundColor)).not.toBe('rgba(0, 0, 0, 0)');
+  const overflow = await page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);
+  expect(overflow).toBeLessThanOrEqual(1);
+  await page.screenshot({ path: testInfo.outputPath('sidebar-adaptive-rows.png') });
+});
+
+test('sidebar opening has no full-height flash and rapid reversal stays open', async ({ page }) => {
+  await page.goto('api/');
+  const menu = page.getByRole('button', { name: /Menu/ });
+  if (await menu.isVisible()) await menu.click();
+  const heights = await page.locator('inno-sidebar').evaluate(async sidebar => {
+    const button = sidebar.querySelector<HTMLButtonElement>('[aria-label="Toggle API Reference"]')!;
+    button.click();
+    // Observe the first attached frame, including the asynchronous fragment arrival.
+    const samples: number[] = [];
+    for (let frame = 0; frame < 120; frame++) {
+      await new Promise(requestAnimationFrame);
+      const panel = button.closest('li')!.querySelector<HTMLElement>(':scope > .children');
+      if (panel) samples.push(panel.getBoundingClientRect().height);
+      if (samples.length >= 25) break;
+    }
+    return samples;
+  });
+  expect(heights.length).toBeGreaterThan(2);
+  expect(heights.at(-1)).toBeGreaterThan(0);
+  for (let i = 1; i < heights.length; i++) expect(heights[i]).toBeGreaterThanOrEqual(heights[i - 1] - 1);
+  const button = page.getByRole('button', { name: 'Toggle API Reference', exact: true });
+  await button.evaluate(el => { (el as HTMLButtonElement).click(); (el as HTMLButtonElement).click(); });
+  await expect(button).toHaveAttribute('aria-expanded', 'true');
+  const panel = page.locator('inno-sidebar .root > li').filter({ has: button }).locator(':scope > .children');
+  await expect(panel).toBeVisible();
+  await page.waitForTimeout(260); // Outlive the canceled close callback.
+  await expect(panel).toBeVisible();
 });
 
 test('XML summaries lead the page and project metadata sits directly above inheritance', async ({ page }, testInfo) => {
