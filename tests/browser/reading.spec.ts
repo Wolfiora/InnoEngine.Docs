@@ -1,4 +1,18 @@
-import { expect, test } from '@playwright/test';
+import { expect, test, type Locator } from '@playwright/test';
+
+async function expectSyncedStatus(status: Locator) {
+  await expect(status).toBeVisible();
+  await expect(status).toHaveAttribute('aria-label', 'Editorial status: Synced');
+  await expect(status.locator('.api-status-icon')).toHaveText('!');
+  await expect(status.locator('.api-status-icon')).toHaveAttribute('aria-hidden', 'true');
+  await expect(status.locator('strong')).toHaveText('Synced');
+  const gap = await status.evaluate(element => {
+    const icon = element.querySelector('.api-status-icon')!.getBoundingClientRect();
+    const label = element.querySelector('strong')!.getBoundingClientRect();
+    return label.left - icon.right;
+  });
+  expect(gap).toBeGreaterThan(0);
+}
 
 const journeys = [
   ['', 'InnoEngine'],
@@ -120,7 +134,7 @@ test('Scope labels and independent member editing reflect canonical ownership', 
   await expect(page.getByRole('main').getByRole('link', { name: 'SceneManager', exact: true })).toBeVisible();
   await expect(page.getByRole('main')).not.toContainText('XML-synced');
   const tip = page.locator('.api-status-synced:visible');
-  await expect(tip).toHaveText('! Synced');
+  await expectSyncedStatus(tip);
   await expect(page.locator('.sl-markdown-content .api-status')).toHaveCount(0);
   const actions = page.locator('.source-actions');
   await expect(actions.locator('a').nth(0)).toHaveText('Source declaration');
@@ -288,7 +302,7 @@ test('status sits in the page chrome, XML summaries are quoted, and metadata is 
   const desktop = (page.viewportSize()?.width ?? 0) >= 1152;
   if (desktop) {
     const header = page.locator('.api-sidebar-header');
-    await expect(header.locator('.api-status')).toHaveText('! Synced');
+    await expectSyncedStatus(header.locator('.api-status'));
     await expect(page.locator('.right-sidebar-panel h2')).toHaveText('TABLE OF CONTENTS');
     await expect.poll(() => page.evaluate(() => {
       const sidebar = document.querySelector('.api-sidebar-header')!.getBoundingClientRect();
