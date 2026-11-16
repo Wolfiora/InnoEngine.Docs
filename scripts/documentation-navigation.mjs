@@ -1,3 +1,4 @@
+import path from 'node:path';
 import { contentRoute } from './documentation-routes.mjs';
 
 /** Derive category and type navigation from published canonical routes and symbol identities. */
@@ -15,12 +16,21 @@ export function documentationNavigation(authored, catalog, registry = { entries:
     if (directories.has(slug)) throw new Error(`Duplicate API category: ${slug}`);
     directories.set(slug, page);
   }
+  const declaredParents = new Map();
+  for (const [slug, directory] of directories) for (const link of directory.links ?? []) {
+    if (!link.endsWith('.md')) continue;
+    const target = contentRoute(path.posix.normalize(path.posix.join(path.posix.dirname(directory.path), link)).replace(/^content\/en\//,''));
+    if (!directories.has(target)) {
+      if (declaredParents.has(target) && declaredParents.get(target) !== slug) throw new Error(`API type belongs to multiple canonical categories: ${target}`);
+      declaredParents.set(target, slug);
+    }
+  }
   const types = new Map();
   for (const page of catalog.pages) {
     if (page.kind !== 'api' || !Object.keys(page.symbols ?? {}).some(id => id.startsWith('T:'))) continue;
     const slug = contentRoute(page.path.replace(/^content\/en\//, ''));
     // The canonical publisher owns category paths, including project and Scope classification.
-    const parent = [...directories.keys()].filter(directory => slug.startsWith(directory + '/'))
+    const parent = declaredParents.get(slug) ?? [...directories.keys()].filter(directory => slug.startsWith(directory + '/'))
       .sort((a, b) => b.length - a.length)[0];
     if (!parent) throw new Error(`API type has no canonical category: ${page.id}`);
     if (!types.has(parent)) types.set(parent, []);
@@ -31,7 +41,7 @@ export function documentationNavigation(authored, catalog, registry = { entries:
   function category(slug, label) {
     const page = directories.get(slug);
     if (!page) throw new Error(`Missing API directory: ${slug}`);
-    const children = [...directories.keys()].filter(key => key.slice(0, key.lastIndexOf('/')) === slug).sort();
+    const children = [...directories.keys()].filter(key => key.slice(0, key.lastIndexOf('/')).replace(/\/_projects$/, '') === slug).sort();
     const home = { slug, label: label ?? page.title, attrs: { 'data-group-home': 'true' } };
     const entries = [...children.map(child => category(child)), ...(types.get(slug) ?? [])].sort(alphabetical);
     return entries.length ? { label: label ?? page.title, collapsed: true, items: [home, ...entries] } : home;

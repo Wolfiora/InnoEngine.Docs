@@ -174,16 +174,17 @@ test('script references expose caller obligations and exact declarations', async
   }
 });
 
-test('API directories expose project trees and only populated script letters', async ({ page }) => {
+test('Engine and Scripting directories expose the same owning-project hierarchy', async ({ page }) => {
   await page.goto('api/engine/core/collections/');
   const graph = page.getByRole('main').getByRole('link', { name: 'DependencyGraph<TKey>', exact: true });
   await expect(graph).toBeVisible();
   await graph.click();
   await expect(page.locator('h1')).toContainText('DependencyGraph');
   await page.goto('api/scripting/runtime/');
-  const letters = await page.getByRole('main').locator('h2').allTextContents();
-  expect(letters.length).toBeGreaterThan(0);
-  expect(letters.every(value => /^[A-Z]$|^Other$/.test(value.trim()))).toBe(true);
+  await expect(page.getByRole('main').getByRole('heading', { name: 'Categories', exact: true })).toBeVisible();
+  await page.getByRole('main').getByRole('link', { name: 'Scene', exact: true }).click();
+  await expect(page).toHaveURL(/scripting\/runtime\/_projects\/scene\//);
+  await expect(page.getByRole('main').getByRole('heading', { name: 'Types', exact: true })).toBeVisible();
   await expect(page.getByRole('main').getByRole('link', { name: 'SceneManager', exact: true })).toBeVisible();
 });
 
