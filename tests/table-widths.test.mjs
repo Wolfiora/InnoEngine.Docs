@@ -22,3 +22,11 @@ test('arbitrary column counts retain readable minimums and never lose a column',
   }
   assert.deepEqual(tableWidths([100, 200, 300], [40, 40, 40], 80), [40, 40, 40]);
 });
+
+test('a column at its heading floor is excluded while other columns keep shrinking', () => {
+  const widths = tableWidths([500, 400, 300], [480, 100, 80], 780);
+  assert.equal(widths[0], 480);
+  assert.ok(Math.abs(widths[1] - 150) < .01);
+  assert.ok(Math.abs(widths[2] - 150) < .01);
+  assert.deepEqual(tableWidths([500, 400, 300], [480, 100, 80], 500), [480, 100, 80]);
+});

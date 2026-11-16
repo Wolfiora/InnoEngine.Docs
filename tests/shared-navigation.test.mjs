@@ -16,5 +16,7 @@ test('shared navigation retains linked and disclosure-only groups without embedd
   for (const [id, body] of result.chunks) assert.equal(createHash('sha256').update(body).digest('hex'), id);
   const api = JSON.parse(result.chunks.get(result.roots[1].children.split('/').pop().replace('.json','')));
   assert.deepEqual(api, [{ label: 'Value', href: '/InnoEngine.Docs/api/type/' }]);
+  assert.deepEqual(result.trails.get('/InnoEngine.Docs/api/type/'), ['/InnoEngine.Docs/api/']);
+  assert.deepEqual(result.trails.get('/InnoEngine.Docs/manual/'), ['/Manual']);
   assert.deepEqual(sharedNavigation(input, { pages }).roots, result.roots);
 });

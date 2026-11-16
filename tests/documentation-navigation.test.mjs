@@ -40,3 +40,19 @@ test('missing or duplicate API directories fail instead of producing empty menus
   assert.throws(() => documentationNavigation(authored, { pages: [page, page] }), /Duplicate API category/);
   assert.throws(() => documentationNavigation([{ autogenerate: { directory: 'api' } }], { pages: [] }), /filesystem guessing/);
 });
+
+test('member contracts and secondary guides receive their own navigable entries', () => {
+  const pages = ['engine', 'scripting'].map(category => ({ id: `api.directory.${category}`,
+    path: `content/en/api/${category}/index.md`, title: category }));
+  pages.push({id:'type',kind:'api',title:'Value',path:'content/en/api/engine/value/index.md',symbols:{'T:Value':{}}},
+    {id:'member',kind:'api',title:'Value.Read',path:'content/en/api/engine/member.md',symbols:{'M:Value.Read':{}},contracts:['type']},
+    {id:'overview',title:'Architecture',path:'content/en/architecture/index.md'},
+    {id:'projects',title:'Projects',path:'content/en/architecture/projects/index.md'},
+    {id:'project',title:'Example',path:'content/en/architecture/projects/example.md'});
+  const result=documentationNavigation([{label:'API Reference',apiDirectories:true},
+    {label:'Architecture',items:[{slug:'architecture'}]}],{pages});
+  const type=result[0].items[1].items[1];
+  assert.equal(type.items[0].slug,'api/engine/value');
+  assert.equal(type.items[1].slug,'api/engine/member');
+  assert.equal(result[1].items[0].items[1].items[1].slug,'architecture/projects/example');
+});

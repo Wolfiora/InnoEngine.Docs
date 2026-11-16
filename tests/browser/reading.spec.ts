@@ -555,8 +555,23 @@ test('navigation and theme controls work at the selected viewport', async ({ pag
   // Starlight's navigation wrapper uses display: contents; exercise the visible link itself.
   const navigation = page.getByRole('navigation', { name: 'Main', exact: true });
   const task = navigation.getByRole('link', { name: 'Instantiate a prefab in its owning scene', exact: true });
-  await navigation.locator('button[aria-label="Toggle Manual"]').click();
-  await navigation.locator('button[aria-label="Toggle Scenes and objects"]').click();
+  const manual = navigation.getByRole('button', { name: 'Toggle Manual', exact: true });
+  const scenes = navigation.getByRole('button', { name: 'Toggle Scenes and objects', exact: true });
+  // Direct navigation reveals the current page before any manual disclosure.
+  await expect(manual).toHaveAttribute('aria-expanded', 'true');
+  await expect(scenes).toHaveAttribute('aria-expanded', 'true');
+  await expect(task).toHaveAttribute('aria-current', 'page');
+  await expect(task).toBeVisible();
+  // Readers can still close and reopen the automatically revealed ancestors.
+  await manual.click();
+  await expect(manual).toHaveAttribute('aria-expanded', 'false');
+  await expect(task).toBeHidden();
+  await manual.click();
+  await expect(task).toBeVisible();
+  await scenes.click();
+  await expect(scenes).toHaveAttribute('aria-expanded', 'false');
+  await expect(task).toBeHidden();
+  await scenes.click();
   await expect(task).toBeVisible();
   const theme = page.getByRole('combobox', { name: 'Select theme', exact: true });
   await theme.selectOption('dark');

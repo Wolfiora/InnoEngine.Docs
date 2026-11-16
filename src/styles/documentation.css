@@ -30,6 +30,7 @@ inno-header-layout { display: block; height: 100%; }
 inno-content-tables { display: block; min-width: 0; }
 .sl-markdown-content table { display: table; width: 100%; max-width: 100%; font-size: .9rem; }
 .sl-markdown-content table[data-inno-sized] { table-layout: fixed; }
+.sl-markdown-content table[data-inno-sized] th { white-space: nowrap; }
 .inno-table-scroll { width: 100%; overflow-x: auto; }
 .sl-markdown-content .inno-table-scroll > table { margin-block: 0; }
 .sl-markdown-content th, .sl-markdown-content td { text-align: left; min-width: 0; overflow-wrap: anywhere; white-space: normal; }
