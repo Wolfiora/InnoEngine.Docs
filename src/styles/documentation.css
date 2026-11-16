@@ -98,3 +98,11 @@ inno-content-tables { display: block; min-width: 0; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; transition-duration: .01ms !important; }
 }
+
+.toc-art { display: none; }
+@media (min-width: 72rem) {
+  .right-sidebar { isolation: isolate; }
+  .toc-art { display: block; position: absolute; inset: 0; overflow: hidden; pointer-events: none; z-index: -1; }
+  .toc-art svg { position: absolute; left: var(--inno-toc-art-left, 8rem); top: -18vh; width: max(90vw, 130vh); height: auto; opacity: var(--inno-toc-art-opacity, .2); color: var(--sl-color-gray-3); }
+  .toc-art polygon { fill: none; stroke: currentColor; stroke-width: 1px; vector-effect: non-scaling-stroke; }
+}

@@ -17,7 +17,6 @@ class InnoSidebar extends HTMLElement {
   lifecycle = new AbortController();
   measure = document.createElement('canvas').getContext('2d');
   widthFrame = 0;
-  compact = false;
   animations = new Map<HTMLElement, Animation>();
   connectedCallback() {
     if (this.dataset.ready) return;
@@ -29,13 +28,6 @@ class InnoSidebar extends HTMLElement {
     // The current route wins over remembered closed ancestors, regardless of
     // whether navigation came from search, a body link, reload or a direct URL.
     for (const key of JSON.parse(this.dataset.currentTrail ?? '[]')) this.state[key] = true;
-    try { this.compact = localStorage.getItem('inno-sidebar-compact') === 'true'; } catch {}
-    this.applyCompact();
-    this.querySelector('[data-compact-toggle]')?.addEventListener('click', () => {
-      this.compact = !this.compact;
-      try { localStorage.setItem('inno-sidebar-compact', String(this.compact)); } catch {}
-      this.applyCompact(); this.fitWidth();
-    }, {signal:this.lifecycle.signal});
     this.markCurrent(this);
     this.addEventListener('click', event => {
       const button = (event.target as Element).closest<HTMLButtonElement>('button[data-children]');
@@ -55,16 +47,6 @@ class InnoSidebar extends HTMLElement {
     cancelAnimationFrame(this.widthFrame);
     document.documentElement.removeAttribute('data-sidebar-restoring');
   }
-  applyCompact() {
-    this.toggleAttribute('data-compact', this.compact);
-    document.documentElement.toggleAttribute('data-sidebar-compact', this.compact);
-    this.querySelector('[data-compact-toggle]')?.setAttribute('aria-pressed', String(this.compact));
-    for (const label of this.querySelectorAll<HTMLElement>('.nav-label')) {
-      const full = label.dataset.fullLabel ?? label.textContent ?? '';
-      label.dataset.fullLabel = full; label.title = full; label.setAttribute('aria-label', full);
-      label.textContent = this.compact ? Array.from(full)[0] + '…' : full;
-    }
-  }
   queueWidth = () => {
     cancelAnimationFrame(this.widthFrame);
     this.widthFrame = requestAnimationFrame(() => this.fitWidth());
@@ -81,7 +63,7 @@ class InnoSidebar extends HTMLElement {
     const inset = parseFloat(paneStyle.paddingLeft) + parseFloat(paneStyle.paddingRight);
     const rem = parseFloat(getComputedStyle(html).fontSize);
     const rowInset = parseFloat(getComputedStyle(this.querySelector('.nav-row')!).marginInlineStart);
-    let width = (this.compact ? 7 : 18) * rem;
+    let width = 18 * rem;
     for (const label of this.querySelectorAll<HTMLElement>('.nav-label')) {
       if (label.closest('.children:not([data-open="true"])')) continue;
       const style = getComputedStyle(label);
@@ -97,7 +79,8 @@ class InnoSidebar extends HTMLElement {
       width = Math.max(width, this.measure.measureText(text).width + Math.max(0, text.length - 1) * spacing
         + depth * (.85 * rem + 1) + rowInset + 2.5 * rem + inset + 24);
     }
-    html.style.setProperty('--inno-sidebar-width', `${Math.ceil(Math.min(width, html.clientWidth / 2))}px`);
+    html.style.setProperty('--inno-sidebar-content-width', `${Math.ceil(width)}px`);
+    html.style.setProperty('--inno-sidebar-width', `${Math.ceil(Math.min(width, html.clientWidth * .4))}px`);
   }
   async restore() {
     this.dataset.restoring = 'true';
@@ -195,7 +178,6 @@ class InnoSidebar extends HTMLElement {
     panel.dataset.open = String(opening);
     this.state[li.dataset.key!] = opening;
     try { sessionStorage.setItem(this.storageKey, JSON.stringify(this.state)); } catch { /* Optional storage. */ }
-    this.applyCompact();
     this.fitWidth();
     if (!animate || matchMedia('(prefers-reduced-motion: reduce)').matches) { panel.hidden = !opening; return; }
     // Natural block layout is the settled state. Avoid nested fractional grid tracks
