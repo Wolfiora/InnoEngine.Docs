@@ -16,4 +16,6 @@ Theme components own layout. Ordinary content does not import MDX components or 
 
 ## Verification
 
+On desktop, align the header search control with the actual Markdown column, including its side padding, and track left navigation and right TOC resizing. Keep the compact header usable on narrow screens. All Markdown tables fill the body column with left-aligned cells. Keep leading columns at their natural content widths when space permits and put surplus width in the last column. When space is insufficient, reduce the widest columns first to a shared ceiling and wrap long identifiers; never squeeze a description out of view. Preserve semantic tables and a usable layout without JavaScript. Only exceptionally narrow tables with many columns need their own horizontal scroll container.
+
 Inspect landing, manual, tutorial, API, search, and error states in both themes at desktop, tablet, and mobile widths. Verify deep links under the documentation base path on the selected host, keyboard navigation, copy controls, and code/table overflow. A successful static build alone is not visual or accessibility acceptance.

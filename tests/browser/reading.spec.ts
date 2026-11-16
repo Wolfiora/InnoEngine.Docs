@@ -1,4 +1,5 @@
 import { expect, test, type Locator } from '@playwright/test';
+import './layout-checks';
 
 async function expectSyncedStatus(status: Locator) {
   await expect(status).toBeVisible();
