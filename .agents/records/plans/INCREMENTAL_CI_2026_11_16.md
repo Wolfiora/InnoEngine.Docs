@@ -1,0 +1,33 @@
+# Incremental CI and release promotion
+
+Implementation of the approved November 16 plan. This record distinguishes implementation from remote checks and human publication.
+
+## Execution model
+
+Incremental draft work selects canonical page composition changes, incoming links, contracts, includes, category/pagination context and representative presentation cases. Release PRs render all pages, generate Pagefind and run full reading checks. Main deploys one trusted matching Release artifact or validates once when inputs differ. Manual runs explicitly select the mode.
+
+Operational Markdown is checked separately without product rendering. Plans and results use Passed, Reused, Failed, Blocked and NotApplicable; unknown scope expands conservatively. Partial previews list their pages, expire after seven days and cannot pass the publication barrier.
+
+Page receipts bind composed content, direct relationships and rendering controls/environment. Compiler receipts retain code/owner/surface groups and actual compiler/API input context. Missing dependency precision expands conservatively rather than guessing. Immutable .NET bundles derive from evaluated project references, source/resources, imports, SDK and package versions; commit identity alone does not invalidate them. Linux portability uses an independent receipt. Authenticated receipt corruption fails; ordinary cache corruption is isolated and rebuilt.
+
+The old whole-Git-tree validation-reuse script and its protocol/callers are removed. Release artifacts are archived once for 90 days; diagnostics for 30 days. PR candidates can be promoted only with trusted main control code; control-changing PRs revalidate after merge. No PR scripts execute in the privileged deployment job.
+
+## Evidence and delivery
+
+The implementation passed 177 finite Node tests in the Release run, followed by a focused routing regression for build entry points and browser configuration (all 12 planning/trust tests passed). They cover changed-page selection, incoming references, unknown-input expansion, independent evidence, artifact integrity, publication trust, example ownership, immutable bundle dependencies and original XML/manual protection. The existing full browser suite remains the Release gate.
+
+Remote [Docs run 43760156414](https://github.com/Wolfiora/InnoEngine.Docs/actions/runs/43760156414) passed Windows projection and Linux preparation. Its global tooling change selected all 18,502 pages, Pagefind and 126 browser cases; rendering took 7m 8s and browser checks approximately one minute. This is full semantic-change evidence, not an ordinary-prose timing claim.
+
+A local one-page prose plan rendered five pages without Pagefind or browser work (18.30 seconds including checks). A global CSS plan rendered 85 representative/context pages (4.67 seconds of Astro rendering), while browser execution selects nine representatives rather than visiting every linked context page. Ordinary links still validate against the complete frozen catalog. The mobile harness was corrected to inspect accessible names only on visible controls; hidden desktop controls are not accessibility-tree entries.
+
+The real [prose-only draft run 43763531445](https://github.com/Wolfiora/InnoEngine.Docs/actions/runs/43763531445) passed. It reused the managed bundle, parsed one changed page and reused 18,501 parsed pages. All 119 executable-example groups reused valid compiler receipts; zero groups compiled. It selected 26 pages (Astro emitted 27 including its fallback route), with 3.67 seconds of Astro rendering and eight seconds for the complete build/check step. Pagefind, browser execution and Linux preparation were correctly skipped. Canonical preparation took 79 seconds; repository checkout, SDK setup and rule checks remain visible overhead rather than being attributed to rendering. This run produced a seven-day partial preview and no publication artifact.
+
+The complete [Release run 43764154132](https://github.com/Wolfiora/InnoEngine.Docs/actions/runs/43764154132) passed Windows projection, Linux preparation and the required aggregate, including full search and browser checks. Its [same-input draft push 43764149356](https://github.com/Wolfiora/InnoEngine.Docs/actions/runs/43764149356) waited for that actual result, then passed with both projection and Linux jobs skipped: it did not build a second site. Deployment was correctly skipped on both events. The final small selector correction conservatively routes rendering entry points, browser tests/configuration and runtime configuration to complete validation instead of allowing an empty render selection; the PR carries the corresponding current-head result.
+
+Remote [engine API run 43761094267](https://github.com/Wolfiora/InnoEngine/actions/runs/43761094267) passed all four platform/configuration producers and complete aggregation. Windows Debug planned 112 owners with zero managed preparations and reused 114 results (112 owners plus two script contexts). The preceding [run 43760002597](https://github.com/Wolfiora/InnoEngine/actions/runs/43760002597) invalidated one owner, prepared the necessary managed union once and reused 111 owners. These results retain original producer provenance rather than claiming fresh execution.
+
+Finite engine fixtures verify README-only/no-change preflight, added/deleted inputs, complete owner-cache assembly, restoration of immutable snapshots without copied leases, identical-API publication no-op even when main ancestry advances, and manual takeover preservation. Unknown dependencies conservatively trigger graph evaluation. Example API dependencies currently use the complete semantic API identity when a narrower reference closure is unavailable; XML-only changes are excluded from that identity.
+
+Initial failures are preserved in local diagnostics: recursive PowerShell Git invocation, restored generations lacking local lease registration, and environment-specific SDK paths in bundle identities. Each was corrected and its relevant check rerun. Bundles produced from identical SDK versions at different installation paths now have identical keys. Restored snapshots recreate local ownership and never import another runner's leases or PID state.
+
+The old whole-tree reuse protocol is removed. [Docs PR #20](https://github.com/Wolfiora/InnoEngine.Docs/pull/20) carries the final Release evidence. Main promotion of this control-changing migration intentionally requires one trusted main validation after the human merge; subsequent unchanged-control Release candidates can be promoted without rebuilding. No formal PR merge or production deployment is authorized by implementation alone.

@@ -123,5 +123,14 @@ test('changed groups compile independently while unchanged trusted groups remain
   const current = { identity: hash(currentBytes), bytes: currentBytes };
   assert.equal(checkExampleEvidence(f.catalog, [...plan.receipts, current]).status, 'Passed');
   const corrupt = { ...previous, bytes: Buffer.from('{}') };
-  assert.equal(planExampleWork(f.catalog, [corrupt]).reused, 0);
+  assert.throws(()=>planExampleWork(f.catalog, [corrupt]), /altered/);
+});
+
+test('actual compiler and API inputs survive unrelated tooling commit or XML identity changes', () => {
+ const f=fixture();const context={tool:'1'.repeat(64),api:'2'.repeat(64)};f.catalog.exampleContext=context;
+ const bytes=Buffer.from(JSON.stringify(f.report));const receipt={identity:hash(bytes),bytes,context};
+ f.catalog.toolingRevision='9'.repeat(40);f.catalog.references[0].identity='8'.repeat(64);
+ assert.equal(planExampleWork(f.catalog,[receipt]).reused,1);
+ f.catalog.exampleContext={...context,tool:'3'.repeat(64)};
+ assert.equal(planExampleWork(f.catalog,[receipt]).compile.length,1);
 });

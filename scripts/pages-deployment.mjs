@@ -1,7 +1,7 @@
 import path from 'node:path';
 import { lstat, readdir, appendFile } from 'node:fs/promises';
 import { pathToFileURL } from 'node:url';
-import { eligible } from './validation-reuse.mjs';
+import { eligible, verifyPublicationInputs } from './ci-evidence.mjs';
 const repository = 'Wolfiora/InnoEngine.Docs';
 const pageUrl = 'https://wolfiora.github.io/InnoEngine.Docs/';
 const requireValue = (value, message) => { if (!value) throw new Error(message); };
@@ -54,8 +54,7 @@ export async function deploy(env = process.env) {
     && producer.head_repository?.full_name === repository && producer.path === '.github/workflows/documentation.yml'
     && artifact.name === `documentation-site-attempt-${producer.run_attempt}`
     && artifact.workflow_run.head_sha === producer.head_sha, 'Site artifact producer is not trusted.');
-  const [source, target] = await Promise.all([api(`git/commits/${producer.head_sha}`), api(`git/commits/${env.GITHUB_SHA}`)]);
-  requireValue(source.tree.sha === target.tree.sha, 'Site artifact belongs to different publication inputs.');
+  await verifyPublicationInputs(producer, env.GITHUB_SHA);
   const checks = await api(`actions/runs/${env.GITHUB_RUN_ID}/jobs?per_page=100`);
   requireValue(checks.jobs.some(job => job.name === 'Documentation validation' && job.conclusion === 'success'), 'Current required validation has not passed.');
   requireValue(env.ACTIONS_ID_TOKEN_REQUEST_URL?.startsWith('https:') && env.ACTIONS_ID_TOKEN_REQUEST_TOKEN, 'Pages requires the job-scoped OIDC identity.');

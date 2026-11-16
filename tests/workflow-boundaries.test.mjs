@@ -70,7 +70,8 @@ test('only validated main inputs can deploy the single Pages artifact', async ()
   assert.equal(uploads.length, 1);
   assert.equal(uploads[0].with.path, 'dist/');
   assert.equal(uploads[0].with['retention-days'], 90);
-  assert.equal(value.jobs.projection.steps.filter(step => step.with?.path === 'dist/').length, 1);
+  assert.equal(value.jobs.projection.steps.filter(step => step.with?.path === 'dist/' && step.with['retention-days'] === 90).length, 1);
+  assert.equal(value.jobs.projection.steps.filter(step => step.with?.path === 'dist/' && step.with['retention-days'] === 7).length, 1);
   for (const retired of ['vercel.json', '.github/workflows/publish.yml', '.github/deployment/package.json', 'scripts/vercel-output.mjs', 'scripts/prepare-catalog.ps1', 'scripts/publication-source.mjs']) {
     await assert.rejects(access(new URL('../' + retired, import.meta.url)), /ENOENT/);
   }

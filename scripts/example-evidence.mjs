@@ -34,11 +34,14 @@ function evaluate(catalog, receipts) {
     let report;
     try { report = JSON.parse(receipt.bytes.toString('utf8')); }
     catch { errors.push('An example compiler receipt is malformed.'); continue; }
+    const equivalent = receipt.context && catalog.exampleContext && hex(receipt.context.tool) && hex(receipt.context.api)
+      && receipt.context.tool === catalog.exampleContext.tool && receipt.context.api === catalog.exampleContext.api;
     if (report.schema !== 'inno-documentation-examples/1' || report.status !== 'Passed'
-      || report.repository !== catalog.repository || report.toolingRevision !== catalog.toolingRevision
+      || report.repository !== catalog.repository || (!equivalent && report.toolingRevision !== catalog.toolingRevision)
+      || (catalog.exampleContext && !equivalent)
       || !hex(report.validatorIdentity) || !hex(report.compilerIdentity)
       || !Array.isArray(report.apiInputs) || report.apiInputs.some(input => !hex(input.identity))
-      || !equal(inputs(report.apiInputs), inputs(catalog.references ?? []))
+      || (!equivalent && !equal(inputs(report.apiInputs), inputs(catalog.references ?? [])))
       || !['Debug', 'SourceDebug', 'Release'].includes(report.configuration)
       || !Array.isArray(report.results) || report.results.length === 0
       || !Array.isArray(report.scriptReferences) || report.scriptReferences.some(reference => reference.status !== 'Passed')) {
@@ -99,6 +102,10 @@ export function planExampleWork(catalog, receipts = []) {
   const retained = new Map();
   const covered = new Set();
   for (const receipt of receipts) {
+    if (!Buffer.isBuffer(receipt?.bytes) || hash(receipt.bytes) !== receipt.identity) throw new Error('Authenticated example receipt bytes were altered.');
+    let report;
+    try { report = JSON.parse(receipt.bytes.toString('utf8')); } catch { throw new Error('Authenticated example receipt is malformed.'); }
+    if (report.schema !== 'inno-documentation-examples/1' || report.status !== 'Passed') throw new Error('Authenticated artifact did not contain completed compiler evidence.');
     const result = evaluate(catalog, [receipt]);
     if (result.invalidReceipt || !result.coveredPages?.some(page => !covered.has(page))) continue;
     retained.set(receipt.identity, receipt);

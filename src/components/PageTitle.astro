@@ -1,6 +1,8 @@
 ---
 import binding from '../../reference/engine.lock.json';
 import ApiStatus from './ApiStatus.astro';
+import { readFileSync } from 'node:fs';
+const partial = process.env.INNO_DOCS_PLAN && JSON.parse(readFileSync(process.env.INNO_DOCS_PLAN, 'utf8')).mode === 'Incremental';
 const { entry } = Astro.locals.starlightRoute;
 const labels: Record<string, string> = {
   landing: 'Documentation', tutorial: 'Getting started', 'how-to': 'Task guide',
@@ -10,6 +12,7 @@ const labels: Record<string, string> = {
 ---
 <div class="document-header">
 <div class="document-context" id="_top">
+  {partial && <a href="/InnoEngine.Docs/partial-preview.json">Partial preview — included pages</a>}
   <span class="document-kind">{labels[entry.data.kind] ?? 'Documentation'}</span>
   <span class="development-badge" title="Documentation for the approved development source; not a stable release.">Development</span>
   {entry.data.apiSurface && <span class="api-surface">{entry.data.apiScope ? `${entry.data.apiScope} scripting` : 'Engine API'}</span>}

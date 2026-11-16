@@ -18,24 +18,26 @@ async function api(endpoint, token, allowMissing = false) {
   return response.json();
 }
 
-/** Only successful default-branch workflow runs can provide cross-run compiler receipts. */
+/** Completed independent compiler checks on maintained branches can provide cross-run receipts. */
 export async function selectTrustedExamples(token) {
   if (!token) return { status: 'Unavailable', reason: 'No authenticated default-branch evidence lookup was selected.' };
-  const runs = await api('/actions/workflows/documentation.yml/runs?branch=main&status=success&per_page=20', token, true);
+  const runs = await api('/actions/workflows/documentation.yml/runs?per_page=40', token, true);
   if (runs === null) return { status: 'Unavailable', reason: 'The default-branch documentation workflow has not been installed yet.' };
   for (const run of runs.workflow_runs ?? []) {
-    if (!['push', 'workflow_dispatch'].includes(run.event) || run.path !== '.github/workflows/documentation.yml') continue;
+    if (!['push', 'workflow_dispatch'].includes(run.event) || !['main', 'draft'].includes(run.head_branch)
+      || run.id === Number(process.env.GITHUB_RUN_ID) || run.path !== '.github/workflows/documentation.yml') continue;
     const [jobs, artifacts] = await Promise.all([
       api(`/actions/runs/${run.id}/attempts/${run.run_attempt}/jobs?per_page=100`, token),
       api(`/actions/runs/${run.id}/artifacts?per_page=100`, token),
     ]);
     if (!artifacts.artifacts?.some(artifact => artifact.name === `documentation-examples-attempt-${run.run_attempt}` && !artifact.expired)) continue;
+    if (!jobs.jobs?.some(job => job.name === 'Documentation projection' && job.steps?.some(step => step.name === 'Retain exact example receipts for trusted reuse' && step.conclusion === 'success'))) continue;
     const documentation = authorizeRun({ run, jobs: jobs.jobs, artifacts: artifacts.artifacts, repository: 'Wolfiora/InnoEngine.Docs',
-      workflow: '.github/workflows/documentation.yml', branch: 'main', commit: run.head_sha,
+      workflow: '.github/workflows/documentation.yml', branch: run.head_branch, commit: run.head_sha,
       aggregate: 'Documentation validation', artifactName: 'documentation-examples', events: ['push', 'workflow_dispatch'] });
     return { status: 'Selected', documentation };
   }
-  return { status: 'Unavailable', reason: 'No retained successful default-branch compiler receipt artifact exists.' };
+  return { status: 'Unavailable', reason: 'No retained successful main/draft compiler receipt artifact exists.' };
 }
 
 async function loadReceipts(directory) {
@@ -47,7 +49,7 @@ async function loadReceipts(directory) {
     if (!/^reports\/[a-f0-9]{64}\.json$/.test(report.path) || !/^[a-f0-9]{64}$/.test(report.identity)) throw new Error('Invalid example artifact report path.');
     const bytes = await readOwned(root, path.posix.join(directory, report.path));
     if (hash(bytes) !== report.identity) throw new Error('Example artifact report bytes differ from their identity.');
-    receipts.push({ identity: report.identity, bytes });
+    receipts.push({ identity: report.identity, bytes, context:report.context });
   }
   return receipts;
 }
@@ -58,7 +60,7 @@ async function saveReceipts(receipts) {
   for (const receipt of receipts) {
     const file = `reports/${receipt.identity}.json`;
     await writeFile(path.join(output, file), receipt.bytes);
-    reports.push({ path: file, identity: receipt.identity });
+    reports.push({ path: file, identity: receipt.identity, context:receipt.context });
   }
   await writeFile(path.join(output, 'manifest.json'), JSON.stringify({ schema: 'inno-example-receipts/1', reports }, null, 2) + '\n');
 }
@@ -80,7 +82,7 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
       if (process.env.GITHUB_OUTPUT) await appendFile(process.env.GITHUB_OUTPUT, `compile=${plan.compile.length !== 0}\n`);
     } else if (operation === 'complete') {
       const receipts = await loadReceipts(output);
-      if (input) { const bytes = await readOwned(root, input); receipts.push({ identity: hash(bytes), bytes }); }
+      if (input) { const bytes = await readOwned(root, input); receipts.push({ identity: hash(bytes), bytes, context:catalog.exampleContext }); }
       const result = checkExampleEvidence(catalog, receipts);
       await writeFile(path.join(output, 'result.json'), JSON.stringify(result, null, 2) + '\n');
       if (result.status !== 'Passed') throw new Error('Required examples lack matching compilation evidence; see artifacts/examples/result.json.');

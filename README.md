@@ -84,17 +84,24 @@ GitHub Pages is the sole publisher. One verified Pages archive serves as both pr
 | Event | Expected behavior |
 | --- | --- |
 | Feature branch push without a PR | No automatic Docs workflow; local work remains available |
-| PR into draft or main | Validate the candidate and retain a preview; skip Pages deployment |
-| Draft push, including API synchronization | Validate and retain a preview; skip Pages deployment |
+| PR into draft | Incremental affected-page checks and explicitly partial preview; no deployment |
+| PR from draft into main | Full actual merge-candidate website, Pagefind and release checks; one publication artifact |
+| Draft push, including API synchronization | Incremental checks; an open release PR can cover the same input only after its required checks pass |
 | Main push after a human merge | Validate or reuse matching evidence, then deploy through Pages |
-| Manual Documentation run on main | Validate or reuse eligible evidence, then publish main |
+| Manual run | Select Incremental diagnosis or Release validation; only a Release on main can publish |
 | Merge-group check | Validate the candidate; do not publish |
 
 **Documentation validation** is the required aggregate. It reconciles evidence selection, Windows projection and Linux preparation; missing, canceled or failed prerequisites cannot silently pass. Checks cover content and API integrity, links, examples, rendering and browser journeys.
 
 **API editorial coverage** reports missing, unchanged-default or stale manual explanations. A `neutral` result is a non-blocking reminder, not a failed deployment and not proof of semantic completeness. Failure of the reporting tool itself is a real fault.
 
-**Documentation projection** may be skipped when evidence selection authenticates a successful trusted draft/main run with the same Git tree, origin, Node version and Windows runner image, and its original site artifact is still available. Linux preparation still runs. The selection job identifies the reused run and artifact. Example compilation can also be skipped when matching example evidence is reused. If no completed matching producer exists yet, two events may both perform work; reuse never assumes that an in-progress run will succeed.
+**Documentation projection** follows one execution plan. Ordinary edits render changed pages, direct incoming references, required contracts, category and pagination context. Shared styles use representative page kinds and selected browser journeys. Search changes and Release mode generate the complete search index. Instructions, records and README changes run operational structure/link checks without a website build.
+
+Independent page and example receipts bind their actual content, dependencies and tool inputs. A changed engine commit alone does not rebuild an identical managed documentation bundle. Frozen canonical data is reused throughout the job. Unknown relationships expand conservatively with reasons; missing checks and altered authenticated evidence fail.
+
+A Release uses every page and the full reading suite. Same-repository PR artifacts can be promoted only when their control code matches trusted main. A PR changing builders, checks or publication code is checked before merge and checked once again on main. The deployment job never executes candidate scripts or rebuilds the site. Linux preparation has its own input-bound receipt. Partial previews list included pages, expire after 7 days and are explicitly rejected by the publisher; release artifacts last 90 days and diagnostics 30 days.
+
+The plan and result are retained under artifacts/ci/. Their statuses distinguish Passed, Reused, Failed, Blocked and NotApplicable. Receipts preserve the original producer and do not turn a pending run into a pass.
 
 **Deploy GitHub Pages** is intentionally skipped on PRs and draft. On main, a skip caused by failed validation means nothing was published and requires investigation. Check the run's branch and event before interpreting a skipped job. Push and PR checks may appear together on the same commit; the PR preview and main publication serve different purposes.
 
