@@ -127,6 +127,9 @@ for (const theme of ['light', 'dark'] as const) {
 test('generic type navigation preserves parameter names and existing deep links', async ({ page }) => {
   await page.goto('api/scripting/editor/');
   const main = page.getByRole('main');
+  await main.getByRole('link', { name: 'Editor', exact: true }).click();
+  await main.getByRole('link', { name: 'Interactions', exact: true }).click();
+  await expect(page).toHaveURL(/\/api\/scripting\/editor\/_projects\/editor\/interactions\/$/);
   await expect(main.getByRole('link', { name: 'EditorAction', exact: true })).toHaveCount(1);
   await expect(main.getByRole('link', { name: 'EditorAction<TTarget>', exact: true })).toHaveCount(1);
   const generic = main.getByRole('link', { name: 'EditorAction<TTarget, TArgument>', exact: true });
@@ -265,7 +268,17 @@ test('shared sidebar loads only expanded groups, links homes and animates both d
   await toggle('Scripting').click();
   await toggle('Authoring').click();
   const authoring = sidebar.locator('li[data-key="/InnoEngine.Docs/api/scripting/authoring/"]');
-  const links = authoring.locator(':scope > .children > .children-inner > ul > li > .nav-row > a');
+  const scopeLinks = authoring.locator(':scope > .children > .children-inner > ul > li > .nav-row > a');
+  await expect(scopeLinks).toHaveText(['Editor']);
+  for (const category of ['editor', 'editor/annotations']) {
+    const project = authoring.locator(`li[data-key="/InnoEngine.Docs/api/scripting/authoring/_projects/${category}/"]`);
+    const button = project.locator(':scope > .nav-row > button');
+    await button.click();
+    await expect(button).toHaveAttribute('aria-expanded', 'true');
+    await expect(button.locator('.chevron')).toHaveCount(0);
+  }
+  const annotations = authoring.locator('li[data-key="/InnoEngine.Docs/api/scripting/authoring/_projects/editor/annotations/"]');
+  const links = annotations.locator(':scope > .children > .children-inner > ul > li > .nav-row > a');
   await expect(links.filter({ hasText: 'HeaderAttribute' })).toBeVisible();
   const names = await links.allTextContents();
   expect(names).toEqual([...names].sort((a,b)=>a.localeCompare(b,'en',{sensitivity:'base'})));
@@ -275,6 +288,7 @@ test('shared sidebar loads only expanded groups, links homes and animates both d
   const count = requested.length;
   await toggle('Authoring').click();
   await expect(panel).toBeVisible();
+  await expect(links.filter({ hasText: 'HeaderAttribute' })).toBeVisible();
   expect(requested).toHaveLength(count);
   await page.screenshot({ path: testInfo.outputPath('shared-categories.png') });
   await authoring.locator(':scope > .nav-row > a').click();
