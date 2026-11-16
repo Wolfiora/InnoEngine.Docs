@@ -1,12 +1,14 @@
 ---
 import MobileMenuFooter from '@astrojs/starlight/components/MobileMenuFooter.astro';
 import { navigation } from '../../scripts/site-navigation.mjs';
+const currentPath = decodeURI(Astro.url.pathname).replace(/\/?$/, '/');
+const currentTrail = navigation.trails.get(currentPath) ?? [];
 ---
-<inno-sidebar data-pagefind-ignore>
+<inno-sidebar data-pagefind-ignore data-current-trail={JSON.stringify(currentTrail)}>
   <ul class="root">
     {navigation.roots.map(entry => <li data-key={entry.key}>
       <div class="nav-row root-row">
-        {entry.children && <button type="button" class="toggle whole-row" aria-expanded="false" aria-label={`Toggle ${entry.label}`} data-children={entry.children}>
+        {entry.children && <button type="button" class="toggle whole-row" aria-expanded="false" aria-current={entry.href === currentPath ? 'page' : undefined} aria-label={`Toggle ${entry.label}`} data-children={entry.children}>
           <span class="caret chevron" aria-hidden="true"></span><span class="nav-label">{entry.label}</span>
         </button>}
         {!entry.children && entry.href && <a class="nav-label" href={entry.href}>{entry.label}</a>}

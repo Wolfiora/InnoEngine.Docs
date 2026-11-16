@@ -25,6 +25,9 @@ class InnoSidebar extends HTMLElement {
       const saved = JSON.parse(sessionStorage.getItem(this.storageKey) ?? '{}');
       if (saved && typeof saved === 'object' && !Array.isArray(saved)) this.state = saved;
     } catch { /* Optional storage. */ }
+    // The current route wins over remembered closed ancestors, regardless of
+    // whether navigation came from search, a body link, reload or a direct URL.
+    for (const key of JSON.parse(this.dataset.currentTrail ?? '[]')) this.state[key] = true;
     this.markCurrent(this);
     this.addEventListener('click', event => {
       const button = (event.target as Element).closest<HTMLButtonElement>('button[data-children]');
@@ -89,6 +92,12 @@ class InnoSidebar extends HTMLElement {
     this.fitWidth();
     const scroller = document.getElementById('starlight__sidebar');
     try { if (scroller) scroller.scrollTop = Number(sessionStorage.getItem('inno-sidebar-scroll-v2')) || 0; } catch { /* Optional storage. */ }
+    const selected = this.querySelector<HTMLElement>('[aria-current="page"]');
+    if (scroller && selected) {
+      const row = selected.getBoundingClientRect(), viewport = scroller.getBoundingClientRect();
+      if (row.top < viewport.top || row.bottom > viewport.bottom)
+        scroller.scrollTop += row.top - viewport.top - (viewport.height - row.height) / 2;
+    }
     // Flush the restored geometry before enabling interactive transitions.
     this.getBoundingClientRect();
     delete this.dataset.restoring;
@@ -115,7 +124,8 @@ class InnoSidebar extends HTMLElement {
     return ul;
   }
   markCurrent(root: ParentNode) {
-    for (const a of root.querySelectorAll<HTMLAnchorElement>('a')) if (a.pathname === location.pathname) a.setAttribute('aria-current', 'page');
+    const normalize = (path: string) => decodeURI(path).replace(/\/?$/, '/');
+    for (const a of root.querySelectorAll<HTMLAnchorElement>('a')) if (normalize(a.pathname) === normalize(location.pathname)) a.setAttribute('aria-current', 'page');
   }
   async preparePanel(button: HTMLButtonElement): Promise<HTMLElement> {
     const entries = await load(button.dataset.children!);

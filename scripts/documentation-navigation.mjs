@@ -39,8 +39,52 @@ export function documentationNavigation(authored, catalog) {
         return { label: item.label, collapsed: true, items: [{ slug: 'api', label: item.label, attrs: { 'data-group-home': 'true' } }, category('api/engine', 'Engine'), category('api/scripting', 'Scripting')] };
       }
       if (item.autogenerate) throw new Error('Navigation must use explicit canonical routes, not framework filesystem guessing.');
-      return item.items ? { ...item, collapsed: true, items: resolve(item.items) } : item;
+      return item.items ? { ...item, collapsed: true, items: resolve(item.items) } : { ...item };
     });
   }
-  return resolve(authored);
+  const result = resolve(authored);
+  // Every catalog page can be reached and selected, including member fragments
+  // and secondary project guides. Use registered routes/contracts, never symbol-name guessing.
+  const registered = new Map(), roots = new Map();
+  function register(items, root) {
+    for (const item of items) {
+      if (item.slug !== undefined) { registered.set(item.slug, item); roots.set(item.slug.split('/')[0], root); }
+      if (item.items) {
+        register(item.items, root);
+        const home = item.items.find(child => child.attrs?.['data-group-home'] === 'true');
+        if (home) registered.set(home.slug, item);
+      }
+    }
+  }
+  for (const root of result) register([root], root);
+  const routes = new Map(catalog.pages.map(page => [contentRoute(page.path.replace(/^content\/en\//, '')), page]));
+  const ids = new Map(catalog.pages.map(page => [page.id, page]));
+  const addedGroups = new Set();
+  function ensure(page) {
+    const slug = contentRoute(page.path.replace(/^content\/en\//, ''));
+    if (registered.has(slug)) return registered.get(slug);
+    if (!slug || slug === '404') return null;
+    let parent = null;
+    const type = (page.kind === 'api' ? page.contracts ?? [] : []).map(id => ids.get(id.split('#')[0]))
+      .find(owner => owner !== page && Object.keys(owner?.symbols ?? {}).some(id => id.startsWith('T:')));
+    if (type) parent = ensure(type);
+    for (let directory = slug.slice(0, slug.lastIndexOf('/')); !parent && directory; directory = directory.includes('/') ? directory.slice(0, directory.lastIndexOf('/')) : '') {
+      const ancestor = routes.get(directory);
+      if (ancestor && ancestor !== page) parent = ensure(ancestor);
+    }
+    parent ??= roots.get(slug.split('/')[0]);
+    if (!parent) return null;
+    if (!parent.items) {
+      const home = { ...parent, attrs: { ...parent.attrs, 'data-group-home': 'true' } };
+      delete parent.slug; delete parent.attrs;
+      Object.assign(parent, { label: home.label ?? routes.get(home.slug)?.title, collapsed: true, items: [home] });
+      addedGroups.add(parent);
+    }
+    const entry = { slug, label: page.title };
+    parent.items.push(entry); registered.set(slug, entry);
+    return entry;
+  }
+  for (const page of catalog.pages) ensure(page);
+  for (const group of addedGroups) group.items = [group.items[0], ...group.items.slice(1).sort(alphabetical)];
+  return result;
 }

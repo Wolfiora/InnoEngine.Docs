@@ -8,7 +8,9 @@ class ContentTables extends HTMLElement {
   tables: { table: HTMLTableElement; columns: HTMLTableColElement[]; preferred: number[]; minimum: number[] }[] = [];
   connectedCallback() {
     this.events = new AbortController();
-    this.observer = new ResizeObserver(this.schedule);
+    // ResizeObserver runs before paint. Do not defer widths to the next frame:
+    // stale pixel columns would briefly overflow the newly narrowed scrollport.
+    this.observer = new ResizeObserver(this.resize);
     this.observer.observe(this);
     document.fonts.addEventListener('loadingdone', this.invalidate, { signal: this.events.signal });
     document.fonts.ready.then(() => { if (this.isConnected) this.invalidate(); });
@@ -39,8 +41,10 @@ class ContentTables extends HTMLElement {
       const preferred = cells.map(cell => cell.getBoundingClientRect().width);
       const minimum = cells.map(cell => {
         const style = getComputedStyle(cell);
-        return Math.min(cell.getBoundingClientRect().width,
-          parseFloat(style.paddingLeft) + parseFloat(style.paddingRight) + parseFloat(style.fontSize) * 2);
+        const text = document.createRange();
+        text.selectNodeContents(cell);
+        return Math.ceil(text.getBoundingClientRect().width + parseFloat(style.paddingLeft)
+          + parseFloat(style.paddingRight) + parseFloat(style.borderLeftWidth) + parseFloat(style.borderRightWidth));
       });
       clone.remove();
       if (!cells.length) continue;
@@ -60,18 +64,26 @@ class ContentTables extends HTMLElement {
   }
   schedule = () => {
     cancelAnimationFrame(this.frame);
-    this.frame = requestAnimationFrame(() => {
+    this.frame = requestAnimationFrame(this.resize);
+  };
+  resize = () => {
       const width = this.getBoundingClientRect().width;
       if (!width || Math.abs(width - this.measuredWidth) < .1) return;
       if (!this.tables.length) this.measure();
       this.measuredWidth = width;
       for (const { table, columns, preferred, minimum } of this.tables) {
-        const widths = tableWidths(preferred, minimum, table.parentElement!.clientWidth);
-        columns.forEach((column, index) => { column.style.width = `${widths[index]}px`; });
-        table.style.width = `${widths.reduce((total, value) => total + value, 0)}px`;
+        const scroll = table.parentElement!;
+        const floor = minimum.reduce((sum, value) => sum + value, 0);
+        const widths = tableWidths(preferred, minimum, scroll.clientWidth);
+        const total = widths.reduce((sum, value) => sum + value, 0);
+        columns.forEach((column, index) => { column.style.width = `${100 * widths[index] / total}%`; });
+        // Percent columns cannot retain a previous frame's oversized table.
+        // The intrinsic heading floor alone decides when scrolling is needed.
+        table.style.minWidth = `${floor}px`;
+        table.style.width = '100%';
+        scroll.style.overflowX = scroll.clientWidth < floor ? 'auto' : 'clip';
         table.dataset.innoSized = '';
       }
-    });
   };
 }
 if (!customElements.get('inno-content-tables')) customElements.define('inno-content-tables', ContentTables);
