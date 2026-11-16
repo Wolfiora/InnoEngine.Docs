@@ -1,9 +1,7 @@
 ---
-import logo from '../../public/branding/logo.svg?raw';
-const outline = logo.replace(/<\?xml[^>]*>/, '').replace(/<defs>[\s\S]*?<\/defs>/, '').replace('viewBox="0 0 512 512"', 'viewBox="39.32 21.04 433.36 469.92"');
 import DefaultPageSidebar from '@astrojs/starlight/components/PageSidebar.astro';
 ---
-<div class="toc-art" aria-hidden="true" inert><Fragment set:html={outline} /></div>
+<div class="toc-art" aria-hidden="true" inert><svg viewBox="39.32 21.04 433.36 469.92"><image href="/InnoEngine.Docs/branding/logo.svg" width="512" height="512" /></svg></div>
 <DefaultPageSidebar />
 <inno-toc-resizer class="toc-resizer" role="separator" tabindex="0" aria-label="Resize table of contents" aria-orientation="vertical" aria-controls="starlight__on-this-page" aria-valuemin="0" aria-valuemax="50" aria-valuenow="25" aria-valuetext="One quarter of the viewport" title="Drag to resize; arrow keys adjust; double-click resets" />
 <script src="../scripts/toc-resizer.ts"></script>

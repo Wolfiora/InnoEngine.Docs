@@ -9,8 +9,8 @@ test('pagination stays within immediate siblings, including type members and sin
   ],{pages:[]});
   const at=route=>result.pagination.get('/InnoEngine.Docs/'+route+'/');
   assert.equal(at('manual/a').prev,undefined); assert.equal(at('manual/a').next,undefined);
-  assert.equal(at('architecture/next').prev,undefined);
-  assert.equal(at('architecture/next').next.href,'/InnoEngine.Docs/architecture/overview/');
+  assert.equal(at('architecture/overview').prev,undefined);
+  assert.equal(at('architecture/overview').next.href,'/InnoEngine.Docs/architecture/next/');
   assert.equal(at('api/value').next.href,'/InnoEngine.Docs/api/other/');
   assert.equal(at('api/value/one').prev,undefined);
   assert.equal(at('api/value/two').next,undefined);

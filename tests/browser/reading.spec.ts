@@ -280,7 +280,7 @@ test('shared sidebar loads only expanded groups, links homes and animates both d
   await expect(page).toHaveURL(/\/api\/scripting\/authoring\/$/);
 });
 
-test('sidebar rows align controls, distinguish root disclosures and grow within two fifths of the desktop', async ({ page }, testInfo) => {
+test('sidebar rows align controls, distinguish root disclosures and grow within one third of the desktop', async ({ page }, testInfo) => {
   await page.goto('api/');
   const menu = page.getByRole('button', { name: /Menu/ });
   if (await menu.isVisible()) await menu.click();
@@ -330,7 +330,7 @@ test('sidebar rows align controls, distinguish root disclosures and grow within 
   })).toBeGreaterThanOrEqual(gaps.right - 1);
   if (testInfo.project.name !== 'mobile') {
     await expect.poll(() => page.locator('.sidebar-pane').evaluate(el => el.getBoundingClientRect().width)).toBeGreaterThan(initialWidth + 1);
-    await expect.poll(() => page.evaluate(() => document.querySelector('.sidebar-pane')!.getBoundingClientRect().width)).toBeLessThanOrEqual(page.viewportSize()!.width * .4 + 1);
+    await expect.poll(() => page.evaluate(() => document.querySelector('.sidebar-pane')!.getBoundingClientRect().width)).toBeLessThanOrEqual(page.viewportSize()!.width / 3 + 1);
   }
   const leaf = audio.locator(':scope > .children .nav-row > a').first();
   const normalWeight = await leaf.evaluate(el => getComputedStyle(el).fontWeight);
