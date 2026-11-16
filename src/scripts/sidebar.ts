@@ -15,9 +15,10 @@ class InnoSidebar extends HTMLElement {
   state: Record<string, boolean> = {};
   storageKey = 'inno-sidebar-disclosures-v2';
   lifecycle = new AbortController();
-  closing = new Map<HTMLElement, ReturnType<typeof setTimeout>>();
   measure = document.createElement('canvas').getContext('2d');
   widthFrame = 0;
+  compact = false;
+  animations = new Map<HTMLElement, Animation>();
   connectedCallback() {
     if (this.dataset.ready) return;
     this.dataset.ready = 'true';
@@ -28,6 +29,13 @@ class InnoSidebar extends HTMLElement {
     // The current route wins over remembered closed ancestors, regardless of
     // whether navigation came from search, a body link, reload or a direct URL.
     for (const key of JSON.parse(this.dataset.currentTrail ?? '[]')) this.state[key] = true;
+    try { this.compact = localStorage.getItem('inno-sidebar-compact') === 'true'; } catch {}
+    this.applyCompact();
+    this.querySelector('[data-compact-toggle]')?.addEventListener('click', () => {
+      this.compact = !this.compact;
+      try { localStorage.setItem('inno-sidebar-compact', String(this.compact)); } catch {}
+      this.applyCompact(); this.fitWidth();
+    }, {signal:this.lifecycle.signal});
     this.markCurrent(this);
     this.addEventListener('click', event => {
       const button = (event.target as Element).closest<HTMLButtonElement>('button[data-children]');
@@ -43,10 +51,19 @@ class InnoSidebar extends HTMLElement {
   }
   disconnectedCallback() {
     this.lifecycle.abort();
+    for (const animation of this.animations.values()) animation.cancel();
     cancelAnimationFrame(this.widthFrame);
-    for (const timer of this.closing.values()) clearTimeout(timer);
-    this.closing.clear();
     document.documentElement.removeAttribute('data-sidebar-restoring');
+  }
+  applyCompact() {
+    this.toggleAttribute('data-compact', this.compact);
+    document.documentElement.toggleAttribute('data-sidebar-compact', this.compact);
+    this.querySelector('[data-compact-toggle]')?.setAttribute('aria-pressed', String(this.compact));
+    for (const label of this.querySelectorAll<HTMLElement>('.nav-label')) {
+      const full = label.dataset.fullLabel ?? label.textContent ?? '';
+      label.dataset.fullLabel = full; label.title = full; label.setAttribute('aria-label', full);
+      label.textContent = this.compact ? Array.from(full)[0] + '…' : full;
+    }
   }
   queueWidth = () => {
     cancelAnimationFrame(this.widthFrame);
@@ -64,7 +81,7 @@ class InnoSidebar extends HTMLElement {
     const inset = parseFloat(paneStyle.paddingLeft) + parseFloat(paneStyle.paddingRight);
     const rem = parseFloat(getComputedStyle(html).fontSize);
     const rowInset = parseFloat(getComputedStyle(this.querySelector('.nav-row')!).marginInlineStart);
-    let width = 18 * rem;
+    let width = (this.compact ? 7 : 18) * rem;
     for (const label of this.querySelectorAll<HTMLElement>('.nav-label')) {
       if (label.closest('.children:not([data-open="true"])')) continue;
       const style = getComputedStyle(label);
@@ -168,26 +185,29 @@ class InnoSidebar extends HTMLElement {
       } finally { button.removeAttribute('aria-busy'); }
     }
     if (!panel) return;
-    clearTimeout(this.closing.get(panel)); this.closing.delete(panel);
+    const previousHeight = panel.hidden ? 0 : panel.getBoundingClientRect().height;
+    this.animations.get(panel)?.cancel(); this.animations.delete(panel);
     panel.hidden = false;
-    // The closed grid is established before any expanded styles can paint.
+    // Establish the opening geometry before the next paint.
     if (opening && panel.dataset.open !== 'true') panel.getBoundingClientRect();
     button.setAttribute('aria-expanded', String(opening));
     panel.inert = !opening;
     panel.dataset.open = String(opening);
     this.state[li.dataset.key!] = opening;
     try { sessionStorage.setItem(this.storageKey, JSON.stringify(this.state)); } catch { /* Optional storage. */ }
+    this.applyCompact();
     this.fitWidth();
-    if (!opening) {
-      if (!animate || matchMedia('(prefers-reduced-motion: reduce)').matches) panel.hidden = true;
-      else {
-        const closingPanel = panel;
-        this.closing.set(closingPanel, setTimeout(() => {
-          if (closingPanel.dataset.open === 'false') closingPanel.hidden = true;
-          this.closing.delete(closingPanel);
-        }, 220));
-      }
-    }
+    if (!animate || matchMedia('(prefers-reduced-motion: reduce)').matches) { panel.hidden = !opening; return; }
+    // Natural block layout is the settled state. Avoid nested fractional grid tracks
+    // retaining stale intrinsic heights after font/width changes in WebKit.
+    const targetHeight = opening ? panel.scrollHeight : 0;
+    const animation = panel.animate([{height:previousHeight+'px',opacity:opening?0:1},
+      {height:targetHeight+'px',opacity:opening?1:0}], {duration:220,easing:'cubic-bezier(.2,.7,.3,1)'});
+    this.animations.set(panel,animation);
+    animation.onfinish = () => {
+      if (this.animations.get(panel) !== animation) return;
+      panel!.hidden = !opening; this.animations.delete(panel!);
+    };
   }
 }
 if (!customElements.get('inno-sidebar')) customElements.define('inno-sidebar', InnoSidebar);

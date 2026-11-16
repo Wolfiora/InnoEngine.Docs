@@ -27,6 +27,7 @@ export async function nestedTypeParents(root, registry, binding) {
 export function sidebarProjection(navigation, catalog, typeParents = new Map()) {
   const members = new Set(catalog.pages.filter(page => page.kind === 'api'
     && !Object.keys(page.symbols ?? {}).some(id => id.startsWith('T:'))).map(page => route(page.path)));
+  const titles = new Map(catalog.pages.map(page => [route(page.path), page.title]));
   const homeOf = item => item.items?.find(child => child.attrs?.['data-group-home'] === 'true');
   const slugOf = item => item.slug ?? homeOf(item)?.slug;
   function visible(items) {
@@ -63,9 +64,11 @@ export function sidebarProjection(navigation, catalog, typeParents = new Map()) 
       if (!item.items) return item;
       const home = homeOf(item), children = compact(item.items.filter(child => child !== home));
       if (home && !children.length) return { slug: home.slug, label: item.label ?? home.label };
-      if (home && slugOf(item)?.startsWith('api/')) children.sort((a, b) =>
-        (a.label ?? slugOf(a)).localeCompare(b.label ?? slugOf(b), 'en', { sensitivity: 'base' }));
+
       return { ...item, items: home ? [home, ...children] : children };
+    }).sort((a,b) => {
+      const rank = item => item.items ? (homeOf(item) ? 1 : 0) : 2;
+      return rank(a)-rank(b) || (a.label ?? titles.get(slugOf(a)) ?? '').localeCompare(b.label ?? titles.get(slugOf(b)) ?? '', 'en', {sensitivity:'base'}) || (slugOf(a) ?? '').localeCompare(slugOf(b) ?? '');
     });
   }
   return compact(roots);

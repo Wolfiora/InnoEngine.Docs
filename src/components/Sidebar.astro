@@ -6,6 +6,7 @@ const selectedPath = selectedTypes.get(currentPath) ?? currentPath;
 const currentTrail = navigation.trails.get(selectedPath) ?? [];
 ---
 <inno-sidebar data-pagefind-ignore data-current-trail={JSON.stringify(currentTrail)} data-current-page={selectedPath} data-selected-type={selectedTypes.get(currentPath)}>
+  <button class="compact-toggle" data-compact-toggle type="button" aria-label="Toggle compact sidebar" aria-pressed="false"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="m14 5-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg></button>
   <ul class="root">
     {navigation.roots.map(entry => <li data-key={entry.key}>
       <div class="nav-row root-row">
@@ -48,8 +49,7 @@ const currentTrail = navigation.trails.get(selectedPath) ?? [];
     .chevron::before { width: .45rem; height: .45rem; background: none; border-block-start: 2px solid currentColor; border-inline-end: 2px solid currentColor; border-radius: 1px; transform: translate(-65%, -50%) rotate(45deg); }
     .chevron::after { display: none; }
     [aria-expanded='true'] .chevron { transform: rotate(90deg); }
-    .children { display: grid; grid-template-rows: 0fr; opacity: 0; transition: grid-template-rows var(--nav-motion) var(--nav-easing), opacity var(--nav-motion) var(--nav-easing); }
-    .children[data-open='true'] { grid-template-rows: 1fr; opacity: 1; }
+    .children { display: block; overflow: hidden; }
     .children-inner { min-height: 0; overflow: hidden; }
     .children[hidden] { display: none; }
     .nav-row:has(> [aria-expanded='true']) { background: color-mix(in srgb, var(--sl-color-hairline-light) 50%, transparent); }
@@ -64,6 +64,9 @@ const currentTrail = navigation.trails.get(selectedPath) ?? [];
     .nav-error { padding: .4rem; color: var(--sl-color-text); font-size: .85rem; }
     &[data-restoring] .children { transition: none; }
   }
+  .compact-toggle { position: fixed; z-index: 30; top: 50vh; left: calc(var(--sl-content-inline-start, 18rem) - 2px); width: 24px; height: 44px; display: grid; place-items: center; border: 1px solid var(--sl-color-hairline-light); border-radius: 0 8px 8px 0; background: var(--sl-color-bg-sidebar); color: var(--sl-color-text); cursor: pointer; }
+  [data-sidebar-compact] .compact-toggle svg { transform: rotate(180deg); }
+  @media (max-width: 49.999rem) { .compact-toggle { display: none; } }
   /* The left tree grows independently; preserve readable body space beside the resizable TOC. */
   @media (min-width: 50rem) {
     :root[data-has-sidebar] { --sl-content-inline-start: min(var(--inno-sidebar-width, 18rem), 50vw); }
