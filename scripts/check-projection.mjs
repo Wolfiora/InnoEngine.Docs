@@ -6,6 +6,7 @@ import { parse } from 'yaml';
 import { fromHtml } from 'hast-util-from-html';
 import { contentRoute } from './documentation-routes.mjs';
 import { sharedNavigation } from './shared-navigation.mjs';
+import { nestedTypeParents } from './sidebar-projection.mjs';
 import { documentationNavigation } from './documentation-navigation.mjs';
 import { isDocumentedProject, isDocumentedProjectGuide } from './api-scope.mjs';
 import { checkExampleEvidence } from './example-evidence.mjs';
@@ -73,6 +74,8 @@ export async function checkProjection({ root, catalog, site, complete = false, e
   const contentIdentity = digest(catalog.pages.slice().sort((a, b) => a.path < b.path ? -1 : a.path > b.path ? 1 : 0)
     .map((page) => `${page.path}\0${page.contentIdentity}`).join('\n'));
   if (contentIdentity !== catalog.contentIdentity) errors.push('Canonical aggregate content identity is invalid.');
+  // Validate captured facts before using their nested-type relationships.
+  const api = await checkApiReferences(root, binding, catalog, projects, errors);
   const registry = catalog.pages.some(page => page.kind === 'api')
     ? JSON.parse(await readOwned(root, 'reference/api/content.json')) : { entries: [] };
   const navigation = documentationNavigation(parse(await readFile(inside(root, 'navigation/en.yml'), 'utf8')), catalog, registry);
@@ -91,14 +94,13 @@ export async function checkProjection({ root, catalog, site, complete = false, e
   inspect(navigation);
   // Verify each shared navigation fragment once; pages retain their own HTML checks.
   if (site && errors.length === 0) {
-    const shared = sharedNavigation(navigation, catalog);
+    const shared = sharedNavigation(navigation, catalog, '/InnoEngine.Docs', await nestedTypeParents(root, registry, binding));
     for (const [id, expected] of shared.chunks) {
       const actual = await readFile(inside(path.resolve(site), 'navigation-data/' + id + '.json'), 'utf8');
       if (actual !== expected || digest(actual) !== id) errors.push('Invalid shared navigation resource: ' + id);
     }
   }
 
-  const api = await checkApiReferences(root, binding, catalog, projects, errors);
   const licenses = await checkLicenseProvenance(root, errors);
   const missingProjects = Object.entries(catalog.projects).filter(([, entry]) => entry === null).map(([name]) => name);
   if (complete && missingProjects.length) errors.push(`${missingProjects.length} actual projects lack an authoritative entry.`);

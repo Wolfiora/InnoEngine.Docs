@@ -2,9 +2,10 @@
 import MobileMenuFooter from '@astrojs/starlight/components/MobileMenuFooter.astro';
 import { navigation, selectedTypes } from '../../scripts/site-navigation.mjs';
 const currentPath = decodeURI(Astro.url.pathname).replace(/\/?$/, '/');
-const currentTrail = navigation.trails.get(currentPath) ?? [];
+const selectedPath = selectedTypes.get(currentPath) ?? currentPath;
+const currentTrail = navigation.trails.get(selectedPath) ?? [];
 ---
-<inno-sidebar data-pagefind-ignore data-current-trail={JSON.stringify(currentTrail)} data-selected-type={selectedTypes.get(currentPath)}>
+<inno-sidebar data-pagefind-ignore data-current-trail={JSON.stringify(currentTrail)} data-current-page={selectedPath} data-selected-type={selectedTypes.get(currentPath)}>
   <ul class="root">
     {navigation.roots.map(entry => <li data-key={entry.key}>
       <div class="nav-row root-row">
@@ -53,10 +54,10 @@ const currentTrail = navigation.trails.get(currentPath) ?? [];
     .children[hidden] { display: none; }
     .nav-row:has(> [aria-expanded='true']) { background: color-mix(in srgb, var(--sl-color-hairline-light) 50%, transparent); }
     .nav-row:has(> [aria-expanded='true']):hover { background: var(--sl-color-hairline-light); }
-    li:has([aria-current='page']) > .nav-row { background: color-mix(in srgb, var(--sl-color-text-accent) 5%, transparent); color: var(--sl-color-text); }
+    li:has([aria-current='page']) > .nav-row { background: color-mix(in srgb, var(--sl-color-text-accent) 9%, transparent); color: var(--sl-color-text); }
     li:has([aria-current='page']) > .nav-row .nav-label { font-weight: 650; }
     .nav-row > .nav-label[aria-current='page'] { text-decoration: underline; text-underline-offset: .2em; text-decoration-thickness: 1px; }
-    li:has([aria-current='page']) > .nav-row:hover { background: color-mix(in srgb, var(--sl-color-text-accent) 9%, transparent); }
+    li:has([aria-current='page']) > .nav-row:hover { background: color-mix(in srgb, var(--sl-color-text-accent) 13%, transparent); }
     li > .nav-row:has(> [aria-current='page'], > [data-selected-type]) { background: color-mix(in srgb, var(--sl-color-text-accent) 28%, transparent); }
     li > .nav-row:has(> [aria-current='page'], > [data-selected-type]):hover { background: color-mix(in srgb, var(--sl-color-text-accent) 34%, transparent); }
     a:focus-visible, button:focus-visible { outline: 2px solid var(--sl-color-text-accent); outline-offset: -2px; }

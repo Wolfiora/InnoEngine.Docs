@@ -27,6 +27,9 @@ test('nested API member selection and pagination stay inside the declaring type'
   if (await menu.isVisible()) await menu.click();
   await expect(page.locator('inno-sidebar [data-selected-type="true"]')).toHaveText('AudioDevice.DeviceHandleIdentity');
   await expect(page.locator('inno-sidebar [aria-current="page"]')).toBeVisible();
+  await expect(page.locator('inno-sidebar a').filter({hasText:'AudioDevice.DeviceHandleIdentity.Constructor'})).toHaveCount(0);
+  const outer=page.locator('inno-sidebar a').filter({hasText:/^AudioDevice$/});
+  await expect(outer.locator('..').locator('button')).toBeVisible();
   const links = page.locator('.pagination-links a');
   expect(await links.count()).toBeGreaterThan(0);
   for (const link of await links.all()) await expect(link).toHaveAttribute('href', /\/api\/engine\/audio\/devicehandleidentity\/[^/]+\/$/);
