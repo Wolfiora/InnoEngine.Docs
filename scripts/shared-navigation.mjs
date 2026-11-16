@@ -1,3 +1,4 @@
+import path from 'node:path';
 import { createHash } from 'node:crypto';
 import { contentRoute } from './documentation-routes.mjs';
 import { sidebarProjection } from './sidebar-projection.mjs';
@@ -21,6 +22,19 @@ export function sharedNavigation(navigation, catalog, base = '/InnoEngine.Docs',
     for (const item of items) if (item.items) paginate(item.items.filter(child => child.attrs?.['data-group-home'] !== 'true'));
   }
   paginate(navigation);
+  const visible = sidebarProjection(navigation, catalog, typeParents);
+  // Visible siblings share exactly the sidebar order and nested-type ownership.
+  paginate(visible);
+  // The canonical Members table owns member order, including kind grouping and overloads.
+  for (const page of catalog.pages) {
+    if (page.kind !== 'api') continue;
+    const section = page.markdown?.split(/^## Members\s*$/m)[1]?.split(/^## /m)[0];
+    if (!section) continue;
+    const members = [...section.matchAll(/^\|[^|]+\|\s*\[[^\]]+\]\(([^)]+\.md)\)/gm)]
+      .map(match => contentRoute(path.posix.normalize(path.posix.join(path.posix.dirname(page.path), match[1])).replace(/^content\/en\//,'')))
+      .map(slug => ({slug}));
+    if (members.length) paginate(members);
+  }
   /** @returns {NavigationEntry[]} */
   function entries(items, trail = '', ancestors = []) {
     return items.map((item) => {
@@ -37,6 +51,6 @@ export function sharedNavigation(navigation, catalog, base = '/InnoEngine.Docs',
       return { label, key, ...(home ? { href: href(home.slug) } : {}), children: `${base}/navigation-data/${id}.json` };
     });
   }
-  const roots = entries(sidebarProjection(navigation, catalog, typeParents));
+  const roots = entries(visible);
   return { roots, chunks, trails, pagination };
 }

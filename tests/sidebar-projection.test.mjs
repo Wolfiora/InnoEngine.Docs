@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { sharedNavigation } from '../scripts/shared-navigation.mjs';
 import { sidebarProjection } from '../scripts/sidebar-projection.mjs';
 
-test('sidebar hides members, keeps real nested types, and does not change pagination', () => {
+test('sidebar hides members, keeps real nested types, and preserves member pagination', () => {
   const home = slug => ({slug, label:slug, attrs:{'data-group-home':'true'}});
   const input = [{label:'API',items:[home('api'),
     {label:'Outer',items:[home('api/outer'),{slug:'api/outer/a'},{slug:'api/outer/b'}]},
@@ -17,7 +17,8 @@ test('sidebar hides members, keeps real nested types, and does not change pagina
   const before=JSON.stringify(input);
   const result=sharedNavigation(input,{pages},'/InnoEngine.Docs',parents);
   const unfiltered=sharedNavigation(input,{pages:pages.map(p=>({...p,kind:'ordinary'}))});
-  assert.deepEqual(result.pagination,unfiltered.pagination);
+  for(const member of members) assert.deepEqual(result.pagination.get('/InnoEngine.Docs/'+member+'/'),unfiltered.pagination.get('/InnoEngine.Docs/'+member+'/'));
+  assert.equal(result.pagination.get('/InnoEngine.Docs/api/inner/').next,undefined);
   assert.equal(result.pagination.get('/InnoEngine.Docs/api/outer/a/').next.href,'/InnoEngine.Docs/api/outer/b/');
   const all=[...result.chunks.values()].join('');
   for(const member of members)assert.equal(all.includes(member+'/'),false);
