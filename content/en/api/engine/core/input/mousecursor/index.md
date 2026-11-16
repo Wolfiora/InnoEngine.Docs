@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Input
 apiSurface: source-clr
-reviewed: e17ae2d2dcee9b7185877b6a037f4f0442f9c8ef3f021fc61a871d0444142426
+reviewed: cd720ebdcc20233e116954e0f07d39ef3c93f80855016515610112416b0a02c0
 contracts:
 - project.inno-core-input#input-value-contract
 

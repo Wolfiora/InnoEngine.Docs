@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI.Runtime
 apiSurface: source-clr
-reviewed: d3e8ed593d7a6e2c846f151a5e1c77864f7c5543e0ee2a5e7f94b2136a64f57c
+reviewed: 65385f1c6a50ca8408908e7ddf3c84f0a474e32d168b45e20f68fd3e1c6eeabe
 contracts:
 - project.inno-ui-runtime#session-and-font-ownership
 

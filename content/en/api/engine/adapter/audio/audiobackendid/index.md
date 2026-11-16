@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Audio
 apiSurface: source-clr
-reviewed: f9570e53957aa74bc0d5b30f2e74952028c460fe547a32189a1d259d27d63c72
+reviewed: bfebd49353e93ef07bb55b27671d726e0b0d9fc02ec3a392495ad3833b0a9deb
 contracts:
 - project.inno-adapter-audio#provider-ownership-contract
 

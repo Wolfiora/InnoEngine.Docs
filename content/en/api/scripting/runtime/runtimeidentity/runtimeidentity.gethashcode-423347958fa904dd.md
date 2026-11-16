@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Identity
 apiSurface: editor-script
-reviewed: b67e8e6467b591b00cf43fc7fb614c9661ea184dd01fda02b26679d735e20de7
+reviewed: 45007df06a7153f799b6e92c162abf124e42e1302fd8abbdd353ac6cd3bcf1cd
 apiScope: Runtime
 contracts: []
 

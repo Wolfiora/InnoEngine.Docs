@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Shell
 apiSurface: source-clr
-reviewed: dfb927bb638e4d949d632c28a9240f825fa078e81877e2a53240def2208ddd88
+reviewed: 8c1b8532e6b4c114cb0b362d59f8e42d55de66f16744e377e6e6643a92af380e
 contracts:
 - project.inno-shell
 

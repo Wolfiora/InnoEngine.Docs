@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: editor-script
-reviewed: 3066a3251b01f673f8af6f61ebbb6827689be4f819d890af5208c49d8f70d032
+reviewed: 764f495259fa491132acb0fd62af7288c0b1e2a092c952adbbdfca08af39469b
 apiScope: Editor
 contracts: []
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: source-clr
-reviewed: d711fc8c1e07ac5e15ee8bb157e92ac845d09d7b38a7d3bc77993d578df04c25
+reviewed: 74eaa95228650a5c3544d9477dd114f67721b7b26b4a7836c017604c74ce0f8d
 contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: 1a5ddf191e5667e2726f3719e137aea25af303e5b2fdede0018d804bf95dd00c
+reviewed: 5b1c6703618d07bba70725b56512aec5fc620ffba61bb774cdebd446f94fc066
 apiScope: Editor
 contracts: []
 

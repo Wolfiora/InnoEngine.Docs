@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-reviewed: fed58c9d7b61ebc85bac2e53e4ea9777eb3d8f7ac51c69d78699ef8f32b5dad1
+reviewed: e34da6e88f80a3ee69dcf10a5eeb1509a3df7d24504b92f5910e0ec94123a130
 apiScope: Runtime
 contracts: []
 

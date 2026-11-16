@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: 4619b224dd9f49169e1594236318d4381f5354a6eb2670769c34b1e2150a1e99
+reviewed: 56f98b6542c7c96bc99c67d3af8b3735958f567307985a76cf977d3b0ed3cc15
 contracts:
 - project.inno-assets-pipeline
 

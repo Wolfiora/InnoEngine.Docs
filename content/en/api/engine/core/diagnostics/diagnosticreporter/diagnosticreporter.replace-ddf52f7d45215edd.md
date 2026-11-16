@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: source-clr
-reviewed: 525b191eeec19a82da7da041009ccc032c92768683907c29b0a05efb1e54800a
+reviewed: db22259b8440015398ccaaaed47f4eb882b782bcf9d98e300a23fa3bc3316fdb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

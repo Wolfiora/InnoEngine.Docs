@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text.Assets
 apiSurface: source-clr
-reviewed: c6ee0bdc0c28610f29e483bb368634dc695ff8891e8d6581041bcd9f416944aa
+reviewed: 90be5fa65d4a58b5770fe66a7324cf2993f8e2986677da7648b38ed033d5a275
 contracts:
 - project.inno-text-assets#import-contract
 

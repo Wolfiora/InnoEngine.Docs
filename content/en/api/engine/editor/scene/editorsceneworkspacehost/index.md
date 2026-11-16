@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: source-clr
-reviewed: 72de2d1b6b20dc824eb91250d3fea989ea15997bc6197d6a18a46ad74d30a915
+reviewed: e45717d48139d2853fdffe73d2b2625524e53dba6e3b2a02f7129fbb8edf5f8a
 contracts:
 - project.inno-editor-scene
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Panel.Hierarchy
 apiSurface: editor-script
-reviewed: 2c955153cc6d537c39c4a7c8cef44a304903adb0f819e4f3293431127ab29ccf
+reviewed: 465105639cf098272a37fd82a21f09e50de392e7e857c0143570a2e911fc1dc5
 apiScope: Editor
 contracts: []
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: f6c16a80b4be1a181b350c1d9f5ba7e2bb97789ba93ce22c051eb25422ad22cf
+reviewed: cf972ffac4e97174474bf9da91d94ce03864f02fd7b6bdb463878196214d449b
 apiScope: Editor
 contracts: []
 

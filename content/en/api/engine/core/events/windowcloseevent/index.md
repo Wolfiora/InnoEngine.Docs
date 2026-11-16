@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-reviewed: 7c0d956e11b4fbff4b0026d592187142e209d4e7114834fcadaff65a353db919
+reviewed: cc1efcdd66fa59029625e9002c0331b118d89b2dce1b137283fbaa55045c46d4
 contracts:
 - project.inno-core-events#dispatch-and-lifetime-contract
 

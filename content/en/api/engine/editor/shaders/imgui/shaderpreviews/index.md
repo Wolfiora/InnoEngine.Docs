@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders.ImGui
 apiSurface: source-clr
-reviewed: 75ba3c15ce67875bd726950cf7c365cbcd63acf5f46dca5c49743e10b1aa11b7
+reviewed: fb6817c1a9a76758ec58bc47e1200ff68f49ddc7410893d2975cf817ed56d0e1
 contracts:
 - project.inno-editor-shaders-imgui
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Coroutines
 apiSurface: source-clr
-reviewed: 994ee7ef6984f00c6fa52062f274fbe2de4c7406d7f1ce46b5a3fff565f5da97
+reviewed: f5d9e0faa3c80dc87412710eed65bdafd7aa9d41beee3a825d4d295a11216739
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

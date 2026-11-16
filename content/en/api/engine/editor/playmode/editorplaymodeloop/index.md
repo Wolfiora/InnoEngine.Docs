@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.PlayMode
 apiSurface: source-clr
-reviewed: 47fdb43f5ac08f414635876e3ba4ca7e50d210fcbbe8f0acacb3f69448e3fbfd
+reviewed: af851532581c895d819635b13f20f1859d6a2fcc58d5b2219f7850e3c81dc0d9
 contracts:
 - project.inno-editor-playmode
 

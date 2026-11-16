@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Tasks
 apiSurface: source-clr
-reviewed: aa79c87b3cab90e6f20210f316ee58ae92fa2c3d77b3afd0fcc05ca45dad00b4
+reviewed: 844216b0ff51923ca5589280a60aab791932b093e2fd00b29ccd8c03b25c8396
 contracts:
 - project.inno-build-tasks
 

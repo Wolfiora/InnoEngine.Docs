@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-reviewed: 927872fe0af8a6785e5f1640521e728db51afeef1b507fe4756f5b42511091e7
+reviewed: 99fd4b56ee99aa2f3df02283f6fbb68351556bd24bb438d548f0175aeda5ea10
 contracts:
 - project.inno-core-logging#delivery-and-ownership-contract
 

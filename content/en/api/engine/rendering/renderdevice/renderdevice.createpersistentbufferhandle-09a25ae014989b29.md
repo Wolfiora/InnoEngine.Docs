@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 1abf89959eaebb594b3e6a14ae1770deab9772653894105b97b78052b1d6e77e
+reviewed: 443aa699ae7996e604e3eca45456877d83eab258e605138e238be8be36d02869
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

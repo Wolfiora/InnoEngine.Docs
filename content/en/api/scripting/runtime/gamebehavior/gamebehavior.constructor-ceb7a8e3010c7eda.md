@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 6f50c4532129f5be077d7490de464b1a3f53368574f5e66b181fe7449f38c80b
+reviewed: 2cd628d3778ef8100eb72a2147528a528c92f41983840a71bda8ce46676e4fd1
 apiScope: Runtime
 contracts: []
 

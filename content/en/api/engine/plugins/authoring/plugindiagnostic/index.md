@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Plugins.Authoring
 apiSurface: source-clr
-reviewed: 490d8cf23f5e6b77bfa665b844df121703a3cfcaa8789e033e510f2b22b467b0
+reviewed: 230640a83828035c86b756beba910b10b9d3bc8fad9268e02e367dfc6ffe20be
 contracts:
 - project.inno-plugins-authoring#installation-and-generation-contract
 

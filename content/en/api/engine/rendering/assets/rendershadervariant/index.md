@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: 4e7cfd5a6569405f7d6da50942c27015862b2a28f02ee5e9d5af01ce4aee22c9
+reviewed: 2656f3f78f2124dc2eb626935886288f35187bfb157f478f26d9fc5125b10b2a
 contracts:
 - project.inno-rendering-assets
 

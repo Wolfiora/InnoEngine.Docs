@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: d03bd9a016fdf7681e152ed5bf09e4510bca82b96ef1664454dda0cf2cafa986
+reviewed: 792a02f0ea156d71b978d66ed1f40f37d57850d7da6fa26ebb9ab537835b3f9a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

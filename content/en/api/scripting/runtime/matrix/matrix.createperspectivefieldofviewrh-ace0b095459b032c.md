@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: a00990bbf7cdfd605f6172dcdb5434b251451da156e66969edb9e551b65b5c59
+reviewed: 418ff59da9773b6c9dbbe4b16e96768a6bdf3aec5ccdeb08977abafacba96371
 apiScope: Runtime
 contracts: []
 

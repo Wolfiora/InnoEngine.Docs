@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: c5559bcab5befa47142964e71ab34b6967c476282f6745c524f2386ec491cb42
+reviewed: 74a690a8745f203d3e4229366bb52697f4f8ce941c03e1d3a49e1ab9896d93ad
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

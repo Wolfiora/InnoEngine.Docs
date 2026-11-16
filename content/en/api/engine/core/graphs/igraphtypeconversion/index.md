@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: source-clr
-reviewed: 88151d05a22fa86f4914a85ed0a8ff25b3450d8c51194e511fe665062ca64900
+reviewed: 27e0289d169d8194441d113df443c219e42a41b586f9aac7a0a7e6425f886264
 contracts:
 - project.inno-core-graphs#document-and-definition-contract
 

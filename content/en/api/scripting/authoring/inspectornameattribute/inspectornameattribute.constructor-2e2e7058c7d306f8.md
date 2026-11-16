@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Annotations
 apiSurface: editor-script
-reviewed: 80de184437061a640691e2ffdcd57290a46251c3d4751b1791469a0d926e1f58
+reviewed: 26911bbc5a93dac896e89e32c74a241bd98e92383621b5089809fd5b0e489941
 apiScope: Authoring
 contracts: []
 

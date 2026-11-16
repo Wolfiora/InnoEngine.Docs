@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: source-clr
-reviewed: 2762c94bc8dc0e44c4e9185e8c0e9c67c0b5d7a0ba933696b80d8fb4e232391c
+reviewed: 3b6d3b710a09745cc1622a8afaf3beed56404b8fd35135cf5303f4e3f1c614c8
 contracts:
 - project.inno-editor-inspection
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Collections
 apiSurface: source-clr
-reviewed: 2340c914062745730acb9c82c87536dbb940c30025e211401a5bc095665b2126
+reviewed: cc4d2636ebb695f2360df307624da685e05fa29a5a3fb1160b167c0af9cc6a5c
 contracts:
 - project.inno-core-collections#graph-and-store-contract
 

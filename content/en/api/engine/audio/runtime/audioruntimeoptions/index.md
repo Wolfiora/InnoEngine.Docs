@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio.Runtime
 apiSurface: source-clr
-reviewed: 9b463363c5fd973ea3ccaa9f0ab93faf0f0e7ddc28c4fce14752a6cb8668d486
+reviewed: dfdd4f39610cb92da3595f799f3b12576c5b629a1bd4d8e59b51561eca7eac3b
 contracts:
 - project.inno-audio-runtime#composition-and-lifetime-contract
 

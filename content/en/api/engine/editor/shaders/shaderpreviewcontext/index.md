@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders
 apiSurface: source-clr
-reviewed: 09422141c1caad5c58156fa7cdc7db4a1b14227e18bf93185fa9d8e4ccd5eed2
+reviewed: fba8a14d166ec96d0106c765e1dd2c12f41c1f6d71a11ee199f9fb96805d8d57
 contracts:
 - project.inno-editor-shaders
 

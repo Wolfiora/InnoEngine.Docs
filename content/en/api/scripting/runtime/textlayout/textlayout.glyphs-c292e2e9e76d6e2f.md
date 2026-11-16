@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: editor-script
-reviewed: 0824598994aa0e5f95d39ac1f81c68a236928d8a940edb2312942ecb019da313
+reviewed: 819abfad633bf9881d96a20d1df634e78ea567c6b14cda61e162e4ef78f8d50c
 apiScope: Runtime
 contracts: []
 

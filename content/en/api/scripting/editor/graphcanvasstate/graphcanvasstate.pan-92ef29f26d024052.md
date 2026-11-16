@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: editor-script
-reviewed: 57fe846a77794062a58a3f8f5ef7be2ab1ea6416cba9e7f66bb97f6d311921dd
+reviewed: a508cfd1132668c9a746452e54c1e5c58380135410c46c0c72e2549bee997ae2
 apiScope: Editor
 contracts: []
 

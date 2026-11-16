@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Jobs
 apiSurface: source-clr
-reviewed: 13cedbfcaebb4399d99061baa395703c43e0ed53173e25df8bc4f8b2e75c95e9
+reviewed: e8b188410f83b79301ee60f80ed48d022dbb3b2fe019628699711bef26b38e98
 contracts:
 - project.inno-core-jobs#frame-and-queue-contract
 

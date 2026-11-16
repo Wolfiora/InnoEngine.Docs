@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: editor-script
-reviewed: e1de675fd9f423e4cd869b2d16f2644a8ba1b1fa813688b2b4720eeb38b3b9ff
+reviewed: ed082383f24c13e90da463d0e00859c9cde9fb4ff196d3e4996d3da1da654b79
 apiScope: Runtime
 contracts: []
 
