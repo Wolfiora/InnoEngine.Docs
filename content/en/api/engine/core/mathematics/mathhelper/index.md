@@ -8,11 +8,12 @@ owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
 reviewed: a5f32879dfdfbe392f9b98a03112b32a6b41adf3b6215be856e95e5556fc4fa5
+contracts:
+- project.inno-core-mathematics#numeric-and-layout-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-core-mathematics#numeric-and-layout-contract
 aliases: []
 ---

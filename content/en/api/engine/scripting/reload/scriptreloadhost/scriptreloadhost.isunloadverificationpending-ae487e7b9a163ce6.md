@@ -8,8 +8,10 @@ owners:
 - Inno.Scripting.Reload
 apiSurface: source-clr
 reviewed: 2ab858a393f0c62b395fd69238cc30856710af3e98d517b42209fe27a84e82bc
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

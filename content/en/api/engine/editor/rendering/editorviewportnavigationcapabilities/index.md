@@ -8,11 +8,12 @@ owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
 reviewed: ae3effa04e5efc9c107c9c11c129e46a797193d30ad0e249d484245b858a8aa1
+contracts:
+- project.inno-editor-rendering
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-editor-rendering
 aliases: []
 ---

@@ -8,8 +8,10 @@ owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
 reviewed: 4204d4b1a85666f73fa4b8c99e3d6c2e0ea2776c81c30f64d8bd7350059bdcee
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

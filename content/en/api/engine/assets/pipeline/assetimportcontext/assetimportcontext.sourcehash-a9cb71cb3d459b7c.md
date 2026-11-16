@@ -8,8 +8,10 @@ owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
 reviewed: 0c67d6ecacf725c63eb1b7199b1e6ea7455c4edf6b3690b2ff23ffb858874653
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

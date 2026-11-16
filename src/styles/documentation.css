@@ -69,7 +69,7 @@ inno-content-tables { display: block; min-width: 0; }
   :root[data-has-toc] inno-header-layout > .header > :nth-child(2) { min-width: 0; }
   :root[data-has-toc] inno-header-layout button[data-open-modal] { max-width: none; width: 100%; }
   :root[data-has-toc] inno-header-layout .right-group { justify-content: flex-end; padding-inline: var(--sl-nav-pad-x); }
-  :root { --inno-toc-width: 33.333333vw; }
+  :root { --inno-toc-width: 25vw; }
   .right-sidebar-container { width: var(--inno-toc-width); flex: 0 0 var(--inno-toc-width); }
   .main-pane { flex: 1 1 0; width: auto; min-width: 0; }
   .right-sidebar { position: sticky; top: var(--sl-nav-height); padding-top: 0; width: 100%; height: calc(100vh - var(--sl-nav-height)); overflow: visible; }

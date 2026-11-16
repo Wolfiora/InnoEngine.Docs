@@ -8,9 +8,11 @@ owners:
 - Inno.Adapter.Input
 apiSurface: source-clr
 reviewed: 321a9e425a8d0aa3ecd3dbf5ec21013656742bfc1e9547c488834ea7797486f3
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---
 

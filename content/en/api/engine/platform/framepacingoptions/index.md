@@ -8,11 +8,12 @@ owners:
 - Inno.Platform
 apiSurface: source-clr
 reviewed: 7e2e57a2020ce8d6b35ec525a0320d074801702d34f9a06f2c67440d60f37ee5
+contracts:
+- project.inno-platform
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-platform
 aliases: []
 ---

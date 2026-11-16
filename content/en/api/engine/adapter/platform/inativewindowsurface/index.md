@@ -8,12 +8,13 @@ owners:
 - Inno.Adapter.Platform
 apiSurface: source-clr
 reviewed: a2f39f77d2804399bdd62cfdf6b91487eb610811e9228538d2dd60104335fc08
+contracts:
+- project.inno-adapter-platform
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-adapter-platform
 aliases: []
 ---
 

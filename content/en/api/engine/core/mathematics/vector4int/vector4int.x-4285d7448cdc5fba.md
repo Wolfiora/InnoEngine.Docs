@@ -8,8 +8,10 @@ owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
 reviewed: 3ad793049dbb9d1d2f369ab8d8d49230e17563bb2d9f7c911ae6033b0cd7a41c
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

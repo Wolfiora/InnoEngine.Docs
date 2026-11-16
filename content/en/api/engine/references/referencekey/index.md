@@ -8,11 +8,12 @@ owners:
 - Inno.References
 apiSurface: source-clr
 reviewed: 8df9274f6748dfa7b938d0d8451768a82726dda84b267b114a30510269f1c18c
+contracts:
+- project.inno-references
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-references
 aliases: []
 ---

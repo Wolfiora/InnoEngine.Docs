@@ -8,8 +8,10 @@ owners:
 - Inno.Extensibility.Modules
 apiSurface: source-clr
 reviewed: 32f0caeba286282933327b61f6010227e664d97c1ed86c9fb4d0dd8db7651fac
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

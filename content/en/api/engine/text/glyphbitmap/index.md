@@ -8,11 +8,12 @@ owners:
 - Inno.Text
 apiSurface: source-clr
 reviewed: 18758bad976af4df6a846409e30e90fe04d2b9593cef44a8e453c805d3a35b32
+contracts:
+- project.inno-text#shaping-and-glyph-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-text#shaping-and-glyph-contract
 aliases: []
 ---

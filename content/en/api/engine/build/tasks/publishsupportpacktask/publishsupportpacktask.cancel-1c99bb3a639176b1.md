@@ -8,8 +8,10 @@ owners:
 - Inno.Build.Tasks
 apiSurface: source-clr
 reviewed: f1ff93393cf9c314cde01c3e17c52198726ffdfed7e31da075907f22713001e0
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

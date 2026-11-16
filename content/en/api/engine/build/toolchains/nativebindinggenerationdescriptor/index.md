@@ -8,11 +8,12 @@ owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
 reviewed: b80756011e33d030d67f551c6cd68b0f1526cecbc99582dc26ea2f92ba64346f
+contracts:
+- project.inno-build-toolchains
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-build-toolchains
 aliases: []
 ---

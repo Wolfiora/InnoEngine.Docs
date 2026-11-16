@@ -8,11 +8,12 @@ owners:
 - Inno.Editor.Scene
 apiSurface: source-clr
 reviewed: e9173cf32c8fd154c87c9c5a7f741c873ea5e6915d49972bafcd66da20187270
+contracts:
+- project.inno-editor-scene
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-editor-scene
 aliases: []
 ---

@@ -8,13 +8,14 @@ owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
 reviewed: 56b3881234cf8af070de99a9682e9cb44b8ad1098c823c1f4a3b8b5f4866683f
-
-# Authoring metadata. Edit these fields and the explanation below.
-source: xml
-outdated: false
 contracts:
 - api.inno.editor.imgui.e0d3ffa7c449fd75#declaration
 - project.inno-editor-imgui
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+description: null
+outdated: false
 aliases:
 - api.inno.editor.imgui.90ab3b581dd57428
 - api.inno.editor.imgui.ed8cfbb2c0b7948e

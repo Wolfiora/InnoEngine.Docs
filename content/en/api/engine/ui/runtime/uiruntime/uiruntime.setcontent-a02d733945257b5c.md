@@ -8,9 +8,11 @@ owners:
 - Inno.UI.Runtime
 apiSurface: source-clr
 reviewed: 8ad6b37eeffd580bf973fb9d0a2aec40c61b3edfc24b75e6bd96900280c5bf0f
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---
 

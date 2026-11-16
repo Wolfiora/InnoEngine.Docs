@@ -8,12 +8,13 @@ owners:
 - Inno.Core.Settings
 apiSurface: source-clr
 reviewed: b2400dcb80aca665b0466a9866705efa5a2fe13a133c3067c93511c5a902c2c2
+contracts:
+- project.inno-core-settings#settings-ownership-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-core-settings#settings-ownership-contract
 aliases: []
 ---
 

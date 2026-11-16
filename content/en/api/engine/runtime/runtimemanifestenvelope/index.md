@@ -8,11 +8,12 @@ owners:
 - Inno.Runtime
 apiSurface: source-clr
 reviewed: 45b86587eaaa59193401167a475c957c2a445939263d08eb64c8f485dd2b79b0
+contracts:
+- project.inno-runtime
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-runtime
 aliases: []
 ---

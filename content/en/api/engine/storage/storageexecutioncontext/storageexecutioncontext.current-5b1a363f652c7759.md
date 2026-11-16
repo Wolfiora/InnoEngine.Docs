@@ -8,9 +8,11 @@ owners:
 - Inno.Storage
 apiSurface: source-clr
 reviewed: aa924dbbf6c4bc464bd2dd400cddec1d77dab3caa6a3b555e17a87b8eee49127
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---
 

@@ -8,8 +8,10 @@ owners:
 - Inno.Editor.Graph.ImGui
 apiSurface: source-clr
 reviewed: b09a31bc6d4816092b9876632b366a0fa5f8810d7a3c6308e34a65ef093c4474
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

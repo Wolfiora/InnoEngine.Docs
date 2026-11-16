@@ -8,9 +8,16 @@ export function sharedNavigation(navigation, catalog, base = '/InnoEngine.Docs')
   const titles = new Map(catalog.pages.map(page => [contentRoute(page.path.replace(/^content\/en\//, '')), page.title]));
   const chunks = new Map();
   const trails = new Map();
+  const pagination = new Map();
   const href = slug => `${base}/${slug ? slug + '/' : ''}`;
   /** @returns {NavigationEntry[]} */
   function entries(items, trail = '', ancestors = []) {
+    const peers = items.map(item => {
+      const home = item.items?.find(child => child.attrs?.['data-group-home'] === 'true');
+      const slug = home?.slug ?? item.slug;
+      return slug === undefined ? null : { href: href(slug), label: item.label ?? titles.get(slug) };
+    }).filter(Boolean);
+    for (let i = 0; i < peers.length; i++) pagination.set(peers[i].href, { prev: peers[i-1], next: peers[i+1] });
     return items.map((item) => {
       const label = item.label ?? titles.get(item.slug);
       if (!label) throw new Error(`Navigation label missing: ${item.slug}`);
@@ -26,5 +33,5 @@ export function sharedNavigation(navigation, catalog, base = '/InnoEngine.Docs')
     });
   }
   const roots = entries(navigation);
-  return { roots, chunks, trails };
+  return { roots, chunks, trails, pagination };
 }

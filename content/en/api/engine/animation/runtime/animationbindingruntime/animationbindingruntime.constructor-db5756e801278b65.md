@@ -8,9 +8,11 @@ owners:
 - Inno.Animation.Runtime
 apiSurface: source-clr
 reviewed: 5bbbe3209a2c019e365bb63f27d42578759b621502c91bb598006755d5af71dc
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---
 

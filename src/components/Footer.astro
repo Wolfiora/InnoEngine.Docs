@@ -1,0 +1,22 @@
+---
+import EditLink from './EditLink.astro';
+import Pagination from './Pagination.astro';
+const { entry } = Astro.locals.starlightRoute;
+const author = entry.data.source;
+const generated = entry.data.kind === 'api' && (!author || author === 'xml');
+---
+<footer class="page-footer">
+  <EditLink />
+  <Pagination />
+  <div class="page-credit">
+    <p>© 2026–present InnoEngine contributors. Website created by FLwolfy.</p>
+    {generated ? <p>Generated automatically from engine source XML documentation.</p>
+      : author && author !== 'xml' ? <p>Page written by {author}.</p>
+      : <p>Documentation maintained by the InnoEngine contributors.</p>}
+  </div>
+</footer>
+<style>
+  .page-footer { display: flex; flex-direction: column; gap: 1.5rem; margin-block-start: 3rem; }
+  .page-credit { border-top: 1px solid var(--sl-color-hairline-light); padding-top: 1rem; color: var(--sl-color-gray-2); font-size: var(--sl-text-sm); }
+  .page-credit p { margin: .4rem 0; }
+</style>

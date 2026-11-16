@@ -8,8 +8,10 @@ owners:
 - Inno.Input
 apiSurface: source-clr
 reviewed: a746db22a2bd9424e201d1e35b1a879376ebcc0ae1562e226a6368946d2bdac3
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

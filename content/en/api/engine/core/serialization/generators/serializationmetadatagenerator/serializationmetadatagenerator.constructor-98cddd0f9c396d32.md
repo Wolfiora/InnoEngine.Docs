@@ -8,8 +8,10 @@ owners:
 - Inno.Core.Serialization.Generators
 apiSurface: source-clr
 reviewed: 94e7029f87c8c3d98d04f247ab57851a2d861546c97772701fc319dc4bc93d5b
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

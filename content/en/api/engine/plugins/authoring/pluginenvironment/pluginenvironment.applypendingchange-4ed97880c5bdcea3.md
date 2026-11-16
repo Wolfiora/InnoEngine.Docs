@@ -8,9 +8,11 @@ owners:
 - Inno.Plugins.Authoring
 apiSurface: source-clr
 reviewed: 627f584d46110a7d31c57760c7f0ebddb9ce1e3b296321ff43ec1ba857fd3be9
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---
 

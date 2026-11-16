@@ -8,8 +8,10 @@ owners:
 - Inno.Editor.Diagnostics
 apiSurface: source-clr
 reviewed: fdaf2f866875e5c23a49cfc9119fd69be232786b1f0238d4e3cf2a5f4c11f620
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

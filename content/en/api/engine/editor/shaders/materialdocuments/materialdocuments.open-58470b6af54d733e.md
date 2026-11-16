@@ -8,9 +8,11 @@ owners:
 - Inno.Editor.Shaders
 apiSurface: source-clr
 reviewed: aff2f67015b121dd2efec91911ce5b89c875af8025b3a2435ae7a2dbad5454cc
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---
 

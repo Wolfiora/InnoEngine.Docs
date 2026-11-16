@@ -8,11 +8,12 @@ owners:
 - Inno.Core.Diagnostics
 apiSurface: source-clr
 reviewed: 4556b926a7204dc4bdc5b77ae4a07ceb85c7120aef1362186d62b9c10f0d1295
+contracts:
+- project.inno-core-diagnostics#producer-and-presentation-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-core-diagnostics#producer-and-presentation-contract
 aliases: []
 ---

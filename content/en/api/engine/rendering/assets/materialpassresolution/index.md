@@ -8,11 +8,12 @@ owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
 reviewed: 888fb5b1d689a11130ea28f057a41c66e9cbcf2ad749812ce52668b5402c7b90
+contracts:
+- project.inno-rendering-assets
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-rendering-assets
 aliases: []
 ---

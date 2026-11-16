@@ -17,6 +17,7 @@ test('direct pages reveal the selected sidebar path despite remembered closed gr
   await page.goto(href!);
   if(await menu.isVisible()) await menu.click();
   await expect(current).toHaveText(/Animation.Play/);
+  await expect(page.locator('inno-sidebar [data-selected-type="true"]')).toHaveText('Animation');
   await expect(current).toBeVisible();
   await page.reload();
   if(await menu.isVisible()) await menu.click();

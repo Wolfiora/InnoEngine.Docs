@@ -8,11 +8,12 @@ owners:
 - Inno.Editor.Hosting
 apiSurface: source-clr
 reviewed: fadf32e0658a057d07e207490f900898626c694a2181f2dab82a7e4f176270cf
+contracts:
+- project.inno-editor-hosting
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-editor-hosting
 aliases: []
 ---

@@ -8,11 +8,12 @@ owners:
 - Inno.Adapter.UI
 apiSurface: source-clr
 reviewed: 29cfa33f54d59939edf38c6e4cb607db651b640bcf7fe84ac7e0f179f2619b20
+contracts:
+- project.inno-adapter-ui#provider-and-catalog-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-adapter-ui#provider-and-catalog-contract
 aliases: []
 ---

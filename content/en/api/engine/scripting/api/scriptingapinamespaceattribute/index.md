@@ -8,12 +8,13 @@ owners:
 - Inno.Scripting.Api
 apiSurface: source-clr
 reviewed: f50a5f9918152915cc0163882fe005cc6e053c9395bf319ae577ca3475b1de90
+contracts:
+- project.inno-scripting-api
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-scripting-api
 aliases: []
 ---
 

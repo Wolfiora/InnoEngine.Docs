@@ -9,12 +9,13 @@ owners:
 apiSurface: editor-script
 reviewed: f1a220154b90adccd65445f51f7e755de0bef92862647241621922a8704d02db
 apiScope: Runtime
-
-# Authoring metadata. Edit these fields and the explanation below.
-source: xml
-outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-audio#playback-and-device-contract
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+description: null
+outdated: false
 aliases: []
 ---

@@ -49,7 +49,7 @@ class TocResizer extends HTMLElement {
     if (!matchMedia('(min-width: 72rem)').matches) { this.stop(); return; }
     const viewport = document.documentElement.clientWidth;
     const { min, max } = this.bounds();
-    const width = Math.min(max, Math.max(min, viewport * (this.ratio ?? 1 / 3)));
+    const width = Math.min(max, Math.max(min, viewport * (this.ratio ?? 1 / 4)));
     document.documentElement.style.setProperty('--inno-toc-width', `${width}px`);
     this.setAttribute('aria-valuemin', String(Math.ceil(min)));
     this.setAttribute('aria-valuemax', String(Math.floor(max)));

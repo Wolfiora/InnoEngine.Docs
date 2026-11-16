@@ -8,8 +8,10 @@ owners:
 - Inno.Editor.PlayMode
 apiSurface: source-clr
 reviewed: 18f9854bf570eb7bfd974c06a46ae6f195de7ccec26d67d4fbe046e61bb5fa98
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

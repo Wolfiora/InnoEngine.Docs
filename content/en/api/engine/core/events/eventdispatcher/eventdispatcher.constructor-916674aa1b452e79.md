@@ -8,9 +8,11 @@ owners:
 - Inno.Core.Events
 apiSurface: source-clr
 reviewed: 2c1319224a78b59a5eb4026a42fe5c349ebe5777eeda92b0b9d5af0d72ca7f69
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---
 

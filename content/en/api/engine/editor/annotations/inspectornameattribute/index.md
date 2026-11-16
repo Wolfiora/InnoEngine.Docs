@@ -8,11 +8,12 @@ owners:
 - Inno.Editor.Annotations
 apiSurface: source-clr
 reviewed: 76131fb1f3b5fc50d4bd6d9ba4255a7c8f981ecca4b3a984a78cd297317d7a03
+contracts:
+- api.projects.inno-editor-annotations#loading-and-script-availability
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- api.projects.inno-editor-annotations#loading-and-script-availability
 aliases: []
 ---

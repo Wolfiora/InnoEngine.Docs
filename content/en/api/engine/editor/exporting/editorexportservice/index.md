@@ -8,11 +8,12 @@ owners:
 - Inno.Editor.Exporting
 apiSurface: source-clr
 reviewed: a8a379c3e8646b1e938076b95305dc8c24162f51fb7b830332996261d7c4461e
+contracts:
+- project.inno-editor-exporting
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-editor-exporting
 aliases: []
 ---

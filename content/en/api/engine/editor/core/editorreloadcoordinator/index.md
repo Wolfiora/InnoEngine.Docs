@@ -8,11 +8,12 @@ owners:
 - Inno.Editor.Core
 apiSurface: source-clr
 reviewed: 1d38b8d4e5c30435d235755925b93dfbcee72e854e1e4fd068c0fd7521a540ff
+contracts:
+- api.projects.inno-editor-core#lifecycle-and-failure-contracts
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- api.projects.inno-editor-core#lifecycle-and-failure-contracts
 aliases: []
 ---

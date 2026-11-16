@@ -177,7 +177,7 @@ These preparation commands do not run during a query. After publishing the new p
 
 ## Maintain symbol-owned reference content
 
-Engine master export produces a complete package from actual eligible C# owners and real script projections. Protected automation imports it into Docs draft. Ordinary authors maintain the Manual separately and edit API prose only after explicitly selecting `source: manual` for the individual type or member.
+Engine master export produces a complete package from actual eligible C# owners and real script projections. Protected automation imports it into Docs draft. Ordinary authors maintain the Manual separately and edit API prose only after explicitly selecting `source: FLwolfy` for the individual type or member.
 
 For an explicitly prepared authoring checkout, the shared tooling supports:
 

@@ -8,8 +8,10 @@ owners:
 - Inno.Rendering
 apiSurface: source-clr
 reviewed: 1bdb7bbbd2dff3eb4e78ae4baa451fb8cd03f897cdba6bed6529650bca6c7ed9
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

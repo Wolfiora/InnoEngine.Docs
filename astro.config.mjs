@@ -38,7 +38,7 @@ export default defineConfig({
       editLink: { baseUrl: 'https://github.com/Wolfiora/InnoEngine.Docs/edit/draft/' },
       sidebar: navigation,
       customCss: ['./src/styles/documentation.css'],
-      components: { Header: './src/components/Header.astro', MarkdownContent: './src/components/MarkdownContent.astro', PageTitle: './src/components/PageTitle.astro', PageSidebar: './src/components/PageSidebar.astro', EditLink: './src/components/EditLink.astro', Sidebar: './src/components/Sidebar.astro' },
+      components: { Pagination: './src/components/Pagination.astro', Footer: './src/components/Footer.astro', Header: './src/components/Header.astro', MarkdownContent: './src/components/MarkdownContent.astro', PageTitle: './src/components/PageTitle.astro', PageSidebar: './src/components/PageSidebar.astro', EditLink: './src/components/EditLink.astro', Sidebar: './src/components/Sidebar.astro' },
       tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },
       markdown: { processedDirs: ['content/en'] },
       lastUpdated: false,

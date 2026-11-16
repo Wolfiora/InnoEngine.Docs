@@ -8,9 +8,11 @@ owners:
 - Inno.Extensibility.Reload
 apiSurface: source-clr
 reviewed: 9db7bee7d9d0b2863b74233cdd5735239e0ae17c19f9b03724179268d96aa90a
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---
 

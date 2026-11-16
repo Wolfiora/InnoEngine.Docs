@@ -8,11 +8,12 @@ owners:
 - Inno.Scene
 apiSurface: source-clr
 reviewed: 49c1cc5ca49718687a705903f8a015fd6fe3e0eb15523882169e4d329bc5710f
+contracts:
+- project.inno-scene#scene-ownership-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-scene#scene-ownership-contract
 aliases: []
 ---

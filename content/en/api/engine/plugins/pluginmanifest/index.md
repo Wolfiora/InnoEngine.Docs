@@ -8,11 +8,12 @@ owners:
 - Inno.Plugins
 apiSurface: source-clr
 reviewed: 78b9289738ebea97908a1090380b0304242e26e7618c73177c7dc017696b1d1a
+contracts:
+- project.inno-plugins#manifest-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-plugins#manifest-contract
 aliases: []
 ---

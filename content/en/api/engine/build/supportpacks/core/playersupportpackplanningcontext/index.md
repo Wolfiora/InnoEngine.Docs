@@ -8,11 +8,12 @@ owners:
 - Inno.Build.SupportPacks.Core
 apiSurface: source-clr
 reviewed: 78637319a2a2ce50e6f4695624933526f17d970ccb9f833f0f1818f292831db3
+contracts:
+- project.inno-build-supportpacks-core
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-build-supportpacks-core
 aliases: []
 ---

@@ -8,11 +8,12 @@ owners:
 - Inno.Adapter.Audio
 apiSurface: source-clr
 reviewed: 32057632b7227bc319d712bfb8d984bc92ffc98d59bbdee4b40d159db8ca9e8d
+contracts:
+- project.inno-adapter-audio#provider-ownership-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-adapter-audio#provider-ownership-contract
 aliases: []
 ---

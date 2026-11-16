@@ -8,8 +8,10 @@ owners:
 - Inno.Storage.Runtime
 apiSurface: source-clr
 reviewed: 0e2502e27875d8877793ca317b91af5d2c73703f5b1990de1755be78100fad9f
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

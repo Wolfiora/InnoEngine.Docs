@@ -8,8 +8,10 @@ owners:
 - Inno.Assets
 apiSurface: source-clr
 reviewed: b9c7a1854fcd92fbea7bfcecd7a0af81695bcdccfe59270fbba02d66ac8d6be4
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

@@ -8,12 +8,13 @@ owners:
 - Inno.Core.Logging
 apiSurface: source-clr
 reviewed: da3e4ae932dd63b5e46f0a4b425d4acd4cfe6f41fb721650fe3861553ce340e6
+contracts:
+- project.inno-core-logging#delivery-and-ownership-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-core-logging#delivery-and-ownership-contract
 aliases: []
 ---
 

@@ -8,11 +8,12 @@ owners:
 - Inno.Animation
 apiSurface: source-clr
 reviewed: a2e9af1d959c0a1e0b9330d5156f3983467f2715bafaafb9cc34a543c07a3144
+contracts:
+- project.inno-animation#target-and-service-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-animation#target-and-service-contract
 aliases: []
 ---

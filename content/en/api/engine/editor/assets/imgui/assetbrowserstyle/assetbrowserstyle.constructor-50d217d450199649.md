@@ -8,9 +8,11 @@ owners:
 - Inno.Editor.Assets.ImGui
 apiSurface: source-clr
 reviewed: b9f7512df7d24dbcf9e814b8eb7c700efbeff7dfdedbece680094277d4117876
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---
 

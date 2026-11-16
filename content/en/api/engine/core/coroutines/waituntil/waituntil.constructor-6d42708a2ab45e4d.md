@@ -8,9 +8,11 @@ owners:
 - Inno.Core.Coroutines
 apiSurface: source-clr
 reviewed: 856dd33d0f16cb737d41d15d1b499d1a7011d228786b59fe3dad52ac2fe25b43
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---
 

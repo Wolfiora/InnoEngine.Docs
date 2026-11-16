@@ -8,11 +8,12 @@ owners:
 - Inno.UI.Assets
 apiSurface: source-clr
 reviewed: b19a0daa9e8e4a9d34973f103eb46e1629539ecb56ae1e0b81e9f8e243de4a64
+contracts:
+- project.inno-ui-assets#import-and-generation-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-ui-assets#import-and-generation-contract
 aliases: []
 ---

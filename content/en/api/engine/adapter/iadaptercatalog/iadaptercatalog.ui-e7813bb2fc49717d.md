@@ -8,8 +8,10 @@ owners:
 - Inno.Adapter
 apiSurface: source-clr
 reviewed: 407e04c945c9637a3d2c200ab78866ebbb5af63adab31485872fa5221e1479c6
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

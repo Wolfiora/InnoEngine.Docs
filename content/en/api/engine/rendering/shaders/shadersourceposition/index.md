@@ -8,12 +8,13 @@ owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
 reviewed: c4c97d34920d371c717d2e8d69e13af2a5e274fe5ad835fdec968a6d202fea02
+contracts:
+- project.inno-rendering-shaders
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-rendering-shaders
 aliases: []
 ---
 

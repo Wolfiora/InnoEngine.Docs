@@ -8,11 +8,12 @@ owners:
 - Inno.Adapter.Text
 apiSurface: source-clr
 reviewed: 7c69931564584862e3e5fb2fc37d4462df561d16d1e11c3f1a979b7466788c6b
+contracts:
+- project.inno-adapter-text#provider-and-ownership-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-adapter-text#provider-and-ownership-contract
 aliases: []
 ---

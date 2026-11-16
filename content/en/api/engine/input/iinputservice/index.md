@@ -8,11 +8,12 @@ owners:
 - Inno.Input
 apiSurface: source-clr
 reviewed: 8c4ec6cdf3ffd3cc4f1be5e833de1cd411e4518331883cfb08740142660ed040
+contracts:
+- project.inno-input#execution-and-ownership-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-input#execution-and-ownership-contract
 aliases: []
 ---

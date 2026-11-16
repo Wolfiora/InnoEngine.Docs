@@ -8,11 +8,12 @@ owners:
 - Inno.Core.Jobs
 apiSurface: source-clr
 reviewed: e84014ff349e4bce849c60056284e6135cbddafbf56cf9ff57d9e7ab3f8baa3b
+contracts:
+- project.inno-core-jobs#frame-and-queue-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-core-jobs#frame-and-queue-contract
 aliases: []
 ---

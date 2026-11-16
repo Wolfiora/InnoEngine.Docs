@@ -8,8 +8,10 @@ owners:
 - Inno.Editor.Scene
 apiSurface: source-clr
 reviewed: 69a325f5e3f3e4a38ded304cced29ab5b2b79aabb3281098ee28e8cbb381c3f6
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

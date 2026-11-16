@@ -8,11 +8,12 @@ owners:
 - Inno.Core.Graphs
 apiSurface: source-clr
 reviewed: 5ac497e56b5f4aa340c86b6047ab39214200fd799ec534739958178f92bc352c
+contracts:
+- project.inno-core-graphs#document-and-definition-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-core-graphs#document-and-definition-contract
 aliases: []
 ---

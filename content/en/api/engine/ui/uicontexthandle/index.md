@@ -8,12 +8,13 @@ owners:
 - Inno.UI
 apiSurface: source-clr
 reviewed: 5e60ad64e1eb8c8e74046d1a0328a813121f89c47d0c473fa6093621d883ba45
+contracts:
+- project.inno-ui#document-and-frame-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-ui#document-and-frame-contract
 aliases: []
 ---
 

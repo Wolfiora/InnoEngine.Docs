@@ -8,11 +8,12 @@ owners:
 - Inno.Scripting.Reload
 apiSurface: source-clr
 reviewed: d958fae5499731c917cdc5651bfed44943423e3afe07c14743af72a644a90718
+contracts:
+- project.inno-scripting-reload
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-scripting-reload
 aliases: []
 ---

@@ -8,8 +8,10 @@ owners:
 - Inno.Core.Jobs
 apiSurface: source-clr
 reviewed: b995c3b012aaa5b66f5833478da6332b5f6aafffdd4086a91a2cb942e5864817
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

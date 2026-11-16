@@ -8,12 +8,13 @@ owners:
 - Inno.Audio
 apiSurface: source-clr
 reviewed: 969641dcc259fd25f5ba9ad54b12d9e07fa4562892f4fb7eb064c6db3c6387ac
+contracts:
+- project.inno-audio#playback-and-device-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-audio#playback-and-device-contract
 aliases: []
 ---
 

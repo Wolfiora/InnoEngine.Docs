@@ -8,11 +8,12 @@ owners:
 - Inno.Scripting.Compiler
 apiSurface: source-clr
 reviewed: 03f7cf4db564b8fd604586e9c878311ae8def1a969bbd5dfa518df32d3a219b3
+contracts:
+- project.inno-scripting-compiler
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-scripting-compiler
 aliases: []
 ---

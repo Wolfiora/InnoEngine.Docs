@@ -8,11 +8,12 @@ owners:
 - Inno.Core.Collections
 apiSurface: source-clr
 reviewed: e5f089bd1aae4473fd0f88e82d8f313cda8116d4c4727514226d5bad0dbb5d4e
+contracts:
+- project.inno-core-collections#graph-and-store-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-core-collections#graph-and-store-contract
 aliases: []
 ---

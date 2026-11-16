@@ -8,12 +8,13 @@ owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
 reviewed: 96332c65aba4c9b9e2d005199fdfba01259d6390b53c4bb6ef1fbd657ecdc803
+contracts:
+- api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 aliases: []
 ---
 

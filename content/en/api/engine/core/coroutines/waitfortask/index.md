@@ -8,12 +8,13 @@ owners:
 - Inno.Core.Coroutines
 apiSurface: source-clr
 reviewed: d279de72b748ea2c9401f4e409c47030d5606a5408a0ad463f4e7f543c189705
+contracts:
+- project.inno-core-coroutines#execution-and-release-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-core-coroutines#execution-and-release-contract
 aliases: []
 ---
 

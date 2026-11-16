@@ -8,11 +8,12 @@ owners:
 - Inno.Adapter.Presentation
 apiSurface: source-clr
 reviewed: 07b1629fd328eb0313615ce51903e893833372b47a9431f1c401da9b9cb4fa26
+contracts:
+- project.inno-adapter-presentation
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-adapter-presentation
 aliases: []
 ---

@@ -8,8 +8,10 @@ owners:
 - Inno.Audio.Assets
 apiSurface: source-clr
 reviewed: 1ac66f7935cd6f2511e31f51bf30e9264d01fb1722b74065035dff6c19c1e45a
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---
