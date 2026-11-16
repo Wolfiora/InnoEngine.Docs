@@ -73,7 +73,9 @@ export async function checkProjection({ root, catalog, site, complete = false, e
   const contentIdentity = digest(catalog.pages.slice().sort((a, b) => a.path < b.path ? -1 : a.path > b.path ? 1 : 0)
     .map((page) => `${page.path}\0${page.contentIdentity}`).join('\n'));
   if (contentIdentity !== catalog.contentIdentity) errors.push('Canonical aggregate content identity is invalid.');
-  const navigation = documentationNavigation(parse(await readFile(inside(root, 'navigation/en.yml'), 'utf8')), catalog);
+  const registry = catalog.pages.some(page => page.kind === 'api')
+    ? JSON.parse(await readOwned(root, 'reference/api/content.json')) : { entries: [] };
+  const navigation = documentationNavigation(parse(await readFile(inside(root, 'navigation/en.yml'), 'utf8')), catalog, registry);
   const navigated = new Set();
   function inspect(items) {
     if (!Array.isArray(items)) throw new Error('Navigation items must be an array.');

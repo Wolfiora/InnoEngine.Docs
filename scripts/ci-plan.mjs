@@ -174,7 +174,8 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
         catch (error) { if (error.code === 'ENOENT') return null; throw error; }
       }))).filter(Boolean)]);
     await save(selectPages(JSON.parse(await readFile('artifacts/ci/plan.json', 'utf8')), catalog,
-      { previous, renderer, navigation:documentationNavigation(parse(await readFile('navigation/en.yml','utf8')),catalog) }));
+      { previous, renderer, navigation:documentationNavigation(parse(await readFile('navigation/en.yml','utf8')),catalog,
+        JSON.parse(await readFile('reference/api/content.json','utf8'))) }));
   } else if (operation === 'complete') {
     const plan = JSON.parse(await readFile('artifacts/ci/plan.json', 'utf8'));
     const guidance = JSON.parse(await readFile('artifacts/ci/guidance-result.json','utf8'));

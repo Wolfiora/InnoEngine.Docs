@@ -20,3 +20,14 @@ test('page footer credits the creator and pagination stays within the current pa
   await page.goto('');
   await expect(page.locator('.pagination-links')).toHaveCount(0);
 });
+
+test('nested API member selection and pagination stay inside the declaring type', async ({ page }) => {
+  await page.goto('api/engine/audio/devicehandleidentity/audiodevice.devicehandleidentity.constructor-3895b93e91f149f1/');
+  const menu = page.getByRole('button', {name:/Menu/});
+  if (await menu.isVisible()) await menu.click();
+  await expect(page.locator('inno-sidebar [data-selected-type="true"]')).toHaveText('AudioDevice.DeviceHandleIdentity');
+  await expect(page.locator('inno-sidebar [aria-current="page"]')).toBeVisible();
+  const links = page.locator('.pagination-links a');
+  expect(await links.count()).toBeGreaterThan(0);
+  for (const link of await links.all()) await expect(link).toHaveAttribute('href', /\/api\/engine\/audio\/devicehandleidentity\/[^/]+\/$/);
+});
