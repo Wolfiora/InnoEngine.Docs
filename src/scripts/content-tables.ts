@@ -38,7 +38,9 @@ class ContentTables extends HTMLElement {
       clone.inert = true;
       table.parentElement!.append(clone);
       const cells = [...(clone.rows[0]?.cells ?? [])];
-      const preferred = cells.map(cell => cell.getBoundingClientRect().width);
+      // Round intrinsic widths up, not down: a subpixel deficit can wrap a word
+      // that fitted exactly in the measurement clone.
+      const preferred = cells.map(cell => Math.ceil(cell.getBoundingClientRect().width));
       const minimum = cells.map(cell => {
         const style = getComputedStyle(cell);
         const text = document.createRange();
@@ -68,20 +70,24 @@ class ContentTables extends HTMLElement {
   };
   resize = () => {
       const width = this.getBoundingClientRect().width;
-      if (!width || Math.abs(width - this.measuredWidth) < .1) return;
+      if (!width || width === this.measuredWidth) return;
       if (!this.tables.length) this.measure();
       this.measuredWidth = width;
-      for (const { table, columns, preferred, minimum } of this.tables) {
+      // Read every scrollport before writing any table layout. clientWidth is an
+      // integer; using it to calculate percentages made otherwise fixed columns
+      // alternately grow and shrink at each fractional resize step.
+      const available = this.tables.map(({table}) => table.parentElement!.getBoundingClientRect().width);
+      for (const [index, { table, columns, preferred, minimum }] of this.tables.entries()) {
         const scroll = table.parentElement!;
         const floor = minimum.reduce((sum, value) => sum + value, 0);
-        const widths = tableWidths(preferred, minimum, scroll.clientWidth);
+        const widths = tableWidths(preferred, minimum, available[index]);
         const total = widths.reduce((sum, value) => sum + value, 0);
-        columns.forEach((column, index) => { column.style.width = `${100 * widths[index] / total}%`; });
-        // Percent columns cannot retain a previous frame's oversized table.
-        // The intrinsic heading floor alone decides when scrolling is needed.
+        columns.forEach((column, index) => { column.style.width = `${widths[index]}px`; });
+        // Set the table and columns together before paint. Only heading floors
+        // can exceed the scrollport; short natural-width columns stay constant.
         table.style.minWidth = `${floor}px`;
-        table.style.width = '100%';
-        scroll.style.overflowX = scroll.clientWidth < floor ? 'auto' : 'clip';
+        table.style.width = `${total}px`;
+        scroll.style.overflowX = available[index] < floor ? 'auto' : 'clip';
         table.dataset.innoSized = '';
       }
   };

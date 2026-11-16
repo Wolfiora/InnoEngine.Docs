@@ -1,23 +1,28 @@
 import { createHash } from 'node:crypto';
 import { contentRoute } from './documentation-routes.mjs';
+import { sidebarProjection } from './sidebar-projection.mjs';
 
 /** @typedef {{ label: string, href?: string, key?: string, children?: string }} NavigationEntry */
 
 /** Content-addressed navigation fragments, shared by every page and cached independently. */
-export function sharedNavigation(navigation, catalog, base = '/InnoEngine.Docs') {
+export function sharedNavigation(navigation, catalog, base = '/InnoEngine.Docs', typeParents = new Map()) {
   const titles = new Map(catalog.pages.map(page => [contentRoute(page.path.replace(/^content\/en\//, '')), page.title]));
   const chunks = new Map();
   const trails = new Map();
   const pagination = new Map();
   const href = slug => `${base}/${slug ? slug + '/' : ''}`;
-  /** @returns {NavigationEntry[]} */
-  function entries(items, trail = '', ancestors = []) {
+  function paginate(items) {
     const peers = items.map(item => {
       const home = item.items?.find(child => child.attrs?.['data-group-home'] === 'true');
       const slug = home?.slug ?? item.slug;
       return slug === undefined ? null : { href: href(slug), label: item.label ?? titles.get(slug) };
     }).filter(Boolean);
     for (let i = 0; i < peers.length; i++) pagination.set(peers[i].href, { prev: peers[i-1], next: peers[i+1] });
+    for (const item of items) if (item.items) paginate(item.items.filter(child => child.attrs?.['data-group-home'] !== 'true'));
+  }
+  paginate(navigation);
+  /** @returns {NavigationEntry[]} */
+  function entries(items, trail = '', ancestors = []) {
     return items.map((item) => {
       const label = item.label ?? titles.get(item.slug);
       if (!label) throw new Error(`Navigation label missing: ${item.slug}`);
@@ -32,6 +37,6 @@ export function sharedNavigation(navigation, catalog, base = '/InnoEngine.Docs')
       return { label, key, ...(home ? { href: href(home.slug) } : {}), children: `${base}/navigation-data/${id}.json` };
     });
   }
-  const roots = entries(navigation);
+  const roots = entries(sidebarProjection(navigation, catalog, typeParents));
   return { roots, chunks, trails, pagination };
 }

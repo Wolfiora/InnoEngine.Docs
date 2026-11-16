@@ -16,12 +16,14 @@ test('direct pages reveal the selected sidebar path despite remembered closed gr
   const href=await member.getAttribute('href');
   await page.goto(href!);
   if(await menu.isVisible()) await menu.click();
-  await expect(current).toHaveText(/Animation.Play/);
+  await expect(current).toHaveText('Animation');
   await expect(page.locator('inno-sidebar [data-selected-type="true"]')).toHaveText('Animation');
+  await expect(current.locator('..').locator('button')).toHaveCount(0);
+  await expect(page.locator('inno-sidebar a').filter({hasText:'Animation.Play'})).toHaveCount(0);
   await expect(current).toBeVisible();
   await page.reload();
   if(await menu.isVisible()) await menu.click();
-  await expect(current).toHaveText(/Animation.Play/);
+  await expect(current).toHaveText('Animation');
   await expect(current).toBeVisible();
   await page.goto('');
   await expect(page.locator('inno-sidebar [aria-current="page"]')).toHaveCount(0);
@@ -30,7 +32,7 @@ test('direct pages reveal the selected sidebar path despite remembered closed gr
   await search.getByRole('textbox',{name:'Search',exact:true}).fill('Animation.Play');
   await search.locator('a[href*="/animation/animation/animation.play-"]').first().click();
   if(await menu.isVisible()) await menu.click();
-  await expect(current).toHaveText(/Animation.Play/);
+  await expect(current).toHaveText('Animation');
   await expect(current).toBeVisible();
 });
 
@@ -51,7 +53,7 @@ test('table resizing scrolls only below the combined heading floors', async ({ p
       const end=performance.now()+260;
       while(performance.now()<end) {
         await new Promise(resolve => requestAnimationFrame(() => setTimeout(resolve, 0)));
-        samples.push({width:scroll.clientWidth,overflow:scroll.scrollWidth-scroll.clientWidth,minimum,
+        samples.push({width:scroll.getBoundingClientRect().width,overflow:scroll.scrollWidth-scroll.clientWidth,minimum,
           scrolling:getComputedStyle(scroll).overflowX === 'auto',
           columns:[...table.querySelectorAll('th')].map(cell=>({width:cell.getBoundingClientRect().width,overflow:cell.scrollWidth-cell.clientWidth})),
           assigned:[...table.querySelectorAll('col')].map(col=>col.style.width)});
@@ -64,10 +66,37 @@ test('table resizing scrolls only below the combined heading floors', async ({ p
   for(const sample of samples.filter(s=>s.width>=s.minimum)) {
     expect(sample.scrolling).toBe(false);
   }
-  // Layout may report intermediate text bounds while the resize observer catches
-  // up; they must not become a scrollbar. Settled cells must fit without clipping.
+  // Settled cells must fit without clipping as well as avoiding transient scrollbars.
   await expect.poll(() => table.evaluate(element => Math.max(...[...element.querySelectorAll('th,td')]
     .map(cell => cell.scrollWidth-cell.clientWidth)))).toBeLessThanOrEqual(1);
+});
+
+test('fractional table resizing never reverses wrapping direction', async ({ page }, testInfo) => {
+  await page.goto('api/engine/animation/animation/');
+  const table=page.locator('.sl-markdown-content table').first();
+  await expect(table).toHaveAttribute('data-inno-sized','');
+  await page.evaluate(()=>document.fonts.ready);
+  const samples=await table.evaluate(async element=>{
+    const table=element as HTMLTableElement,container=table.closest<HTMLElement>('inno-content-tables')!;
+    const result=[];
+    for(const direction of [-1,1])for(let step=0;step<40;step++){
+      const width=direction<0 ? 1000.5-step*.65 : 975.15+step*.65;
+      container.style.width=`${width}px`;
+      await new Promise(resolve=>requestAnimationFrame(()=>setTimeout(resolve,0)));
+      result.push({direction,step,width:table.getBoundingClientRect().width,
+        columns:[...table.rows[0].cells].map(cell=>cell.getBoundingClientRect().width),
+        heights:[...table.rows].map(row=>row.getBoundingClientRect().height)});
+    }
+    return result;
+  });
+  await testInfo.attach('fractional-wrapping', {body:JSON.stringify(samples),contentType:'application/json'});
+  for(let i=1;i<samples.length;i++){
+    const before=samples[i-1],after=samples[i];if(before.direction!==after.direction)continue;
+    for(let column=0;column<after.columns.length;column++)
+      expect((after.columns[column]-before.columns[column])*after.direction).toBeGreaterThanOrEqual(-.05);
+    for(let row=0;row<after.heights.length;row++)
+      expect((after.heights[row]-before.heights[row])*after.direction).toBeLessThanOrEqual(1);
+  }
 });
 
 test('search follows Markdown bounds while both sidebars resize', async ({ page }) => {
