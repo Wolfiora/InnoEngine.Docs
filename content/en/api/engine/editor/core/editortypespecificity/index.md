@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: source-clr
-reviewed: d0f9bc91cc105dc4ac81dcfc4fd2ddd3919e059898ecd6aa71866b929325f53d
+reviewed: 7173035c6e5f13ebd7e803ccbd67881d356906dde8285ab968d4303233508f8c
 contracts:
 - api.projects.inno-editor-core#lifecycle-and-failure-contracts
 

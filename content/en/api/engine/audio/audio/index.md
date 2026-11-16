@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 6b23c192d88458b178ae9c7784b014e21ce015f603f304d51280a04ec764e910
+reviewed: 945e215b2a584fb922de0c1fd38c9868d460f9bc4f806f36f03ecd810a32adaf
 contracts:
 - project.inno-audio#playback-and-device-contract
 

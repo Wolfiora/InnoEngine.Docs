@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Reload
 apiSurface: source-clr
-reviewed: 5701835fa73f08e765f86796dc9cc3b724c522e42bc7151ab00ffd37cc2b164c
+reviewed: cb86aa50545f41b9a2e82a72e6945c7190f9929be2f5cbffe05bf94969ba3de0
 contracts:
 - project.inno-extensibility-reload#shared-admission-and-retirement-contract
 

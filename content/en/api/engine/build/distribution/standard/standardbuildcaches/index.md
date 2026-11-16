@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Distribution.Standard
 apiSurface: source-clr
-reviewed: 11fa562480a359678cc552de61e517bedb0dc40aaf127ae14d2e286725a40b80
+reviewed: 35082db62bc1c5c703171f92691299167250fccacb68863a9e48f1e32a9fb077
 contracts:
 - project.inno-build-distribution-standard#cache-and-workspace-ownership
 

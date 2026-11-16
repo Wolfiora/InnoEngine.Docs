@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Annotations
 apiSurface: source-clr
-reviewed: 1631a929aebd2c48a2d9616dfad8dfcb154a90d6c7b37e6b497cbb7e42011098
+reviewed: 506498d8d5eb34de111b8d99f6735306477ce80d5f7b23214360ffbf7a667c39
 contracts:
 - api.projects.inno-editor-annotations#loading-and-script-availability
 

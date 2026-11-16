@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: source-clr
-reviewed: e546325de509ecc37281db8f9df61168580b47b8306cc1b4f65e37525b1562e6
+reviewed: 9f444b9fb93f6d8305a39325b322275ffae436bd4d87ab5bb944edbc18140a45
 contracts:
 - project.inno-text#shaping-and-glyph-contract
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Storage
 apiSurface: source-clr
-reviewed: 823bf3b71c3da0748b0d6f7d5404e97c29198c83f11a1663fe0002803e85c96c
+reviewed: 6be6c34aabc9b4f193c99abb029d6b5b7f382e89ae00129bfc6f6b164c5b77f2
 contracts:
 - project.inno-storage#operation-and-ownership-contract
 

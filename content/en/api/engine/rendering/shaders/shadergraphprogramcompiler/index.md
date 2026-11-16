@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 903ff09bb9c92f3de82e775295dac061cc4d0ad666e51257dac7b02d96999565
+reviewed: 1600899a1b72deff13110ea99645828d4afd0a05c1cf099069fa5636c39ae922
 contracts:
 - project.inno-rendering-shaders
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Collections
 apiSurface: source-clr
-reviewed: 9f1afa801b154e2e607ff76e20ad56523c3be9c713fe2faff4ac9e539a7f9f9d
+reviewed: 82a4f23062b9b7729636a764e1cf6f309bfd4b88fd85268077f320eeb176fe78
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

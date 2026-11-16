@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Plugins
 apiSurface: source-clr
-reviewed: 4212339f2a6e0a8345780c0521dbb6bff35ac418dd0bff7a0e477babe282f59f
+reviewed: 7096c396477f3a473708ba105ba9facd2930e55eaff5429a30a4142e8586efe3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

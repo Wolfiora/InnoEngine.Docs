@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Diagnostics
 apiSurface: source-clr
-reviewed: 360dd34b8c1fae561d53e3a64c3a46a0d0bb47303697ee79d1edd618d8a70a89
+reviewed: db5813f6adb58bdef0f116c060a69a3e2f00bd3ab7dac1c3687f0ff496a92494
 contracts:
 - api.projects.inno-editor-diagnostics#lifetime-and-policy
 

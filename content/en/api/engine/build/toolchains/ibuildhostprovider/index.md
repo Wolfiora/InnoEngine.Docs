@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: e2879ef1d02c5c073a044f4deb2d3db65fcb9019dfb2d25271bae11ff9e7b0ff
+reviewed: fde053fcd8cf1ae9cc9c8921cba83ca146f05478ffb4eff72ecfe1779aa878a0
 contracts:
 - project.inno-build-toolchains
 

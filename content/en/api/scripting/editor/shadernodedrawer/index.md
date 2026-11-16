@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders.ImGui
 apiSurface: editor-script
-reviewed: cfcc58e462ba0c118f5079ed729535057e20389c25317a63de4015e10fb24f13
+reviewed: bdbab1d8d529925c0b13239880551bf2e8cc1c8366ce61b3bbaf4e26abcf4d5c
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

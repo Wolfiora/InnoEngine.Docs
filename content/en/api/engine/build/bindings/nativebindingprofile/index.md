@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Bindings
 apiSurface: source-clr
-reviewed: fd47544f59e7029a3c93742ce3f7d7a10bfb979f1e1d05532dcba60daa279051
+reviewed: 751ccb3b25aadf197d1c2c1cfb8bb792522f2b9ea3ff17c451fde45197cdd626
 contracts:
 - project.inno-build-bindings
 

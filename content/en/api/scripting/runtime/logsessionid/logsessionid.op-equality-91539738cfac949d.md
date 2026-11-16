@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: editor-script
-reviewed: d99f8fea8d04f93a80aefd25d39667534999b89d88351bbc8b75eb131ebbbf4d
+reviewed: c65f124803bfc2d0dd781f72869df8b7cc06cceb939c4b223ecf3a2f4444df41
 apiScope: Runtime
 contracts: []
 

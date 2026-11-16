@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Catalogs
 apiSurface: source-clr
-reviewed: 7c7cf0a58e711e4dd20c663f135287eaff10914c078e2d8ac4a6457db977e606
+reviewed: 4f8b8f51bfd4b87da409dbf4f0b50ebea22cf10544b37575fd7b1c271bb30bfb
 contracts:
 - project.inno-extensibility-catalogs#composition-and-factory-contract
 

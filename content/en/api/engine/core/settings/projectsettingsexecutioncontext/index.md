@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: source-clr
-reviewed: 6d005fc5b374ed03fd71c55bddfc00f9da6aa166253d9928cedf91437aac609a
+reviewed: f70893e252c0012b85f75a3679ceb1d5192a676200eb4e06f95a4399737f0885
 contracts:
 - project.inno-core-settings#settings-ownership-contract
 

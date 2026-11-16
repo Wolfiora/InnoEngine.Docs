@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Text
 apiSurface: source-clr
-reviewed: 3226aa0f668dbefa3791efc4802c16cb44f10e8ea500699b82022b5a7451e045
+reviewed: 854bdf160896843a99b339b2555f518239ea1c3821f051aeaf3184a3df7cea46
 contracts:
 - project.inno-adapter-text#provider-and-ownership-contract
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: b1458cfb7488e90e981a01f405a2d58f1606b34a0cc5f388ffbc747a6ebd5fba
+reviewed: 4e099414ca37c4205d8c3619573ba52196250fc1a744b849157d4783658e55bb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

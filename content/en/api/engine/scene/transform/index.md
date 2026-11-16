@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 3033e5135e11eca55edb7d24b6a5801d2d0f2c3805a34b051577b6cc325a2817
+reviewed: b99140b2b333827b5fda0c1414e73c9f7ad260e3b4a81655cb9d1fc00e7696d3
 contracts:
 - project.inno-scene#scene-ownership-contract
 

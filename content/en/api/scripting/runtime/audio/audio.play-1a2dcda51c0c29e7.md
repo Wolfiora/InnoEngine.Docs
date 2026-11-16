@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: a9e5ddc5089faf95a7f4a9c1100dd625978add93b1d5a2290ff669cbece54e97
+reviewed: e28188c013a39c99b9731148a13e3e6f4bf4c67bff7c0df68444fee566002326
 apiScope: Runtime
 contracts: []
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation.Runtime
 apiSurface: source-clr
-reviewed: 69600a12597f14e301c3f3f6a7505ade951b85c438470fb637e5c021b897c608
+reviewed: c68c1d8e1bbd439c76628fd00e5d678cf0b05285009749fa9324503e499416c3
 contracts:
 - project.inno-animation-runtime#playback-and-update-contract
 

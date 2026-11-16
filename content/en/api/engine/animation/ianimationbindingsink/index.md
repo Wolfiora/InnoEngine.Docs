@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: source-clr
-reviewed: cb63cd30477a97210ee3ddd9ccc533c9d2b78e17fa3448a4640422111d0cbe1a
+reviewed: 74b2bde9fb0749060af8850cfd2ddefcad5d4489ea1e0fb97969e992a2bd206e
 contracts:
 - project.inno-animation#target-and-service-contract
 

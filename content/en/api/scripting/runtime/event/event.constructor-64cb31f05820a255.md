@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: editor-script
-reviewed: 69531a9c9253832c757d23d770be4761381fbfec4110eaf76a0876db7ec32927
+reviewed: ea841d267e26e31c44b70feaf36087e8548102746f75c880aa96a0574a09ab12
 apiScope: Runtime
 contracts: []
 

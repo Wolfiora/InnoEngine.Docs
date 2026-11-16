@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: 4c4b6e8083af5babcde5651309750415aeb8b99e1cfc2687b8dbb26b7a6cf05e
+reviewed: a4f04571d7fe5ca7543241d6c163e12ee2aa8311ab3cc4c920b31bc992109847
 contracts:
 - project.inno-ui#document-and-frame-contract
 

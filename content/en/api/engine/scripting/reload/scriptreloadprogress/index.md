@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Reload
 apiSurface: source-clr
-reviewed: 2d9356a57ef3cea1a455182abddb67fa4b3bdc63ac2a9ce881f22b5119aba998
+reviewed: a8282dd77fad70909e0aa5b828a792863c2b00e86cda3e4c1332d372d1989158
 contracts:
 - project.inno-scripting-reload
 

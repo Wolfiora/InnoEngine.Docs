@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Coroutines
 apiSurface: source-clr
-reviewed: 22095fb7d5fa21871fb1590a104ce2ad58a9561a99640e392aca4900d1530865
+reviewed: 1dfd6c2412520006db21d9b9f0671218e06343a8118af898d83cab482eb04228
 contracts:
 - project.inno-core-coroutines#execution-and-release-contract
 

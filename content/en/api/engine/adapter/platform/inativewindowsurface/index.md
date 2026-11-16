@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Platform
 apiSurface: source-clr
-reviewed: a2f39f77d2804399bdd62cfdf6b91487eb610811e9228538d2dd60104335fc08
+reviewed: d6571bbba1c4b15a207a6e90e803d61f29d2281b9187ab28f06912406411c4db
 contracts:
 - project.inno-adapter-platform
 

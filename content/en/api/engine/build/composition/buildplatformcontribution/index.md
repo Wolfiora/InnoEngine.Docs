@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Composition
 apiSurface: source-clr
-reviewed: 8f78d12816342d9a1bf117cca3e4d4799d4cefcf203bb9d62d68ac1d6cf705fd
+reviewed: b0d8d5abce8448fc7d39a94f34dc6f1e7f08ae592f60b9845e44982449b92cd5
 contracts:
 - project.inno-build-composition
 

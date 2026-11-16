@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Hosting
 apiSurface: source-clr
-reviewed: fadf32e0658a057d07e207490f900898626c694a2181f2dab82a7e4f176270cf
+reviewed: 39107b6eccee430a1d79f1e131807ac95ca4e674f609117dddf07ebcf59df8b5
 contracts:
 - project.inno-editor-hosting
 

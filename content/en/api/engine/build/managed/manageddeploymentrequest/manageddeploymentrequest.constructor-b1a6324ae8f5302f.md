@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Managed
 apiSurface: source-clr
-reviewed: 597137e3bd2e4dae7048130ccf992431333ec3cd4088b564d438d6b43921b8c7
+reviewed: 82b13a60c1bb46d05e0302531c3bbc27ddbd5a675cc87e2c9ab7f78709691143
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

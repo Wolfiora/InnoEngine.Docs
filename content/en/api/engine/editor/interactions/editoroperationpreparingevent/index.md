@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: ece3ae30236c58c84181fdb175dcd7e0063b96ec921653ed9bc96b9bb1510270
+reviewed: 9117ee8b9002ae40f7580c181ff1f5f1ad860621d5139d3291d7ebaf0169dd62
 contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: fca83410b95062bcb45844a9ab10873b0b6d5ca4e7ea18b7e62fb95bb1e1562a
+reviewed: d05858e0a4c6361ce06e5946ecebe771c23a3d712ee4b6721ee4f43ab96ac297
 apiScope: Runtime
 contracts: []
 

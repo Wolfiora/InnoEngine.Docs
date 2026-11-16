@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI.Assets
 apiSurface: source-clr
-reviewed: fba51efdea575ec95134b4187e993c41f4a8e022d07d3ee89787f02e93618e85
+reviewed: 62f8146ce50be1327a89611d71d0a1f440f762ca68f6574ac030cf52824a995b
 contracts:
 - project.inno-ui-assets#import-and-generation-contract
 

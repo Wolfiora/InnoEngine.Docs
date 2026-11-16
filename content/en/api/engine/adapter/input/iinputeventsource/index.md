@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Input
 apiSurface: source-clr
-reviewed: f4ebf881a30d0292d1caa741442a3e6cd49c5c288e85f9aaafbf1f61ea75203c
+reviewed: a1a36c8e0456dee1371b1fa488e9afb12a237224b06643de91611c8457c0d1b4
 contracts:
 - project.inno-adapter-input#ownership-and-threading
 

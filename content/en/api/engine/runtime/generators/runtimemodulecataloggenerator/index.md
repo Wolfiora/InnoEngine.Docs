@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime.Generators
 apiSurface: source-clr
-reviewed: a71a3699909e21da4a7f3f82ca4c323d332c2fb557678d26042742ea41cef4f3
+reviewed: fa87b143fa4a3df066ccd8ebcf4be3b6ef9a97804388b611020765ec3d7b134c
 contracts:
 - project.inno-runtime-generators
 

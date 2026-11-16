@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: f07b9d4a37484ef190d69d611f6fb50222ff90983046538747318127126907d1
+reviewed: e9e725576859b27f633659964e34dcd34f548221b87e009de79fe8d0a44ed478
 apiScope: Editor
 contracts: []
 

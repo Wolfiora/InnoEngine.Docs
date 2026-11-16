@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text.Runtime
 apiSurface: source-clr
-reviewed: d3a0b6755cf8557aa7834064bfbcce1c85a0be8baaaa84de0ac439f8bee34688
+reviewed: 8a0a256b35b246434100d4e32de28e215562c2e58b9075ed66b76764c9c5c603
 contracts:
 - project.inno-text-runtime#font-lifetime-contract
 

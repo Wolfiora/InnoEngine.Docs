@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Compiler
 apiSurface: source-clr
-reviewed: 383e939a19615a9a9991c7eba2311da55d4634284606bab6378d96602f88066e
+reviewed: 911043e24772b6ad537b74be6c5e2124b2a84465105168b873e5c6c6748f1a6c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

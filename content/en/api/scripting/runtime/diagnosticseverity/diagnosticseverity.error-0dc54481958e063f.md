@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: editor-script
-reviewed: 330a728e6ca36318b6d6954a4654ce2a4cc952706bfecfbfe92a33928b22dd7f
+reviewed: 169ed5db0c6ddc0bd49c547446c941123f51083bc0b02197199c4e9fad8c7df8
 apiScope: Runtime
 contracts: []
 

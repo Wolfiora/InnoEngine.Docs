@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-reviewed: da0ff9e0e5c4f711fb40e1af78d37caa35e942d2ddc17ec71c1659ad25f53db3
+reviewed: 7e5273875a2481bb65a5946373afd76b9608926ac9499fb1a8e130b8b66ebc68
 contracts:
 - project.inno-extensibility-types
 

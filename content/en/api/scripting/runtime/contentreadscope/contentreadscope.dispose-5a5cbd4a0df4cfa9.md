@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.References
 apiSurface: editor-script
-reviewed: 5fa557ab2720ca62308e80a1a551e1bc8648bca9fa3866389baaa4700cf5e042
+reviewed: c3afe8cb7fc79021b8fc0feaf08c7cebebefa9d31b0200ba4a24ed727bc293df
 apiScope: Runtime
 contracts: []
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Storage
 apiSurface: source-clr
-reviewed: 88045854ff3d88815060e8feb593b69b002c43d9570c25b1f120a2f282b0b775
+reviewed: b65668946ec31e91d3b33fd3050b4ea10b1ff77b6c90dcf16316c242b610e672
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
