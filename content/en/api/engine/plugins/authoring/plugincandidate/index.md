@@ -8,11 +8,12 @@ owners:
 - Inno.Plugins.Authoring
 apiSurface: source-clr
 reviewed: 64194149deb49683772552bf05b74b20d385427898c07d19df3be9079f6d38a6
+contracts:
+- project.inno-plugins-authoring#installation-and-generation-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-plugins-authoring#installation-and-generation-contract
 aliases: []
 ---

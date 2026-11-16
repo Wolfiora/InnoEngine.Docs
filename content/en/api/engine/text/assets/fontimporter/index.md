@@ -8,11 +8,12 @@ owners:
 - Inno.Text.Assets
 apiSurface: source-clr
 reviewed: c6ee0bdc0c28610f29e483bb368634dc695ff8891e8d6581041bcd9f416944aa
+contracts:
+- project.inno-text-assets#import-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-text-assets#import-contract
 aliases: []
 ---

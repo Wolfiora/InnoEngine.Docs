@@ -1,5 +1,6 @@
 import { expect, test, type Locator } from '@playwright/test';
 import './layout-checks';
+import './authoring-checks';
 
 async function expectSyncedStatus(status: Locator) {
   await expect(status).toBeVisible();
@@ -41,7 +42,7 @@ test('TOC divider resizes within bounds and preserves the session choice', async
   if (width < 1152) { await expect(divider).toBeHidden(); return; }
   const viewportWidth = await page.evaluate(() => document.documentElement.clientWidth);
   await divider.dblclick();
-  await expect.poll(async () => Number(await divider.getAttribute('aria-valuenow'))).toBeCloseTo(viewportWidth / 3, 0);
+  await expect.poll(async () => Number(await divider.getAttribute('aria-valuenow'))).toBeCloseTo(viewportWidth / 4, 0);
   await divider.focus();
   await page.keyboard.press('End');
   await expect(divider).toHaveAttribute('aria-valuenow', String(Math.round(viewportWidth / 2)));
@@ -97,7 +98,7 @@ test('TOC divider resizes within bounds and preserves the session choice', async
   });
   expect(alignment).toBeLessThanOrEqual(1);
   await divider.dblclick();
-  await expect.poll(async () => Number(await divider.getAttribute('aria-valuenow'))).toBeCloseTo(viewportWidth / 3, 0);
+  await expect.poll(async () => Number(await divider.getAttribute('aria-valuenow'))).toBeCloseTo(viewportWidth / 4, 0);
 });
 
 for (const theme of ['light', 'dark'] as const) {

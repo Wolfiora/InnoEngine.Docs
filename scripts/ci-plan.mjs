@@ -4,6 +4,7 @@ import { createHash } from 'node:crypto';
 import { readFile, writeFile, mkdir, appendFile } from 'node:fs/promises';
 import { pathToFileURL } from 'node:url';
 import { contentRoute } from './documentation-routes.mjs';
+import { sharedNavigation } from './shared-navigation.mjs';
 
 export const identity = value => createHash('sha256').update(JSON.stringify(value)).digest('hex');
 const administrative = file => /^(README\.md|CONTRIBUTING\.md|AGENTS\.md|LICENSE|\.agents\/.*\.md)$/.test(file);
@@ -89,14 +90,13 @@ export function selectPages(plan, catalog, { previous = null, navigation = [], r
   }
   for (const file of [...selected.keys()]) for (const dependent of reverse.get(file) ?? []) choose(dependent, `References changed composition ${file}`);
   if (selected.size) choose('content/en/index.md', 'Preview entry and shared navigation');
-  // Starlight pagination is derived from the same navigation projection used by the site.
-  const ordered = [];
-  const visit = items => { for (const item of items) { if (item.slug !== undefined) ordered.push(item.slug); if (item.items) visit(item.items); } };
-  visit(navigation);
-  const routes = new Map(catalog.pages.map(page => [contentRoute(page.path.slice(11)), page.path]));
+  // Use the exact same sibling-only pagination relationships as the website.
+  const peers = sharedNavigation(navigation, catalog).pagination;
+  const routes = new Map(catalog.pages.map(page => ['/InnoEngine.Docs/' + (contentRoute(page.path.slice(11)) ? contentRoute(page.path.slice(11)) + '/' : ''), page.path]));
   for (const file of [...selected.keys()]) {
-    const index = ordered.indexOf(contentRoute(file.slice(11)));
-    if (index >= 0) for (const offset of [-1, 1]) choose(routes.get(ordered[index + offset]), 'Adjacent navigation/pagination page');
+    const route = '/InnoEngine.Docs/' + (contentRoute(file.slice(11)) ? contentRoute(file.slice(11)) + '/' : '');
+    const siblings = peers.get(route);
+    for (const entry of [siblings?.prev, siblings?.next]) if (entry) choose(routes.get(entry.href), 'Adjacent sibling pagination page');
   }
   // Include canonical category ancestors and directly required contracts, not a transitive crawl of every hyperlink.
   for (const file of [...selected.keys()]) {
@@ -174,7 +174,8 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
         catch (error) { if (error.code === 'ENOENT') return null; throw error; }
       }))).filter(Boolean)]);
     await save(selectPages(JSON.parse(await readFile('artifacts/ci/plan.json', 'utf8')), catalog,
-      { previous, renderer, navigation:documentationNavigation(parse(await readFile('navigation/en.yml','utf8')),catalog) }));
+      { previous, renderer, navigation:documentationNavigation(parse(await readFile('navigation/en.yml','utf8')),catalog,
+        JSON.parse(await readFile('reference/api/content.json','utf8'))) }));
   } else if (operation === 'complete') {
     const plan = JSON.parse(await readFile('artifacts/ci/plan.json', 'utf8'));
     const guidance = JSON.parse(await readFile('artifacts/ci/guidance-result.json','utf8'));

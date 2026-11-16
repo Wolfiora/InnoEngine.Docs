@@ -8,9 +8,11 @@ owners:
 - Inno.Core.Identity
 apiSurface: source-clr
 reviewed: f6598fcb36e3ad0225915e6ee8b3c5d4ae0b7ac99898c4318dcd4cfa3370ef6a
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---
 

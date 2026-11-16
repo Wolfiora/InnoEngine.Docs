@@ -8,11 +8,12 @@ owners:
 - Inno.Core.Execution
 apiSurface: source-clr
 reviewed: 3b05ed500c7d4675416efbd5337a7f001c4e08f45755b87c75beac7953e2d321
+contracts:
+- project.inno-core-execution#lifetime-and-retirement
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-core-execution#lifetime-and-retirement
 aliases: []
 ---

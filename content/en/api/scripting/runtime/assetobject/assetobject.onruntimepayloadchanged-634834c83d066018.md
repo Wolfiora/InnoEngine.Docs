@@ -9,9 +9,11 @@ owners:
 apiSurface: editor-script
 reviewed: 3dc73be29f9c5fa727780782eb1ff4777df1c18f0b5ccabdf82c464a41058ef6
 apiScope: Runtime
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---
 

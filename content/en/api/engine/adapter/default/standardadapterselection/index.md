@@ -8,11 +8,12 @@ owners:
 - Inno.Adapter.Default
 apiSurface: source-clr
 reviewed: 5ed561de5af06d5c223e06f27fc9c49d9a60b83d03b2f398711bb24933039a82
+contracts:
+- project.inno-adapter-default
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-adapter-default
 aliases: []
 ---

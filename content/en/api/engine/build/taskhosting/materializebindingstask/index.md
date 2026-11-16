@@ -8,11 +8,12 @@ owners:
 - Inno.Build.TaskHosting
 apiSurface: source-clr
 reviewed: 31d45794578c09c190c5deb0c1aa1f3c60fa394d72a4dd48d10d5f57fc698892
+contracts:
+- project.inno-build-taskhosting
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-build-taskhosting
 aliases: []
 ---

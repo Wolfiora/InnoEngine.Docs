@@ -8,11 +8,12 @@ owners:
 - Inno.Editor.Diagnostics
 apiSurface: source-clr
 reviewed: a5838006c983759d2621305d2016205cf627caded3c5db33409b6ba2855f0596
+contracts:
+- api.projects.inno-editor-diagnostics#lifetime-and-policy
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- api.projects.inno-editor-diagnostics#lifetime-and-policy
 aliases: []
 ---

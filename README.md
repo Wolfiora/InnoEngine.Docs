@@ -63,10 +63,10 @@ Every API type and member has its own explanation and stable symbol identity:
 | API prose marker | Synchronization behavior |
 | --- | --- |
 | `source: xml`, or no marker in a registered API file | Refreshes the explanation from source XML; removes the generated file when the API is removed |
-| `source: manual` | Preserves authored prose while source declarations and relationships continue to update |
+| `source: FLwolfy` | Preserves authored prose while source declarations and relationships continue to update |
 | Unknown marker | Fails rather than guessing ownership |
 
-Set `source: manual` before taking over an API explanation. Preserve its `uid` and `symbol`. A source contract change can require editorial review even when the prose is preserved. Removed APIs with manual prose retain their files for review outside current navigation and default search. These rules never authorize overwriting ordinary Manual pages. See the [API authoring guide](content/en/contributing/api-documentation.md) for frontmatter, stable addresses and review identities.
+Set `source` to your name (for example, `source: FLwolfy`) before taking over an API explanation. Preserve its `uid` and `symbol`. A source contract change can require editorial review even when the prose is preserved. Removed APIs with manual prose retain their files for review outside current navigation and default search. These rules never authorize overwriting ordinary Manual pages. See the [API authoring guide](content/en/contributing/api-documentation.md) for frontmatter, stable addresses and review identities.
 
 ### When publishing
 

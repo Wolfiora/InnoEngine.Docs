@@ -53,7 +53,7 @@ symbol: <keep-the-exact-symbol-identity>
 reviewed: <managed-source-contract-fingerprint>
 
 # Authoring metadata.
-source: manual
+source: FLwolfy
 outdated: false
 ---
 ```
@@ -68,16 +68,16 @@ npm run docs:review -- content/en/api/engine/core/identity/identity/index.md
 
 Replace the path with the registered page you edited. The command uses the pinned managed documentation tooling, sets `reviewed` to the current contract and clears `outdated`. It never edits the explanation, builds engine products, or publishes the site. It can explicitly fetch/bootstrap the pinned tool on first use. An explicit existing immutable engine checkout can be selected with `--engine-root PATH`. Ordinary read-only queries do not perform this preparation.
 
-The generated summary, declaration, parameters, inheritance and member list always follow the captured source. The compact editorial status appears at the right end of the page context header, immediately left of the desktop TABLE OF CONTENTS column. On narrow screens it remains in the context area. The TOC divider can be dragged or adjusted with arrow keys; Home and End select its bounds, and double-click restores the default. The width is remembered for the current browsing session. The summary appears immediately below the title in a Markdown blockquote, including on `source: manual` pages; it is not stored in the editable Markdown body. Change source XML to correct that introduction. An authored signature in prose cannot replace generated facts.
+Declarations, parameters, inheritance and member lists always follow captured source. Summary text uses source XML unless the author supplies a description list. The compact editorial status appears at the right end of the page context header, immediately left of the desktop TABLE OF CONTENTS column. On narrow screens it remains in the context area. The TOC divider can be dragged or adjusted with arrow keys; Home and End select its bounds, and double-click restores the default. The width is remembered for the current browsing session. The summary appears immediately below the title in a Markdown blockquote, including on `source: FLwolfy` pages; it is not stored in the editable Markdown body. Use `description: null` (or `~`) for XML summaries; supply a nonempty list to override them. An authored signature in prose cannot replace generated facts.
 
-For a partial type, the compiler can combine XML comments from more than one declaration. For example, `NativeBindingGenerator` has a summary in both `NativeBindingGenerator.cs` and `NativeBindingGenerator.Inputs.cs`; both are present in the captured type XML. Each distinct summary appears as a separate bullet inside the quote. Paragraph breaks within one summary do not create additional bullets. A single summary also has one bullet. These introductions are source summaries, not generated explanatory prose. Inspect every partial declaration when comparing the reference with source. The renderer must not silently discard a summary, invent additional sentences or relabel source summaries as remarks.
+For a partial type, the compiler can combine XML comments from more than one declaration. For example, `NativeBindingGenerator` has a summary in both `NativeBindingGenerator.cs` and `NativeBindingGenerator.Inputs.cs`; both are present in the captured type XML. Each distinct summary appears as a separate bullet inside the quote. Paragraph breaks within one summary do not create additional bullets. A single summary also has one bullet. Unless overridden with description metadata, these introductions are source summaries, not generated explanatory prose. Inspect every partial declaration when comparing the reference with source. The renderer must not silently discard a summary, invent additional sentences or relabel source summaries as remarks.
 
 | Marker or state | Next synchronization |
 | --- | --- |
 | `source: xml` | Refreshes the default explanation from XML |
 | No `source` marker in a registered API fragment | Treats it as XML-managed |
-| `source: manual` | Preserves the explanation; updates displayed source facts |
-| Unknown marker | Fails before overwriting content |
+| `source: FLwolfy` | Preserves the explanation; updates displayed source facts |
+| Empty author name | Fails before overwriting content |
 | Removed API with XML-managed prose | Removes the fragment and current navigation entry |
 | Removed API with manual prose | Retains the file for review, outside current navigation and default search |
 
@@ -92,14 +92,14 @@ Frontmatter is the YAML block between the opening `---` lines. It describes iden
 | `uid` | Stable page identity used by contract links and queries | Preserve it |
 | `symbol` | Exact API family, project and XML documentation ID, including overload identity | Preserve it; source changes own API renames |
 | `outdated` | Sticky editorial review flag | Set `true` to request review; use the review command to acknowledge it. Clearing/deleting it alone cannot hide a changed contract |
-| `source` | `xml` permits automatic prose updates; `manual` transfers prose to the author | Change to `manual` before writing an explanation |
+| `source` | `xml` permits automatic prose updates; any nonempty author name other than `xml` transfers prose to that author | Set your name before writing an explanation |
 | `reviewed` | Digest of the contract and XML/context inputs last acknowledged by the author | Do not edit this hash; run `npm run docs:review -- <page>` after actual review |
 | `title` | Page label; composed API titles follow current source identity | Do not use it to rename a source symbol |
 | `kind` | Page type, `api` here | Keep it |
 | `owners` | Owning projects; composition reconciles actual ownership | Keep the generated owner |
 | `apiSurface` | Host or script compilation surface | Do not confuse it with Scope |
 | `apiScope` | Runtime, Editor or Authoring | Actual script projection supplies this |
-| `contracts` | Stable page/section references to necessary constraints | Maintain meaningful associations; declaring-type obligations are inherited |
+| `contracts` | Stable page/section references to necessary constraints | Tool-maintained; do not edit during prose authoring |
 | `aliases` | Additional search terms | Add useful reader terminology |
 | `exampleMode`, `exampleProjects` | Compilation context for examples | Select real dependencies; do not relabel invalid examples to bypass checks |
 
@@ -107,7 +107,7 @@ Member filenames use the first 16 hexadecimal characters of SHA-256 over `family
 
 A manual file is not frozen source code. Its authored explanation is retained when XML or declarations change; displayed declarations and member tables still follow source facts. A path migration can move the file and repair relative links without regenerating its explanation. A deleted API's manual file remains for review, outside current navigation and default queries. Renames are not guessed to be the same API, and text is never silently reassigned to a different overload.
 
-API frontmatter has two groups separated by a blank line and YAML comments. The upper group holds generated identities, classification and the `reviewed` fingerprint. The lower group holds editable ownership, review requests, contract links, aliases and example settings. Comments are ignored by YAML; they are not extra metadata fields. Synchronization can refresh the upper group and set the stale flag while preserving manual body bytes.
+API frontmatter has two groups separated by a blank line and YAML comments. The upper group holds generated identities, classification, required `contracts` and the `reviewed` fingerprint. The lower group holds editable ownership, description overrides, review requests, aliases and example settings. Comments are ignored by YAML; they are not extra metadata fields. Synchronization can refresh the upper group and set the stale flag while preserving manual body bytes.
 
 The status header shows an icon and name, without a description paragraph:
 
@@ -119,25 +119,28 @@ The status header shows an icon and name, without a description paragraph:
 
 Verified describes editorial ownership and review state; it does not certify the explanation's semantic correctness. Editorial gaps remain non-blocking warnings. Source provenance remains directly above the footer's GitHub editing link. Build target/configuration details remain in reference/query provenance instead of cluttering declaration headings.
 
-XML remarks, parameters, returns, exceptions and examples become real Markdown sections in the fragment, using `##` headings at the same level as Declaration. An API with only a summary can have an empty Markdown body. With `source: manual`, you can replace or remove these body sections; synchronization preserves your body while the summary and declaration continue to follow source facts. The website and exact symbol queries include both the generated summary and the editable body. API metadata appears before Declaration, one field per line in alphabetical order.
+XML remarks, parameters, returns, exceptions and examples become real Markdown sections in the fragment, using `##` headings at the same level as Declaration. An API with only a summary can have an empty Markdown body. With `source: FLwolfy`, you can replace or remove these body sections; synchronization preserves your body while the declaration continues to follow source facts and description overrides remain intact. The website and exact symbol queries include both the effective introduction and the editable body. API metadata appears before Declaration, one field per line in alphabetical order.
 
 Sidebar groups start collapsed. Top-level headings only expand or collapse and use chevrons. At any depth, a group without its own page also uses a chevron. Only linked categories use square plus/minus controls; their names open their pages independently. The current page has a stronger full-row highlight than its expanded ancestor groups. Animated width changes preserve readable labels up to half the desktop viewport. The sidebar remembers groups you opened during the browsing session. Engine project categories and Scripting Scopes list types alphabetically. Select a type to find its members and nested types in the member table.
 
-## Maintain required contract links
+## Generated contract links
 
-The editable `contracts` list identifies prerequisites the reader must understand before using the API. Values are stable page identities with an optional section anchor, not filenames or source signatures. The composer exposes them under **Required contracts**. Member pages also receive their declaring type's contracts.
+The tool-maintained `contracts` list links stable page or section identities to necessary lifecycle, ownership and availability constraints. It belongs to the generated frontmatter group; ordinary prose editing must not change it. Members inherit the declaring type's obligations. Changes to these associations belong to documentation-tool maintenance, with link and contract validation.
 
-For example, `InspectorCondition` references:
+## Override the introduction
+
+Leave `description: null` to use the captured XML summaries. To supply your own introduction, use a list:
 
 ```yaml
-contracts:
-- api.projects.inno-editor-annotations#loading-and-script-availability
-- manual.scripting.use-script-api
+source: FLwolfy
+description:
+- Explains the first aspect of this API.
+- Explains a second important constraint.
 ```
 
-The first link explains annotation loading and script availability; the second explains the script API model. Keep both while those prerequisites apply. If a new conditional Inspector guide becomes authoritative, add its actual registered page identity. If a guide moves or its section is renamed, update the identity or anchor. Do not remove a necessary ownership, lifetime or availability constraint merely to shorten the page. Missing destinations and invalid anchors fail documentation validation.
+Each item becomes one bullet below the page title. Type and member tables show the same items as separate paragraphs without bullets. The override also appears in local documentation queries. Synchronization preserves this field independently of XML-managed body updates; reset it to null to follow XML again. Empty strings, empty lists, null items and structured list items are invalid. Source declarations remain generated.
 
-These associations remain editable for both XML-managed and manual explanations. Editing them does not transfer prose ownership: leave `source: xml` when you only maintain links.
+`source: xml` (or a missing source field) permits body synchronization. Any other nonempty string is the displayed author name and protects the body. Use your actual name, not the former `manual` marker. The six pre-existing manual explanations retain their bodies and are attributed to InnoEngine contributors during migration. The website footer credits FLwolfy as its creator and separately identifies each page's prose source.
 
 ## Interpret the checks
 

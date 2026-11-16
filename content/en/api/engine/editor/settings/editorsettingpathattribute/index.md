@@ -8,11 +8,12 @@ owners:
 - Inno.Editor.Settings
 apiSurface: source-clr
 reviewed: c50ed853cd2c4847829536a4fc51d512a811a4a7b846488fdfbd9ed39390ba88
+contracts:
+- api.projects.inno-editor-settings#identity-and-use-contracts
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- api.projects.inno-editor-settings#identity-and-use-contracts
 aliases: []
 ---

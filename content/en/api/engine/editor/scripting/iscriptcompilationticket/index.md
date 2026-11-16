@@ -8,11 +8,12 @@ owners:
 - Inno.Editor.Scripting
 apiSurface: source-clr
 reviewed: 04c2a4147eb7dff6e4d03c855ca5142963cc500eb1da413b66fac65bd4872bf4
+contracts:
+- project.inno-editor-scripting
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-editor-scripting
 aliases: []
 ---

@@ -8,9 +8,11 @@ owners:
 - Inno.Scripting.Api
 apiSurface: source-clr
 reviewed: c98c1e739d18f2c9f5c5a5d0e6c2384ef8ce0a29869b7b3b797381b8e70aece9
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---
 

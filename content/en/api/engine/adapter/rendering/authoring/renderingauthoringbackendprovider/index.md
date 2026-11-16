@@ -8,11 +8,12 @@ owners:
 - Inno.Adapter.Rendering.Authoring
 apiSurface: source-clr
 reviewed: d05304b884fc749c514bf2978f88ae91e842c62c999dc5dc420bbd18cf3cd571
+contracts:
+- project.inno-adapter-rendering-authoring
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-adapter-rendering-authoring
 aliases: []
 ---

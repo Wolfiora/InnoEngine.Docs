@@ -8,11 +8,12 @@ owners:
 - Inno.Animation.Runtime
 apiSurface: source-clr
 reviewed: 6523fe1e644e393f56c67adc3545126085862c7b987c092380de769888306854
+contracts:
+- project.inno-animation-runtime#playback-and-update-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-animation-runtime#playback-and-update-contract
 aliases: []
 ---

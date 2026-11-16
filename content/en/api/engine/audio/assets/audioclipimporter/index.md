@@ -8,11 +8,12 @@ owners:
 - Inno.Audio.Assets
 apiSurface: source-clr
 reviewed: dfcd64bd6d6d32ddb29ed9e3ad783635ac88d4583592ecb0342b40bd95e65c93
+contracts:
+- project.inno-audio-assets#artifact-and-ownership-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-audio-assets#artifact-and-ownership-contract
 aliases: []
 ---

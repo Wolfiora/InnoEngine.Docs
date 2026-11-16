@@ -8,11 +8,12 @@ owners:
 - Inno.Extensibility.Catalogs
 apiSurface: source-clr
 reviewed: 7c7cf0a58e711e4dd20c663f135287eaff10914c078e2d8ac4a6457db977e606
+contracts:
+- project.inno-extensibility-catalogs#composition-and-factory-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-extensibility-catalogs#composition-and-factory-contract
 aliases: []
 ---

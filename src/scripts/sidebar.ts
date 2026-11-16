@@ -125,7 +125,10 @@ class InnoSidebar extends HTMLElement {
   }
   markCurrent(root: ParentNode) {
     const normalize = (path: string) => decodeURI(path).replace(/\/?$/, '/');
-    for (const a of root.querySelectorAll<HTMLAnchorElement>('a')) if (normalize(a.pathname) === normalize(location.pathname)) a.setAttribute('aria-current', 'page');
+    for (const a of root.querySelectorAll<HTMLAnchorElement>('a')) {
+      if (normalize(a.pathname) === normalize(location.pathname)) a.setAttribute('aria-current', 'page');
+      if (this.dataset.selectedType && normalize(a.pathname) === this.dataset.selectedType) a.dataset.selectedType = 'true';
+    }
   }
   async preparePanel(button: HTMLButtonElement): Promise<HTMLElement> {
     const entries = await load(button.dataset.children!);

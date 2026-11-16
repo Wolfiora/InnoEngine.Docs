@@ -8,11 +8,12 @@ owners:
 - Inno.Editor.Inspection
 apiSurface: source-clr
 reviewed: ed010e20b9f71f2eb2102e110eb697687e5833e87f1de9254e8b61f9f4060b30
+contracts:
+- project.inno-editor-inspection
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-editor-inspection
 aliases: []
 ---

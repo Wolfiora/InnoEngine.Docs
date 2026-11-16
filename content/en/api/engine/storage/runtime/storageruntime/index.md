@@ -8,11 +8,12 @@ owners:
 - Inno.Storage.Runtime
 apiSurface: source-clr
 reviewed: d9d3051d1dc4f340a5a0dfa1f8b771aa41018b5ea68de4f2d70e2c783d39202c
+contracts:
+- project.inno-storage-runtime#admission-and-lifetime-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-storage-runtime#admission-and-lifetime-contract
 aliases: []
 ---

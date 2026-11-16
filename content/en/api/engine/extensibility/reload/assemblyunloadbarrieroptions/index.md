@@ -8,11 +8,12 @@ owners:
 - Inno.Extensibility.Reload
 apiSurface: source-clr
 reviewed: 5701835fa73f08e765f86796dc9cc3b724c522e42bc7151ab00ffd37cc2b164c
+contracts:
+- project.inno-extensibility-reload#shared-admission-and-retirement-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-extensibility-reload#shared-admission-and-retirement-contract
 aliases: []
 ---

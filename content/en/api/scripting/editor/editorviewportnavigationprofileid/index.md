@@ -9,12 +9,13 @@ owners:
 apiSurface: editor-script
 reviewed: a8c7efdb840be96ee9f1c20e3f05b98f6abfcdbeabefd4bdc15bedbdc823a0b5
 apiScope: Editor
-
-# Authoring metadata. Edit these fields and the explanation below.
-source: xml
-outdated: false
 contracts:
 - manual.scripting.use-script-api
 - project.inno-editor-rendering
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: xml
+description: null
+outdated: false
 aliases: []
 ---

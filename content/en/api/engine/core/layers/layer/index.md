@@ -8,11 +8,12 @@ owners:
 - Inno.Core.Layers
 apiSurface: source-clr
 reviewed: 03354f9d26b5b5fb6f40ccd117356e26b20b51f8615315249eade249447cb305
+contracts:
+- project.inno-core-layers#attachment-and-frame-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-core-layers#attachment-and-frame-contract
 aliases: []
 ---

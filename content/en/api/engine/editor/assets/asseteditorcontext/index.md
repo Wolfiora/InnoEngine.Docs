@@ -8,11 +8,12 @@ owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
 reviewed: 3da8d1081b9bb6860d3a853e98811b2d3de0091161f75cea8b7cfb1f8105b351
+contracts:
+- project.inno-editor-assets
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-editor-assets
 aliases: []
 ---

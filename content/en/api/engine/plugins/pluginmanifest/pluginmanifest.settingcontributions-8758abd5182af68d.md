@@ -8,8 +8,10 @@ owners:
 - Inno.Plugins
 apiSurface: source-clr
 reviewed: 147081116033b36bf755c5fce2aa71a899d80a6552ed2f5e8f10fce09ff555e2
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

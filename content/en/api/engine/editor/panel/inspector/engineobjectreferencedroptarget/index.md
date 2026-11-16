@@ -8,12 +8,13 @@ owners:
 - Inno.Editor.Panel.Inspector
 apiSurface: source-clr
 reviewed: 43226c9105917660bb5cfa73733014b147eca4e830dc6ab243340cb4b4b37314
+contracts:
+- project.inno-editor-panel-inspector
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-editor-panel-inspector
 aliases: []
 ---
 

@@ -8,11 +8,12 @@ owners:
 - Inno.Editor.PlayMode
 apiSurface: source-clr
 reviewed: 47fdb43f5ac08f414635876e3ba4ca7e50d210fcbbe8f0acacb3f69448e3fbfd
+contracts:
+- project.inno-editor-playmode
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-editor-playmode
 aliases: []
 ---

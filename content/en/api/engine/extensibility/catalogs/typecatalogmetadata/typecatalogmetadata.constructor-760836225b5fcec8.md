@@ -8,9 +8,11 @@ owners:
 - Inno.Extensibility.Catalogs
 apiSurface: source-clr
 reviewed: f08f20a29b9a94847e06c025083d8209871aba797775e91cbf21aa096d05cb6d
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---
 

@@ -8,8 +8,10 @@ owners:
 - Inno.Editor.Panel.Hierarchy
 apiSurface: source-clr
 reviewed: 234af3adea397d7e870face42cc8c5231b03e78df873fba0754d122d65c6c6c1
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
 ---

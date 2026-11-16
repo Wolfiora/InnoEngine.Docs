@@ -8,11 +8,12 @@ owners:
 - Inno.Editor.Shaders
 apiSurface: source-clr
 reviewed: bbf9b5a8be9517d143d2c3d46b8c7a277676e18f15f937e95bfc299589499595
+contracts:
+- project.inno-editor-shaders
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-editor-shaders
 aliases: []
 ---

@@ -8,12 +8,13 @@ owners:
 - Inno.Core.Serialization
 apiSurface: source-clr
 reviewed: 5367cd8e46c5222206639ba4ce0db7d45c288158b97aec06eadd5c4484255b68
+contracts:
+- project.inno-core-serialization#operation-and-generation-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-core-serialization#operation-and-generation-contract
 aliases: []
 ---
 

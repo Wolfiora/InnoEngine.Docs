@@ -8,11 +8,12 @@ owners:
 - Inno.Engine.Default
 apiSurface: source-clr
 reviewed: 470a116568382ff4d4aa7ad13165da02bc84eaa166376c184925f80aca7d0a9a
+contracts:
+- project.inno-engine-default
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-engine-default
 aliases: []
 ---

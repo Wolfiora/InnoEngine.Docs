@@ -8,11 +8,12 @@ owners:
 - Inno.Audio.Runtime
 apiSurface: source-clr
 reviewed: 9b463363c5fd973ea3ccaa9f0ab93faf0f0e7ddc28c4fce14752a6cb8668d486
+contracts:
+- project.inno-audio-runtime#composition-and-lifetime-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-audio-runtime#composition-and-lifetime-contract
 aliases: []
 ---

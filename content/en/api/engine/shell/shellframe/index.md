@@ -8,11 +8,12 @@ owners:
 - Inno.Shell
 apiSurface: source-clr
 reviewed: 79cc1153d93ed18c9dadc33d32040197a2717bb210de3f672b114c06a631e675
+contracts:
+- project.inno-shell
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-shell
 aliases: []
 ---

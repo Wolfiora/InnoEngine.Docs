@@ -8,11 +8,12 @@ owners:
 - Inno.Editor.Graph
 apiSurface: source-clr
 reviewed: 3554b9553d19058ce0bff39a1886c2b5f4c458c630b8b2e6d84e39de17ab23f7
+contracts:
+- project.inno-editor-graph
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-editor-graph
 aliases: []
 ---

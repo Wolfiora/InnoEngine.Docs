@@ -8,11 +8,12 @@ owners:
 - Inno.Adapter.Input
 apiSurface: source-clr
 reviewed: 55ec8825bc1e83b5cde37ea9d55ee22f4787e5aa83ef4ab1af2cb5a837db6865
+contracts:
+- project.inno-adapter-input#ownership-and-threading
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-adapter-input#ownership-and-threading
 aliases: []
 ---

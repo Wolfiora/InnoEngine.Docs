@@ -8,11 +8,12 @@ owners:
 - Inno.Player.Runtime
 apiSurface: source-clr
 reviewed: c7c18994b7b9e8406c3181dcc6c493caa595941501418b50067062efaa8a7466
+contracts:
+- project.inno-player-runtime
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-player-runtime
 aliases: []
 ---

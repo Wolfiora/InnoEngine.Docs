@@ -8,11 +8,12 @@ owners:
 - Inno.Adapter.Storage
 apiSurface: source-clr
 reviewed: d000bf8f0b31d3ad04b32c18a151c67426735e64686e2c0485166bdc81d3efef
+contracts:
+- project.inno-adapter-storage#ownership-and-scope-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-adapter-storage#ownership-and-scope-contract
 aliases: []
 ---

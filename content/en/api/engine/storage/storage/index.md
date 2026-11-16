@@ -8,11 +8,12 @@ owners:
 - Inno.Storage
 apiSurface: source-clr
 reviewed: 9402a942457bd4a4b84bbaec0aa11963ad42ccd1ad32525adc8d89b37edd8323
+contracts:
+- project.inno-storage#operation-and-ownership-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-storage#operation-and-ownership-contract
 aliases: []
 ---

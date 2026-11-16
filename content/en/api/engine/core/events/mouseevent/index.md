@@ -8,11 +8,12 @@ owners:
 - Inno.Core.Events
 apiSurface: source-clr
 reviewed: ac46b368692e0fcaa51ab0ab2766215d62484556a0a48fc1c9a84b06fac31cb7
+contracts:
+- project.inno-core-events#dispatch-and-lifetime-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-core-events#dispatch-and-lifetime-contract
 aliases: []
 ---

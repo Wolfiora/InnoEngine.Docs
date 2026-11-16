@@ -8,11 +8,12 @@ owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
 reviewed: da0ff9e0e5c4f711fb40e1af78d37caa35e942d2ddc17ec71c1659ad25f53db3
+contracts:
+- project.inno-extensibility-types
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-extensibility-types
 aliases: []
 ---

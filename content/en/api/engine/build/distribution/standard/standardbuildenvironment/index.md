@@ -8,11 +8,12 @@ owners:
 - Inno.Build.Distribution.Standard
 apiSurface: source-clr
 reviewed: 14969c79711e44a3e6273184cf17972745442681d6a49414685c24e5663ca651
+contracts:
+- project.inno-build-distribution-standard#cache-and-workspace-ownership
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-build-distribution-standard#cache-and-workspace-ownership
 aliases: []
 ---

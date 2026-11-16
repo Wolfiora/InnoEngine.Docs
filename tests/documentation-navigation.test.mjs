@@ -24,7 +24,10 @@ test('all groups collapse by default and scope types sort alphabetically using c
     path: `content/en/api/scripting/authoring/${title}/index.md`, symbols: { [`T:Example.${title}`]: {} } });
   pages.push({ id: 'member', kind: 'api', title: 'alpha.Read', path: 'content/en/api/scripting/authoring/alpha/read.md', symbols: { 'M:Example.alpha.Read': {} } });
   const result = documentationNavigation([{ label: 'Manual', items: [{ label: 'Nested', items: [{ slug: 'manual' }] }] },
-    { label: 'API Reference', apiDirectories: true }], { pages });
+    { label: 'API Reference', apiDirectories: true }], { pages }, {entries:[
+      {symbol:'type.alpha',type:'type.alpha',path:'content/en/api/scripting/authoring/alpha/index.md'},
+      {symbol:'member',type:'type.alpha',path:'content/en/api/scripting/authoring/alpha/read.md'},
+    ]});
   function collapsed(items) { for (const item of items) if (item.items) { assert.equal(item.collapsed, true); collapsed(item.items); } }
   collapsed(result);
   const scope = result[1].items[2].items[1];
@@ -41,7 +44,7 @@ test('missing or duplicate API directories fail instead of producing empty menus
   assert.throws(() => documentationNavigation([{ autogenerate: { directory: 'api' } }], { pages: [] }), /filesystem guessing/);
 });
 
-test('member contracts and secondary guides receive their own navigable entries', () => {
+test('registered member containment and secondary guides receive their own navigable entries', () => {
   const pages = ['engine', 'scripting'].map(category => ({ id: `api.directory.${category}`,
     path: `content/en/api/${category}/index.md`, title: category }));
   pages.push({id:'type',kind:'api',title:'Value',path:'content/en/api/engine/value/index.md',symbols:{'T:Value':{}}},
@@ -50,9 +53,27 @@ test('member contracts and secondary guides receive their own navigable entries'
     {id:'projects',title:'Projects',path:'content/en/architecture/projects/index.md'},
     {id:'project',title:'Example',path:'content/en/architecture/projects/example.md'});
   const result=documentationNavigation([{label:'API Reference',apiDirectories:true},
-    {label:'Architecture',items:[{slug:'architecture'}]}],{pages});
+    {label:'Architecture',items:[{slug:'architecture'}]}],{pages},{entries:[
+      {symbol:'type',type:'type',path:'content/en/api/engine/value/index.md'},
+      {symbol:'member',type:'type',path:'content/en/api/engine/member.md'},
+    ]});
   const type=result[0].items[1].items[1];
   assert.equal(type.items[0].slug,'api/engine/value');
   assert.equal(type.items[1].slug,'api/engine/member');
   assert.equal(result[1].items[0].items[1].items[1].slug,'architecture/projects/example');
+});
+
+test('nested type members use their registered owner instead of an earlier ancestor contract', () => {
+  const pages = ['engine', 'scripting'].map(category => ({id:`api.directory.${category}`,
+    path:`content/en/api/${category}/index.md`,title:category}));
+  pages.push({id:'outer',kind:'api',title:'Outer',path:'content/en/api/engine/outer/index.md',symbols:{'T:Outer':{}}},
+    {id:'inner',kind:'api',title:'Outer.Inner',path:'content/en/api/engine/inner/index.md',symbols:{'T:Outer.Inner':{}}},
+    {id:'member',kind:'api',title:'Outer.Inner.Read',path:'content/en/api/engine/inner/read.md',symbols:{'M:Outer.Inner.Read':{}},contracts:['outer','inner']});
+  const registry={entries:[{symbol:'inner',type:'inner',path:'content/en/api/engine/inner/index.md'},
+    {symbol:'member',type:'inner',path:'content/en/api/engine/inner/read.md'}]};
+  const navigation=documentationNavigation([{label:'API',apiDirectories:true}],{pages},registry);
+  const engine=navigation[0].items[1];
+  assert.equal(engine.items[1].slug,'api/engine/outer');
+  assert.equal(engine.items[2].items[1].slug,'api/engine/inner/read');
+  assert.throws(()=>documentationNavigation([{label:'API',apiDirectories:true}],{pages}),/no registered declaring type/);
 });

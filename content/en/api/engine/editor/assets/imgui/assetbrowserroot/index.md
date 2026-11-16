@@ -8,11 +8,12 @@ owners:
 - Inno.Editor.Assets.ImGui
 apiSurface: source-clr
 reviewed: c9c13dcd0150e5aa9319103c2ba916b92e342b7288d1f1d7f73a768a1e383206
+contracts:
+- project.inno-editor-assets-imgui
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
+description: null
 outdated: false
-contracts:
-- project.inno-editor-assets-imgui
 aliases: []
 ---
