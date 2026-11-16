@@ -51,6 +51,14 @@ class TocResizer extends HTMLElement {
     const { min, max } = this.bounds();
     const width = Math.min(max, Math.max(min, viewport * (this.ratio ?? 1 / 4)));
     document.documentElement.style.setProperty('--inno-toc-width', `${width}px`);
+    const title = document.getElementById('starlight__on-this-page');
+    if (title) {
+      const range = document.createRange(); range.selectNodeContents(title);
+      const rect = range.getBoundingClientRect();
+      const edge = this.closest('.right-sidebar')!.getBoundingClientRect().left;
+      document.documentElement.style.setProperty('--inno-toc-art-left', (rect.left + rect.width / 2 - edge) + 'px');
+    }
+    document.documentElement.style.setProperty('--inno-toc-art-opacity', String(.2 + .6 * (max === min ? 0 : (width - min) / (max - min))));
     this.setAttribute('aria-valuemin', String(Math.ceil(min)));
     this.setAttribute('aria-valuemax', String(Math.floor(max)));
     this.setAttribute('aria-valuenow', String(Math.round(width)));
