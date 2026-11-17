@@ -1,0 +1,7 @@
+---
+import DefaultHead from '@astrojs/starlight/components/Head.astro';
+import restoreLayout from '../scripts/layout-bootstrap.js?raw';
+---
+<DefaultHead />
+<!-- Run before body layout, without waiting for the component module downloads. -->
+<script is:inline set:html={restoreLayout} />

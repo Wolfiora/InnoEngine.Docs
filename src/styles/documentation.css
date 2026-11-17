@@ -75,7 +75,7 @@ inno-content-tables { display: block; min-width: 0; }
   .right-sidebar-container { width: var(--inno-toc-width); flex: 0 0 var(--inno-toc-width); }
   .main-pane { flex: 1 1 0; width: auto; min-width: 0; }
   .right-sidebar { position: sticky; top: var(--sl-nav-height); padding-top: 0; width: 100%; height: calc(100vh - var(--sl-nav-height)); overflow: visible; }
-  .right-sidebar:has(> .toc-resizer:defined) { border-inline-start: 0; }
+  .right-sidebar:has(> .toc-resizer) { border-inline-start: 0; }
   .right-sidebar-panel { height: 100%; overflow-y: auto; scrollbar-width: none; }
   .right-sidebar-panel .sl-container { width: 100%; max-width: none; }
   .right-sidebar-panel h2 { white-space: nowrap; }
@@ -84,7 +84,7 @@ inno-content-tables { display: block; min-width: 0; }
   .document-header { min-height: 6rem; flex-wrap: nowrap; }
   .document-header .document-context { min-width: 0; }
   .document-header .api-status { flex-basis: min(18rem, 40%); }
-  .toc-resizer:defined { display: block; position: absolute; z-index: 20; top: 0; bottom: 0; left: -4px; width: 9px; cursor: col-resize; touch-action: none; }
+  .toc-resizer { display: block; position: absolute; z-index: 20; top: 0; bottom: 0; left: -4px; width: 9px; cursor: col-resize; touch-action: none; }
   /* A single neutral bar replaces the global focus outline around the full-height hit area. */
   .toc-resizer:focus-visible { outline: none; }
   .toc-resizer::after { content: ''; position: absolute; left: 2px; height: 100%; width: 5px; background: var(--sl-color-gray-4); }

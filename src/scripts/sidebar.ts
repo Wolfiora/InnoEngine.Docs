@@ -52,7 +52,8 @@ class InnoSidebar extends HTMLElement {
     this.widthFrame = requestAnimationFrame(() => this.fitWidth());
   };
   fitWidth() {
-    if (!this.isConnected || !this.measure) return;
+    // Keep the pre-paint width while lazy descendants are still arriving.
+    if (!this.isConnected || !this.measure || this.dataset.restoring) return;
     const html = document.documentElement;
     if (!matchMedia('(min-width: 50rem)').matches) { html.style.removeProperty('--inno-sidebar-width'); return; }
     const pane = this.closest<HTMLElement>('.sidebar-pane');
@@ -81,6 +82,11 @@ class InnoSidebar extends HTMLElement {
     }
     html.style.setProperty('--inno-sidebar-content-width', `${Math.ceil(width)}px`);
     html.style.setProperty('--inno-sidebar-width', `${Math.ceil(Math.min(width, html.clientWidth / 3))}px`);
+    try {
+      sessionStorage.setItem('inno-sidebar-layout-v1', JSON.stringify({
+        contentWidth: Math.ceil(width), gutter: pane.offsetWidth - pane.clientWidth,
+      }));
+    } catch { /* Optional storage. */ }
   }
   async restore() {
     this.dataset.restoring = 'true';
@@ -89,6 +95,7 @@ class InnoSidebar extends HTMLElement {
       .filter(button => this.state[button.closest('li')!.dataset.key!] === true)
       .map(button => this.toggle(button, false)));
     if (!this.isConnected) return;
+    delete this.dataset.restoring;
     this.fitWidth();
     const scroller = document.getElementById('starlight__sidebar');
     try { if (scroller) scroller.scrollTop = Number(sessionStorage.getItem('inno-sidebar-scroll-v2')) || 0; } catch { /* Optional storage. */ }
