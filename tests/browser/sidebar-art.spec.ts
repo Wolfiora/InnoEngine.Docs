@@ -2,7 +2,7 @@ import {test,expect} from '@playwright/test';
 test('TOC logo follows heading center and resize opacity bounds',async({page})=>{
  await page.setViewportSize({width:1600,height:1000});await page.goto('api/engine/animation/animation/');
  const divider=page.getByRole('separator',{name:'Resize table of contents'}),logo=page.locator('.toc-art svg');await divider.focus();
- for(const [key,opacity]of [['Home','0.2'],['End','0.8']]){
+ for(const [key,opacity]of [['Home','0.05'],['End','0.8']]){
   await page.keyboard.press(key);await expect(logo).toHaveCSS('opacity',opacity);
   expect(await logo.evaluate(svg=>{const r=document.createRange();r.selectNodeContents(document.getElementById('starlight__on-this-page')!);const t=r.getBoundingClientRect();return Math.abs(svg.getBoundingClientRect().left-t.left-t.width/2);})).toBeLessThan(1);
  }

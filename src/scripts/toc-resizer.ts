@@ -57,8 +57,11 @@ class TocResizer extends HTMLElement {
       const rect = range.getBoundingClientRect();
       const edge = this.closest('.right-sidebar')!.getBoundingClientRect().left;
       document.documentElement.style.setProperty('--inno-toc-art-left', (rect.left + rect.width / 2 - edge) + 'px');
+      try {
+        sessionStorage.setItem('inno-toc-layout-v1', JSON.stringify({ min, left: rect.left + rect.width / 2 - edge }));
+      } catch { /* Storage is optional. */ }
     }
-    document.documentElement.style.setProperty('--inno-toc-art-opacity', String(.2 + .6 * (max === min ? 0 : (width - min) / (max - min))));
+    document.documentElement.style.setProperty('--inno-toc-art-opacity', String(.05 + .75 * (max === min ? 0 : (width - min) / (max - min))));
     this.setAttribute('aria-valuemin', String(Math.ceil(min)));
     this.setAttribute('aria-valuemax', String(Math.floor(max)));
     this.setAttribute('aria-valuenow', String(Math.round(width)));
