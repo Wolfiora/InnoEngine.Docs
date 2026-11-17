@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Exporting
 apiSurface: source-clr
-reviewed: a8a379c3e8646b1e938076b95305dc8c24162f51fb7b830332996261d7c4461e
+reviewed: 25f9a93b8bac4dcd561f1dddb8894c555f24f453268d0e2ce0999fb8f0fefd2b
 contracts:
 - project.inno-editor-exporting
 

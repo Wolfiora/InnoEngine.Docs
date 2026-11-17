@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation.Assets
 apiSurface: source-clr
-reviewed: ab161e83231c663f17de05d326369498a501f2317f1332aaae519ed450f95d1a
+reviewed: 9f400f5cc750f0a82f866e98bd2f226c1c87ad62e400932b015eda9a02ce6ba8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

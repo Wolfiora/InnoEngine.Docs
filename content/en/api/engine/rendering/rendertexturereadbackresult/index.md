@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: dfde2629f7f94ed32578eb3dbb71f47e9c3874e4d0864290146d9ed64ec22377
+reviewed: e5f040934d7fa9eabca2cfe881506d1c214756de4a1b8911a3f4f341015a8ec8
 contracts:
 - project.inno-rendering
 

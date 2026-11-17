@@ -59,15 +59,17 @@ export function sidebarProjection(navigation, catalog, typeParents = new Map()) 
     }
     to.item.items.push(from.item);
   }
-  function compact(items) {
-    return items.map(item => {
+  function compact(items, inApi = false) {
+    const result = items.map(item => {
       if (!item.items) return item;
-      const home = homeOf(item), children = compact(item.items.filter(child => child !== home));
+      const home = homeOf(item), children = compact(item.items.filter(child => child !== home), inApi || slugOf(item) === 'api' || slugOf(item)?.startsWith('api/'));
       if (home && !children.length) return { slug: home.slug, label: item.label ?? home.label };
 
       return { ...item, items: home ? [home, ...children] : children };
-    }).sort((a,b) => {
-      const rank = item => item.items ? (homeOf(item) ? 1 : 0) : 2;
+    });
+    if (!inApi) return result;
+    return result.sort((a,b) => {
+      const rank = item => item.items ? 0 : 1;
       return rank(a)-rank(b) || (a.label ?? titles.get(slugOf(a)) ?? '').localeCompare(b.label ?? titles.get(slugOf(b)) ?? '', 'en', {sensitivity:'base'}) || (slugOf(a) ?? '').localeCompare(slugOf(b) ?? '');
     });
   }

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Shell
 apiSurface: source-clr
-reviewed: 7061a600f1a751e00a0b376a466e5a28056fa982a7041c5fda53d447fff2fcb7
+reviewed: fbb2dd336e1eb8ce2218c654dc5f73dcada1387bd14ace0f5dac026ae0f47402
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

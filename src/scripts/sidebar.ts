@@ -80,7 +80,7 @@ class InnoSidebar extends HTMLElement {
         + depth * (.85 * rem + 1) + rowInset + 2.5 * rem + inset + 24);
     }
     html.style.setProperty('--inno-sidebar-content-width', `${Math.ceil(width)}px`);
-    html.style.setProperty('--inno-sidebar-width', `${Math.ceil(Math.min(width, html.clientWidth * .4))}px`);
+    html.style.setProperty('--inno-sidebar-width', `${Math.ceil(Math.min(width, html.clientWidth / 3))}px`);
   }
   async restore() {
     this.dataset.restoring = 'true';
@@ -105,7 +105,8 @@ class InnoSidebar extends HTMLElement {
   }
   render(entries: Entry[]) {
     const ul = document.createElement('ul');
-    for (const entry of entries) {
+    for (const original of entries) {
+      const entry = original.children && !original.href?.startsWith('/InnoEngine.Docs/api/') ? {...original, href:undefined} : original;
       const li = document.createElement('li');
       if (entry.key) li.dataset.key = entry.key;
       const row = document.createElement('div'); row.className = 'nav-row';

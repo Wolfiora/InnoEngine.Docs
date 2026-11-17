@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-reviewed: d78861799db8770c1c1c534d9290b48ca337e3b3ec7a28dd1c5c26a71a903287
+reviewed: afd44a16479a60b8d12f4ba1f40f5d3159c8a75eba09090ac0db1709b2b6a8ba
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

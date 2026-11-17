@@ -9,7 +9,7 @@ test('TOC logo follows heading center and resize opacity bounds',async({page})=>
  await page.keyboard.press('ArrowRight');expect(Number(await logo.evaluate(e=>getComputedStyle(e).opacity))).toBeLessThan(.8);
  await expect(page.locator('.toc-art')).toHaveAttribute('aria-hidden','true');
 });
-test('sidebar caps at two fifths and long labels scroll without abbreviation',async({page})=>{
+test('sidebar caps at one third and long labels scroll without abbreviation',async({page})=>{
  await page.setViewportSize({width:1600,height:1000});await page.goto('api/engine/animation/animation/');
  await expect(page.locator('inno-sidebar [aria-current="page"]')).toBeVisible();
  await expect(page.getByRole('button',{name:'Toggle compact sidebar'})).toHaveCount(0);
@@ -17,6 +17,6 @@ test('sidebar caps at two fifths and long labels scroll without abbreviation',as
  await page.evaluate(()=>window.dispatchEvent(new Event('resize')));
  const pane=page.locator('.sidebar-pane');
  await expect.poll(()=>pane.evaluate(e=>e.scrollWidth-e.clientWidth)).toBeGreaterThan(100);
- await expect.poll(()=>pane.evaluate(e=>e.getBoundingClientRect().width)).toBeLessThanOrEqual(640);
+ await expect.poll(()=>pane.evaluate(e=>e.getBoundingClientRect().width)).toBeLessThanOrEqual(1600 / 3 + 1);
  await expect(page.locator('inno-sidebar [aria-current="page"]')).toHaveCSS('white-space','nowrap');
 });

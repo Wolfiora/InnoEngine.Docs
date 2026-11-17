@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-reviewed: 7d33074925a775e91b0b782db8950e05714e1acccd116a6fa87fc62fb161f57e
+reviewed: c5f2bb128155361b55a2b343c0464377bcdf20326404c43b8e1268544c7efeb8
 contracts:
 - project.inno-editor-rendering
 

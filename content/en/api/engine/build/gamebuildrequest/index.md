@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: b46845a1c07597c26eb9a8344ba7da7414a1c5ba2fcc7c86000b4d3f9026b9c7
+reviewed: 7c9338c5344a01ef6a57a59700a63fa41414619a8eb126defa9eebba9925e8a2
 contracts:
 - project.inno-build
 

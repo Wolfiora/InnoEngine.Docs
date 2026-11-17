@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scripting
 apiSurface: source-clr
-reviewed: 04c2a4147eb7dff6e4d03c855ca5142963cc500eb1da413b66fac65bd4872bf4
+reviewed: 1811f47868335f806d38715bba81dd35ef6007a5aebf610be0bca55e2754aaa4
 contracts:
 - project.inno-editor-scripting
 

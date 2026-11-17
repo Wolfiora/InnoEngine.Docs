@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Distribution.Standard
 apiSurface: source-clr
-reviewed: 50aa19953c0edd7584c826f4ce2ebc061fdceddb77234d12eac888e81812cc0e
+reviewed: a5a05b9ead17c87b14c08585fceebd2d8b9fc3eec290f25dc10ee60b256b7419
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

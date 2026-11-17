@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: source-clr
-reviewed: 6021f89f1d970f691c5ddff79ce7d1d3db5826dba9322ce3d004b52892a1216f
+reviewed: a7a3f1aee45b6904e2f2c73c6a11a5a49eb18cae4c34e154dfefdae48e8ae32f
 contracts:
 - project.inno-core-diagnostics#producer-and-presentation-contract
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.UI
 apiSurface: source-clr
-reviewed: 29cfa33f54d59939edf38c6e4cb607db651b640bcf7fe84ac7e0f179f2619b20
+reviewed: 789f9868278e52e7f124d8d7fc09fa7f5c398ec66170bca314baa3322fb3f06b
 contracts:
 - project.inno-adapter-ui#provider-and-catalog-contract
 

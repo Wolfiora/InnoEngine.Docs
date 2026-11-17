@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Audio
 apiSurface: source-clr
-reviewed: dc5efdc8aa2027dbb7b49e68c19bd775b96934496a25b18588a2010ed89c5157
+reviewed: aeb919cf742987890a87c19d452fd26cce7149e82e3fce8e2466ff9b47863b27
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

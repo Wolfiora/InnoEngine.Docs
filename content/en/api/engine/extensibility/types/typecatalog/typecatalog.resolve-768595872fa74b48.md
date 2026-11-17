@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-reviewed: bb62291d1d4909dc4f67dd55020e70deeea12b96915306058733caa26f9d93cd
+reviewed: 94fabc0e39a08f406b0e46833c6f299a2147af23e10113f041ae2ec0c7d986dd
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

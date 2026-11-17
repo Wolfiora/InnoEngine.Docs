@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: source-clr
-reviewed: b13eba28832d212c2467b0e80503bac7566e41abfe2b6ac210e2080fcbc62e06
+reviewed: 2f7a9dc3e08806aa9da59eb3e7be62d452e105c2656d842cf6084de1da08c428
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: 4a5d2d66c7fd3ff4cf608705871ec341e3878311cae612d4d803948799d686e0
+reviewed: 2106f57342d24d0147d5345daa5d62fb9307c4972a74e9dcab6a982b410df740
 contracts:
 - project.inno-core-io#publication-and-ownership-contract
 

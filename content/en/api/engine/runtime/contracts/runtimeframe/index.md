@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime.Contracts
 apiSurface: source-clr
-reviewed: 8e85b1f47cd12dab5bb0fe48dfa3f939487db94bf1accd8bdd638adf2ab9da35
+reviewed: 595a7c57a8032207a104c91dc7321e3dcc2fae718854c9f51d422462988b6f1e
 contracts:
 - project.inno-runtime-contracts
 

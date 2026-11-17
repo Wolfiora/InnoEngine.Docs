@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation.Assets
 apiSurface: source-clr
-reviewed: 571842884b6c03b742d95393fd6603371fd68f9cb8f764d15db169bc402de132
+reviewed: d270fc0f7026d8b3720a102ba1dc6cd8c1f14accdcea13b3473068e2f0fc342b
 contracts:
 - project.inno-animation-assets#import-and-export-contract
 

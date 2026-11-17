@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.TaskHosting
 apiSurface: source-clr
-reviewed: 634411c87ec808e50e1d21a9cf6134cd2a5a31a1dddc02acd26543f70eff0b00
+reviewed: 4b1e862da4e3ab9198e7534c9d039751feedf54b0216a501a76d25afac0b5575
 contracts:
 - project.inno-build-taskhosting
 

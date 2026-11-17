@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Panel.Hierarchy
 apiSurface: source-clr
-reviewed: 97948386c4c7f3bf07a00875a5194ed8adc0090025163a413a59a96fc96883e8
+reviewed: 2eef624e4754cef4534c29c0e2b62e53ebf22dab543372911ab41bc5446ed3ff
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

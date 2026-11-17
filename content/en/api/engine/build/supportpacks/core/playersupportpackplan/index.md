@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.SupportPacks.Core
 apiSurface: source-clr
-reviewed: 5d9ac8a466432444e57a3c442c124a8af42a43f0417c182a5a0f6b1fb145e144
+reviewed: 473f317b4700e26b26301a36f5ac43a9b5e0b7b34f8488a24011844eef9f9f49
 contracts:
 - project.inno-build-supportpacks-core
 

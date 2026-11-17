@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Compiler
 apiSurface: source-clr
-reviewed: 689460a921f583dfc879c4671b69a998f3a8020849f3db91d6f9c66f6203aa6a
+reviewed: 51f84893982e5b1d1984db7b30668ba3b6c2d5cd38f24206ad9fee8ef2556153
 contracts:
 - project.inno-scripting-compiler
 

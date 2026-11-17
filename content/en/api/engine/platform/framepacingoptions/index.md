@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Platform
 apiSurface: source-clr
-reviewed: 7e2e57a2020ce8d6b35ec525a0320d074801702d34f9a06f2c67440d60f37ee5
+reviewed: 52f4d9b5650f99b3b454c7c905e532a429bddb070dee94413e7086c7acd34f53
 contracts:
 - project.inno-platform
 

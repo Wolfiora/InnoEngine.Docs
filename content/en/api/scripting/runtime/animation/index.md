@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-reviewed: 283da5f5824a27406fb53e752a3cf1cd30f781d851c60307fe0f283a86d20361
+reviewed: 8d2aba1a06a79ad1fd86d53b3f629dd96090b1dab29b479b3e89d947e9c0532e
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

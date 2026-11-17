@@ -3,7 +3,7 @@ import { expect, test } from '@playwright/test';
 test('page footer credits the creator and pagination stays within the current parent', async ({ page }) => {
   await page.goto('architecture/overview/');
   const pagination = page.getByRole('navigation', { name: 'Sibling pages' });
-  await expect(pagination.locator('[rel="prev"]')).toHaveAttribute('href', /\/architecture\//);
+  await expect(pagination.locator('[rel="prev"]')).toHaveCount(0);
   await expect(pagination.locator('[rel="next"]')).toHaveAttribute('href', /\/architecture\//);
   await expect(page.locator('.page-credit')).toContainText('Website created by FLwolfy');
   await expect(page.locator('.page-credit')).not.toContainText('XML');

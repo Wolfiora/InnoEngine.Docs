@@ -44,11 +44,19 @@ export function sharedNavigation(navigation, catalog, base = '/InnoEngine.Docs',
       const home = item.items.find(child => child.attrs?.['data-group-home'] === 'true');
       const key = home ? href(home.slug) : `${trail}/${label}`;
       if (home) trails.set(href(home.slug), ancestors);
-      const children = entries(item.items.filter(child => child !== home), key, [...ancestors, key]);
+      const api = home?.slug === 'api' || home?.slug?.startsWith('api/');
+      // Outside API, a group can never be a link. Preserve its landing page with
+      // a distinct, explicit overview label rather than a duplicate group entry.
+      const childrenInput = item.items.filter(child => api ? child !== home : true).map(child => {
+        const title = child.label ?? titles.get(child.slug);
+        return !api && title?.trim().toLowerCase() === label.trim().toLowerCase()
+          ? {...child, label: 'Overview of ' + title} : child;
+      });
+      const children = entries(childrenInput, key, [...ancestors, key]);
       const body = JSON.stringify(children);
       const id = createHash('sha256').update(body).digest('hex');
       chunks.set(id, body);
-      return { label, key, ...(home ? { href: href(home.slug) } : {}), children: `${base}/navigation-data/${id}.json` };
+      return { label, key, ...(home && api ? { href: href(home.slug) } : {}), children: `${base}/navigation-data/${id}.json` };
     });
   }
   const roots = entries(visible);

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
-reviewed: aacaf5ff429e86b38f18ff98520a697208892fd879645ae974ccaad6e0bcbc59
+reviewed: 203edde707eef232ec2719819c7853021d4b775fc3606d895e1e7ed1405769a7
 contracts:
 - project.inno-editor-assets
 

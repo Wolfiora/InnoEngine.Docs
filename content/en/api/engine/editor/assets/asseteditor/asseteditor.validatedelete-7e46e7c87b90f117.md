@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
-reviewed: 3b95f81806a288eea677758e7ccb1a2e2d1116c58b68fcf6513345ed1455322b
+reviewed: 637fb638bb1f9f40193194de894f3ebc4ca280922e7e3f0b80c83fb27c7bdaee
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

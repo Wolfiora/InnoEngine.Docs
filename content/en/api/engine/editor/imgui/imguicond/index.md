@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: abfe1a1795530567109abd22482608673b96274da5ff41f681cc6449eead0f70
+reviewed: 82a5fdc3d510ea2da32e076183cedb0712f6404429c721e4f7eec911d63fbebf
 contracts:
 - project.inno-editor-imgui
 

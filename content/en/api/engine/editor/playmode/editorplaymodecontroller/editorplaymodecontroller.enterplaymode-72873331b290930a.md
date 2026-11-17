@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.PlayMode
 apiSurface: source-clr
-reviewed: 702be4ac266579d666599fa22b56ebe5033c08cd22150b4365da6a9aea03afc9
+reviewed: 885b8c189c609000cfc720dbdab7f8743bce41778e0b7b1c990766a160e0921b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

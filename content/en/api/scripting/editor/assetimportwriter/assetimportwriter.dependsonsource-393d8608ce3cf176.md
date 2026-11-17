@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: editor-script
-reviewed: dcbc0d02acb6581d3b67af670cf7595b2b1d37efe264b19b29147ced5d4e6082
+reviewed: b8c5eec60113c19a917d88ea85d2c4758d74c6b748389ef1140280e7e1e455a9
 apiScope: Editor
 contracts: []
 

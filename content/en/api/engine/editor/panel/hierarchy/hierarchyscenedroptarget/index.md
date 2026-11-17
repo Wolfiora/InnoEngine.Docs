@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Panel.Hierarchy
 apiSurface: source-clr
-reviewed: b27d68af504b2146128198b396011edde269bf00fa3129def099a0b44ca294dd
+reviewed: 968bf9d06b21cd0d7535a175dec5fe28ad3b23f6012cbeb6d4d0f25ee622735b
 contracts:
 - project.inno-editor-panel-hierarchy
 

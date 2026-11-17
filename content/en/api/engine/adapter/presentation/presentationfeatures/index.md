@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Presentation
 apiSurface: source-clr
-reviewed: f3a6ddda0bbf62248e7eacde092970a33ef9d93927691be2127aaaf3ac90790e
+reviewed: b4b9b1c5ee209b8d1b668de6631f71c80fa74ab634b0d25868a3d79b07c9412c
 contracts:
 - project.inno-adapter-presentation
 

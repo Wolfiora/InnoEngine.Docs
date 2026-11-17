@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Storage
 apiSurface: editor-script
-reviewed: 4237ac57e2266c0979ed60c5f5f9bec7d43d761d6e53cb3fdc06cf0fb84c363a
+reviewed: 71f65428572931e0302c68dc3ab2d36246a9a17cb877094be8687a03b5d2ad77
 apiScope: Runtime
 contracts: []
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Audio
 apiSurface: source-clr
-reviewed: 907348aa5a262e7b01ff05c90c23d08222d77ca5d8e64a977ba2e72d75659b52
+reviewed: 1f5df8896e65f9fa60607933ae1a439e1a45ace7b8858af5c138222c95fb1871
 contracts:
 - project.inno-editor-audio
 

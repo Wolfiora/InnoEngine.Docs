@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: editor-script
-reviewed: d2660fc46bccd2815e65fa0e9bbe99aa7f8a9843b5f7052680f93fe87db920f1
+reviewed: 5e5e4e3965905783c854adaadf918945d846cbed30c57d16ca1debd0d6346a61
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

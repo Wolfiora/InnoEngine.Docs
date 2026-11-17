@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Authoring.Default
 apiSurface: source-clr
-reviewed: 0db89111ba788807423d64bf3afc899a5efe61f25c64967e0a2e6c8c48d088d0
+reviewed: 981257b0b9aa645bee7e4787b354334ad9edc5b59bd81925fbebb25e83457f41
 contracts:
 - project.inno-adapter-authoring-default
 

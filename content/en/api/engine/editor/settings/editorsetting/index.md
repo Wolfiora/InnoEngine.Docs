@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Settings
 apiSurface: source-clr
-reviewed: 0fbcc0965440e4e0532c75d2def795426bdfc17433f0592fad31143c7c2b58af
+reviewed: f9e748bdc6ddc4e4f141deb9edee36ba9cc755ff13a9ccd942ef5214c25cf476
 contracts:
 - api.projects.inno-editor-settings#identity-and-use-contracts
 

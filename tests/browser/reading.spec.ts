@@ -127,6 +127,9 @@ for (const theme of ['light', 'dark'] as const) {
 test('generic type navigation preserves parameter names and existing deep links', async ({ page }) => {
   await page.goto('api/scripting/editor/');
   const main = page.getByRole('main');
+  await main.getByRole('link', { name: 'Editor', exact: true }).click();
+  await main.getByRole('link', { name: 'Interactions', exact: true }).click();
+  await expect(page).toHaveURL(/\/api\/scripting\/editor\/_projects\/editor\/interactions\/$/);
   await expect(main.getByRole('link', { name: 'EditorAction', exact: true })).toHaveCount(1);
   await expect(main.getByRole('link', { name: 'EditorAction<TTarget>', exact: true })).toHaveCount(1);
   const generic = main.getByRole('link', { name: 'EditorAction<TTarget, TArgument>', exact: true });
@@ -174,16 +177,17 @@ test('script references expose caller obligations and exact declarations', async
   }
 });
 
-test('API directories expose project trees and only populated script letters', async ({ page }) => {
+test('Engine and Scripting directories expose the same owning-project hierarchy', async ({ page }) => {
   await page.goto('api/engine/core/collections/');
   const graph = page.getByRole('main').getByRole('link', { name: 'DependencyGraph<TKey>', exact: true });
   await expect(graph).toBeVisible();
   await graph.click();
   await expect(page.locator('h1')).toContainText('DependencyGraph');
   await page.goto('api/scripting/runtime/');
-  const letters = await page.getByRole('main').locator('h2').allTextContents();
-  expect(letters.length).toBeGreaterThan(0);
-  expect(letters.every(value => /^[A-Z]$|^Other$/.test(value.trim()))).toBe(true);
+  await expect(page.getByRole('main').getByRole('heading', { name: 'Categories', exact: true })).toBeVisible();
+  await page.getByRole('main').getByRole('link', { name: 'Scene', exact: true }).click();
+  await expect(page).toHaveURL(/scripting\/runtime\/_projects\/scene\//);
+  await expect(page.getByRole('main').getByRole('heading', { name: 'Types', exact: true })).toBeVisible();
   await expect(page.getByRole('main').getByRole('link', { name: 'SceneManager', exact: true })).toBeVisible();
 });
 
@@ -264,7 +268,17 @@ test('shared sidebar loads only expanded groups, links homes and animates both d
   await toggle('Scripting').click();
   await toggle('Authoring').click();
   const authoring = sidebar.locator('li[data-key="/InnoEngine.Docs/api/scripting/authoring/"]');
-  const links = authoring.locator(':scope > .children > .children-inner > ul > li > .nav-row > a');
+  const scopeLinks = authoring.locator(':scope > .children > .children-inner > ul > li > .nav-row > a');
+  await expect(scopeLinks).toHaveText(['Editor']);
+  for (const category of ['editor', 'editor/annotations']) {
+    const project = authoring.locator(`li[data-key="/InnoEngine.Docs/api/scripting/authoring/_projects/${category}/"]`);
+    const button = project.locator(':scope > .nav-row > button');
+    await button.click();
+    await expect(button).toHaveAttribute('aria-expanded', 'true');
+    await expect(button.locator('.chevron')).toHaveCount(0);
+  }
+  const annotations = authoring.locator('li[data-key="/InnoEngine.Docs/api/scripting/authoring/_projects/editor/annotations/"]');
+  const links = annotations.locator(':scope > .children > .children-inner > ul > li > .nav-row > a');
   await expect(links.filter({ hasText: 'HeaderAttribute' })).toBeVisible();
   const names = await links.allTextContents();
   expect(names).toEqual([...names].sort((a,b)=>a.localeCompare(b,'en',{sensitivity:'base'})));
@@ -274,13 +288,14 @@ test('shared sidebar loads only expanded groups, links homes and animates both d
   const count = requested.length;
   await toggle('Authoring').click();
   await expect(panel).toBeVisible();
+  await expect(links.filter({ hasText: 'HeaderAttribute' })).toBeVisible();
   expect(requested).toHaveLength(count);
   await page.screenshot({ path: testInfo.outputPath('shared-categories.png') });
   await authoring.locator(':scope > .nav-row > a').click();
   await expect(page).toHaveURL(/\/api\/scripting\/authoring\/$/);
 });
 
-test('sidebar rows align controls, distinguish root disclosures and grow within two fifths of the desktop', async ({ page }, testInfo) => {
+test('sidebar rows align controls, distinguish root disclosures and grow within one third of the desktop', async ({ page }, testInfo) => {
   await page.goto('api/');
   const menu = page.getByRole('button', { name: /Menu/ });
   if (await menu.isVisible()) await menu.click();
@@ -330,7 +345,7 @@ test('sidebar rows align controls, distinguish root disclosures and grow within 
   })).toBeGreaterThanOrEqual(gaps.right - 1);
   if (testInfo.project.name !== 'mobile') {
     await expect.poll(() => page.locator('.sidebar-pane').evaluate(el => el.getBoundingClientRect().width)).toBeGreaterThan(initialWidth + 1);
-    await expect.poll(() => page.evaluate(() => document.querySelector('.sidebar-pane')!.getBoundingClientRect().width)).toBeLessThanOrEqual(page.viewportSize()!.width * .4 + 1);
+    await expect.poll(() => page.evaluate(() => document.querySelector('.sidebar-pane')!.getBoundingClientRect().width)).toBeLessThanOrEqual(page.viewportSize()!.width / 3 + 1);
   }
   const leaf = audio.locator(':scope > .children .nav-row > a').first();
   const normalWeight = await leaf.evaluate(el => getComputedStyle(el).fontWeight);

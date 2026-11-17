@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: d6b4a2be3b2d88516e06b4741928c9e4d1030ccc0be2a9d60ff65e318919472e
+reviewed: acbd2693dae39418532c117e1ae826ce920753a43001df3c5415d2e86264ca3d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

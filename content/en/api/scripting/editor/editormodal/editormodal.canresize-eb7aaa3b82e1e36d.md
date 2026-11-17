@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-reviewed: 49a8f920e73511cb0b4768ee5923e1cf96affa3222164ca6b45ff0db25b7df94
+reviewed: 89f6d30ae3a28864a525d6e0cc29145c8d8c21b34a631bc4f2df7d71d8be0934
 apiScope: Editor
 contracts: []
 

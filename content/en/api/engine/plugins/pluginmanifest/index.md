@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Plugins
 apiSurface: source-clr
-reviewed: 78b9289738ebea97908a1090380b0304242e26e7618c73177c7dc017696b1d1a
+reviewed: 69f785330ea8018a65d651b13af8ad264a97cfea181c2cba6f5608b3a084b257
 contracts:
 - project.inno-plugins#manifest-contract
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.PlayMode
 apiSurface: editor-script
-reviewed: 6f63bd5174fed98933b458365c5990029a0cbac23991d0e771b54fb3a19f496c
+reviewed: 3881067e592e728231daf4fbd697a7ca5a04b5dd83aa6054fe6498ce558d6a52
 apiScope: Editor
 contracts: []
 

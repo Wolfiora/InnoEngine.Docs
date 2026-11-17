@@ -1,64 +1,118 @@
 {
-  "projectManifestIdentity": "613ab06bf5daf67032778bfc9b5762e9e25ec7576fb0f1c836339859d530cf66",
-  "toolingRevision": "d16c4d2dfee9c9e7ab15d3b399ee12f2551c6167",
-  "repository": "https://github.com/Wolfiora/InnoEngine",
-  "projectManifest": "reference/projects/catalog.json",
   "apiManifests": [
     {
-      "target": "macos-arm64",
-      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "sourceRevision": "32cd34c21e4bc0c29d9989cf28c745bd1316fecb",
       "configuration": "Debug",
+      "model": "editor-script",
       "path": "reference/api/Debug-macos-arm64-editor-script.json",
-      "model": "editor-script",
-      "sha256": "31ed80a99c5c6c261b92fdbed648f93b772877b82cd5cee1b860b58dac11cfc8",
-      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
+      "sourceTree": "ab43149ab107ca3195489f06b65854b292a1ceb0",
+      "target": "macos-arm64",
+      "sha256": "48bec67f43868ed8e1021c4ac8ae264960d6918e2a87dffc0135dfe5aa57b1fd"
     },
     {
-      "target": "macos-arm64",
-      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "sourceRevision": "32cd34c21e4bc0c29d9989cf28c745bd1316fecb",
       "configuration": "Debug",
+      "model": "runtime-script",
       "path": "reference/api/Debug-macos-arm64-runtime-script.json",
-      "model": "runtime-script",
-      "sha256": "bb770ada763dfb0880e5a3f299151751bc05de30dbf161951aa69da7191dc354",
-      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
-    },
-    {
+      "sourceTree": "ab43149ab107ca3195489f06b65854b292a1ceb0",
       "target": "macos-arm64",
-      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "sha256": "72ed9711e8323343683f8e4746f89ef202e101032625abd2619f9cebfe7db8e7"
+    },
+    {
+      "sourceRevision": "32cd34c21e4bc0c29d9989cf28c745bd1316fecb",
       "configuration": "Debug",
+      "model": "source-clr",
       "path": "reference/api/Debug-macos-arm64-source-clr.json",
-      "model": "source-clr",
-      "sha256": "5b9a7cdf9216680de1aa51de100c2f9e23bfa32189d05d4c2146e7bedaede760",
-      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
+      "sourceTree": "ab43149ab107ca3195489f06b65854b292a1ceb0",
+      "target": "macos-arm64",
+      "sha256": "6af8cee78f070d6a63adccdba3e79dc98b68dac540bb1a6e351d235c572a3e05"
     },
     {
-      "target": "windows-x64",
-      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "sourceRevision": "32cd34c21e4bc0c29d9989cf28c745bd1316fecb",
       "configuration": "Debug",
-      "path": "reference/api/Debug-windows-x64-editor-script.json",
       "model": "editor-script",
-      "sha256": "b37535bf10b1e4cb3ed69cad3b0e23b234596e01ac18125faa4458413cbda3f1",
-      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
+      "path": "reference/api/Debug-windows-x64-editor-script.json",
+      "sourceTree": "ab43149ab107ca3195489f06b65854b292a1ceb0",
+      "target": "windows-x64",
+      "sha256": "da780a86d50130cf1b4bec3bf2c5a07f073bad5869c9ece7e520c134c246a385"
     },
     {
-      "target": "windows-x64",
-      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "sourceRevision": "32cd34c21e4bc0c29d9989cf28c745bd1316fecb",
       "configuration": "Debug",
-      "path": "reference/api/Debug-windows-x64-runtime-script.json",
       "model": "runtime-script",
-      "sha256": "9e17e56f958c30472acde963c02d4b35d3ac8ead523a1f2d26d8f856970bf7da",
-      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
+      "path": "reference/api/Debug-windows-x64-runtime-script.json",
+      "sourceTree": "ab43149ab107ca3195489f06b65854b292a1ceb0",
+      "target": "windows-x64",
+      "sha256": "d4b0222d1574ff365f5a44c23beab568a84bfb7be371c14905bdf8ccd51c5679"
     },
     {
-      "target": "windows-x64",
-      "sourceRevision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
+      "sourceRevision": "32cd34c21e4bc0c29d9989cf28c745bd1316fecb",
       "configuration": "Debug",
-      "path": "reference/api/Debug-windows-x64-source-clr.json",
       "model": "source-clr",
-      "sha256": "85d22a5333ef8995b91e51137c6a437b97725384201c0c462d76033913827cf9",
-      "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
+      "path": "reference/api/Debug-windows-x64-source-clr.json",
+      "sourceTree": "ab43149ab107ca3195489f06b65854b292a1ceb0",
+      "target": "windows-x64",
+      "sha256": "b119729f9fc0bccfb05eaa3f28c2c9972729fb51297f8f1b7d6f1709fb0692c3"
+    },
+    {
+      "sourceRevision": "32cd34c21e4bc0c29d9989cf28c745bd1316fecb",
+      "configuration": "Release",
+      "model": "editor-script",
+      "path": "reference/api/Release-macos-arm64-editor-script.json",
+      "sourceTree": "ab43149ab107ca3195489f06b65854b292a1ceb0",
+      "target": "macos-arm64",
+      "sha256": "55d85405092b0cb47c5def3f39329d96e4397f8f1a44e68b86b00511d6f9a002"
+    },
+    {
+      "sourceRevision": "32cd34c21e4bc0c29d9989cf28c745bd1316fecb",
+      "configuration": "Release",
+      "model": "runtime-script",
+      "path": "reference/api/Release-macos-arm64-runtime-script.json",
+      "sourceTree": "ab43149ab107ca3195489f06b65854b292a1ceb0",
+      "target": "macos-arm64",
+      "sha256": "cc27ad44047d610ae492cd46d1b36e60527d63f20055e7a0a6cb559cb8f4374f"
+    },
+    {
+      "sourceRevision": "32cd34c21e4bc0c29d9989cf28c745bd1316fecb",
+      "configuration": "Release",
+      "model": "source-clr",
+      "path": "reference/api/Release-macos-arm64-source-clr.json",
+      "sourceTree": "ab43149ab107ca3195489f06b65854b292a1ceb0",
+      "target": "macos-arm64",
+      "sha256": "916113a71472815172eb41440f36611aba6c75b4283d41aaf1a8a1691b38ba6d"
+    },
+    {
+      "sourceRevision": "32cd34c21e4bc0c29d9989cf28c745bd1316fecb",
+      "configuration": "Release",
+      "model": "editor-script",
+      "path": "reference/api/Release-windows-x64-editor-script.json",
+      "sourceTree": "ab43149ab107ca3195489f06b65854b292a1ceb0",
+      "target": "windows-x64",
+      "sha256": "bde83e5d341aa635985f9ee6ff6c7ce17d091590ac2820545d50157910bbd2f2"
+    },
+    {
+      "sourceRevision": "32cd34c21e4bc0c29d9989cf28c745bd1316fecb",
+      "configuration": "Release",
+      "model": "runtime-script",
+      "path": "reference/api/Release-windows-x64-runtime-script.json",
+      "sourceTree": "ab43149ab107ca3195489f06b65854b292a1ceb0",
+      "target": "windows-x64",
+      "sha256": "90eda8d5a27b955ad5695bfedaac19ab95a92dc885083911778dea676ea7e639"
+    },
+    {
+      "sourceRevision": "32cd34c21e4bc0c29d9989cf28c745bd1316fecb",
+      "configuration": "Release",
+      "model": "source-clr",
+      "path": "reference/api/Release-windows-x64-source-clr.json",
+      "sourceTree": "ab43149ab107ca3195489f06b65854b292a1ceb0",
+      "target": "windows-x64",
+      "sha256": "8c522452ac6b060c3ba309e47c4b5de84b79c3e6aa689a44bcb33b98617e0f35"
     }
   ],
-  "revision": "6eca1055adf859efd335bccb7761552ec5de9fd6",
-  "sourceTree": "dba1999f23771933e2326b82116882ef5386a3e1"
+  "projectManifestIdentity": "7553e996014f3861f22207e1308c5affacbda17a6665f11302385f7a552b1214",
+  "repository": "https://github.com/Wolfiora/InnoEngine",
+  "sourceTree": "ab43149ab107ca3195489f06b65854b292a1ceb0",
+  "revision": "32cd34c21e4bc0c29d9989cf28c745bd1316fecb",
+  "toolingRevision": "8d5ddc8a00463852667170afcb4c33986ee0767c",
+  "projectManifest": "reference/projects/catalog.json"
 }

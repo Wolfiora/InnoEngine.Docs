@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Panel.Inspector
 apiSurface: source-clr
-reviewed: 79b2e0273fdf5dc8848d5b26862e0a936b53d78066c9ca78d181c6825eb877b5
+reviewed: a9f58b6eee70c8a3ae378823ba87ed4ded8523d9f3b8fba9c8729df0e5deabe8
 contracts:
 - project.inno-editor-panel-inspector
 

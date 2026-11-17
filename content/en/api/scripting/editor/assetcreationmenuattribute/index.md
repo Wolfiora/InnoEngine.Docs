@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: editor-script
-reviewed: 811681fbb80c4779f7c4b60f5498a8247d466fc9526c1aa3b5dabe3072320f82
+reviewed: 05a2ce3191c8f74bd24f39e8f481672be30cfe762b1d59e24e058a166c7532eb
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

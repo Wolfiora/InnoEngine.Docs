@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: editor-script
-reviewed: 3240a71d0cf41c605ff7a08c0cb5978916c63e64dda685ca10e79ff5c22f7241
+reviewed: b3000eba42b4bf726e7cc42693a3e8afd687a08eeaa38ad43f3a41eb82944925
 apiScope: Runtime
 contracts: []
 

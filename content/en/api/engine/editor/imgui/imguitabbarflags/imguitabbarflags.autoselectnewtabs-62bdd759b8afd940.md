@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 5d6b9ca4dd9fb578b06d207cff42441c370cd4624180e387e53bfd96bf019b6a
+reviewed: 52c833e8d28d44cbe9702207ac85a82374dc12f9cee37d6f7b9f6485d704729c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

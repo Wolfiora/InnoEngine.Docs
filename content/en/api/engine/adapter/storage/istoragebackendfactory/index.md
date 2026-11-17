@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Storage
 apiSurface: source-clr
-reviewed: 0a54812aa82428d38a9d3fc4c2ae440428f31725128bfe58851626c40650f8d3
+reviewed: 500500f8958d68f3a9f309b69b227b6f36c83b0365eba0a9d861388c1fcd2365
 contracts:
 - project.inno-adapter-storage#ownership-and-scope-contract
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 2429d97b470807da4b101ec077684843c0c79ec0bb0ca7eaa56e61d699909fb7
+reviewed: 274d079738e714cda03130fb127f88a0e4894d2236d3c3b6b106c8cf52cb3bb6
 apiScope: Runtime
 contracts: []
 

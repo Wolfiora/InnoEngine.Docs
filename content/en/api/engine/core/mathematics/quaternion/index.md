@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 3fd0606c13281ac7005b30c16cf7eeedbdeb9af244bad14d918f642576eb2505
+reviewed: 6aaa267c146745c5cb31164ceda351ad32f0fbff08e9d083d038bbdb9c5ddddb
 contracts:
 - project.inno-core-mathematics#numeric-and-layout-contract
 

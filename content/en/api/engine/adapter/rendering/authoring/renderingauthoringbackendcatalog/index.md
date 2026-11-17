@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Rendering.Authoring
 apiSurface: source-clr
-reviewed: 0fe0ffc02247bb0dd656caf2652bb0463151f415b7fdac24c48596a6981ee643
+reviewed: a3b25bfb697c3f30d18dba9c3be6360659d78952abb3cf798ee104807f480ca8
 contracts:
 - project.inno-adapter-rendering-authoring
 

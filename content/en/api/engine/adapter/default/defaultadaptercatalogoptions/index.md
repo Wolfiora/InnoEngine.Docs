@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Default
 apiSurface: source-clr
-reviewed: 5633e9ed3c462bc21e373b170a6e32762e5e14654cca7e7747388ec40b92504d
+reviewed: 057410718766e2a8f9aed34e43e6876deae17ba3d8d8bc439f2758c11b77da63
 contracts:
 - project.inno-adapter-default
 
