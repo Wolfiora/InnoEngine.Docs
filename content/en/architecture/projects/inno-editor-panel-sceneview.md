@@ -1,9 +1,19 @@
 ---
-title: Inno.Editor.Panel.SceneView
-description: "Internal Scene viewport host with neutral navigation and transactional transform editing."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-panel-sceneview
+symbol: project:Inno.Editor.Panel.SceneView
+title: Inno.Editor.Panel.SceneView
 kind: project
-owners: [Inno.Editor.Panel.SceneView]
+owners:
+- Inno.Editor.Panel.SceneView
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Internal Scene viewport host with neutral navigation and transactional transform editing.
+outdated: true
 ---
 # Inno.Editor.Panel.SceneView
 

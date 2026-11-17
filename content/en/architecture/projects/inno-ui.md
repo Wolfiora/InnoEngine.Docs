@@ -1,10 +1,19 @@
 ---
-title: Inno.UI
-description: Backend-neutral retained documents, execution scopes, input, events and immutable rendering deltas.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-ui
+symbol: project:Inno.UI
+title: Inno.UI
 kind: project
 owners:
-  - Inno.UI
+- Inno.UI
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Backend-neutral retained documents, execution scopes, input, events and immutable rendering deltas.
+outdated: true
 ---
 # Inno.UI
 

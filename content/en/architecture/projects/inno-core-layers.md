@@ -1,10 +1,19 @@
 ---
-title: Inno.Core.Layers
-description: Ordered host lifecycle participants with independent event scopes and deterministic render unwind.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-core-layers
+symbol: project:Inno.Core.Layers
+title: Inno.Core.Layers
 kind: project
 owners:
-  - Inno.Core.Layers
+- Inno.Core.Layers
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Ordered host lifecycle participants with independent event scopes and deterministic render unwind.
+outdated: true
 ---
 # Inno.Core.Layers
 

@@ -1,11 +1,22 @@
 ---
-title: Inno.Rendering.Assets
-description: "Persistent neutral shader, material, texture, geometry and pipeline assets."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-rendering-assets
+symbol: project:Inno.Rendering.Assets
+title: Inno.Rendering.Assets
 kind: project
-owners: [Inno.Rendering.Assets]
+owners:
+- Inno.Rendering.Assets
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Persistent neutral shader, material, texture, geometry and pipeline assets.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Rendering.Assets]
+exampleProjects:
+- Inno.Rendering.Assets
 ---
 # Inno.Rendering.Assets
 

@@ -1,11 +1,22 @@
 ---
-title: Inno.Runtime.Contracts
-description: "Neutral subsystem lifecycle, finite frame phases and owned retirement protocols."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-runtime-contracts
+symbol: project:Inno.Runtime.Contracts
+title: Inno.Runtime.Contracts
 kind: project
-owners: [Inno.Runtime.Contracts]
+owners:
+- Inno.Runtime.Contracts
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Neutral subsystem lifecycle, finite frame phases and owned retirement protocols.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Runtime.Contracts]
+exampleProjects:
+- Inno.Runtime.Contracts
 ---
 # Inno.Runtime.Contracts
 

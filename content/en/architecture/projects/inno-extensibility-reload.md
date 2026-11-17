@@ -1,10 +1,19 @@
 ---
-title: Inno.Extensibility.Reload
-description: Shared generation admission, ordered domain publication and weak collectible-unload verification.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-extensibility-reload
+symbol: project:Inno.Extensibility.Reload
+title: Inno.Extensibility.Reload
 kind: project
 owners:
-  - Inno.Extensibility.Reload
+- Inno.Extensibility.Reload
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Shared generation admission, ordered domain publication and weak collectible-unload verification.
+outdated: true
 ---
 # Inno.Extensibility.Reload
 

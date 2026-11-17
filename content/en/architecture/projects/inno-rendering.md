@@ -1,11 +1,22 @@
 ---
-title: Inno.Rendering
-description: "Neutral devices, resources, commands and transactional render graphs."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-rendering
+symbol: project:Inno.Rendering
+title: Inno.Rendering
 kind: project
-owners: [Inno.Rendering]
+owners:
+- Inno.Rendering
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Neutral devices, resources, commands and transactional render graphs.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Rendering]
+exampleProjects:
+- Inno.Rendering
 ---
 # Inno.Rendering
 

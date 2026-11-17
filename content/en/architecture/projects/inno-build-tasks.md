@@ -1,9 +1,19 @@
 ---
-title: Inno.Build.Tasks
-description: "Thin MSBuild adapters for the engine's existing generation, shader and product preparation libraries."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-build-tasks
+symbol: project:Inno.Build.Tasks
+title: Inno.Build.Tasks
 kind: project
-owners: [Inno.Build.Tasks]
+owners:
+- Inno.Build.Tasks
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Thin MSBuild adapters for the engine's existing generation, shader and product preparation libraries.
+outdated: true
 ---
 # Inno.Build.Tasks
 

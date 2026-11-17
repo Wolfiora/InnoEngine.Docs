@@ -1,11 +1,22 @@
 ---
-title: Inno.Editor.Scene
-description: "Scene document ownership, persistent-ID edits, minimal reversible History and atomic Edit/Play presentation."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-scene
+symbol: project:Inno.Editor.Scene
+title: Inno.Editor.Scene
 kind: project
-owners: [Inno.Editor.Scene]
+owners:
+- Inno.Editor.Scene
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Scene document ownership, persistent-ID edits, minimal reversible History and atomic Edit/Play presentation.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Editor.Scene]
+exampleProjects:
+- Inno.Editor.Scene
 ---
 # Inno.Editor.Scene
 

@@ -1,9 +1,19 @@
 ---
-title: Inno.Build.TaskHosting
-description: "Leased Task bootstrap, immutable runtime publication and private process loading."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-build-taskhosting
+symbol: project:Inno.Build.TaskHosting
+title: Inno.Build.TaskHosting
 kind: project
-owners: [Inno.Build.TaskHosting]
+owners:
+- Inno.Build.TaskHosting
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Leased Task bootstrap, immutable runtime publication and private process loading.
+outdated: true
 ---
 # Inno.Build.TaskHosting
 

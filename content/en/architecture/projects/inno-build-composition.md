@@ -1,11 +1,22 @@
 ---
-title: Inno.Build.Composition
-description: "Explicit platform, content and deployment contributions for an owned build pipeline."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-build-composition
+symbol: project:Inno.Build.Composition
+title: Inno.Build.Composition
 kind: project
-owners: [Inno.Build.Composition]
+owners:
+- Inno.Build.Composition
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Explicit platform, content and deployment contributions for an owned build pipeline.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Build.Composition]
+exampleProjects:
+- Inno.Build.Composition
 ---
 # Inno.Build.Composition
 

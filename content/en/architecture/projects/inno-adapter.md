@@ -1,11 +1,22 @@
 ---
-title: Inno.Adapter
-description: "Explicit selection and preflight for seven neutral runtime backend families."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-adapter
+symbol: project:Inno.Adapter
+title: Inno.Adapter
 kind: project
-owners: [Inno.Adapter]
+owners:
+- Inno.Adapter
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Explicit selection and preflight for seven neutral runtime backend families.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Adapter]
+exampleProjects:
+- Inno.Adapter
 ---
 # Inno.Adapter
 

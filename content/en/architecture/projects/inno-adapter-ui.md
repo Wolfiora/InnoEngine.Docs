@@ -1,10 +1,19 @@
 ---
-title: Inno.Adapter.UI
-description: Explicit UI backend identities, providers and deterministic product composition.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-adapter-ui
+symbol: project:Inno.Adapter.UI
+title: Inno.Adapter.UI
 kind: project
 owners:
-  - Inno.Adapter.UI
+- Inno.Adapter.UI
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Explicit UI backend identities, providers and deterministic product composition.
+outdated: true
 ---
 # Inno.Adapter.UI
 

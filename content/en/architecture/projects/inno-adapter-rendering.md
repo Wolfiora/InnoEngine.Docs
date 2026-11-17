@@ -1,11 +1,22 @@
 ---
-title: Inno.Adapter.Rendering
-description: "Explicit runtime rendering providers without backend-native types or compiler dependencies."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-adapter-rendering
+symbol: project:Inno.Adapter.Rendering
+title: Inno.Adapter.Rendering
 kind: project
-owners: [Inno.Adapter.Rendering]
+owners:
+- Inno.Adapter.Rendering
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Explicit runtime rendering providers without backend-native types or compiler dependencies.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Adapter.Rendering]
+exampleProjects:
+- Inno.Adapter.Rendering
 ---
 # Inno.Adapter.Rendering
 

@@ -1,12 +1,20 @@
 ---
-title: Inno.Audio
-description: Backend-neutral playback, mixer, content-provider and device contracts.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-audio
+symbol: project:Inno.Audio
+title: Inno.Audio
 kind: project
 owners:
-  - Inno.Audio
+- Inno.Audio
+reviewed: ''
 contracts:
-  - architecture.audio-lifetime#ownership-and-generation-contract
+- architecture.audio-lifetime#ownership-and-generation-contract
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Backend-neutral playback, mixer, content-provider and device contracts.
+outdated: true
 ---
 # Inno.Audio
 

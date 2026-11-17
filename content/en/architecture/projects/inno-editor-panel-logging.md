@@ -1,14 +1,21 @@
 ---
-title: Inno.Editor.Panel.Logging
-description: The host-driven Console panel that presents historical logs and
-  current diagnostics.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-panel-logging
+symbol: project:Inno.Editor.Panel.Logging
+title: Inno.Editor.Panel.Logging
 kind: project
 owners:
-  - Inno.Editor.Panel.Logging
+- Inno.Editor.Panel.Logging
+reviewed: ''
 contracts:
-  - manual.editor.console
-  - architecture.ownership
+- manual.editor.console
+- architecture.ownership
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- The host-driven Console panel that presents historical logs and current diagnostics.
+outdated: true
 ---
 # Inno.Editor.Panel.Logging
 

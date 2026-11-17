@@ -1,10 +1,19 @@
 ---
-title: Inno.Input.Runtime
-description: Session ownership and frame-scoped access for a selected input backend.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-input-runtime
+symbol: project:Inno.Input.Runtime
+title: Inno.Input.Runtime
 kind: project
 owners:
-  - Inno.Input.Runtime
+- Inno.Input.Runtime
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Session ownership and frame-scoped access for a selected input backend.
+outdated: true
 ---
 # Inno.Input.Runtime
 

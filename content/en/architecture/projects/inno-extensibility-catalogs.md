@@ -1,10 +1,19 @@
 ---
-title: Inno.Extensibility.Catalogs
-description: Dependency-light discovery facts and static registration contracts owned by each contributing assembly.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-extensibility-catalogs
+symbol: project:Inno.Extensibility.Catalogs
+title: Inno.Extensibility.Catalogs
 kind: project
 owners:
-  - Inno.Extensibility.Catalogs
+- Inno.Extensibility.Catalogs
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Dependency-light discovery facts and static registration contracts owned by each contributing assembly.
+outdated: true
 ---
 # Inno.Extensibility.Catalogs
 

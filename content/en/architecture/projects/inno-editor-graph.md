@@ -1,9 +1,19 @@
 ---
-title: Inno.Editor.Graph
-description: "Neutral graph editing sessions, weak controllers, canvas interaction state and recoverable History."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-graph
+symbol: project:Inno.Editor.Graph
+title: Inno.Editor.Graph
 kind: project
-owners: [Inno.Editor.Graph]
+owners:
+- Inno.Editor.Graph
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Neutral graph editing sessions, weak controllers, canvas interaction state and recoverable History.
+outdated: true
 ---
 # Inno.Editor.Graph
 

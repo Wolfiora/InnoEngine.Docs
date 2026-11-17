@@ -1,14 +1,21 @@
 ---
-title: Inno.Editor.Core
-description: Presentation-independent Editor context, extension lifecycle, frame
-  statistics and reload coordination.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: api.projects.inno-editor-core
+symbol: project:Inno.Editor.Core
+title: Inno.Editor.Core
 kind: project
 owners:
-  - Inno.Editor.Core
+- Inno.Editor.Core
+reviewed: ''
 contracts:
-  - architecture.editor-generations
-  - architecture.ownership
+- architecture.editor-generations
+- architecture.ownership
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Presentation-independent Editor context, extension lifecycle, frame statistics and reload coordination.
+outdated: true
 ---
 # Inno.Editor.Core
 

@@ -1,9 +1,19 @@
 ---
-title: Inno.Adapter.Rendering.Authoring
-description: "Backend-matched shader and texture compiler factories for authoring hosts."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-adapter-rendering-authoring
+symbol: project:Inno.Adapter.Rendering.Authoring
+title: Inno.Adapter.Rendering.Authoring
 kind: project
-owners: [Inno.Adapter.Rendering.Authoring]
+owners:
+- Inno.Adapter.Rendering.Authoring
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Backend-matched shader and texture compiler factories for authoring hosts.
+outdated: true
 ---
 # Inno.Adapter.Rendering.Authoring
 

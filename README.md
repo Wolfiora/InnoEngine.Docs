@@ -136,3 +136,15 @@ AI queries use the engine's existing Build `docs` command group. Select an expli
 ## License
 
 Documentation follows the engine's Apache-2.0 license unless an individual asset states otherwise. InnoEngine branding retains its separate license and attribution.
+
+## Project guide ownership
+
+Engine project guides use the same editorial ownership policy as API explanations. They remain ordinary project pages with disclosure-only navigation; they do not gain API member controls. Their registration is maintained in `reference/projects/content.json`.
+
+- Generated metadata: `uid`, `symbol`, `title`, `kind`, `owners`, `reviewed`, and `contracts`. Do not edit these fields to change source facts.
+- Authoring metadata: `source`, `description`, `outdated`, and optional aliases. `source: xml` (or an absent source field in a registered guide) permits synchronization to regenerate the body from the selected project source/XML facts. A nonempty author name protects the body.
+- `description: null` leaves the default description to the source/content pipeline. A nonempty list supplies the project introduction and the Purpose text in category tables. For example, `description: ["Select audio providers for a host composition."]` changes the Audio category explanation without editing a generated category page.
+- Synced identifies generated content. Outdated identifies a named-author explanation needing review after project/API/XML changes or an explicit review request. Verified means there is no outstanding source-review marker; it is not proof of semantic correctness.
+- After reviewing a named-author guide, run `npm run docs:review -- content/en/architecture/projects/<guide>.md`. The review tool updates `reviewed` and clears `outdated`; do not fabricate the fingerprint manually.
+
+Existing project prose was retained during migration and attributed to InnoEngine contributors, with review requested. Synchronization never replaces those explanations merely because the old pages lacked an ownership marker. Unregistered Manual and tutorial pages are outside this mechanism.

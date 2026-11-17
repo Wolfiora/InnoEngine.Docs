@@ -1,10 +1,19 @@
 ---
-title: Inno.Core.Execution
-description: Revocable execution bindings, admitted asynchronous work and dependency-safe retirement for host owners.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-core-execution
+symbol: project:Inno.Core.Execution
+title: Inno.Core.Execution
 kind: project
 owners:
-  - Inno.Core.Execution
+- Inno.Core.Execution
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Revocable execution bindings, admitted asynchronous work and dependency-safe retirement for host owners.
+outdated: true
 ---
 # Inno.Core.Execution
 

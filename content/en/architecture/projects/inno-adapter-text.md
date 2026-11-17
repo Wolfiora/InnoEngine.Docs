@@ -1,10 +1,19 @@
 ---
-title: Inno.Adapter.Text
-description: Explicit host selection and provider snapshots for text backends.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-adapter-text
+symbol: project:Inno.Adapter.Text
+title: Inno.Adapter.Text
 kind: project
 owners:
-  - Inno.Adapter.Text
+- Inno.Adapter.Text
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Explicit host selection and provider snapshots for text backends.
+outdated: true
 ---
 # Inno.Adapter.Text
 

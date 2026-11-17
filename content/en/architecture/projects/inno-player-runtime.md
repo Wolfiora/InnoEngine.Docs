@@ -1,11 +1,22 @@
 ---
-title: Inno.Player.Runtime
-description: "Shared desktop and Browser Player launch, content validation and application lifetime."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-player-runtime
+symbol: project:Inno.Player.Runtime
+title: Inno.Player.Runtime
 kind: project
-owners: [Inno.Player.Runtime]
+owners:
+- Inno.Player.Runtime
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Shared desktop and Browser Player launch, content validation and application lifetime.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Player.Runtime]
+exampleProjects:
+- Inno.Player.Runtime
 ---
 # Inno.Player.Runtime
 

@@ -1,9 +1,19 @@
 ---
-title: Inno.Scripting.Reload
-description: Compile, prepare, activate and retire one project's complete authoring generation.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-scripting-reload
+symbol: project:Inno.Scripting.Reload
+title: Inno.Scripting.Reload
 kind: project
-owners: [Inno.Scripting.Reload]
+owners:
+- Inno.Scripting.Reload
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Compile, prepare, activate and retire one project's complete authoring generation.
+outdated: true
 ---
 # Inno.Scripting.Reload
 

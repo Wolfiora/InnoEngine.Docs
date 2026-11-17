@@ -1,10 +1,19 @@
 ---
-title: Inno.Adapter.Audio
-description: Explicit audio backend selection and composition-owned provider catalogs.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-adapter-audio
+symbol: project:Inno.Adapter.Audio
+title: Inno.Adapter.Audio
 kind: project
 owners:
-  - Inno.Adapter.Audio
+- Inno.Adapter.Audio
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Explicit audio backend selection and composition-owned provider catalogs.
+outdated: true
 ---
 # Inno.Adapter.Audio
 

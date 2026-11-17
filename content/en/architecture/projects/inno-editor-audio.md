@@ -1,11 +1,22 @@
 ---
-title: Inno.Editor.Audio
-description: "Session-owned Editor preview audio and isolated Edit/Play generations."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-audio
+symbol: project:Inno.Editor.Audio
+title: Inno.Editor.Audio
 kind: project
-owners: [Inno.Editor.Audio]
+owners:
+- Inno.Editor.Audio
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Session-owned Editor preview audio and isolated Edit/Play generations.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Editor.Audio]
+exampleProjects:
+- Inno.Editor.Audio
 ---
 # Inno.Editor.Audio
 

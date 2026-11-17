@@ -1,11 +1,25 @@
 ---
-title: Inno.Editor.Panel.Settings
-description: "Internal staged Settings frontend coordinating Editor, Project and Build scopes."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-panel-settings
+symbol: project:Inno.Editor.Panel.Settings
+title: Inno.Editor.Panel.Settings
 kind: project
-owners: [Inno.Editor.Panel.Settings]
+owners:
+- Inno.Editor.Panel.Settings
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Internal staged Settings frontend coordinating Editor, Project and Build scopes.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Editor.Settings, Inno.Editor.ImGui, Inno.Core.Settings, Inno.Core.Serialization]
+exampleProjects:
+- Inno.Editor.Settings
+- Inno.Editor.ImGui
+- Inno.Core.Settings
+- Inno.Core.Serialization
 ---
 # Inno.Editor.Panel.Settings
 

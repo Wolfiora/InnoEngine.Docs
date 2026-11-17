@@ -1,10 +1,19 @@
 ---
-title: Inno.Core.Input
-description: Cross-platform key, modifier, mouse-button and cursor values without polling or frame-state ownership.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-core-input
+symbol: project:Inno.Core.Input
+title: Inno.Core.Input
 kind: project
 owners:
-  - Inno.Core.Input
+- Inno.Core.Input
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Cross-platform key, modifier, mouse-button and cursor values without polling or frame-state ownership.
+outdated: true
 ---
 # Inno.Core.Input
 

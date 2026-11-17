@@ -1,10 +1,19 @@
 ---
-title: Inno.UI.Assets
-description: Neutral UI import settings, language frontends, dependency analysis and runtime payload production.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-ui-assets
+symbol: project:Inno.UI.Assets
+title: Inno.UI.Assets
 kind: project
 owners:
-  - Inno.UI.Assets
+- Inno.UI.Assets
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Neutral UI import settings, language frontends, dependency analysis and runtime payload production.
+outdated: true
 ---
 # Inno.UI.Assets
 

@@ -1,10 +1,19 @@
 ---
-title: Inno.Core.Graphs
-description: Neutral editable graph documents, generation-scoped definitions, topology validation and current-format serialization.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-core-graphs
+symbol: project:Inno.Core.Graphs
+title: Inno.Core.Graphs
 kind: project
 owners:
-  - Inno.Core.Graphs
+- Inno.Core.Graphs
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Neutral editable graph documents, generation-scoped definitions, topology validation and current-format serialization.
+outdated: true
 ---
 # Inno.Core.Graphs
 

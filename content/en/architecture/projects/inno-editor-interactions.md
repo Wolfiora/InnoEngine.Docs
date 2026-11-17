@@ -1,14 +1,21 @@
 ---
-title: Inno.Editor.Interactions
-description: Presentation-independent actions, menus, selection, drag and drop,
-  history and extension activation.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: api.projects.inno-editor-interactions
+symbol: project:Inno.Editor.Interactions
+title: Inno.Editor.Interactions
 kind: project
 owners:
-  - Inno.Editor.Interactions
+- Inno.Editor.Interactions
+reviewed: ''
 contracts:
-  - architecture.editor-generations
-  - manual.identity-and-missing
+- architecture.editor-generations
+- manual.identity-and-missing
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Presentation-independent actions, menus, selection, drag and drop, history and extension activation.
+outdated: true
 ---
 # Inno.Editor.Interactions
 

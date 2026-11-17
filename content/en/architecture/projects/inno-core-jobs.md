@@ -1,10 +1,19 @@
 ---
-title: Inno.Core.Jobs
-description: Session-owned frame job scheduling with finite admission and an explicit owner-thread callback queue.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-core-jobs
+symbol: project:Inno.Core.Jobs
+title: Inno.Core.Jobs
 kind: project
 owners:
-  - Inno.Core.Jobs
+- Inno.Core.Jobs
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Session-owned frame job scheduling with finite admission and an explicit owner-thread callback queue.
+outdated: true
 ---
 # Inno.Core.Jobs
 

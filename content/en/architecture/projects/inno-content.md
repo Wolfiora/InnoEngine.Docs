@@ -1,9 +1,19 @@
 ---
-title: Inno.Content
-description: Verified deployment packs, portable content identities and independent read leases.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-content
+symbol: project:Inno.Content
+title: Inno.Content
 kind: project
-owners: [Inno.Content]
+owners:
+- Inno.Content
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Verified deployment packs, portable content identities and independent read leases.
+outdated: true
 ---
 # Inno.Content
 

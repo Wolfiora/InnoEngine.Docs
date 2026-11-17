@@ -1,11 +1,22 @@
 ---
-title: Inno.Editor.Inspection
-description: "Generation-scoped target/property/attribute drawers and feature-owned reversible mutation, independent of Inspector Panel."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-inspection
+symbol: project:Inno.Editor.Inspection
+title: Inno.Editor.Inspection
 kind: project
-owners: [Inno.Editor.Inspection]
+owners:
+- Inno.Editor.Inspection
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Generation-scoped target/property/attribute drawers and feature-owned reversible mutation, independent of Inspector Panel.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Editor.Inspection]
+exampleProjects:
+- Inno.Editor.Inspection
 ---
 # Inno.Editor.Inspection
 

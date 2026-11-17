@@ -1,11 +1,22 @@
 ---
-title: Inno.Editor.Panel.Inspector
-description: "Target inspection, generation-safe locking, scene element operations and typed reference drops."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-panel-inspector
+symbol: project:Inno.Editor.Panel.Inspector
+title: Inno.Editor.Panel.Inspector
 kind: project
-owners: [Inno.Editor.Panel.Inspector]
+owners:
+- Inno.Editor.Panel.Inspector
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Target inspection, generation-safe locking, scene element operations and typed reference drops.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Editor.Panel.Inspector]
+exampleProjects:
+- Inno.Editor.Panel.Inspector
 ---
 # Inno.Editor.Panel.Inspector
 

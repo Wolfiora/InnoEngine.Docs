@@ -1,11 +1,22 @@
 ---
-title: Inno.Scripting.Compiler
-description: SDK-bound script compilation, logical API projection and immutable candidate artifacts.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-scripting-compiler
+symbol: project:Inno.Scripting.Compiler
+title: Inno.Scripting.Compiler
 kind: project
-owners: [Inno.Scripting.Compiler]
+owners:
+- Inno.Scripting.Compiler
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- SDK-bound script compilation, logical API projection and immutable candidate artifacts.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Scripting.Compiler]
+exampleProjects:
+- Inno.Scripting.Compiler
 ---
 # Inno.Scripting.Compiler
 

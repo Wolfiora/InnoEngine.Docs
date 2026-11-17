@@ -1,13 +1,20 @@
 ---
-title: Inno.Tooling.Documentation
-description: Immutable documentation publication and transport-independent
-  queries for engine development tools.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-tooling-documentation
+symbol: project:Inno.Tooling.Documentation
+title: Inno.Tooling.Documentation
 kind: project
 owners:
-  - Inno.Tooling.Documentation
+- Inno.Tooling.Documentation
+reviewed: ''
 contracts:
-  - contributing.documentation-queries
+- contributing.documentation-queries
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Immutable documentation publication and transport-independent queries for engine development tools.
+outdated: true
 ---
 # Inno.Tooling.Documentation
 

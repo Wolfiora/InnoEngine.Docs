@@ -1,11 +1,22 @@
 ---
-title: Inno.Rendering.Assets.Authoring
-description: "Frozen rendering imports, graph editing, target compilation and last-good publication."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-rendering-assets-authoring
+symbol: project:Inno.Rendering.Assets.Authoring
+title: Inno.Rendering.Assets.Authoring
 kind: project
-owners: [Inno.Rendering.Assets.Authoring]
+owners:
+- Inno.Rendering.Assets.Authoring
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Frozen rendering imports, graph editing, target compilation and last-good publication.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Rendering.Assets.Authoring]
+exampleProjects:
+- Inno.Rendering.Assets.Authoring
 ---
 # Inno.Rendering.Assets.Authoring
 

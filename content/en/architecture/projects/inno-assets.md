@@ -1,9 +1,19 @@
 ---
-title: Inno.Assets
-description: Logical asset identities, runtime lookup, residency and retained artifact reads.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-assets
+symbol: project:Inno.Assets
+title: Inno.Assets
 kind: project
-owners: [Inno.Assets]
+owners:
+- Inno.Assets
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Logical asset identities, runtime lookup, residency and retained artifact reads.
+outdated: true
 ---
 # Inno.Assets
 

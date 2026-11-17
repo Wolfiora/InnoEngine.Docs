@@ -1,11 +1,22 @@
 ---
-title: Inno.Editor.ImGui
-description: "Scoped Editor UI primitives, shared semantic metrics, pointer-free drawing and interaction rendering bridges."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-imgui
+symbol: project:Inno.Editor.ImGui
+title: Inno.Editor.ImGui
 kind: project
-owners: [Inno.Editor.ImGui]
+owners:
+- Inno.Editor.ImGui
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Scoped Editor UI primitives, shared semantic metrics, pointer-free drawing and interaction rendering bridges.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Editor.ImGui]
+exampleProjects:
+- Inno.Editor.ImGui
 ---
 # Inno.Editor.ImGui
 

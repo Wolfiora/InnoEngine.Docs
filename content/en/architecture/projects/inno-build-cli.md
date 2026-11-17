@@ -1,10 +1,19 @@
 ---
-title: Inno.Build.Cli
-description: Explicit development commands composed from engine build and authoring services.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-build-cli
+symbol: project:Inno.Build.Cli
+title: Inno.Build.Cli
 kind: project
 owners:
-  - Inno.Build.Cli
+- Inno.Build.Cli
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Explicit development commands composed from engine build and authoring services.
+outdated: true
 ---
 # Inno.Build.Cli
 

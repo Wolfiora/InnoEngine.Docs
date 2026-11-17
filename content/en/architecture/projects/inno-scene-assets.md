@@ -1,10 +1,19 @@
 ---
-title: Inno.Scene.Assets
-description: Import and export scene and prefab source through the engine asset pipeline.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-scene-assets
+symbol: project:Inno.Scene.Assets
+title: Inno.Scene.Assets
 kind: project
 owners:
-  - Inno.Scene.Assets
+- Inno.Scene.Assets
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Import and export scene and prefab source through the engine asset pipeline.
+outdated: true
 ---
 # Inno.Scene.Assets
 

@@ -1,11 +1,22 @@
 ---
-title: Inno.Runtime
-description: "Explicit engine metadata, isolated Sessions and ordered subsystem execution."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-runtime
+symbol: project:Inno.Runtime
+title: Inno.Runtime
 kind: project
-owners: [Inno.Runtime]
+owners:
+- Inno.Runtime
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Explicit engine metadata, isolated Sessions and ordered subsystem execution.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Runtime]
+exampleProjects:
+- Inno.Runtime
 ---
 # Inno.Runtime
 

@@ -1,10 +1,19 @@
 ---
-title: Inno.Build.Distribution.Standard
-description: The standard engine distribution's platform, tool and product composition.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-build-distribution-standard
+symbol: project:Inno.Build.Distribution.Standard
+title: Inno.Build.Distribution.Standard
 kind: project
 owners:
-  - Inno.Build.Distribution.Standard
+- Inno.Build.Distribution.Standard
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- The standard engine distribution's platform, tool and product composition.
+outdated: true
 ---
 # Inno.Build.Distribution.Standard
 

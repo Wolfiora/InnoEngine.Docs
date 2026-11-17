@@ -1,11 +1,22 @@
 ---
-title: Inno.Editor.Hosting
-description: "Explicit Editor product composition, preflight, default layout and complete host retirement."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-hosting
+symbol: project:Inno.Editor.Hosting
+title: Inno.Editor.Hosting
 kind: project
-owners: [Inno.Editor.Hosting]
+owners:
+- Inno.Editor.Hosting
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Explicit Editor product composition, preflight, default layout and complete host retirement.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Editor.Hosting]
+exampleProjects:
+- Inno.Editor.Hosting
 ---
 # Inno.Editor.Hosting
 

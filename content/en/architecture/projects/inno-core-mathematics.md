@@ -1,10 +1,19 @@
 ---
-title: Inno.Core.Mathematics
-description: Engine vector, matrix, quaternion, rectangle and color values with explicit numeric and interoperability conventions.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-core-mathematics
+symbol: project:Inno.Core.Mathematics
+title: Inno.Core.Mathematics
 kind: project
 owners:
-  - Inno.Core.Mathematics
+- Inno.Core.Mathematics
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Engine vector, matrix, quaternion, rectangle and color values with explicit numeric and interoperability conventions.
+outdated: true
 ---
 # Inno.Core.Mathematics
 

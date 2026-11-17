@@ -1,10 +1,19 @@
 ---
-title: Inno.Extensibility.Types
-description: Stable type references, immutable discovery snapshots and owned transactional extension registries.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-extensibility-types
+symbol: project:Inno.Extensibility.Types
+title: Inno.Extensibility.Types
 kind: project
 owners:
-  - Inno.Extensibility.Types
+- Inno.Extensibility.Types
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Stable type references, immutable discovery snapshots and owned transactional extension registries.
+outdated: true
 ---
 # Inno.Extensibility.Types
 

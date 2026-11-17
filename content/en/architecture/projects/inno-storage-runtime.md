@@ -1,10 +1,19 @@
 ---
-title: Inno.Storage.Runtime
-description: Bounded asynchronous storage operations owned by a runtime session.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-storage-runtime
+symbol: project:Inno.Storage.Runtime
+title: Inno.Storage.Runtime
 kind: project
 owners:
-  - Inno.Storage.Runtime
+- Inno.Storage.Runtime
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Bounded asynchronous storage operations owned by a runtime session.
+outdated: true
 ---
 # Inno.Storage.Runtime
 

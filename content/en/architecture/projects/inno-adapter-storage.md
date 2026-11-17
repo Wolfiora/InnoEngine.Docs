@@ -1,10 +1,19 @@
 ---
-title: Inno.Adapter.Storage
-description: Select application storage through explicit provider registrations and logical scopes.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-adapter-storage
+symbol: project:Inno.Adapter.Storage
+title: Inno.Adapter.Storage
 kind: project
 owners:
-  - Inno.Adapter.Storage
+- Inno.Adapter.Storage
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Select application storage through explicit provider registrations and logical scopes.
+outdated: true
 ---
 # Inno.Adapter.Storage
 

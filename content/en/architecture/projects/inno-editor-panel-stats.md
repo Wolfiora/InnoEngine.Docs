@@ -1,13 +1,21 @@
 ---
-title: Inno.Editor.Panel.Stats
-description: The discovered Stats panel and its bounded frame-timing presentation.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: api.projects.inno-editor-panel-stats
+symbol: project:Inno.Editor.Panel.Stats
+title: Inno.Editor.Panel.Stats
 kind: project
 owners:
-  - Inno.Editor.Panel.Stats
+- Inno.Editor.Panel.Stats
+reviewed: ''
 contracts:
-  - manual.editor-statistics
-  - architecture.editor-generations
+- manual.editor-statistics
+- architecture.editor-generations
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- The discovered Stats panel and its bounded frame-timing presentation.
+outdated: true
 ---
 # Inno.Editor.Panel.Stats
 

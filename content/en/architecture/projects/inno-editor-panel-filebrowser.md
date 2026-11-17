@@ -1,11 +1,22 @@
 ---
-title: Inno.Editor.Panel.FileBrowser
-description: "The internal File Browser window consuming shared asset editing, browser presentation and interaction services."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-panel-filebrowser
+symbol: project:Inno.Editor.Panel.FileBrowser
+title: Inno.Editor.Panel.FileBrowser
 kind: project
-owners: [Inno.Editor.Panel.FileBrowser]
+owners:
+- Inno.Editor.Panel.FileBrowser
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- The internal File Browser window consuming shared asset editing, browser presentation and interaction services.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Editor.Panel.FileBrowser]
+exampleProjects:
+- Inno.Editor.Panel.FileBrowser
 ---
 # Inno.Editor.Panel.FileBrowser
 

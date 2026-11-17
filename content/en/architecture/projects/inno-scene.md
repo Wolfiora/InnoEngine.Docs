@@ -1,10 +1,19 @@
 ---
-title: Inno.Scene
-description: Scene objects, behaviors, transforms, persistent state and generation recovery.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-scene
+symbol: project:Inno.Scene
+title: Inno.Scene
 kind: project
 owners:
-  - Inno.Scene
+- Inno.Scene
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Scene objects, behaviors, transforms, persistent state and generation recovery.
+outdated: true
 ---
 # Inno.Scene
 

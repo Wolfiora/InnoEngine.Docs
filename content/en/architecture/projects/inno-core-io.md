@@ -1,10 +1,19 @@
 ---
-title: Inno.Core.IO
-description: Explicit filesystem boundaries, atomic publication, shared leases, byte documents and process-owned output.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-core-io
+symbol: project:Inno.Core.IO
+title: Inno.Core.IO
 kind: project
 owners:
-  - Inno.Core.IO
+- Inno.Core.IO
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Explicit filesystem boundaries, atomic publication, shared leases, byte documents and process-owned output.
+outdated: true
 ---
 # Inno.Core.IO
 

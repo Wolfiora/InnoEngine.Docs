@@ -1,11 +1,22 @@
 ---
-title: Inno.Editor.Panel.Hierarchy
-description: "Scene/object hierarchy presentation, typed drop geometry and domain-owned reversible actions."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-panel-hierarchy
+symbol: project:Inno.Editor.Panel.Hierarchy
+title: Inno.Editor.Panel.Hierarchy
 kind: project
-owners: [Inno.Editor.Panel.Hierarchy]
+owners:
+- Inno.Editor.Panel.Hierarchy
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Scene/object hierarchy presentation, typed drop geometry and domain-owned reversible actions.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Editor.Panel.Hierarchy]
+exampleProjects:
+- Inno.Editor.Panel.Hierarchy
 ---
 # Inno.Editor.Panel.Hierarchy
 

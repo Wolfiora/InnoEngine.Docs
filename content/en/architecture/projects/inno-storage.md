@@ -1,10 +1,19 @@
 ---
-title: Inno.Storage
-description: Logical application storage keys, namespaces and asynchronous complete-value operations.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-storage
+symbol: project:Inno.Storage
+title: Inno.Storage
 kind: project
 owners:
-  - Inno.Storage
+- Inno.Storage
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Logical application storage keys, namespaces and asynchronous complete-value operations.
+outdated: true
 ---
 # Inno.Storage
 

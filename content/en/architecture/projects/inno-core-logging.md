@@ -1,10 +1,19 @@
 ---
-title: Inno.Core.Logging
-description: Bounded append-only logging, explicit delivery policy, failure quarantine and host-owned sinks.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-core-logging
+symbol: project:Inno.Core.Logging
+title: Inno.Core.Logging
 kind: project
 owners:
-  - Inno.Core.Logging
+- Inno.Core.Logging
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Bounded append-only logging, explicit delivery policy, failure quarantine and host-owned sinks.
+outdated: true
 ---
 # Inno.Core.Logging
 

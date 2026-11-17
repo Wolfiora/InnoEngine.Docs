@@ -1,14 +1,21 @@
 ---
-title: Inno.Editor.Diagnostics
-description: The bounded Console backend, immutable occurrences and current
-  diagnostic lifetime.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: api.projects.inno-editor-diagnostics
+symbol: project:Inno.Editor.Diagnostics
+title: Inno.Editor.Diagnostics
 kind: project
 owners:
-  - Inno.Editor.Diagnostics
+- Inno.Editor.Diagnostics
+reviewed: ''
 contracts:
-  - manual.editor.console
-  - architecture.ownership
+- manual.editor.console
+- architecture.ownership
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- The bounded Console backend, immutable occurrences and current diagnostic lifetime.
+outdated: true
 ---
 # Inno.Editor.Diagnostics
 

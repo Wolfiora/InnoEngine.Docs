@@ -1,11 +1,22 @@
 ---
-title: Inno.Editor.PlayMode
-description: "Atomic Edit/Play transitions with fresh script tickets, isolated scene/history/audio and verified retirement."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-playmode
+symbol: project:Inno.Editor.PlayMode
+title: Inno.Editor.PlayMode
 kind: project
-owners: [Inno.Editor.PlayMode]
+owners:
+- Inno.Editor.PlayMode
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Atomic Edit/Play transitions with fresh script tickets, isolated scene/history/audio and verified retirement.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Editor.PlayMode]
+exampleProjects:
+- Inno.Editor.PlayMode
 ---
 # Inno.Editor.PlayMode
 

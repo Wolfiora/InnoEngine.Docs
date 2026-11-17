@@ -1,10 +1,19 @@
 ---
-title: Inno.Core.Serialization
-description: Deterministic current-format values, explicit metadata, converter generations and neutral captures.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-core-serialization
+symbol: project:Inno.Core.Serialization
+title: Inno.Core.Serialization
 kind: project
 owners:
-  - Inno.Core.Serialization
+- Inno.Core.Serialization
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Deterministic current-format values, explicit metadata, converter generations and neutral captures.
+outdated: true
 ---
 # Inno.Core.Serialization
 
