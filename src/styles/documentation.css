@@ -58,6 +58,8 @@ inno-content-tables { display: block; min-width: 0; }
 .document-header .document-context { flex: 1 1 16rem; padding-block: 1.5rem; }
 .document-header .api-status { flex: 0 1 18rem; width: auto; margin-inline-start: auto; }
 .toc-resizer { display: none; }
+.right-sidebar-panel h2 { font-size: calc(var(--sl-text-h5) + .125rem); }
+.right-sidebar-panel starlight-toc a { font-size: calc(var(--sl-text-xs) + .0625rem); }
 @media (min-width: 72rem) {
   :root[data-has-toc] .page > header.header:has(inno-header-layout) { padding-inline: 0; }
   :root[data-has-toc] inno-header-layout > .header {
@@ -103,5 +105,5 @@ inno-content-tables { display: block; min-width: 0; }
 @media (min-width: 72rem) {
   .right-sidebar { isolation: isolate; }
   .toc-art { display: block; position: absolute; inset: 0; overflow: hidden; pointer-events: none; z-index: -1; }
-  .toc-art svg { position: absolute; left: var(--inno-toc-art-left, 8rem); top: -18vh; width: max(90vw, 130vh); height: auto; opacity: var(--inno-toc-art-opacity, .2); color: var(--sl-color-gray-3); }
+  .toc-art svg { position: absolute; left: var(--inno-toc-art-left, 8rem); top: -18vh; width: max(90vw, 130vh); height: auto; opacity: var(--inno-toc-art-opacity, .05); color: var(--sl-color-gray-3); }
 }
