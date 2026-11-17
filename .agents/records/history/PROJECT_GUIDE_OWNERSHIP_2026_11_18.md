@@ -6,7 +6,7 @@ The five non-API navigation areas preserve all 173 previously explicit page rout
 
 ## Validation
 
-- Engine tooling: `0cc045bed651ac5c2fcbaba16a47eb6da2db3eec`; selected source/API revision remains `32cd34c21e4bc0c29d9989cf28c745bd1316fecb`.
+- Functional validation used engine tooling `0cc045bed651ac5c2fcbaba16a47eb6da2db3eec`; selected source/API revision remains `32cd34c21e4bc0c29d9989cf28c745bd1316fecb`. The final pin `0754569707e5298df587679f3623804b44d104ba` only reformats the two project-guide record parameter lists after the Windows architecture check identified them. That CI check is rerun on the final commit.
 - 189 Node tests and two focused engine synchronization/review tests passed.
 - The pinned tool checked the API package and prepared/exported all 18,555 canonical pages. Source extraction and product certification were not repeated.
 - A non-publishable five-page preview passed the production renderer and projection checks. Nine browser cases passed across desktop, tablet and mobile, covering project ownership, nested navigation and unregistered authored guides.
