@@ -25,3 +25,10 @@ test('nested task categories reveal direct pages without API-style controls', as
   await expect(page.locator('inno-sidebar [aria-current="page"]')).toBeVisible();
   await expect(page.locator('inno-sidebar .caret:not(.chevron)')).toHaveCount(0);
 });
+
+test('unregistered authored project pages are not labelled as synchronized', async ({ page }) => {
+  await page.goto('backends/projects/inno-adapter-audio-miniaudio-tests/');
+  await expect(page.locator('.api-status')).toHaveCount(0);
+  await expect(page.locator('.page-credit')).toContainText('Documentation maintained by the InnoEngine contributors.');
+  await expect(page.locator('.page-credit')).not.toContainText('Generated automatically');
+});

@@ -2,7 +2,16 @@
 
 Registered 117 existing project guides. Retained each original body byte for byte, attributed it to InnoEngine contributors, and requested source review. No guide is represented as verified solely by this migration. Project metadata and canonical API facts supply generated sections independently.
 
-The five non-API navigation areas preserve all 173 previously explicit page routes. Their new disclosure-only groups are authored by reader task; the project-guide index is additionally explicit.
+The five non-API navigation areas preserve all 173 previously explicit page routes. Their new disclosure-only groups are authored by reader task. Project, backend and test-guide indexes and seven script examples now have explicit placements instead of falling back to a top-level section. All existing non-project pages in these areas have an explicit placement; project-guide lists remain flat beneath their index.
+
+## Validation
+
+- Engine tooling: `0cc045bed651ac5c2fcbaba16a47eb6da2db3eec`; selected source/API revision remains `32cd34c21e4bc0c29d9989cf28c745bd1316fecb`.
+- 189 Node tests and two focused engine synchronization/review tests passed.
+- The pinned tool checked the API package and prepared/exported all 18,555 canonical pages. Source extraction and product certification were not repeated.
+- A non-publishable five-page preview passed the production renderer and projection checks. Nine browser cases passed across desktop, tablet and mobile, covering project ownership, nested navigation and unregistered authored guides.
+- All 117 original body hashes below still match. Existing routes are preserved; new explicit placements are unique.
+- Complete Release validation and deployment remain GitHub Actions obligations. No automatic main merge or deployment was performed during this migration.
 
 | Page | Original body SHA-256 | Disposition |
 | --- | --- | --- |

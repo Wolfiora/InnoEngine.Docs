@@ -3,7 +3,8 @@ import EditLink from './EditLink.astro';
 import Pagination from './Pagination.astro';
 const { entry } = Astro.locals.starlightRoute;
 const author = entry.data.source;
-const generated = ['api', 'project'].includes(entry.data.kind) && (!author || author === 'xml');
+const synchronized = entry.data.kind === 'api' || (entry.data.kind === 'project' && entry.data.symbol?.startsWith('project:'));
+const generated = synchronized && (!author || author === 'xml');
 ---
 <footer class="page-footer">
   <EditLink />

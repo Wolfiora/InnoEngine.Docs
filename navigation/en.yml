@@ -177,6 +177,15 @@
             - slug: extending/graph-documents
             - slug: extending/editor-viewports
             - slug: extending/customize-console
+        - label: Script integration examples
+          items:
+            - slug: extending/examples/inno-editor-assets-editor-script
+            - slug: extending/examples/inno-editor-imgui-editor-script
+            - slug: extending/examples/inno-editor-inspection-editor-script
+            - slug: extending/examples/inno-editor-panel-shadereditor-editor-script
+            - slug: extending/examples/inno-editor-playmode-editor-script
+            - slug: extending/examples/inno-editor-scripting-editor-script
+            - slug: extending/examples/inno-editor-scripting-runtime-script
     - label: Content and presentation
       items:
         - slug: extending/asset-importers
@@ -248,6 +257,7 @@
             - slug: backends/dotnet-publishing
             - slug: backends/dotnet-serialization
             - slug: backends/file-content-cache
+        - slug: backends/projects
 - label: API Reference
   apiDirectories: true
 - label: Contributing
@@ -269,6 +279,10 @@
         - slug: contributing/product-journeys
         - slug: contributing/example-validation
         - slug: contributing/reference-validation
+        - label: Test infrastructure
+          items:
+            - slug: contributing/testing/projects
+            - slug: contributing/testing/support
     - label: Documentation workflow
       items:
         - slug: contributing/api-documentation
