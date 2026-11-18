@@ -1,11 +1,22 @@
 ---
-title: Inno.Adapter.Presentation
-description: "A neutral, application-owned presentation context for authoring products."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-adapter-presentation
+symbol: project:Inno.Adapter.Presentation
+title: Inno.Adapter.Presentation
 kind: project
-owners: [Inno.Adapter.Presentation]
+owners:
+- Inno.Adapter.Presentation
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- A neutral, application-owned presentation context for authoring products.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Adapter.Presentation]
+exampleProjects:
+- Inno.Adapter.Presentation
 ---
 # Inno.Adapter.Presentation
 

@@ -1,13 +1,21 @@
 ---
-title: Inno.Audio.Runtime
-description: Session audio composition, bounded preparation, completion and device recovery.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-audio-runtime
+symbol: project:Inno.Audio.Runtime
+title: Inno.Audio.Runtime
 kind: project
 owners:
-  - Inno.Audio.Runtime
+- Inno.Audio.Runtime
+reviewed: ''
 contracts:
-  - architecture.audio-lifetime#ownership-and-generation-contract
-  - architecture.audio-lifetime#retirement-and-failure-contract
+- architecture.audio-lifetime#ownership-and-generation-contract
+- architecture.audio-lifetime#retirement-and-failure-contract
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Session audio composition, bounded preparation, completion and device recovery.
+outdated: true
 ---
 # Inno.Audio.Runtime
 

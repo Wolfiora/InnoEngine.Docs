@@ -1,10 +1,19 @@
 ---
-title: Inno.Core.Events
-description: Ordered event hubs, routed consumption and bounded event admission.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-core-events
+symbol: project:Inno.Core.Events
+title: Inno.Core.Events
 kind: project
 owners:
-  - Inno.Core.Events
+- Inno.Core.Events
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Ordered event hubs, routed consumption and bounded event admission.
+outdated: true
 ---
 # Inno.Core.Events
 

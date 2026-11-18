@@ -1,11 +1,22 @@
 ---
-title: Inno.Editor.Assets
-description: "Reusable source asset drafts, creation templates, file edits and operation-scoped sample progress."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-assets
+symbol: project:Inno.Editor.Assets
+title: Inno.Editor.Assets
 kind: project
-owners: [Inno.Editor.Assets]
+owners:
+- Inno.Editor.Assets
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Reusable source asset drafts, creation templates, file edits and operation-scoped sample progress.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Editor.Assets]
+exampleProjects:
+- Inno.Editor.Assets
 ---
 # Inno.Editor.Assets
 

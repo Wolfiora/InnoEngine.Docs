@@ -1,9 +1,19 @@
 ---
-title: Inno.Editor.Panel.ShaderEditor
-description: "The internal shader graph canvas coordinating shared documents, graph edits, compilation and presentation."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-panel-shadereditor
+symbol: project:Inno.Editor.Panel.ShaderEditor
+title: Inno.Editor.Panel.ShaderEditor
 kind: project
-owners: [Inno.Editor.Panel.ShaderEditor]
+owners:
+- Inno.Editor.Panel.ShaderEditor
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- The internal shader graph canvas coordinating shared documents, graph edits, compilation and presentation.
+outdated: true
 ---
 # Inno.Editor.Panel.ShaderEditor
 

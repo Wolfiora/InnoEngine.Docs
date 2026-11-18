@@ -1,11 +1,22 @@
 ---
-title: Inno.Adapter.Platform
-description: "Explicit platform providers and the borrowed surface boundary between native adapters."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-adapter-platform
+symbol: project:Inno.Adapter.Platform
+title: Inno.Adapter.Platform
 kind: project
-owners: [Inno.Adapter.Platform]
+owners:
+- Inno.Adapter.Platform
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Explicit platform providers and the borrowed surface boundary between native adapters.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Adapter.Platform]
+exampleProjects:
+- Inno.Adapter.Platform
 ---
 # Inno.Adapter.Platform
 

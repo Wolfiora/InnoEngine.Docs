@@ -1,10 +1,19 @@
 ---
-title: Inno.Text.Runtime
-description: Session-owned font faces, immutable artifact leases and text execution scopes.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-text-runtime
+symbol: project:Inno.Text.Runtime
+title: Inno.Text.Runtime
 kind: project
 owners:
-  - Inno.Text.Runtime
+- Inno.Text.Runtime
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Session-owned font faces, immutable artifact leases and text execution scopes.
+outdated: true
 ---
 # Inno.Text.Runtime
 

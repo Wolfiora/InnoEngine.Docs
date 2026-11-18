@@ -1,11 +1,22 @@
 ---
-title: Inno.Tooling.Validation
-description: "Dependency-aware validation planning, owned execution and evidence reconciliation."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-tooling-validation
+symbol: project:Inno.Tooling.Validation
+title: Inno.Tooling.Validation
 kind: project
-owners: [Inno.Tooling.Validation]
+owners:
+- Inno.Tooling.Validation
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Dependency-aware validation planning, owned execution and evidence reconciliation.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Tooling.Validation]
+exampleProjects:
+- Inno.Tooling.Validation
 ---
 # Inno.Tooling.Validation
 

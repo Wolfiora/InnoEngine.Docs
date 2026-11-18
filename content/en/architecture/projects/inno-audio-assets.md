@@ -1,10 +1,19 @@
 ---
-title: Inno.Audio.Assets
-description: Import encoded audio into runtime metadata and immutable audio-data artifacts.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-audio-assets
+symbol: project:Inno.Audio.Assets
+title: Inno.Audio.Assets
 kind: project
 owners:
-  - Inno.Audio.Assets
+- Inno.Audio.Assets
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Import encoded audio into runtime metadata and immutable audio-data artifacts.
+outdated: true
 ---
 # Inno.Audio.Assets
 

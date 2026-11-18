@@ -1,11 +1,22 @@
 ---
-title: Inno.Editor.Rendering
-description: "Backend-neutral viewport contributors, model composition, safe previews and authoring target artifacts."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-rendering
+symbol: project:Inno.Editor.Rendering
+title: Inno.Editor.Rendering
 kind: project
-owners: [Inno.Editor.Rendering]
+owners:
+- Inno.Editor.Rendering
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Backend-neutral viewport contributors, model composition, safe previews and authoring target artifacts.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Editor.Rendering]
+exampleProjects:
+- Inno.Editor.Rendering
 ---
 # Inno.Editor.Rendering
 

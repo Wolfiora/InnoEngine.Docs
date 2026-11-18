@@ -1,9 +1,19 @@
 ---
-title: Inno.Engine.Default
-description: "Default subsystem composition without a global service locator or duplicated product lists."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-engine-default
+symbol: project:Inno.Engine.Default
+title: Inno.Engine.Default
 kind: project
-owners: [Inno.Engine.Default]
+owners:
+- Inno.Engine.Default
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Default subsystem composition without a global service locator or duplicated product lists.
+outdated: true
 ---
 # Inno.Engine.Default
 

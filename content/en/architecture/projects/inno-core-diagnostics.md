@@ -1,10 +1,19 @@
 ---
-title: Inno.Core.Diagnostics
-description: Host-owned current issue state, revocable producers and complete-report presentation.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-core-diagnostics
+symbol: project:Inno.Core.Diagnostics
+title: Inno.Core.Diagnostics
 kind: project
 owners:
-  - Inno.Core.Diagnostics
+- Inno.Core.Diagnostics
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Host-owned current issue state, revocable producers and complete-report presentation.
+outdated: true
 ---
 # Inno.Core.Diagnostics
 

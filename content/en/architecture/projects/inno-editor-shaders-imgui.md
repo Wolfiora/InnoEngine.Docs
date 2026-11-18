@@ -1,9 +1,19 @@
 ---
-title: Inno.Editor.Shaders.ImGui
-description: "Reusable shader-node, material and parameter inspection presentation over shared authoring services."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-shaders-imgui
+symbol: project:Inno.Editor.Shaders.ImGui
+title: Inno.Editor.Shaders.ImGui
 kind: project
-owners: [Inno.Editor.Shaders.ImGui]
+owners:
+- Inno.Editor.Shaders.ImGui
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Reusable shader-node, material and parameter inspection presentation over shared authoring services.
+outdated: true
 ---
 # Inno.Editor.Shaders.ImGui
 

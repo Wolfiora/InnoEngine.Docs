@@ -1,11 +1,22 @@
 ---
-title: Inno.Rendering.Runtime
-description: "Output requests, render-model generations and owned GPU resource caches."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-rendering-runtime
+symbol: project:Inno.Rendering.Runtime
+title: Inno.Rendering.Runtime
 kind: project
-owners: [Inno.Rendering.Runtime]
+owners:
+- Inno.Rendering.Runtime
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Output requests, render-model generations and owned GPU resource caches.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Rendering.Runtime]
+exampleProjects:
+- Inno.Rendering.Runtime
 ---
 # Inno.Rendering.Runtime
 

@@ -1,11 +1,22 @@
 ---
-title: Inno.Shell
-description: "One owner-thread application loop for platform, input, rendering and product retirement."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-shell
+symbol: project:Inno.Shell
+title: Inno.Shell
 kind: project
-owners: [Inno.Shell]
+owners:
+- Inno.Shell
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- One owner-thread application loop for platform, input, rendering and product retirement.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Shell]
+exampleProjects:
+- Inno.Shell
 ---
 # Inno.Shell
 

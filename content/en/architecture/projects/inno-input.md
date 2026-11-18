@@ -1,10 +1,19 @@
 ---
-title: Inno.Input
-description: Backend-neutral keyboard, pointer and committed-text snapshots at runtime frame boundaries.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-input
+symbol: project:Inno.Input
+title: Inno.Input
 kind: project
 owners:
-  - Inno.Input
+- Inno.Input
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Backend-neutral keyboard, pointer and committed-text snapshots at runtime frame boundaries.
+outdated: true
 ---
 # Inno.Input
 

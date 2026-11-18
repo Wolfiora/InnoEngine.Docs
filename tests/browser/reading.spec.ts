@@ -248,7 +248,7 @@ test('shared sidebar loads only expanded groups, links homes and animates both d
   const ancestorColor = await toggle('API Reference').evaluate(el => getComputedStyle(el.parentElement!).backgroundColor);
   expect(selectedColor).not.toBe(ancestorColor);
   await toggle('Manual').click();
-  const editorGroup = toggle('Editor');
+  const editorGroup = toggle('Editor workspace');
   await expect(editorGroup.locator('.caret.chevron')).toHaveCount(1);
   await expect(editorGroup.locator('..').locator(':scope > a')).toHaveCount(0);
   await editorGroup.click();

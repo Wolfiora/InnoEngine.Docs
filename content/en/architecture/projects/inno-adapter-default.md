@@ -1,11 +1,22 @@
 ---
-title: Inno.Adapter.Default
-description: "Standard runtime provider snapshots with explicitly injected platform, rendering and storage factories."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-adapter-default
+symbol: project:Inno.Adapter.Default
+title: Inno.Adapter.Default
 kind: project
-owners: [Inno.Adapter.Default]
+owners:
+- Inno.Adapter.Default
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Standard runtime provider snapshots with explicitly injected platform, rendering and storage factories.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Adapter.Default]
+exampleProjects:
+- Inno.Adapter.Default
 ---
 # Inno.Adapter.Default
 

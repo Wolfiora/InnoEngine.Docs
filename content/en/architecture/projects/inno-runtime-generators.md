@@ -1,9 +1,19 @@
 ---
-title: Inno.Runtime.Generators
-description: "Compile-time subsystem, module and factory catalogs with explicit metadata access."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-runtime-generators
+symbol: project:Inno.Runtime.Generators
+title: Inno.Runtime.Generators
 kind: project
-owners: [Inno.Runtime.Generators]
+owners:
+- Inno.Runtime.Generators
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Compile-time subsystem, module and factory catalogs with explicit metadata access.
+outdated: true
 ---
 # Inno.Runtime.Generators
 

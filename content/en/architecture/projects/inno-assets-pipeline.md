@@ -1,9 +1,19 @@
 ---
-title: Inno.Assets.Pipeline
-description: Authoring imports, source identities, settings, immutable artifacts and runtime export.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-assets-pipeline
+symbol: project:Inno.Assets.Pipeline
+title: Inno.Assets.Pipeline
 kind: project
-owners: [Inno.Assets.Pipeline]
+owners:
+- Inno.Assets.Pipeline
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Authoring imports, source identities, settings, immutable artifacts and runtime export.
+outdated: true
 ---
 # Inno.Assets.Pipeline
 

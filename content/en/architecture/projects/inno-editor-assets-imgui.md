@@ -1,9 +1,19 @@
 ---
-title: Inno.Editor.Assets.ImGui
-description: "Reusable asset browsing state, icon discovery, styles and inspection presentation."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-assets-imgui
+symbol: project:Inno.Editor.Assets.ImGui
+title: Inno.Editor.Assets.ImGui
 kind: project
-owners: [Inno.Editor.Assets.ImGui]
+owners:
+- Inno.Editor.Assets.ImGui
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Reusable asset browsing state, icon discovery, styles and inspection presentation.
+outdated: true
 ---
 # Inno.Editor.Assets.ImGui
 

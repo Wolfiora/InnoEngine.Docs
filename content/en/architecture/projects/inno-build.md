@@ -1,11 +1,22 @@
 ---
-title: Inno.Build
-description: "Owned Game/Plugin build transactions, content freezing and final platform publication."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-build
+symbol: project:Inno.Build
+title: Inno.Build
 kind: project
-owners: [Inno.Build]
+owners:
+- Inno.Build
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Owned Game/Plugin build transactions, content freezing and final platform publication.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Build]
+exampleProjects:
+- Inno.Build
 ---
 # Inno.Build
 

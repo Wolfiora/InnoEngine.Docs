@@ -1,9 +1,19 @@
 ---
-title: Inno.Editor.Exporting
-description: "Presentation-independent export service, operation-scoped progress, cancellation and retirement."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-exporting
+symbol: project:Inno.Editor.Exporting
+title: Inno.Editor.Exporting
 kind: project
-owners: [Inno.Editor.Exporting]
+owners:
+- Inno.Editor.Exporting
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Presentation-independent export service, operation-scoped progress, cancellation and retirement.
+outdated: true
 ---
 # Inno.Editor.Exporting
 

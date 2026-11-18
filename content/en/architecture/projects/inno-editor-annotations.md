@@ -1,16 +1,23 @@
 ---
-exampleMode: editor-script
-exampleProjects:
-  - Inno.Editor.Annotations
-title: Inno.Editor.Annotations
-description: Stateless Inspector presentation metadata with an explicit
-  authoring-only script surface.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: api.projects.inno-editor-annotations
+symbol: project:Inno.Editor.Annotations
+title: Inno.Editor.Annotations
 kind: project
 owners:
-  - Inno.Editor.Annotations
+- Inno.Editor.Annotations
+reviewed: ''
 contracts:
-  - architecture.ownership
+- architecture.ownership
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Stateless Inspector presentation metadata with an explicit authoring-only script surface.
+outdated: true
+exampleMode: editor-script
+exampleProjects:
+- Inno.Editor.Annotations
 ---
 # Inno.Editor.Annotations
 

@@ -1,10 +1,19 @@
 ---
-title: Inno.UI.Runtime
-description: Session-owned UI service, input capture, imported document loading and retained font artifacts.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-ui-runtime
+symbol: project:Inno.UI.Runtime
+title: Inno.UI.Runtime
 kind: project
 owners:
-  - Inno.UI.Runtime
+- Inno.UI.Runtime
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Session-owned UI service, input capture, imported document loading and retained font artifacts.
+outdated: true
 ---
 # Inno.UI.Runtime
 

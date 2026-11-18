@@ -1,9 +1,19 @@
 ---
-title: InnoEngine.Build
-description: "The ordinary SDK executable for build, validation and documentation commands."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.innoengine-build
+symbol: project:InnoEngine.Build
+title: InnoEngine.Build
 kind: project
-owners: [InnoEngine.Build]
+owners:
+- InnoEngine.Build
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- The ordinary SDK executable for build, validation and documentation commands.
+outdated: true
 ---
 # InnoEngine.Build
 

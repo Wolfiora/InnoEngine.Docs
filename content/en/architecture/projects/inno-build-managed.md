@@ -1,11 +1,22 @@
 ---
-title: Inno.Build.Managed
-description: "Neutral managed deployment identities, capabilities, requests and results."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-build-managed
+symbol: project:Inno.Build.Managed
+title: Inno.Build.Managed
 kind: project
-owners: [Inno.Build.Managed]
+owners:
+- Inno.Build.Managed
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Neutral managed deployment identities, capabilities, requests and results.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Build.Managed]
+exampleProjects:
+- Inno.Build.Managed
 ---
 # Inno.Build.Managed
 

@@ -1,10 +1,19 @@
 ---
-title: Inno.Animation
-description: Neutral clip sampling, explicit targets, value bindings and generation-checked playback.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-animation
+symbol: project:Inno.Animation
+title: Inno.Animation
 kind: project
 owners:
-  - Inno.Animation
+- Inno.Animation
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Neutral clip sampling, explicit targets, value bindings and generation-checked playback.
+outdated: true
 ---
 # Inno.Animation
 

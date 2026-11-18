@@ -1,13 +1,20 @@
 ---
-title: Inno.Animation.Runtime
-description: Session playback, deterministic target-local blending, marker
-  dispatch and binding generations.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-animation-runtime
+symbol: project:Inno.Animation.Runtime
+title: Inno.Animation.Runtime
 kind: project
 owners:
-  - Inno.Animation.Runtime
+- Inno.Animation.Runtime
+reviewed: ''
 contracts:
-  - manual.animation.play-clips#target-and-playback-lifetime
+- manual.animation.play-clips#target-and-playback-lifetime
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Session playback, deterministic target-local blending, marker dispatch and binding generations.
+outdated: true
 ---
 # Inno.Animation.Runtime
 

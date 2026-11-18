@@ -1,10 +1,19 @@
 ---
-title: Inno.Core.Coroutines
-description: Frame-driven enumerators with explicit scheduler ownership, supported waits and reverse-order cleanup.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-core-coroutines
+symbol: project:Inno.Core.Coroutines
+title: Inno.Core.Coroutines
 kind: project
 owners:
-  - Inno.Core.Coroutines
+- Inno.Core.Coroutines
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Frame-driven enumerators with explicit scheduler ownership, supported waits and reverse-order cleanup.
+outdated: true
 ---
 # Inno.Core.Coroutines
 

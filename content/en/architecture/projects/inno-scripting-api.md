@@ -1,9 +1,19 @@
 ---
-title: Inno.Scripting.Api
-description: Explicit script exports, logical namespaces and domain-owned attachable-type metadata.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-scripting-api
+symbol: project:Inno.Scripting.Api
+title: Inno.Scripting.Api
 kind: project
-owners: [Inno.Scripting.Api]
+owners:
+- Inno.Scripting.Api
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Explicit script exports, logical namespaces and domain-owned attachable-type metadata.
+outdated: true
 ---
 # Inno.Scripting.Api
 

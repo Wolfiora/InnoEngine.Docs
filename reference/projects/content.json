@@ -1,0 +1,590 @@
+{
+  "schema": "inno-project-guides/1",
+  "entries": [
+    {
+      "path": "content/en/architecture/projects/inno-adapter-audio.md",
+      "uid": "project.inno-adapter-audio",
+      "project": "Inno.Adapter.Audio"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-adapter-authoring-default.md",
+      "uid": "project.inno-adapter-authoring-default",
+      "project": "Inno.Adapter.Authoring.Default"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-adapter-default.md",
+      "uid": "project.inno-adapter-default",
+      "project": "Inno.Adapter.Default"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-adapter-input.md",
+      "uid": "project.inno-adapter-input",
+      "project": "Inno.Adapter.Input"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-adapter-platform.md",
+      "uid": "project.inno-adapter-platform",
+      "project": "Inno.Adapter.Platform"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-adapter-presentation.md",
+      "uid": "project.inno-adapter-presentation",
+      "project": "Inno.Adapter.Presentation"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-adapter-rendering-authoring.md",
+      "uid": "project.inno-adapter-rendering-authoring",
+      "project": "Inno.Adapter.Rendering.Authoring"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-adapter-rendering.md",
+      "uid": "project.inno-adapter-rendering",
+      "project": "Inno.Adapter.Rendering"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-adapter-storage.md",
+      "uid": "project.inno-adapter-storage",
+      "project": "Inno.Adapter.Storage"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-adapter-text.md",
+      "uid": "project.inno-adapter-text",
+      "project": "Inno.Adapter.Text"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-adapter-ui.md",
+      "uid": "project.inno-adapter-ui",
+      "project": "Inno.Adapter.UI"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-adapter.md",
+      "uid": "project.inno-adapter",
+      "project": "Inno.Adapter"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-animation-assets.md",
+      "uid": "project.inno-animation-assets",
+      "project": "Inno.Animation.Assets"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-animation-runtime.md",
+      "uid": "project.inno-animation-runtime",
+      "project": "Inno.Animation.Runtime"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-animation.md",
+      "uid": "project.inno-animation",
+      "project": "Inno.Animation"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-assets-pipeline.md",
+      "uid": "project.inno-assets-pipeline",
+      "project": "Inno.Assets.Pipeline"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-assets.md",
+      "uid": "project.inno-assets",
+      "project": "Inno.Assets"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-audio-assets.md",
+      "uid": "project.inno-audio-assets",
+      "project": "Inno.Audio.Assets"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-audio-runtime.md",
+      "uid": "project.inno-audio-runtime",
+      "project": "Inno.Audio.Runtime"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-audio.md",
+      "uid": "project.inno-audio",
+      "project": "Inno.Audio"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-build-bindings.md",
+      "uid": "project.inno-build-bindings",
+      "project": "Inno.Build.Bindings"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-build-cli.md",
+      "uid": "project.inno-build-cli",
+      "project": "Inno.Build.Cli"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-build-composition.md",
+      "uid": "project.inno-build-composition",
+      "project": "Inno.Build.Composition"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-build-distribution-standard.md",
+      "uid": "project.inno-build-distribution-standard",
+      "project": "Inno.Build.Distribution.Standard"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-build-managed.md",
+      "uid": "project.inno-build-managed",
+      "project": "Inno.Build.Managed"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-build-products-standard.md",
+      "uid": "project.inno-build-products-standard",
+      "project": "Inno.Build.Products.Standard"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-build-supportpacks-core.md",
+      "uid": "project.inno-build-supportpacks-core",
+      "project": "Inno.Build.SupportPacks.Core"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-build-taskhosting.md",
+      "uid": "project.inno-build-taskhosting",
+      "project": "Inno.Build.TaskHosting"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-build-tasks.md",
+      "uid": "project.inno-build-tasks",
+      "project": "Inno.Build.Tasks"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-build-toolchains.md",
+      "uid": "project.inno-build-toolchains",
+      "project": "Inno.Build.Toolchains"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-build.md",
+      "uid": "project.inno-build",
+      "project": "Inno.Build"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-content.md",
+      "uid": "project.inno-content",
+      "project": "Inno.Content"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-core-collections.md",
+      "uid": "project.inno-core-collections",
+      "project": "Inno.Core.Collections"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-core-coroutines.md",
+      "uid": "project.inno-core-coroutines",
+      "project": "Inno.Core.Coroutines"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-core-diagnostics.md",
+      "uid": "project.inno-core-diagnostics",
+      "project": "Inno.Core.Diagnostics"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-core-events.md",
+      "uid": "project.inno-core-events",
+      "project": "Inno.Core.Events"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-core-execution.md",
+      "uid": "project.inno-core-execution",
+      "project": "Inno.Core.Execution"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-core-graphs.md",
+      "uid": "project.inno-core-graphs",
+      "project": "Inno.Core.Graphs"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-core-identity.md",
+      "uid": "api.projects.inno-core-identity",
+      "project": "Inno.Core.Identity"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-core-input.md",
+      "uid": "project.inno-core-input",
+      "project": "Inno.Core.Input"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-core-io.md",
+      "uid": "project.inno-core-io",
+      "project": "Inno.Core.IO"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-core-jobs.md",
+      "uid": "project.inno-core-jobs",
+      "project": "Inno.Core.Jobs"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-core-layers.md",
+      "uid": "project.inno-core-layers",
+      "project": "Inno.Core.Layers"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-core-logging.md",
+      "uid": "project.inno-core-logging",
+      "project": "Inno.Core.Logging"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-core-mathematics.md",
+      "uid": "project.inno-core-mathematics",
+      "project": "Inno.Core.Mathematics"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-core-serialization-generators.md",
+      "uid": "project.inno-core-serialization-generators",
+      "project": "Inno.Core.Serialization.Generators"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-core-serialization.md",
+      "uid": "project.inno-core-serialization",
+      "project": "Inno.Core.Serialization"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-core-settings.md",
+      "uid": "project.inno-core-settings",
+      "project": "Inno.Core.Settings"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-annotations.md",
+      "uid": "api.projects.inno-editor-annotations",
+      "project": "Inno.Editor.Annotations"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-assets-imgui.md",
+      "uid": "project.inno-editor-assets-imgui",
+      "project": "Inno.Editor.Assets.ImGui"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-assets.md",
+      "uid": "project.inno-editor-assets",
+      "project": "Inno.Editor.Assets"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-audio.md",
+      "uid": "project.inno-editor-audio",
+      "project": "Inno.Editor.Audio"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-core.md",
+      "uid": "api.projects.inno-editor-core",
+      "project": "Inno.Editor.Core"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-diagnostics.md",
+      "uid": "api.projects.inno-editor-diagnostics",
+      "project": "Inno.Editor.Diagnostics"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-exporting.md",
+      "uid": "project.inno-editor-exporting",
+      "project": "Inno.Editor.Exporting"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-graph-imgui.md",
+      "uid": "project.inno-editor-graph-imgui",
+      "project": "Inno.Editor.Graph.ImGui"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-graph.md",
+      "uid": "project.inno-editor-graph",
+      "project": "Inno.Editor.Graph"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-hosting.md",
+      "uid": "project.inno-editor-hosting",
+      "project": "Inno.Editor.Hosting"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-imgui.md",
+      "uid": "project.inno-editor-imgui",
+      "project": "Inno.Editor.ImGui"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-inspection.md",
+      "uid": "project.inno-editor-inspection",
+      "project": "Inno.Editor.Inspection"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-interactions.md",
+      "uid": "api.projects.inno-editor-interactions",
+      "project": "Inno.Editor.Interactions"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-panel-filebrowser.md",
+      "uid": "project.inno-editor-panel-filebrowser",
+      "project": "Inno.Editor.Panel.FileBrowser"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-panel-gameview.md",
+      "uid": "project.inno-editor-panel-gameview",
+      "project": "Inno.Editor.Panel.GameView"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-panel-hierarchy.md",
+      "uid": "project.inno-editor-panel-hierarchy",
+      "project": "Inno.Editor.Panel.Hierarchy"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-panel-inspector.md",
+      "uid": "project.inno-editor-panel-inspector",
+      "project": "Inno.Editor.Panel.Inspector"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-panel-logging.md",
+      "uid": "project.inno-editor-panel-logging",
+      "project": "Inno.Editor.Panel.Logging"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-panel-sceneview.md",
+      "uid": "project.inno-editor-panel-sceneview",
+      "project": "Inno.Editor.Panel.SceneView"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-panel-settings.md",
+      "uid": "project.inno-editor-panel-settings",
+      "project": "Inno.Editor.Panel.Settings"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-panel-shadereditor.md",
+      "uid": "project.inno-editor-panel-shadereditor",
+      "project": "Inno.Editor.Panel.ShaderEditor"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-panel-stats.md",
+      "uid": "api.projects.inno-editor-panel-stats",
+      "project": "Inno.Editor.Panel.Stats"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-playmode.md",
+      "uid": "project.inno-editor-playmode",
+      "project": "Inno.Editor.PlayMode"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-rendering.md",
+      "uid": "project.inno-editor-rendering",
+      "project": "Inno.Editor.Rendering"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-scene.md",
+      "uid": "project.inno-editor-scene",
+      "project": "Inno.Editor.Scene"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-scripting.md",
+      "uid": "project.inno-editor-scripting",
+      "project": "Inno.Editor.Scripting"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-settings.md",
+      "uid": "api.projects.inno-editor-settings",
+      "project": "Inno.Editor.Settings"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-shaders-imgui.md",
+      "uid": "project.inno-editor-shaders-imgui",
+      "project": "Inno.Editor.Shaders.ImGui"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-shaders.md",
+      "uid": "project.inno-editor-shaders",
+      "project": "Inno.Editor.Shaders"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-editor-workbench.md",
+      "uid": "project.inno-editor-workbench",
+      "project": "Inno.Editor.Workbench"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-engine-default.md",
+      "uid": "project.inno-engine-default",
+      "project": "Inno.Engine.Default"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-extensibility-catalogs.md",
+      "uid": "project.inno-extensibility-catalogs",
+      "project": "Inno.Extensibility.Catalogs"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-extensibility-modules.md",
+      "uid": "project.inno-extensibility-modules",
+      "project": "Inno.Extensibility.Modules"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-extensibility-reload.md",
+      "uid": "project.inno-extensibility-reload",
+      "project": "Inno.Extensibility.Reload"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-extensibility-types.md",
+      "uid": "project.inno-extensibility-types",
+      "project": "Inno.Extensibility.Types"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-input-runtime.md",
+      "uid": "project.inno-input-runtime",
+      "project": "Inno.Input.Runtime"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-input.md",
+      "uid": "project.inno-input",
+      "project": "Inno.Input"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-platform.md",
+      "uid": "project.inno-platform",
+      "project": "Inno.Platform"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-player-runtime.md",
+      "uid": "project.inno-player-runtime",
+      "project": "Inno.Player.Runtime"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-plugins-authoring.md",
+      "uid": "project.inno-plugins-authoring",
+      "project": "Inno.Plugins.Authoring"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-plugins.md",
+      "uid": "project.inno-plugins",
+      "project": "Inno.Plugins"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-references.md",
+      "uid": "project.inno-references",
+      "project": "Inno.References"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-rendering-assets-authoring.md",
+      "uid": "project.inno-rendering-assets-authoring",
+      "project": "Inno.Rendering.Assets.Authoring"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-rendering-assets.md",
+      "uid": "project.inno-rendering-assets",
+      "project": "Inno.Rendering.Assets"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-rendering-runtime.md",
+      "uid": "project.inno-rendering-runtime",
+      "project": "Inno.Rendering.Runtime"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-rendering-shaders.md",
+      "uid": "project.inno-rendering-shaders",
+      "project": "Inno.Rendering.Shaders"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-rendering.md",
+      "uid": "project.inno-rendering",
+      "project": "Inno.Rendering"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-runtime-contracts.md",
+      "uid": "project.inno-runtime-contracts",
+      "project": "Inno.Runtime.Contracts"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-runtime-generators.md",
+      "uid": "project.inno-runtime-generators",
+      "project": "Inno.Runtime.Generators"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-runtime.md",
+      "uid": "project.inno-runtime",
+      "project": "Inno.Runtime"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-scene-assets.md",
+      "uid": "project.inno-scene-assets",
+      "project": "Inno.Scene.Assets"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-scene.md",
+      "uid": "project.inno-scene",
+      "project": "Inno.Scene"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-scripting-api.md",
+      "uid": "project.inno-scripting-api",
+      "project": "Inno.Scripting.Api"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-scripting-compiler.md",
+      "uid": "project.inno-scripting-compiler",
+      "project": "Inno.Scripting.Compiler"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-scripting-reload.md",
+      "uid": "project.inno-scripting-reload",
+      "project": "Inno.Scripting.Reload"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-shell.md",
+      "uid": "project.inno-shell",
+      "project": "Inno.Shell"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-storage-runtime.md",
+      "uid": "project.inno-storage-runtime",
+      "project": "Inno.Storage.Runtime"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-storage.md",
+      "uid": "project.inno-storage",
+      "project": "Inno.Storage"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-text-assets.md",
+      "uid": "project.inno-text-assets",
+      "project": "Inno.Text.Assets"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-text-runtime.md",
+      "uid": "project.inno-text-runtime",
+      "project": "Inno.Text.Runtime"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-text.md",
+      "uid": "project.inno-text",
+      "project": "Inno.Text"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-tooling-architecture.md",
+      "uid": "project.inno-tooling-architecture",
+      "project": "Inno.Tooling.Architecture"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-tooling-documentation.md",
+      "uid": "project.inno-tooling-documentation",
+      "project": "Inno.Tooling.Documentation"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-tooling-validation.md",
+      "uid": "project.inno-tooling-validation",
+      "project": "Inno.Tooling.Validation"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-ui-assets.md",
+      "uid": "project.inno-ui-assets",
+      "project": "Inno.UI.Assets"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-ui-runtime.md",
+      "uid": "project.inno-ui-runtime",
+      "project": "Inno.UI.Runtime"
+    },
+    {
+      "path": "content/en/architecture/projects/inno-ui.md",
+      "uid": "project.inno-ui",
+      "project": "Inno.UI"
+    },
+    {
+      "path": "content/en/architecture/projects/innoengine-build.md",
+      "uid": "project.innoengine-build",
+      "project": "InnoEngine.Build"
+    },
+    {
+      "path": "content/en/architecture/projects/innoengine-editor.md",
+      "uid": "project.innoengine-editor",
+      "project": "InnoEngine.Editor"
+    }
+  ]
+}

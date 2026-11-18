@@ -1,9 +1,19 @@
 ---
-title: Inno.Editor.Graph.ImGui
-description: "Neutral graph geometry, pointer intent and borrowed UI drawing independent of shader or panel semantics."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-graph-imgui
+symbol: project:Inno.Editor.Graph.ImGui
+title: Inno.Editor.Graph.ImGui
 kind: project
-owners: [Inno.Editor.Graph.ImGui]
+owners:
+- Inno.Editor.Graph.ImGui
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Neutral graph geometry, pointer intent and borrowed UI drawing independent of shader or panel semantics.
+outdated: true
 ---
 # Inno.Editor.Graph.ImGui
 

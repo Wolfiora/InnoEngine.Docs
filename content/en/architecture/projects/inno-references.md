@@ -1,10 +1,19 @@
 ---
-title: Inno.References
-description: Persistent reference intent, neutral Missing slots and coordinated recovery.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-references
+symbol: project:Inno.References
+title: Inno.References
 kind: project
 owners:
-  - Inno.References
+- Inno.References
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Persistent reference intent, neutral Missing slots and coordinated recovery.
+outdated: true
 ---
 # Inno.References
 

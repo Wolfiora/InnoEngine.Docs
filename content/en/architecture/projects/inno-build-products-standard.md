@@ -1,11 +1,22 @@
 ---
-title: Inno.Build.Products.Standard
-description: "Standard Native component closures and deployment manifests without SDK selection."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-build-products-standard
+symbol: project:Inno.Build.Products.Standard
+title: Inno.Build.Products.Standard
 kind: project
-owners: [Inno.Build.Products.Standard]
+owners:
+- Inno.Build.Products.Standard
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Standard Native component closures and deployment manifests without SDK selection.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Build.Products.Standard]
+exampleProjects:
+- Inno.Build.Products.Standard
 ---
 # Inno.Build.Products.Standard
 

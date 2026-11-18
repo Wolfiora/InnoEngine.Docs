@@ -1,11 +1,22 @@
 ---
-title: Inno.Editor.Shaders
-description: "UI-free material source drafts, neutral History and Editor-only shader parameter presentation."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-shaders
+symbol: project:Inno.Editor.Shaders
+title: Inno.Editor.Shaders
 kind: project
-owners: [Inno.Editor.Shaders]
+owners:
+- Inno.Editor.Shaders
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- UI-free material source drafts, neutral History and Editor-only shader parameter presentation.
+outdated: true
 exampleMode: editor-script
-exampleProjects: [Inno.Editor.Shaders]
+exampleProjects:
+- Inno.Editor.Shaders
 ---
 # Inno.Editor.Shaders
 

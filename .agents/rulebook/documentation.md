@@ -10,6 +10,10 @@ Each API manifest records its captured source revision and tree independently of
 
 Write derived project/API JSON with canonical UTF-8 and LF line endings before hashing it. A locally matching hash is insufficient if Git normalizes different bytes at commit time. Preserve original licensed asset bytes through the declared binary/non-text attributes and verify their provenance hashes; do not normalize legal payloads to satisfy the derived-fact rule.
 
+## Project guide synchronization
+
+Register project guides explicitly in `reference/projects/content.json`. Apply the API prose ownership policy to these pages through the same engine synchronization, review and canonical composition pipeline. Preserve named-author bodies byte for byte; update generated project/type facts independently. Hash actual project metadata and its captured declarations/XML for source review, not unrelated engine commits. Existing authored prose enters with a review request, never as XML-owned content. Only registered project paths may be rewritten. Source status is advisory; malformed metadata and corrupted facts remain errors. Project guides remain outside API navigation and use disclosure-only groups.
+
 ## Page purpose
 
 Every page has one primary purpose: landing, tutorial, how-to, explanation, project overview, API reference, or troubleshooting. Begin with what the reader can learn or accomplish. Use one H1, meaningful section headings, focused paragraphs, and descriptive links. Do not create empty template sections.

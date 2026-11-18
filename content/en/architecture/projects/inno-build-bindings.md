@@ -1,11 +1,22 @@
 ---
-title: Inno.Build.Bindings
-description: "The engine's replaceable BGCS integration behind neutral generation contracts."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-build-bindings
+symbol: project:Inno.Build.Bindings
+title: Inno.Build.Bindings
 kind: project
-owners: [Inno.Build.Bindings]
+owners:
+- Inno.Build.Bindings
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- The engine's replaceable BGCS integration behind neutral generation contracts.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Build.Bindings]
+exampleProjects:
+- Inno.Build.Bindings
 ---
 # Inno.Build.Bindings
 

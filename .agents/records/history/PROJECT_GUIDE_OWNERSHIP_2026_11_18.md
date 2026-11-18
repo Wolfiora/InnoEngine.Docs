@@ -1,0 +1,134 @@
+# Project guide ownership migration
+
+Registered 117 existing project guides. Retained each original body byte for byte, attributed it to InnoEngine contributors, and requested source review. No guide is represented as verified solely by this migration. Project metadata and canonical API facts supply generated sections independently.
+
+The five non-API navigation areas preserve all 173 previously explicit page routes. Their new disclosure-only groups are authored by reader task. Project, backend and test-guide indexes and seven script examples now have explicit placements instead of falling back to a top-level section. All existing non-project pages in these areas have an explicit placement; project-guide lists remain flat beneath their index.
+
+## Validation
+
+- Functional validation used engine tooling `0cc045bed651ac5c2fcbaba16a47eb6da2db3eec`; selected source/API revision remains `32cd34c21e4bc0c29d9989cf28c745bd1316fecb`. The final pin `0754569707e5298df587679f3623804b44d104ba` only reformats the two project-guide record parameter lists after the Windows architecture check identified them. That CI check is rerun on the final commit.
+- 189 Node tests and two focused engine synchronization/review tests passed.
+- The pinned tool checked the API package and prepared/exported all 18,555 canonical pages. Source extraction and product certification were not repeated.
+- A non-publishable five-page preview passed the production renderer and projection checks. Nine browser cases passed across desktop, tablet and mobile, covering project ownership, nested navigation and unregistered authored guides.
+- All 117 original body hashes below still match. Existing routes are preserved; new explicit placements are unique.
+- Complete Release validation and deployment remain GitHub Actions obligations. No automatic main merge or deployment was performed during this migration.
+
+| Page | Original body SHA-256 | Disposition |
+| --- | --- | --- |
+| content/en/architecture/projects/inno-adapter-audio.md | d20e3f17eb3a5bf1835799160991c475e192748c8c833cebafd634edfefb4f96 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-adapter-authoring-default.md | 3e73e538006e97d29721b1693bc54440060451a995b087709b81ba8e7d9b8a9b | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-adapter-default.md | 08e75ce024c86910e87465c5de01de43456b63c9eef004d8658c1f436f52a8f6 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-adapter-input.md | 41291d6966e7b4ae1537182d5b9736d6af790523988df1da52a364ffc88360f1 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-adapter-platform.md | c9590d170b80edbae1dbe013cfd48fd8dc390a69a4ba0c93b03891b6bc04f369 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-adapter-presentation.md | a1038fcebbe38a02493f004cf914b56ed9c95e633ca3557c2004a1cfc63033d5 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-adapter-rendering-authoring.md | 7cc17ae9a156626fb5ffa9736ee855e71bfd53484d373b865c1aa5f9667a3bac | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-adapter-rendering.md | c57b7cceefa7ae1c02c4a02a5176148a2ee9b0a1428862060f8041965239ab45 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-adapter-storage.md | a02c9a9f8a9db34675675d7db29d43c3907d7e261fd46c2f13fadc6e93cea9ee | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-adapter-text.md | 892a5e890b2a842a1f10b09526d849410b7c70e3c8b85b1c53a5ffec719be00c | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-adapter-ui.md | 0b045bc1262a6be3fcccb719aaff215e2c9f16cb5d482a4bd2bdf664ed22bd44 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-adapter.md | 6ce0dbab8597364935c1a58c411c997f4678157d3310ba6ce5adf0c9786b51ca | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-animation-assets.md | 66f83690c459b0dec38e089e32784e35a150ed380b1c9209f2fea79758845d90 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-animation-runtime.md | aec8bab2d4dfd89e5477cb329b089de4af04a1c79a9ef8300119f9f1bb176d39 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-animation.md | c69a9d7cd8cd16e74919fbcbb4d1a1cc32f755ca33f04eacb97c4bd8adb95f69 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-assets-pipeline.md | e404161ab6bd11115303b7e0083f52bfb33da3bebcb4d3ef9c2c8d542ac0f033 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-assets.md | ab9621fabc6031c592140f755cc5b18c12a7b52f0521e7d67a58af9016298204 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-audio-assets.md | 889028df66acf85505b3dbe1c1bf6a1f9aa8c28d32bd57a58aa5005de6388256 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-audio-runtime.md | 5760091baeab73cbe1fa2578f789918cd45e9c690cda4c1b27c8de4bdd226ef2 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-audio.md | 56285e72ccc87147e4b75cde822959291fa861b7cc96b3c6fe9a5be9bb18c4fe | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-build-bindings.md | 6992ceb7f63cb800564bf2267eaef7fe14af3b03b773e9a273ac6ee85ca95ba4 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-build-cli.md | 113b472f676b8c093a5da2065c44929acfa86600759926a7c86a10b8b0305cbe | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-build-composition.md | 6fe7e5f3405481a038d3b087732035d0e14ece6e85795e5bd788688b7f1ed723 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-build-distribution-standard.md | ded1e5c70de1165c51741f93eb01ac52e5d886a50734e06bdb7745278cb789bf | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-build-managed.md | 47d8c7e0aa7aa0fc1b2b1da8b2de8b4d73aec0fa4753c5fea0164802a01a39b7 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-build-products-standard.md | 40d04eb6ee580d170f16097238272d2aa258894891066e80d56bc36cc681f243 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-build-supportpacks-core.md | 217d1340948b2c51c6b67e301351db45f2f72fabe19b1ff5d9628776ea672a62 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-build-taskhosting.md | 02b50fd77563aaa1e03cacd9485be7a696fe2f40e7fa586db2ac7e24116c6c78 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-build-tasks.md | eaecda0cc8f452829366a64a7583d1ca8cd98aadbe1ca7011dd92a96a43b9845 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-build-toolchains.md | a645995b1440f1e88ecc22227f9fec27e0cfcfeb52433f49c0eb39a9bd58a60b | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-build.md | d4d28086a987259ba11a6404786cbbfe38b7320cdaf7d98e32fd25265d728dff | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-content.md | 76da92e89b0ab45badaa79171d6e0e06cbbf5f97f01db5785f53efbc7f00901d | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-core-collections.md | 46c0b1527318c4134de73b6d5ebf32d2df8a24c97500a01edb68fd9c3ad388b7 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-core-coroutines.md | 5231861c76ddc1066519449f60b50ae1139f0997cdf893fa1db7b79a5252028b | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-core-diagnostics.md | 1b79383f0e90c8e1f585372ae7219dbfe4205813fe803fdf08974ad23547e264 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-core-events.md | 652064ee3c858e45ec39bb411d451f665fd3882d57314fe4a5e89bd746bbd1fb | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-core-execution.md | 02d78c4054efa16958cb66a4dfa566b0845f5d17c47e6016d6092b9ffccd9862 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-core-graphs.md | 88e13d14340c83a2e7089c9bd747eebe2b97e1f958573cb0bf7faf3a2b86b7a1 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-core-identity.md | e4b1a2c0d1e9490158e49240fe46c6cd3ea8c161198b2ee88ae304ec1288f979 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-core-input.md | cf3b456e919cea3ae4c22c9657a276ba16b7b623ee5a3e931336fe6c712f4ae9 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-core-io.md | 9eec3371698a7ce4c5bc5e2fb7f33dda1fc4c40151480df3a28f6afc25ce17b5 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-core-jobs.md | 5ea8247fb70d5de7e6473f077afbc667075547054b5feddcf3790c885f6af769 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-core-layers.md | a228e145cc72af09d55cba170a3369e0eea1f348fde494c76ad7e053670fa1ef | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-core-logging.md | ab0d305a1478eae7064177714a3161cece428d3d1c0d1e60b385b0b83efb85a0 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-core-mathematics.md | eb766e0160c7feed7675be28b1ebbb5b471f06e2430b4a36bdee889f47988ebc | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-core-serialization-generators.md | 7e53f9e0189899ff90169825a424511e9ce1ae2bb4dd05f9d408384daddea8e2 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-core-serialization.md | 47195ee233d92bd31b42052a6bdc75908bbb2eb08c32bedc83db1d55e6747784 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-core-settings.md | e835d6411b7e70ceb24b8ef39e63ff3a18bccb1f38941d4cce5a8e5201e73536 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-annotations.md | 9e5b8e7376127e8939c67f495815189e099b01d11f4131d5b47fe8e625292919 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-assets-imgui.md | 285028ddb056b71e5ba7f74a77cdd2ed203873705f9b824bc789e3ea87628a8b | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-assets.md | 7e3b3c768a57c78d852a42cefb8f9ac3f4b9521fb5bc94216e8cf5d9d1354852 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-audio.md | 14f59464913fee2450988b7a756a72d9d86a95a9145767bb1c9aabbd3da545cd | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-core.md | 5dca5c38034c79842c94e925d015f32cfe6333c7e40018f737ab9a590e5ae327 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-diagnostics.md | 454ca6ea1465a16ed32dc015ba6b2a5fcc2b626d2b51fb95daab90efb1ec9f44 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-exporting.md | 9075ec4c54c34da5b140acb6be5fb33d444ff12095bebf589ac46ff9cfba9053 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-graph-imgui.md | ddd762ceb5b5a892e872b48977d2b778f9693394c64c14a1800097e749a838f5 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-graph.md | 6ae30d1291e1a91fa339c0be6e3b979ae2b074de9497d979960f1ef11560a8e9 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-hosting.md | 3c1bcfe720df6887c34beabf6101c12b97555f74c6f59bbcca31aed85c5aa197 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-imgui.md | 08c949e71e3d4c7724e94df791e28254318a70b3e114a5b0681eb0ef679651fb | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-inspection.md | 73f876f4a91b9654a54b00079cfd9ccb0423c15d85bbfa6a54282f458a25abc0 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-interactions.md | 583ec92c7ad460d03fb5e035058b6dfde66fd6b1fb60468b5129236ef6a67c21 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-panel-filebrowser.md | 2c80f510173b498b0732f6101b6d4afb91a4f954ec89a12cd4f9d93366207e09 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-panel-gameview.md | 2d10d8c3a10c613cece4fd03944f41ee109b01b69d3e1bb74d2d6536888b135e | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-panel-hierarchy.md | 36604d98919fabfc8eda67e0f55ab6c46e7671f5255805a100d76d54b16ef903 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-panel-inspector.md | 764044d9408989366f5a8ac149b1f78557ba1d0c936dfcdcb0ecb43db5417614 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-panel-logging.md | 8e9cfbb73690c05439f407e8efb5c64af85c2003437a95b6fbd56a5d7e818de4 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-panel-sceneview.md | f9646f20e6142e160ff7cb75db636bdf1ca9894234e1cf8ade06e5040319c71c | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-panel-settings.md | 636b1dbac90c41476423d96f9d136fdfb8fa0a5cd0dcb9a933f9970800c4923c | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-panel-shadereditor.md | c0f16738aaa6362568b0bf467569ce6c118cc4ad127a694edf86ed1c990d49b6 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-panel-stats.md | 7844426722164ceffbd1ecec8cfc124d2c7f80ff0d38fd5209b588c7a3b456e6 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-playmode.md | d846ed5d382701d5f089f7b643828af190a4e0693ac664af86e931c598ad27a6 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-rendering.md | c6f3f72198b45b04d693451d2564c932034e306a1042b0dd555704ee58a1571d | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-scene.md | 445d332ad6822b4dc32b09c88d1338404ae6ef41d20d25a8540772d6cf4baffb | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-scripting.md | e46763ae6a4d52e22b52a839290029e21cef49d99fc144ac7a1ed503acfba7cc | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-settings.md | 85e153596c3fad65f2fad11e334b48a3a494163c91fd53b2ee583ec17fb09127 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-shaders-imgui.md | 9bc1e75708e545cf39a2e5bb21bfdf8fc43385d1267cf4b7f5c2a9dcd8abdda4 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-shaders.md | 8d35b0ad6a7cbaacd4de7bd7407a82e506f50ed6f659c54cd086ee991f757922 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-editor-workbench.md | 609023d544e5a550813767f8fd77a510570328d9e49d2772069d1eb07c4fc1fc | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-engine-default.md | 9df93957299d550ce7556a0ec38463eb31ce4b3b391e743cf9e6ef1672674935 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-extensibility-catalogs.md | 7f380ac6d4e5d7ebf3f4e256a2cedf008fece75b950738bf762f610333fd4b8d | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-extensibility-modules.md | 930b0653be565657d6f88d605a92c5a54cf12d8eaabf9cfed0ab02a029b70822 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-extensibility-reload.md | cfd55e1c921f1338ce19a5a02c59a7b28efb75d3d942432c7d1b4118a8415a02 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-extensibility-types.md | a7b662627014b49bc0e6d1fc686935bfcc809f25c514982596d8c2eed0f07724 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-input-runtime.md | 94693c06441c8213ce35bdae2b8a45847fbe200b533731e307c41a51d72f82f0 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-input.md | 250555c1be1a72b4e8134db6664f359d308f9cadba8431329da4c59e3d31e729 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-platform.md | ec0f0d046c151c979b9b2453833cb9c66b7e6ac1c20b9a41a1e10028ee692999 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-player-runtime.md | 2758e15314980baebb03af3ece1db2d95abb4584907f8b4c41dbaf342d63327b | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-plugins-authoring.md | f81e3d867f2ddf13367a65a32bdf77261cdbaf87829d36d8c3b9dce29071e250 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-plugins.md | 61c8375767b927e8f7df8d7f767c73ae6bab3d86dd486f77fad605626b3bebc6 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-references.md | acdfb68f7edbee3272b3335f22aa03b8e147b8822f6b6c2209f5d15aa6d7309f | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-rendering-assets-authoring.md | e6380b9f960858a953b22d227aa6b4c00d3a69dd40f3c8175860194b449a20f9 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-rendering-assets.md | 8d7cbb91ca0de808f8cf250dc079094cad6c734a4793957354302b9a87d9cd79 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-rendering-runtime.md | 8d9de33e9f46c9fe9cacfaa15fed0b0eb66e62fe591a0e779ea12e9209ffe877 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-rendering-shaders.md | 84782a8831015c5722fa578f56cec5af4229938367746349aea289bdb7ece085 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-rendering.md | e6725e24154b51904bdb307890e3d9b6a0f6e00b25c7cc4d199be71bfbfa623b | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-runtime-contracts.md | a1c611c195dda8c6fa6c036d14a7d5e11e3d0b22231ff921a117c479622ffba4 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-runtime-generators.md | 0dcbb746022235ce50e2e3c4eaa4e96153a68dad5fc4bf104186350e95185edd | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-runtime.md | d867f816b2de42694b8410e0d92f904a1e493a687c845b4d334ed5fa37201202 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-scene-assets.md | 3369ddd3f5e3d56ffb7f159b778508922f4780c955a12781f40ba40b73a64c15 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-scene.md | 281d378950910e7a85fdc46ea969e56ac1e453baf785a40318709c496fe1eae2 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-scripting-api.md | c8ba3426449250788e932e91c9db77e0cf7bee0b4ea9147ad520ac79242aa54e | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-scripting-compiler.md | f46e0ec3d8e686ecd33489d59551817f1196a71d9700b8e90a8a3d41df074aba | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-scripting-reload.md | a2ec32a7048e3dc33cecb98697f139443bbdde1a8922c0f2916432303788a76d | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-shell.md | e8fdba0ce220198f9df7da7bcc58cefb527c37ebef969f54c82528d1d89ac631 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-storage-runtime.md | 1f5ab0008df16fb7ac79f4ea1f9b087f211b8feb31da7efd412c958c1abf634f | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-storage.md | fce0bb2a2edf57e7839d60112996f71239bfe4448d85803e1d6df8d97918cecf | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-text-assets.md | a92cabff597f46cbd96cd8d5602bff01a6c5c3e0557a0dad3549b7143391c0b9 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-text-runtime.md | d1c4cb05c1038b349ad751e0817c4b9c61ffed7a0c805d0cfc414bf379532560 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-text.md | 38e718d80b9c86db66a9e54a877b197d79e4b0de2fbf226b7225c16bcce7d379 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-tooling-architecture.md | efe50874527a66ff4c0f0dfb324293eb3f360611c2d1ccd055d87aea7136b523 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-tooling-documentation.md | 1ce94d25149e3855fd904376aa9bc30318f1956acb9fc40f9fa7a78447847676 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-tooling-validation.md | ea453f5e9b53b66c54bbb3110d5ac52df2a79dda4f1d82915f5c47329fe5a36d | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-ui-assets.md | a58c77c1e95d2446084be55a56b0551d35d48a0f40f9a33fc918b1dd520d1ecf | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-ui-runtime.md | 06e9d236c980d154c305dbb4229e754a26858cd12937fcc96f248d22ce92a6b1 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/inno-ui.md | 65153fd8fbdb31aa6668181905ea56200ef4daf1dc7b8b08b402974748fe1e53 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/innoengine-build.md | ab7c5da6693252e70603c7e08d8f729c1160c05a81d7eb6419d302e943f40b24 | Preserved authored explanation; source review required. |
+| content/en/architecture/projects/innoengine-editor.md | 3a8a38548e58782892e55328f4ac5126e413d685059a17f7b38e367e2932023f | Preserved authored explanation; source review required. |

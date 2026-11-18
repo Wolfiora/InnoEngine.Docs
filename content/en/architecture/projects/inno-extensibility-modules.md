@@ -1,10 +1,19 @@
 ---
-title: Inno.Extensibility.Modules
-description: Explicit module sources, dependency closures, catalog candidates and the shared generation owner.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-extensibility-modules
+symbol: project:Inno.Extensibility.Modules
+title: Inno.Extensibility.Modules
 kind: project
 owners:
-  - Inno.Extensibility.Modules
+- Inno.Extensibility.Modules
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Explicit module sources, dependency closures, catalog candidates and the shared generation owner.
+outdated: true
 ---
 # Inno.Extensibility.Modules
 

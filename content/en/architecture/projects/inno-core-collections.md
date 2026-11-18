@@ -1,10 +1,19 @@
 ---
-title: Inno.Core.Collections
-description: Deterministic dependency relationships and reference-identity object indexes without resource lifecycle ownership.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-core-collections
+symbol: project:Inno.Core.Collections
+title: Inno.Core.Collections
 kind: project
 owners:
-  - Inno.Core.Collections
+- Inno.Core.Collections
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Deterministic dependency relationships and reference-identity object indexes without resource lifecycle ownership.
+outdated: true
 ---
 # Inno.Core.Collections
 

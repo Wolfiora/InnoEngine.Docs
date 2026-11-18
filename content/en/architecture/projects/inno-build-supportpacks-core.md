@@ -1,11 +1,22 @@
 ---
-title: Inno.Build.SupportPacks.Core
-description: "Verified Support Pack preparation, publication and protected consumption."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-build-supportpacks-core
+symbol: project:Inno.Build.SupportPacks.Core
+title: Inno.Build.SupportPacks.Core
 kind: project
-owners: [Inno.Build.SupportPacks.Core]
+owners:
+- Inno.Build.SupportPacks.Core
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Verified Support Pack preparation, publication and protected consumption.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Build.SupportPacks.Core]
+exampleProjects:
+- Inno.Build.SupportPacks.Core
 ---
 # Inno.Build.SupportPacks.Core
 

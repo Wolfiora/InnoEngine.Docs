@@ -1,9 +1,19 @@
 ---
-title: InnoEngine.Editor
-description: "The development executable that directly starts the SDK-selected Editor product."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.innoengine-editor
+symbol: project:InnoEngine.Editor
+title: InnoEngine.Editor
 kind: project
-owners: [InnoEngine.Editor]
+owners:
+- InnoEngine.Editor
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- The development executable that directly starts the SDK-selected Editor product.
+outdated: true
 ---
 # InnoEngine.Editor
 

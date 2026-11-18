@@ -1,13 +1,20 @@
 ---
-title: Inno.Core.Identity
-description: Persistent object identity and generation-safe lookup within an
-  explicitly owned runtime domain.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: api.projects.inno-core-identity
+symbol: project:Inno.Core.Identity
+title: Inno.Core.Identity
 kind: project
 owners:
-  - Inno.Core.Identity
+- Inno.Core.Identity
+reviewed: ''
 contracts:
-  - manual.identity-and-missing
+- manual.identity-and-missing
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Persistent object identity and generation-safe lookup within an explicitly owned runtime domain.
+outdated: true
 ---
 # Inno.Core.Identity
 

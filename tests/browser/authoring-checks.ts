@@ -11,7 +11,7 @@ test('page footer credits the creator and pagination stays within the current pa
   await expect(page.locator('.page-credit')).toContainText('Page written by InnoEngine contributors.');
   await expect(page.locator('.page-credit')).not.toContainText('Generated automatically');
   await page.goto('api/engine/animation/animation/');
-  await expect(page.locator('.page-credit')).toContainText('Generated automatically from engine source XML');
+  await expect(page.locator('.page-credit')).toContainText('Generated automatically from engine source facts and XML documentation.');
   const member = page.locator('.sl-markdown-content table a').filter({hasText:'Animation.Play'}).first();
   await page.goto((await member.getAttribute('href'))!);
   const links = page.locator('.pagination-links a');

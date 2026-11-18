@@ -1,10 +1,19 @@
 ---
-title: Inno.Text
-description: Imported fonts, neutral shaping values, text service contracts and the runtime script facade.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-text
+symbol: project:Inno.Text
+title: Inno.Text
 kind: project
 owners:
-  - Inno.Text
+- Inno.Text
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Imported fonts, neutral shaping values, text service contracts and the runtime script facade.
+outdated: true
 ---
 # Inno.Text
 

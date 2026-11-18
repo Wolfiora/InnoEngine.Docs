@@ -1,14 +1,21 @@
 ---
-title: Inno.Editor.Settings
-description: Editor preferences and Project setting drawers share a frontend
-  while preserving separate persistence owners.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: api.projects.inno-editor-settings
+symbol: project:Inno.Editor.Settings
+title: Inno.Editor.Settings
 kind: project
 owners:
-  - Inno.Editor.Settings
+- Inno.Editor.Settings
+reviewed: ''
 contracts:
-  - architecture.editor-generations
-  - architecture.ownership
+- architecture.editor-generations
+- architecture.ownership
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Editor preferences and Project setting drawers share a frontend while preserving separate persistence owners.
+outdated: true
 ---
 # Inno.Editor.Settings
 

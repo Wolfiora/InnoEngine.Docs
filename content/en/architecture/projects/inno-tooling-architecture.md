@@ -1,10 +1,19 @@
 ---
-title: Inno.Tooling.Architecture
-description: Source, project, compiled-boundary and documentation validation for engine contributors.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-tooling-architecture
+symbol: project:Inno.Tooling.Architecture
+title: Inno.Tooling.Architecture
 kind: project
 owners:
-  - Inno.Tooling.Architecture
+- Inno.Tooling.Architecture
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Source, project, compiled-boundary and documentation validation for engine contributors.
+outdated: true
 ---
 # Inno.Tooling.Architecture
 

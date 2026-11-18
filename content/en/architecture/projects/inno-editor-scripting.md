@@ -1,11 +1,22 @@
 ---
-title: Inno.Editor.Scripting
-description: "Asset-backed script scheduling, request-bound readiness, neutral reload coordination and progress observation."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-scripting
+symbol: project:Inno.Editor.Scripting
+title: Inno.Editor.Scripting
 kind: project
-owners: [Inno.Editor.Scripting]
+owners:
+- Inno.Editor.Scripting
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Asset-backed script scheduling, request-bound readiness, neutral reload coordination and progress observation.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Editor.Scripting]
+exampleProjects:
+- Inno.Editor.Scripting
 ---
 # Inno.Editor.Scripting
 

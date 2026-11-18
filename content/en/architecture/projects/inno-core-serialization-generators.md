@@ -1,10 +1,19 @@
 ---
-title: Inno.Core.Serialization.Generators
-description: Compiler-owned converters and closed metadata access without runtime reflection fallback.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-core-serialization-generators
+symbol: project:Inno.Core.Serialization.Generators
+title: Inno.Core.Serialization.Generators
 kind: project
 owners:
-  - Inno.Core.Serialization.Generators
+- Inno.Core.Serialization.Generators
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Compiler-owned converters and closed metadata access without runtime reflection fallback.
+outdated: true
 ---
 # Inno.Core.Serialization.Generators
 

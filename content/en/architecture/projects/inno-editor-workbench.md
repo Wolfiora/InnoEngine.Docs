@@ -1,9 +1,19 @@
 ---
-title: Inno.Editor.Workbench
-description: "Internal application-wide settings, commands, zoom and workflow presentation."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-workbench
+symbol: project:Inno.Editor.Workbench
+title: Inno.Editor.Workbench
 kind: project
-owners: [Inno.Editor.Workbench]
+owners:
+- Inno.Editor.Workbench
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Internal application-wide settings, commands, zoom and workflow presentation.
+outdated: true
 ---
 # Inno.Editor.Workbench
 

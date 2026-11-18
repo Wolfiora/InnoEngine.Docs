@@ -1,10 +1,19 @@
 ---
-title: Inno.Adapter.Input
-description: Compose input providers and route neutral events to isolated session backends.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-adapter-input
+symbol: project:Inno.Adapter.Input
+title: Inno.Adapter.Input
 kind: project
 owners:
-  - Inno.Adapter.Input
+- Inno.Adapter.Input
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Compose input providers and route neutral events to isolated session backends.
+outdated: true
 ---
 # Inno.Adapter.Input
 

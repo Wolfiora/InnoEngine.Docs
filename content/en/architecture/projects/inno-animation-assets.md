@@ -1,10 +1,19 @@
 ---
-title: Inno.Animation.Assets
-description: Import and export validated structured animation sources through shared serialization.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-animation-assets
+symbol: project:Inno.Animation.Assets
+title: Inno.Animation.Assets
 kind: project
 owners:
-  - Inno.Animation.Assets
+- Inno.Animation.Assets
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Import and export validated structured animation sources through shared serialization.
+outdated: true
 ---
 # Inno.Animation.Assets
 

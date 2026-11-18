@@ -1,11 +1,22 @@
 ---
-title: Inno.Build.Toolchains
-description: "Neutral SDK facts, frozen execution inputs, immutable publications and registered cache ownership."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-build-toolchains
+symbol: project:Inno.Build.Toolchains
+title: Inno.Build.Toolchains
 kind: project
-owners: [Inno.Build.Toolchains]
+owners:
+- Inno.Build.Toolchains
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Neutral SDK facts, frozen execution inputs, immutable publications and registered cache ownership.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Build.Toolchains]
+exampleProjects:
+- Inno.Build.Toolchains
 ---
 # Inno.Build.Toolchains
 

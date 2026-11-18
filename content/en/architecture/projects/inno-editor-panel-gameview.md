@@ -1,9 +1,19 @@
 ---
-title: Inno.Editor.Panel.GameView
-description: "Internal host for routed game outputs and focused Play input."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-editor-panel-gameview
+symbol: project:Inno.Editor.Panel.GameView
+title: Inno.Editor.Panel.GameView
 kind: project
-owners: [Inno.Editor.Panel.GameView]
+owners:
+- Inno.Editor.Panel.GameView
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Internal host for routed game outputs and focused Play input.
+outdated: true
 ---
 # Inno.Editor.Panel.GameView
 

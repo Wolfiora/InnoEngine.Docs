@@ -1,10 +1,19 @@
 ---
-title: Inno.Core.Settings
-description: Byte-backed settings documents, project contribution composition, and generation-scoped lookup.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-core-settings
+symbol: project:Inno.Core.Settings
+title: Inno.Core.Settings
 kind: project
 owners:
-  - Inno.Core.Settings
+- Inno.Core.Settings
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Byte-backed settings documents, project contribution composition, and generation-scoped lookup.
+outdated: true
 ---
 # Inno.Core.Settings
 

@@ -1,11 +1,22 @@
 ---
-title: Inno.Platform
-description: "Neutral application, window and frame-pacing contracts without native handles."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-platform
+symbol: project:Inno.Platform
+title: Inno.Platform
 kind: project
-owners: [Inno.Platform]
+owners:
+- Inno.Platform
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Neutral application, window and frame-pacing contracts without native handles.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Platform]
+exampleProjects:
+- Inno.Platform
 ---
 # Inno.Platform
 

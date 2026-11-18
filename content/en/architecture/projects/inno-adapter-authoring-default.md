@@ -1,11 +1,22 @@
 ---
-title: Inno.Adapter.Authoring.Default
-description: "Editor authoring and presentation providers composed over the neutral runtime catalog."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-adapter-authoring-default
+symbol: project:Inno.Adapter.Authoring.Default
+title: Inno.Adapter.Authoring.Default
 kind: project
-owners: [Inno.Adapter.Authoring.Default]
+owners:
+- Inno.Adapter.Authoring.Default
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Editor authoring and presentation providers composed over the neutral runtime catalog.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Adapter.Authoring.Default]
+exampleProjects:
+- Inno.Adapter.Authoring.Default
 ---
 # Inno.Adapter.Authoring.Default
 

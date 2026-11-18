@@ -1,10 +1,19 @@
 ---
-title: Inno.Plugins.Authoring
-description: Validated plugin packages, immutable asset mounts and coordinated availability changes.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-plugins-authoring
+symbol: project:Inno.Plugins.Authoring
+title: Inno.Plugins.Authoring
 kind: project
 owners:
-  - Inno.Plugins.Authoring
+- Inno.Plugins.Authoring
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Validated plugin packages, immutable asset mounts and coordinated availability changes.
+outdated: true
 ---
 # Inno.Plugins.Authoring
 

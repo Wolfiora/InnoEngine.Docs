@@ -1,11 +1,22 @@
 ---
-title: Inno.Rendering.Shaders
-description: "Language-neutral shader functions, graph lowering, typed stages and structured regions."
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-rendering-shaders
+symbol: project:Inno.Rendering.Shaders
+title: Inno.Rendering.Shaders
 kind: project
-owners: [Inno.Rendering.Shaders]
+owners:
+- Inno.Rendering.Shaders
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Language-neutral shader functions, graph lowering, typed stages and structured regions.
+outdated: true
 exampleMode: host
-exampleProjects: [Inno.Rendering.Shaders]
+exampleProjects:
+- Inno.Rendering.Shaders
 ---
 # Inno.Rendering.Shaders
 

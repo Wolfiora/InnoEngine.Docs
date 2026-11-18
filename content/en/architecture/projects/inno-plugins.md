@@ -1,10 +1,19 @@
 ---
-title: Inno.Plugins
-description: The Player-safe manifest contract for a local plugin package.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-plugins
+symbol: project:Inno.Plugins
+title: Inno.Plugins
 kind: project
 owners:
-  - Inno.Plugins
+- Inno.Plugins
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- The Player-safe manifest contract for a local plugin package.
+outdated: true
 ---
 # Inno.Plugins
 

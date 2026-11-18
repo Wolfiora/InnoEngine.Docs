@@ -1,10 +1,19 @@
 ---
-title: Inno.Text.Assets
-description: Import OpenType containers into compact runtime metadata and immutable encoded font data.
+# Generated metadata. Maintained by project synchronization and review tooling.
 uid: project.inno-text-assets
+symbol: project:Inno.Text.Assets
+title: Inno.Text.Assets
 kind: project
 owners:
-  - Inno.Text.Assets
+- Inno.Text.Assets
+reviewed: ''
+contracts: []
+
+# Authoring metadata. Edit these fields and the explanation below.
+source: InnoEngine contributors
+description:
+- Import OpenType containers into compact runtime metadata and immutable encoded font data.
+outdated: true
 ---
 # Inno.Text.Assets
 
