@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Shared generation admission, ordered domain publication and weak collectible-unload verification.
-outdated: true
+outdated: false
 ---
 # Inno.Extensibility.Reload
 

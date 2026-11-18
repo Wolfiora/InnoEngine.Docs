@@ -1,4 +1,5 @@
-const codes = new Set(['XmlOnly', 'EmptyManual', 'ReviewRequired', 'RemovedApi']);
+const apiCodes = new Set(['XmlOnly', 'EmptyManual', 'ReviewRequired', 'RemovedApi']);
+const projectCodes = new Set(['InitialReviewPending', 'ReviewRequired', 'ManualExplanationRequired', 'RemovedProject']);
 const requireValue = (condition, message) => { if (!condition) throw new Error(message); };
 
 /** Turn canonical editorial observations into a bounded non-blocking GitHub Check Run. */
@@ -18,12 +19,13 @@ export function editorialCheck(report, { sha, runUrl, annotationLimit = 100 }) {
     && Array.isArray(report.pendingSynchronization) && report.pendingSynchronization.length === 0,
   'The editorial tool did not complete against synchronized API facts.');
   requireValue(Number.isSafeInteger(annotationLimit) && annotationLimit >= 0 && annotationLimit <= 100, 'Invalid editorial annotation limit.');
-  const counts = Object.fromEntries([...codes].map((code) => [code, 0]));
+  const counts = Object.fromEntries([...new Set([...apiCodes, ...projectCodes])].map((code) => [code, 0]));
   const observations = new Set();
   for (const warning of report.warnings) {
-    requireValue(codes.has(warning.code) && typeof warning.symbol === 'string' && warning.symbol.length > 0
+    const validScope = (apiCodes.has(warning.code) && /^content\/en\/api\/(engine|scripting)\/.+\.md$/.test(warning.path))
+      || (projectCodes.has(warning.code) && /^content\/en\/architecture\/projects\/.+\.md$/.test(warning.path));
+    requireValue(validScope && typeof warning.symbol === 'string' && warning.symbol.length > 0
       && typeof warning.message === 'string' && warning.message.length > 0 && warning.message.length <= 4000
-      && /^content\/en\/api\/(engine|scripting)\/.+\.md$/.test(warning.path)
       && !warning.path.includes('\\') && !warning.path.includes(':')
       && warning.path.split('/').every((part) => part !== '' && part !== '.' && part !== '..'), 'Malformed editorial observation.');
     const key = warning.symbol + '\0' + warning.code;
@@ -34,7 +36,7 @@ export function editorialCheck(report, { sha, runUrl, annotationLimit = 100 }) {
   const conclusion = report.warnings.length ? 'neutral' : 'success';
   requireValue(report.conclusion === conclusion, 'Editorial conclusion differs from its observations.');
   const summary = [
-    `Reviewed ownership metadata for ${report.symbols} current API symbols.`,
+    `Checked ownership metadata for ${report.symbols} current API symbols and registered project guides.`,
     '', '| Observation | Count |', '| --- | ---: |',
     ...Object.entries(counts).map(([code, count]) => `| ${code} | ${count} |`), '',
     'Editorial observations do not block merging or deployment. Manual ownership does not prove semantic correctness.',

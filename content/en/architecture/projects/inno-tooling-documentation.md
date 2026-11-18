@@ -14,7 +14,7 @@ contracts:
 source: InnoEngine contributors
 description:
 - Immutable documentation publication and transport-independent queries for engine development tools.
-outdated: true
+outdated: false
 ---
 # Inno.Tooling.Documentation
 

@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Bounded append-only logging, explicit delivery policy, failure quarantine and host-owned sinks.
-outdated: true
+outdated: false
 ---
 # Inno.Core.Logging
 

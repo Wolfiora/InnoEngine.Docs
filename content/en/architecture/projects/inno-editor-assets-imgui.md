@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Reusable asset browsing state, icon discovery, styles and inspection presentation.
-outdated: true
+outdated: false
 ---
 # Inno.Editor.Assets.ImGui
 

@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Persistent neutral shader, material, texture, geometry and pipeline assets.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Rendering.Assets

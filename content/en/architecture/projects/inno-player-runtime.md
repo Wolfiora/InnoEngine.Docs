@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Shared desktop and Browser Player launch, content validation and application lifetime.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Player.Runtime

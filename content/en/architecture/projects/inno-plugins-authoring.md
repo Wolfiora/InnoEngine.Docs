@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Validated plugin packages, immutable asset mounts and coordinated availability changes.
-outdated: true
+outdated: false
 ---
 # Inno.Plugins.Authoring
 

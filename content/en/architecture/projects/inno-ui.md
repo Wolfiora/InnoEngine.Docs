@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Backend-neutral retained documents, execution scopes, input, events and immutable rendering deltas.
-outdated: true
+outdated: false
 ---
 # Inno.UI
 

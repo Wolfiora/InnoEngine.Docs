@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Target inspection, generation-safe locking, scene element operations and typed reference drops.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Editor.Panel.Inspector

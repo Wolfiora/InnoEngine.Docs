@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Explicit platform, content and deployment contributions for an owned build pipeline.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Build.Composition

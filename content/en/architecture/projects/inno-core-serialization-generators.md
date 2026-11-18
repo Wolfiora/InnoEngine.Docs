@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Compiler-owned converters and closed metadata access without runtime reflection fallback.
-outdated: true
+outdated: false
 ---
 # Inno.Core.Serialization.Generators
 

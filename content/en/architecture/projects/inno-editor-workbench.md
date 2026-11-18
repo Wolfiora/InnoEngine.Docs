@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Internal application-wide settings, commands, zoom and workflow presentation.
-outdated: true
+outdated: false
 ---
 # Inno.Editor.Workbench
 

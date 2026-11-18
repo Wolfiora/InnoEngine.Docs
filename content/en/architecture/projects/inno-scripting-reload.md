@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Compile, prepare, activate and retire one project's complete authoring generation.
-outdated: true
+outdated: false
 ---
 # Inno.Scripting.Reload
 

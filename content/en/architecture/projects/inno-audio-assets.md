@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Import encoded audio into runtime metadata and immutable audio-data artifacts.
-outdated: true
+outdated: false
 ---
 # Inno.Audio.Assets
 

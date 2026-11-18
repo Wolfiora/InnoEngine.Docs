@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Explicit engine metadata, isolated Sessions and ordered subsystem execution.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Runtime

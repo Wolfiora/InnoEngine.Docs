@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Language-neutral shader functions, graph lowering, typed stages and structured regions.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Rendering.Shaders

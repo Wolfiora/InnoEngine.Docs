@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Logical asset identities, runtime lookup, residency and retained artifact reads.
-outdated: true
+outdated: false
 ---
 # Inno.Assets
 

@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Persistent reference intent, neutral Missing slots and coordinated recovery.
-outdated: true
+outdated: false
 ---
 # Inno.References
 

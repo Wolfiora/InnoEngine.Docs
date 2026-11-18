@@ -1,19 +1,26 @@
 import { test, expect } from '@playwright/test';
 
-test('project guides keep authored prose, source facts and disclosure-only navigation', async ({ page }) => {
+test('project guides keep authored prose and share a flat linked sidebar group', async ({ page }) => {
   await page.goto('architecture/projects/inno-adapter-audio/');
   const menu = page.getByRole('button', { name: /Menu/ });
   if (await menu.isVisible()) await menu.click();
   const selected = page.locator('inno-sidebar [aria-current="page"]');
   await expect(selected).toHaveText('Inno.Adapter.Audio');
   await expect(selected).toBeVisible();
-  await expect(page.locator('inno-sidebar .caret:not(.chevron)')).toHaveCount(0);
+  const group = page.locator('inno-sidebar li[data-key="/InnoEngine.Docs/architecture/projects/"]');
+  await expect(group.locator(':scope > .nav-row .caret:not(.chevron)')).toHaveCount(1);
+  await expect(group.locator(':scope > .nav-row > a')).toHaveAttribute('href', '/InnoEngine.Docs/architecture/projects/');
+  await expect(group.getByText('Overview of Engine project guides', { exact: true })).toHaveCount(0);
+  await expect(group.locator(':scope > .children > .children-inner > ul > li > .nav-row > [aria-current="page"]')).toHaveText('Inno.Adapter.Audio');
   if (await menu.isVisible()) await menu.click();
-  await expect(page.locator('.api-status')).toContainText('Outdated');
+  await expect(page.locator('.api-status')).toContainText('Review pending');
   await expect(page.getByRole('heading', { name: 'Provider ownership contract', exact: true })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'Source project facts', exact: true })).toBeVisible();
   await expect(page.locator('.source-actions a').first()).toHaveAttribute('href', /\/blob\/[a-f0-9]{40}\/src\/.+\.csproj$/);
   await expect(page.locator('.page-credit')).toContainText('Page written by InnoEngine contributors.');
+  if (await menu.isVisible()) await menu.click();
+  await group.locator(':scope > .nav-row > a').click();
+  await expect(page).toHaveURL(/\/architecture\/projects\/$/);
 });
 
 test('nested task categories reveal direct pages without API-style controls', async ({ page }) => {

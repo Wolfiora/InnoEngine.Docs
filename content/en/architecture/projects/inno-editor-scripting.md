@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Asset-backed script scheduling, request-bound readiness, neutral reload coordination and progress observation.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Editor.Scripting

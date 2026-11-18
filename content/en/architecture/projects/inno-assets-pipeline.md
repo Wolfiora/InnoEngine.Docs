@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Authoring imports, source identities, settings, immutable artifacts and runtime export.
-outdated: true
+outdated: false
 ---
 # Inno.Assets.Pipeline
 

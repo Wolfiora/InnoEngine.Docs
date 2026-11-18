@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Import and export validated structured animation sources through shared serialization.
-outdated: true
+outdated: false
 ---
 # Inno.Animation.Assets
 

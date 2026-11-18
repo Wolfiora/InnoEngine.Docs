@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - UI-free material source drafts, neutral History and Editor-only shader parameter presentation.
-outdated: true
+outdated: false
 exampleMode: editor-script
 exampleProjects:
 - Inno.Editor.Shaders

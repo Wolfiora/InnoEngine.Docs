@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Backend-matched shader and texture compiler factories for authoring hosts.
-outdated: true
+outdated: false
 ---
 # Inno.Adapter.Rendering.Authoring
 

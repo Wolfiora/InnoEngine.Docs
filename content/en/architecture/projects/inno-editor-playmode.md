@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Atomic Edit/Play transitions with fresh script tickets, isolated scene/history/audio and verified retirement.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Editor.PlayMode

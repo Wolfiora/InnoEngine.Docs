@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Session-owned font faces, immutable artifact leases and text execution scopes.
-outdated: true
+outdated: false
 ---
 # Inno.Text.Runtime
 

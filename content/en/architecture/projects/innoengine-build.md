@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - The ordinary SDK executable for build, validation and documentation commands.
-outdated: true
+outdated: false
 ---
 # InnoEngine.Build
 

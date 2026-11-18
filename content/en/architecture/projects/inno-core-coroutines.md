@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Frame-driven enumerators with explicit scheduler ownership, supported waits and reverse-order cleanup.
-outdated: true
+outdated: false
 ---
 # Inno.Core.Coroutines
 

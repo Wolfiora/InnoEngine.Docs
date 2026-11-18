@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Session-owned UI service, input capture, imported document loading and retained font artifacts.
-outdated: true
+outdated: false
 ---
 # Inno.UI.Runtime
 

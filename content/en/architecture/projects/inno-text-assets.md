@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Import OpenType containers into compact runtime metadata and immutable encoded font data.
-outdated: true
+outdated: false
 ---
 # Inno.Text.Assets
 

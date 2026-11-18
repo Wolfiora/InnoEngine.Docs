@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - SDK-bound script compilation, logical API projection and immutable candidate artifacts.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Scripting.Compiler

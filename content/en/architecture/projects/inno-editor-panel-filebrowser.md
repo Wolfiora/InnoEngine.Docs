@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - The internal File Browser window consuming shared asset editing, browser presentation and interaction services.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Editor.Panel.FileBrowser

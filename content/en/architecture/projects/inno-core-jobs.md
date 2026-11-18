@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Session-owned frame job scheduling with finite admission and an explicit owner-thread callback queue.
-outdated: true
+outdated: false
 ---
 # Inno.Core.Jobs
 

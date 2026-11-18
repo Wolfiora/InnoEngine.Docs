@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - A neutral, application-owned presentation context for authoring products.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Adapter.Presentation

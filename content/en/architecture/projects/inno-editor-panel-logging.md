@@ -15,7 +15,7 @@ contracts:
 source: InnoEngine contributors
 description:
 - The host-driven Console panel that presents historical logs and current diagnostics.
-outdated: true
+outdated: false
 ---
 # Inno.Editor.Panel.Logging
 

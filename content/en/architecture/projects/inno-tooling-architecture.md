@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Source, project, compiled-boundary and documentation validation for engine contributors.
-outdated: true
+outdated: false
 ---
 # Inno.Tooling.Architecture
 

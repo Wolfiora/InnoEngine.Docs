@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Ordered event hubs, routed consumption and bounded event admission.
-outdated: true
+outdated: false
 ---
 # Inno.Core.Events
 

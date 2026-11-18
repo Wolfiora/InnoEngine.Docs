@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Frozen rendering imports, graph editing, target compilation and last-good publication.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Rendering.Assets.Authoring

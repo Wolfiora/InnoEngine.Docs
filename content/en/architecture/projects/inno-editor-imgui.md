@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Scoped Editor UI primitives, shared semantic metrics, pointer-free drawing and interaction rendering bridges.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Editor.ImGui

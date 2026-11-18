@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Scene/object hierarchy presentation, typed drop geometry and domain-owned reversible actions.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Editor.Panel.Hierarchy

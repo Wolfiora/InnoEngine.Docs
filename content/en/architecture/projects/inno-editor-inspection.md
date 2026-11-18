@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Generation-scoped target/property/attribute drawers and feature-owned reversible mutation, independent of Inspector Panel.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Editor.Inspection

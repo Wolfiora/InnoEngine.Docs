@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Thin MSBuild adapters for the engine's existing generation, shader and product preparation libraries.
-outdated: true
+outdated: false
 ---
 # Inno.Build.Tasks
 

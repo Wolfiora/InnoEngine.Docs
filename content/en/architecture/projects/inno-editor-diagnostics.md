@@ -15,7 +15,7 @@ contracts:
 source: InnoEngine contributors
 description:
 - The bounded Console backend, immutable occurrences and current diagnostic lifetime.
-outdated: true
+outdated: false
 ---
 # Inno.Editor.Diagnostics
 

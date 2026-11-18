@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Neutral SDK facts, frozen execution inputs, immutable publications and registered cache ownership.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Build.Toolchains

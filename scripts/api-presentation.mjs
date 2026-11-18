@@ -24,7 +24,7 @@ export function apiPresentation() {
       if (node.type !== 'blockquote') continue;
       const first = node.children[0]?.children?.[0];
       if (first?.type !== 'text') continue;
-      const match = /^\[!(SYNCED|OUTDATED|VERIFIED)\]\n/.exec(first.value);
+      const match = /^\[!(SYNCED|OUTDATED|VERIFIED|REVIEW-PENDING)\]\n/.exec(first.value);
       if (!match) continue;
       const status = match[1].toLowerCase();
       if (file.data.astro.frontmatter.editorialStatus) throw new Error('Repeated canonical API status.');

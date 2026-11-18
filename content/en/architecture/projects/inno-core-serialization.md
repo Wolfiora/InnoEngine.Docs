@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Deterministic current-format values, explicit metadata, converter generations and neutral captures.
-outdated: true
+outdated: false
 ---
 # Inno.Core.Serialization
 

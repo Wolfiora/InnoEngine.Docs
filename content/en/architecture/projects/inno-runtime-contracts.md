@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Neutral subsystem lifecycle, finite frame phases and owned retirement protocols.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Runtime.Contracts

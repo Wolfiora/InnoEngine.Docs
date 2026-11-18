@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Compile-time subsystem, module and factory catalogs with explicit metadata access.
-outdated: true
+outdated: false
 ---
 # Inno.Runtime.Generators
 

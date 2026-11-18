@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Logical application storage keys, namespaces and asynchronous complete-value operations.
-outdated: true
+outdated: false
 ---
 # Inno.Storage
 

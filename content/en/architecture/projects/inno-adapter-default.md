@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Standard runtime provider snapshots with explicitly injected platform, rendering and storage factories.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Adapter.Default

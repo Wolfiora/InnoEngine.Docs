@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Leased Task bootstrap, immutable runtime publication and private process loading.
-outdated: true
+outdated: false
 ---
 # Inno.Build.TaskHosting
 

@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Scene objects, behaviors, transforms, persistent state and generation recovery.
-outdated: true
+outdated: false
 ---
 # Inno.Scene
 

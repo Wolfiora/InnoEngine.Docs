@@ -24,6 +24,15 @@ test('tool failures, stale synchronization and malformed reports cannot become n
   assert.throws(() => editorialCheck(escaping, context), /Malformed/);
 });
 
+test('project reviews remain advisory and are constrained to project guide paths', () => {
+  const project = report(1);
+  project.warnings[0] = { symbol: 'Inno.Probe', path: 'content/en/architecture/projects/inno-probe.md',
+    code: 'InitialReviewPending', message: 'This project guide has no recorded source review.' };
+  assert.equal(editorialCheck(project, context).conclusion, 'neutral');
+  project.warnings[0].path = 'content/en/manual/index.md';
+  assert.throws(() => editorialCheck(project, context), /Malformed/);
+});
+
 test('large reports are bounded and annotations are sent in API-sized batches', async () => {
   const calls = [];
   const github = { rest: { checks: {

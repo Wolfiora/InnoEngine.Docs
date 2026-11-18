@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Cross-platform key, modifier, mouse-button and cursor values without polling or frame-state ownership.
-outdated: true
+outdated: false
 ---
 # Inno.Core.Input
 

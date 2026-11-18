@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Explicit platform providers and the borrowed surface boundary between native adapters.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Adapter.Platform

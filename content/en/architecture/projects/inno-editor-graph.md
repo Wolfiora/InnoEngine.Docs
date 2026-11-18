@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Neutral graph editing sessions, weak controllers, canvas interaction state and recoverable History.
-outdated: true
+outdated: false
 ---
 # Inno.Editor.Graph
 

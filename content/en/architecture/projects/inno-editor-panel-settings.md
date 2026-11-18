@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Internal staged Settings frontend coordinating Editor, Project and Build scopes.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Editor.Settings
