@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.164577f243700aa5b1cf17060c362ae257a02b945622ff7be5b0bca52cbe0c61
 symbol: scripting:Inno.Storage:M:InnoEngine.Storage.StorageKey.#ctor(System.String)
 title: StorageKey.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Storage
 apiSurface: editor-script
-reviewed: a93692a66be55d7c5b60e2b23920086558b4c65d45d2093281096a588742a881
+sourceFingerprint: 573cea69eebee1607379f15f24db782668859ee0afb25f1f65e1a12cd9e07410
 apiScope: Runtime
 contracts: []
 

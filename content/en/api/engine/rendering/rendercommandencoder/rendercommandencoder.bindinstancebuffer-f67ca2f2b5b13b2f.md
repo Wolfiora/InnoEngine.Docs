@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f67ca2f2b5b13b2fc87a9967d851d014b0112116996340fcdf05136c65cf5c1b
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.BindInstanceBuffer(Inno.Rendering.PersistentBufferHandle,System.Int32,System.Int32)
 title: RenderCommandEncoder.BindInstanceBuffer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 1a1d885cf9b38fb8cb11ed574e82506a215f10e3a3b834400e27dc8ef88f945d
+sourceFingerprint: f853c7bc8e8d923b71f28e9e58102791615b5ca4fb7a64453ef1f073afdea082
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

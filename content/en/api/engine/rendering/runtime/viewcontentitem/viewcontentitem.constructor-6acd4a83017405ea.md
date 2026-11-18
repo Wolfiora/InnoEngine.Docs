@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6acd4a83017405ea1a6c20f8e842de46b4e3cad278947aaa5e1eca7584fde350
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.ViewContentItem.#ctor(Inno.Core.Identity.Identity,Inno.Core.Mathematics.Matrix,Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3,Inno.Rendering.Runtime.IViewDrawable,Inno.Rendering.Runtime.IViewPointerTarget)
 title: ViewContentItem.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 5e7b3c53f295468818dc8750413c6dfe4ecdc1ff99af968c7c778db93afceeae
+sourceFingerprint: a2def9c3a946260cd76ed688b2f2ab6d28193a58438ed535a60f3addc6ff6339
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

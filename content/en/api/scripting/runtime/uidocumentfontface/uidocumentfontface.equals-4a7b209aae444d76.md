@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4a7b209aae444d76d662722e204eb85c7c546c9611b917d3c67d3905f3bce510
 symbol: scripting:Inno.UI:M:InnoEngine.UI.UiDocumentFontFace.Equals(System.Object)
 title: UiDocumentFontFace.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 68185cac25cd77912a6173c4aa4b94bc9f10438681e63a244bdba64aa77a892c
+sourceFingerprint: 68185cac25cd77912a6173c4aa4b94bc9f10438681e63a244bdba64aa77a892c
 apiScope: Runtime
 contracts: []
 

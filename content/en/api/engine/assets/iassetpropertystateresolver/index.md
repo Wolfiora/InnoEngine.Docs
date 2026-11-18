@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.assets.7c484e70885ce01c
 symbol: engine:Inno.Assets:T:Inno.Assets.IAssetPropertyStateResolver
 title: IAssetPropertyStateResolver
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-reviewed: 2c43811b6cea81ac0c6315e96cb82871c5cb2a421be3bf1d9b622ede027fe0a3
+sourceFingerprint: edce3fe8a71795c9924fe9e4c963ce061733188116183ac2fb48a93b9ca42029
 contracts:
 - project.inno-assets
 

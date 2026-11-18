@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4f600600eac316c3241fe379ea1eb14fdedd90b2c644f47fb3c530dfd856334d
 symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.GetAsBooleanArray(System.String,System.Boolean[])
 title: EditorSettingObject.GetAsBooleanArray
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Settings
 apiSurface: editor-script
-reviewed: dfbb1d49a758c74f0da2955db7d68339fcb73270d0e63c6c563c2c2f6ac48180
+sourceFingerprint: 61a248bff8c7d84826926ad59fed00ce91f3c5b132a0d13e9291d38af7ad003d
 apiScope: Editor
 contracts: []
 

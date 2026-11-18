@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.723e6f1105c534252d730292ad872fa19bfb449fa97c577114057f897925ddde
 symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderShaderArtifactCodec.Decode(System.ReadOnlySpan{System.Byte},System.String,Inno.Rendering.Assets.RenderShaderVariant)
 title: RenderShaderArtifactCodec.Decode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: 57d39369e428ff42184ae6402b7e6ec92b886274c1096f6fb2f7368e4b031985
+sourceFingerprint: ad454d70b0e1fe3ed9e6e1cced85982608182033277c8728e7757e0ca13f9105
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f27b0106d1f91dcdd7d745a165321c24731fbc73c4e71cc9a49805facf4ceb46
 symbol: scripting:Inno.Core.Diagnostics:M:InnoEngine.Diagnostics.DiagnosticLocation.GetHashCode
 title: DiagnosticLocation.GetHashCode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: editor-script
-reviewed: 67daac56f64ddca3e513617e0e6125a9ae8aec1631a91dfc934126153ab16a62
+sourceFingerprint: dda5ca8369b7223ae8a59badc158e548e1f6bde73b11c4df23e0cfd279d87218
 apiScope: Runtime
 contracts: []
 

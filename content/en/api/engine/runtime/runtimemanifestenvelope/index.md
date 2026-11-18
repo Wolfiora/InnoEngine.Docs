@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.runtime.89d8314626c3a524
 symbol: engine:Inno.Runtime:T:Inno.Runtime.RuntimeManifestEnvelope
 title: RuntimeManifestEnvelope
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: 616b4f52815964a2dcb225244349255008494e7d27411a8c5c7dabdbb8142890
+sourceFingerprint: 18b81c392aa4609f13a75908f0f6b5419c26b0bead53b10b807dd1b01e15d12f
 contracts:
 - project.inno-runtime
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bca3343dbf1072272a50b9f663bd3e1a8e1ed4b2f34ad6369528df65c2c27af0
 symbol: engine:Inno.Content:M:Inno.Content.ContentPackIndexCodec.Decode(System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationGeneration)
 title: ContentPackIndexCodec.Decode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Content
 apiSurface: source-clr
-reviewed: 5e162c712b45e712c6587cd5ae6057204dd9fc89aab3848c31e5239ed0b34d70
+sourceFingerprint: de86a406614d30b9064693ca7b9e85b0d3893959d231141dc9e5808404a76c80
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.core.editor-script.0d6ab46ad57c450c
 symbol: scripting:Inno.Editor.Core:T:InnoEditor.Core.EditorKeyboardPolicy
 title: EditorKeyboardPolicy
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-reviewed: 34f1069bbb5855ad398650817a2d0b5ef3f98f60951d7a27abacb38c0c7fdaee
+sourceFingerprint: 3073411166eaba92427c36a48609d7b87923c5774dd131bc8d07db8988f40e83
 apiScope: Editor
 contracts:
 - api.projects.inno-editor-core#lifecycle-and-failure-contracts

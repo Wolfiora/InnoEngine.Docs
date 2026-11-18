@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6935c8572dae4ae88f8643e1a4cebf33b7138020aff94ea71cc5c00e01171341
 symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.Input(System.String,InnoEditor.Rendering.Shaders.ShaderSourceType)
 title: ShaderIrBuilder.Input
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: f7e034f50c7ef4612f7f463843efb1f4c974b15052ddd851a42f194d209e3ff2
+sourceFingerprint: 3339cc4b4294b00afa8148f8bba11471314b849973c0b3c24ba989944eb05bde
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f3d9a6b6b11d60bce0928812dee83a27024177726ec92d202777a1475d3c9237
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.SceneManager.LoadNewSceneAdditive(System.String,System.Boolean)
 title: SceneManager.LoadNewSceneAdditive
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: e09c3a33981518d8d02ff102612f5ce1a92ff40c4476770a992133b036ce81db
+sourceFingerprint: 7e3106539d61f8a8996ce722aa19dd563040a39939bee359c7612b0acab17d10
 apiScope: Runtime
 contracts: []
 

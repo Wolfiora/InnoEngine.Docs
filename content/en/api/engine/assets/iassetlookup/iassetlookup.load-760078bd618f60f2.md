@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.760078bd618f60f23d37f4477b36973f4c8123cec9b91370625f4f04de5563fb
 symbol: engine:Inno.Assets:M:Inno.Assets.IAssetLookup.Load``1(System.Guid)
 title: IAssetLookup.Load
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-reviewed: b40eb60812d8ea99c6c9c54f746e15a7216546faac48446de41c3f645b8ac455
+sourceFingerprint: edf8c1d68e41dba8433753d028e0fa84d5b26fac679cc53ac97fdef15afab8fc
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

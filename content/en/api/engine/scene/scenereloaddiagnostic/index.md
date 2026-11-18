@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scene.56f92d2d774c00a5
 symbol: engine:Inno.Scene:T:Inno.Scene.SceneReloadDiagnostic
 title: SceneReloadDiagnostic
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: f6f5795faffbfc5912299a4a8c7d7fe65d7193a5241f1f2400034984688a88ef
+sourceFingerprint: 384a99f2ecc522592b2100f94bd289a1f27a98e08153c7ab40d128b2e836f9b1
 contracts:
 - project.inno-scene#scene-ownership-contract
 

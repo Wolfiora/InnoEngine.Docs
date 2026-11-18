@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0622d62c89166fac0890c7489311d769094201d9312edd0686caa9f54db40574
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameScene.DestroyObject(InnoEngine.Scene.GameObject)
 title: GameScene.DestroyObject
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 1366bcf358c0d22b3c43596481fc313455420e1bb36bb5db73dce350ee835903
+sourceFingerprint: 45809e3599b4d5af9e4df63abd3c7367fcf0a71f874ad3b9c995a2ab9f645fd3
 apiScope: Runtime
 contracts: []
 

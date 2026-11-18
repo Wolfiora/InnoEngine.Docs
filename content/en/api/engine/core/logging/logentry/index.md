@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.logging.5791799ed731929c
 symbol: engine:Inno.Core.Logging:T:Inno.Core.Logging.LogEntry
 title: LogEntry
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-reviewed: d146a1b9f4d1da34abcf8882bc1aa574a1d06a2df552bd3dd55a25da32cbb3c9
+sourceFingerprint: fafca0f2956c13bf3adf28afd6bd2030f6d41be3120688804dbab3f5d7f4e31c
 contracts:
 - project.inno-core-logging#delivery-and-ownership-contract
 

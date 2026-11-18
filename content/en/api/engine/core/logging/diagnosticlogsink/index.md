@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.logging.c80d38be9edc96c0
 symbol: engine:Inno.Core.Logging:T:Inno.Core.Logging.DiagnosticLogSink
 title: DiagnosticLogSink
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-reviewed: 3c1947e5904824c5125e8cf6906dcd4f1068ab836ab7382516ccfb4ad469fe80
+sourceFingerprint: 5d5506b090dba95d77567209d53bd3ec0878088ba8a41eea54019fe2d91d88fa
 contracts:
 - project.inno-core-logging#delivery-and-ownership-contract
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1882ebf94499eb62c010c5910a04d301e5ba2af6b582e5a289bfb76a1b6bd6cb
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativeBuildStep.#ctor(System.String,Inno.Build.Toolchains.NativeComponentDescriptor,Inno.Build.Toolchains.NativeComponentBuildOptions,System.Collections.Generic.IReadOnlyList{System.String},System.Func{Inno.Build.Toolchains.NativeBuildContext,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeBuildProduct},System.Threading.CancellationToken,System.Threading.Tasks.Task{Inno.Build.Toolchains.NativeBuildProduct}},System.Func{Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeBuildRecipe},System.Func{System.String,System.String,System.String},System.String,System.Func{Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeBuildRecipe,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeBuildProduct},Inno.Build.Toolchains.NativeBuildRecipe})
 title: ProductNativeBuildStep.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: c1295ad3ba6b644677deb287019ad800a9b7d0ab69e27baf0e378a552212ff84
+sourceFingerprint: c51a94d2495331dc11d39673e17433b772823d234d4bf593b9daf133680eab2b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

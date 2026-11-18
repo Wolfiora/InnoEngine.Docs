@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.daf944b28ff8513e348238f5c4926e0cb2f7228f7dd9d97ae196ee9281da69f0
 symbol: scripting:Inno.Editor.Inspection:P:InnoEditor.Inspection.InspectorAttributeDrawContext.tooltip
 title: InspectorAttributeDrawContext.tooltip
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: editor-script
-reviewed: ec678723c8150516656a48b0a0d231dad91738e48931a9c6a5573b838eda4bb4
+sourceFingerprint: 131a6a08f8035b1da13935a7e54efc534c135c277f4349064ca49bf1f0b2fd81
 apiScope: Editor
 contracts: []
 

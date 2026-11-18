@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.342052f6ec31bc52350f5aad232e149beddab8d824ca7253cc5c7ae257ddfd75
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiIcon.LockOpen
 title: ImGuiIcon.LockOpen
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: e34adbaf267334a084c901a248f7f6375159a617839dd3b329a0fe62744e3de7
+sourceFingerprint: e7b5be89a48836dd3279feb0b9f3987b15fd5c7b0a6545b3cf97d7770bebdc36
 apiScope: Editor
 contracts: []
 

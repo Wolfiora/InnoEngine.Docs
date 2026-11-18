@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2754529a1c6debaa07d2635c61ae429d59cba2283c321d46c547a57983e6f773
 symbol: scripting:Inno.Input:P:InnoEngine.Input.Input.mousePosition
 title: Input.mousePosition
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Input
 apiSurface: editor-script
-reviewed: 80c0a044018d9696cc548e536b497576a15389f768991860299ec0e992bff1a7
+sourceFingerprint: 07b913954b70b03f582307783492b3581a0fde51530ae4dea91ace3f666e6f9f
 apiScope: Runtime
 contracts: []
 

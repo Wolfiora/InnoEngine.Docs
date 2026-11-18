@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.toolchains.6bc3090690be67c5
 symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeArtifactTransfer
 title: NativeArtifactTransfer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 015572c210a8dd54b29b438a4fa9414e580e2f27b394cf0b035682de395f8a62
+sourceFingerprint: 82cd6b323273d708ce2ee32f675c54cd8319c1f3045a0e0273036a3c639e3ab0
 contracts:
 - project.inno-build-toolchains
 

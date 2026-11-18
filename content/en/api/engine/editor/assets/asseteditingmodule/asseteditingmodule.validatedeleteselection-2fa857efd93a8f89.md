@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2fa857efd93a8f8948e4fbccb93bfea00f1ceb7b6d6d9f24f6f24a6271e0e63a
 symbol: engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.ValidateDeleteSelection(Inno.Editor.Core.EditorContext,System.Collections.Generic.IReadOnlyList{Inno.Assets.Pipeline.AssetFileEntry})
 title: AssetEditingModule.ValidateDeleteSelection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
-reviewed: 92548e0553a69255788b5fc68688e03e4129bfb4681a2f9aff69bf7a4bac3fd0
+sourceFingerprint: b9f0757102223dd74c9cbb8a9e4547e2169f0affe70ef81ce91b55920537321b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

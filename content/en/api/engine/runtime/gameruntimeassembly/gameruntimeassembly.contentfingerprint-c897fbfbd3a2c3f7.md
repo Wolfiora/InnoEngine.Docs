@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c897fbfbd3a2c3f7f065047e5994b5e97a3a76334a2f657a89a3d0960dc19f2f
 symbol: engine:Inno.Runtime:P:Inno.Runtime.GameRuntimeAssembly.contentFingerprint
 title: GameRuntimeAssembly.contentFingerprint
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: c39174335fd1c5fe1eb042378573f7c7f420ad79bd0d13a413cedf8a823ff947
+sourceFingerprint: 411316fde6ebd7578e6ed816931a0beb28d400fba6bff9b436b1c073392257da
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

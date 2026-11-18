@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ca2f57b08d0208d343235acff88babb0506ebc372fd22e6dd914373f25146939
 symbol: engine:Inno.Build.TaskHosting:M:Inno.Build.TaskHosting.PublishTaskHostTask.Execute
 title: PublishTaskHostTask.Execute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.TaskHosting
 apiSurface: source-clr
-reviewed: 658b1d978942feeb943ba268e4290c923ff49663af3694fd699fc23dee71cc5c
+sourceFingerprint: c5a668d32f6aa5920879a15b5a4621ff393f9644f908272cb09d6d43226eef9c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

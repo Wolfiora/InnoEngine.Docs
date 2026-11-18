@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b8589970b0d4b58c0fdf7d92713afc7ab8304f16fbbed5e27df56a0879d01805
 symbol: scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.ShaderRenderState.blend
 title: ShaderRenderState.blend
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 72780cc2abc6d9deaa8d6994a13ffcf03ed7eef5a85ce2123cb4665bb4ec6276
+sourceFingerprint: 78c082ead7d04eb16e4c93657a65ea08873800182832f72a5ab72caac2214464
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.extensibility.reload.ba3107770141df84
 symbol: engine:Inno.Extensibility.Reload:T:Inno.Extensibility.Reload.IGenerationPublication`1
 title: IGenerationPublication<TProbe>
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Reload
 apiSurface: source-clr
-reviewed: 99105303b00b878ea1db24bec4e24684478e841a202e1e662c1fa84b57b5229c
+sourceFingerprint: bc38b6b90eacc3d706e62cf0fd2fa8e68dd947c4cfff7101376c8602e3f96459
 contracts:
 - project.inno-extensibility-reload#shared-admission-and-retirement-contract
 

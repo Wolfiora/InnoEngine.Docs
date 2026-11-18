@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b2c93b23d9fb17cbbd47df7aaa5a7d688543c1d13883d0ac29f6c88da851adf5
 symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiTableColumnFlags.NoDirectResize
 title: ImGuiTableColumnFlags.NoDirectResize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 6a4e251c1433b6834333d4aa52e4052135264afabc34403373e555018f83e2cc
+sourceFingerprint: 98e1d954bb92d34f296532d9d0f68f9073a60b8d2fd7e3eeac9f5cb4e946ef8a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

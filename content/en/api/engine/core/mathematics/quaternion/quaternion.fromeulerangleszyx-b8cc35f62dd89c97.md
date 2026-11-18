@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b8cc35f62dd89c97556330b523648d82e06835d78d8707639ede11eca393781d
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Quaternion.FromEulerAnglesZYX(Inno.Core.Mathematics.Vector3)
 title: Quaternion.FromEulerAnglesZYX
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 28f40b17263c4abab5342d65dc32bdcb9d0acb133fa684e97c49f99313abe905
+sourceFingerprint: d970c093217557b500f6ee0e67722bde5e3d33c4dd08810d0e3f66068c24b76e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

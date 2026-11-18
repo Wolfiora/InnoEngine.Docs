@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.88ca5286569dcc34a50dd4066a0507c7122d55509a64d0bc370bbc2bd8ff7f39
 symbol: scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationWriter.WritePropertiesData(System.String,InnoEngine.Serialization.ISerializable,InnoEngine.Serialization.SerializationContext)
 title: SerializationWriter.WritePropertiesData
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: editor-script
-reviewed: 4d94b414c8b1af7e08783b54d60caa064c50acd39ca4ceb9f7d4bc9da5ae3122
+sourceFingerprint: 942298d3d8af368af3e10b4f0f0cbdef4b976363a1ad040ac59a2dfc1146489b
 apiScope: Runtime
 contracts: []
 

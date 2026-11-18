@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d3e1e5c245206640392d754e05d88dba4f4ec522df53889be0ef8f3df1e7dbf3
 symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.Log.Fatal(System.Type,System.Object,System.String,System.Int32)
 title: Log.Fatal
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-reviewed: 29972ef51bcd2aa2abf2f5010b03dc34fbd9f88d0223ddb58c77b0cec00446fd
+sourceFingerprint: d8f870322480ff95c9db26fee5d350c90f14266aff2144e9a2a429c2b337a54f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

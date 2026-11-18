@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.mathematics.9fd8bbef3007f39b
 symbol: engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.Color
 title: Color
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 994fd85313c5f2877475e15ac170f637239bddf665607d2e4596a1ce186154a4
+sourceFingerprint: 38150bbe106708c7f17afde2e24bda4cf655e7a8424efe1d5d280ee9ddbe7da9
 contracts:
 - project.inno-core-mathematics#numeric-and-layout-contract
 

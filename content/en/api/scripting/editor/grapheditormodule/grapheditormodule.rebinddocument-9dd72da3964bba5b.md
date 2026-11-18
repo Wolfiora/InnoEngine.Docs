@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9dd72da3964bba5b409d1f7e35b5914de9056897e6121c4c9476817ea635810d
 symbol: scripting:Inno.Editor.Graph:M:InnoEditor.Graph.GraphEditorModule.RebindDocument(System.Guid,InnoEngine.Graphs.GraphDocument)
 title: GraphEditorModule.RebindDocument
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: editor-script
-reviewed: d9b0c9551b1e34c2983ef7c478a3b15c8a46e17648f73f750e065a92c1b8968c
+sourceFingerprint: abb462fadcc79c6100968db01921f50826d050e28f304afdf57180d1d7092dc3
 apiScope: Editor
 contracts: []
 

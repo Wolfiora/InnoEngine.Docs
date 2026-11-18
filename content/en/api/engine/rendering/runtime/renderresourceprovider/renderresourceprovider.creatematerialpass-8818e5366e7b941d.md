@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8818e5366e7b941d416a514b683050cef7c8ea600bb301693fa00cbc4546f288
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderResourceProvider.CreateMaterialPass(Inno.Rendering.Assets.ShaderPassDefinition,Inno.Rendering.GraphicsPipelineHandle,Inno.Rendering.ComputePipelineHandle,System.Collections.Generic.IReadOnlyList{Inno.Rendering.Runtime.RenderResourceProvider.MaterialBinding})
 title: RenderResourceProvider.CreateMaterialPass
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 60d1212a2f743afd55418678ef938dd512550279befb0d211b8b70ff59435c71
+sourceFingerprint: d08d58d5376f0128eb995f5cb29270b14edb0a126d7a72a0400a0cb1f88bc405
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

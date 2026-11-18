@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.409f8591743d6832d9ad6dadb5d7c17630587c089116ed94c4c7658e115f2dc2
 symbol: engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildDistribution.ResolveShaderTarget(Inno.Build.BuildTargetId)
 title: StandardBuildDistribution.ResolveShaderTarget
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Distribution.Standard
 apiSurface: source-clr
-reviewed: 877bd649bb843bb6e03fdb7e10007fd5f556538cff478c1442bd5e64d8ce9311
+sourceFingerprint: 80bc7c18dfb732fad8c75ebc93443ad824c04de903b8b3fb63368c48700224c5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.222f27d7b06017fd9a7b16a16761ee32d6ac83ff0e9d55dc15103781711d059f
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.BeginChild(System.String,System.Numerics.Vector2,InnoEditor.ImGui.ImGuiChildFlags,InnoEditor.ImGui.ImGuiWindowFlags)
 title: ImGui.BeginChild
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 13f8da9d21a754ec265b2eb8d7c77726cccea0e2e3a4553c6132761706f01514
+sourceFingerprint: bf3eed692dbf14b1e02f14acbc0ecea57a84a68369e41c927d36169583ceadbe
 apiScope: Editor
 contracts: []
 

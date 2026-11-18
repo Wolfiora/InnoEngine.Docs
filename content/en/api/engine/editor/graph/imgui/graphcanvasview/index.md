@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.graph.imgui.0a05c4ee5b94a76e
 symbol: engine:Inno.Editor.Graph.ImGui:T:Inno.Editor.Graph.ImGui.GraphCanvasView
 title: GraphCanvasView
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph.ImGui
 apiSurface: source-clr
-reviewed: c9c6611e18eb68efecdd7c4229de9d5d415c6ba742108f1777c67afc1c1fd75d
+sourceFingerprint: d6465793ccd04afa5be5a9cb1caa9f404caf65e2494eb85f83d05bb6c97972f0
 contracts:
 - project.inno-editor-graph-imgui
 

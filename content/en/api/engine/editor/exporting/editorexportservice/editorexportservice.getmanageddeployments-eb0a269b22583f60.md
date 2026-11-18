@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.eb0a269b22583f604097ab8311e6e7888c1ef84b9370dc0cfecb686e810572f9
 symbol: engine:Inno.Editor.Exporting:M:Inno.Editor.Exporting.EditorExportService.GetManagedDeployments(Inno.Build.BuildTargetId)
 title: EditorExportService.GetManagedDeployments
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Exporting
 apiSurface: source-clr
-reviewed: c7c93a86b11cf98e0a65dd55ec82564043b88803454b1ae551d6be5370cc10b6
+sourceFingerprint: 3d71d6e0733a2dd7e309900a31ef79d19b0f89d3cbfb68d5746c82b471e8e17f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.62bf3168a7369c3145851a231ac51410713db8e861bed78e55799d6b744612b9
 symbol: engine:Inno.Rendering:M:Inno.Rendering.GraphicsCapabilities.SupportsSampled(Inno.Rendering.RenderTextureFormat,Inno.Rendering.RenderTextureDimension)
 title: GraphicsCapabilities.SupportsSampled
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 2b7004e9371bb4a8aa4562fbfd16047e2de76ba1e9db2001e20b8d3f0602f3b3
+sourceFingerprint: 240d984ede9ef9026bd198606386910d4575b629f57569eb350461045747323d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

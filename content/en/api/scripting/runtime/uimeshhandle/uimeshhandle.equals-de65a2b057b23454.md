@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.de65a2b057b234546e56d798ee47e4aafc04e5e4e0b9e0702110221f8fce9f7c
 symbol: scripting:Inno.UI:M:InnoEngine.UI.UiMeshHandle.Equals(InnoEngine.UI.UiMeshHandle)
 title: UiMeshHandle.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 967979285dfe79189729e3596b948d9a309b0a1180b5aad18a911449bf48cb47
+sourceFingerprint: 967979285dfe79189729e3596b948d9a309b0a1180b5aad18a911449bf48cb47
 apiScope: Runtime
 contracts: []
 

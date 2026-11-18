@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e2edbabb7012e030ba7514efde2aebaa3564147c1c6a36049a3669651d3a9247
 symbol: engine:Inno.Editor.Assets.ImGui:M:Inno.Editor.Assets.ImGui.AssetBrowserState.GetSelectedPath(Inno.Editor.Core.EditorContext)
 title: AssetBrowserState.GetSelectedPath
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets.ImGui
 apiSurface: source-clr
-reviewed: 7d94c7de0db3a10ac6d9578ebb3ba0161cc181f047e6fadae150af0fa87e2624
+sourceFingerprint: f0d9ac2123a37f34d3c44a5a50929f79e509ca0c236dd301c35042d48b158f84
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

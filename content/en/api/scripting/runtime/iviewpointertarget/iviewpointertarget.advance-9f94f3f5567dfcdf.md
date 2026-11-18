@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9f94f3f5567dfcdf8b272a2648975ebd742de2f0befd86ca94925dd29867a272
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IViewPointerTarget.Advance(InnoEngine.Rendering.RenderOutputInput,InnoEngine.Mathematics.Vector2,System.UInt64)
 title: IViewPointerTarget.Advance
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 190f595c9527b44e41b0adbe7f0e70307a5a880736c4352b7340744ecbd55e47
+sourceFingerprint: f32ad933f25dba3d5f172932ff8080a16348542f851a4641b03164c94b0adb31
 apiScope: Runtime
 contracts: []
 

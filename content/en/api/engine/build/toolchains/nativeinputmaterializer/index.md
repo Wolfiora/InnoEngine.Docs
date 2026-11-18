@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.toolchains.a0e889be82fb9f09
 symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeInputMaterializer
 title: NativeInputMaterializer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 707b612913e09168bf7ee45847a4998354da6068cc8b88ea7348dc03c5faf9d2
+sourceFingerprint: 8b983d5c5dcc9e56f48b517fd6931161f0bd117f196a5443d33f3464183661f3
 contracts:
 - project.inno-build-toolchains
 

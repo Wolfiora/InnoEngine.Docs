@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.94602282a82beb8239b884229465d23c0235ebc66407f2bd6308ad86ab05fab7
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.PropertyRow(System.String,System.Action,System.Action)
 title: ImGuiWidget.PropertyRow
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: dbba6fa73e85e0570603ddc08074f0ed8e12c71961cd9671afd85b9dad43bc8f
+sourceFingerprint: 4e7daab86d45300461807990d8c97c4dd68b1ba1dc659faa1c5969f1b391af6b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

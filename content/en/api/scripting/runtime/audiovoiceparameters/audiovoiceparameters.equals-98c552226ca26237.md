@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.98c552226ca262370e9113c184d79db878746e45cb5539b3b41b71b5186204f5
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioVoiceParameters.Equals(InnoEngine.Audio.AudioVoiceParameters)
 title: AudioVoiceParameters.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: b4e4a2e98b857ffd35b2a1cca9900bc7c397a40c7ea069666d2c4c43da914115
+sourceFingerprint: b4e4a2e98b857ffd35b2a1cca9900bc7c397a40c7ea069666d2c4c43da914115
 apiScope: Runtime
 contracts: []
 

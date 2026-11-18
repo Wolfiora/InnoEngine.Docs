@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6aa2827ac40b6a0af50305ac3a2d5c374626e83536eb445533addea6993698d9
 symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCacheSnapshot.ConstructGenericType(System.Type,System.Collections.Generic.IReadOnlyList{System.Type})
 title: TypeCacheSnapshot.ConstructGenericType
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-reviewed: af8b2c051b3b5f3ec5e02c0e2ee95d9d497a2c6e7c17be2424df7f3a421b9d7f
+sourceFingerprint: fe88ecd7e492852a3555fe5a836fb9eb9d31113826339e095ba77efa4b61b473
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

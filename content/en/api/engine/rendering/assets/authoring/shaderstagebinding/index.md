@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.authoring.fe6c6fcbef1f0bc3
 symbol: engine:Inno.Rendering.Assets.Authoring:T:Inno.Rendering.Assets.Authoring.ShaderStageBinding
 title: ShaderStageBinding
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
-reviewed: 98c0de365a90acc0beebaff340e057c0ee1aa7a7bc0d4b3adaa47c66940985ca
+sourceFingerprint: bc330fc8eca9986704a6a3496f53d9a499b08681b62d1d8394cdd01d899b0eaa
 contracts:
 - project.inno-rendering-assets-authoring
 

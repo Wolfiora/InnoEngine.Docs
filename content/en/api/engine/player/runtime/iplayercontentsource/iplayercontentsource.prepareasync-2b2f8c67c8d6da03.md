@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2b2f8c67c8d6da0332ccad04f649410a5835a862a831cf4eb1990c7a637ba064
 symbol: engine:Inno.Player.Runtime:M:Inno.Player.Runtime.IPlayerContentSource.PrepareAsync(Inno.Content.ContentPackDescriptor,Inno.Storage.StorageScope,Inno.Core.Serialization.SerializationGeneration,System.Threading.CancellationToken)
 title: IPlayerContentSource.PrepareAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Player.Runtime
 apiSurface: source-clr
-reviewed: d53bde0a40304e754db2335c29bde90c2cd8374eb6c3c5b814bb2fa1e4fafbbe
+sourceFingerprint: 435fd8966b477b3425d5624022680481a16bf8b291d39aefee394b7e1a16309f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

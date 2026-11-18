@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime.9dae3c019ed5e492
 symbol: engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.IViewPointerTarget
 title: IViewPointerTarget
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 6a865c2b18721ef9bec5ecf11b8504f048d4791bba07be0891296bc0fd9c75ce
+sourceFingerprint: f6dabf18de326ea4ae0a5592d1806fc661125f445fe696efb229e4c744640e41
 contracts:
 - project.inno-rendering-runtime
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d154dd2cefa3d2af506c42bd317e15c7aba519c77e82c1a7f09b0a233354adba
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.CompactCheckbox(System.String,System.Boolean@,System.Single,System.String)
 title: ImGuiWidget.CompactCheckbox
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 9f4469a61b15433235ab29a012d5ebcb40ed94cd5861c91461e2718ef00bf363
+sourceFingerprint: c747043353be1dad45baf6233319b2bd33d3d8792a82ab6d3bf729a2d8ea077b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

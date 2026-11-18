@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.899828be5f8d243dff0790e8d52b41f9e55e5c9d6f36e3352a95a9ad22f8f5d2
 symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiColorEditFlags.PickerMask
 title: ImGuiColorEditFlags.PickerMask
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 29ecb5d62959af15e69898ea122d628d95d8128b1a7b28e07682b0a91ec19042
+sourceFingerprint: ab8e455493a6ed36b8434d8491029d61309d6750188abc328681d978ff4af43c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

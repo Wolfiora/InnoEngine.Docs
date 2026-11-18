@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.835af820ccaeaa7471b7e0fe1f739fd26bb8bbf5212c5b93c5fbb384f10f7255
 symbol: scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneEdits.RenameScene(InnoEngine.Scene.GameScene,System.String,System.String)
 title: SceneEdits.RenameScene
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: editor-script
-reviewed: 731563942c9f428057a63492bb29f8772935d14a65783ab08879e285032159e6
+sourceFingerprint: c303fad581d091cd08b6c328c263a268ee5208a05fa7641509c4b13a01273f08
 apiScope: Editor
 contracts: []
 

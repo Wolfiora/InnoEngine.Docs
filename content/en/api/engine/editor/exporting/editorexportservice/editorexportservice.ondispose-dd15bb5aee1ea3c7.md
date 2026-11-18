@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dd15bb5aee1ea3c7b966b20b278b2ae31260f907aa341c2523ab49c701ccecae
 symbol: engine:Inno.Editor.Exporting:M:Inno.Editor.Exporting.EditorExportService.OnDispose
 title: EditorExportService.OnDispose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Exporting
 apiSurface: source-clr
-reviewed: e59b08dc667f07b40bde186dbc693cae003ec5061c9e8ed0e4e5d7c20558e92e
+sourceFingerprint: 26d02b0d0dd16ce8610bce7498b2c654b206fa3bfdb2e6b5dbb1eb542e83fe1e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

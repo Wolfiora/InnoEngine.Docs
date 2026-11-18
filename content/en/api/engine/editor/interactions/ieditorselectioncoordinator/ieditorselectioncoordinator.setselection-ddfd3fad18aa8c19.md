@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ddfd3fad18aa8c19442e46fd8ca8415ef938b3e3ed1d1dd4ccb2a3f2e0088e17
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.IEditorSelectionCoordinator.SetSelection(System.Object)
 title: IEditorSelectionCoordinator.SetSelection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: e70b54e30ab687bf9e37ee077f99b0f061d4bcdd1044f93b4a5b8146112a0c27
+sourceFingerprint: 90e8da6963c30b28ab2a32eb75816cc67d27e6cfc10110f8eb6b612f6663cf11
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d2a962db9e052c5f783bedc983cb5cf1ccce38e871b18faf9452062f8dc3eb00
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RasterPassBuilder.UseDepthAttachment(Inno.Rendering.RenderTextureHandle,Inno.Rendering.RenderLoadAction,Inno.Rendering.RenderStoreAction,System.Single,System.Byte,System.Int32,System.Int32)
 title: RasterPassBuilder.UseDepthAttachment
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 1ad3599cc04c6803d121c9e8615aac13f0281a040cb032a0e954a9b1d0d3ffd0
+sourceFingerprint: a2c41aacb5356e3fba2cec1a59fef9cdc182b3de1489fc7495ef72018c407052
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.authoring.07f6335aff00435c
 symbol: engine:Inno.Rendering.Assets.Authoring:T:Inno.Rendering.Assets.Authoring.ShaderGraphArtifact
 title: ShaderGraphArtifact
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
-reviewed: 6d4ac37bba32a992ff379b738ca241420e45cb3ce9eb28b23289bd54af0fe309
+sourceFingerprint: 82f836c1f0b787aeb7ac04ba214b810ccacef8813ccb2c3f499e940212147f6e
 contracts:
 - project.inno-rendering-assets-authoring
 

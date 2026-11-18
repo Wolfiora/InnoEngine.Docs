@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e5e74802961e8ffc25626ea96e97693aefe8374accec528773cb1ae9bd2b20e7
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2.Lerp(InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Vector2,System.Single)
 title: Vector2.Lerp
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 92b0d49c0922c99c4df573f7bb8489c841a33dff0d23a5684d8e8c0f5bfa5e45
+sourceFingerprint: 036616ae51b09bbb4d5f9163a1db7275dc6fb12b825769011b3af3c3c21fd1fb
 apiScope: Runtime
 contracts: []
 

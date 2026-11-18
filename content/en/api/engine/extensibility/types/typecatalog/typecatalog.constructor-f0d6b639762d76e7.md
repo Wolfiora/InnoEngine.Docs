@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f0d6b639762d76e7da1dd05e516e32a87fe7e19e285889915cfad4359e3b4e30
 symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCatalog.#ctor(Inno.Extensibility.Modules.ModuleHost,Inno.Extensibility.Types.ITypeCatalogSource)
 title: TypeCatalog.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-reviewed: 61a3cb8fea43e771ca7b0e310cd31b10a8326aa0834291d0cf7bbf746049a511
+sourceFingerprint: d169356970099fb709a0a5c88e5e18db163296b97d01d128551fd22da181ab7a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

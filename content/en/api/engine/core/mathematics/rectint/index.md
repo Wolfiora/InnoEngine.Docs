@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.mathematics.007308c0e6d2f60e
 symbol: engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.RectInt
 title: RectInt
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 0e8c71db53b1212616c7b90e3ac0871d5dd18075ec2e8a72a1c99ee5456a72f5
+sourceFingerprint: c2ab9def8e51b7ed35c0e94989d539e2bfa080e4607b7608407a1e32a79377f7
 contracts:
 - project.inno-core-mathematics#numeric-and-layout-contract
 

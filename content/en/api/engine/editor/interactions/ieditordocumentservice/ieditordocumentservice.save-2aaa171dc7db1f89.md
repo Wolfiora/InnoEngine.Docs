@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2aaa171dc7db1f89a2e1fe40070d6c98de734fcab17315bcabc4e8f419a724c5
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.IEditorDocumentService.Save(System.Guid)
 title: IEditorDocumentService.Save
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: 65ff07c5821ee15e0cc48d1a336c8dcb1f72ee781dd6e63a8772ed692c75acd3
+sourceFingerprint: 23ad2dac85a32f63d51a754eb8261771c5edc35fae6804d9fd5844aaa737787c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

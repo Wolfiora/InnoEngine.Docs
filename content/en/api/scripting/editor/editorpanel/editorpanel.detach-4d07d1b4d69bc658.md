@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4d07d1b4d69bc6583638898d129cdb3d9ebdb3dda78679526851b2bd86ff388e
 symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorPanel.Detach(InnoEditor.Core.EditorContext)
 title: EditorPanel.Detach
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-reviewed: 20dea86fccfaa8a1ba4a3546a86efe66ecb62bbbed4a3734109d370ba17430d1
+sourceFingerprint: 99c509583cda59f84a31c9d8a96b1330745b5ab778b0a146ae1a920718175dce
 apiScope: Editor
 contracts: []
 

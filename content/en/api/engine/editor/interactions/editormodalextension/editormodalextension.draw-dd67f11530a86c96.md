@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dd67f11530a86c96da20ab4142747f57605b1e739f315bdda949032b81a102a3
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorModalExtension.Draw(Inno.Editor.Core.EditorContext)
 title: EditorModalExtension.Draw
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: def87167b5b76010d41e96300b51f2058806b38e5cca36df0062b038e5e0046d
+sourceFingerprint: f73f50e3c4387c703dff7e6241ea9fde8696eaf60056724cd5576d1d76fdf44e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -50,7 +50,7 @@ Edit the relevant fragment and change its ownership marker:
 # Generated metadata. Keep the existing values.
 uid: <keep-the-existing-page-identity>
 symbol: <keep-the-exact-symbol-identity>
-reviewed: <managed-source-contract-fingerprint>
+sourceFingerprint: <managed-source-contract-fingerprint>
 
 # Authoring metadata.
 source: FLwolfy
@@ -58,15 +58,7 @@ outdated: false
 ---
 ```
 
-Write a meaningful explanation, example or applicable constraint. Merely changing the marker does not complete editorial work. Keep the exact existing `uid` and `symbol`; do not invent a new identity to rename an API. The `reviewed` identity records which source contract an author examined, not a machine guarantee of correctness.
-
-After reviewing your explanation against the current declaration and XML, acknowledge that review from the Docs repository:
-
-```sh
-npm run docs:review -- content/en/api/engine/core/identity/identity/index.md
-```
-
-Replace the path with the registered page you edited. The command uses the pinned managed documentation tooling, sets `reviewed` to the current contract and clears `outdated`. It never edits the explanation, builds engine products, or publishes the site. It can explicitly fetch/bootstrap the pinned tool on first use. An explicit existing immutable engine checkout can be selected with `--engine-root PATH`. Ordinary read-only queries do not perform this preparation.
+Set `source` to the human or AI author, edit the explanation and commit it. The page shows Authored immediately on the next build. When upstream facts change, synchronization records the affected prose and the page shows Outdated. Editing the body or description changes it back to Authored. Keep the existing `uid` and `symbol`.
 
 Declarations, parameters, inheritance and member lists always follow captured source. Summary text uses source XML unless the author supplies a description list. The compact editorial status appears at the right end of the page context header, immediately left of the desktop TABLE OF CONTENTS column. On narrow screens it remains in the context area. The TOC divider can be dragged or adjusted with arrow keys; Home and End select its bounds, and double-click restores the default. The width is remembered for the current browsing session. The summary appears immediately below the title in a Markdown blockquote, including on `source: FLwolfy` pages; it is not stored in the editable Markdown body. Use `description: null` (or `~`) for XML summaries; supply a nonempty list to override them. An authored signature in prose cannot replace generated facts.
 
@@ -91,9 +83,9 @@ Frontmatter is the YAML block between the opening `---` lines. It describes iden
 | --- | --- | --- |
 | `uid` | Stable page identity used by contract links and queries | Preserve it |
 | `symbol` | Exact API family, project and XML documentation ID, including overload identity | Preserve it; source changes own API renames |
-| `outdated` | Sticky editorial review flag | Set `true` to request review; use the review command to acknowledge it. Clearing/deleting it alone cannot hide a changed contract |
+| `outdated` | Explicit author warning | Optionally set `true` to mark an authored page outdated until cleared |
 | `source` | `xml` permits automatic prose updates; any nonempty author name other than `xml` transfers prose to that author | Set your name before writing an explanation |
-| `reviewed` | Digest of the contract and XML/context inputs last acknowledged by the author | Do not edit this hash; run `npm run docs:review -- <page>` after actual review |
+| `sourceFingerprint`, `outdatedFor` | Current source identity and the text affected by a source change | Maintained automatically |
 | `title` | Page label; composed API titles follow current source identity | Do not use it to rename a source symbol |
 | `kind` | Page type, `api` here | Keep it |
 | `owners` | Owning projects; composition reconciles actual ownership | Keep the generated owner |
@@ -107,17 +99,17 @@ Member filenames use the first 16 hexadecimal characters of SHA-256 over `family
 
 A manual file is not frozen source code. Its authored explanation is retained when XML or declarations change; displayed declarations and member tables still follow source facts. A path migration can move the file and repair relative links without regenerating its explanation. A deleted API's manual file remains for review, outside current navigation and default queries. Renames are not guessed to be the same API, and text is never silently reassigned to a different overload.
 
-API frontmatter has two groups separated by a blank line and YAML comments. The upper group holds generated identities, classification, required `contracts` and the `reviewed` fingerprint. The lower group holds editable ownership, description overrides, review requests, aliases and example settings. Comments are ignored by YAML; they are not extra metadata fields. Synchronization can refresh the upper group and set the stale flag while preserving manual body bytes.
+API frontmatter has two groups separated by a blank line and YAML comments. The upper group holds generated identities, classification, required `contracts` and source and prose fingerprints. The lower group holds editable ownership, description overrides, explicit outdated warnings, aliases and example settings. Comments are ignored by YAML; they are not extra metadata fields. Synchronization can refresh the upper group and set the stale flag while preserving manual body bytes.
 
 The status header shows an icon and name, without a description paragraph:
 
 | Status | Meaning |
 | --- | --- |
 | Synced, pale yellow circle/exclamation | XML-managed explanation, including a missing source marker |
-| Outdated, pale red circle/cross | Manual explanation whose declaration/XML/context fingerprint changed, or whose author requested review |
-| Verified, pale green circle/check | Manual explanation with no outstanding source review |
+| Outdated, pale red circle/cross | Manual explanation whose declaration/XML/context fingerprint changed, or explicitly marked outdated by the author |
+| Authored, pale green circle/check | Explanation maintained by its named author |
 
-Verified describes editorial ownership and review state; it does not certify the explanation's semantic correctness. Editorial gaps remain non-blocking warnings. Source provenance remains directly above the footer's GitHub editing link. Build target/configuration details remain in reference/query provenance instead of cluttering declaration headings.
+Authored identifies who maintains the explanation. Editorial gaps remain non-blocking warnings. Source provenance remains directly above the footer's GitHub editing link. Build target/configuration details remain in reference/query provenance instead of cluttering declaration headings.
 
 XML remarks, parameters, returns, exceptions and examples become real Markdown sections in the fragment, using `##` headings at the same level as Declaration. An API with only a summary can have an empty Markdown body. With `source: FLwolfy`, you can replace or remove these body sections; synchronization preserves your body while the declaration continues to follow source facts and description overrides remain intact. The website and exact symbol queries include both the effective introduction and the editable body. API metadata appears before Declaration, one field per line in alphabetical order.
 
@@ -146,7 +138,7 @@ Each item becomes one bullet below the page title. Type and member tables show t
 
 **Documentation validation** checks data integrity, identity, links, composition, examples and the site. Errors block publication.
 
-**API editorial coverage** reports XML-only explanations, empty manual text, unchanged defaults marked manual, changed contracts awaiting review and retained text for removed APIs. Pending items produce a neutral result with warnings. They do not block a merge or deployment, and no automatic issue or comment is created. A reporting-program failure is a real failure, not an editorial reminder.
+**API editorial coverage** reports XML-only explanations, empty manual text, unchanged defaults marked manual, authored explanations affected by source changes and retained text for removed APIs. Pending items produce a neutral result with warnings. They do not block a merge or deployment, and no automatic issue or comment is created. A reporting-program failure is a real failure, not an editorial reminder.
 
 ## Publish when the documentation is ready
 

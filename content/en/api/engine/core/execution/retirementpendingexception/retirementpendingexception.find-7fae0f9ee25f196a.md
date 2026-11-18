@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7fae0f9ee25f196a5eca985421d4adb0c0c5cda5b35e929ffad57c8de6053aac
 symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementPendingException.Find(System.Exception)
 title: RetirementPendingException.Find
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Execution
 apiSurface: source-clr
-reviewed: b531e5f84e75f3cbb8956cfacfac0f88b7deab7b85eb719932235a6cae8d8a77
+sourceFingerprint: 6b67b509f4dc59c1e021c6dc811ce08096ebbf83977e4f57145a0e486143829f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ec03d4d425e37d8bf47c59bd75a2da571dbac105f99b1d49bf9c6659fd9157ce
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorValidationResult.op_Inequality(InnoEditor.Interactions.EditorValidationResult,InnoEditor.Interactions.EditorValidationResult)
 title: EditorValidationResult.op_Inequality
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 6eb3957b33b35a3373ab5ecdc0b926d79a1b81b3f087fc09cf5891f7454937ab
+sourceFingerprint: 6eb3957b33b35a3373ab5ecdc0b926d79a1b81b3f087fc09cf5891f7454937ab
 apiScope: Editor
 contracts: []
 

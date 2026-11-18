@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.imgui.e709a5c7dcbf3bd8
 symbol: engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiTabBarFlags
 title: ImGuiTabBarFlags
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 5d66e41adabdc72ec6a47f231db3b214e5cc02f669213709e0139dce95c3190c
+sourceFingerprint: 1de18e3167867bfb4c36a1c90c7962101e92a262c555e1d68684b8e6c2adbc00
 contracts:
 - project.inno-editor-imgui
 

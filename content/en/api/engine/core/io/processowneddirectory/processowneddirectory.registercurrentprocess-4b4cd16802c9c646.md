@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4b4cd16802c9c646d1c987540f46142f289faab9e1cc46f7f57813556e8f2611
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.ProcessOwnedDirectory.RegisterCurrentProcess(System.String,System.String)
 title: ProcessOwnedDirectory.RegisterCurrentProcess
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: 0f74883386ceb790c088ead8966baf3f02644651788927d14603a9a88a50f53e
+sourceFingerprint: ff90299fe50c94d65dcff6a3340774ec594909153508001b80dd60e8ef1ec84d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

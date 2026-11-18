@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.assets.runtime-script.ffba4c5e968aeaf1
 symbol: scripting:Inno.Assets:T:InnoEngine.Assets.AssetResidencyStatistics
 title: AssetResidencyStatistics
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-reviewed: f6f07184a5d3cacb33a95a7cf6bbe8fab85632c3938f0ac477c3d2c67582a23a
+sourceFingerprint: 0c473bb764408a80b774a7d7c669b33e81d349892c61d4c07b52057f90f8f447
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.95c3ed132af9881ffe06dcc680e8a2621e23bbecc8fb19717fc027ab91605096
 symbol: scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.IInspectionPropertyEditService.ChangeProperty(System.Object,System.String,System.Action,System.String,System.String,System.String)
 title: IInspectionPropertyEditService.ChangeProperty
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: editor-script
-reviewed: f380286d81f899a22cb7a520c4de7011c2952cfda64ef7d2c6b61e0929e46d12
+sourceFingerprint: e239e4a214d1d2bc52ee48d9e7b97649652d53b3f37c3781ce2ff0f225df9eb9
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.rendering.ca4ab01ad76476c1
 symbol: engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.EditorGizmoFrame
 title: EditorGizmoFrame
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-reviewed: 67f011a9619ed6aafaeb26bd04a5227db71938a1b452107c1105b82f283bbaec
+sourceFingerprint: 6fa44a5c7a75d4e8fcb64cdef1fb211cc140abae67206c21403880337ec5ebf9
 contracts:
 - project.inno-editor-rendering
 

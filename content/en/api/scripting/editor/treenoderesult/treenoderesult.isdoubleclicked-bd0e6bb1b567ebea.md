@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bd0e6bb1b567ebea256d8458dd012fabcebd33463d833ae8fd3b8ad3490dd096
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.TreeNodeResult.isDoubleClicked
 title: TreeNodeResult.isDoubleClicked
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: f509499b51fc946cec4c9ac533096aa452f68cc64428301c5058c7a4e787f33e
+sourceFingerprint: 4b7f22c75fb04e3e48eab6c3ccd383721ea60a1e4ed72a65e7fae55370aaafcd
 apiScope: Editor
 contracts: []
 

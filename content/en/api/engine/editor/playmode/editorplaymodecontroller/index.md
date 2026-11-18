@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.playmode.ca14c24fbc73933a
 symbol: engine:Inno.Editor.PlayMode:T:Inno.Editor.PlayMode.EditorPlayModeController
 title: EditorPlayModeController
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.PlayMode
 apiSurface: source-clr
-reviewed: 28f3d4ff6de832b121e686ec869549f307a197b08134f493131f88a8b9281354
+sourceFingerprint: 87a116151ebb6e6057691c8b1927b9bd47938c9192216243a76ebc13c3bedd26
 contracts:
 - project.inno-editor-playmode
 

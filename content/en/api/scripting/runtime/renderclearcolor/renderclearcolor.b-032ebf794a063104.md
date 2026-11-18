@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.032ebf794a06310420231ef1eddb87a08b50806506f376d9daf41cff14021938
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderClearColor.b
 title: RenderClearColor.b
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: fbec38cefb766e1f3dde991f6594eccdf5093fcc14e89c494bc5678ef8b53ac6
+sourceFingerprint: fba8ff60f15413e568ac6b6e3b45932cbdf5c75329c1511f16c744e48a5533e7
 apiScope: Runtime
 contracts: []
 

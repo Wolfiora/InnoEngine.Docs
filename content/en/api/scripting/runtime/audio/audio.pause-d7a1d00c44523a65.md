@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d7a1d00c44523a6502f7156651776e3da13930399a9bdce6bf105be43032af6d
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.Audio.Pause(InnoEngine.Audio.AudioVoiceHandle)
 title: Audio.Pause
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: ef22008ec1b0544bdd66a775d0d5a65a1e28d592d5d396647f4f82f9ee1a6dd1
+sourceFingerprint: 14d2687e85387465215a1762b733c3028d8c805cb11d3e93e72fa22ff411f3be
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d6454c332b291551271e49c9586aac7d1d55fcf8e9318cf016fcc504b64fe860
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderResourceMap.TryGetTexture(Inno.Rendering.RenderResourceId,Inno.Rendering.RenderTextureHandle@)
 title: RenderResourceMap.TryGetTexture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 191010f34be1c77d187d13a462dc145121579d048fa80261773b0714b602b3bf
+sourceFingerprint: 596fc3791f31d7721df1c165dbd4eb3677bc57da5ecf7642c8ec6a0a8a630818
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

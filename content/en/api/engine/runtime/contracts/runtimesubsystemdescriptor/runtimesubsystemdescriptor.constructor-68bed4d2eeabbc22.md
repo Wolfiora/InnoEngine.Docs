@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.68bed4d2eeabbc22f85fa0009ffe3fe3fe45f877cd36a9ab572a6fc6f6630ac2
 symbol: engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystemDescriptor.#ctor(Inno.Runtime.Contracts.RuntimeSubsystemId,System.Int32,System.Collections.Generic.IReadOnlyList{Inno.Runtime.Contracts.RuntimeSubsystemId},Inno.Runtime.Contracts.RuntimeSubsystemLifetime,Inno.Runtime.Contracts.RuntimeSubsystemRequirement,System.Collections.Generic.IReadOnlyList{Inno.Runtime.Contracts.RuntimeCapabilityId})
 title: RuntimeSubsystemDescriptor.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime.Contracts
 apiSurface: source-clr
-reviewed: 57e4fe26a2140e85b589a46e4f796dfd73460ed52e56f87e63ec0b9d95416b89
+sourceFingerprint: a35a18e9aa8b73d9e532596a0f922b3b682050e1369f297739ffc207ddbb6499
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

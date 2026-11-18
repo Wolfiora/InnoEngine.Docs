@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3284cd5073e2d14773825f146ac9a850c7c58520d263969c2ebbf4db85186c59
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioListenerState.Equals(System.Object)
 title: AudioListenerState.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 0c8ad160effdb14d6dd34b14a075c4d54415baf9359e5eacda6cce2847950353
+sourceFingerprint: 0c8ad160effdb14d6dd34b14a075c4d54415baf9359e5eacda6cce2847950353
 apiScope: Runtime
 contracts: []
 

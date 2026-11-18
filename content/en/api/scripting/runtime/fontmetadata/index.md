@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.text.runtime-script.26bb9d5b15de410f
 symbol: scripting:Inno.Text:T:InnoEngine.Text.FontMetadata
 title: FontMetadata
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: editor-script
-reviewed: 0a711989f36cd1ba012cb70e3d1d78a4fe22ec34e03bcd3c3138537656d8e279
+sourceFingerprint: 460c0c30ecf48b1ad305dbeeac94e6a5d66fad334608ecd022553014bde155cd
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

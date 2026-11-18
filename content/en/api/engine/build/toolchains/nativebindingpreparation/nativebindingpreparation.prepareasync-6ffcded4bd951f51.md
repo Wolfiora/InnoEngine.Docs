@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6ffcded4bd951f515bc2a7af7d187d1a5dac99faf71f2248b90bfa5f835be78c
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingPreparation.PrepareAsync(Inno.Build.Toolchains.NativeBuildContext,System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.NativeComponentDescriptor},System.Threading.CancellationToken,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeComponentBuildOptions})
 title: NativeBindingPreparation.PrepareAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 4c5803d08ab926d7a1130a36381a6531953b7dd09d933e664cbcd32336e45c90
+sourceFingerprint: cde050004f377a5ae2dd16b7c6b182f4d15f4ee134e1ed0c23c8fea2c2bf3624
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

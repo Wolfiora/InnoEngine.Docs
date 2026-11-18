@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime.runtime-script.3231c40113ee2d38
 symbol: scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.RenderExtensionStateContext
 title: RenderExtensionStateContext
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 1b1a10c2aa28deab6cec4ffac1177d0ec2979eb85d04a0da45a92097793248e4
+sourceFingerprint: 3ee1b350730f2652737bdf9f4378169ef8696fce044560f3ace5c36cf4115c43
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

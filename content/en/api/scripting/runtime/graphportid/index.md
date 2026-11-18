@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.graphs.runtime-script.c31940356163f70b
 symbol: scripting:Inno.Core.Graphs:T:InnoEngine.Graphs.GraphPortId
 title: GraphPortId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: c8dd83d6239ca53d6433e33d6d3f7d3c702fa0a7fbf4a5043d6b693b4bd7d944
+sourceFingerprint: 2fa7a1a96295230d84fd9b3b5bc00369ccfb9fa7506a493c73bd39a5fd95ae23
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

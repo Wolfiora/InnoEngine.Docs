@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e2e476d196fb3283de1cab8ddff4cb27d1f3842f3f30210b13ee673358561bba
 symbol: engine:Inno.Scene:M:Inno.Scene.SceneWorld.#ctor(Inno.Core.Identity.IdentityAllocator,Inno.Extensibility.Types.TypeCatalog)
 title: SceneWorld.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 0f31ca6aea2c113db157b481b90202cde51f776243f2b093c96264b8ccc6414f
+sourceFingerprint: 452f0c356dbe8b0dc3ebe6ceaaf169a98ebad1c819d66325c8d9d3f739241444
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

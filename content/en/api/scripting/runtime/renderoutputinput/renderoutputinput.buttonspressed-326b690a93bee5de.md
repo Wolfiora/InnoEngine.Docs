@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.326b690a93bee5de4d325280754e7cba4ba807f855a1ffd5bc275ae4f160b41d
 symbol: scripting:Inno.Rendering.Runtime:P:InnoEngine.Rendering.RenderOutputInput.buttonsPressed
 title: RenderOutputInput.buttonsPressed
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: dcfbece5c2981c0cc0a63988c4ab384d49e8549467f6b38cad18e961e190b5cb
+sourceFingerprint: c2b4afe5a532ef15cf85b2028578ddd3f50cbe0a1504d4dfe2503b5d2a8e9926
 apiScope: Runtime
 contracts: []
 

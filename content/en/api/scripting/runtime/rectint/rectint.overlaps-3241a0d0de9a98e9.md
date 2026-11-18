@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3241a0d0de9a98e960056bb29e88f85ca31c97a585906299da16e2e5815f9518
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.RectInt.Overlaps(InnoEngine.Mathematics.RectInt)
 title: RectInt.Overlaps
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 7c79a77a3163446304fca6a7ece08971770d95c30adb2db19d5dab8ddb578f45
+sourceFingerprint: 53e62fdb4675b81eeb0b729246d5a3b220ddca1393a3352bda75cbb471957b9c
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.faa2b7644f64604017b6dce1c5d7f519cd4f42f1f579a79618d562e02fcdaf1e
 symbol: engine:Inno.Runtime:M:Inno.Runtime.RuntimeSession.Tick(System.Single)
 title: RuntimeSession.Tick
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: a2356075be7fe377470d1f6c04686a3d07f902f237d9aaa50d4593e24558e077
+sourceFingerprint: a3c8827c86aeba28bb4081f2a77992f9e94f5f50433cca7464aa3bce0e97dddd
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.27b8fb427c7e3adedb783a39866af74822d2d0462dd47c3eb6994ff39518833e
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.EditorAssets.DecodeNative``1(System.Byte[])
 title: EditorAssets.DecodeNative
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: 796d45abbe304a2cc3348d18ead13a148dd0ba0df98335d8de3e2dda06a1a177
+sourceFingerprint: 61381df1667094ac790b20630b7c3d21ec12a97405e03e10e1aaaa634a0ea406
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ad5f91c2fda12a238421dd8c9326f0a4a798f6d26ef3dc50179e3a6057b7d728
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativeBuildResult.Dispose
 title: ProductNativeBuildResult.Dispose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 86118030ff3afd1e9cb337e22f7b61b286e50866b7f28a94e420383fa45031b4
+sourceFingerprint: e589734758699249d01ad36e88eaada30a0422c963bbf3a229f19ee304b4f6cf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.011491807c9f206e
 symbol: engine:Inno.Build:T:Inno.Build.PlatformTargetDescriptor
 title: PlatformTargetDescriptor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: 304047fb1334ec46a350a48051f64de90b231f4cb707f286b87184f8892029d3
+sourceFingerprint: 2289dc8a3b4b22ba9c97f050b2763389d85243b7c56dd5b80941de00b5c8d24a
 contracts:
 - project.inno-build
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a5c9cb03dd242bee4badaff506466aff17572ba7679494822629c7b3d45fabaa
 symbol: scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphValidator.Validate(InnoEngine.Graphs.GraphDocument,InnoEngine.Graphs.IGraphNodeDefinitionResolver,InnoEngine.Graphs.IGraphTypeConversion,System.Boolean)
 title: GraphValidator.Validate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: 5b957301d9c0a63b9c09c99be14d2e0daee7492dc67563dfc080b1c105658840
+sourceFingerprint: 8b897f3c932ff8515faacfda81f15fd9acd546405855ff3e8dd6c54f7b863f6e
 apiScope: Runtime
 contracts: []
 

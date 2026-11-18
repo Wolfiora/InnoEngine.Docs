@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.text.runtime-script.d0c7421c62fbcf55
 symbol: scripting:Inno.Text:T:InnoEngine.Text.TextShapingOptions
 title: TextShapingOptions
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: editor-script
-reviewed: b814d9fdbfbcef7c6c962811cc28ab857a1283821f50106268065364776682f5
+sourceFingerprint: 34706b0e5f40ce131d7eb433aed74a24033d8f421ce62a0d8c1e01c85b62492e
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

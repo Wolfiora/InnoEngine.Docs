@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.400b8ec16de8ab4a927d1ca0eeab94940d2aa78f7c48d7fefc2008fb3e168803
 symbol: scripting:Inno.Audio:P:InnoEngine.Audio.AudioSpatialOptions.coneOuterAngle
 title: AudioSpatialOptions.coneOuterAngle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 79218cceff32ef0d39906102bc518954327ec2fcc0ccbc14756a74026b10947c
+sourceFingerprint: 7394568c9ac7827bcf47001450e18ba1a212d13eee0642c0cd0736581b882283
 apiScope: Runtime
 contracts: []
 

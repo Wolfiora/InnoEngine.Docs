@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d74054e436869ba36291ab04f5b6313e70c4ec437e341e0f6c05498106d47c89
 symbol: engine:Inno.Text.Runtime:M:Inno.Text.Runtime.TextRuntime.Rasterize(Inno.Text.FontAsset,System.Int32,System.UInt32,System.Single)
 title: TextRuntime.Rasterize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text.Runtime
 apiSurface: source-clr
-reviewed: 18b5c01b89812b21fec57ca8a9b01e166005403e57c1805d58c1c1967a5603ac
+sourceFingerprint: 4bed043463721d73332779ee5efd1c8407c7bfa70572a56ce51c119a00e96574
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7561c7a0cd42ed72923526733a9a4f88d545dba8c007a5139a3e82507e9030d0
 symbol: scripting:Inno.Text:M:InnoEngine.Text.TextStyle.Equals(System.Object)
 title: TextStyle.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: editor-script
-reviewed: 82ef475e00baae08641b1f41631778fda382e2d26dcdf32fbd2caa03031e74f3
+sourceFingerprint: 82ef475e00baae08641b1f41631778fda382e2d26dcdf32fbd2caa03031e74f3
 apiScope: Runtime
 contracts: []
 

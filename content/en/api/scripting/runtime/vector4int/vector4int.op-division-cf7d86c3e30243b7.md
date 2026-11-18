@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cf7d86c3e30243b7744fa355e5d79f96186bfcfc47c522b9e6cf01c7c554eac3
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector4Int.op_Division(InnoEngine.Mathematics.Vector4Int,System.Int32)
 title: Vector4Int.op_Division
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: b7469884ef4669a32207d4bdcf4d564be6b156ba903df55c8b3c6f39c892d684
+sourceFingerprint: 38020f5cbecab5c33bc2c999fabd2e2d2b7f6dc8cf94bbecb13810e282a11959
 apiScope: Runtime
 contracts: []
 

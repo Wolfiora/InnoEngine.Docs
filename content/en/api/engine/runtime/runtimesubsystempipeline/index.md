@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.runtime.9ad25beaaa9b8c59
 symbol: engine:Inno.Runtime:T:Inno.Runtime.RuntimeSubsystemPipeline
 title: RuntimeSubsystemPipeline
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: 636568a9d6fd8aadc47550e9130256105e6d5d0d6b991df026d4ce9b09e49913
+sourceFingerprint: 27ae27e58e8970185b705a3fe812478cdcfc88e320af7e59aea4ec1d213391a8
 contracts:
 - project.inno-runtime
 

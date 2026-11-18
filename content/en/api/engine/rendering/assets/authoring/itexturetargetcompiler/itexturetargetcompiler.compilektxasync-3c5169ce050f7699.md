@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3c5169ce050f76994ae730fedd2457947e2f1bdfa355047aaa478bfd3904f14f
 symbol: engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ITextureTargetCompiler.CompileKtxAsync(System.IO.Stream,Inno.Rendering.Assets.TextureColorSpace,System.Threading.CancellationToken)
 title: ITextureTargetCompiler.CompileKtxAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
-reviewed: da1154a01e7f0a9161b84ddc0c4326f5fc291b75c3b0e3adfad73375f822f20f
+sourceFingerprint: 47ea9efdb74f66cce51d1e34e8c7cc7a4b34f26d65e4fbbd027a3e212e3d0871
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

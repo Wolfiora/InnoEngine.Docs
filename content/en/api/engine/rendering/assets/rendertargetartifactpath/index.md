@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.8a799db2aa18426c
 symbol: engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.RenderTargetArtifactPath
 title: RenderTargetArtifactPath
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: 1e09f5e9f5956a71dc5424ad05a648b38c26ac991f5efe48cd33c30df10950e7
+sourceFingerprint: ad804b72ab2acd99d1afa28b4fb5524a8fd14ba92bb9da67e2f1cceebef6da63
 contracts:
 - project.inno-rendering-assets
 

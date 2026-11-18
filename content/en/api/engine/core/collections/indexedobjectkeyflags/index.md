@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.collections.57df28ccadb834dd
 symbol: engine:Inno.Core.Collections:T:Inno.Core.Collections.IndexedObjectKeyFlags
 title: IndexedObjectKeyFlags
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Collections
 apiSurface: source-clr
-reviewed: 4d398b4cbfc066dee3bbdfe884b428bea02a7756bc3372079fc9b0c26c6ac30c
+sourceFingerprint: b1f775ddafbb482ce9df93f5d09a675dc3ad71edb5742d91c39c025269420c55
 contracts:
 - project.inno-core-collections#graph-and-store-contract
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.35ef6b66d49e61fcbdbd340d6208a150264c2a9189a1a99446cdb5188bc8a90c
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationDescriptor.ValidateSelection(System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeBindingGenerationDescriptor},System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeLibraryKind})
 title: NativeBindingGenerationDescriptor.ValidateSelection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: fa190e4a1a84aab9932ca365bd977b4f599576d1cd62c443caa2a62f28d2f324
+sourceFingerprint: f79b83e3c13813f545c0d1d952610d86ba126ab8765cb3433119490093bbfd4d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

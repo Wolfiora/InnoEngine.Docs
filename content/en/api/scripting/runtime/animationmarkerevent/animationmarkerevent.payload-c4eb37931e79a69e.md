@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c4eb37931e79a69e2f4379df282f35621ae6f761096f47bbd080be2023eb36c5
 symbol: scripting:Inno.Animation:P:InnoEngine.Animation.AnimationMarkerEvent.payload
 title: AnimationMarkerEvent.payload
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-reviewed: 1bc78b58563d1f98eb72f768da12981714e21b10ea493b272ea18be9703549c0
+sourceFingerprint: 47bf25dd14aa44c911c5dfca02196a237fb54c296a7695214b494f8c883a36d7
 apiScope: Runtime
 contracts: []
 

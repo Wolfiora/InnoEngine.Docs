@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b819140c40a3ac30e606a1656befa6cb00813a9026cf255cfa3b77052616532a
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphTemplateRegistry.Create(System.String,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)
 title: ShaderGraphTemplateRegistry.Create
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 31eee1a67b01d96b7e246be1415aa03498d59af651ffd9e74167c6641958f4e3
+sourceFingerprint: 225615a1cda60a7da0f30ee1223b7e77bfa904778cf53ca3f11362774dfd5d88
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

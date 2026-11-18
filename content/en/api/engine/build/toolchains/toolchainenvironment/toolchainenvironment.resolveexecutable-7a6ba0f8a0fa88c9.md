@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7a6ba0f8a0fa88c9de9bbdab7ba6153f26516ab9e15dd6a322eceb319f232885
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.ResolveExecutable(System.String)
 title: ToolchainEnvironment.ResolveExecutable
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 2201d8872c4f274bc7b7df80d3bc8d283cb34ad40755d6cf4e39e273952a2b15
+sourceFingerprint: d9727d6c7c630f3c44d0f6f4a1d60454afe14f7d0e1d8d34bff0352a705c56ff
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

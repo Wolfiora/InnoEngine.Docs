@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.81d2389093209059989b4d38c76c82202a8a5b1147fedfaeb2642cf7bfebac26
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderClearColor.GetHashCode
 title: RenderClearColor.GetHashCode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 14b6e68cca35724804330533005f6825b3800e42439dd8e0a68086cc25c10ce4
+sourceFingerprint: 14b6e68cca35724804330533005f6825b3800e42439dd8e0a68086cc25c10ce4
 apiScope: Runtime
 contracts: []
 

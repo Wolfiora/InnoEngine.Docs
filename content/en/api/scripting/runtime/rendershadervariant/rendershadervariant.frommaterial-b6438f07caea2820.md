@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b6438f07caea2820e79e7d11875c9e749fc96d55836f485308082e8c563f4844
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.RenderShaderVariant.FromMaterial(InnoEngine.Rendering.MaterialAsset)
 title: RenderShaderVariant.FromMaterial
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: c66ac893e0f45206fd3f04dcb7d6c2a863483e50a7e46fcfc541fdca41b155ef
+sourceFingerprint: 9df3d3bd438104c6755aaa51eb8d3afd347294a4d528a566901965f2be0f6e0d
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7009e3156e739a924048e2a5af3f88546dbe1c01abfc98dfeb6ae15146757fe0
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorDrawList.FilledCircle(System.Numerics.Vector2,System.Single,System.UInt32)
 title: EditorDrawList.FilledCircle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: f9246d6e216dfb551d0df5ed60599d4fc1698f2db9bd06bbc56bae5eaa95a8b8
+sourceFingerprint: 55534b291e723fd6c8059cc422202014f416e09343684c130a87e795ca3c7318
 apiScope: Editor
 contracts: []
 

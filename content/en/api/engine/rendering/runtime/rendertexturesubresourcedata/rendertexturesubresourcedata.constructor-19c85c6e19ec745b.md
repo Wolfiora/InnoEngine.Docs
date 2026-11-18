@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.19c85c6e19ec745b0cee184d16ffb122f76bd01e9f26bdab82afda265265eca8
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderTextureSubresourceData.#ctor(System.Int32,System.Int32,System.ReadOnlySpan{System.Byte})
 title: RenderTextureSubresourceData.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 2378359b2abc88c676ce6f5967e15c3c5a76f62cba2e0a05c0789d07f3fafb5a
+sourceFingerprint: 2e0b4654635e97142c01fc6b154af4af71c3fa6afd66a012f4e017d2fdff1678
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

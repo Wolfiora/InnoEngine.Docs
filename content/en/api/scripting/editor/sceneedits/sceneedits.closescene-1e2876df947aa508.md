@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1e2876df947aa508e7f037d8e1f615e324d89218ee1d9b8067e8a7d1b8e7999e
 symbol: scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneEdits.CloseScene(InnoEngine.Scene.GameScene,System.String)
 title: SceneEdits.CloseScene
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: editor-script
-reviewed: 79de340be0ae90e4a48901b5d981f57920a81b3c3d4d5bf19f87108f43f812fc
+sourceFingerprint: 3a5361156c8f1435906e1f0478a0bee7bf958f8dfd5aee0e70e24ba892d2a28b
 apiScope: Editor
 contracts: []
 

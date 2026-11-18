@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5f214accbb2805317dc89c8686aff2a16f06a9e4af168f299776af8fd0298895
 symbol: engine:Inno.Adapter:P:Inno.Adapter.AdapterSelection.storage
 title: AdapterSelection.storage
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter
 apiSurface: source-clr
-reviewed: bb714302520f5260ce580e154b15b07b4551ac105b19e652348dcf7f4912bc77
+sourceFingerprint: d89b409584caa0d0216ff280a6abb01f75cb82bac263a984c42ab9e77636cc11
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

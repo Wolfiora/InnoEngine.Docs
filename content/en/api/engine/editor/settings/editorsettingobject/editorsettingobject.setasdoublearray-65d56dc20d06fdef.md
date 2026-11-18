@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.65d56dc20d06fdeff02cd6a5aa31fa28d7e70afeee4347d6ecd13ddd1a6a39da
 symbol: engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettingObject.SetAsDoubleArray(System.String,System.Double[])
 title: EditorSettingObject.SetAsDoubleArray
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Settings
 apiSurface: source-clr
-reviewed: bcab3cebe58e77ee49a7b1897dfdaae4213b6db41cafc807ccf89bc967fecf53
+sourceFingerprint: d254a0b4f31cc0a20e78358a4fa971c89669619aa4dbae98a259df4828488b28
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

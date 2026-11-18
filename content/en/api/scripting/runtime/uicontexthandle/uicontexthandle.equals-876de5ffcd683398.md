@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.876de5ffcd6833982ae477e689b40d469ee662cc46c42cd8d47e41298271d2c3
 symbol: scripting:Inno.UI:M:InnoEngine.UI.UiContextHandle.Equals(System.Object)
 title: UiContextHandle.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: d69931582ebfbe3f2099cb22546f4d63f08e00fd08520e18e795cb81328c7137
+sourceFingerprint: d69931582ebfbe3f2099cb22546f4d63f08e00fd08520e18e795cb81328c7137
 apiScope: Runtime
 contracts: []
 

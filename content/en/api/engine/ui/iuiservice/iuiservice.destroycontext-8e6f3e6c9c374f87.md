@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8e6f3e6c9c374f8767d00f346859567840b553c3a5865feec251a223d464c37c
 symbol: engine:Inno.UI:M:Inno.UI.IUiService.DestroyContext(Inno.UI.UiContextHandle)
 title: IUiService.DestroyContext
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: d2ff91ba3d2b0b78a064c54bad3962d40aad24e2d941263623c4b3904c9d46a4
+sourceFingerprint: 5b74e27972305c7c2641712c4315d862541cf662ee76eacb3ef5f64bc9641a82
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

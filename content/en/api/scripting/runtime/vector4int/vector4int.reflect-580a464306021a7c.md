@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.580a464306021a7c0de09cacfe3e2b79449cd271da1684a33739e08ffe3c7f68
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector4Int.Reflect(InnoEngine.Mathematics.Vector4Int,InnoEngine.Mathematics.Vector4Int)
 title: Vector4Int.Reflect
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 0a49913cbad544d27fa7d0e5d3bfd4ce27b34ae8e381c31c3dd2d12cd2768da8
+sourceFingerprint: de482e171d52c271041e85435e100cbb89bf79851284448fec5b9eb70112ef9c
 apiScope: Runtime
 contracts: []
 

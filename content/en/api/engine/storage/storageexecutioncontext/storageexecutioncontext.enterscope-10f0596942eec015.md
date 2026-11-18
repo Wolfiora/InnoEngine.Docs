@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.10f0596942eec0157aae0575dc63fea2d55b78218826d02b72170d609d5396ef
 symbol: engine:Inno.Storage:M:Inno.Storage.StorageExecutionContext.EnterScope(Inno.Storage.IApplicationStorage)
 title: StorageExecutionContext.EnterScope
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Storage
 apiSurface: source-clr
-reviewed: 73ac111a0b148c40f5f9fc74ada25774d6784428d31582193fb9df94548b148e
+sourceFingerprint: a49e3a1f3100485a74b75c9bca8e08c3c745fcee42ae5c2547a9dc862856ecc4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ede5369538fb6921d8ef8988ea99d8c0a3d872a34561f63b35ee0ee91ec37503
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2Int.op_Explicit(InnoEngine.Mathematics.Vector2)~InnoEngine.Mathematics.Vector2Int
 title: Vector2Int.op_Explicit
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 6a46533f05b7ec3e0f0f2a574882ee9f157c21e4d001755d4f08e906c5a6d599
+sourceFingerprint: 2950b2ed2c106af467235cf559c984144cdb1fcbe52d66666bb4676adb8fba20
 apiScope: Runtime
 contracts: []
 

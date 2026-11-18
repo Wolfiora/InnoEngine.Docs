@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.audio.runtime.40ad330200c59bfc
 symbol: engine:Inno.Audio.Runtime:T:Inno.Audio.Runtime.AudioRuntimeOptions
 title: AudioRuntimeOptions
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio.Runtime
 apiSurface: source-clr
-reviewed: dfdd4f39610cb92da3595f799f3b12576c5b629a1bd4d8e59b51561eca7eac3b
+sourceFingerprint: de2da496470eddc0b167ec2a01e940e1968b66db5b84d4bb7b2caddfc245bd41
 contracts:
 - project.inno-audio-runtime#composition-and-lifetime-contract
 

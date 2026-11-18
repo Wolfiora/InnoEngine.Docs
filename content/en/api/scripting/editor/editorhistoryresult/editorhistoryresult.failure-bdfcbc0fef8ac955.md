@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bdfcbc0fef8ac955d22611cb96a2f020d1efd0ba88fc680e1cd14f09ebbcb56a
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryResult.Failure(System.String)
 title: EditorHistoryResult.Failure
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 1bf48fedc878bfea54799b24d911df51c2aa9c8e1fc64821d8c2f51acf0f7b3e
+sourceFingerprint: 6fd95c6e0678a4d77cfcbfb7851016a24dc47ffe3b7405436bb541acb002aed0
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.394f1fd362be97b74db8db58be497a3c36554bc5822a2e05de1152f056a1cbf7
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.GetClipBounds
 title: ImGui.GetClipBounds
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 6de7a589e2747dc8b9af451f85419712e26936c7a8fced3fa55a485b27f194de
+sourceFingerprint: 7faffbe4fba5d8c108066567beea3c9972f7d31473c6f16a84719842a9dceb08
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

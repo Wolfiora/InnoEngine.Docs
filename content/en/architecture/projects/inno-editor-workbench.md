@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-editor-workbench
 symbol: project:Inno.Editor.Workbench
 title: Inno.Editor.Workbench
 kind: project
 owners:
 - Inno.Editor.Workbench
-reviewed: ''
+sourceFingerprint: 91f1378ba2fe9c412bc222e075e000e86f57934a67652ef16cacbb6cfe56b909
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

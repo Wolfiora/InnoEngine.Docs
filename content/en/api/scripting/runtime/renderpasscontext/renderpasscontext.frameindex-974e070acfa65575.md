@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.974e070acfa65575c71370493d3dd5cf0d291a82a11344f5cec601ebf16b1d5a
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderPassContext.frameIndex
 title: RenderPassContext.frameIndex
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: fe031692a75a87f07525e49e6b4bd7ee56f10022c58efa6d481beed447d73067
+sourceFingerprint: b92e3f88ec608f94daa805918b5fb376dee43d104f4beb1853b3600ddcc017ba
 apiScope: Runtime
 contracts: []
 

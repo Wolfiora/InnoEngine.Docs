@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.afc408229c2df60bdc05d5d61675897f2ca6ad52558a142d2c4b1818db6feb3f
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorStyleMetrics.toolbarFramePadding
 title: EditorStyleMetrics.toolbarFramePadding
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: aa7d7e6bdf3fba375e44f04309157ed960b89084ba5fe3556136a8bb38233d73
+sourceFingerprint: aec0438fa9c7b60ae09f3e6a0f0b83ff6fe6b7be2d1492d01af4556cc360d5e4
 apiScope: Editor
 contracts: []
 

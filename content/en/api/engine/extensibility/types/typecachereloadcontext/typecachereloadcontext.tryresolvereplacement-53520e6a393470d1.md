@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.53520e6a393470d14232482f47ba4e8f3a80fd58084668a9ae3534fb1df73a50
 symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCacheReloadContext.TryResolveReplacement(Inno.Extensibility.Types.TypeRef,Inno.Extensibility.Types.TypeRef@)
 title: TypeCacheReloadContext.TryResolveReplacement
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-reviewed: fe9e98c30d63a3df534bfb76648eac0626d7030b1d13acd5537e05b156414277
+sourceFingerprint: c2f30768e3cf5f77675b850cc120002bf2dfd24a5a7708f631c672b15bbf03e6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

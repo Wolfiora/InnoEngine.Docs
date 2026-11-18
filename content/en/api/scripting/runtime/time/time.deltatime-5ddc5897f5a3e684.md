@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5ddc5897f5a3e6843427043dd45393290b25ea384c5ef8a7624a80bbee7076f4
 symbol: scripting:Inno.Runtime:P:InnoEngine.Core.Time.deltaTime
 title: Time.deltaTime
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: editor-script
-reviewed: 0de56d9dd82da29e0875f0fdd4abb9243bc083bb9e02e066c7c6412d4fec08ec
+sourceFingerprint: 685f5d97af4912ddb113f88fe60cf7bc0f0264a0773f9007cdb74cf4628c9de3
 apiScope: Runtime
 contracts: []
 

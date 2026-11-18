@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dc279f1bf597f9b4cd411ddef71b3e049db44549d55b48e806a30e7769be13fb
 symbol: engine:Inno.Build:P:Inno.Build.BuildProfile.windowWidth
 title: BuildProfile.windowWidth
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: 3b2cbc00667ebaad1a98fc9e35bcd33be5ee8bc5aac86d4d043609c2350e450b
+sourceFingerprint: 557e17de0a0f01ea0e266bebb5bbb6da7836c6ec038f5b54b75893dcc5da6d9b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

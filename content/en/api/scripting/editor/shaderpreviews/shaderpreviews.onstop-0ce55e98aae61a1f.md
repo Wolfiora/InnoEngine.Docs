@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0ce55e98aae61a1f81f50637397c5ad1d6ba61cab3862c502806c499887afa77
 symbol: scripting:Inno.Editor.Shaders.ImGui:M:InnoEditor.Shaders.ShaderPreviews.OnStop(InnoEditor.Core.EditorContext)
 title: ShaderPreviews.OnStop
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders.ImGui
 apiSurface: editor-script
-reviewed: 655cf518f0bf24e4c072994bb523e8f26f66f4b5221c0b306971a4663ea03036
+sourceFingerprint: 805fa6709bdd607e384cefb2ef41938a0799b0b761c651a057a0bf1b0df2cb2a
 apiScope: Editor
 contracts: []
 

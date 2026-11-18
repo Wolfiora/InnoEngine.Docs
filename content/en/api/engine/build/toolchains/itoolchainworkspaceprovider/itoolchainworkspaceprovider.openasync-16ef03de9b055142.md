@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.16ef03de9b0551428c451d3a198656c50f16dda82c678cbec8c2c81f1dcbf365
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.IToolchainWorkspaceProvider.OpenAsync(System.String,System.Threading.CancellationToken)
 title: IToolchainWorkspaceProvider.OpenAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 183769eca8e0c5b6356b46e5082125d689fd325487f8984ee9d8b8e3ecd8ae27
+sourceFingerprint: f633cd301f78b2141929844c45f4a751cf9bf1bdb18949b1863fb1b5dbc01d7c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

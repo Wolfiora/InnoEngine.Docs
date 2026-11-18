@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.efddfea4112c55f377e765bdceb4bbaf2955fea85dd8919f93f46f30a2df4edf
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerMask.GetHashCode
 title: GameLayerMask.GetHashCode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 3a5d468a61dd9d5d36bfc0d942061eb9b6f5ef6abf5bc14d3a9d075575c19e97
+sourceFingerprint: a2a61219d73583fd3d8802079b7c1aa2d7a4694b37c3d956d21553ff60bcd12a
 apiScope: Runtime
 contracts: []
 

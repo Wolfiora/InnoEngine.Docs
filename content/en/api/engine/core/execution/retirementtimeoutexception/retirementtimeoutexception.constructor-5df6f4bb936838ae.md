@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5df6f4bb936838ae88a6726aba7056791fceaa98b1216c46b32958e51aa4ccb4
 symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementTimeoutException.#ctor(System.String,System.Exception)
 title: RetirementTimeoutException.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Execution
 apiSurface: source-clr
-reviewed: 72ee112f3b5629126cd0d8cefa2e9254dcc3a27a473513ebb698cd3fd906795d
+sourceFingerprint: fd6916868703bd41b7cbde96ae43e6174db5f2f546b25d9d1534c043adb313b5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

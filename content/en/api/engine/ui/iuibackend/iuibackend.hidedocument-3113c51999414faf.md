@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3113c51999414faf9b3d4b45cf38e0478eecad213eb5c0cb236af3ff9989ee02
 symbol: engine:Inno.UI:M:Inno.UI.IUiBackend.HideDocument(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle)
 title: IUiBackend.HideDocument
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: 3acbfc0ec31492777ca415fc8303eee5616b0b8753fc121e79f46b8db4503f3a
+sourceFingerprint: e12ea1d0ac70300426456d5109c4df7e5e3c0e567488cfd506b36d3d4fda91e8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.010e1e5dc206c8ae50b16153cd506e54ce346742a05ca87fd79cf09e0590e5c3
 symbol: engine:Inno.Editor.Panel.Inspector:M:Inno.Editor.Panel.Inspector.AssetReferenceDropTarget.#ctor(System.Type,System.Action{System.Guid})
 title: AssetReferenceDropTarget.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Panel.Inspector
 apiSurface: source-clr
-reviewed: 22ff4f998524ae5c4b91fcd5237b96d32e17e2517abcb6d1d62b574e78c7cd24
+sourceFingerprint: b9e43ea44de67ef4565194b377bb65205d381e9f4e8d4cb3f155926fc72f9892
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

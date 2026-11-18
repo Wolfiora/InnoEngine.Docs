@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.54e52f4b9e3cae72f98eabd0832de8dbeaa866f6a4cf7c60b3335f84523ecf2f
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.ViewContentItem.#ctor(InnoEngine.Core.Identity,InnoEngine.Mathematics.Matrix,InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3,InnoEngine.Rendering.IViewDrawable,InnoEngine.Rendering.IViewPointerTarget)
 title: ViewContentItem.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: b94ca108e1ad4f0b08aeea0b1316d6179839fdb39135c803ca4898e6e052d0e5
+sourceFingerprint: 1aed85e6b0e8fa6bf3097370fe8643bc39796d879610513b4cc04e5b27346e77
 apiScope: Runtime
 contracts: []
 

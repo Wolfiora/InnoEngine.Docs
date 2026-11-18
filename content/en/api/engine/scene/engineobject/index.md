@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scene.4193365947cda839
 symbol: engine:Inno.Scene:T:Inno.Scene.EngineObject
 title: EngineObject
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: c8e683cd48043ff711b79a908a730836cdac7d02f11470c3ff23c58dcb4f2288
+sourceFingerprint: 6e149aa741404bf8b762ebd635c4d26e97bbf81382441ad565e5b4498070cb00
 contracts:
 - project.inno-scene#scene-ownership-contract
 

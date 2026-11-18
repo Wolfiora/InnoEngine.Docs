@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d00ea0cee5e5bd00839166dbca15fddc1f9d691646dc99b432ece29c6983f29d
 symbol: engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettings.ListenChanges(System.Action{Inno.Editor.Settings.EditorSettings})
 title: EditorSettings.ListenChanges
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Settings
 apiSurface: source-clr
-reviewed: 7bd3be1894f37d0b867b5a30de2e612ef9a115752c345a6fd17593127cef7d8b
+sourceFingerprint: 411a51cb1fc027ded8399b6ab912c139513db6b8a3d359140200d12aa7797206
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

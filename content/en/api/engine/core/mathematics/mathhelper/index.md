@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.mathematics.1cb7db4f4a322116
 symbol: engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.MathHelper
 title: MathHelper
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 3f16138a4e7ffc881cf6e30a6602b2cec42120bd8fdc8cdee49e155fdcc90aa4
+sourceFingerprint: e866e7c1275ed7279d4a3f50c9a6d3029f67b4f5755e244dd9ff80777e699a71
 contracts:
 - project.inno-core-mathematics#numeric-and-layout-contract
 

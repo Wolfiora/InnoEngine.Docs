@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.89ba461fecec8bf2294228a496fecc39fa85f2eafe18c2779c9903afa12269f7
 symbol: engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasView.DrawGrid(System.UInt32,System.Single)
 title: GraphCanvasView.DrawGrid
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph.ImGui
 apiSurface: source-clr
-reviewed: 420769272e2d7d90cf7a6d3724f201c93fd148fb002d549a673e104fc238561a
+sourceFingerprint: 1a974ffc5669cff4da43e2a961ef566ce1fef51eda9483f5295c499bee39023f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

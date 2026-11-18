@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-platform
 symbol: project:Inno.Platform
 title: Inno.Platform
 kind: project
 owners:
 - Inno.Platform
-reviewed: ''
+sourceFingerprint: d54d505d253b0279b2fa81c2fd792fa9274c0ad123a94219697fbd1bcee309a8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

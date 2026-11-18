@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a79208f8447bf905d48815280ed1d091b34b56ea24b0acef7748c9972171e221
 symbol: engine:Inno.Animation.Runtime:M:Inno.Animation.Runtime.AnimationRuntime.Pause(Inno.Animation.AnimationPlaybackHandle)
 title: AnimationRuntime.Pause
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation.Runtime
 apiSurface: source-clr
-reviewed: 04cafad47a580eafcb08c72705b834df52ecfa6c995ba6b5d3ed20963bea1b93
+sourceFingerprint: b2b7b1f79d6b4a61e50ef402159a4f770d511fd6ce0f5852df8b9c86e4432040
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

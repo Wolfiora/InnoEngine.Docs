@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.59fc04bfdab6a17aecafe88562dca90a8a3b6808cc0dee45994d31016810b60f
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorViewportToolContext.ScreenToWorld(Inno.Core.Mathematics.Vector2)
 title: EditorViewportToolContext.ScreenToWorld
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: b6b6101b86fbb637cbe23eb2cd6e81567e1d33262dd7b947440acbab9dc58f69
+sourceFingerprint: 6ef7ee8ebb50ecb61ba19c4255e92034d4eee7619301bd29340e3ac6ac32bc39
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ddd54f46c989de48969ec1c1c53a30558aedf4eaf53c1b77af5e828d8fcc0d7a
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.AxisDragFloat(System.String,System.String,System.Single@,System.Single,System.Single)
 title: ImGuiWidget.AxisDragFloat
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 79b996196f98cea8d4542de99483eb76609907cfc0d5fec914f0bece172ea77f
+sourceFingerprint: f5b74c48de7a6c428777798b8c99700b001cce35f8f1d93608feb2cde79dd7dc
 apiScope: Editor
 contracts: []
 

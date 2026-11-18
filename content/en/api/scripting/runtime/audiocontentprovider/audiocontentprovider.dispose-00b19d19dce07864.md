@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.00b19d19dce07864103ec895711d0328eec982b5eaa03ab3118684ed7d84d506
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioContentProvider.Dispose
 title: AudioContentProvider.Dispose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 8dc393c1376f9a669f1d05293c0e6980b95be070f65704eb500e1b98ffa9d478
+sourceFingerprint: 0f87aef722d4db05e09e0ccfd21d83ad8db1afa73dc3f15bea81d09ef2ccfc0e
 apiScope: Runtime
 contracts: []
 

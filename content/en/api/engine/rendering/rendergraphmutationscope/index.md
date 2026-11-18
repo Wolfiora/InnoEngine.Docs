@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.13d20e7fc6aec15b
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderGraphMutationScope
 title: RenderGraphMutationScope
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 2910dec316ea4dd1c0f7be71ff798206cdaf4a4fb8545044959aad5bee4a73a2
+sourceFingerprint: 33ca435e52c87811b3708860660ce0522f3234084f44632fd381402d054a0cad
 contracts:
 - project.inno-rendering
 

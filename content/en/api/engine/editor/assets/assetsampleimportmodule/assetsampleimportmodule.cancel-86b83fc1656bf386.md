@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.86b83fc1656bf386b56bb7796fe725d08bfe6d35d718eac0fa0ec8ada7a87404
 symbol: engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetSampleImportModule.Cancel(System.Int64)
 title: AssetSampleImportModule.Cancel
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
-reviewed: bfb59ec4c1acb364159bf25a649d283bb0d6971cbb7dead5c1a92d15b43884ee
+sourceFingerprint: 7d112a5058426af6c14f6e363edbb8bda77e2bec60e2bfa0880e9c7c622181de
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

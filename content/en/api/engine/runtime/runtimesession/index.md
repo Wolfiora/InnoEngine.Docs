@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.runtime.e413326fc8cd828f
 symbol: engine:Inno.Runtime:T:Inno.Runtime.RuntimeSession
 title: RuntimeSession
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: 45e3e0590eab613fd74eeaf7cca274eeeff7acd88a9fde061a349e0196d55598
+sourceFingerprint: 269b55103c0713562d72079ec605178f839ec18adc4b8255f1f4f9c0fba37bb2
 contracts:
 - project.inno-runtime
 

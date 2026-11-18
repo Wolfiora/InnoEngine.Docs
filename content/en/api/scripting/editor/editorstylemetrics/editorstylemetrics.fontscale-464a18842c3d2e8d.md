@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.464a18842c3d2e8d66ed96db701e62985a90dd4b9ce1b16413c345c5d64233be
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorStyleMetrics.fontScale
 title: EditorStyleMetrics.fontScale
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 3b3c68fa65afa4d6a8d373d47c665b86fb7f85ae4a448740ffdb180beced9b1b
+sourceFingerprint: b0d2b23b74a721c63d24458ecc10ef4eceef53f4a395be490d4d337e3c6f4544
 apiScope: Editor
 contracts: []
 

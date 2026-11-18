@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7f963962ab27d35621dd623f0a0910eabc3a5742f6b41051023e83bea5bffb0c
 symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.SetAsInt32(System.String,System.Int32)
 title: EditorSettingObject.SetAsInt32
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Settings
 apiSurface: editor-script
-reviewed: 08c60d408f5edd2b6891fe753f68a31cb0b5f7e9311317969a1e418628a7c065
+sourceFingerprint: 11ebc2fff2d897c6b6a58e5363112ce6e7b5371865f60f8001089f2cf04ebf7c
 apiScope: Editor
 contracts: []
 

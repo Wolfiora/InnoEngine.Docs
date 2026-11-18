@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.829c1f37fe51f690873e4f36698eaa08fb62f9a738a9650cba2a78b1a7f1250c
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.TransformGizmo(InnoEngine.Mathematics.Matrix,InnoEditor.ImGui.TransformGizmoOptions)
 title: ImGuiWidget.TransformGizmo
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: e51b7c731ea21e2db6598e8887c220873a1825cd85e753d62fd6e189255c2993
+sourceFingerprint: 392bd69281a6cff3237ef139d8beaa4dd56255019464930220757003b79652e4
 apiScope: Editor
 contracts: []
 

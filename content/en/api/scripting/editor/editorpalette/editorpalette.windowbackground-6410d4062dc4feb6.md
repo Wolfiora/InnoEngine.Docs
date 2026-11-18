@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6410d4062dc4feb62d377ecbb7743a99fb9ef4c1b6f382e9e3f0df9dcf7466f6
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorPalette.windowBackground
 title: EditorPalette.windowBackground
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: a08df2a1839a8f9066dffaa2b3336ca2e2d52c5e320cf4666ffd5eef0c8202a1
+sourceFingerprint: c7e5bec08c4ee48147ad7e9d5a62aa7ab5c985c039ba8cfb88f218b7179df606
 apiScope: Editor
 contracts: []
 

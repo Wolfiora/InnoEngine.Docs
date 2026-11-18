@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5d9cd63c97d6de30d939387f53a1297247dde839122514e18627e640d67353c6
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.#ctor(System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)
 title: Matrix.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 00195a3c228f98b49afe0ff9c4d98d4534c2ab7f592f79c051f420faeb6b6bfc
+sourceFingerprint: a0fdaa58861f1575073a39a1412820dff1103334899e8594384df209c878fe92
 apiScope: Runtime
 contracts: []
 

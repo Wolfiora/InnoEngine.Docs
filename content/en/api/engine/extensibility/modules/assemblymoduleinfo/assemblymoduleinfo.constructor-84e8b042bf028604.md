@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.84e8b042bf0286045bb5ef7ed2ee2b128f860ce76df563dab962b2813678dda4
 symbol: engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyModuleInfo.#ctor(Inno.Extensibility.Modules.AssemblyModuleHandle,System.String,System.Int32,System.Boolean,System.Boolean,Inno.Extensibility.Modules.AssemblyDomain,Inno.Extensibility.Modules.AssemblyScope,Inno.Extensibility.Modules.AssemblyModuleStatus,System.Collections.Generic.IReadOnlyList{System.String})
 title: AssemblyModuleInfo.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Modules
 apiSurface: source-clr
-reviewed: 3b8b2358b02c980bac2e78adfac0363a6197267e972fba4ef3f2e9595304569b
+sourceFingerprint: 43ddadb4fd2ad9fc4d855edf8ed44ad38aa7a5f7abddcfd70fedef06f349dcfc
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

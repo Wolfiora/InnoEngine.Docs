@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.animation.6cc1defcf81c22bb
 symbol: engine:Inno.Animation:T:Inno.Animation.AnimationTarget
 title: AnimationTarget
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: source-clr
-reviewed: d4e48c866df1ddc6d88f31da0810c5355a51447211ef7179381554e103c5078b
+sourceFingerprint: 480570a8e9ff1e24822a878a82ff99853d1f8f427ee3a11106f428acf1aeb6e9
 contracts:
 - project.inno-animation#target-and-service-contract
 

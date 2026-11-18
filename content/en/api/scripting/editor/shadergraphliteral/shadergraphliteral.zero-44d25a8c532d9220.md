@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.44d25a8c532d9220e3859e6680828ddbb7419b287ebce95ff7a91a07859e0979
 symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphLiteral.Zero(InnoEditor.Rendering.Shaders.ShaderSourceType)
 title: ShaderGraphLiteral.Zero
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: e3704cd33fffc9be6b8f542a8943efb4614138d24501f501d951241cf0e4d7d2
+sourceFingerprint: 8c69807356bae54287773cbc6e8c999c6da7052461a2f3de2fd9dd6819aef80f
 apiScope: Editor
 contracts: []
 

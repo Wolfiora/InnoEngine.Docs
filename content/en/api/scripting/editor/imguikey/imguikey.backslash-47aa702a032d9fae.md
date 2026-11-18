@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.47aa702a032d9faeef10c5f7a5379136413a012271bf288963ec1dae7ddfe209
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.Backslash
 title: ImGuiKey.Backslash
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 5e480302a64eec0376cdd1d8c00759fece9747ce3e0a91884614ed5ad24e79e5
+sourceFingerprint: a1e70dc2c75fecdf9282152b7e9c72f2e9e99535cd51b569e93f5d4f92fd86a7
 apiScope: Editor
 contracts: []
 

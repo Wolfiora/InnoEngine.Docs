@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.660cc423b99ca66b11c6e5fea431676c1dbe01277836c3dbd0e6b0ae94046472
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderPipelineContext.#ctor(InnoEngine.Rendering.RenderRequest,InnoEngine.Rendering.RenderPipelineAsset,InnoEngine.Rendering.RenderGraphBuilder,InnoEngine.Rendering.GraphicsCapabilities,InnoEngine.Rendering.RenderResourceMap,InnoEngine.Diagnostics.IDiagnosticReporter,InnoEngine.Rendering.IRenderResourceService,InnoEngine.Rendering.IRenderFrameUploadService,System.UInt64,System.Boolean,InnoEngine.Rendering.RenderTextureHandle)
 title: RenderPipelineContext.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 27f24f099bc7b2e4890d51946d41de1365420c8b475236a313a8afb09b7db3c6
+sourceFingerprint: 1bbe36205e53115b4d5c6c4bfc80389f4c41000e3cab8b7e4aa932e4e78699f6
 apiScope: Runtime
 contracts: []
 

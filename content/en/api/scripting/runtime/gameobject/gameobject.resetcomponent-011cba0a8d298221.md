@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.011cba0a8d298221b0e3f14a3236df0db892193deaf32a3e6b5214a6821a38d3
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameObject.ResetComponent(InnoEngine.Scene.GameComponent)
 title: GameObject.ResetComponent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 001e49e0587270407d66ba39ab1e9fb1a187abf95b2a751d7b42827fa070d011
+sourceFingerprint: 026c8ac1501fb3ae48c60a9bff72a18024364535e870e0d8e32be3c88a4e2074
 apiScope: Runtime
 contracts: []
 

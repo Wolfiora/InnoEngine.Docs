@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1b754e339893713a328036d1b04f24d05a4cc264934379249590d6f39672cc5f
 symbol: engine:Inno.Player.Runtime:P:Inno.Player.Runtime.PlayerLaunchOptions.consoleColors
 title: PlayerLaunchOptions.consoleColors
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Player.Runtime
 apiSurface: source-clr
-reviewed: d8483189a7ffd4c70a96883edfa9b7f6f91d98ceead8cce7ce9f6e492055a40d
+sourceFingerprint: efe902ff6dad54bf9a255d83b21ea7292c89a0bd4184f171755875f68ba3bb1d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

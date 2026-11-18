@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.020d43d28c787129131f772863d9c209c2ee214b6939e2eaaf20b8160c7f8ba4
 symbol: scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasPointerController.BeginMove(InnoEditor.Graph.GraphCanvasLayout,System.Collections.Generic.IEnumerable{InnoEngine.Graphs.GraphNodeId},System.Numerics.Vector2)
 title: GraphCanvasPointerController.BeginMove
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph.ImGui
 apiSurface: editor-script
-reviewed: 81081bf3ad6a44b40c5819d2f79d1225b36923802b87b4bb95963d1b2840afd7
+sourceFingerprint: e5dc5fa04037c3f8e94f53ed271d7df920d7c82dc0e11481a770b50dd39e6921
 apiScope: Editor
 contracts: []
 

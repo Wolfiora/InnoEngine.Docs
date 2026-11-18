@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.26368f8e3fc76a7ad6229769bad8224e73aa03cc2632b48d17d4d38dc093d5cd
 symbol: engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyModuleInfo.Equals(Inno.Extensibility.Modules.AssemblyModuleInfo)
 title: AssemblyModuleInfo.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Modules
 apiSurface: source-clr
-reviewed: e7de9da675daa9f2f242b0ed77207ef2c8e9b820f34ae209a678e6a01398b814
+sourceFingerprint: e7de9da675daa9f2f242b0ed77207ef2c8e9b820f34ae209a678e6a01398b814
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

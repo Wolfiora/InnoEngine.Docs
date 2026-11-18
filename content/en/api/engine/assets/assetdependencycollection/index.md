@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.assets.559aa4b1fff17720
 symbol: engine:Inno.Assets:T:Inno.Assets.AssetDependencyCollection
 title: AssetDependencyCollection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-reviewed: f30b8beb78d6eba1e8f4dc243cb3e5a3fa1cad63632f8d3272639358dda8aee5
+sourceFingerprint: 57510abaa110a2176767996509f976a39c3f70d5fe9ae690ef83e743b7e98d8e
 contracts:
 - project.inno-assets
 

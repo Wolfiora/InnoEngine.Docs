@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.68577f2763a1e5b10bf9318473fbbcd5ed1e5961d32851b1c67796de1de2d798
 symbol: scripting:Inno.Assets:F:InnoEngine.Assets.AssetImportStatus.Unsupported
 title: AssetImportStatus.Unsupported
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-reviewed: 7fb13e36ad27e388927d6122d68e68dfb4760d58d63dd79ccb2a47a8ecf52093
+sourceFingerprint: 21f18a912c7fd20f62c12f46b4e7b68b6816f6263b83aea4e27707b36907869e
 apiScope: Runtime
 contracts: []
 

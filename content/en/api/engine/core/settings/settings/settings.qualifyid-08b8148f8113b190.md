@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.08b8148f8113b190a93118a33c37b1463c9072549b29a7479c917bd52196c5a9
 symbol: engine:Inno.Core.Settings:M:Inno.Core.Settings.Settings.QualifyId(System.String)
 title: Settings.QualifyId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: source-clr
-reviewed: f814a71ae5aaa44f7fd5260981f83f672183d873f9f8d682b257862c411f3ada
+sourceFingerprint: 53b5a6088f17287962003a910b3b9f7d0313a3cf9380117bd7060626c684e267
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

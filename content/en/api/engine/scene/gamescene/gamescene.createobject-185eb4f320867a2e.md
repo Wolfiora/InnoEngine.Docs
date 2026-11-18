@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.185eb4f320867a2e2865e700c04e8be79e0d41e488914aa5afcc224ba371dfba
 symbol: engine:Inno.Scene:M:Inno.Scene.GameScene.CreateObject(System.String)
 title: GameScene.CreateObject
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 93939a25bb015c00a0a9435ba2907920daacb1817ad7d801009493d7f6ba42be
+sourceFingerprint: e0afe3adc8d92645a21a97b589963f870ba32103b7a4e3f76bc42caa7a252404
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

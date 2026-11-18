@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.209484acea53fa85373ee57c7823752b6b08bdb802eeaf0a4d64994956ac502e
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTabBarFlags.FittingPolicyMask
 title: ImGuiTabBarFlags.FittingPolicyMask
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 7b96e1559f4e72345d858fe9ac6a9276189297c165f48929554c77650060b337
+sourceFingerprint: d81334b2ea59407e4f42cb9988901100f876d01d8e466f98e91c4a6d3c482a3b
 apiScope: Editor
 contracts: []
 

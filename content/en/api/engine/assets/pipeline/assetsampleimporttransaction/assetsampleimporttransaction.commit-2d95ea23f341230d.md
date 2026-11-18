@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2d95ea23f341230d3a6c00f87a998f13b9c2f95a3381103f616101775957f3ed
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSampleImportTransaction.Commit(System.Action{Inno.Assets.AssetPath})
 title: AssetSampleImportTransaction.Commit
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: 001cd642eda2b5f1ddaab2e38fb2190289f6093915999b6b715e6af6857ffbe2
+sourceFingerprint: d5f9e36c75445936e9cbf83908087e0e9f9084a96edc50359199c1879b399b8a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

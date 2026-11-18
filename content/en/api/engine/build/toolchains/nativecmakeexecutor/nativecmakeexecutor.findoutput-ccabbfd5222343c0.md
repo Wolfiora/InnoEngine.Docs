@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ccabbfd5222343c04aa9d36dcf17832570a8359777985ad3364b1bff6b679c29
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeCMakeExecutor.FindOutput(Inno.Build.Toolchains.NativeBuildContext,System.String,System.String)
 title: NativeCMakeExecutor.FindOutput
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 39b41420e3e6a00ea370a9b358d16e7dd0e523ee75ddbb5aa8c320dd7464bcf2
+sourceFingerprint: 710e5ac3aa43dbf625037e166c1680390d55e5a058c2a6df719a62c0b8810c83
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

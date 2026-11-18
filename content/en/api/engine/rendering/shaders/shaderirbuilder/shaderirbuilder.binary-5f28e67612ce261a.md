@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5f28e67612ce261a391d3d65e0f6d5bec6e41d199baac583578733bb21f867fd
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.Binary(Inno.Rendering.Shaders.ShaderIrOperation,Inno.Rendering.Shaders.ShaderIrValue,Inno.Rendering.Shaders.ShaderIrValue)
 title: ShaderIrBuilder.Binary
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: fdbef943921aa61e8ecefa1ef20209e51ee151f29ba52721b97b32a70490014e
+sourceFingerprint: 0d8d1a81892ef67e69086fc55d866916b11d54035f28d6ef4344e3900b7a8d3b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

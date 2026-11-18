@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.db10ed426d67e6106903b24c67c3a950cd2146ab653d9a1d911560d27d3a5cdc
 symbol: engine:Inno.Core.Events:M:Inno.Core.Events.WindowResizeEvent.#ctor(System.UInt32,System.Int32,System.Int32)
 title: WindowResizeEvent.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-reviewed: 8b49946654d6a1cb3a26d48230136c23c30da7fe0625b9ebeb4886ee31c41009
+sourceFingerprint: 08fa41e71b9d7f74526e34011f65105e67e3613140ce99ed03114a9a0d24cf09
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

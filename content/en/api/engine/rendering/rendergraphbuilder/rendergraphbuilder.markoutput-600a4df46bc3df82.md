@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.600a4df46bc3df82caf3b91d9319e3698de1cea1b22451a52ace8a422ada1dfb
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderGraphBuilder.MarkOutput(Inno.Rendering.RenderTextureHandle)
 title: RenderGraphBuilder.MarkOutput
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 492d5371b5b7f9e55e408d537b8d4cfcd563c847e31bf340fcfb23a2eac4b293
+sourceFingerprint: 9d815388f645716dd0c859fb2e64f5f3ac1fb2142a4b4ecdb284b351024d95a1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

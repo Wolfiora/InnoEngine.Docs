@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fcab37634e61a32d41e3e5614f261aa332da95622c3384c940a7bafad9658878
 symbol: scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphPosition.Equals(System.Object)
 title: GraphPosition.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: 1367bef05c0cac174e3b8e367a98594dcb51dace1e1c5e9417bfea9257ce053d
+sourceFingerprint: 1367bef05c0cac174e3b8e367a98594dcb51dace1e1c5e9417bfea9257ce053d
 apiScope: Runtime
 contracts: []
 

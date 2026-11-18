@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.57ea3e9b93d1308149df0cc48dd828166b513aad0f4ac25c73ddb44dc2a48398
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.CenteredText(System.String,System.Numerics.Vector2)
 title: ImGuiWidget.CenteredText
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 588c5e1af67f2926b6bc009f13843a6a4942779efbf5273cf745743d3eab62da
+sourceFingerprint: 4dc44060cb5d35f2603f14fc6e982543cb0bfbb8885079623b178c71849b6b23
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

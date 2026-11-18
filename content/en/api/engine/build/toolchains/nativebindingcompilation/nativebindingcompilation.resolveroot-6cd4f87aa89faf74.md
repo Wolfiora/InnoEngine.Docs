@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6cd4f87aa89faf74d985b966d880635d2721554d7c75b3fa7bd986873aa019a3
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingCompilation.ResolveRoot(System.String,System.String,System.String)
 title: NativeBindingCompilation.ResolveRoot
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: bbb74a687d30f448f125ea3b5509752d1978948c8c3419554d6ec6d9209222fb
+sourceFingerprint: c59c74a948aa7109ae716f3681eaaf52e768f28c75f7fa677deda92e59c4e3e1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

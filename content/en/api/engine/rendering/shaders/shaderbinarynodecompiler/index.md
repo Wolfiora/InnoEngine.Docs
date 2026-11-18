@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.shaders.381205c6f4f03bfe
 symbol: engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderBinaryNodeCompiler
 title: ShaderBinaryNodeCompiler
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: cb8daa4c94900c87fc6e312e9db2f49d8fb5d52c73af16967bc6348ff2077fc5
+sourceFingerprint: 3ff8f62af04401a503016d00397e1830943751a0b74ce2ef8cce07ecf467cb3d
 contracts:
 - project.inno-rendering-shaders
 

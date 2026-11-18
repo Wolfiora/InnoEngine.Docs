@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.91455a02fed890ba9fa2784fe35dd08405895abca9bd079ce48afb554d390832
 symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorPanel.OnAttach(InnoEditor.Core.EditorContext)
 title: EditorPanel.OnAttach
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-reviewed: b63ff8a91c620eb10134e576aee3133a9bdc320a3541335b5e9a872fe7643b54
+sourceFingerprint: 9b49067689d916c51e87fc4adf444d96a8b01bb3f0a2c04517625879e71aabc3
 apiScope: Editor
 contracts: []
 

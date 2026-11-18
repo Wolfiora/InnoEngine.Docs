@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.47c3b787fe46d77c9f23757e89fcf75556e44ea5cde7b01ca1a14d953e8cc366
 symbol: scripting:Inno.Editor.Scene:M:InnoEditor.Scene.IEditorSceneWorkspace.IsDirty(InnoEngine.Scene.GameScene)
 title: IEditorSceneWorkspace.IsDirty
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: editor-script
-reviewed: f886c340a3351800272720e006e183832e495d640b0d7135bc02a7ab40544029
+sourceFingerprint: 103400fac1e16efab79790f69cceffed7f4746c9c6809c5b59979045ec24b05b
 apiScope: Editor
 contracts: []
 

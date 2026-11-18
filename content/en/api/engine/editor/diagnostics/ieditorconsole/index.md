@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.diagnostics.4a741b6472da6bd6
 symbol: engine:Inno.Editor.Diagnostics:T:Inno.Editor.Diagnostics.IEditorConsole
 title: IEditorConsole
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Diagnostics
 apiSurface: source-clr
-reviewed: 2d184ee7b3d29fb8ebc78a70a8c43ffc8b91bab8d454b2b4ee7c979043028bf3
+sourceFingerprint: 3e373960cb8d85e9521832c1ac2aeea335edda99e6590aee8b2c6f45904e736a
 contracts:
 - api.projects.inno-editor-diagnostics#lifetime-and-policy
 

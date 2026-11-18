@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5f0a7d7db8fe61fde50f9ad6075d87223d6a8b6256e755b2e1aa6ce4d11c8770
 symbol: scripting:Inno.Editor.Scene:M:InnoEditor.Scene.IEditorSceneWorkspace.SaveToDirectory(InnoEngine.Scene.GameScene,System.String)
 title: IEditorSceneWorkspace.SaveToDirectory
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: editor-script
-reviewed: ed10c1861d2fd7cfaee7c70b62e6f8524454386a907ee13dae60d3b104b0e943
+sourceFingerprint: 070c175f167d12e83984d02253fa1346ca5f831a7d2523cec8383149a19f69d9
 apiScope: Editor
 contracts: []
 

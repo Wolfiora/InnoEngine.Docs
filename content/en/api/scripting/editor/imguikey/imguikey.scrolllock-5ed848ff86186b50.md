@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5ed848ff86186b509771821a43b007a876ec7a7f202e110088e80a668e1d957f
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.ScrollLock
 title: ImGuiKey.ScrollLock
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: e6c825425e783e28bd79dcc317c2f0499a685112b89054bdecebf9e40e65cb86
+sourceFingerprint: 73445c4cf302e1c4ed674a3ef1fac9c7618063a6589c75f6fee9fa6c20fa93f1
 apiScope: Editor
 contracts: []
 

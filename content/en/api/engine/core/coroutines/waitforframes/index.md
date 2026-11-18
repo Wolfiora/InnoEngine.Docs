@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.coroutines.d29db1a074e6f9ee
 symbol: engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.WaitForFrames
 title: WaitForFrames
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Coroutines
 apiSurface: source-clr
-reviewed: cd6d892204f1f7254cd07951976c6e8cc626545a253becfec6a51dd0d92f2a8e
+sourceFingerprint: de40b7418e197ddb7054964af379f9c4e9cc1d2c3e791da8e4080a32e0116802
 contracts:
 - project.inno-core-coroutines#execution-and-release-contract
 

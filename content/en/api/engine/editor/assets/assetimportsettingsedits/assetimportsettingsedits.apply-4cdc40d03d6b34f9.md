@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4cdc40d03d6b34f9f5300ebdf07afe95362d432f21e93cbcfb7b2afda3a08de4
 symbol: engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetImportSettingsEdits.Apply(Inno.Assets.AssetPath,Inno.Core.Serialization.ISerializable,System.String)
 title: AssetImportSettingsEdits.Apply
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
-reviewed: 53eec64b0504fd6d693230eda241a1249741b42b8ca246e3e6c5f27dfa72c0f1
+sourceFingerprint: e5075a427fdb38cb9795c0494ba413feefa239e9e97aac9d98590374adf72acf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

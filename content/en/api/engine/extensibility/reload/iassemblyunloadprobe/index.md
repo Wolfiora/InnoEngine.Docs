@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.extensibility.reload.989ee0a696a1dde7
 symbol: engine:Inno.Extensibility.Reload:T:Inno.Extensibility.Reload.IAssemblyUnloadProbe
 title: IAssemblyUnloadProbe
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Reload
 apiSurface: source-clr
-reviewed: 641f9aed65d5b2c39b275a1f3bb62f73821c1da45fb85a3d8c31838f56932854
+sourceFingerprint: db45dd12603b2ee4a8a6afee45c72528d7cd515f8780186e374bcc1bfd9d6131
 contracts:
 - project.inno-extensibility-reload#shared-admission-and-retirement-contract
 

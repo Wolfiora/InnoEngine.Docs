@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-build-supportpacks-core
 symbol: project:Inno.Build.SupportPacks.Core
 title: Inno.Build.SupportPacks.Core
 kind: project
 owners:
 - Inno.Build.SupportPacks.Core
-reviewed: ''
+sourceFingerprint: 62f15f964ee98b689d95bb2a541e6813835de6d8f4f1cdc780378753144ebce8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

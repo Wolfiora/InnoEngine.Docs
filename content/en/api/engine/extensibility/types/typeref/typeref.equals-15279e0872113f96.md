@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.15279e0872113f96fc99fa6072d739c8f23a3056ae5959c90c6e8dd84aea3ccd
 symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRef.Equals(System.Object)
 title: TypeRef.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-reviewed: 57b9c11c2864bad73914a9b7c93bcc84809f009d0d81a5487178a88f0b5c894d
+sourceFingerprint: 626ddc184f188fe1935805fdb9baf44fe82a03a6791745416530aa3416948d95
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

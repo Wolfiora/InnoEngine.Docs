@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.92ef4b6cfb11453ed270f42f685a035c8c52aaaddcaf0e93906dcc0dc37e7aeb
 symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportFocusBounds.Equals(System.Object)
 title: EditorViewportFocusBounds.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: 70e31b73474ae91017b60a8115a0d876364c04045bab325464ef38fc829c72d6
+sourceFingerprint: 70e31b73474ae91017b60a8115a0d876364c04045bab325464ef38fc829c72d6
 apiScope: Editor
 contracts: []
 

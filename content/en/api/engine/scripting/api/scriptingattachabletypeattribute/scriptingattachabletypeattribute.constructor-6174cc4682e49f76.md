@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6174cc4682e49f7631dee164ad6484665b7695118eeb84e294d9bf11f5c22e6c
 symbol: engine:Inno.Scripting.Api:M:Inno.Scripting.Api.ScriptingAttachableTypeAttribute.#ctor(System.String)
 title: ScriptingAttachableTypeAttribute.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Api
 apiSurface: source-clr
-reviewed: f5ec2a2ac4bce562889d5adae34ae7efd341f050d4188ea93d092e24e988c5c2
+sourceFingerprint: 3d608894bdb59f00eac056894663ff505659ad12a79a5a59e6cfd857d8d26069
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

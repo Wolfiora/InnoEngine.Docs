@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-rendering-shaders
 symbol: project:Inno.Rendering.Shaders
 title: Inno.Rendering.Shaders
 kind: project
 owners:
 - Inno.Rendering.Shaders
-reviewed: ''
+sourceFingerprint: f3f002cccaba08605ab9db3e062b4fb2740795662719e27e33bc904365919548
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

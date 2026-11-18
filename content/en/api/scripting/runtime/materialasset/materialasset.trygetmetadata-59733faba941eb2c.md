@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.59733faba941eb2cc3247bd4e0189010464227dc5cb29220e76778351b424081
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.MaterialAsset.TryGetMetadata(System.String,System.String@)
 title: MaterialAsset.TryGetMetadata
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 7632cb3cb8e60491f562027492e517a03f74deeae463719ef2bfe8704da3c52f
+sourceFingerprint: 016f6c3bd36adc490ac0702223f3c2377705616b95a46a458c8f131c2dd6ca18
 apiScope: Runtime
 contracts: []
 

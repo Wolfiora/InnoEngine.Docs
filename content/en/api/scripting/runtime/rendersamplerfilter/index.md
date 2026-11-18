@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.1c092e3f2384c46a
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderSamplerFilter
 title: RenderSamplerFilter
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 0e863568e71d2772fbaf70ab5beaae707bb09499df964f20434491b9306e6ad4
+sourceFingerprint: 13fa76d6dc31e8280f404c757918a2cca57bb07085eab066bc79383ca2430747
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

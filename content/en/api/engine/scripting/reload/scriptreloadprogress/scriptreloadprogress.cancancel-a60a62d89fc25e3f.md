@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a60a62d89fc25e3f96e60337aba9f6dee8877757b145397ee12630baa0da267b
 symbol: engine:Inno.Scripting.Reload:P:Inno.Scripting.Reload.ScriptReloadProgress.canCancel
 title: ScriptReloadProgress.canCancel
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Reload
 apiSurface: source-clr
-reviewed: 128f1efd2a8063da4fecd9722611a1a6e5752016a0d75352eb445f1fc3f73c36
+sourceFingerprint: e3d5273a897e05570b7c87d507e8a234c4e6e73b912e42908a4163944f24a51f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

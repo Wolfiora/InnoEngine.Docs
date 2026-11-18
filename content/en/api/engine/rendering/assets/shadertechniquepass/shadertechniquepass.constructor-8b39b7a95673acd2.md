@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8b39b7a95673acd2eff8c0865e3c5d91bf7e586540b3a313b915e297aefe99b3
 symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderTechniquePass.#ctor(Inno.Rendering.Assets.ShaderPassRoleId,System.String)
 title: ShaderTechniquePass.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: 847af4a6ff4e4c19f4271a346409cc77f33ec300c0970a18b773c52462fac85e
+sourceFingerprint: 1880d393521241bd4247b0c51da8ca39a78400c3fa377e748bda4a79cf5126b6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

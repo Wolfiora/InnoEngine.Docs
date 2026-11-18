@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dbe2f573c8bd02d56ef5b3f2c61754ea2fd842d71f9bdc42c184791281f912eb
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.GetClickableTextSize(System.String,System.Numerics.Vector2)
 title: ImGuiWidget.GetClickableTextSize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: e8e4b16e5d298e5cea514cc82e2176cef704af8f7d7d78169005307c2834c406
+sourceFingerprint: 1ca0e78bbabc013b6eda5fa04e87ba21dd9f71aed9460ee00a826626ebc25e1c
 apiScope: Editor
 contracts: []
 

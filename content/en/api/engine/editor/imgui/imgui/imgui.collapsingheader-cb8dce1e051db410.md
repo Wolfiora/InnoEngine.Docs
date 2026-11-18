@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cb8dce1e051db41013ba6de350d366c495a61804696805b6cdf86cd1b83e798b
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.CollapsingHeader(System.String,Inno.Editor.ImGui.ImGuiTreeNodeFlags)
 title: ImGui.CollapsingHeader
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 86c27f8e1f5b741a06ff0dd7276139ea439695a586c7b97e6c1ed247cd6e8447
+sourceFingerprint: 47ed0b55d1293f8d343df70c05757b5ae3e58ca9b1ef8a5d48e99e914b0a5558
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

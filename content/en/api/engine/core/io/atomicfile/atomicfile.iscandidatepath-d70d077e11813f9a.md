@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d70d077e11813f9ae17e1efb62b98efb9a3298d24325a8ef47e6c90320d98ab1
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.AtomicFile.IsCandidatePath(System.String)
 title: AtomicFile.IsCandidatePath
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: d154ba91795b116e6f337b8e24b66ba1d47489ac3db2989a6ba764ab03593ca6
+sourceFingerprint: 7b6d44e865bc9573918fd7a71719004ccfad5d165b085088f934e211a94bf20c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

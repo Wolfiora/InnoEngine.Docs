@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.mathematics.runtime-script.ef4fa5990d409745
 symbol: scripting:Inno.Core.Mathematics:T:InnoEngine.Mathematics.Vector4Int
 title: Vector4Int
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 76d97462ce9230acd1f93afc4c274a0f18b077bef85ede2ff77e5f175bcd75e1
+sourceFingerprint: ed2ca67ad815923d0fb09d7e868a1b130f823c9e259c608349e76b4c6e7ccdd8
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

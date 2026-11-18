@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a66019fd2ca845bc408044ea3cb1480e83b019f6629f386ce9c9b670ea4e160f
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiInputTextFlags.Password
 title: ImGuiInputTextFlags.Password
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 32cc32f518c01884443ce1ed27a57eee96104d3eec27215ba938f4e0452a1ef7
+sourceFingerprint: 4b412139ba0258c5c44d5a0afe5763253b0e40cb57c8afe586285ba09e7a5bdf
 apiScope: Editor
 contracts: []
 

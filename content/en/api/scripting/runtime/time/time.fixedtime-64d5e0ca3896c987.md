@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.64d5e0ca3896c987629273b79c986c543ad74c1d2829e8290b378f3b6e517943
 symbol: scripting:Inno.Runtime:P:InnoEngine.Core.Time.fixedTime
 title: Time.fixedTime
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: editor-script
-reviewed: 69e6738adeef6aeb3fa00363f94f669e43c03c2beee45aebfe86f4c0963abc18
+sourceFingerprint: a0bd13494cdb95456cb214a822d28fdd3fcc219b2837d3b5ce647e8794ce61e3
 apiScope: Runtime
 contracts: []
 

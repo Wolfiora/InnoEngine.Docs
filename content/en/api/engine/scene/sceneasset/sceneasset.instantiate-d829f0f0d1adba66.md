@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d829f0f0d1adba665fa355e40c40f5312149e0ae90407c6b4088f9a85c10b430
 symbol: engine:Inno.Scene:M:Inno.Scene.SceneAsset.Instantiate(Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)
 title: SceneAsset.Instantiate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 006e0a2f7086dc1c39269be19d0b30c39857e0797399d6f442d3220156d34440
+sourceFingerprint: e7c2658cc54c0b553bb4d0c9fccc5e18a75c84e0cef9139cce9fbf9a26504436
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

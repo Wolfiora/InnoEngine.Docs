@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.diagnostics.ff8ecd90f437a012
 symbol: engine:Inno.Core.Diagnostics:T:Inno.Core.Diagnostics.DiagnosticReport
 title: DiagnosticReport
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: source-clr
-reviewed: a7a3f1aee45b6904e2f2c73c6a11a5a49eb18cae4c34e154dfefdae48e8ae32f
+sourceFingerprint: 1bc106cd30d6ee99d02ab10c9072d21b89d05128a3ed73dad1c5133cee413f67
 contracts:
 - project.inno-core-diagnostics#producer-and-presentation-contract
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a1ebb717f78dadcd563fe8a835c07d553c58d5630ff6202e611fa4f05ade98bc
 symbol: engine:Inno.Assets:M:Inno.Assets.AssetChange.#ctor(Inno.Assets.AssetChangeKind,System.Guid,Inno.Assets.AssetPath,System.Nullable{Inno.Assets.AssetPath})
 title: AssetChange.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-reviewed: 410e83a61fae01bc7ee077711248aa6f075a51442e0408705a8b7255ef138878
+sourceFingerprint: 953921f87178bfbec2ec5b75dcc9e72589ff0221dc331c3745ba50c46f0811b0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

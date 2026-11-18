@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.852552d99aec25752eecabf099b09710241a81aba5385cf240948f4331731ad1
 symbol: scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.ShaderDiagnostic.code
 title: ShaderDiagnostic.code
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 62672e2bd6dcad988f4ac50aabf3ca01c2984fdb17557ce341ae16c0b6d3be09
+sourceFingerprint: 3e2fcee091aad3656b4e9736811becfb976a727e34ad866259aba7c4917209d9
 apiScope: Runtime
 contracts: []
 

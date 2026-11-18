@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.237bf03b697700e1a672b082e2632f394ad99db4c885eebf3700800005f6f913
 symbol: engine:Inno.Rendering:P:Inno.Rendering.RenderTextureRegion.height
 title: RenderTextureRegion.height
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: ef80270949c4cd5e3a5bda5a1d77ef8f2317ad9b7592c7ee7e646db8e0b7659a
+sourceFingerprint: 469596bb87bde33df0926b8c95189738922866e5c84a5cc8a3769727cf56f156
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

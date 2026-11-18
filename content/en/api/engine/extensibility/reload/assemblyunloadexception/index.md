@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.extensibility.reload.b5baecaf4258325d
 symbol: engine:Inno.Extensibility.Reload:T:Inno.Extensibility.Reload.AssemblyUnloadException
 title: AssemblyUnloadException
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Reload
 apiSurface: source-clr
-reviewed: 6c3b1fb42fa736f0ed00b55ce766c272f57e6743ca33c4b60fcab9de9bd83403
+sourceFingerprint: ce728dd2e2501b664221cbfd8595f3383b943ddf9d5f5af2194275a1cf6500f9
 contracts:
 - project.inno-extensibility-reload#shared-admission-and-retirement-contract
 

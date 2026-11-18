@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c26f2fb089f1bd4e3d4905ae80815776f5fa08c9d9a86d34e495088d371a0793
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorStyleMetrics.SetCompactMode(System.Boolean)
 title: EditorStyleMetrics.SetCompactMode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 1ef594a8dbfde085f965302ff16182d370d167530fac1829ee629ce5934a2ec8
+sourceFingerprint: 520703b1dfa68e7376e69916a6bc757c3f98736bd1a0127fddf021fe2631abcb
 apiScope: Editor
 contracts: []
 

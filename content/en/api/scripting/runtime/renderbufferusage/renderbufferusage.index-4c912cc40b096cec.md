@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4c912cc40b096ceccfcd56efeda392f11b789a0f82d9c9816e0bf508a93695ef
 symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderBufferUsage.Index
 title: RenderBufferUsage.Index
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 817724705101f43f296e9ca57c17e8f0388c47bf8462c5b91b5136a77d2ac6cb
+sourceFingerprint: 70152f86409166c928b7e358f66522a2b54c0f94a107149ac2931198890b05bb
 apiScope: Runtime
 contracts: []
 

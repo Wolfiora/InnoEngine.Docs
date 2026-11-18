@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bcd4f681b1c4c23668d2491e068a1ba14fa5fc5ffbab9fd79f2ab130a6d9d90e
 symbol: scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationRegistry.GetProperties(InnoEngine.Serialization.ISerializable)
 title: SerializationRegistry.GetProperties
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: editor-script
-reviewed: 0022349e4ed40f581227fa3780d74fb93de9978450493f4489c0ba261d7c7c34
+sourceFingerprint: 356fbe0925c3de512dcbdf2f5005d9f7545be0cbad905cfdaea637b4024ad5aa
 apiScope: Editor
 contracts: []
 

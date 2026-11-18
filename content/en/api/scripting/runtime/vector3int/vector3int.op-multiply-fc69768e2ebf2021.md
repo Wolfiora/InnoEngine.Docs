@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fc69768e2ebf2021a645f437963ec4dc3d2e34d9f624c7099a4abe276f14f629
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3Int.op_Multiply(InnoEngine.Mathematics.Vector3Int,System.Int32)
 title: Vector3Int.op_Multiply
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 0a9fcc35b0b8c9e12e68f6bfbc8fbd495c86d4440dbeeaf168545b8ed5b5c20f
+sourceFingerprint: 4bc7a418658909a732407e8bf3545347cf3e3d98cfb9f08c75f4888b95634d33
 apiScope: Runtime
 contracts: []
 

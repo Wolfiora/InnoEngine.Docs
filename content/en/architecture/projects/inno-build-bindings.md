@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-build-bindings
 symbol: project:Inno.Build.Bindings
 title: Inno.Build.Bindings
 kind: project
 owners:
 - Inno.Build.Bindings
-reviewed: ''
+sourceFingerprint: ab1991a50339483573c21683f1ece5850506f9ac86bdc12fac5c0d5e189b76e7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

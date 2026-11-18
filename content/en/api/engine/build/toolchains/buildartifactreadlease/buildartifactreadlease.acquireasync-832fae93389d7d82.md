@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.832fae93389d7d826b215479418154ccdf725c08df3730704cc732b8fd77a5c9
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildArtifactReadLease.AcquireAsync(System.String,System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.Threading.CancellationToken,Inno.Build.Toolchains.NativeBuildContext)
 title: BuildArtifactReadLease.AcquireAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 34becb49c2152d2e03d9ac11811d9e5b3e6c741de59b0610373c23436a6db2ff
+sourceFingerprint: ca60358aaaa32d8b035514e8adbd508c4f92b14cb39ebaa05d70d988f51a1497
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

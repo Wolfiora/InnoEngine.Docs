@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bfa1f27382fc7c6b42ad37f6d28975dafa74a11c154d33e4c5fea7149409b830
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.HoverText(System.String,System.String)
 title: ImGuiWidget.HoverText
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 8d30e8d82a9256b2253db41a58a98495360adf5fa4d1307105d59a6bfc008cad
+sourceFingerprint: 15400a2f3d3285c770f350044181d6241b8b2e05dc95693ea03f7e2927b14a13
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

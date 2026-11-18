@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.5a3cef1c43b18a6f
 symbol: engine:Inno.Build:T:Inno.Build.GameBuildTargetBinding
 title: GameBuildTargetBinding
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: 80a07831bcf08612e562f91b699df6d01d5e13d5e43a4c825bdc0b28e520b4de
+sourceFingerprint: 52b044721d0feb8f1a067888f1d5453eb9262f2d80b4b3cac24b216f71190932
 contracts:
 - project.inno-build
 

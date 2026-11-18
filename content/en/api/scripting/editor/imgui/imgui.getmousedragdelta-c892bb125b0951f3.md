@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c892bb125b0951f3f2a84d68acbfb77d7ad789976121d46ada16f2c5619db4cc
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetMouseDragDelta(InnoEditor.ImGui.ImGuiMouseButton,System.Single)
 title: ImGui.GetMouseDragDelta
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 93bb95aaf854f2783181c0794d7c53c40fe1dc1392e001d1d5422858ba58779b
+sourceFingerprint: d2ba642aa12aaaee96aa33153c58c4efdbcae4058973f1d0fe66dc16ab8d8167
 apiScope: Editor
 contracts: []
 

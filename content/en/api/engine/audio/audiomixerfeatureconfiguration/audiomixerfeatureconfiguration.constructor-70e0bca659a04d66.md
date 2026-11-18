@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.70e0bca659a04d665fb6cde6807d2ac73d80dc6ebb5ebedc22ae0618a0a5bbf6
 symbol: engine:Inno.Audio:M:Inno.Audio.AudioMixerFeatureConfiguration.#ctor(System.String,System.Nullable{Inno.Audio.SerializedAudioExtensionState},System.Boolean)
 title: AudioMixerFeatureConfiguration.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 84eb9c106ca0ba06097d299c7e018f311994ab0004bd1d97a7a6e76aecfbea4d
+sourceFingerprint: eb2afeb5972026943dc9407aaf89fdc7a809811d2eeb42690c881695fc8f09c4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

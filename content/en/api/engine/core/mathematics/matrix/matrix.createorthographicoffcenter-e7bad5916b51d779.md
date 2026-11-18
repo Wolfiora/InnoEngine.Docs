@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e7bad5916b51d77927fd75ad51846675aa9ccec9cc02fab041fd97a2cb1a390b
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.CreateOrthographicOffCenter(System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)
 title: Matrix.CreateOrthographicOffCenter
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 9e545d0dce3df14b48615f8adda498c69e9d1d135ecb70d60a750ce88be2bcea
+sourceFingerprint: 0f569c6133a3fcb47ad269a44ae6f2bfc556982436868872014559384ea5ae15
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

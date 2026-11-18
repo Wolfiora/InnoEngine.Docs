@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6f750ab4bb575c915848c3e5a34f0392e103e147340e7bd4cf15ee9f6d0f0d79
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeArtifactTransfer.ExportAsync(System.String,System.String,System.Threading.CancellationToken)
 title: NativeArtifactTransfer.ExportAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 835b23ffe3a5f9a26fb8243a7d503538cce44bad0ad7524e9dec0762fb8635c0
+sourceFingerprint: 65d16f00ac2713c39fb6f1bef50893bd3042600613c21d634a6c3a09ae9ccf88
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

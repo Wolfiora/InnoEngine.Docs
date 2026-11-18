@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ef5a9ce4e8f397bbbe958b0ef9181773d078f211a1fb1131c5a9b69b51e7a183
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderPipeline.Dispose
 title: RenderPipeline.Dispose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 72fb8c5c80de62d1eda17ed98102e10e924197b99794df88f0178724083d2feb
+sourceFingerprint: a231b81641256d77a158f63aef7fc17b21834e92fee9bb0626819f3c78eaba19
 apiScope: Runtime
 contracts: []
 

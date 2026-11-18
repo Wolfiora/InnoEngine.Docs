@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.assets.pipeline.editor-script.23f936c0ccd17d42
 symbol: scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetBuildProcessor
 title: AssetBuildProcessor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: editor-script
-reviewed: aaa5016a3d953a483ac099710943d16c8d8752571f85cf348b0d9c63e65760ae
+sourceFingerprint: 640eff39636d6995fc2c5582078357cd8b16c5b6c91722cb9826b8c489aceb5c
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2cf6acca802eeb17af7af80790f2872f1a29b93880ef828573c30cc2401e02a7
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.RectInt.op_Implicit(Inno.Core.Mathematics.RectInt)~System.Drawing.Rectangle
 title: RectInt.op_Implicit
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: bed2aa9c65aa11e0909f1bf877383f55994770ec11c527cb22ba9155d7e7513d
+sourceFingerprint: e3b1bc66103061166fe2a6747378d388b5e86608f57e51d7873c278bc1d2c589
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

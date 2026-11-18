@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.28d873580a36bec605674db2f1def4c038b2121e192904917e21f9e1fcacd5e1
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiCol.TableBorderLight
 title: ImGuiCol.TableBorderLight
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: ca34b6862718c8d86a5e29ab58573f7785cb39dd701fbb9a1ef1d19d53687468
+sourceFingerprint: 10570cda6e301c8d4bc835263fe4d480efd7ecac4ddd406317ef7997b6fc71e4
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8ba484df300fa92026ce1188414b69ca0f39d9d48ca891c5d6829d54af6e4377
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.SetUniform(InnoEngine.Rendering.RenderBindingId,System.ReadOnlySpan{System.Byte})
 title: RenderCommandEncoder.SetUniform
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 206b4f930fbe028dd20e3f9264fb681b417f3d86bf02eae13cb5e92fdb0a454b
+sourceFingerprint: 3594ab7e41ed9605573dab95d85216a18c167278f2d565869c3889f321a2db04
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.89b345b4d536831f9c290c1ebad071baa1437bb34c87c57ce5cb6368466e6136
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.BeginMutationScope
 title: RenderGraphBuilder.BeginMutationScope
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: e5a37a2a8a0a11de792c743c724dc2f8ba5196aa5280baea5e0bc01c0a3eabcb
+sourceFingerprint: 4582916c62790125c9125503864aafeb41c52bc614a23bbdd8d4c0e5d018a744
 apiScope: Runtime
 contracts: []
 

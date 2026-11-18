@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c9a335cb5178994b532e2e1de347a7ffda66fbaba08f962e26ca63997d4b4b0f
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.Transform.SetSiblingIndex(System.Int32)
 title: Transform.SetSiblingIndex
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 06c93dc87609f6d883815febc26949769e45de5efdde20a3861fc7dc6b83b815
+sourceFingerprint: e6b5bd23acddd2f13df0ccc1638e54c1f563c71455e6fdcdb2e2b77ef31f6c02
 apiScope: Runtime
 contracts: []
 

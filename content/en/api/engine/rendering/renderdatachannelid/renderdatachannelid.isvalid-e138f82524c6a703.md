@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e138f82524c6a703766409c16b7cc65142ffd6210f33bcbe85cd1da4ecbf5212
 symbol: engine:Inno.Rendering:P:Inno.Rendering.RenderDataChannelId.isValid
 title: RenderDataChannelId.isValid
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: fd00b977afbf6c1fd03775dcafd84a76a0cc49674ef64f64f87dee027b82f85b
+sourceFingerprint: fd3c8bd55efa2f52aea8209ecc347d49c8b6c8a84b97d36b862f46f680f7b804
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

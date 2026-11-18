@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0847086e62b63cdd2d1b5c18093c90852825cb1a0bed2385bcac17565f70ff7a
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.SetScrollHereY(System.Single)
 title: ImGui.SetScrollHereY
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 0516c70e28b21e6d72f15ba31236cc4f244dbf8af2ebc4d57ff31ddc65ac637b
+sourceFingerprint: 173d0e203730055c4e77969cff2621e2a3ebcf454127d8fbcebc987de923f6f7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.toolchains.81764400c18f064f
 symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeStaticBuildDefinition
 title: NativeStaticBuildDefinition
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: c2c67b9b3e326931a3895e94f40e2b75a43d54188e938848cf2acdf7fb655bf9
+sourceFingerprint: 378a9b8aded4d61ffcb7523ed5d7a2dd5eed5e368f3734dae936cd2f05322455
 contracts:
 - project.inno-build-toolchains
 

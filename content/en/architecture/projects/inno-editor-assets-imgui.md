@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-editor-assets-imgui
 symbol: project:Inno.Editor.Assets.ImGui
 title: Inno.Editor.Assets.ImGui
 kind: project
 owners:
 - Inno.Editor.Assets.ImGui
-reviewed: ''
+sourceFingerprint: 140bd3a0fccf887ac4982c6100779ed7086d55837b53b00acd08764ffebdc92e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

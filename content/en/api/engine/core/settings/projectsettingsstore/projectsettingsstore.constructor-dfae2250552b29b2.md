@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dfae2250552b29b2f664a906b5fc820946ae9cf9ef5d3b2fba4ea8cec7db195b
 symbol: engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingsStore.#ctor(Inno.Core.IO.IByteDocumentStore,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Settings.ProjectId,Inno.Core.Serialization.SerializationContext)
 title: ProjectSettingsStore.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: source-clr
-reviewed: ca18ed897a55cd7d17a9760b84b1097b623b3335ea4da61c6ecd0ecf9df8cc55
+sourceFingerprint: fc39b4f22c2fecae20e6ed13f469122cd3b091a52a11de77af7615c47d0f561f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

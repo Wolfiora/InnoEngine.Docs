@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.runtime-script.a7f37e131650cfc2
 symbol: scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.MaterialValue
 title: MaterialValue
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 781a5ec256f71b57621036eb5106bee230d3b15879f0faf742af4446c0af0aad
+sourceFingerprint: 732ed678b85a47de5f819477f15cac167b0aaaf590edf9c3dc24cd52cd722f0a
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

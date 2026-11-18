@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.39c9d80710f926ae9f6c7b9562d7b8627da334fde7c5bf8b24b4a1309a317da5
 symbol: engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.AssemblyUnloadException.#ctor(System.Collections.Generic.IReadOnlyList{System.String},System.TimeSpan,System.Int32)
 title: AssemblyUnloadException.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Reload
 apiSurface: source-clr
-reviewed: aac5caeff06e3d6b7c2bf5d36e546c3215570768a5bad170e6d841b651560d38
+sourceFingerprint: 2c2dac841bd26d7d75ad55059dc0e81992eb8c0d3a0fe01363fee03060f42782
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

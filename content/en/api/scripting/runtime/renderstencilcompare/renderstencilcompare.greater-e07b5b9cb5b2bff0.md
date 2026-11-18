@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e07b5b9cb5b2bff06771fad90a8b2b7f315862414a59a3d6faed72f4854a98bc
 symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderStencilCompare.Greater
 title: RenderStencilCompare.Greater
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 1f63ed7947b756ee9e0f09ed38aad6d6e4bf0ace085e6ac175bcf43f4ba118c7
+sourceFingerprint: 445f6cc84f73f9fbd178c35686ff879d8990f490ff32e49b1c34b8151ba7449f
 apiScope: Runtime
 contracts: []
 

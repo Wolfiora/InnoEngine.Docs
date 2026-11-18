@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8530af84e37759a1d022f971015915af610f2959e6ffa5c30ed9b448bf391e6a
 symbol: engine:Inno.Audio:M:Inno.Audio.AudioListenerHandle.op_Inequality(Inno.Audio.AudioListenerHandle,Inno.Audio.AudioListenerHandle)
 title: AudioListenerHandle.op_Inequality
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 81c6b71446f59bdf0d423f372f9207992d42f7d8c280c66c8c2db96284ededa3
+sourceFingerprint: 81c6b71446f59bdf0d423f372f9207992d42f7d8c280c66c8c2db96284ededa3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

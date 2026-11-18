@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.52f9ef98c31867194835d7417fb8608e1dc73d06cd076b5259fd29c140b9dcd8
 symbol: scripting:Inno.Scene:P:InnoEngine.Scene.Transform.localToWorldMatrix
 title: Transform.localToWorldMatrix
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 95d2a74fc18f4565583b3887091e179b8bf04cc22cd6a312c1e7663350e5d6f2
+sourceFingerprint: 72b963efbde49ac0d14e716b6683164676568a7c1974e4eaf916376cefd7d1f1
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7de4491844ab7a5df44653f8da1ce98372b1969e53efc25513ad80e503e20911
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiInputTextFlags.AutoSelectAll
 title: ImGuiInputTextFlags.AutoSelectAll
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: b19431e7555d6f35979b76e7f07c4cf31a7d0f038334bc4d44d45317297a17f7
+sourceFingerprint: 4e73f7105186905aae9d4ca12f454c0a8072546183233f6f7592792726d44e08
 apiScope: Editor
 contracts: []
 

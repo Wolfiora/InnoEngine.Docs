@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9ce004867a52b4e8c02a4ba4e05df9af865a20077619ee66bad2112b7ff7f4af
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerCatalog.TryGetLayer(InnoEngine.Settings.ProjectLocalId,InnoEngine.Scene.GameLayer@)
 title: GameLayerCatalog.TryGetLayer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 53e531621b4ee10cd6e88acc7e045dc119acdecb92beaed3e2fc6a3016423bcd
+sourceFingerprint: a64b9d4bd268cd1e33d41bb2306b8e12de52333629deb9d3909eb7deb2fec184
 apiScope: Runtime
 contracts: []
 

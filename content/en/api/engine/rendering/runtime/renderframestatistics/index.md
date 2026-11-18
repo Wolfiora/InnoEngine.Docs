@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime.469f8c262f4343f0
 symbol: engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderFrameStatistics
 title: RenderFrameStatistics
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 933bf4519dcc93dd102b99eaea509cd7de468528957ce41dcae812f23ff6cc6c
+sourceFingerprint: 17dd47e34b6d0a8f7a2bc091bf47b2f8cc457e24e13069bbc69826de0ff3d11f
 contracts:
 - project.inno-rendering-runtime
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3763ab66ea853d19a0a60399820c1f563c3e2ab44a5ef4530ff20a2e5d56085c
 symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiColorEditFlags.AlphaPreviewHalf
 title: ImGuiColorEditFlags.AlphaPreviewHalf
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: e1c95305ba76c56582d43118eac8a4bb90c7426a2aa702d7e6df6efe948490de
+sourceFingerprint: b0d18dceafec725b50a6e67de3875c39a6477bc6d5230d625050e07d91fb1c79
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scene.runtime-script.94a016244fd7368c
 symbol: scripting:Inno.Scene:T:InnoEngine.Scene.SceneAsset
 title: SceneAsset
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 59836eb4a0425faef138df1e0e30238a1366165d846ad1ec38dfaf33622bfb04
+sourceFingerprint: ca3585beb7d9a4866f342e4c23235b104e29a5346ee5e9c430abd03a914ccefa
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

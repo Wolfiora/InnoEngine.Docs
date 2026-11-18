@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b8806a4369a9bbfa4468b24f7f28074ba7cf96b23f743ea9f33e4c5a4baa2925
 symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.IEditorScenePlayMode.BeginPlayMode(Inno.Runtime.RuntimeSession)
 title: IEditorScenePlayMode.BeginPlayMode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: source-clr
-reviewed: 66731c1e64e5734a2f12a5bc9755a598f35bbaa50a543cd78ea659c7e294bf10
+sourceFingerprint: b38d15e459ebd5baae288b90a12536516be3fb9a7ff3613f0f60e7a39bb9de8b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

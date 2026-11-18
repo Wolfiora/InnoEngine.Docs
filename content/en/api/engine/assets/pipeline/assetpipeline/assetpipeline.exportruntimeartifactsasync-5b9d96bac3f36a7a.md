@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5b9d96bac3f36a7aab9f0cf9cf14aa074dbd68716ea0d0ea6d52cdb3cc250d35
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.ExportRuntimeArtifactsAsync(System.String,System.Threading.CancellationToken)
 title: AssetPipeline.ExportRuntimeArtifactsAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: 5eae1c0133afbaeda712b22c57befde2f36acbd9e35a46e462d42e9fa291ed92
+sourceFingerprint: b40a5bb58dc6da2f938eb2ca5d6345dcd9a4e088bfcccc3bdb597ba526d0967a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

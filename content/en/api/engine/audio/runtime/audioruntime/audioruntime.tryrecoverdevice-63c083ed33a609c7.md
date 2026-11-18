@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.63c083ed33a609c7044fc6f275566b30e8790b0a1b40b69ece0d039b29dc35f7
 symbol: engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioRuntime.TryRecoverDevice(System.Func{Inno.Audio.IAudioDevice})
 title: AudioRuntime.TryRecoverDevice
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio.Runtime
 apiSurface: source-clr
-reviewed: 281683fa5fd5cd371fe558066760319bb6f7e2b85db4d0f1fca063b71f4b3815
+sourceFingerprint: 33b273fe5e4bf3f2850002c7563c12e16af70c4e466b4afeeeefd46615197847
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

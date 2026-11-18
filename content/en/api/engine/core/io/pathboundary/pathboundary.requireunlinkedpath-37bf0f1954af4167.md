@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.37bf0f1954af416787b34098201e9b6853d354a5c24677a22558b8b1f3971d73
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.PathBoundary.RequireUnlinkedPath(System.String,System.String)
 title: PathBoundary.RequireUnlinkedPath
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: 05bb8f7abbebf1e213741933ee451520fe671b6e1da9f62e5884cc5c1fca0b91
+sourceFingerprint: d6be1603e85ac1c8f3f2e5ec11530db8a1d20b94f828cb8b2b9800f2d302c18f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fae699b2e7655cac6ee106bc8b4e039f45874eb93f750e3fa39ba333bdf5b590
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.Equals(System.Object)
 title: Rect.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: deace8db0c349a6fa13af354ae6e6d1369b2ae19a00d5abbe70841dd26bc38ae
+sourceFingerprint: ffaa17af85e296e9a2b99df2a7cce46169d9b3e76b081d8fccc380a9c2e97998
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.560b6486f67bc83c139b47ee1109eedf21011ae8bfb82056744279dba37b8696
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.BindVertexBuffer(InnoEngine.Rendering.PersistentBufferHandle,System.Int32)
 title: RenderCommandEncoder.BindVertexBuffer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 00516ea39982503106936e2cf08b2cb94a076568fb62c2248ac855d23f4d8d0f
+sourceFingerprint: 129160e32489237c8af7cd0e2c5d8926b016e3db819f2943911b5737802d72ca
 apiScope: Runtime
 contracts: []
 

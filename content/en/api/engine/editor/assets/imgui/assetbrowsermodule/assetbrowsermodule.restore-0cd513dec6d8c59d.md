@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0cd513dec6d8c59d5623bc44ad1a77dce09c55d194bbdbdbe4776220cd4c61ea
 symbol: engine:Inno.Editor.Assets.ImGui:M:Inno.Editor.Assets.ImGui.AssetBrowserModule.Restore(Inno.Editor.Core.EditorState)
 title: AssetBrowserModule.Restore
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets.ImGui
 apiSurface: source-clr
-reviewed: dab24018790f854109e4e8f9ea98be77d0707bd5ac0f47bc145c6e2f9c265efd
+sourceFingerprint: 726d7d94b10ec6951006f2138b67a2b2e0bef2336c1b139b3ed5d232912f2af7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

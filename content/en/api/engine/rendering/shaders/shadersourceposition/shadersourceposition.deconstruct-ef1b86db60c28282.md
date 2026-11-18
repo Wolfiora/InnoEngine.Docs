@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ef1b86db60c28282a7bcfb92452a53585492b6d231822a78c3c9a65a690ceadb
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourcePosition.Deconstruct(System.String@,System.Int32@,System.Int32@)
 title: ShaderSourcePosition.Deconstruct
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 56f72872e7022e0add6e2867762d0439396b3cc07fc5c12327fa9654ef4ff960
+sourceFingerprint: 56f72872e7022e0add6e2867762d0439396b3cc07fc5c12327fa9654ef4ff960
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

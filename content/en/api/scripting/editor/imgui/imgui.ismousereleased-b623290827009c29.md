@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b623290827009c29172a200591c6920de470a87c762697eff303ea371338356c
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.IsMouseReleased(InnoEditor.ImGui.ImGuiMouseButton)
 title: ImGui.IsMouseReleased
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 1bf5791cb2c31a0b122691f66c43da9f56d497833b3727fc96eb53351235256f
+sourceFingerprint: eb9c932148a1e465387050926858effb150027f20f04ade82ab1e3eb88f583ef
 apiScope: Editor
 contracts: []
 

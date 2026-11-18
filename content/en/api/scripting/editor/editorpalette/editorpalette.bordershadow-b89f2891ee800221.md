@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b89f2891ee8002217c327f46964cb2045608d802a3263dbd042d2b334dbf2fb8
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorPalette.borderShadow
 title: EditorPalette.borderShadow
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 84e88050b30f0277298a8158c5736d6ee69368f247c1776123700bda175448dc
+sourceFingerprint: 81bf1c86c0220e42277081ed7f1384c52318b122c457238cb99da5ea499eefd2
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9d4a0d89e7232ff9e5d3f0340609c7b66a39cdc66c8d820f79f71cb3bad0ca1d
 symbol: engine:Inno.Core.Events:M:Inno.Core.Events.EventDispatcher.Enqueue(Inno.Core.Events.Event)
 title: EventDispatcher.Enqueue
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-reviewed: 8a11fdc8b6424fc8434b3d282af481a104e76f1ccda285e9d0da77f3ba4c03bc
+sourceFingerprint: 274c7c64fa4b556967f227db7b8b1d5d537245d5d1dc2d9cb4d8f5277ace90ce
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

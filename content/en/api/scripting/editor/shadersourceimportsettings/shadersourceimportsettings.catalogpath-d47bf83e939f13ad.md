@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d47bf83e939f13ad93497ba3c47cc7ed3be9b23679e033da90053e0ad73283db
 symbol: scripting:Inno.Rendering.Assets.Authoring:P:InnoEditor.Rendering.Assets.ShaderSourceImportSettings.catalogPath
 title: ShaderSourceImportSettings.catalogPath
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: editor-script
-reviewed: a667d54eaae6c617aa100e8ed878beb8153537a572ed4996efba724c6f05db41
+sourceFingerprint: 65715426c1c4d67850eb5b497bbda745132c1c30bdfa94300be2b2f58562b872
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.071e478ce4860867b783d57129492deda9b802579f6c201ef02d1bcbf87a9423
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.DotNetSdkEnvironment.Create(System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})
 title: DotNetSdkEnvironment.Create
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: b02b5e53ca8182d05028d89c35b84d3ceeaa4ba8d23ee9a7947e7c793f5b9826
+sourceFingerprint: 2557201399cba8946ed406b441f63e471266557c3c413e9cc1d8a2a44bc18ac4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

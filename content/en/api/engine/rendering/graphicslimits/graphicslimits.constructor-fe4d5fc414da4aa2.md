@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fe4d5fc414da4aa2c6c4110f89a420772ae41a0e542235110a06500120b1cd31
 symbol: engine:Inno.Rendering:M:Inno.Rendering.GraphicsLimits.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)
 title: GraphicsLimits.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: edd9d8a44a5587c01e6cb9243be1ac1a46a401cbc7cd788c12b5b42261a8c65c
+sourceFingerprint: e00be853a4480b75d0ba453016929e106e4e063ae03078a5881eb077830d1f6b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

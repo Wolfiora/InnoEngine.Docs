@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7944b3310a72c6d154779816c5dbaa86084a91482078517017a6be320965cb55
 symbol: scripting:Inno.Editor.Inspection:P:InnoEditor.Inspection.InspectionDrawContext.target
 title: InspectionDrawContext.target
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: editor-script
-reviewed: 913aa17be27eb208630b6c57a3e228c5c1f087541d3bd432c1ff0009d3edd408
+sourceFingerprint: 64d8c556a409f351343f540436ee466a9a72d7572df7ceb55004a437d4ed544c
 apiScope: Editor
 contracts: []
 

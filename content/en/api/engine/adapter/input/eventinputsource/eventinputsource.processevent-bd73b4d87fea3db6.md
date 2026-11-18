@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bd73b4d87fea3db605ef473ff9df1353096571b9c850598190803acb5985951c
 symbol: engine:Inno.Adapter.Input:M:Inno.Adapter.Input.EventInputSource.ProcessEvent(Inno.Core.Events.Event)
 title: EventInputSource.ProcessEvent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Input
 apiSurface: source-clr
-reviewed: 34a961d358e3eeea01a63cd86f74188900a26ef35f90347032df9941dcbd4471
+sourceFingerprint: 821c68a950f82138d2936412a8c00a82b7e25ffecbb2786101feb9cb49db1d15
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

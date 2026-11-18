@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4032b4afe8db10aa023cdd1e5e11061e82f89cdd7b4f15b97cca443357c6cbbe
 symbol: engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticHub.RegisterSink(Inno.Core.Diagnostics.IDiagnosticSink)
 title: DiagnosticHub.RegisterSink
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: source-clr
-reviewed: 257b19c97c3dad7db2fd3f58ccb646383f04363659feee2c00d6168884dd7a3e
+sourceFingerprint: 3b9a505d782b5d81972414775055abd437993bd6025035cacc1057636e9a55c3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.serialization.runtime-script.f239cf4cb47803b1
 symbol: scripting:Inno.Core.Serialization:T:InnoEngine.Serialization.PropertyVisibility
 title: PropertyVisibility
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: editor-script
-reviewed: 056c010aa7f7937429de80680628306fab7300f16a0e725e9355492c1b4265ca
+sourceFingerprint: 103c2f07be2a8f514b8fad94f6feef9e3c150383291951ca21a5aa9b6c4345ee
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

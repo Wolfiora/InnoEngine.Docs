@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4201d77e22abdcdb988009858dcf340e9cd0f2d75e763369ee27b2d471253551
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.ColorEditLinear4(System.String,System.Numerics.Vector4@,Inno.Editor.ImGui.ImGuiColorEditFlags)
 title: ImGui.ColorEditLinear4
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 70dd45d97072ebeb2bd0f179b6f745ac847a4da9e3c75fda5822aa814a279624
+sourceFingerprint: 82a17e1fa43a0d9868c280627dcaee9e0afe5cd1c275f6ea77d45153ac184bbb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

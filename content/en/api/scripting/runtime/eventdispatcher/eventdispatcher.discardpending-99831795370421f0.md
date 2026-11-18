@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.99831795370421f0ff64647b01382162b9563595d3190d94c54c79e937fe3a40
 symbol: scripting:Inno.Core.Events:M:InnoEngine.Events.EventDispatcher.DiscardPending
 title: EventDispatcher.DiscardPending
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: editor-script
-reviewed: 0614c659118daf34c8c81df6ad42b584c9e5c7488942d2c12e90cf359e691b53
+sourceFingerprint: 7e4c8baa9b0a80a581c5a68b6b9e151470ad7aa524a8c56c02e0ef42288f2dd9
 apiScope: Runtime
 contracts: []
 

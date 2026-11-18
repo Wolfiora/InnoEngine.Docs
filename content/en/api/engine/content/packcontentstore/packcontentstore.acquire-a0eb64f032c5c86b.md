@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a0eb64f032c5c86ba3e64aa7652217ac3381747761867d4375637ce37397d8f1
 symbol: engine:Inno.Content:M:Inno.Content.PackContentStore.Acquire(Inno.Content.ContentKey)
 title: PackContentStore.Acquire
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Content
 apiSurface: source-clr
-reviewed: b24f653f6407be498920eae105af034b304bc7f22101a7d306787912eb984d77
+sourceFingerprint: b842108f18f023e1ac0405d08f83bfc252b6a58eb2ac177ecf714fad20c3b4e6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

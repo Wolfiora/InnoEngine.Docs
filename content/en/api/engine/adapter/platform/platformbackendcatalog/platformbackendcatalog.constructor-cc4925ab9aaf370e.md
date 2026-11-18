@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cc4925ab9aaf370ea2fe98f8862b1f203751a00109fd84bcde50b150f13bc7d5
 symbol: engine:Inno.Adapter.Platform:M:Inno.Adapter.Platform.PlatformBackendCatalog.#ctor(System.Collections.Generic.IEnumerable{Inno.Adapter.Platform.PlatformBackendProvider})
 title: PlatformBackendCatalog.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Platform
 apiSurface: source-clr
-reviewed: a7ab341b8e5ae8504a24a616c35f4bd44a6b8375e28aa0964931ade5628aefec
+sourceFingerprint: e357cd2e39552c5e309c76ef8dd75709f53fc88d95fd2e876f1733046d3fa035
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

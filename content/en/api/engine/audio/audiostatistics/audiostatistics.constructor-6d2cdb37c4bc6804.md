@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6d2cdb37c4bc68048a75c7e8ab4ec635407e22720debaa0be2ec0683aeca5201
 symbol: engine:Inno.Audio:M:Inno.Audio.AudioStatistics.#ctor(System.Int32,System.Int32,System.Int64,System.Int64)
 title: AudioStatistics.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 7e34c7ed0ba613d9c1630f422d7feb4610ccef7ea500a33f68d337244dc219be
+sourceFingerprint: 85378e5de2010b6d393cea5c2313889ead077acc66cabda37d87dd4d9487d2d4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

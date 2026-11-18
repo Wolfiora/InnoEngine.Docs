@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.295e9685df849ad388df60b8fa671fab554052e82f51529b67ff2dfc3c0358b8
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiWindowFlags.DockNodeHost
 title: ImGuiWindowFlags.DockNodeHost
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 227915e57e96ab84d843124b2f3360efe59b0a36a2a5dbce8d818e4fb6ce5cc7
+sourceFingerprint: 87afaa2e58bd5fe2c0f4459e8bbfc381a3763185aa96591c6ac589e371f0cf9e
 apiScope: Editor
 contracts: []
 

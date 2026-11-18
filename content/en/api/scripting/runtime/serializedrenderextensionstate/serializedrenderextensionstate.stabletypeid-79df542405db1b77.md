@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.79df542405db1b7754535a0348b32844071c63e1feb39e75d2b0a79678ed91cf
 symbol: scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.SerializedRenderExtensionState.stableTypeId
 title: SerializedRenderExtensionState.stableTypeId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 6f7e6396bd31717b5f95eccfb709834eed6e2d7708bd6334d6b0a03f7c726c78
+sourceFingerprint: 4aa87d53bfe6d042322222eea5b3dbe2cd572dba59687bd982f2dbf02e8e8eb4
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3e08cd39772be892c1086467e9095d5c06f1b396a0daa0712495c20114d00b96
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.MaterialValue.FromTexture(InnoEngine.Rendering.TextureAsset,System.Nullable{InnoEngine.Rendering.RenderSamplerState})
 title: MaterialValue.FromTexture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 44e7b430b862cf09c98ad94c355e6e2827ce6aae6c8dca6867006254176d51e9
+sourceFingerprint: 637126a061b7c9e99a607fb79e6b4ccfe70b173c7001a0d3078cb22a0ae65777
 apiScope: Runtime
 contracts: []
 

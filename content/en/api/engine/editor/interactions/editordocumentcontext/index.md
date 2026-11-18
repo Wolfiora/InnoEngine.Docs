@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.interactions.f264244e42e86b1a
 symbol: engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.EditorDocumentContext
 title: EditorDocumentContext
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: c7b7df2d85df226f368039cc31f002f5ee65f216a987161ce4d1860286805c58
+sourceFingerprint: 0c39b5105ee2deb73e8183161e52ceefb93563b3941c6e0f0a307a468e584da2
 contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 

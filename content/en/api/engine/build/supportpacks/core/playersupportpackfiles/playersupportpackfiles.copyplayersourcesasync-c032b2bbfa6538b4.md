@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c032b2bbfa6538b4478ecb7d71c226ffd5d7f5f17394e7ff49b34c079528f4a8
 symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackFiles.CopyPlayerSourcesAsync(Inno.Build.SupportPacks.PlayerSupportPackBuildContext,System.String,System.String,System.Threading.CancellationToken,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})
 title: PlayerSupportPackFiles.CopyPlayerSourcesAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.SupportPacks.Core
 apiSurface: source-clr
-reviewed: a443f9e7e7656b06712ceb9a6758e60840f4ca22996e5c491af8f34035ee42db
+sourceFingerprint: e64b5296a2cfa1db2a8ac759d9dfcf1dfd23f32a475f186421d49f3a5a41780f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

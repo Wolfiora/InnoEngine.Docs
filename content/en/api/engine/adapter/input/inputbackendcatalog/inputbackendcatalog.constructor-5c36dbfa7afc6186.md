@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5c36dbfa7afc618688684057eae96346d6cafa9173cf6bec033319a2699706aa
 symbol: engine:Inno.Adapter.Input:M:Inno.Adapter.Input.InputBackendCatalog.#ctor(System.Collections.Generic.IEnumerable{Inno.Adapter.Input.InputBackendProvider})
 title: InputBackendCatalog.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Input
 apiSurface: source-clr
-reviewed: 12ccb6b623ae718a85ab5fb988ee04edbb1288ceaeb383dc60d8901f31bc76c3
+sourceFingerprint: 481f2a6663c5e0fd7b001bb7f58866047096d988138db389d656befe5819dfae
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

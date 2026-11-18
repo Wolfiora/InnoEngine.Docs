@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.graphs.runtime-script.1a661491138f9c8c
 symbol: scripting:Inno.Core.Graphs:T:InnoEngine.Graphs.GraphPosition
 title: GraphPosition
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: e09cd606bd328504bd6832d8753d608306912c07009445170800ef7d8995c460
+sourceFingerprint: 431ed8f508cebecfc736e51a0a1d26233e03a793a1518a337dc6be2ddc462391
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

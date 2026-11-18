@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.91d4af60fd06efca4a971f6c8f8b37b3bcc6eee627c61625c8340d11af307652
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.MaterialPassResolution.#ctor(InnoEngine.Rendering.ShaderTechniqueDefinition,InnoEngine.Rendering.ShaderPassDefinition)
 title: MaterialPassResolution.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: c9e541fb59ac2ba80639a1e97c12cf1cb688aeb8fc8bd05d3f93a2cd6d01e0cc
+sourceFingerprint: d0c5c8a8489bb9f790cdb333d2d40129d3ecd6712eff4fd980d111433b6e5ceb
 apiScope: Runtime
 contracts: []
 

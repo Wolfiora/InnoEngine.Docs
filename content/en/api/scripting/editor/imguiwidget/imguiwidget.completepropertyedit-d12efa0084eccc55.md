@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d12efa0084eccc5531025a087deee60dd06b41a8b8ec55f41b21b62c2f6611d2
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.CompletePropertyEdit(System.String)
 title: ImGuiWidget.CompletePropertyEdit
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 6724b13afa65ff1974ecec367be2a236c81d2fe499f4d24fc45b5ea8566c4473
+sourceFingerprint: d9ed7a7cd0bad4f7b74abe7138912967084265a86c4b3e049411e6b28222dad4
 apiScope: Editor
 contracts: []
 

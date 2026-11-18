@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5273c72c4ca7890cb888189a8e23c008af3dfe1f431c191af2e213c8ee833cb4
 symbol: engine:Inno.Core.Jobs:M:Inno.Core.Jobs.JobScheduler.Complete(Inno.Core.Jobs.JobHandle)
 title: JobScheduler.Complete
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Jobs
 apiSurface: source-clr
-reviewed: d6d6e4426e3beea6213df0eb3ab6cb16115be78be79f8e01c3c2e5afc15d63f4
+sourceFingerprint: 9a3e705a5bb7659de623d1fc456a9e005da7f861d5e2cfb81230661af66fbb0b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

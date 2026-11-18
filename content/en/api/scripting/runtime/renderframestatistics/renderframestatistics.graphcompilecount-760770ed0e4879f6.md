@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.760770ed0e4879f67c838c76749693d1297a892c1d8445de2d65b303712fd47d
 symbol: scripting:Inno.Rendering.Runtime:P:InnoEngine.Rendering.RenderFrameStatistics.graphCompileCount
 title: RenderFrameStatistics.graphCompileCount
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 113998a5b51e9f8b82d90fa01e76e0a1725b1d66770b9315a7abfc6afbb05f1d
+sourceFingerprint: 6db8c205b3ec37cad9a65983429f126ad337ed2d067d9e5b6f976270eb0625df
 apiScope: Runtime
 contracts: []
 

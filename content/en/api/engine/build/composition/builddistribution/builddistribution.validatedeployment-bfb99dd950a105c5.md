@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bfb99dd950a105c526a85cab2bc8f33a55aca240800fe1a3de320e2e975259c8
 symbol: engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildDistribution.ValidateDeployment(Inno.Build.IGameBuildTarget,Inno.Build.Managed.ManagedDeploymentId)
 title: BuildDistribution.ValidateDeployment
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Composition
 apiSurface: source-clr
-reviewed: 8e0d9619d5fc01b45f4c1cda96edd774e32873ca6c0adc6e743cc7bd26e64ed3
+sourceFingerprint: f205761e34898ec321245146767460dd5a62d6f8b2aab8a9421dea1e643c1cbc
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d4f4c5fc0d5c56eb78a1cdb4dd53eeac14f7abeb299f03037b34937f0481a4f8
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorDrawList.Rectangle(System.Numerics.Vector2,System.Numerics.Vector2,System.UInt32,System.Single,System.Single)
 title: EditorDrawList.Rectangle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 1e7da6bc59b4b81c3d209c974e5d6c0cd17f0d89aafddf68d0a88c773c4f01a5
+sourceFingerprint: 76d4246cb59b5e8d027440912ab509640ac644498dd41f0702848ed83ad27c1f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

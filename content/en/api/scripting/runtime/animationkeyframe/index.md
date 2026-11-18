@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.animation.runtime-script.1f770274015e1266
 symbol: scripting:Inno.Animation:T:InnoEngine.Animation.AnimationKeyframe
 title: AnimationKeyframe
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-reviewed: b959a00ffbcac82627b70c37f9568db882f5bdcafd7801fb53c27ea77052058c
+sourceFingerprint: 1ff80c2519c6240067928dda79605c56cf8aa10c4c61fdb858edf627eff68670
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

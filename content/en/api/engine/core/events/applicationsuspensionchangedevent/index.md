@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.events.2e381feb534c056b
 symbol: engine:Inno.Core.Events:T:Inno.Core.Events.ApplicationSuspensionChangedEvent
 title: ApplicationSuspensionChangedEvent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-reviewed: 0a1139bfc0a28ed2fd590bba34af5b30a0af82dc71bf2c183c472cd75a5a7a47
+sourceFingerprint: 0465984dbee87a00adf14b1561e19198fa6148b85fd27db0828dff1376f56d92
 contracts:
 - project.inno-core-events#dispatch-and-lifetime-contract
 

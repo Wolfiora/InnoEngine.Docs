@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a5d9343f7459900e3cfe610a58f2e49484e2127d01a59f16d5cde24e9566bab9
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTabBarFlags.TabListPopupButton
 title: ImGuiTabBarFlags.TabListPopupButton
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 4065502922c3c32ffbef01b353d39e0015901f7ff5646c37e552c31eb6404902
+sourceFingerprint: 01a5ea826b6a9eb5a4915b8e9865e47a1b69e38f22203deb731a2eaeb4f48ae6
 apiScope: Editor
 contracts: []
 

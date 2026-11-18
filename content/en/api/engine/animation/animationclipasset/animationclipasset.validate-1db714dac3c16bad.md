@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1db714dac3c16bad10a3db01ef851194440f2f28606e13bd5e93b6d239385b7a
 symbol: engine:Inno.Animation:M:Inno.Animation.AnimationClipAsset.Validate
 title: AnimationClipAsset.Validate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: source-clr
-reviewed: 9433781c48e91fcfae1df50b4b5b1b8d4a76e7a2924dab215dfa3fa656f1805c
+sourceFingerprint: 067a8149d37d1a4c5188c58fd00099745f48c111393751ac8567404fad0549ec
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

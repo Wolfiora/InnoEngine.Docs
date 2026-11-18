@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8525b37d5873097350cde73db7c7cd4171c02c6530679818631ddac02f7deb55
 symbol: scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneEdits.AddComponent(InnoEngine.Scene.GameObject,System.Type,System.String)
 title: SceneEdits.AddComponent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: editor-script
-reviewed: fd14505e18b550eed0fb8e0c7969d071ca993ff3ffb9459bcf2797757ac8fe4f
+sourceFingerprint: 9386fccd16484a67e89a747f897070e8362bd1c12c41f39c44e732e756edad4c
 apiScope: Editor
 contracts: []
 

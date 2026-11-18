@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8ed9f5a537079b2d3cdb1117cdf8ae3bb619ee02c975fe80c826e3e399bad640
 symbol: engine:Inno.Editor.Rendering:F:Inno.Editor.Rendering.EditorViewportManipulationPlane.XZ
 title: EditorViewportManipulationPlane.XZ
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-reviewed: 003f2b3932c85444f383f3447aae2e78f6a1c361cff395cb6edfe19eed58b2e4
+sourceFingerprint: 2b5107a6dcbd5f156cf260c79a1b6ff62faacce1af50ef8233aaec0ac0cf8d0e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

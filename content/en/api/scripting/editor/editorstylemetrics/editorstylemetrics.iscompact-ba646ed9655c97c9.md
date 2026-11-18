@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ba646ed9655c97c9f7eab55bdfc28dd241025564b481acc7bae29a40242a94ea
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorStyleMetrics.isCompact
 title: EditorStyleMetrics.isCompact
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 94b68a4773260e8e804ab956261c23a4121e4d7583b51be002b5013b7b87dbed
+sourceFingerprint: 76d2ba1c4c7adb493ad9304a28cf194f669b4a4ff8e3f13394622d4bc143d224
 apiScope: Editor
 contracts: []
 

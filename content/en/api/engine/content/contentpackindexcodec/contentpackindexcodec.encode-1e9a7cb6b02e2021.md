@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1e9a7cb6b02e202127ba04c2c97f140066b01a291998a49bc89ebca6ecff6e05
 symbol: engine:Inno.Content:M:Inno.Content.ContentPackIndexCodec.Encode(Inno.Content.ContentPackIndex,Inno.Core.Serialization.SerializationGeneration)
 title: ContentPackIndexCodec.Encode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Content
 apiSurface: source-clr
-reviewed: 1a6662eb3d8f0d707ee43c9dafbebe7c1fe5dfdf33285d6207c91be7ea96be9c
+sourceFingerprint: 961a7913239379f166eb4e3a9570c4c6013409552a232bc5c799b251cfd0f611
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

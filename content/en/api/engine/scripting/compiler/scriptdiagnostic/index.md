@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scripting.compiler.15ef34a77546d5bf
 symbol: engine:Inno.Scripting.Compiler:T:Inno.Scripting.Compiler.ScriptDiagnostic
 title: ScriptDiagnostic
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Compiler
 apiSurface: source-clr
-reviewed: fba629f5c2470df4b26fbe2e5440094cec34eff70b31e97a1b62534ba5cdca9d
+sourceFingerprint: d92c058fac9233f65e7cc3245ab24fb6c29eacf2e2523020a884478903b8aec6
 contracts:
 - project.inno-scripting-compiler
 

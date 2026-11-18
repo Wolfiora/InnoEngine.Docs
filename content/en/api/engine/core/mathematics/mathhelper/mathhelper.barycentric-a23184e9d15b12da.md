@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a23184e9d15b12da28da0ff0164cc90841c943ab758947695c5acbdb21ffcdab
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.MathHelper.Barycentric(System.Single,System.Single,System.Single,System.Single,System.Single)
 title: MathHelper.Barycentric
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 04c75b3160c1b63a2d925d267636453b0b254a972a8d0c5f54b80e77d7ac85cc
+sourceFingerprint: d710871b6daf572873b8bb41d7a225cd30af0d19488b9936b277c68904e20506
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

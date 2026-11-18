@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e395ffbdd9a0755d970a8262b6cc9faf6cc4027f5bb9d4461a6227e93626e16b
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDropStatus.#ctor(System.Boolean,InnoEditor.Interactions.EditorDropVisual)
 title: EditorDropStatus.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: a82607bf31931e808843d697466567c7bb74201d4a792a1366d5b22a1a310c84
+sourceFingerprint: 987b5c8cf1462cd964b49bfd2fda552c2bde3586e8d8bae85dc8018af3a4c695
 apiScope: Editor
 contracts: []
 

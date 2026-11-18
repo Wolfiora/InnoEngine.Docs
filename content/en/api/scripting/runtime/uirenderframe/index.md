@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.ui.runtime-script.f68e4df127e22581
 symbol: scripting:Inno.UI:T:InnoEngine.UI.UiRenderFrame
 title: UiRenderFrame
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: bf73cf65b74d4fbe8049473480e333721733752b14d42443172652afc9188e14
+sourceFingerprint: 49dd31712f063d7bb70793cf2c368b37aa5732a65bacfcd5c4702ad77bed7c17
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

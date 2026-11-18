@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a124de942d2c0ec09989a058ea7e1bac4a988b584a7efc5f6ecd1884b57dc222
 symbol: engine:Inno.Scene:M:Inno.Scene.SceneElementSerialization.RestoreComponent(Inno.Scene.GameObject,Inno.Extensibility.Types.TypeRef,System.Guid,System.Int32,System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)
 title: SceneElementSerialization.RestoreComponent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 04080681b52345c47ad1f80cea05c4e65a76e4d2541a16df8fd4d6a783742e66
+sourceFingerprint: 35be521648d36172061fc1c04e8d1ec561602618c47d30279b6ce83ad4421880
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dd47779e93d0bffe97c476de84377e8e50578510bd74cb48778397f873b9b549
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderGraphDiagnostic.#ctor(System.String,System.String,Inno.Core.Diagnostics.DiagnosticSeverity,System.String,System.String)
 title: RenderGraphDiagnostic.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: b070dbf181214a9ac663d850d3aae41a588ee517a1b4ec61fa99ed2e5a9d6ed7
+sourceFingerprint: b63fa6bdcf18966b141a8ff4b1cc0d8d1be601f461c1c9f45a9bedd9962eeba5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

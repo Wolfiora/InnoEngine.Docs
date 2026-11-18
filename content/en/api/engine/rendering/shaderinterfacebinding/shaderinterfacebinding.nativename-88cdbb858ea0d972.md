@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.88cdbb858ea0d9725642d28d516334207c39e6cce904808faf077fc89266dfd0
 symbol: engine:Inno.Rendering:P:Inno.Rendering.ShaderInterfaceBinding.nativeName
 title: ShaderInterfaceBinding.nativeName
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 7ff42dc052f1146f2af416291ab8b684256807a0f25e51e9830efee2ac4f1a66
+sourceFingerprint: acd5501cbde4bbd9bd58c7e92a09beab1dc6f7ff7211591fe01dedc7a58bf8fc
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

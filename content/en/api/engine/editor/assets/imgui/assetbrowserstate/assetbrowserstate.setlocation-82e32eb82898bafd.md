@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.82e32eb82898bafd821298816025ae3a11ed6f15dead5201be97c25f43571b26
 symbol: engine:Inno.Editor.Assets.ImGui:M:Inno.Editor.Assets.ImGui.AssetBrowserState.SetLocation(Inno.Editor.Assets.ImGui.AssetBrowserRoot,System.String)
 title: AssetBrowserState.SetLocation
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets.ImGui
 apiSurface: source-clr
-reviewed: 11fbca117566a2448891f902dfe24ef740f4c031ae377f5bb96dada83702408d
+sourceFingerprint: 6a5729f27bb1534b83493f20856db5e7bfcecbe4345a827094d839584d8c45f4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

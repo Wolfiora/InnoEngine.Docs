@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.616609499959e210acaf995fd7c9da42877a570e0c075a4758bb817ec260138d
 symbol: engine:Inno.Core.Input:F:Inno.Core.Input.KeyCode.X
 title: KeyCode.X
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Input
 apiSurface: source-clr
-reviewed: 755ed7e3c2186dc05644397da6bb1a987d958c0f6270b6e912302f2b0ca07e6f
+sourceFingerprint: 520ef36b537dc1d50a0705713b235116b9d0b00faefd79c24eb1585ea9adf5ce
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

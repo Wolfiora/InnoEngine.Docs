@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.10390aee64008ba387110c152f80c60e66f0db233ad17fe64373de25845070a9
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.AddComputePass``1(System.String,InnoEngine.Rendering.RenderPhaseId,``0,InnoEngine.Rendering.RenderPassExecute{``0})
 title: RenderGraphBuilder.AddComputePass
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 61696f6b688e17cd5ea270febe221b493a98410ff3c49e02ac5c0440554ec6cf
+sourceFingerprint: 5d1a2ce747643059c8a067a7614b97907a93a415a63c2dade1af6623e2488cea
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c25a315ac1bc0fc5acf8f1b44b480ac9c6965533937825705d7c5f2b7fe6b5bc
 symbol: scripting:Inno.Animation:M:InnoEngine.Animation.AnimationTarget.Resolve``1
 title: AnimationTarget.Resolve
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-reviewed: 86cf886e9b316dc54c336480886ce7cc3736fe2f653d582e008f3f559aae8cbf
+sourceFingerprint: 0a6bf5ef665b9b76c22f671ae68d66c64f189132a42eb6a97cc42bc515f70e56
 apiScope: Runtime
 contracts: []
 

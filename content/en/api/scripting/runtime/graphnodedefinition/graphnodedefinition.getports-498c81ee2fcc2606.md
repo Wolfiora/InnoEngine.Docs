@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.498c81ee2fcc2606d966a24e8a91920e9c7b21f34a3ea106bb266c97368691a0
 symbol: scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphNodeDefinition.GetPorts(InnoEngine.Graphs.GraphNodeRecord)
 title: GraphNodeDefinition.GetPorts
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: 82353fed43a13bfd38b76ed15c386ac885ccc856852c42a1e351c8a7951e344d
+sourceFingerprint: 1d7b5aa5f10e2baee086fa0b5ec2a0919924d1a240e4d053fb3fa04c63a92ec5
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0247427d455325cea70c1c1ef8860f6777df5d8574fdb68165f52baf53ddbb0f
 symbol: scripting:Inno.Assets:M:InnoEngine.Assets.AssetObject.RestoreProperties``1(System.Guid,System.Byte[],``0)
 title: AssetObject.RestoreProperties
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-reviewed: 498aa4c90f4380e4733637a600231d2d03ce216b209b03ba3a7b06c836cf5044
+sourceFingerprint: eca05598e8726bbee19a7646e1dc3c3b58af9ef6494b6932df725abe26ca4e00
 apiScope: Runtime
 contracts: []
 

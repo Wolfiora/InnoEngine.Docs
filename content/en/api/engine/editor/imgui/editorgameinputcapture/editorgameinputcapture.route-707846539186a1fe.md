@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.707846539186a1fe95f8f50709f4f26739a72215fc1ee50e6b08aa3c72850629
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorGameInputCapture.Route(Inno.Core.Events.Event)
 title: EditorGameInputCapture.Route
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: b0a739b6c8f2c929eac4f89a11ef4925e1fe2c9cacba70f8241a27f57d4dec63
+sourceFingerprint: 091600edcea8115164fe23095b0e706260a9a37322ae206b08ea04fe649105be
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

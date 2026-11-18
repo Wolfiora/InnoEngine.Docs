@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.388ae4a182fe280a4fac46b383a90e77bd59e8107fe72a292f63cc308ff39ea3
 symbol: engine:Inno.Rendering:M:Inno.Rendering.IRenderGraphBackend.EndPass(Inno.Rendering.CompiledRenderPass)
 title: IRenderGraphBackend.EndPass
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 7eb2fdb482f40c3252b3b99fb3a68f7f9e0f917797a00633bae9aa1c84554acf
+sourceFingerprint: ffb02473d3e34fb9b29204f94092baad3fb1b468d6d3f2c7ae7eebb7cb514939
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

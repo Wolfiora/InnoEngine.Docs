@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c1a540d2d8bb23a8ceb1bfe2431b4bcfd11484eb33966738ab00f3d537cf0c6e
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.SceneAsset.OnRuntimePayloadChanged(System.ReadOnlyMemory{System.Byte},System.ReadOnlyMemory{System.Byte})
 title: SceneAsset.OnRuntimePayloadChanged
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: a6433ae92af8f433d89b72772e9fde7fe0ab93c9e91861393843c101e49e4662
+sourceFingerprint: 4431a1673080df82177b581d6f3842d1932bd1bd3cba176eaf6575f350a4c589
 apiScope: Runtime
 contracts: []
 

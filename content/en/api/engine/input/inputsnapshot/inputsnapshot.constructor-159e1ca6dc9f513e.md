@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.159e1ca6dc9f513e98a97c8a9a46b7343b563e5c661ec5e2f1e5727951437477
 symbol: engine:Inno.Input:M:Inno.Input.InputSnapshot.#ctor(System.Int64,System.Collections.Generic.IEnumerable{Inno.Core.Input.KeyCode},System.Collections.Generic.IEnumerable{Inno.Core.Input.KeyCode},System.Collections.Generic.IEnumerable{Inno.Core.Input.KeyCode},System.Collections.Generic.IEnumerable{Inno.Core.Input.MouseButton},System.Collections.Generic.IEnumerable{Inno.Core.Input.MouseButton},System.Collections.Generic.IEnumerable{Inno.Core.Input.MouseButton},Inno.Core.Mathematics.Vector2,Inno.Core.Mathematics.Vector2,Inno.Core.Mathematics.Vector2,Inno.Core.Input.KeyModifier,System.Collections.Generic.IEnumerable{System.String})
 title: InputSnapshot.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Input
 apiSurface: source-clr
-reviewed: f293b44d8309a826c676ac36ff9f7810552cced23ae5bff92e5b8f3b46a661dd
+sourceFingerprint: 9b62d1ebe101dd254176c513431ed24b8b44eb409a903933aa1be4d58762bb49
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

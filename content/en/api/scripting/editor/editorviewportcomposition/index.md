@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.rendering.editor-script.edebfd2d83725f37
 symbol: scripting:Inno.Editor.Rendering:T:InnoEditor.Rendering.EditorViewportComposition
 title: EditorViewportComposition
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: 6b900f75930b6ea0fb3c42bf78dbf4588854f4dff568f19ca584aea9af9c6a6d
+sourceFingerprint: f38e7300712a320723445c5e12d951921c7d1316d044548ef2803ec7d48dfcfc
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

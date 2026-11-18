@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9349851a837912e85c526eee438c43a5f32456d220c46a9b166d72df7e0b21a8
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphNodes.ReadInterface(Inno.Core.Graphs.GraphDocument,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)
 title: ShaderGraphNodes.ReadInterface
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 921c4f39b3b96498d51051bd0b75b735171d98ec8e83a3a1af271e8abaf41758
+sourceFingerprint: 2cb4c18386e66b20f745c9bf1e6532bc0b0a1f98dd8173a409268782240b632b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

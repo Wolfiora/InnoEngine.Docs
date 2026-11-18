@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.320a438a8562a4aa8518ace6e8aeecd554e88ad06fd5c6fa30645e04158ebbf2
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioListenerSnapshot.#ctor(System.Guid,System.Int32,InnoEngine.Audio.AudioListenerState,System.Boolean)
 title: AudioListenerSnapshot.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: fcb64d8a94b21b00ef1dcd21bb1997ebf1125828db78040e8d8260a967d13d00
+sourceFingerprint: 24afe1e9c0c82927bea98d440df2a332c4b77bdc3dbc3d9cb85a39fe25fc8470
 apiScope: Runtime
 contracts: []
 

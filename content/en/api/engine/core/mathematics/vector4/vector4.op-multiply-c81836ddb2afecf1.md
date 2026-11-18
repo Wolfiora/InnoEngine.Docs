@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c81836ddb2afecf185d74b358a68d59b02cc0685ab814a5ae9bf2e6d7a78c771
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector4.op_Multiply(Inno.Core.Mathematics.Vector4,System.Single)
 title: Vector4.op_Multiply
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 0bf72bcda76f496712b5c82b465076c576a07141598fd8e51e274b322a9cf5f1
+sourceFingerprint: 93203011c94c03560b9380cdddc3ec902a8348ba87a38074b380fd524a9abfec
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

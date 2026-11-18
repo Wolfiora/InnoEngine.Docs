@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cc16117466119da1546f5026279a06cda1fee2a0a770bf2b51b675759718859e
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector3Int.Equals(System.Object)
 title: Vector3Int.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 914e68be88639b5147141b502548937736c72a4109a952f98739c05ccc099f1c
+sourceFingerprint: 8094133548f0f892b47798816296902925c4eefb8864601b681ec95334e09121
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.adapter.storage.b084ac3fc470954c
 symbol: engine:Inno.Adapter.Storage:T:Inno.Adapter.Storage.StorageBackendId
 title: StorageBackendId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Storage
 apiSurface: source-clr
-reviewed: 551d3dbd24bf110fb4cd5c3e1b0ba3d7a08c1f1e7146b98a1c2c761ef24ef2b1
+sourceFingerprint: 5f7df81c7940bba1d2fd7e1371b97c914c55089f83dc483f67783797287e8a4e
 contracts:
 - project.inno-adapter-storage#ownership-and-scope-contract
 

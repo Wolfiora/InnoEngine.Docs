@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.05e584a89f62e32e
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderCullMode
 title: RenderCullMode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 980670917e63f67cac8f15c500c6bf4d552c62b7016d6397479ea3bea851f46c
+sourceFingerprint: b17ccf75a7ddce87ca57254750c515407fb83891220468b3c365389a9ba641c6
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

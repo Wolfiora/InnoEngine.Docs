@@ -1,5 +1,5 @@
-const apiCodes = new Set(['XmlOnly', 'EmptyManual', 'ReviewRequired', 'RemovedApi']);
-const projectCodes = new Set(['InitialReviewPending', 'ReviewRequired', 'ManualExplanationRequired', 'RemovedProject']);
+const apiCodes = new Set(['XmlOnly', 'EmptyManual', 'Outdated', 'RemovedApi']);
+const projectCodes = new Set(['Outdated', 'ManualExplanationRequired', 'RemovedProject']);
 const requireValue = (condition, message) => { if (!condition) throw new Error(message); };
 
 /** Turn canonical editorial observations into a bounded non-blocking GitHub Check Run. */
@@ -21,7 +21,9 @@ export function editorialCheck(report, { sha, runUrl, annotationLimit = 100 }) {
   requireValue(Number.isSafeInteger(annotationLimit) && annotationLimit >= 0 && annotationLimit <= 100, 'Invalid editorial annotation limit.');
   const counts = Object.fromEntries([...new Set([...apiCodes, ...projectCodes])].map((code) => [code, 0]));
   const observations = new Set();
-  for (const warning of report.warnings) {
+  // Keep the v1 wire code readable by the trusted reporter on main during a release.
+  const warnings = report.warnings.map(warning => warning.code === 'ReviewRequired' ? { ...warning, code: 'Outdated' } : warning);
+  for (const warning of warnings) {
     const validScope = (apiCodes.has(warning.code) && /^content\/en\/api\/(engine|scripting)\/.+\.md$/.test(warning.path))
       || (projectCodes.has(warning.code) && /^content\/en\/architecture\/projects\/.+\.md$/.test(warning.path));
     requireValue(validScope && typeof warning.symbol === 'string' && warning.symbol.length > 0
@@ -44,7 +46,7 @@ export function editorialCheck(report, { sha, runUrl, annotationLimit = 100 }) {
   ].join('\n');
   return { name: 'API editorial coverage', head_sha: sha, status: 'completed', conclusion, details_url: runUrl,
     output: { title: conclusion === 'neutral' ? 'API prose has editorial follow-up' : 'No API editorial observations', summary,
-      annotations: report.warnings.slice(0, annotationLimit).map((warning) => ({ path: warning.path, start_line: 1, end_line: 1,
+      annotations: warnings.slice(0, annotationLimit).map((warning) => ({ path: warning.path, start_line: 1, end_line: 1,
         annotation_level: 'warning', title: warning.code, message: warning.message })) } };
 }
 

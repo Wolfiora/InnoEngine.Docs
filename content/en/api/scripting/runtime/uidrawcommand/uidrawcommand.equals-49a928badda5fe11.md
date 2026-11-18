@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.49a928badda5fe11f059edabb7386f9bf783d3c0b47d986eeacc9947b9ffbdd9
 symbol: scripting:Inno.UI:M:InnoEngine.UI.UiDrawCommand.Equals(System.Object)
 title: UiDrawCommand.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: df4b5b424c2348fd97a32187da4628d4ba9ca2ed8b3111ff9732519334baf7d4
+sourceFingerprint: df4b5b424c2348fd97a32187da4628d4ba9ca2ed8b3111ff9732519334baf7d4
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5fa23e9ea3cc1ea43f5070d08826a64952ed6398af9c0dbbf80613903828045d
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildInput.#ctor(System.String,System.String)
 title: NativeBuildInput.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 5d0d8c9b44313a31357ea7ea882faeab196f8e870dfad6ce7b298362740f1080
+sourceFingerprint: 750b1e7bd8724de5c7b169e1566ebbff65b39e5f79218de72da133a1d1282987
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.696682334a4a6b8d3801b02597cef8675e88fc009f43a3d3acb167a12fbdb78a
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.ToPackedColor(System.Numerics.Vector4)
 title: ImGui.ToPackedColor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 2f8de64fde4790a3ac12c84300ea3835c8e8f96651e66fb2565ea7e5c634b403
+sourceFingerprint: fb4e885566ce9269c16421c3097a27d27b0be3e51a2156f79951176d883a9b9c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

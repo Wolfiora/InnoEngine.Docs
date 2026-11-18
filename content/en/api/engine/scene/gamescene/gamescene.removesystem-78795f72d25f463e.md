@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.78795f72d25f463eb3687cb4d5e6cb7002fc35bf4f3a534ce3ed292d04026d71
 symbol: engine:Inno.Scene:M:Inno.Scene.GameScene.RemoveSystem(Inno.Scene.GameSystem)
 title: GameScene.RemoveSystem
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 3aa1c3b21be6e0cf3bb96d723ad8977cb8ad8220ee28d6f7367f55d9ed55ee8a
+sourceFingerprint: 28712087a62dec6a4f37afde74a3274624d240a73d335fe95367938a92167978
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

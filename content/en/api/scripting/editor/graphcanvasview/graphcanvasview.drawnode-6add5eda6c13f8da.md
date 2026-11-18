@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6add5eda6c13f8da1cdae10f2b1431e27de0187221d94fd9ab5a4e59c8180bd1
 symbol: scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasView.DrawNode(InnoEditor.ImGui.EditorDrawList,InnoEditor.Graph.GraphCanvasNode,System.UInt32,System.Boolean,System.Action,System.Nullable{InnoEngine.Graphs.GraphPosition})
 title: GraphCanvasView.DrawNode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph.ImGui
 apiSurface: editor-script
-reviewed: 0fbb13aefef4890ffd06b5d1cbb091cd5b59d98a0f0218b9b3e22694c411db16
+sourceFingerprint: 83a668ba4867475af6a1d90a6e7f6b28fa0923eca280168abb254d6abfd822ce
 apiScope: Editor
 contracts: []
 

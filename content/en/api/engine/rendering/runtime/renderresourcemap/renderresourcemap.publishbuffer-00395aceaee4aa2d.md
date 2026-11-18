@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.00395aceaee4aa2d0ef7958d4324c922e51a7afd931e211852d5a4cc098ea4dc
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderResourceMap.PublishBuffer(Inno.Rendering.RenderResourceId,Inno.Rendering.RenderBufferHandle)
 title: RenderResourceMap.PublishBuffer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: dcd635661140cbae51645b48f24fd734eef8320db6c3b24ce0b14862a0054f51
+sourceFingerprint: 34c4bbbb589e048141b19366752bb41e6876af79988bff27ef7747848fc935e7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

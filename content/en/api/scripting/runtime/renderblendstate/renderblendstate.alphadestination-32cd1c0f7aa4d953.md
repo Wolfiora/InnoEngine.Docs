@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.32cd1c0f7aa4d953a3e2b9eaf6a9528dc6eca9680bbc668970fcd2c7d6c2c66b
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderBlendState.alphaDestination
 title: RenderBlendState.alphaDestination
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: f884bb27ddb5f1a43329c1939decc2e347bc4c49cfa17243a120bf7ca868716e
+sourceFingerprint: 0d8058e5a911eae0afcf25e1201e0bccdc7486e2ff5e3059f88157216f77131a
 apiScope: Runtime
 contracts: []
 

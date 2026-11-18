@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.870381eeeff3612af42f2409ab746ddd0d630d3bf73fb31556fb8beae1b32aea
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.Hermite(System.Single,System.Single,System.Single,System.Single,System.Single)
 title: MathHelper.Hermite
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: ddc6bf3293fcd7c4bb38155e8fada5e888826a5693a9383911d57e40dcd711f2
+sourceFingerprint: 2884cac0ea50317c4fe7bac247aa1bb139fbbe471900e174858fc7e07e2b75dc
 apiScope: Runtime
 contracts: []
 

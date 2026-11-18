@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d2e2fdcad3077b99dfd2bfcd7607420ffc1f8b2d7335e4f83fab543d3a2d57d8
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.ComputePassBuilder.#ctor
 title: ComputePassBuilder.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 45c2755c06ddb6a90aceb8999b1c2871e6722b6c342c9bc0924c29913eb5cdf0
+sourceFingerprint: 45c2755c06ddb6a90aceb8999b1c2871e6722b6c342c9bc0924c29913eb5cdf0
 apiScope: Runtime
 contracts: []
 

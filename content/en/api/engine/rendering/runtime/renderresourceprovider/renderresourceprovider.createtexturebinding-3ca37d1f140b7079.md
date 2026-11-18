@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3ca37d1f140b707966a5a976b3622df5dbae7c51437cc7d02a2b4bd912c03015
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderResourceProvider.CreateTextureBinding(Inno.Rendering.RenderBindingId,Inno.Rendering.PersistentTextureHandle,Inno.Rendering.RenderSamplerState)
 title: RenderResourceProvider.CreateTextureBinding
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: b139f993bd8cbd88de12dd72be8515dfdcbaaed2f7e7dd362b6e1c787de35400
+sourceFingerprint: 1e060ff1568cc0ee41dd711266e90441dd74cf62a03f01156d00d81d4bb3319a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

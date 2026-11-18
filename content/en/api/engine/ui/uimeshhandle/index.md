@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.ui.015e55fcad5b2368
 symbol: engine:Inno.UI:T:Inno.UI.UiMeshHandle
 title: UiMeshHandle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: 3730c86ebca6c2c589830d59f76b883ae92c90352058e68da5f9961de90bd337
+sourceFingerprint: b1810d86cec691eb149c1ad2a1d9c7762ac29fa89d54cb523d303762446ec3fb
 contracts:
 - project.inno-ui#document-and-frame-contract
 

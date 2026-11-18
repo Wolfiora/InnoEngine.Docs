@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9ef7ec435980fc1801a840e5ed751ae0fb073a21d1a3c643d56860e8ff2ac1df
 symbol: engine:Inno.Text:M:Inno.Text.TextGlyph.Equals(System.Object)
 title: TextGlyph.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: source-clr
-reviewed: 53257fd88692745fda3464fbfe5091527c9a6389773000708427b1ff747a90cc
+sourceFingerprint: 53257fd88692745fda3464fbfe5091527c9a6389773000708427b1ff747a90cc
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

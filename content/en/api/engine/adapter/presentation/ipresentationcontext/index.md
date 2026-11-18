@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.adapter.presentation.929c87336b7b3e6c
 symbol: engine:Inno.Adapter.Presentation:T:Inno.Adapter.Presentation.IPresentationContext
 title: IPresentationContext
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Presentation
 apiSurface: source-clr
-reviewed: d9ec004859f5f262329c34c8cfa8353582dc34f0017306265d7b6cf088e49241
+sourceFingerprint: a40cea3e417635561b51cb7bc727fb69eeb04f10217f50bf3011451e62504af7
 contracts:
 - project.inno-adapter-presentation
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.5198559cdbe56865
 symbol: engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.ShaderContractId
 title: ShaderContractId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: 10a3a91140c57ae4934782e82940123152a8b41b9909733d79da21649d35e645
+sourceFingerprint: 7a27ef75478368016890f2aadea834e1386d092476c52c53dac7b436906102c8
 contracts:
 - project.inno-rendering-assets
 

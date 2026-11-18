@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.390d87668cd109c6fddc7651c3d8d9a2061008e069efbbea4a5b5778a45cd5a2
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourceType.Atomic(System.String)
 title: ShaderSourceType.Atomic
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 0c114d5aa0e3e191048a921ed23621a25ea831f7b70f6311a3d0d9eefebe7f88
+sourceFingerprint: a733a607130fdcfe497008a26893f30f93781b3da0e6390dda6f5b508be7e7a0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

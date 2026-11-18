@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0a86a8f97385e9bd260f427c8d43f8dd081547125796a9f562b8263780b4d350
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.CreateRotationY(System.Single)
 title: Matrix.CreateRotationY
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 31f415859c7ad892c35ae0b132f6e78d51bfb365236de041e3b1029f5f603d3b
+sourceFingerprint: 552ef9803ce9e555d471be04333ad527b448034291a203e0e5a552563b81dc11
 apiScope: Runtime
 contracts: []
 

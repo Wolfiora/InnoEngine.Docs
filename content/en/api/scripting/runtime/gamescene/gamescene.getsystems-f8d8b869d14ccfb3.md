@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f8d8b869d14ccfb3a9802e54d582e49361dbc13360dbb7dcdcac1d4b14746ad7
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameScene.GetSystems
 title: GameScene.GetSystems
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 1ee88fe5286346a3d92b51f2275835644b7cf4a257543a27b5c1b69535731381
+sourceFingerprint: d6950b4ad0bfc3c40e9268abcd0ce21a9bccc8214e2662fe2b0f7447a4b3b649
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.09a25ae014989b294bcc746b611ae490cc1db5e25730f373182b1e2e5c2c39f8
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.CreatePersistentBufferHandle(System.UInt64,System.UInt32)
 title: RenderDevice.CreatePersistentBufferHandle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 443aa699ae7996e604e3eca45456877d83eab258e605138e238be8be36d02869
+sourceFingerprint: a89d2de3f2d62baa18dc31240189e16e1311977a166caf7c6475c33f36e19d16
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

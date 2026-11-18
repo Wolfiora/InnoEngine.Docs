@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.shaders.editor-script.66a336607a975fa6
 symbol: scripting:Inno.Rendering.Shaders:T:InnoEditor.Rendering.Shaders.IShaderSourceResolver
 title: IShaderSourceResolver
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: 0ee792e0534ccda2f964985c33259a3a3145c01c96fa0d3a154dce3c01d173eb
+sourceFingerprint: 7fea5837f04dd60c82ff9483a1ff22a7a5aa14e0e3915a9702d14af8a053911c
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

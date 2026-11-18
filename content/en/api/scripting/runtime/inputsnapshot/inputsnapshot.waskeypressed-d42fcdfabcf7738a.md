@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d42fcdfabcf7738af908f973ed4932c55ddd4d30926522ca30964f72a6eff627
 symbol: scripting:Inno.Input:M:InnoEngine.Input.InputSnapshot.WasKeyPressed(InnoEngine.Input.KeyCode)
 title: InputSnapshot.WasKeyPressed
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Input
 apiSurface: editor-script
-reviewed: eb01f77f9b0bdad3d7e6949eadfe1ca244bb02749e560b7c94af05c2b3ff4f01
+sourceFingerprint: 5e704fdfe0f29160cabae21e9fe6fa192e80f41f0f7e3a36ea4f5386ce9f1666
 apiScope: Runtime
 contracts: []
 

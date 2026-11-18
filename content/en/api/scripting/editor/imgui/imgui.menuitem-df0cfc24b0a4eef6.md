@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.df0cfc24b0a4eef6bf2ff30983ae52d5d740defe651179391a4d2a4b1402d76c
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.MenuItem(System.String,System.String,System.Boolean,System.Boolean)
 title: ImGui.MenuItem
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 7d6c3a6b4da9b250066ef01abb77c960c01a75ccc2f4bebc392133c670ebd087
+sourceFingerprint: 25a7b90a74dc262135318aa19d3dbbd13811336b72a9b3298ee48363fe527370
 apiScope: Editor
 contracts: []
 

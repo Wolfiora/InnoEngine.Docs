@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6c3c1eff1e4fa8fbe779927dfff1b4c21aefc466ad7c5053d815e2d4dc3400a8
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.CollapsingCard(System.String,System.String,System.Action,System.Action,System.Boolean,System.Boolean,System.Single,System.Action)
 title: ImGuiWidget.CollapsingCard
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: c65b93bd4f7c4ee9d5eaa4938c3e5d265e06e4675d9eeb33807021dd31ec37c9
+sourceFingerprint: 85e547817fc069c5ca3c08b583a3b64c18cd2e3c93e8e218088454875e4f1b1f
 apiScope: Editor
 contracts: []
 

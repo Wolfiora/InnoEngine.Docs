@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.529bf27702f0f4f578d6dc264e024e245d4faa9e49779693c371aa1989f1b7cb
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.Extract(Inno.Rendering.Shaders.ShaderIrValue,System.Int32)
 title: ShaderIrBuilder.Extract
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 17dbf775c0f1b26cb02577e89a2fdc5938d3ad8470cfce75fa8be278bad614f7
+sourceFingerprint: 44119049b0a0c3cdd433ab231ff11805e0fc445f3ea6ede2f98ab2b664c17d74
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

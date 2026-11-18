@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.tasks.8c2e8f3c7f71bbe4
 symbol: engine:Inno.Build.Tasks:T:Inno.Build.Tasks.PublishSupportPackTask
 title: PublishSupportPackTask
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Tasks
 apiSurface: source-clr
-reviewed: 844216b0ff51923ca5589280a60aab791932b093e2fd00b29ccd8c03b25c8396
+sourceFingerprint: fea8e029ee465ba0848a6add4b8ac01336820babaa614fc108a4fc4f8f2264f7
 contracts:
 - project.inno-build-tasks
 

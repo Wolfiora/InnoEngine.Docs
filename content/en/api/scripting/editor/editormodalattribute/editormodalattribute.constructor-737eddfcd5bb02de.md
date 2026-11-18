@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.737eddfcd5bb02dedfb5b5fa50f8f8b0334d4eef5ce2f39614583359d6ec424b
 symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorModalAttribute.#ctor(System.String,System.String,System.Int32)
 title: EditorModalAttribute.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-reviewed: 77cbb462676815be9a211ad1621b4e932b97566dcf24f447e9038f366254f741
+sourceFingerprint: 2033668e785bc6ad06e6c9a57117718966b72edf2f21c1080775570ab20fc814
 apiScope: Editor
 contracts: []
 

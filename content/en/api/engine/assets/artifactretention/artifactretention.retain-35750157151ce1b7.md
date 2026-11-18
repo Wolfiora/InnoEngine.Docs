@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.35750157151ce1b721a40b6f0bf28cd4e6e614736c7429af9a81860d7d7cddc7
 symbol: engine:Inno.Assets:M:Inno.Assets.ArtifactRetention.Retain(Inno.Assets.AssetArtifactInfo,System.Func{System.IO.Stream})
 title: ArtifactRetention.Retain
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-reviewed: b249db5ce8037fbe046ef1ab92daf500bd178b52068423b6db7a1b27301cbe2c
+sourceFingerprint: ed72d431bde6e6963bfc5fe38178dfd88bd27eda3c4fcb804fb8a4889ffb2ab6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

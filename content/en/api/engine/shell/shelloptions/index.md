@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.shell.bed99a73cc5af969
 symbol: engine:Inno.Shell:T:Inno.Shell.ShellOptions
 title: ShellOptions
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Shell
 apiSurface: source-clr
-reviewed: fd6f3f0c8f5eeaddce1a558373949162078b970392ea3dcd548cb1bf135419b7
+sourceFingerprint: 65cb76bb705c6cee850d86b1b35762aa540006974f7bae638aedd0bdce57ab92
 contracts:
 - project.inno-shell
 

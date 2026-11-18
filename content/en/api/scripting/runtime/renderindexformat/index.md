@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.31d5c197236112ea
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderIndexFormat
 title: RenderIndexFormat
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: e5dcd9b5da05e2e9c6d3aae1f67e71ec2e0c54ce5f25c3f75f1bae31f17ee04f
+sourceFingerprint: c27b03ce39113aca7933efbaa3778c583d70208b2b268d6c662d119d542bbee4
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

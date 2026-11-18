@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.67d3c1cb7d989bfb27dd4d225ef16bd9cf996b92fd5a8c3eaffb486f934f8e87
 symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.ShaderPropertyDefinition.#ctor(Inno.Rendering.ShaderPropertyId,System.String,Inno.Rendering.ShaderPropertyType,Inno.Rendering.ShaderStage,Inno.Rendering.Assets.MaterialValue,System.Nullable{Inno.Rendering.ShaderPropertyBindingKind},Inno.Rendering.RenderStorageAccess,Inno.Rendering.Assets.ShaderPropertyBindingOwner)
 title: ShaderPropertyDefinition.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: b479dcddea480d05ba120578d9c54f449fc63a0b79b1e00196405a0e986e389a
+sourceFingerprint: 423e0183e1fe10b026dfbfe5152f24fb6d07c84a0cf729bdedf6ecaf72104782
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d604897f6ce7374203880373925f63ccbcfe9bc47eebdfe5323d46f8f81c12f2
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.BeginBoundedCombo(System.String,System.String,InnoEditor.ImGui.ImGuiComboFlags)
 title: ImGuiWidget.BeginBoundedCombo
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: aa2743106d7638a3efe5edc873600423aed42b42491f7098c4f7f2c07d7d23de
+sourceFingerprint: 59c0207b38f50f6a1a4b6d10306c9b8c7bb6f08f091de7cb55bfd155718bc43b
 apiScope: Editor
 contracts: []
 

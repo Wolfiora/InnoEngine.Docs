@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.inspection.0fa464d5ce66b3bd
 symbol: engine:Inno.Editor.Inspection:T:Inno.Editor.Inspection.PropertyDrawerRegistry
 title: PropertyDrawerRegistry
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: source-clr
-reviewed: 5e072408ee34a8a76b5934e6b3e79ec84d7a57291bf0becca6b6cbddd6b5ef31
+sourceFingerprint: 25cec3d153b201c7870f7751de32c273e3050df065f15aa232545e8362078b75
 contracts:
 - project.inno-editor-inspection
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.toolchains.2de77262d10ca4de
 symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.BuildCacheArtifactRole
 title: BuildCacheArtifactRole
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 56bb2746fe54c703202236bddc71dea999ac499ca5e38b44ff3433304d7d3676
+sourceFingerprint: 3dbe0a1dc89d09b6c13b5e4d369af960030b8777c1acb462976079eeda7f6642
 contracts:
 - project.inno-build-toolchains
 

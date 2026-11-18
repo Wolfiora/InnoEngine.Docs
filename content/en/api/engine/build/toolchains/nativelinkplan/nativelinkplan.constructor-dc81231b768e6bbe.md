@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dc81231b768e6bbe2b9cb24ff274ce95b37516aab8b8670fa14a10258a8a1605
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeLinkPlan.#ctor(System.String,System.String,System.String,System.Collections.Generic.IEnumerable{System.String})
 title: NativeLinkPlan.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 6e44f8951f77541e4449ff30840c48e68059d8571aea6b693d85a28fefe82ea9
+sourceFingerprint: 439001e50a94af086cc35fb71704a7a79c2c3d17612cfd2c189a9448e7caf760
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

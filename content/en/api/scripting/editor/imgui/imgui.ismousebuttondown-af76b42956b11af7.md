@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.af76b42956b11af74169231d3d8a9dd0878e5e1c8f54bcc812091f75e6a23e1e
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.IsMouseButtonDown(InnoEditor.ImGui.ImGuiMouseButton)
 title: ImGui.IsMouseButtonDown
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: c3df436354753a95491ad9feeca7734338d664a5cf74ae78534f222f3a0ded17
+sourceFingerprint: dbae5025f120a1376998fda99062f370ab0ae5f88fc1c5e5017b317a77a45377
 apiScope: Editor
 contracts: []
 

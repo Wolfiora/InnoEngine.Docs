@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: api.projects.inno-editor-panel-stats
 symbol: project:Inno.Editor.Panel.Stats
 title: Inno.Editor.Panel.Stats
 kind: project
 owners:
 - Inno.Editor.Panel.Stats
-reviewed: ''
+sourceFingerprint: 08f07b8cd806fb639f22238a727d6183a852785ec5ca88ffc855dcc97860cc68
 contracts:
 - manual.editor-statistics
 - architecture.editor-generations

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.audio.f2526b0918929a7a
 symbol: engine:Inno.Audio:T:Inno.Audio.AudioMixerExtensionAttribute
 title: AudioMixerExtensionAttribute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 422da36a0ab71b5586f06650ee5fb1a01813a25a20d49895e1958c3ef68d9591
+sourceFingerprint: 344e9b36b1512831b3f929bebb0a1f35596b5223a03e81b97a196123f34b7d15
 contracts:
 - project.inno-audio#playback-and-device-contract
 

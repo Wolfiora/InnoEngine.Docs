@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.986446489a24a171a9ffddb5a43673988ba37c13a43ca916e71f666d3603eba5
 symbol: engine:Inno.Core.Layers:M:Inno.Core.Layers.Layer.OnAfterRender(System.Single)
 title: Layer.OnAfterRender
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Layers
 apiSurface: source-clr
-reviewed: 5a73b334b897d9965d9877ce1f1a667ff011ebe2f5c799db399c24b208c7044e
+sourceFingerprint: 765da685da262fcb2b9031861d9dc91f072d418e619e72d3586734741123247f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

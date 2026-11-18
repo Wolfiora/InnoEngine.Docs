@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dcf6ba4da51b90d3180e54d0052953bb131feb9344a174b9b471e11a3d152da0
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.SceneAsset.CreateImported(System.ReadOnlySpan{System.Byte},System.Collections.Generic.IReadOnlyList{InnoEngine.Assets.AssetDependency})
 title: SceneAsset.CreateImported
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 7d66adf7d4bd53869b474057859ecb8bccc9cebf11795f1c34062623c19b831a
+sourceFingerprint: 2ca87a1633ecd02cc6677e4c303f0a3b4bc068f6b8170dfebd9672fdc407f03d
 apiScope: Runtime
 contracts: []
 

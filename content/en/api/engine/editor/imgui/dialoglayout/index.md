@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.imgui.58156fdfb4d5c7f1
 symbol: engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiWidget.DialogLayout
 title: DialogLayout
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 4f6589c9b65fee6e6f48abb6dc6ad72e2f8ac946b0f8b4b6b754f23acc7de194
+sourceFingerprint: 8b5e0791947373b98b2b3012df420a177e6e2b5b0b18de4ec369423a5924faa2
 contracts:
 - project.inno-editor-imgui
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cbafcfefdbf979ea3a6fab59527bc80139a4860d3478950db9f1402857a9230f
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameBehavior.OnDisable
 title: GameBehavior.OnDisable
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: ae80c5606b2ae1f5c3e76910631364061c06fcb4233260598d956b9e19a09235
+sourceFingerprint: ec59b90ff6ddb6364962479822bb7af43ce101991137fe783d1214a27002e594
 apiScope: Runtime
 contracts: []
 

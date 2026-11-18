@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5b327ff8e62c9885ac9016b5732c0ff9e0af72fd7f4fa47f0309b9f7885bfc54
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderBufferSlice.isValid
 title: RenderBufferSlice.isValid
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: ddc663da37cc5b72cbb21aca857fa563c293ed1f1616a0387f7b0e99cfe6bc14
+sourceFingerprint: 3b071ac88d3c3a9a42945e12c1e256e33adcfd9cf1b54da167cb896808c7b2ab
 apiScope: Runtime
 contracts: []
 

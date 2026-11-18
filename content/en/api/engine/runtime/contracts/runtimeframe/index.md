@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.runtime.contracts.167789a09a16b983
 symbol: engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeFrame
 title: RuntimeFrame
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime.Contracts
 apiSurface: source-clr
-reviewed: 595a7c57a8032207a104c91dc7321e3dcc2fae718854c9f51d422462988b6f1e
+sourceFingerprint: 87d4681bae162ee2ac79401022328840d5d5606c7c8f80fb5d00bd5573f2e561
 contracts:
 - project.inno-runtime-contracts
 

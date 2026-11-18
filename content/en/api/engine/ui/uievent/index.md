@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.ui.ab2f4ff6598192b6
 symbol: engine:Inno.UI:T:Inno.UI.UiEvent
 title: UiEvent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: 8c667dd5ed26369906e3ed0c75b94a1f12d0a3b4bad60134c0fbd50eb6d6cd8e
+sourceFingerprint: 89e262d637afd2a1eb777038ec5aa19d0f18a707bb65e1229c7d47eb0448c592
 contracts:
 - project.inno-ui#document-and-frame-contract
 

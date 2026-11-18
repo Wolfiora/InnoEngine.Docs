@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1c4d6e4a26285bf6d1346564447da393e14de0477ab318c1425896efec83cdb0
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphLiteral.Emit(Inno.Rendering.Shaders.ShaderIrBuilder,Inno.Rendering.Shaders.ShaderSourceType)
 title: ShaderGraphLiteral.Emit
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 74618dfe8cd51d2f19738d9ffc1b2a1e238264ddaa473891b1a8fd0ace1776fb
+sourceFingerprint: 0bed198eacc7543a8257fb9a8e0c02d6c5ba20765a9fae83894780e67b7ea780
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

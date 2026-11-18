@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b151280e5b8401fb7d45c188bebe582c4af49c0078506dc95490577fd1faaa8c
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.SameLine(System.Single,System.Single)
 title: ImGui.SameLine
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 6d0f4c269471568ede550782e14c2ff99b377a9accfa5ceca6e39b9aa8f4921d
+sourceFingerprint: ff78e976f5ced84c0dcd07592cf04548f4667d5cfd860cb26fe4c4dcb3288bcc
 apiScope: Editor
 contracts: []
 

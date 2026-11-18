@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.52b66f546281451d1a723cdd242896ddecd83a0728b63af287c51aee3df41e6e
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderResourceMap.PublishBuffer(InnoEngine.Rendering.RenderResourceId,InnoEngine.Rendering.RenderBufferHandle)
 title: RenderResourceMap.PublishBuffer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 04632d64203521a7d907b9325eee096a545a70e65b97da2a50b686d51c651a68
+sourceFingerprint: 8f0d6fa2e38d2127cf35db069653af3f8c68aaf4731596df2df4c7021c189857
 apiScope: Runtime
 contracts: []
 

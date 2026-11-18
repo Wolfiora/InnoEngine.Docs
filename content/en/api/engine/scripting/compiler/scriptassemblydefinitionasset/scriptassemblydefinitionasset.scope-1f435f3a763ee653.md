@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1f435f3a763ee6532d38659b707025bcac34f6eafab1a33999df98dbeedf5588
 symbol: engine:Inno.Scripting.Compiler:P:Inno.Scripting.Compiler.ScriptAssemblyDefinitionAsset.scope
 title: ScriptAssemblyDefinitionAsset.scope
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Compiler
 apiSurface: source-clr
-reviewed: e5ffe254b85556a2b4bb07973f6f5b297254b58b417912a12b23ea6a70869343
+sourceFingerprint: a7208f341a0aae0ee062c0b50112fd60324c6c86ac42d78cfb029a16f3fdc157
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

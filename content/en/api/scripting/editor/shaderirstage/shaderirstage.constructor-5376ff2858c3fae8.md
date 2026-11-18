@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5376ff2858c3fae84317cbebb4f7a88d6f47be5470a7f3515ae5ee5bd212735e
 symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrStage.#ctor(InnoEngine.Rendering.ShaderStage,InnoEditor.Rendering.Shaders.ShaderIrBlock,System.Collections.Generic.IEnumerable{InnoEditor.Rendering.Shaders.ShaderIrStageInput},System.Collections.Generic.IEnumerable{InnoEditor.Rendering.Shaders.ShaderIrStageOutput},System.Int32,System.Int32,System.Int32)
 title: ShaderIrStage.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: 9dd1a0da1c4a427754d7ec4c441ce9e2d24fe39ab4f5c327e54cda9caaaae099
+sourceFingerprint: e14e9af5fb1ff61a4dbe9a0ba46ba63f4b3e2a28cdd64e4cfc318db232b117a8
 apiScope: Editor
 contracts: []
 

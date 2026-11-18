@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d62b6244e85b8a405c9aacf78abc38a613c3e15e462b39c721e74ca260aa3458
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.CopyTexture(Inno.Rendering.RenderTextureHandle,Inno.Rendering.RenderTextureHandle)
 title: RenderCommandEncoder.CopyTexture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 619a3cae183a77078eb16e58a8af67d4bf96147c127f80c01baacdef121a055f
+sourceFingerprint: 9051726372133fa23e9f35a1f0cc95109cb7771b187d1c51be06549e7c541d12
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.identity.runtime-script.68291c4f0eee33de
 symbol: scripting:Inno.Core.Identity:T:InnoEngine.Core.IdentityDomainId
 title: IdentityDomainId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Identity
 apiSurface: editor-script
-reviewed: 16136b75a227e19eeb1ea97d9de947e7abbfbe177fc2dceefdc37730f4146b87
+sourceFingerprint: 33c4e9ebb2ee3c37840e6bd7cfe4c8f4ad90a5d4db89e8a0cceed5e0408ff95d
 apiScope: Runtime
 contracts:
 - api.projects.inno-core-identity#lifecycle-and-failure-contracts

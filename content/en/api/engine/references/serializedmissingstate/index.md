@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.references.4b2d191ddba28bf3
 symbol: engine:Inno.References:T:Inno.References.SerializedMissingState
 title: SerializedMissingState
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.References
 apiSurface: source-clr
-reviewed: 473785833bec5ad59f0c9167e52702eefa6c1b3d28df7eb622873862223e40c3
+sourceFingerprint: 6e69d0fa1f90194d0100f4e8fe54fc018e949e1a7c7855b0f7138f9accd3e390
 contracts:
 - project.inno-references
 

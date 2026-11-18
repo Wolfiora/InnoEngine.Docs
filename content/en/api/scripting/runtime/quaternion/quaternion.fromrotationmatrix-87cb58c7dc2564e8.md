@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.87cb58c7dc2564e8088a8cfdedcc7cebb8c585ff112779c1c4954843cba610e6
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.FromRotationMatrix(InnoEngine.Mathematics.Matrix)
 title: Quaternion.FromRotationMatrix
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 57f13b07e1513f36458d9405c5bd24d2bb0f08111be5a45f97a68533e8c9c5ff
+sourceFingerprint: 5b00f6df3e87512d98c7afb966be28d48d0a32df0cffdb25e35698496ea9ee5b
 apiScope: Runtime
 contracts: []
 

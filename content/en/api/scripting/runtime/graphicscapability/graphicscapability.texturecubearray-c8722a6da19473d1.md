@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c8722a6da19473d1ab6295b569e79b623915ea3b9272cdc115dc986576a0b142
 symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.GraphicsCapability.TextureCubeArray
 title: GraphicsCapability.TextureCubeArray
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 922b68aade0eeeb9c42905a64287de9a8f66153edb4fc62f462f21e1464b4936
+sourceFingerprint: 561cbab28bf43c4019c29bede802320a4a7314372f15b88fcde025135bf42cbd
 apiScope: Runtime
 contracts: []
 

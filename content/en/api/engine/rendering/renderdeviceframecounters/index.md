@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.d2b057ab266e1ff8
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderDeviceFrameCounters
 title: RenderDeviceFrameCounters
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: f3dc019734316c0096371f26680bfe2793dd6236cd72de8a5171cc7c2d1a1430
+sourceFingerprint: d688c2fffc509a0ba069a151b4f9b4c7d1c9d50b4fd71e45473d18cefb277fbd
 contracts:
 - project.inno-rendering
 

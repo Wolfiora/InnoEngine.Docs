@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e6cb48655f29f13445c46c23330603b128b6bcbf972e0c25740369f37385bf9d
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderBlendState.alphaToCoverage
 title: RenderBlendState.alphaToCoverage
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 27118530c05c87ad544182aab3557793b3654f14bcc87546b57b4b82799a6850
+sourceFingerprint: 5f0557178c745ecefe328cc2520abca53bad4186b55a12b19f288673eeb7adf0
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4f32ad5a5c331e2d1940ff96ea8e0472bc0adcce168e55dd7d7ce157977f084b
 symbol: scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.ShaderSourceLocation.passName
 title: ShaderSourceLocation.passName
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 070692d35add75c574685bc27e53375b47d4395be0832a51d1f5866045bd089f
+sourceFingerprint: 761b5a7a8836fe2a19a84d88ac4958b191b0fbf116bce56f62924d9cf31df46a
 apiScope: Runtime
 contracts: []
 

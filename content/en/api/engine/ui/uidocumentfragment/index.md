@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.ui.b0b1504a7118f5fc
 symbol: engine:Inno.UI:T:Inno.UI.UiDocumentFragment
 title: UiDocumentFragment
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: 8955a2450212b42648dac0a38df65dfbca9db186413c9fb2ac6393481307fa84
+sourceFingerprint: eb217e15d58d8b1c280eac6ee58ba3f3cff97d2de1a482989d9136bf0481bf88
 contracts:
 - project.inno-ui#document-and-frame-contract
 

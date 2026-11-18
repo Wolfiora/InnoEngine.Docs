@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.toolchains.099e8a63467d45c9
 symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBindingIncludeDirectory
 title: NativeBindingIncludeDirectory
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: cfb89e6690f958ac4fabaf7bad858d2ba788f428bd1ab347a25c691882b1d84d
+sourceFingerprint: a7c80cd4b3b6c589fa874ace3daa0deea805d885a11efd0fc4e0794def044568
 contracts:
 - project.inno-build-toolchains
 

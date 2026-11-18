@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.graph.editor-script.d25b8bf033d70116
 symbol: scripting:Inno.Editor.Graph:T:InnoEditor.Graph.GraphCanvasState
 title: GraphCanvasState
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: editor-script
-reviewed: e4fa1fe09bd099cfa7472239cf706a1ad102113bacb5e666fb37b848a0566ee4
+sourceFingerprint: 9a5be6a50c501c8ea28c4abb11de66bb45067edd4b396e01cba9c1658a51017f
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

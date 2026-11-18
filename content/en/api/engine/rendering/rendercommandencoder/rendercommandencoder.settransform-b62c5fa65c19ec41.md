@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b62c5fa65c19ec41cbc41ba6804399cea43ce0df262b88e084336d2689fc453d
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.SetTransform(System.ReadOnlySpan{System.Single})
 title: RenderCommandEncoder.SetTransform
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: f5856c72e70f48224b5b3fc6fcf4e6b233c106fecda5da48ee392f1164b72e12
+sourceFingerprint: 2916f4208a97295c5f3e8bd2d7ffdbc58184126bc1f0a56293c6bd2f597d4631
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

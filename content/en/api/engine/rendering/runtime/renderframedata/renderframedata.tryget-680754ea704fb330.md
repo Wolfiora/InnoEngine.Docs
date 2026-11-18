@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.680754ea704fb3301e569129efeec81e06f29a3f90dcf0d569f62e9efd3c94d5
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderFrameData.TryGet``1(Inno.Rendering.RenderDataChannelId,``0@)
 title: RenderFrameData.TryGet
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: bbcdf94f1e6e2c0a993d190f2114c370425c5b9c0405e6daf416a63dddbeb17b
+sourceFingerprint: 999e5969420a8be9b82e1d8cff97533f59a90c5811864ce4a97ea283bcb016ee
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

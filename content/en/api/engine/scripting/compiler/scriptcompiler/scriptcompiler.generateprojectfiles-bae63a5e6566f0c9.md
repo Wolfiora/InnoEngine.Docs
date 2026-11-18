@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bae63a5e6566f0c9e5b38d0ec9aa0dc6896d1098b071469e81b74ea9460bee8f
 symbol: engine:Inno.Scripting.Compiler:M:Inno.Scripting.Compiler.ScriptCompiler.GenerateProjectFiles
 title: ScriptCompiler.GenerateProjectFiles
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Compiler
 apiSurface: source-clr
-reviewed: 761f079da36724688e65cc68f1db17182c862a2e554ffd6a9ee6aa30dfa213f4
+sourceFingerprint: b568182f8cafa6691e648ec51c3d5ee3f49024e7ff7b0e90a36f299a5a761be0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

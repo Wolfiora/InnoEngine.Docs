@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.d915513bf17d7251
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderPrimitiveTopology
 title: RenderPrimitiveTopology
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: ec361be14e093346e47edbb3f93d663a3254602dfb345064c1d62c26ff839ffb
+sourceFingerprint: e73ccebee61b25342dd13413975b59d152d00e7dcb71349cb814b0d086841296
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

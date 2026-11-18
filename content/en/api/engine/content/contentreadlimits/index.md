@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.content.ac50138c4fb60523
 symbol: engine:Inno.Content:T:Inno.Content.ContentReadLimits
 title: ContentReadLimits
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Content
 apiSurface: source-clr
-reviewed: 885c10a9cffc88aa7c994f217d6466e22043662a001d8161cc79d288264572ad
+sourceFingerprint: eb0f88d42018886558ea4335579932e76444cf81338ea5fe364110595ffb134e
 contracts:
 - project.inno-content
 

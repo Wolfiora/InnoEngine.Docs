@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7f2a0d5ec7827fd691b081c42802ae77589347ba8ce61801c6af2b56ff3195ef
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorViewportToolContext.BeginHistoryGesture(System.String)
 title: EditorViewportToolContext.BeginHistoryGesture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 381ee91ef0c132920f37895b581e82a2134e18907db7cc55995f681a7d05770a
+sourceFingerprint: 6626eac32ec3c63cea7d1056da811cb8773fef73bf29aeaa1be21b34d2f04bb4
 apiScope: Editor
 contracts: []
 

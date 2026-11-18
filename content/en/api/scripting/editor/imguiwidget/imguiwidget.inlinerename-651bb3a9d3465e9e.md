@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.651bb3a9d3465e9ed0e97038dc9e4a56e09a6ef4c7cf5705a2e648239bde5a2e
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.InlineRename(System.String,System.String@,System.Boolean@,System.Single,System.UIntPtr,System.Single)
 title: ImGuiWidget.InlineRename
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 4135ddb8cf2cb22e0da38e8e9c72ab32cdfbfc4f91d80646ee9c76723972c802
+sourceFingerprint: 8a8afa6dc9ea5be1d1f4e54f65e48dd0222d4e1ba20ba72d335903427171288e
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9c2a76ec028688cbeec3b30675a02155b43b0e8d5500695c88f880a0ef01442b
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativePreparation.Capture(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.ProductNativeBuildPlan,Inno.Build.Toolchains.ProductNativeBuildResult,System.String)
 title: ProductNativePreparation.Capture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 45e191fc5c7aaf84c4906159487a35a9c30dbd1da66047f5d41796810f7e670a
+sourceFingerprint: 42ff0779c71319a84c21d1a9169ee057370bf325a6d5931034b087ad3c640754
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

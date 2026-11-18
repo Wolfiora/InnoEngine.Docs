@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b55c7c6b3a2bcc9fbdfd586a5be4ba64cf213b7c8ab68edaf582b3ea9c9e305e
 symbol: engine:Inno.Editor.Assets.ImGui:P:Inno.Editor.Assets.ImGui.AssetBrowserStyle.gridCellPadding
 title: AssetBrowserStyle.gridCellPadding
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets.ImGui
 apiSurface: source-clr
-reviewed: e251b87fa396effdcf580b091bfad65b31f663c05fb99cb3e65a60d8b2e2eaba
+sourceFingerprint: 18540d63c705995b1014bd0fc81bbd63200b6c3302aaac5bfc6664e5c825e960
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

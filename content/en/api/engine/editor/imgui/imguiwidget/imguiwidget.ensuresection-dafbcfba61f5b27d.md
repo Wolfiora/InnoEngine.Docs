@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dafbcfba61f5b27d5ae4559bac3124039914c97ab8531124731a0b1cf5015601
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.EnsureSection(System.String,System.String)
 title: ImGuiWidget.EnsureSection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: a35e2dd4c7974c19e9f8ae786d7d63aa6f266a3edd5563801999cfd35ea8e489
+sourceFingerprint: cbea9fa949521b368c9205fb7b8bab67db9ec10cc570ca1e3bb078e0d2ba5bfb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.94ec87f55cbc9caef497f12d9677def1263de76eb4d25072114b40a5534a5df0
 symbol: scripting:Inno.Core.Settings:M:InnoEngine.Settings.ProjectSettingContributionContext.CanOverride(System.String)
 title: ProjectSettingContributionContext.CanOverride
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: editor-script
-reviewed: da4d25e529e924409e3fe8da92878443fefd4004a7306d56d55b19c72de5b6b9
+sourceFingerprint: 99fe2f4bfac517d78c8957daab01d2ab05f7be55a2c7832266fff86d2c1cb37e
 apiScope: Runtime
 contracts: []
 

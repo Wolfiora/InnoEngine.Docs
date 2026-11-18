@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cca68d14ed868e394a00569d30ba666b2129f95274a9d64205f653c5fef56f4d
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.Decompose(Inno.Core.Mathematics.Matrix,Inno.Core.Mathematics.Vector3@,Inno.Core.Mathematics.Quaternion@,Inno.Core.Mathematics.Vector3@)
 title: Matrix.Decompose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: d59785c5dce1aa36be723e2873955c10d2e402c2cc67f1fea7a1789a43bc03cc
+sourceFingerprint: c9cd798d491aff686cc3fbbbfec41a268aa668230e3cbcd27184aa1593290a03
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

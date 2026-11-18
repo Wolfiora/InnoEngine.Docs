@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7b07a95fe7d9ff82fac46e9117d6c0711377590d59517c4f7c80e0456e226622
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.BeginMenuPopup(System.String)
 title: ImGuiWidget.BeginMenuPopup
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 057c0046eb016786490964aa3acefa6eb2a548a57253af9d299a90b19d360e46
+sourceFingerprint: 3ac349b3c3e4bef1c42dc0b84927b5d883b8bf30feb187354166446e90245793
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.authoring.77a027f8ec5f7846
 symbol: engine:Inno.Rendering.Assets.Authoring:T:Inno.Rendering.Assets.Authoring.ShaderArtifactSelection
 title: ShaderArtifactSelection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
-reviewed: 3eb53a92581dfd6695a592aab8ece59d90de3e1cc9b79129fa9e22dcd81d7dc6
+sourceFingerprint: d78bdd6cedb226eaf6fd83a38f98b1efa0dd53ed980cb94eed2b7e5efeabc1eb
 contracts:
 - project.inno-rendering-assets-authoring
 

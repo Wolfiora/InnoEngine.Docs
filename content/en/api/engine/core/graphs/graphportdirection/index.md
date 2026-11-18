@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.graphs.38d846da63d8ef99
 symbol: engine:Inno.Core.Graphs:T:Inno.Core.Graphs.GraphPortDirection
 title: GraphPortDirection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: source-clr
-reviewed: ae3094c41b76bf8106d1996b52fd584e462c27078a2bf0276bce7f7b2a1a6897
+sourceFingerprint: 29db935b43135cad043f9aa25688c97c10a614dfd9e6bb7d4bc0886f0ade67c8
 contracts:
 - project.inno-core-graphs#document-and-definition-contract
 

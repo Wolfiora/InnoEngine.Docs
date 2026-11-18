@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scripting.api.c08321ce7d4a65d3
 symbol: engine:Inno.Scripting.Api:T:Inno.Scripting.Api.ScriptingApiExportAttribute
 title: ScriptingApiExportAttribute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Api
 apiSurface: source-clr
-reviewed: 606f66672d9630d1b703fc0e4d0b92b667cee372a92f312df8813f8ff926c3a1
+sourceFingerprint: 4748be8bc68c7fdc00f5301968995cb87ce54beeebaf8f7919de31f30cac097d
 contracts:
 - project.inno-scripting-api
 

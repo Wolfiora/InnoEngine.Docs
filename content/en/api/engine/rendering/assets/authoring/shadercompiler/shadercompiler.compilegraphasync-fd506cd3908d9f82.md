@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fd506cd3908d9f82e822ad9e6261f3bd8cb9dc6fb5004b6001016c7894c8a304
 symbol: engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderCompiler.CompileGraphAsync(System.ReadOnlyMemory{System.Byte},Inno.Rendering.Assets.Authoring.ShaderCompileTarget,Inno.Rendering.Assets.RenderShaderVariant,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext,System.Threading.CancellationToken)
 title: ShaderCompiler.CompileGraphAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
-reviewed: c542383d6223aecf04f21163c8e92f2204b241dfe37a8633be32c46715a762d7
+sourceFingerprint: 48be610b5587225e12aef7f572cc0794653319df7d9d9837b406b257bae79da0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

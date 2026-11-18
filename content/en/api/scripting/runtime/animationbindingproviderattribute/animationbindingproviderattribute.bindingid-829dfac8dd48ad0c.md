@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.829dfac8dd48ad0ccab9151abec8da4484c43439ceee07f211169328b269f9bd
 symbol: scripting:Inno.Animation:P:InnoEngine.Animation.AnimationBindingProviderAttribute.bindingId
 title: AnimationBindingProviderAttribute.bindingId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-reviewed: 90e52f5bc00cef22e8cd51661b924bff507e5e7824ff9cdf6ffd6bc6aab2c657
+sourceFingerprint: c7037dab58afa2dade093c12763db3d37d20198dc27ad79327f2c4ccaa8582a2
 apiScope: Runtime
 contracts: []
 

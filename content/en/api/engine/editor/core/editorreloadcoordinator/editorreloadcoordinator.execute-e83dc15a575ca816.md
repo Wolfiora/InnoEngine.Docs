@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e83dc15a575ca81684710232a0d5f7510d4c0cf1d9aea13f73358b13120deda6
 symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorReloadCoordinator.Execute(Inno.Extensibility.Modules.AssemblyReloadSession,Inno.Extensibility.Reload.IGenerationChange)
 title: EditorReloadCoordinator.Execute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: source-clr
-reviewed: 14d396ef2ed6b44ba6dfa1776278d93a7a0df012889a17f9a1ad567a6412e43a
+sourceFingerprint: 36fd6690234642a5a071138a50f2bf9868d9d0cd3c80edb2c18abd34d3977727
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

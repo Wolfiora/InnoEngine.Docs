@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.audio.fc72d5615a3debf5
 symbol: engine:Inno.Audio:T:Inno.Audio.AudioDistanceModel
 title: AudioDistanceModel
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: ae73a24731677feb5db03b634fce39b7f4f8c38ca38bd73a0ff0d6827f297894
+sourceFingerprint: 5722fc607a274574c25d0710236ead8c0c210952c20ad1cf20748f0ac78ef173
 contracts:
 - project.inno-audio#playback-and-device-contract
 

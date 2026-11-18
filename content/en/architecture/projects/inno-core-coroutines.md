@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-core-coroutines
 symbol: project:Inno.Core.Coroutines
 title: Inno.Core.Coroutines
 kind: project
 owners:
 - Inno.Core.Coroutines
-reviewed: ''
+sourceFingerprint: 4726348c44d9768d8e664743961373e073a92f4f93f788b93cb2af134e607ad0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

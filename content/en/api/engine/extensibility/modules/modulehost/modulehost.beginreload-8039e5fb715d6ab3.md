@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8039e5fb715d6ab3bce00374c618d69ef14ddda4c1eb76ff737829c10921a0b5
 symbol: engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.ModuleHost.BeginReload(System.Collections.Generic.IReadOnlyList{Inno.Extensibility.Modules.IModuleSource})
 title: ModuleHost.BeginReload
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Modules
 apiSurface: source-clr
-reviewed: aa362bb8cdca730f49e1dd19ba2d82b8faf272e6cb77eb99445afbd380afe23e
+sourceFingerprint: 4f28d41da7fe58838fd37d1a89e0f317ca10922a4f6cb1dc29f7adca9b515957
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

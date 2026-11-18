@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7deb780caf6cb6142c5e12dfcd0848e487963f331eaf4993e89a8c625a47ca39
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2Int.#ctor(System.Int32,System.Int32)
 title: Vector2Int.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: de40b0f5462a2ebbdcc89adad227d9ebc1e59baba340609e48728812db3cb331
+sourceFingerprint: 19afc2dcd18f7436eb8430d8367b743ba418441db959eca6b1c76639c0a949f0
 apiScope: Runtime
 contracts: []
 

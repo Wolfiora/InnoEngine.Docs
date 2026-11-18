@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5987c84e856756835db22525c9a799307d347e11d2f7efba0561e5db30d27313
 symbol: scripting:Inno.Core.Events:M:InnoEngine.Events.EventDispatcher.TryEnqueue(InnoEngine.Events.Event)
 title: EventDispatcher.TryEnqueue
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: editor-script
-reviewed: 95ca07d82b59e477be1bf4d36bccaf51ba00ea295ace64b8fa0b2b7b49583146
+sourceFingerprint: 5b94f64aeb515dda94efe9140fa2f79c5453377fe1cc12726ee558f499dbdf03
 apiScope: Runtime
 contracts: []
 

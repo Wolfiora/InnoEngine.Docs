@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0f5fab51baa3876c01efbac5233bb5f3b6935f827fd74822e2c734d99efc1e4d
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphProgramCompiler.Lower(Inno.Core.Graphs.GraphDocument,System.String,System.Collections.Generic.IReadOnlyDictionary{Inno.Core.Graphs.GraphNodeId,Inno.Rendering.Shaders.ShaderSourceModuleAnalysis},Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext,System.Threading.CancellationToken)
 title: ShaderGraphProgramCompiler.Lower
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 1466468d6ab9775912d7a5953c3ed4f8fd3cda0c2cf09ccc6ddefbfcc11f9288
+sourceFingerprint: 9ab759afacf976fe821aad39cafaf11fa5978e4ab42d88349ea9395174d8fc2d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

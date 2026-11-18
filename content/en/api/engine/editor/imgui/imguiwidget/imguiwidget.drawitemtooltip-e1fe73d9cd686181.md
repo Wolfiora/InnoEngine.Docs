@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e1fe73d9cd686181edf86513dc758523054e1b64e019dc2b6418400814a59a25
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.DrawItemTooltip(System.String)
 title: ImGuiWidget.DrawItemTooltip
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 0ffd901c472ac78145af6e0e0832f767d77b90591dec8a655bc06b06cd141dc7
+sourceFingerprint: b6ceb671880579aa8e0d0046cb9a7dcf05581ce2a1e5e02c6b994a7539b21f1d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

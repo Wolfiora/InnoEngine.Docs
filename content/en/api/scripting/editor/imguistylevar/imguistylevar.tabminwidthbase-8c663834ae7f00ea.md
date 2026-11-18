@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8c663834ae7f00ea6166c09cc47d3cdc5278e807452d3ae183dc1f23272600cb
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiStyleVar.TabMinWidthBase
 title: ImGuiStyleVar.TabMinWidthBase
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 722e81cf122344efffc2b4aaf27fea8640ffe9b2e4b0b31c7040fa88d1affa8c
+sourceFingerprint: 089727cc9782320cfbcd51fc5c015d1a676a93192ee7bc754a25ada3a75036ec
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.48c28077f283f9f5c8c21688593b4576174c90e891c82fa6f404b7c0c28b738d
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiHoveredFlags.AllowWhenOverlapped
 title: ImGuiHoveredFlags.AllowWhenOverlapped
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 87d427e72abdeafd39086705a4c2ffcd3f304fe00604bb17518e5aa986a0a9a6
+sourceFingerprint: 9a03375aea05528eb8e4ab5220147f8a4969c57998f7b40fe558a06bb8dd1692
 apiScope: Editor
 contracts: []
 

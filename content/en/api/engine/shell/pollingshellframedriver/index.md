@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.shell.57edc7000c86a3bb
 symbol: engine:Inno.Shell:T:Inno.Shell.PollingShellFrameDriver
 title: PollingShellFrameDriver
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Shell
 apiSurface: source-clr
-reviewed: 8c1b8532e6b4c114cb0b362d59f8e42d55de66f16744e377e6e6643a92af380e
+sourceFingerprint: d8b8cd875879f0074fc2345de3431117a647a33c327b9828bc0e43efbd2f03ef
 contracts:
 - project.inno-shell
 

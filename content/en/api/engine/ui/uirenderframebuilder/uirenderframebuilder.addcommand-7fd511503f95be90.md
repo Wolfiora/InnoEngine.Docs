@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7fd511503f95be90190518492cf1e300dbc8405b1cfb255abd2de98a86d61801
 symbol: engine:Inno.UI:M:Inno.UI.UiRenderFrameBuilder.AddCommand(Inno.UI.UiDrawCommand)
 title: UiRenderFrameBuilder.AddCommand
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: be86590ac385e0d7497a5233e514c8a08e6f65efb82aa2c573059e81c2e7cd13
+sourceFingerprint: 725df85e660d8b6d03caa4f20a229f34c76f0b4c1dfe0bef08e3adef97e3f874
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

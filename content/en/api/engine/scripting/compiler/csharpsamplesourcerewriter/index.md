@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scripting.compiler.814f1b60b90c377e
 symbol: engine:Inno.Scripting.Compiler:T:Inno.Scripting.Compiler.CSharpSampleSourceRewriter
 title: CSharpSampleSourceRewriter
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Compiler
 apiSurface: source-clr
-reviewed: 49877fefc27fca583cfc2a3484cc746ebd3b17dabf2f02eb075e1bf8dc93f356
+sourceFingerprint: 88c4bb3d9a14061fca5457b25611c86c65c62efa94d898ae133cbb7e06501f0c
 contracts:
 - project.inno-scripting-compiler
 

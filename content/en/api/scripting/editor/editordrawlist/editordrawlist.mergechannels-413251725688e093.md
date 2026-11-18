@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.413251725688e0937a2207d02335991c813fa483dfbad0cb29c098e95e4b2a95
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorDrawList.MergeChannels
 title: EditorDrawList.MergeChannels
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 0f5103c3a01bcc90cc60e8a548cb44482e699d818ab2280d4cc4b773c1333dff
+sourceFingerprint: 64daddc211d2e1afde1f5dcdc4423b3ccea24d74f0971810b158e0f8ea7136d5
 apiScope: Editor
 contracts: []
 

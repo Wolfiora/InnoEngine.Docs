@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.f082ad8cdae2f4d7
 symbol: engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.GeometrySection
 title: GeometrySection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: c344ec1cc4ad3ecb94274efc9a214f60b542b30da2fbf24a60c8c3ffbb0a1ad1
+sourceFingerprint: 4b734cda0b3641126e321f648e10b5797a76c67a5f4b5982a021e8672bd684ed
 contracts:
 - project.inno-rendering-assets
 

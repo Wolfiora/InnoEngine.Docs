@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.956242a650d3fd2ccb19c8ebadbe164232d409f739ef7810c28917600992df2c
 symbol: engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphDocumentCodec.Encode(Inno.Core.Graphs.GraphDocument,Inno.Core.Serialization.SerializationRegistry)
 title: GraphDocumentCodec.Encode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: source-clr
-reviewed: bfd6af003a13539fba9f58807710e8bbb8cad25a417eea75a3845c9c223f6425
+sourceFingerprint: 7b210a7118bb57d5e0e2814fb3736681dd6a7423ee466a40c853844d10892e6b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

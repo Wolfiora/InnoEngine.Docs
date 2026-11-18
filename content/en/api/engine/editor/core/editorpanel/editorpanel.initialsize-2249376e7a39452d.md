@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2249376e7a39452d34b2bd53c60a7ee28e849737a792adea47201aa2b88c6e35
 symbol: engine:Inno.Editor.Core:P:Inno.Editor.Core.EditorPanel.initialSize
 title: EditorPanel.initialSize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: source-clr
-reviewed: 99dae319b1e40455107d0674385a45f03ae0a6a27a9db9f424ab36547dc728c8
+sourceFingerprint: e7d473b8b3e2a4aa3976fd685556e971a416645d18da48ab945a6aa326fbe0a0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

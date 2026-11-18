@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fe2512ff28a1ef358f7456ce65471965124a50c5cb7deb578ac5dc72ca15d2ae
 symbol: engine:Inno.Runtime:M:Inno.Runtime.RuntimeManifestEnvelope.Encode(Inno.Runtime.GameRuntimeManifest,Inno.Core.Serialization.SerializationGeneration)
 title: RuntimeManifestEnvelope.Encode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: 91993409e41728db2c01b546a5cad2bc364b106d9740d1a69b77be8a3b0f8d55
+sourceFingerprint: 2049bfb6e1c2bd2faf90bab690893d03544fe23be32f1d262264e753ef7bbf4b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

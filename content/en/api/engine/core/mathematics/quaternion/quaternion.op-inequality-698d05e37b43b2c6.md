@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.698d05e37b43b2c65fc8469b4c2eef3b0ce947e88fb12628f728158bbf682da5
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Quaternion.op_Inequality(Inno.Core.Mathematics.Quaternion,Inno.Core.Mathematics.Quaternion)
 title: Quaternion.op_Inequality
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 524592f6e38369f82d509a12ffc9b7f879a7c830001953cea5a56bad8bbc97a0
+sourceFingerprint: 29f3400a0bdbe79437ded03dbf4f9aa229c7f44885ac6cb9bc8e8345a16852b2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

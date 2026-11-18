@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.player.runtime.90cdaf3284e7a878
 symbol: engine:Inno.Player.Runtime:T:Inno.Player.Runtime.PlayerApplication
 title: PlayerApplication
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Player.Runtime
 apiSurface: source-clr
-reviewed: d3eae8a4a952d8309935d695be75fa66048a0d00ca565c35eaf395a42263f88e
+sourceFingerprint: a42a839335fd928415b7be854851c04fcb69a8662c2fd5c6fe6bd3e274ae2d7f
 contracts:
 - project.inno-player-runtime
 

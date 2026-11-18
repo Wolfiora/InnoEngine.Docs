@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9279e551a5f3480680a52cdd49e8f406640addb7a873deacd36bf5e53a239faa
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDropResult.Equals(System.Object)
 title: EditorDropResult.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 7054512c341a07447efe89eb2cf72e38d62afb9f5ac32b3de36900aace4b6f16
+sourceFingerprint: 7054512c341a07447efe89eb2cf72e38d62afb9f5ac32b3de36900aace4b6f16
 apiScope: Editor
 contracts: []
 

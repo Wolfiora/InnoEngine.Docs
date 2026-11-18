@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.188097ce98cbb1fb4cddfc127c28e0db0a457d958d3bd0d8e989120513836b64
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorStyleMetrics.scrollbarSize
 title: EditorStyleMetrics.scrollbarSize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 121069aa623e7083c21913d18677820288cb9929f50bbfb0f68956f20aafa752
+sourceFingerprint: a2775010f466668e358170b257e32679ddffe203b3d3fc42cb9dc33d53dc6a53
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.settings.runtime-script.19993000a3289c8b
 symbol: scripting:Inno.Core.Settings:T:InnoEngine.Settings.ProjectScopedId
 title: ProjectScopedId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: editor-script
-reviewed: bc6a7870c743df60dd64052708f1c098818076fc8ff52e4283ccd4eb72e3ab8d
+sourceFingerprint: 08f214d538ed56029a36ccb26927cbf37db3ac8805adf3e7fadf6348c5435a96
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

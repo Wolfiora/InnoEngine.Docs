@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1856ba088ed52071e855f8769163d87c7509caa3b5006aae03a75ee2c952f8bb
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.FileLease.Dispose
 title: FileLease.Dispose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: ef8f0ed1236adab23c299ca2f519a64ba24eed6814343d96d7a66886a6c13227
+sourceFingerprint: e17d4497dd66b1473c9b85eef90a3fe32bb2b2d81533b7a10816dfff1eda8126
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

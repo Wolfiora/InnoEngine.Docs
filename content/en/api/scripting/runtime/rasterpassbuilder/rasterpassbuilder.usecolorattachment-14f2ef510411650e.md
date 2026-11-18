@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.14f2ef510411650ecb3d782d61c7db1d3ed2ad6448cc131d4a95a04fee4f0f53
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RasterPassBuilder.UseColorAttachment(InnoEngine.Rendering.RenderTextureHandle,System.Int32,InnoEngine.Rendering.RenderLoadAction,InnoEngine.Rendering.RenderStoreAction,InnoEngine.Rendering.RenderClearColor,System.Int32,System.Int32)
 title: RasterPassBuilder.UseColorAttachment
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: a6b09a6eaf377b7581c51d356e694efe6edf35537c0c68dade10a84e66cfba92
+sourceFingerprint: 8c5e8fe2989abb0087c2aa09df382e172ada31d332a0c87e46f8d8710674aea2
 apiScope: Runtime
 contracts: []
 

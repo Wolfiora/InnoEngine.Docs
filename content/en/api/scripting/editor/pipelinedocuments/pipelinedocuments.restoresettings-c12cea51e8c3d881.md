@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c12cea51e8c3d8818dc319145f90827d5c29f0d46e1fe88740893a8d5559fac4
 symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.PipelineDocuments.RestoreSettings(InnoEngine.Rendering.SerializedRenderExtensionState)
 title: PipelineDocuments.RestoreSettings
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: c6caa6229dba78e1fc60211d80f04e0e85921e38359f4f3938428252f524cb07
+sourceFingerprint: fa1b98c813b5f0e1077c7e15824d6d4427a45242afcade29b497781f23a59488
 apiScope: Editor
 contracts: []
 

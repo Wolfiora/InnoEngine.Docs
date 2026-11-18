@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cce6cfd3ab6e071eca690075d86b21ac3257cee79cbae1d0dbbda101eca2183f
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPassBuilder.ReadBuffer(InnoEngine.Rendering.RenderBufferHandle)
 title: RenderPassBuilder.ReadBuffer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: b92db8984d44237ec867a9fef881043ca7dd9c72b23f5158637349243401487c
+sourceFingerprint: 56bb8c374027a3c4eb8f493448ade7c3fa0e56f314b76024661eace47b1f3b2d
 apiScope: Runtime
 contracts: []
 

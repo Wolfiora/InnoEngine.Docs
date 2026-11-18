@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4124dca69075a7ddc161c84da181ff594cf16efa858e748e3da47075bd405bde
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.Release(InnoEngine.Rendering.RenderPersistentResourceId)
 title: IRenderResourceService.Release
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 170644ac9f26660f388e80b53ff7e846ea5c20f8bb9807a413d7488859f83a46
+sourceFingerprint: ef0437df7e719a8b61611332e63f365165c15971e6fbc668cd35f0c362b483e1
 apiScope: Runtime
 contracts: []
 

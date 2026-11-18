@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.coroutines.7b1f6d5740602968
 symbol: engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.WaitForSeconds
 title: WaitForSeconds
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Coroutines
 apiSurface: source-clr
-reviewed: 1dfd6c2412520006db21d9b9f0671218e06343a8118af898d83cab482eb04228
+sourceFingerprint: 872e3ebffb3636d747476e959cc57af67ab372fa6f7a63214ceacb59d8becce7
 contracts:
 - project.inno-core-coroutines#execution-and-release-contract
 

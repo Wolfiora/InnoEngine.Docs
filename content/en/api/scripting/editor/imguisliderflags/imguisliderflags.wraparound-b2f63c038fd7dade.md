@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b2f63c038fd7dadef990496c046b075a1c9b6e02cf7397a32e19ad14f9546fc0
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiSliderFlags.WrapAround
 title: ImGuiSliderFlags.WrapAround
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: af6a13a90bdbc5984211d367542d351b60961ec88fefd915bf8da4b536899744
+sourceFingerprint: e304b194ca8ae6c2eab0e0b14e217bf15f4e86bcdab91f57ef23a67888653e42
 apiScope: Editor
 contracts: []
 

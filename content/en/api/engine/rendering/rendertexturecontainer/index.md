@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.0e2160faf5b379e6
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderTextureContainer
 title: RenderTextureContainer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 1cddcafa71de7877cb215a6d103bfdf352783b307dccb4285db060e50e1cac2f
+sourceFingerprint: 72bfd86b7176325f494566d81dac8d98006918733d0ec03f5e0d42b638a0bdbe
 contracts:
 - project.inno-rendering
 

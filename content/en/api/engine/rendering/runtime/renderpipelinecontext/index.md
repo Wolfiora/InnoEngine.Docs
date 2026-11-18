@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime.0ec8dea9180a4bdd
 symbol: engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderPipelineContext
 title: RenderPipelineContext
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: a2ea3f060a3bb88277fcfd229fef9519aad2a59258450778fab491c0fc4759a7
+sourceFingerprint: e708cb82eec81fdaa315f129fd984a8ab3d57734d7cc6560e8620c08ce4e26c4
 contracts:
 - project.inno-rendering-runtime
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d610cc7ffb3109b96a747d660baa01e4d236dcdb100de3b376b6903a3cfeb61c
 symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderGraphNodeInterface.createPath
 title: ShaderGraphNodeInterface.createPath
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: 0c081f235c3e6c6f9c024422de1c885a6f89eafa953e4675321d70235e809c9f
+sourceFingerprint: 5a38213817f551fb6a3ab9924cf6e993717e505c1567165df3d905e15a2d701d
 apiScope: Editor
 contracts: []
 

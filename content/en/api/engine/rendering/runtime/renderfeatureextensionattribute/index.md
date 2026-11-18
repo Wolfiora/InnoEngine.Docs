@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime.0c30728ce3360219
 symbol: engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderFeatureExtensionAttribute
 title: RenderFeatureExtensionAttribute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: e52e8129a9bc541b0073becb4dd21a64c6d1d1866b0598f6812921eefaccf752
+sourceFingerprint: 18718d2b43e97aa7350875d9177a2be3e9d73c49590a368914fcbb07a4341e35
 contracts:
 - project.inno-rendering-runtime
 

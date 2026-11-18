@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0f30080c21d087b9906354b864602423f9476a5f2306be6529b9530b43cade57
 symbol: engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildDistribution.ResolveNativeProduct(System.String,System.String)
 title: BuildDistribution.ResolveNativeProduct
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Composition
 apiSurface: source-clr
-reviewed: 5e090c6054468cc08fab77ec99d8c99d231b8444425e29347db7299add6390e6
+sourceFingerprint: c89ce92b75c3995b03d344b5b5bf8a92ecd299677fd05884d8b6a9eba8a57ade
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

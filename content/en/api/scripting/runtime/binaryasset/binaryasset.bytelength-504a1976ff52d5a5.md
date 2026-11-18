@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.504a1976ff52d5a59f52deaf474a1421fd2fba5657959c72673346614d9e702e
 symbol: scripting:Inno.Assets:P:InnoEngine.Assets.BinaryAsset.byteLength
 title: BinaryAsset.byteLength
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-reviewed: 8d3659fd1c4a9006b8b647573d023521f6cb5d74cd149535a62468333fff6e75
+sourceFingerprint: b6cce0c6cb711ff8675a26137337c4178c10b24f766a63f9ec3c784546118cfe
 apiScope: Runtime
 contracts: []
 

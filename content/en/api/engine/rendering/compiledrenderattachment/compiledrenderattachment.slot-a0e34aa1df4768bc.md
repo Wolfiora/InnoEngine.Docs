@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a0e34aa1df4768bc6b78dea65b2510da52ce7789b2a08c102f36d97d69945d3a
 symbol: engine:Inno.Rendering:P:Inno.Rendering.CompiledRenderAttachment.slot
 title: CompiledRenderAttachment.slot
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: f954d47e3da7439569637dd5569903e171c0208f9db21fcdbab45c2537a4fdb8
+sourceFingerprint: 2b9bc957fbb9751da87e244450e012a8cb84af3f172a9111319584f38a70ac4a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

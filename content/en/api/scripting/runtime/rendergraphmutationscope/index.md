@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.586621e9879d4158
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderGraphMutationScope
 title: RenderGraphMutationScope
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: fc33265f65177b807df9c06b90584f145fd8f78ff7c45f189b1400d463debc5a
+sourceFingerprint: 0097a375c9071de8ae1233c91e35e0e15be2f1e677148572d2031ba406f335eb
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

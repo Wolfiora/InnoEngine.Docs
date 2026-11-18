@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c90e36e47bcb4879e707ffb6a37189ea6f0f6f926895ba8aa3092c0e44f63ddf
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.MeasureText(System.String,System.Single)
 title: ImGui.MeasureText
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: cae51e53f5922a0587d9524d8c767ee2117cd83e1344875fc85069fe0013c2cf
+sourceFingerprint: 3c667d14938bc40b1c0a6f86e08d23b798bc5cc43b9c4a38f9144fa97ce78c43
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

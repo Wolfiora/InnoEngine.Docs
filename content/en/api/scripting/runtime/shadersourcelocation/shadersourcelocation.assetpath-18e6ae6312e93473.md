@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.18e6ae6312e93473520b64b3954e2aa590dd86bee4dfd338afd2bd77e7cc37d1
 symbol: scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.ShaderSourceLocation.assetPath
 title: ShaderSourceLocation.assetPath
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 17f67e8f9257f9621a217df6e0794cc5ea338f3f431b8b703dce1d6c6630c655
+sourceFingerprint: 8aaa54f16d837036e12e8dfefc06dceebe85ae7675830691413893037e261dd3
 apiScope: Runtime
 contracts: []
 

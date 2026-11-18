@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.a7c84da2367010a7
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderBlendState
 title: RenderBlendState
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 6e76b528f62987f739547f489e557d3b74f48f7ded62a56c210433398fabd454
+sourceFingerprint: 7214eb736bf965239ed534b50e1025000a893086612c413d4d81a4dd93c3654a
 contracts:
 - project.inno-rendering
 

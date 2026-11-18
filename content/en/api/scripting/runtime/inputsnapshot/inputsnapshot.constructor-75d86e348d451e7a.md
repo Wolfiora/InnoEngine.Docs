@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.75d86e348d451e7afb39415a68886f33c7f7e96c5da5b1e519d08820011e6aa8
 symbol: scripting:Inno.Input:M:InnoEngine.Input.InputSnapshot.#ctor(System.Int64,System.Collections.Generic.IEnumerable{InnoEngine.Input.KeyCode},System.Collections.Generic.IEnumerable{InnoEngine.Input.KeyCode},System.Collections.Generic.IEnumerable{InnoEngine.Input.KeyCode},System.Collections.Generic.IEnumerable{InnoEngine.Input.MouseButton},System.Collections.Generic.IEnumerable{InnoEngine.Input.MouseButton},System.Collections.Generic.IEnumerable{InnoEngine.Input.MouseButton},InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Vector2,InnoEngine.Input.KeyModifier,System.Collections.Generic.IEnumerable{System.String})
 title: InputSnapshot.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Input
 apiSurface: editor-script
-reviewed: 52c41f1bebc2e21958eb7c202d9681b68a1ac8ba876ce52749ef86474fdf9e82
+sourceFingerprint: d11d666818b671ad7a7f5aec3c8c3bb4248085fcf292540111794fd2e8c6708a
 apiScope: Runtime
 contracts: []
 

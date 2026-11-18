@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4132f721e0570347848a523ec4be461772e8431d6e1cfafc1d1ae134ed1ac0f2
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorDrop`2.Query(Inno.Editor.Interactions.EditorDropContext)
 title: EditorDrop<TSource, TTarget>.Query
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: 27788b16d446aaf0ca524a5597e67a50982e1b145cf23b48e0fee79551ba8058
+sourceFingerprint: 4c4df6e2f64dde069536cd786a9d86c268b9da1c80ad56cfa76b574fa076ea9f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

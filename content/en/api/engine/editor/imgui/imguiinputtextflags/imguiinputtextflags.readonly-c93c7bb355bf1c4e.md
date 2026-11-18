@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c93c7bb355bf1c4ec37d184bbca7592d43c5bbc54846a696b29714460da27a77
 symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiInputTextFlags.ReadOnly
 title: ImGuiInputTextFlags.ReadOnly
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 73665bbb68077f9c99303074e6edd808453adfabde4c811d951a2b165333ac4e
+sourceFingerprint: 89544f6a0060c1dc01079f59683caae90332f3f45af1649419f6cd6141356437
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

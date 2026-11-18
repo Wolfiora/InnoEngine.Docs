@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.505b27188badbfd6b4507ea9a246ba0c73be838c1e6f7f2faf0daaf23afa7e6f
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTabItemFlags.NoReorder
 title: ImGuiTabItemFlags.NoReorder
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 48eaa563bae172c94ec5ec60fffc508ddd838da49ce2e84c94a6094019ee7eb2
+sourceFingerprint: 5f576ccd1b35af7bfb538e8f4e216efdecafc86cfedd66e8c32b82f3f6cd4ed3
 apiScope: Editor
 contracts: []
 

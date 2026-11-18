@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.21fd41f65fe50ccd48ccc31617157a5662874bf956d03021acf71489944fe6b1
 symbol: scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.EditorAssets.EncodeNative(InnoEngine.Assets.AssetObject)
 title: EditorAssets.EncodeNative
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: editor-script
-reviewed: 6f4a7b88be7dff83360400ca4ae65748bc1367da5e3c13e88ad323adf46d4c9b
+sourceFingerprint: 992d2aa9e207e38d65fdb5bb8d34d394def47d6339c36cd45a24cf14c935ddf4
 apiScope: Editor
 contracts: []
 

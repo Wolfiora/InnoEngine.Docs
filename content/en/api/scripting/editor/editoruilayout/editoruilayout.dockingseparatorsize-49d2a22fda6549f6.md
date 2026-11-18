@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.49d2a22fda6549f6e398aae7c471f8f7795e221d71841f671875adf80ffecb01
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorUiLayout.dockingSeparatorSize
 title: EditorUiLayout.dockingSeparatorSize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 19296ca1cb16468ec9d1c380806e137569d0f8ca50a42d231d4f4a23e96ea35b
+sourceFingerprint: 801ad015bd839b17f98bf8750f7af6f8a3907f3552c6b7eb129d1971fd433a45
 apiScope: Editor
 contracts: []
 

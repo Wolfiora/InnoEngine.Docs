@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.animation.runtime.a104264a6ecd53f3
 symbol: engine:Inno.Animation.Runtime:T:Inno.Animation.Runtime.AnimationBindingRuntime
 title: AnimationBindingRuntime
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation.Runtime
 apiSurface: source-clr
-reviewed: c68c1d8e1bbd439c76628fd00e5d678cf0b05285009749fa9324503e499416c3
+sourceFingerprint: bd09d911ef682e87a92ef370b7d413265ba05de7100d96adb6ed798b5644dd04
 contracts:
 - project.inno-animation-runtime#playback-and-update-contract
 

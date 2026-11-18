@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.player.runtime.57d300520a527e31
 symbol: engine:Inno.Player.Runtime:T:Inno.Player.Runtime.IPlayerContentSource
 title: IPlayerContentSource
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Player.Runtime
 apiSurface: source-clr
-reviewed: 743547ed4451866c2fa62b02bfa467cbc8abe14054d617841503f77433488fc8
+sourceFingerprint: ebc6350bebea34e2fb66cc833291311180443aa1ebdd14e92a4827125cedba9e
 contracts:
 - project.inno-player-runtime
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4603fba95e48a3b0bad7063bd2e538ee914f5901f1dae4f9199d4a61fbe0573c
 symbol: scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.EditorAssets.Save(InnoEngine.Assets.AssetPath,InnoEngine.Assets.AssetObject)
 title: EditorAssets.Save
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: editor-script
-reviewed: f4aadd8c3e72b84c15fdbd253b02f2cdf12f47c6aa4750de995a0439744cf621
+sourceFingerprint: 907e0f1f60b162ac03cc8b1a065da79d4477e80e6acd30348c454d2cdd8e279e
 apiScope: Editor
 contracts: []
 

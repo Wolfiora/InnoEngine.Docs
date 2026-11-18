@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.78bf986fe1b58537e33989b1db0e45b27ac271bc032579d5d250070d60925443
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderStorageType.Image(Inno.Rendering.RenderTextureFormat,Inno.Rendering.RenderStorageAccess,Inno.Rendering.RenderTextureDimension,System.Boolean)
 title: ShaderStorageType.Image
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: d02df1ade6b98283d895c8d4314cff05ed77ae53bff6e89f18e1ea59672e8230
+sourceFingerprint: 7d4abf3e91289dd0abd99c20733fd43d9e59fa0f5c07773d1da23b2e55410728
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

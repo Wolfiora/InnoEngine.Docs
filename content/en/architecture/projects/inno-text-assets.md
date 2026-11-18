@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-text-assets
 symbol: project:Inno.Text.Assets
 title: Inno.Text.Assets
 kind: project
 owners:
 - Inno.Text.Assets
-reviewed: ''
+sourceFingerprint: e4aafd595d91879668fede977ff5c514283ad129e378bd81275ce2a8ec53bdea
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

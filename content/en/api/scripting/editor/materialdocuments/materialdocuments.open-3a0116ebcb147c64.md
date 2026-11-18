@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3a0116ebcb147c64044db406a48673453fad164f3bf0d1d5fc4072b18e2ec1a8
 symbol: scripting:Inno.Editor.Shaders:M:InnoEditor.Shaders.MaterialDocuments.Open(InnoEngine.Assets.AssetPath)
 title: MaterialDocuments.Open
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders
 apiSurface: editor-script
-reviewed: 7117b7688b886f60e96a16dbcae44ab9ecfe0314036e4d621e9bcda97753c212
+sourceFingerprint: 595ca469bfa6d94f663ea4c3f3a01485417172e84051dbeb29147dafe5a33a8d
 apiScope: Editor
 contracts: []
 

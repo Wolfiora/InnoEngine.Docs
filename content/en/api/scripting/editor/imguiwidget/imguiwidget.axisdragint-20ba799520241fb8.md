@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.20ba799520241fb84aa94709c2f6467d836a7072b18e48458a03437c0f8c9e2e
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.AxisDragInt(System.String,System.String,System.Int32@,System.Single,System.Single)
 title: ImGuiWidget.AxisDragInt
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 4f8a0729c5ee64f85e41e30b8776af9e25f72c5d28e1fbba5974e64e6df99c46
+sourceFingerprint: 16447371e57413644edc2cb50c45817fa4c3326f99bceb9eae8c19da19a6115f
 apiScope: Editor
 contracts: []
 

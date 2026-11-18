@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.498e629647de36dba05734e78d3eb4fa26c0e2a33ec28a05cb4d362a09e2931d
 symbol: engine:Inno.Editor.Graph:M:Inno.Editor.Graph.GraphCanvasState.PanBy(System.Single,System.Single)
 title: GraphCanvasState.PanBy
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: source-clr
-reviewed: 6417e14d19a3a3dd22035e967c4a36c4d9b26f4d610aa87ceae653d4e2b71112
+sourceFingerprint: 7157b1dc95405175a2a44b20d569e2aad10b5c93543a3f52c5f2fd5885a48eb0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d7bce15ee563ba842088186124bb0d5fa692697c27760460ed36543e22d9630c
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector4Int.op_Subtraction(Inno.Core.Mathematics.Vector4Int,Inno.Core.Mathematics.Vector4Int)
 title: Vector4Int.op_Subtraction
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 180fd92a2799e84662557e89acd121de69678d0675d0622100325978e42d3627
+sourceFingerprint: 667ad7e6d8490ca67aa78409c8022274670d5dbff2b44fbdf50e5f778126881e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

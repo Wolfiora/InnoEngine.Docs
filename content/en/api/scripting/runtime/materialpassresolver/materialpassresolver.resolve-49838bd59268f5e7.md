@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.49838bd59268f5e749acae55865e2e699299ce395e9ceafbc6ceeba8521f1f8c
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.MaterialPassResolver.Resolve(InnoEngine.Rendering.MaterialAsset,InnoEngine.Rendering.ShaderContractId,InnoEngine.Rendering.ShaderPassRoleId,InnoEngine.Rendering.GraphicsCapabilities)
 title: MaterialPassResolver.Resolve
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 6a3957da97f69745a4eca286c743ac77c35b574fa6328e4be1bf6081daa82294
+sourceFingerprint: 1486d0842ab49f95f1198c59603b5eb9a906aeb2ad31c10069f0a726284539a5
 apiScope: Runtime
 contracts: []
 

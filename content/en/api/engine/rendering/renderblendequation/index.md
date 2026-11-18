@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.ab149a9128514c11
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderBlendEquation
 title: RenderBlendEquation
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: ca226edf5abd06f66d78e4cef0109082ce227b3969a725fdb67507c3cbac361d
+sourceFingerprint: c45fdf6e421fafe87a1f5c7bbf9a36571dc15fbd70ea98f0a5d409c219b513c9
 contracts:
 - project.inno-rendering
 

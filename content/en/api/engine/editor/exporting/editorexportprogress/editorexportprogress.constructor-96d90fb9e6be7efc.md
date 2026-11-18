@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.96d90fb9e6be7efcf3fbb4a3a5a6ce873ed1c556e1946e0ad0a6c901a480c2e5
 symbol: engine:Inno.Editor.Exporting:M:Inno.Editor.Exporting.EditorExportProgress.#ctor(System.Int64,System.Nullable{System.Single},System.String,System.String,System.Boolean,System.Boolean)
 title: EditorExportProgress.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Exporting
 apiSurface: source-clr
-reviewed: 4a182042384c47b8c68767ddbbc415d0ec79370fc0ddeffc386c63ddbc34ee85
+sourceFingerprint: bc6bbd37ce729c84c24a0b41427f20d55c8aa9aadcdd0baf1b6590edbd089749
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

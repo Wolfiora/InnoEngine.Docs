@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.imgui.b1a3f28210a7292e
 symbol: engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiSliderFlags
 title: ImGuiSliderFlags
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: ba3f526a1114efc99451bb25ecb1bb6129ad1124df9bc7ed62574208da6495e0
+sourceFingerprint: 3c9f82ee5e5c940102eda0dd06718dc487eed7dd9d2a1b49b7e20e88ce215fef
 contracts:
 - project.inno-editor-imgui
 

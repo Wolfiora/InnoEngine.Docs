@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.591446c0b44b9e4689eefb45b81cad4e5d99801158b8577ccfa8e90d08466f39
 symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.DeleteGameObjects(System.Collections.Generic.IReadOnlyList{Inno.Scene.GameObject})
 title: SceneEdits.DeleteGameObjects
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: source-clr
-reviewed: 90d37a683c657fd66418612b3970dfc10e1c728c9b9bc9af36c0a669ea86e930
+sourceFingerprint: f52c77ef88cc101994edbdd8a7b807251e2274c3a065a4f92fdaf9679e0ca0da
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

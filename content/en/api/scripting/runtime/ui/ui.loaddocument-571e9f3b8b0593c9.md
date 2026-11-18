@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.571e9f3b8b0593c9b38d06442efafbc22b48a2d5d497df2caf225efcf3732383
 symbol: scripting:Inno.UI:M:InnoEngine.UI.UI.LoadDocument(InnoEngine.UI.UiContextHandle,InnoEngine.UI.UiDocumentAsset)
 title: UI.LoadDocument
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 8712b342387a1e199f359c5802e48e69e5e4176652e0024a62e83810ccc458a0
+sourceFingerprint: c3d060a0cfff04f26efee1517a4dc373a21179fefbb6d9f9a57c2dd5ed1bf546
 apiScope: Runtime
 contracts: []
 

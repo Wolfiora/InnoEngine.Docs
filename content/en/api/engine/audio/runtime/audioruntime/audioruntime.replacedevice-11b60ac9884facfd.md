@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.11b60ac9884facfda1a1aae8fba4e937492cd837d71f6f31b85cc3ab1a82d65b
 symbol: engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioRuntime.ReplaceDevice(Inno.Audio.IAudioDevice)
 title: AudioRuntime.ReplaceDevice
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio.Runtime
 apiSurface: source-clr
-reviewed: 922008a9f830b9d5033b736c54f4967b363169f0d7f98f31bff5e54931b09c4b
+sourceFingerprint: a086c2d6b7f94ca736e211d3dec898102b699fddf98481f67f5170d697eaf4f0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

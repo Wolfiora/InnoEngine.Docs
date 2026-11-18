@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.96d8c90a29c09da5f1c747c9f24e5232d34a4afe092945703ba88ede37b58c65
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiSliderFlags.NoRoundToFormat
 title: ImGuiSliderFlags.NoRoundToFormat
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 72384ab8f1c18d2a048399aa2802526601451869a1ae7126ce996cef0cf37d17
+sourceFingerprint: 76d557b903b89e2c8aba167aa78ab7281a1cdea45a6a8202fa70ace8da0af019
 apiScope: Editor
 contracts: []
 

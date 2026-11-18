@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4d2b216f23f2f875cdf6c1c3b0a0b5c3c9b9515daa238bd034a96f488938a2e0
 symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.PipelineDocuments.ReplaceSettings``1(System.Guid,``0,System.String)
 title: PipelineDocuments.ReplaceSettings
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: cf939286639f121fb20aca560812074ccd9864f5f7dce9ceb52415fcd091bdd4
+sourceFingerprint: 6e031a1caa27ecb26e1cd3f5c3d3a0911ab5ade43ad3fa3a893759568e0e50b0
 apiScope: Editor
 contracts: []
 

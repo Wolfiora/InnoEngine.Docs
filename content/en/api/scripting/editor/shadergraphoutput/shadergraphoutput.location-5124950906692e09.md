@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5124950906692e097b8059856c94ea41a110dd7bb285663b466006114fbf7aef
 symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderGraphOutput.location
 title: ShaderGraphOutput.location
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: d2bc8e8f6ff825f640b5310ea1317fb629d078000511ab7edc6d6b34748fa3dd
+sourceFingerprint: 173fd55f7b9d1865deb89c70425115b9ea9438c18d4eec8ee7ab3c8c750d245d
 apiScope: Editor
 contracts: []
 

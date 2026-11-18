@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9d7bed44aa50b3282f37703779feedf4d0a48ab22270076eb00c56ddb665bb4e
 symbol: engine:Inno.Adapter.Platform:M:Inno.Adapter.Platform.PlatformNativeHandles.Equals(System.Object)
 title: PlatformNativeHandles.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Platform
 apiSurface: source-clr
-reviewed: b1ce404b39a21d1d7f2844b0ca1c50021a08299f2abfa838bd94884a2bd212ca
+sourceFingerprint: b1ce404b39a21d1d7f2844b0ca1c50021a08299f2abfa838bd94884a2bd212ca
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ba90565b639f89de8a37b7040caf95983b1fde2e031dacdb5e319d127cc984a0
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.op_Multiply(InnoEngine.Mathematics.Quaternion,InnoEngine.Mathematics.Quaternion)
 title: Quaternion.op_Multiply
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: bcf98e9c7ac7d5a9b8b0739230cc6d46eed93301e2fec1e07ab9df7393c99bc8
+sourceFingerprint: 9c040919fdc2d9a058664e2bc101fb6564634a7f91c90d5bc35c89e6b7ea9012
 apiScope: Runtime
 contracts: []
 

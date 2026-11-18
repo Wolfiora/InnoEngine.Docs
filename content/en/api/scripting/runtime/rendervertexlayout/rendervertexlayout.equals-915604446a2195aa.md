@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.915604446a2195aa9cbb423a7f96e9fae877732922d4d47c3f5e995d6fa4127b
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderVertexLayout.Equals(System.Object)
 title: RenderVertexLayout.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: a4da0fc20f3d6fad8bcc6271af64c4e65143bcce019899122ede89f5c4b5ee10
+sourceFingerprint: c3c4903f579b59a56061b2e472661a40da76e515c592cd2c96af4a1c46a3d116
 apiScope: Runtime
 contracts: []
 

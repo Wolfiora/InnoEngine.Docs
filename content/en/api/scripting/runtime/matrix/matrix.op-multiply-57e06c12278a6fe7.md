@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.57e06c12278a6fe726de879367b3cf4dd09b8d5422cbb23cefeaca989ef992cd
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.op_Multiply(InnoEngine.Mathematics.Matrix,InnoEngine.Mathematics.Matrix)
 title: Matrix.op_Multiply
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 9e0900cdaec3140d7bd9f24aa814f609734c639f90cdd06de9c399ea92996ad7
+sourceFingerprint: f1edd055617600b843f8cca9e0521866fe7422a93d58618e7de1d1476fc8eecb
 apiScope: Runtime
 contracts: []
 

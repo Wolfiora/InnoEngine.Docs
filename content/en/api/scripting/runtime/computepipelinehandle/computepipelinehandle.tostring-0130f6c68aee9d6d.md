@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0130f6c68aee9d6d1b3aa0f0c9dfedda9fa8dc362095ec43052a5800bf2243fc
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.ComputePipelineHandle.ToString
 title: ComputePipelineHandle.ToString
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: b030488e0cb96ab833adfa3f983ffb5c29874b1301b4f687dcdaa4e82503305e
+sourceFingerprint: b030488e0cb96ab833adfa3f983ffb5c29874b1301b4f687dcdaa4e82503305e
 apiScope: Runtime
 contracts: []
 

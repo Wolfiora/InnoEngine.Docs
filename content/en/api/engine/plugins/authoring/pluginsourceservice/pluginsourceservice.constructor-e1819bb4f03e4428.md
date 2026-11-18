@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e1819bb4f03e4428ece146d3118a224d613dc4c51a0181e296a304e48573b9dd
 symbol: engine:Inno.Plugins.Authoring:M:Inno.Plugins.Authoring.PluginSourceService.#ctor(Inno.Core.Serialization.SerializationRegistry,System.String,System.String,Inno.Plugins.Authoring.PluginSourceLimits)
 title: PluginSourceService.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Plugins.Authoring
 apiSurface: source-clr
-reviewed: d70e18b8e9421cea2493660254620855ad3dd7215dfa6e4825d5497484148c1f
+sourceFingerprint: 54ed4e1c021902427363fd42e4313f21e4477e9fd26118e3cb6f1e6a1f68d286
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

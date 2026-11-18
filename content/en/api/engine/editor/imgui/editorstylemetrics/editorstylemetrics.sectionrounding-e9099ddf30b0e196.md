@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e9099ddf30b0e1966225da74aac96deea6d25fbdcc89119572ae43727bc4545c
 symbol: engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.EditorStyleMetrics.sectionRounding
 title: EditorStyleMetrics.sectionRounding
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: c04007337e9cf65ff51e61cfbf3846ce5752e6f97586e0a74209179dc74da002
+sourceFingerprint: 4fdfebd780b521ab0ea6f823c13f52d1aef6c66cb0700141c0c4a05d5f360afb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

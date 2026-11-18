@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3bfdea0fb4e53b5e875ce19a21b69f8e030cf8971f0cff5a3054d7a3f7e5a6fd
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioEmitterSnapshot.Equals(InnoEngine.Audio.AudioEmitterSnapshot)
 title: AudioEmitterSnapshot.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 92c6b0ddeeb6abb0ca818fdbb5cacea249e15896867f44925054f4348218ae5d
+sourceFingerprint: 92c6b0ddeeb6abb0ca818fdbb5cacea249e15896867f44925054f4348218ae5d
 apiScope: Runtime
 contracts: []
 

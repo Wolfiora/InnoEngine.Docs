@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.26b8adec894ced6c8326c0b5cf373e4d0e3606cde4a9a42e6260150fe44e3481
 symbol: engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasNode.#ctor(Inno.Core.Graphs.GraphNodeId,Inno.Core.Graphs.GraphPosition,System.Numerics.Vector2,System.Single,System.String,System.Collections.Generic.IEnumerable{Inno.Editor.Graph.ImGui.GraphCanvasPort})
 title: GraphCanvasNode.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph.ImGui
 apiSurface: source-clr
-reviewed: 35b1911e4c592698fff70b69eaff0f7d69cc0613c3140e4aaafa417ab8b3529c
+sourceFingerprint: 92a8a6446d7d8f24ce0b45730d07b458b768b364eb34655794df475a7f838769
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

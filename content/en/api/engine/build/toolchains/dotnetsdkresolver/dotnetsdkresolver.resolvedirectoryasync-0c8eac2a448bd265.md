@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0c8eac2a448bd265fbdbe02e31c926bfd7829d69c5cdc65f9f26ad450753cf1f
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.DotNetSdkResolver.ResolveDirectoryAsync(System.String,System.String,System.Threading.CancellationToken)
 title: DotNetSdkResolver.ResolveDirectoryAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 363421395cf740e1effd32bd1772661726b2c2fd2a5cff5af5ee654d11f5988a
+sourceFingerprint: 212e0484759c9842a298af7669437a103a3be62e3d3b2b5df23625fae40ecad2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

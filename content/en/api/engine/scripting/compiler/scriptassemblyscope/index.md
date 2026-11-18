@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scripting.compiler.1044e5f0b1f28b08
 symbol: engine:Inno.Scripting.Compiler:T:Inno.Scripting.Compiler.ScriptAssemblyScope
 title: ScriptAssemblyScope
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Compiler
 apiSurface: source-clr
-reviewed: 1c4704b956c397c0304359d222ebc9e248415580078277a56cef10c2dbbbb34e
+sourceFingerprint: 5de054f0e4b134cbb972c820713cfa6616e4e482f377c8fc6906bef9c6bb28c2
 contracts:
 - project.inno-scripting-compiler
 

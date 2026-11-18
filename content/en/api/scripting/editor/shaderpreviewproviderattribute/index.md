@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.shaders.editor-script.61041feb8576bee3
 symbol: scripting:Inno.Editor.Shaders:T:InnoEditor.Shaders.ShaderPreviewProviderAttribute
 title: ShaderPreviewProviderAttribute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders
 apiSurface: editor-script
-reviewed: 855433942a4c049d3194a408b7284da6d97364ea1623373dd9424041b99d1722
+sourceFingerprint: e9e339be00076a263e175ba0aeadc01f1472ce6fb71c649e539b7fb179280d53
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

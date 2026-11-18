@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2910298a0286d8e12afc03f70c05da417942ddd62bd4e16c202f5ce3636ad442
 symbol: engine:Inno.Core.Collections:P:Inno.Core.Collections.DependencyGraph`1.version
 title: DependencyGraph<TKey>.version
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Collections
 apiSurface: source-clr
-reviewed: 19d866dc9bcc9d9dc7e99c80b5a3545b15c4d29b32560fd34bfdc3431a1f4505
+sourceFingerprint: 9efe0b90f45d76f6d5f566ebfbe0df96d4923a7eb3c553f0c846145866ba061a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

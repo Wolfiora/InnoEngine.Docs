@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.702c68d13c3e9a20a4983ac9569a55b72523aef8bf7443d21a58d35b90c4c3a4
 symbol: engine:Inno.Runtime:M:Inno.Runtime.GamePresentationSettings.CalculateViewport(System.Int32,System.Int32)
 title: GamePresentationSettings.CalculateViewport
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: 5b501bd00449b6dea1d858c64f1d4b94015cdc564b444339ff86acb5fd55278b
+sourceFingerprint: 8424d48db30a1ca6104b2f25a7814f422ae079457c169ef24eeafc3f5e3e9baa
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

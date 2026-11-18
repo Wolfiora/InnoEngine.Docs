@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9ac424ff474c33737485d6735461b5e64f50f9538afc1df13346c452bc7f90ff
 symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.LogSessionId.ToString
 title: LogSessionId.ToString
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-reviewed: 2512da8ec2ad38260ace980d0b59235b3a7740cf0ab8f94484ad46595eff5dee
+sourceFingerprint: e46dfe8cdba9726dbe18210b8385fcfb64c63d242f3cdd527a3001e410aa4f1b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

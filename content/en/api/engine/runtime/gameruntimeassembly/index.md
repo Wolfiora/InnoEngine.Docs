@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.runtime.01536293a9a3df7a
 symbol: engine:Inno.Runtime:T:Inno.Runtime.GameRuntimeAssembly
 title: GameRuntimeAssembly
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: e5d33eadb5486c20c87299f68717998acbd7688ad4d528f0cc14ecfb2b91772f
+sourceFingerprint: 1322d1171a091a49c314d81349c7361b4c5e71c346c495faf5bf71b6f2c916b3
 contracts:
 - project.inno-runtime
 

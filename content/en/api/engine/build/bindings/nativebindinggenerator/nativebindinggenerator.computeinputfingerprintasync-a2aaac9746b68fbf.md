@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a2aaac9746b68fbf669bdac0fce0d64574337d235666e8af8099a60ce40f92f0
 symbol: engine:Inno.Build.Bindings:M:Inno.Build.Bindings.NativeBindingGenerator.ComputeInputFingerprintAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeBindingGenerationRequest,System.Threading.CancellationToken)
 title: NativeBindingGenerator.ComputeInputFingerprintAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Bindings
 apiSurface: source-clr
-reviewed: db2ecc6390add80b0d6390a87dc84f2fdc64833fd613d4eccc400ab08ea14742
+sourceFingerprint: 87b3bc7a450fa9dffff0ec3270db09f54996ca2960059093533b5e55386529a8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

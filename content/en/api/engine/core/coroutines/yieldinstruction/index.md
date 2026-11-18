@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.coroutines.a46d7a711104ae23
 symbol: engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.YieldInstruction
 title: YieldInstruction
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Coroutines
 apiSurface: source-clr
-reviewed: e6ba2e35f0a85f99212c8dc223de5df9d9d0aed1921e17c41ae1898e0374a47a
+sourceFingerprint: a7c3da63cd27d3cc65cf8cc8fcc3ce20cc25df91c239864e56f355868983aa20
 contracts:
 - project.inno-core-coroutines#execution-and-release-contract
 

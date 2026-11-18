@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c81ac1a1dec9e0c3b4f95fc798140b5987316b37c2204b1d949fe7f57f263282
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.AddRasterPass``1(System.String,InnoEngine.Rendering.RenderPhaseId,``0,InnoEngine.Rendering.RenderPassExecute{``0})
 title: RenderGraphBuilder.AddRasterPass
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: aa7762375929b015dc3654a33221671ff9ce60fd8461cbb186232afc523cff8c
+sourceFingerprint: 17c4f1b0bfc9212c962357e7e1c95b4e4b8ac9f3a7aef46fd226f6c937c4a5d1
 apiScope: Runtime
 contracts: []
 

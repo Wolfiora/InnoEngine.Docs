@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.core-identity.identityallocator
 symbol: engine:Inno.Core.Identity:T:Inno.Core.Identity.IdentityAllocator
 title: IdentityAllocator
@@ -7,14 +7,15 @@ kind: api
 owners:
 - Inno.Core.Identity
 apiSurface: source-clr
-reviewed: dc581947da8b360ba26daa55033ea45c717df9d8f20db0a82ee47202f07f8e35
+sourceFingerprint: 4cba44bdc6109482df37977e345b6d05db8502e82a6a8644e6e8c08e8fdf55e2
+outdatedFor: 41055bec7be316f26aa0fa678b5605a3db3b72a82c0996be50d1785de022172d
 contracts:
 - api.projects.inno-core-identity#lifecycle-and-failure-contracts
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors
 description: null
-outdated: true
+outdated: false
 aliases: []
 ---
 

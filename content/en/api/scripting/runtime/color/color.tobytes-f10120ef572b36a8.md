@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f10120ef572b36a87ae6518247eaed10db155241e73cb7082e86e67119fdac29
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Color.ToBytes
 title: Color.ToBytes
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: bbc4b2e308cc132f4f60eab08e4a8a4b076656440a814b0f31d744db3e0c3974
+sourceFingerprint: 436fc5f54e073296a255b243d437082439f615bcbccc07f0dc0e810bc462f8c0
 apiScope: Runtime
 contracts: []
 

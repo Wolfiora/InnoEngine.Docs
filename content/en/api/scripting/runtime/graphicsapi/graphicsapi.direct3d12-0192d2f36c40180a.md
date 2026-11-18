@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0192d2f36c40180abfbfd9af725ac596ad60a48b2c0b728f712bce0c4bf9847c
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.GraphicsApi.Direct3D12
 title: GraphicsApi.Direct3D12
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: d55b6cdd0d9798b9c87ecbeac1c10c35b4c80a408df68a631fe58321001e64b2
+sourceFingerprint: ddbf91541717d3c1240293bea103055c8140f487c37996efedaaaef3e02e0eee
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5cb689deeeed25827d28797a0af5c9974a0d0b7a02a4449ca964f12bd2f8e449
 symbol: engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderGraphArtifact.Capture(Inno.Core.Graphs.GraphDocument,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext,System.Func{System.Guid,System.String,System.Byte[]},System.Threading.CancellationToken,System.Func{System.Guid,System.String,Inno.Core.Graphs.GraphDocument})
 title: ShaderGraphArtifact.Capture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
-reviewed: 6584dd483f0ba1b512aeaa67c1ae5ad882174ef611a027d2bec87a4e1312a2a9
+sourceFingerprint: e08bbb407af7a5d87e2afc700921e1c9322cf1d71df835642bf3296ab22147f4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -119,9 +119,8 @@ if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.ar
     const option = args.shift();
     if (option === '--engine-root' && args[0]) engineRoot = args.shift();
     else if (option === '--bundle-only' && !operation.length) operation = ['bundle-only'];
-    else if (option === '--review' && args[0] && !operation.length) operation = ['api-review', args.shift()];
     else if (option === '--sync' && !operation.length) operation = ['api-sync'];
-    else throw new Error('Usage: prepare-catalog.mjs [--engine-root PATH] [--review REGISTERED_API_MARKDOWN | --sync]');
+    else throw new Error('Usage: prepare-catalog.mjs [--engine-root PATH] [--sync | --bundle-only]');
   }
   const cancellation = new AbortController();
   for (const signal of ['SIGINT', 'SIGTERM']) process.once(signal, () => cancellation.abort());

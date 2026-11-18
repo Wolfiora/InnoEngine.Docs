@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.18a44efe12ef2bcf0b6112aaa70bad3e0fcb4e2b47196416147aee7ff7ec274f
 symbol: engine:Inno.UI:M:Inno.UI.UiDocumentAsset.CreateRuntimePayload(System.String,Inno.UI.UiDocumentSource,System.Collections.Generic.IReadOnlyList{Inno.UI.UiDocumentFontFace})
 title: UiDocumentAsset.CreateRuntimePayload
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: 87c35b5bdd768be82b7800abced3f6f354bc7c79e5d5711d2fc16826eddf85ba
+sourceFingerprint: 50d99451c3f37eac9d3eb17e8f64407ab86b6bb599ee7e4bdd0581e4fe220d1a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

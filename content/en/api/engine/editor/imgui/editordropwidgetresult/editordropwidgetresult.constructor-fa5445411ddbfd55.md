@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fa5445411ddbfd558ccbbd4898b56dac816a6365ab2b0c2c2c94b0b3cfb69a19
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorDropWidgetResult.#ctor(System.Boolean,Inno.Editor.Interactions.EditorDropStatus,Inno.Editor.Interactions.EditorDropResult)
 title: EditorDropWidgetResult.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 888dfdf84108cf51a261026dff66aa2e41e99ddad1a10587794295ccde52d357
+sourceFingerprint: 1d8f7937386fd32c85736a99a5e7954ee03819af94a25f198d1ea68daaf70afc
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d53d35f7d15130a6ae73e7e28b2808816b35fbb82964d97dbe66594178b64194
 symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackRequirements.#ctor(Inno.Build.BuildTargetId,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Collections.Generic.IReadOnlyList{System.String})
 title: PlayerSupportPackRequirements.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.SupportPacks.Core
 apiSurface: source-clr
-reviewed: 1c7ca32558e6e3d90d30b9987529fb8a42b8f7b6a39de49148031113b37b19cc
+sourceFingerprint: c36fe38b45c4c3cf81915bea6dcb0754705509a6c7d85da018bababe0983d9c9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

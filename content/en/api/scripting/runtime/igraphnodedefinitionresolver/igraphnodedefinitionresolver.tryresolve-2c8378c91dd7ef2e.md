@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2c8378c91dd7ef2e193c9afefe43fb314f7a190458bb971259c5fbae86cc5e53
 symbol: scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.IGraphNodeDefinitionResolver.TryResolve(System.String,InnoEngine.Graphs.GraphNodeDefinition@)
 title: IGraphNodeDefinitionResolver.TryResolve
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: 557be94aaf54e9b1c8410dab3022329418f2f8a6c577b7cb99ac21f79860d1fe
+sourceFingerprint: 2fa9211fce8e6701444fd5f64f38fd77dc37e78ba5a5f4cd9a6fdfb188553ec9
 apiScope: Runtime
 contracts: []
 

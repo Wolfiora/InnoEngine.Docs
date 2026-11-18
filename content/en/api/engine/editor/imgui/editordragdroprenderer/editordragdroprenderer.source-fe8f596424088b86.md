@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fe8f596424088b86b692289f3503062370f8986cd725ecbcd3a1cb2c3e2b1a68
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorDragDropRenderer.Source(Inno.Editor.Interactions.EditorInteraction,Inno.Editor.Interactions.EditorDragData,System.Action)
 title: EditorDragDropRenderer.Source
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 8d36e320ee8ccd56e8c0c904a920e2b4361280e5def2b0e364f68cd3a587e053
+sourceFingerprint: d4056390c17887c8adde336bdec26eee468c277e4a9ace6b5ad5fc3196a9f140
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

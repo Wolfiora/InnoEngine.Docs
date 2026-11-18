@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d3f2b15062da3b0f80887f4c1ed44dc055567c878560f0d4a3d1a5d3b6b8ce4f
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderTextureDescriptor.Equals(System.Object)
 title: RenderTextureDescriptor.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 0f0761919155de8d0e72fc6e5732eafaa55637c3126ab8a8426e0554f7a64b46
+sourceFingerprint: 0d4c92993d7a4256419475bd1ae738fcf73f642aa24e00ab0e396775c8faeb4c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

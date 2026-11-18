@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dcf411bd77c7a279b1d7a7df00e06213e870fd9e658e578efc7c96d9e0a36d24
 symbol: scripting:Inno.Storage:M:InnoEngine.Storage.IApplicationStorage.ExistsAsync(InnoEngine.Storage.StorageKey,System.Threading.CancellationToken)
 title: IApplicationStorage.ExistsAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Storage
 apiSurface: editor-script
-reviewed: d3b4049b0142d68133876c13439e01c881c4c19be87871c08edf6a4dc05fb5e0
+sourceFingerprint: 08c81a4123d4036e8b73af021b4c333a9f8e9e8f20a2a2df8bad3c540ce49a3a
 apiScope: Runtime
 contracts: []
 

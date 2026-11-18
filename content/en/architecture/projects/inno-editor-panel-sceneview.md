@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-editor-panel-sceneview
 symbol: project:Inno.Editor.Panel.SceneView
 title: Inno.Editor.Panel.SceneView
 kind: project
 owners:
 - Inno.Editor.Panel.SceneView
-reviewed: ''
+sourceFingerprint: 1952b7bcc9c46c6fda0e96eaa025ea99edea478e47b037beee86c7303171ae6a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-storage
 symbol: project:Inno.Storage
 title: Inno.Storage
 kind: project
 owners:
 - Inno.Storage
-reviewed: ''
+sourceFingerprint: a2afc78c1084a21d1610d5420cf492710543233adda83ce43bcb61b92dc8dcdb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

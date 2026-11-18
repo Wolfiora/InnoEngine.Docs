@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.94e23d62d75d766a36d9a8a40f96a3db4cc75beeb61b2863738670dae45f8e31
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.ShaderSourceLocation.#ctor(System.String,System.String,InnoEngine.Rendering.ShaderStage,System.Int32,System.Int32)
 title: ShaderSourceLocation.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: dd7b2d2a96ecc83a02a8e71c0cbf25e0ea2e2ac7ac909a5a8fb266ce3dca92e3
+sourceFingerprint: d348e976152fe501753d479a7d3ae1685df55248ab2a81d963b683337c404ad6
 apiScope: Runtime
 contracts: []
 

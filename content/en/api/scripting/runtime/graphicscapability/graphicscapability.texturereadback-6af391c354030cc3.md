@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6af391c354030cc312579e2234a044f36a6cfed83824111263f91723344ef850
 symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.GraphicsCapability.TextureReadback
 title: GraphicsCapability.TextureReadback
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 5d30dcd008b0f8d2ab2f5b0e97c37cecf27be90cd87a8e144b1b31739299bb0d
+sourceFingerprint: 96ad0e31673c3bb60f7b44eb8ffd07e8764515240f9c69d10fe04f56cc371942
 apiScope: Runtime
 contracts: []
 

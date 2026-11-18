@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8bfca89b8cfb48d465618512168eed431efc5884033ee8f60547d6619fe36f6a
 symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiChildFlags.AutoResizeY
 title: ImGuiChildFlags.AutoResizeY
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 11fec6a7b335452608ed088aba46cc4c5c73938b824e2cdacdac33a4452b241f
+sourceFingerprint: 1bc0744b7321cb926075271f76a2bd39d48495a8c9c6fbc8e3ad58db8b24ea37
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

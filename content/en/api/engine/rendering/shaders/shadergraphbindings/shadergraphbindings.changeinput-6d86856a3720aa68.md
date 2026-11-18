@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6d86856a3720aa680f0e1d5d73fa9c5fb500b64b7575078aeb349e30a1bba19d
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphBindings.ChangeInput(Inno.Core.Graphs.GraphDocument,Inno.Core.Graphs.GraphNodeId,Inno.Rendering.Shaders.ShaderGraphInputSettings,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)
 title: ShaderGraphBindings.ChangeInput
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: a5c64b83d40f5c08b27ff53bddbdc38cf8a7f8621ac292a5df04a9e7c2ddf54a
+sourceFingerprint: 5d1d19b1412424e00ed66286d1b09fca3b7b92b8f51207362fa415c3ff77a483
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

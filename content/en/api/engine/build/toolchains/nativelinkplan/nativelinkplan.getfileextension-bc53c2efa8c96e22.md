@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bc53c2efa8c96e2202ec7e7c766e694919302de18abdbffbd864eaf31e39907e
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeLinkPlan.GetFileExtension(Inno.Build.Toolchains.NativeLibraryKind)
 title: NativeLinkPlan.GetFileExtension
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 4ef175cbdf53f3b3c763e3d2d1c8944f88294beed6ede80d38aa1b848c3ba4a9
+sourceFingerprint: 5f2d86151723404f2a009dca9bd9f2457c9d87a319b48f8fd4669e8480d34389
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8dd2fe23dd8756bcb5b2b4764420a2d61daf049d9ca3b9f7e8c1340523657f34
 symbol: scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.SerializedPropertyRenderer.Draw(InnoEditor.Core.EditorContext,System.Object,System.String,InnoEngine.Serialization.SerializedProperty)
 title: SerializedPropertyRenderer.Draw
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: editor-script
-reviewed: f441ece733cdb4cd0c0d4810c309fa26566602c0144e3c40b79d787d6030a19e
+sourceFingerprint: 821fccc786ff2c077222e4f3afff1ec4058beae9e1f708a8b9b2ec96cc080e86
 apiScope: Editor
 contracts: []
 

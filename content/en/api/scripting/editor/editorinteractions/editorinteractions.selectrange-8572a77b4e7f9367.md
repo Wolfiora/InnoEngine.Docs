@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8572a77b4e7f9367161f21e32a031416d98529faf1da71dd2350a73d01180476
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.SelectRange(System.Collections.Generic.IReadOnlyList{InnoEngine.Core.RuntimeIdentity},InnoEngine.Core.IdentityObject,System.Boolean)
 title: EditorInteractions.SelectRange
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 2250ab233ea1392b68fbf329e02ca032a078e6010993cd48de440698af086a83
+sourceFingerprint: 1eb503c2d6f7410d8f9835f08c992ecd853557dc013ec7f75ed17aa0bd52b393
 apiScope: Editor
 contracts: []
 

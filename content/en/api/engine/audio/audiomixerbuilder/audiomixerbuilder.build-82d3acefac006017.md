@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.82d3acefac006017682c07c947fc0995a6c34c3cc70c75d1605811108461c68d
 symbol: engine:Inno.Audio:M:Inno.Audio.AudioMixerBuilder.Build
 title: AudioMixerBuilder.Build
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 3d49f7fa17547ef7f48f57aa9b2db3e7b520a7d3ff56cbb123572bbf1249ebc6
+sourceFingerprint: e06e02d69df9bb403e9eeb98770eceb1c7f796db60261cab7f633bfe3f8b5ba5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

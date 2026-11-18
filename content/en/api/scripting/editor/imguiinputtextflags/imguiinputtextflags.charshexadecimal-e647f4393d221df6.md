@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e647f4393d221df68ec1ed891502a0a4be8e501183138774ae93139a05405fa7
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiInputTextFlags.CharsHexadecimal
 title: ImGuiInputTextFlags.CharsHexadecimal
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 03f6ec107d1e4213e31e9abbe1863543e75d3a6ac6844475b12c15039f117f67
+sourceFingerprint: ce6201f9614b0332a9ce7067198e3d5b820b1c24a9c3f3925823a42797cd4159
 apiScope: Editor
 contracts: []
 

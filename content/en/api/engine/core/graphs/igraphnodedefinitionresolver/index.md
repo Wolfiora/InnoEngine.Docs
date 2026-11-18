@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.graphs.97d8fe14c1fd515b
 symbol: engine:Inno.Core.Graphs:T:Inno.Core.Graphs.IGraphNodeDefinitionResolver
 title: IGraphNodeDefinitionResolver
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: source-clr
-reviewed: 8883e5a22d52959220ed6c8c35de7e6338149989542976aba1382a6ca1783e8e
+sourceFingerprint: f329a1e673966147c40c304e4eb110cdc3924dbce8ba5a50ab3b3e7f440b586c
 contracts:
 - project.inno-core-graphs#document-and-definition-contract
 

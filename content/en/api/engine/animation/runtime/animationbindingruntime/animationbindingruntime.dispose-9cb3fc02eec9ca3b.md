@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9cb3fc02eec9ca3bb1071d4cf19b45b638291a0327df645d15f6ca3c826063dd
 symbol: engine:Inno.Animation.Runtime:M:Inno.Animation.Runtime.AnimationBindingRuntime.Dispose
 title: AnimationBindingRuntime.Dispose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation.Runtime
 apiSurface: source-clr
-reviewed: 41565063c1a0b6c21ed40a11dac95d3b6a5681e276bb110786cdf74618906030
+sourceFingerprint: 3d7e4957b1d99a3bb8e450f8df08d9ca3ff72813dfe6215f06a1cb88e6a802a8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

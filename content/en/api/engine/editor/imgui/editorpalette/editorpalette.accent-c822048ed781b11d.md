@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c822048ed781b11d631c89c68634d8fb56bb9b07a59c2e5061d31ba230dda752
 symbol: engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.EditorPalette.accent
 title: EditorPalette.accent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 19c4be7d6fd62cfc35a3d9c719b40cd8e4c8a785e14d8b5892ef0628ebc37d36
+sourceFingerprint: defc1e6bf3039df507211338344c9363839c0ada8283127b27d3945c60deefda
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

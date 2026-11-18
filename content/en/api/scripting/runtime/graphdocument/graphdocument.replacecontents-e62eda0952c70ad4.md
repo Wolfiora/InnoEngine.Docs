@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e62eda0952c70ad488d5e058cd097c929d2ed36495dc3a292793bf384a67d633
 symbol: scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphDocument.ReplaceContents(InnoEngine.Graphs.GraphDocument)
 title: GraphDocument.ReplaceContents
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: a0f23824b4eb409e14a2ef4e373e68a1bff8358d240bedee9238ed253662eca2
+sourceFingerprint: 0ed319e76354a34341c3ba217c8ccbd6d36a5d0801209c92f88558d9ea6b14da
 apiScope: Runtime
 contracts: []
 

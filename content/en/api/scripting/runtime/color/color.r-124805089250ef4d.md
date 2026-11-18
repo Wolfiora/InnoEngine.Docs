@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.124805089250ef4d81d48afa660712141dd8e6b8e25140a452b4727939c7aad3
 symbol: scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Color.r
 title: Color.r
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: e5ec2986910f03175f58c4cea10f390fa0f567583347c0e25ac02e42ffa5be19
+sourceFingerprint: ef7218fc4a804d4d818002c43e7da11f0027d229192bb746054e9de5ee544868
 apiScope: Runtime
 contracts: []
 

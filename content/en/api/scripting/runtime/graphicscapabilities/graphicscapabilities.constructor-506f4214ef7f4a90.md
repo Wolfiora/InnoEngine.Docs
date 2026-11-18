@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.506f4214ef7f4a901825381e598713d24cf5b958735c7a071e9f9153732e897e
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.GraphicsCapabilities.#ctor(InnoEngine.Rendering.GraphicsApi,InnoEngine.Rendering.GraphicsCapability,InnoEngine.Rendering.GraphicsLimits,System.Collections.Generic.IEnumerable{InnoEngine.Rendering.RenderTextureFormat},System.Collections.Generic.IEnumerable{InnoEngine.Rendering.RenderTextureFormat},System.Collections.Generic.IEnumerable{InnoEngine.Rendering.RenderTextureFormat},System.Collections.Generic.IEnumerable{InnoEngine.Rendering.RenderTextureFormat},System.Boolean,System.Boolean,System.Collections.Generic.IEnumerable{InnoEngine.Rendering.RenderTextureFormat},System.Collections.Generic.IEnumerable{InnoEngine.Rendering.RenderTextureFormat},System.Collections.Generic.IEnumerable{InnoEngine.Rendering.RenderTextureFormat})
 title: GraphicsCapabilities.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 478c86232fea957946408b8e702f42ca456b4d3101ebe3d0784571b2226e6394
+sourceFingerprint: 2a4ac867bbe52e955bc2eeac919d7c0f43d9f2fae296f933eead2c4ea52be5b7
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d03972d39aaa0ff5b9465a84747b6fcd2c179d5338ad34446be2f667479ec120
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.HotKeyGesture.Primary(InnoEngine.Input.KeyCode,InnoEditor.Core.EditorKeyboardPolicy,InnoEngine.Input.KeyModifier)
 title: HotKeyGesture.Primary
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: e8e67b1788eb3e6e0db6c2c15f5939d0444912dea3a2fafe61256623def3c4ea
+sourceFingerprint: f5e2cd15e0e7a25bd5015f70ab83d751ab337836dcb4fd0eb34a316c21150b96
 apiScope: Editor
 contracts: []
 

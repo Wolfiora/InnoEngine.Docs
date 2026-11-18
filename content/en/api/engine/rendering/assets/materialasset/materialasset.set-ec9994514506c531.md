@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ec9994514506c5312e0982a835ffb1dff3c3a76f4ad8c105dbf546768ccd35f0
 symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.MaterialAsset.Set(Inno.Rendering.ShaderPropertyId,Inno.Rendering.Assets.MaterialValue)
 title: MaterialAsset.Set
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: b88e61990af9db02b37e119a4274cbc577a2ac608c50675d2456d653b982725a
+sourceFingerprint: 71c02d274489b1140bf4e56e297cf19a2b48b2bb8013b0d6695b2dbd4a702245
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

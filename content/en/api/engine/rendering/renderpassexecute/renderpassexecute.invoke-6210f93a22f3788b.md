@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6210f93a22f3788b2fc4e91a1a0c19664986a5fe7693fb1867531b8004490487
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderPassExecute`1.Invoke(`0,Inno.Rendering.RenderPassContext)
 title: RenderPassExecute<TPassData>.Invoke
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 8cc92bb0b7d71172c6e6972d78e21c325b515c3c19a42ba0a053273372a2edc2
+sourceFingerprint: e58eefe4302b8781124ca3a1c524a7861cdfe15a319e23d5e28e6de0b5c6e21f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

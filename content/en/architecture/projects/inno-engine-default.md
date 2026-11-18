@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-engine-default
 symbol: project:Inno.Engine.Default
 title: Inno.Engine.Default
 kind: project
 owners:
 - Inno.Engine.Default
-reviewed: ''
+sourceFingerprint: 5404a88f0c515ac84614d619a46bee33a859dd103a4d60d98387225c95f952f7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

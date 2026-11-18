@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.da31643501ed39f5
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderBlendFactor
 title: RenderBlendFactor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 969d4d08fc997fa74ed231096e9f3d59fa05ebf7d3ad4ad0fac538c6c1b3d229
+sourceFingerprint: ddb57871118a7e23114d701ab8d892a2c4f0ca0546cc5dfed4b3244a55f849ed
 contracts:
 - project.inno-rendering
 

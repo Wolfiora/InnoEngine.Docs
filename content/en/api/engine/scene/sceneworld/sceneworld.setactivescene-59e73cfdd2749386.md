@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.59e73cfdd274938699189f5d2e81316eefff8c5437ccbc9584c0891358246038
 symbol: engine:Inno.Scene:M:Inno.Scene.SceneWorld.SetActiveScene(Inno.Scene.GameScene)
 title: SceneWorld.SetActiveScene
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 091b899883a43b9419e746e2004e92d89fa19ed57deeb3dbd72059f45fd5f1a3
+sourceFingerprint: 17d486b45d78db41fc0fecf6fb0b903c8bd53dbe7caf1938b4d917df1c866219
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

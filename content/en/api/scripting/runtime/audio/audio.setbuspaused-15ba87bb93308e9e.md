@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.15ba87bb93308e9e84b1627e4deb1c6c46a5a99ad3d5ea330523d0390fac3c20
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.Audio.SetBusPaused(InnoEngine.Audio.AudioBusId,System.Boolean)
 title: Audio.SetBusPaused
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 19c916c5be0e5c49e469df0db3e8c24185638784c27af670b7e1a023ceebd8e2
+sourceFingerprint: 88c815a0ddce6ede002bc391bf70409910a512f15a4c7b6f92fe0e0161876731
 apiScope: Runtime
 contracts: []
 

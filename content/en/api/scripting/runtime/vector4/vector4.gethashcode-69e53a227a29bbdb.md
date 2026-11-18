@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.69e53a227a29bbdbd4ba356ef128b980a33fe5a915bd468b77127789327686e0
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector4.GetHashCode
 title: Vector4.GetHashCode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 78953981db4e8714ec9c8e75f3a341fc48e72fdb680bb8226b365f045492787a
+sourceFingerprint: 70b2eaca9cc04211c720b47b5b68663b61407f9890d7ff427de34d6a8633981d
 apiScope: Runtime
 contracts: []
 

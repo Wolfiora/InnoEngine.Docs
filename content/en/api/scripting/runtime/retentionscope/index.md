@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.assets.runtime-script.66faaf5a41d90ab6
 symbol: scripting:Inno.Assets:T:InnoEngine.Assets.RetentionScope
 title: RetentionScope
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-reviewed: 28cce836484a55ac05b275d71dfc8afac5c6fc1d60cc660940e6b6a7453f3ed5
+sourceFingerprint: b0cafdfa86c247a19f5b40388b8738b351a20d593ac5a96209c90f99e74f9204
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

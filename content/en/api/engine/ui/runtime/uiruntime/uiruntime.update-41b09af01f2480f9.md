@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.41b09af01f2480f967a029b51ecbd46173cde62bc3c7ffd56595860116d91420
 symbol: engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.Update(Inno.UI.UiContextHandle,Inno.UI.UiInputSnapshot)
 title: UiRuntime.Update
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI.Runtime
 apiSurface: source-clr
-reviewed: 19c218201e2f721184d8451572e192ed2e164112421f4ed09a0b096b455dec8d
+sourceFingerprint: f26088a2673205ec6edabbc64295d926abeb9d9fabfb06a1aaa774226bb20ae9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

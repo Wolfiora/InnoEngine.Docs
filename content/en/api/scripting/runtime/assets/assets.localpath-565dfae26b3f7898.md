@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.565dfae26b3f78988bb158f44d994356f4fcf9c71f1ce9cfc8778c0560fcdec8
 symbol: scripting:Inno.Assets:M:InnoEngine.Assets.Assets.LocalPath(System.String,System.String)
 title: Assets.LocalPath
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-reviewed: 6fb8b6d4c2c16def7fab586cd613eeaab65e3b04a907a8b9b31afbdb04df99ff
+sourceFingerprint: e973ca10f8d63f4c92b616f29f9bd16d070f3789e895dfaa22a9fc297fdef911
 apiScope: Runtime
 contracts: []
 

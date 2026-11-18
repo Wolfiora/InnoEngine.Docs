@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.24fdec400e2383b3eff322d6fabfadf5f8b28fdc7b8757cfbb42802b0dffdf6a
 symbol: engine:Inno.Player.Runtime:M:Inno.Player.Runtime.PlayerApplication.RunAsync(Inno.Player.Runtime.PlayerLaunchOptions,System.Threading.CancellationToken)
 title: PlayerApplication.RunAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Player.Runtime
 apiSurface: source-clr
-reviewed: 3ad555f90e3c6a035a556197273e16fe5c33b54d7fb19315ce792593c34652e9
+sourceFingerprint: 5e6e8e01068a3661ee9146495f6c84ef55349b7c9d1cc0022fb2b6e4e3016155
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

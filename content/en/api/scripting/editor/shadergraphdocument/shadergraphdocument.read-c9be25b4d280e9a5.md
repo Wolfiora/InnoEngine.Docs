@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c9be25b4d280e9a56ef6884119c08eb2b87dc0536632791098c7da768d41cc8d
 symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphDocument.Read``1(InnoEngine.Graphs.GraphNodeRecord,System.String,``0,InnoEngine.Serialization.SerializationRegistry,InnoEngine.Serialization.SerializationContext)
 title: ShaderGraphDocument.Read
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: f97eaf24e44af25ab364763d0c3e89c68fe1000a26483a00b014baba2c6f3393
+sourceFingerprint: 6ae3c38168e13ef05427b608dfadbcbdd0049e7cba8a69812766eb78692659b3
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4dca3a59d9e5f798ae2030efd19242c8c4d57befa19a351b2874696d2bb16a1e
 symbol: scripting:Inno.Editor.Assets.ImGui:P:InnoEditor.Assets.AssetBrowserStyle.listRowSpacing
 title: AssetBrowserStyle.listRowSpacing
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets.ImGui
 apiSurface: editor-script
-reviewed: 94e03a414cbed587f9f590478e6e44f1379d338157028ecbd4ad2c9fbc94153b
+sourceFingerprint: 4109394cbe9df57addf60dd9cf6f2edd07bec97fe3e6998a445b8d9442bb47e6
 apiScope: Editor
 contracts: []
 

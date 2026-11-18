@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.toolchains.814ce92b923df754
 symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBuildFingerprint
 title: NativeBuildFingerprint
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 8ece4a3afc50461a233bc572bd43dd5b9ab19a5f9f4180732159d0e62289abbe
+sourceFingerprint: 0d3c7d2a0fa47ee259ab87caa943067ab3f97467d909e6671fbefbf491434a5f
 contracts:
 - project.inno-build-toolchains
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.11c1cac13f53a0fca1d5fe168dc0577a8852513e30b4d6b84290ea81aaa51960
 symbol: engine:Inno.Animation:M:Inno.Animation.AnimationPlaybackAllocator.Create(System.Int32,System.UInt32)
 title: AnimationPlaybackAllocator.Create
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: source-clr
-reviewed: e708f093a0be7bfbeae7735f2b7f35c8801f4615158e5ccdb9d5278dabb9505c
+sourceFingerprint: 889f17f5ac7169a44902720c42ce952918bbc1f473de5dd64dfab215dc002f53
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

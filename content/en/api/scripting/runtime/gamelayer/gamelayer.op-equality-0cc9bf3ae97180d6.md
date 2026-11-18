@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0cc9bf3ae97180d6a721376ba0defc5473e829d7f86740dbeb39acf114f76d63
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameLayer.op_Equality(InnoEngine.Scene.GameLayer,InnoEngine.Scene.GameLayer)
 title: GameLayer.op_Equality
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 366f17d14290e16c1843cc47f3c8aefdf9b9bb12d42a31dc9299543293b4dec0
+sourceFingerprint: 8ead4815885984f60092e415c83c104738710c36b143b84836d0239913bf9da1
 apiScope: Runtime
 contracts: []
 

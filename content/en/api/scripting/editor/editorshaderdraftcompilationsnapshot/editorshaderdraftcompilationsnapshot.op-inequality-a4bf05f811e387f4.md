@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a4bf05f811e387f44cc9eb062b7c077bcf8636e84059a60de56a61f6952296f4
 symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorShaderDraftCompilationSnapshot.op_Inequality(InnoEditor.Rendering.EditorShaderDraftCompilationSnapshot,InnoEditor.Rendering.EditorShaderDraftCompilationSnapshot)
 title: EditorShaderDraftCompilationSnapshot.op_Inequality
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: a5639eca65f66beaab397d8baec5fbaccb9ccfa3445476b2a5ba50270c2809d6
+sourceFingerprint: a5639eca65f66beaab397d8baec5fbaccb9ccfa3445476b2a5ba50270c2809d6
 apiScope: Editor
 contracts: []
 

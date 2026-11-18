@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.baab71f9df234b244f42de9739ad16532b465f9b142519e0f9ae58eeddb9ba50
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.HotKeyGesture.#ctor(Inno.Core.Input.KeyCode,Inno.Core.Input.KeyModifier,System.String)
 title: HotKeyGesture.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: 1585aad4f1b35f3d711e6f936db16e74762c3b60759716f26c30a7d8a60ed62d
+sourceFingerprint: e651d217ca59a2344818a201602fe1ac301cc1dcb9ae0f92772b338d1f1d7b54
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

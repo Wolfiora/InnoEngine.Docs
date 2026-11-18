@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.text.2f44ed380f86cab5
 symbol: engine:Inno.Text:T:Inno.Text.TextFontStyle
 title: TextFontStyle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: source-clr
-reviewed: f9abc53b48375983aca6fa51755f993ef6562f9ec1ff40067ce19c338c3d282a
+sourceFingerprint: f13262ee651e0df10c25af8a726b4391a4517938d89c49d1a806224e764e490b
 contracts:
 - project.inno-text#shaping-and-glyph-contract
 

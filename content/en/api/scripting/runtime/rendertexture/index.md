@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.e90fe265b5b85bfe
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderTexture
 title: RenderTexture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 942a3bfa67503034d1998a859bebbfae97ed514ac876960683f08b65f814a8b2
+sourceFingerprint: e303dd686df84417b03ab70359f493abe53940cdf25042694c4e33a6c442cd2e
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

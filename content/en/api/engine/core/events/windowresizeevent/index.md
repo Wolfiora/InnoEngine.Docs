@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.events.1cee4d0bebb4c419
 symbol: engine:Inno.Core.Events:T:Inno.Core.Events.WindowResizeEvent
 title: WindowResizeEvent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-reviewed: dd1cc5b3798b0f22a043375d12dcf934cf900f32eca26d9d3191f6511bf09dfc
+sourceFingerprint: 76685f0c8a11bb9e692ad65477d20978476ab75299f2f38cfe55573a98fa96a8
 contracts:
 - project.inno-core-events#dispatch-and-lifetime-contract
 

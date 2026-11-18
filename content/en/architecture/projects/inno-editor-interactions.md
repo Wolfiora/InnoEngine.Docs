@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: api.projects.inno-editor-interactions
 symbol: project:Inno.Editor.Interactions
 title: Inno.Editor.Interactions
 kind: project
 owners:
 - Inno.Editor.Interactions
-reviewed: ''
+sourceFingerprint: 8689705cd28c768b38504511ad673b3eea2ea31e0bdf628ac1818a6ac9d9d879
 contracts:
 - architecture.editor-generations
 - manual.identity-and-missing

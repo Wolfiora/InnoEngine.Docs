@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c2578dbdcb378a0ed74a58a293725e53cc369eb2b04af2b07817276ff2b4ae52
 symbol: engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderGraphArtifact.ReadDocument(System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationRegistry)
 title: ShaderGraphArtifact.ReadDocument
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
-reviewed: 6c840f29943c8d344766eace1decbc8d51a5ee4b73effc265497b8a258cfc770
+sourceFingerprint: 3f19d15b41e77ca2043560951533527844de94ed74d72ac9d677883de4879734
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

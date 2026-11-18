@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.40a0c407843016db1d3162ea07e4a6b8e7437bb6c70fea1a2d19fe68b37bb00c
 symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.IEditorSceneWorkspace.SavePrefab(Inno.Scene.GameObject,System.String)
 title: IEditorSceneWorkspace.SavePrefab
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: source-clr
-reviewed: f03f04445e9b17064e8e5129b1c519a6406782f86da68b1e72ed21b63bb364fd
+sourceFingerprint: 79a850ee3c38750caa4df23cf52afaa2dae99807d3d1a69777f3b88681662781
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

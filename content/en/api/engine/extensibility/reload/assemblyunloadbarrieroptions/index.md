@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.extensibility.reload.0a144a712f7cbd95
 symbol: engine:Inno.Extensibility.Reload:T:Inno.Extensibility.Reload.AssemblyUnloadBarrierOptions
 title: AssemblyUnloadBarrierOptions
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Reload
 apiSurface: source-clr
-reviewed: cb86aa50545f41b9a2e82a72e6945c7190f9929be2f5cbffe05bf94969ba3de0
+sourceFingerprint: dcf108b3899ac7239632b9ba1d67198dfd551c54fd7180a562a2eb256689a9d8
 contracts:
 - project.inno-extensibility-reload#shared-admission-and-retirement-contract
 

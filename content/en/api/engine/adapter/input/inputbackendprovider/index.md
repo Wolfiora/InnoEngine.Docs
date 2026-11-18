@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.adapter.input.d585604caa2a1412
 symbol: engine:Inno.Adapter.Input:T:Inno.Adapter.Input.InputBackendProvider
 title: InputBackendProvider
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Input
 apiSurface: source-clr
-reviewed: 368c099de163846123115ed15cb6e665dffd0910f3386c77f4b07cb71fcb7e3c
+sourceFingerprint: 357ed2125d99224d1e1c49dc3e44d78c1cb6f86ee938d19cb29b473c3a6c0dcc
 contracts:
 - project.inno-adapter-input#ownership-and-threading
 

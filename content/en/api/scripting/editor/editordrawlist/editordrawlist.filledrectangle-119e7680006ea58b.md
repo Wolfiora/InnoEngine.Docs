@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.119e7680006ea58b9947628edcb64fb93dbf1971a5d63c9ae28a0331b1052830
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorDrawList.FilledRectangle(System.Numerics.Vector2,System.Numerics.Vector2,System.UInt32,System.Single,System.Boolean)
 title: EditorDrawList.FilledRectangle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 0ac97eb32e14de08ca8ccbda0f171e8e59c3178b6c5ddb6e7564aac9ca52ee95
+sourceFingerprint: 2ce1ce46bcad6f95ea28ac2ae747328cc4d1b759e5808f2e9f7452ad5451c0f6
 apiScope: Editor
 contracts: []
 

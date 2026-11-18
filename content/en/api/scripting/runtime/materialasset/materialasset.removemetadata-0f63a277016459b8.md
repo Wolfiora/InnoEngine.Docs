@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0f63a277016459b8fd9e311213e214d12e839edb741b0e8651f892e77a65d3a2
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.MaterialAsset.RemoveMetadata(System.String)
 title: MaterialAsset.RemoveMetadata
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 85272c514f1d07d92bd0ccac759cfb284e2274fc229b2b8776bdf6381e4ccac2
+sourceFingerprint: e7eb1644d7f48bd8a2cdc0c78ae4f1f2137c8698d5c1ec60f607db32643f6201
 apiScope: Runtime
 contracts: []
 

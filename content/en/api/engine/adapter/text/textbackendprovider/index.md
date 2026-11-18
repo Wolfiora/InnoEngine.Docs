@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.adapter.text.12af744bfa08f922
 symbol: engine:Inno.Adapter.Text:T:Inno.Adapter.Text.TextBackendProvider
 title: TextBackendProvider
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Text
 apiSurface: source-clr
-reviewed: 854bdf160896843a99b339b2555f518239ea1c3821f051aeaf3184a3df7cea46
+sourceFingerprint: 3a4f280a06cc9f62ed90cbee8c509362eab77e4db0d94ccab47340ffdd3296bc
 contracts:
 - project.inno-adapter-text#provider-and-ownership-contract
 

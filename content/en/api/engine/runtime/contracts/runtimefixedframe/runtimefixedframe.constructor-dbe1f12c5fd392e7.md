@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dbe1f12c5fd392e71ce389b5e8367fb89d1c75b7a884d97d4d35021eaa8ac8d6
 symbol: engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeFixedFrame.#ctor(System.Int64,System.Single,System.Single)
 title: RuntimeFixedFrame.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime.Contracts
 apiSurface: source-clr
-reviewed: f7ca73755ea497184ad8f8925be73001b613f53500976a87f8f231486c0a43b7
+sourceFingerprint: c99c90b21c60c57d861cc117db4412b2349542f267ebdf972bfa8af7119ee41c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

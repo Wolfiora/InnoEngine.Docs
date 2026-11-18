@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.55b876504b67f6cd7071babd1244ccc3bf41f4a5b25679d96532715db3cdbde7
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.SetCursorPosY(System.Single)
 title: ImGui.SetCursorPosY
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 8a7d0288d3a29651e0b7e7221de43aa3028e75ef06ffe0851904ff36f4481a42
+sourceFingerprint: 0954579415d90f5b741a9c0f147ec897268d6d7fb7804ce11d5320118845adad
 apiScope: Editor
 contracts: []
 

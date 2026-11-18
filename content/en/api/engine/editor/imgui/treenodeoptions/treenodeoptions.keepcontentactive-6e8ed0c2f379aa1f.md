@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6e8ed0c2f379aa1f9551b0e46729b85d7c5cd775808010057726614db3b65525
 symbol: engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.ImGuiWidget.TreeNodeOptions.keepContentActive
 title: TreeNodeOptions.keepContentActive
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 396b2731264bc88bd031fba9a6724c0c59e5cd3d9a21d0cb88f93174bf2ad03d
+sourceFingerprint: a42bc959986d445557cded4b65ea2732d086f0e44b2793fe3ce973e5543b5252
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

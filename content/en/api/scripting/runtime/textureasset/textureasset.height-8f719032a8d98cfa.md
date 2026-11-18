@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8f719032a8d98cfa02c2841f090bbca95cee7a64f3fe09343d9eb04d1b8a2c46
 symbol: scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.TextureAsset.height
 title: TextureAsset.height
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 7d91e7134703f70c1055402ae011168332c73efbc5e81595fe96b86f11acf86c
+sourceFingerprint: 39cfec888dbc1ce8004e8a36ca923642d12d4c330dfe3831d82c966af8a12739
 apiScope: Runtime
 contracts: []
 

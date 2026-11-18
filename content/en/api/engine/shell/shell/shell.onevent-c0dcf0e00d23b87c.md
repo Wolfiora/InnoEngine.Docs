@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c0dcf0e00d23b87c8f32378acd69cbeef08234629a67e429649b1581466a5cc9
 symbol: engine:Inno.Shell:M:Inno.Shell.Shell.OnEvent(Inno.Core.Events.Event)
 title: Shell.OnEvent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Shell
 apiSurface: source-clr
-reviewed: fd845b87087ca60c82d957ea97515208c652c2f7c5bd946e72b0da7a32dcb7d7
+sourceFingerprint: 18cd61ded70b36d184fc954460aa03b336b0e6ef7f364d1d437f1f071de17992
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

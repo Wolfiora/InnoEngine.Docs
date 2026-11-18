@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.496cf0808a9fec7578b7faa031f4354d84fd85e62aafc6323387855cca631c3f
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.EditorAssets.CaptureProperties``1(``0)
 title: EditorAssets.CaptureProperties
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: 9b781ade356c5338e803515326d1d03a676b499e8a7c80b623d2ff5a7a799fdf
+sourceFingerprint: 219248318c1c4484ac7ab2edad21ad7ec20f77db268befe375cd3550ad087116
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.948360c330f9eaf5a442197202d3df6cfd65b38be9c6f395b8fd02bfe7e35ee2
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ManagedProjectGraphCapture.CaptureAsync(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.Threading.CancellationToken,System.Boolean)
 title: ManagedProjectGraphCapture.CaptureAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 167ab15d6ffc12f46e368b2a0888b92308d1c243ddaec48cdd87ea7e4aba72f4
+sourceFingerprint: d43a8595347f91be566b94e31753a8effacc50d7358856a1305711d29093890e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

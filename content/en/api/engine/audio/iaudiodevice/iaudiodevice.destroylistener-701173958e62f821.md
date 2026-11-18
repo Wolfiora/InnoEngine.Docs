@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.701173958e62f821c4c95e871639571d1f7df9d5b39297521e53854569d80584
 symbol: engine:Inno.Audio:M:Inno.Audio.IAudioDevice.DestroyListener(Inno.Audio.AudioListenerHandle)
 title: IAudioDevice.DestroyListener
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 58f8dcc9b79d130f0373dc683f89af750658e2b790d91eaea2db7bde1744e504
+sourceFingerprint: ad63ec8e21ceb3f0e38052f54cf4d045210ee947fb1cce87fe988950ab4e24e9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

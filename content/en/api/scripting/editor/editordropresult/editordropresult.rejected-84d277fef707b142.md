@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.84d277fef707b142d3f419c023ad1bcc8f80265e462ba2fb545aea9deaf0efcb
 symbol: scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorDropResult.rejected
 title: EditorDropResult.rejected
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 1b0b99462f48f31632511590422411ce6ea407221350ef81246febeb6d8468d9
+sourceFingerprint: 8c42e60173cf13b61dba4889ecac3a865b1afa7f5acec105bef437344200b807
 apiScope: Editor
 contracts: []
 

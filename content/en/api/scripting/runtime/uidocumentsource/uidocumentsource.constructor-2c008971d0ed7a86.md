@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2c008971d0ed7a86db8b619b4f20537b4b3efa51c3ed7f27f9f9e5da46744610
 symbol: scripting:Inno.UI:M:InnoEngine.UI.UiDocumentSource.#ctor(InnoEngine.UI.UiDocumentLanguageId,System.String,System.String)
 title: UiDocumentSource.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 7456248c35b71766e3100659d4d9ea5856434a264327c43ed6c4c0cd12d1851a
+sourceFingerprint: 091a1f4aa3eef7e8133764a869934316b90ef8423a42ea77a3d76dba04e98818
 apiScope: Runtime
 contracts: []
 

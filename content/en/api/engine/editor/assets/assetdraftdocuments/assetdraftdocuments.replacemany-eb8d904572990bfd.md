@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.eb8d904572990bfdcd624752ef099d633a49ad924f3751ab39e2399c1703c26a
 symbol: engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetDraftDocuments`1.ReplaceMany(System.Collections.Generic.IReadOnlyDictionary{System.Guid,`0},System.String)
 title: AssetDraftDocuments<TAsset>.ReplaceMany
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
-reviewed: 1597e2e2845fbbd4516a2c55e696e715112dc9b8438a8a4ad85924079d4dfd38
+sourceFingerprint: befdd2357eb89056d9dceec0e9df35b5a92c78145b77a13f4f0dc74941a2012a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

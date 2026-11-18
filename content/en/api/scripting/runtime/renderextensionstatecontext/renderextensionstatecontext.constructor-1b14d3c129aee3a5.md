@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1b14d3c129aee3a5e747b936b899445e25907e9a24524c005f0990c1a4c87792
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderExtensionStateContext.#ctor(InnoEngine.Assets.AssetObject)
 title: RenderExtensionStateContext.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 66059bcb96c6e2e1314f6c2b9548455887120f267a0d8604692c206e5d93fb9c
+sourceFingerprint: 5c0b9f8c277d83d3b21b4c4b537b1b526f6032756fe49f41c7eac0ff950db4f3
 apiScope: Runtime
 contracts: []
 

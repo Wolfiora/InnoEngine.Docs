@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.imgui.660c511aa7aef221
 symbol: engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.EditorMenuRenderer
 title: EditorMenuRenderer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: ed1f32a29e669b513aedf57ea4f49e9fedbd8edd6f7d98491614680141c78e5b
+sourceFingerprint: 47ac1ec1e5a20f6e6f4fde3f0983893ed2fe6b7e9cf4f7bc395a3fe529a1f1a5
 contracts:
 - project.inno-editor-imgui
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9b938d383f782a2cdc225bcfc0f57c62d7de3e6c1458f3e10dc39f4f3b6fc66a
 symbol: scripting:Inno.Editor.Panel.Inspector:M:InnoEditor.Inspection.AssetReferenceDropTarget.Assign(System.Guid)
 title: AssetReferenceDropTarget.Assign
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Panel.Inspector
 apiSurface: editor-script
-reviewed: 4ba51f4f645b2f1b88f678c09a2ac3b055469008c18556f331bf2dc9d0f12d83
+sourceFingerprint: b79b5d8be724d3a5e890db5ecb4fdc16efcaf7b0f6304551a5a4655139f28372
 apiScope: Editor
 contracts: []
 

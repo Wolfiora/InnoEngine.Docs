@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3297ef2f26cd6ba54926ce440dedce4dfc13a7308563e78d3adc23c9bb2455a2
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.op_UnaryNegation(InnoEngine.Mathematics.Vector3)
 title: Vector3.op_UnaryNegation
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 0762620d7bc0e718f7f4486910ec6bd3aa39d233ed494b29e86227319964a6d7
+sourceFingerprint: 05e64ad4fa3ddcf39fcca5190cbd599dfe8bb341e82541cc4d0594e7dbf18481
 apiScope: Runtime
 contracts: []
 

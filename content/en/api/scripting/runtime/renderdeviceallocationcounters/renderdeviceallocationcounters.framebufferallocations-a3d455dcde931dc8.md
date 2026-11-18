@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a3d455dcde931dc8582f1e1dc983d662843a66d1e0c22fc9753cc07d9dca0e8d
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderDeviceAllocationCounters.frameBufferAllocations
 title: RenderDeviceAllocationCounters.frameBufferAllocations
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: aa086dac87907dadaf0fc9ff55dbca81f7d6a5df821f6e848f9f325f22564ddb
+sourceFingerprint: ad60877825503956af165473640ab80cb53b3f56addb4e76d8cfe8a947468217
 apiScope: Runtime
 contracts: []
 

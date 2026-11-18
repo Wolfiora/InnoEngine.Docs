@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.459cef3fed71ed57f321d07b4041999bef4be037455f41d9607c7f2f59161d73
 symbol: scripting:Inno.Editor.Graph:M:InnoEditor.Graph.GraphEditorModule.TryOpenDocument(System.Guid,InnoEditor.Interactions.IEditorHistory,InnoEditor.Graph.GraphDocumentController@)
 title: GraphEditorModule.TryOpenDocument
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: editor-script
-reviewed: e68a13b85e71654c749a05e240d3e71f64c5841fc9c280ff0a14e652dab00366
+sourceFingerprint: 89e2df2cf257f48a8c8bc6943a65d85af99dc7f6504c74682c40e75135f66705
 apiScope: Editor
 contracts: []
 

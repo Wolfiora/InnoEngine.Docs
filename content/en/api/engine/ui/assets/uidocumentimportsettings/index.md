@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.ui.assets.8f2ffca915997fe8
 symbol: engine:Inno.UI.Assets:T:Inno.UI.Assets.UiDocumentImportSettings
 title: UiDocumentImportSettings
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI.Assets
 apiSurface: source-clr
-reviewed: 9be68aba5f0dab478ccac93899274a4f3131cbaf436bfd18221696a77fa50cef
+sourceFingerprint: 7880a4a93221e2354694817e35349e6aeb1c087956fe60ad1dac6e89f4278c49
 contracts:
 - project.inno-ui-assets#import-and-generation-contract
 

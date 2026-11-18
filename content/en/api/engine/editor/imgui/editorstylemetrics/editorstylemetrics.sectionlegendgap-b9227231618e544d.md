@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b9227231618e544dde42462790dd27cb8613b6648fd749b7b22abc3a1f682793
 symbol: engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.EditorStyleMetrics.sectionLegendGap
 title: EditorStyleMetrics.sectionLegendGap
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: f42f6ad7cc6fcd1b160b304a89b2952f427450f2b2f8695ae60a14d67d712b39
+sourceFingerprint: b2a9c5722d010436f3c48f52893a6a61546ad89c4c8af6b352d05df21f3628e2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

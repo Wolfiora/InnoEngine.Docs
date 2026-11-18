@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-editor-scene
 symbol: project:Inno.Editor.Scene
 title: Inno.Editor.Scene
 kind: project
 owners:
 - Inno.Editor.Scene
-reviewed: ''
+sourceFingerprint: dfe43459a8f474d354ab33e138e5b4c3df089d1b838820170e879f9a122355d3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

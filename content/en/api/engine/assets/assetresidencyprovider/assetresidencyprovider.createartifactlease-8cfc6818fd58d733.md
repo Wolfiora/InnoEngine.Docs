@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8cfc6818fd58d7339f6841a862f1cd06f4345194496e897863de9558740e97fd
 symbol: engine:Inno.Assets:M:Inno.Assets.AssetResidencyProvider.CreateArtifactLease(Inno.Assets.AssetArtifactInfo,System.Func{System.IO.Stream},System.Action)
 title: AssetResidencyProvider.CreateArtifactLease
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-reviewed: 822e337a957fbbf4aa757137bf2df52edc620415a2b5854a082549ab60fdd3be
+sourceFingerprint: eb74591871fa1d528cce4f9b5e020bcd7a02e9a3f95ff1d5a054fb9e580cbe2d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

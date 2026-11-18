@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fad1c99c290197f67ec1e9608ad04358141d207dfaab825241921881686a6865
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.AtomicDirectory.Install(System.String,System.String,System.Threading.CancellationToken)
 title: AtomicDirectory.Install
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: 093a53694a817440ecaef9d119a5a4234735d15b7f414ccdd4c9b906cf9c3a3e
+sourceFingerprint: d2daa0c0e30039f248657bea349332a76505f056dc17e0a94c94e0fa009a52ad
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

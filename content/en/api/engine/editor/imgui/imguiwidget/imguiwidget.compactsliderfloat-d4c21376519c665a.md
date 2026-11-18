@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d4c21376519c665aa894ceee82adecfad330589bdffbb7c07b5cc143767ff32f
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.CompactSliderFloat(System.String,System.Single@,System.Single,System.Single)
 title: ImGuiWidget.CompactSliderFloat
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 8708fadc9d479d3a2a68504ef0978a8edab936b479599ddd73855bde65d1306f
+sourceFingerprint: dd9fc9ef94d165f8f069dc9557c0aa4ddd533137170a51da39ce6b1111bd36dc
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

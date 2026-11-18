@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6a7eddbaa4c6061d86467cba4661f4d9270fd3faad25c196bf9667767f581863
 symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorFrame.Equals(InnoEditor.Core.EditorFrame)
 title: EditorFrame.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-reviewed: d94c10ed4f380e1d00bec8c2db6622e55b3b27822a6c48be1e4a698040f03b59
+sourceFingerprint: d94c10ed4f380e1d00bec8c2db6622e55b3b27822a6c48be1e4a698040f03b59
 apiScope: Editor
 contracts: []
 

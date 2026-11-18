@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.359265d0f93770d6b8048255a51bada617c470194918b16262ae0c8c3f6b48f7
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiSelectableFlags.SpanAllColumns
 title: ImGuiSelectableFlags.SpanAllColumns
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 4425c2ced25f6100be007d040ad41bc401cb66a1df9e8b6d7bcfb4492820f85d
+sourceFingerprint: d8585336d32c6196e0c47c8b196465fb933b8bc020809fe0437f30f8159f1579
 apiScope: Editor
 contracts: []
 

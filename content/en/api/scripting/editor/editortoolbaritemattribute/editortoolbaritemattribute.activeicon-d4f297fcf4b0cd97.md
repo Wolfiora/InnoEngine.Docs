@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d4f297fcf4b0cd97fb07b935d2f4937a4580b1a64aa719d9424d162a30a62f47
 symbol: scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorToolbarItemAttribute.activeIcon
 title: EditorToolbarItemAttribute.activeIcon
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: daf3312144fc1e8b548f99f38500ea9fc5af1f4c3d81e217d06e9d9037227922
+sourceFingerprint: a1e428bb64fe35d2642e82c4a1f2bffb11a40465748fc53c8fa3dcb98c3ebefd
 apiScope: Editor
 contracts: []
 

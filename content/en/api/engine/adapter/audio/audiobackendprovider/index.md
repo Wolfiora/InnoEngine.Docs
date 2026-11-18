@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.adapter.audio.ab7b1a41e14a0c0b
 symbol: engine:Inno.Adapter.Audio:T:Inno.Adapter.Audio.AudioBackendProvider
 title: AudioBackendProvider
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Audio
 apiSurface: source-clr
-reviewed: 685e74229e8b42a3523e3660cf0a1c3bd023ba919253bf7b6ef79066e0099ab3
+sourceFingerprint: 8e77c7d32f89c4d316677485206bb9e2811c4c219fabc742dcba80226d43c601
 contracts:
 - project.inno-adapter-audio#provider-ownership-contract
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0fdfe93d61ec6c8133ba74c9f126fcb232699f7dd92abc92da31692fedbbb2b0
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.DrawIndirect(InnoEngine.Rendering.RenderBufferHandle,System.Int32,System.Int32)
 title: RenderCommandEncoder.DrawIndirect
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: d65c566e42d11d126d27c58cd66c4440b32b2372b3f3874aa037466a2a65df24
+sourceFingerprint: 041aa8c407e598ae58570f733f99be9a47fbe67b828e37f6bc27ae36fdb17c16
 apiScope: Runtime
 contracts: []
 

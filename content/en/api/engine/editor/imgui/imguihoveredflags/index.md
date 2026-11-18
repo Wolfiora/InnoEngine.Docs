@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.imgui.7b0ba52b51b75a93
 symbol: engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiHoveredFlags
 title: ImGuiHoveredFlags
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: cbf3472767c8eb5ce3579dfd90d0af9678099bc30f40bf518fcfeed387e92e0f
+sourceFingerprint: 456fd66942ddbbc090180cedb9ffc2cd3a847a7e0a0a3d1745ac1134ccaa08a3
 contracts:
 - project.inno-editor-imgui
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5c280c258517b5c7f8dc4bbeb029bee8bc86e59d2acbb0f8d7c21a6cab870223
 symbol: engine:Inno.Storage:M:Inno.Storage.StorageScope.Equals(Inno.Storage.StorageScope)
 title: StorageScope.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Storage
 apiSurface: source-clr
-reviewed: 5b115712e70747baf446dacb6525f9c2d80beca9a9328c774245af95e2f3513e
+sourceFingerprint: 5b115712e70747baf446dacb6525f9c2d80beca9a9328c774245af95e2f3513e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

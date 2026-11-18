@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.supportpacks.core.d28d7ced5151e52e
 symbol: engine:Inno.Build.SupportPacks.Core:T:Inno.Build.SupportPacks.PlayerSupportPackClosureValidator
 title: PlayerSupportPackClosureValidator
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.SupportPacks.Core
 apiSurface: source-clr
-reviewed: bc8b2afbaf0c929cb4cf55d0bf0e4ffd21d7119e238be3fb71fb61b80b50a069
+sourceFingerprint: 3bec67c4408b01f25c71a4d361640b1611bd939b198e74fbdba30780e28a6cf6
 contracts:
 - project.inno-build-supportpacks-core
 

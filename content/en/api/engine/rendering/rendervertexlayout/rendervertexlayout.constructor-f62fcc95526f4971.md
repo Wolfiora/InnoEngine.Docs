@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f62fcc95526f497199ff95b03acf3c18896c4f6d9a98f26f32f81d456c032559
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderVertexLayout.#ctor(System.Collections.Generic.IReadOnlyList{Inno.Rendering.RenderVertexAttribute},System.Int32)
 title: RenderVertexLayout.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 0b37295f5a661506235ee581b3b7fdfd09727491909e45dc438bc3f08d4fb70e
+sourceFingerprint: 5f0d913a523ad0ddc77dd082a4a193287fef48bed0969a660c6df171d7c8b1eb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

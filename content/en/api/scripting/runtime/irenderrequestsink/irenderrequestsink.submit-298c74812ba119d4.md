@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.298c74812ba119d45daac8a77dd080b4cd8310ccc615667e788f30c5f38927a5
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderRequestSink.Submit(InnoEngine.Rendering.RenderRequest)
 title: IRenderRequestSink.Submit
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: c63d1dcaa065bb4a4e7127c39fec763f22bbe509f1c5b51868059a8997ed65fd
+sourceFingerprint: de455b7f43ecd1e11e6e1fd3d2bc045d28ad52fe33c18940ca05d6cf3d90861b
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9c3fa856b40791eeabe70ce27ff398bf1579002d05dbcb564d25bd0c4e04760f
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderTextureDescriptor.GetSubresourceLayerCount(System.Int32)
 title: RenderTextureDescriptor.GetSubresourceLayerCount
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 30b47de3e33a5b91119d36d39d52c8e2d02b2df75d8cbc24a47054b9e53bd65f
+sourceFingerprint: 0c55ffebb4b4726deabdfbba68b2da12e9c9a776bb67f7769149c07020a1dee2
 apiScope: Runtime
 contracts: []
 

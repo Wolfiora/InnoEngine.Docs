@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.622fc7f91ce895da4b3f5efc632c8ce96cd6778c6cbf22dbb2657c5aeed94708
 symbol: engine:Inno.Assets:M:Inno.Assets.AssetPath.Equals(Inno.Assets.AssetPath)
 title: AssetPath.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-reviewed: 942e35759beccaa4cefeb22c0c0a1e74525dd65601f3431cac2bb75743be4f10
+sourceFingerprint: 942e35759beccaa4cefeb22c0c0a1e74525dd65601f3431cac2bb75743be4f10
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

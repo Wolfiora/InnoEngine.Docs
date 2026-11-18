@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.70ec2bf132f6568634af7837878b70056a9230ad3ac0e11e26c823a28e11e3f5
 symbol: scripting:Inno.Editor.Graph:M:InnoEditor.Graph.GraphDocumentController.Paste(InnoEditor.Graph.GraphClipboardData,InnoEngine.Graphs.GraphPosition,System.Action{InnoEngine.Graphs.GraphNodeRecord,System.Collections.Generic.IReadOnlyDictionary{InnoEngine.Graphs.GraphNodeId,InnoEngine.Graphs.GraphNodeId}})
 title: GraphDocumentController.Paste
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: editor-script
-reviewed: 0d0ad8ad342325c32d4d1b75693e87f0b7aca62527b70becd66bcce8521a36fb
+sourceFingerprint: ce2241779e45faf35d850e7087c47fcf2daee359c96d29bdeaa3307d5729da90
 apiScope: Editor
 contracts: []
 

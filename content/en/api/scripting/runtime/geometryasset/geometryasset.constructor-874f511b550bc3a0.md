@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.874f511b550bc3a07385790a1391c9d19aa316eccfd31e05861f4f1185a14b66
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.GeometryAsset.#ctor(System.Int32,System.Int32,System.Int32,InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3)
 title: GeometryAsset.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: be6df99b92b2063048ff3367612428a7d51fc83e5f6cafefc3ff8c13e48d640c
+sourceFingerprint: 23ae5aa3714aa869c46b2953339adb4138c816d6d3b160177e1f23f4886e5891
 apiScope: Runtime
 contracts: []
 

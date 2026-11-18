@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.distribution.standard.ea6d9e002cae9c43
 symbol: engine:Inno.Build.Distribution.Standard:T:Inno.Build.Distribution.Standard.StandardBuildCaches
 title: StandardBuildCaches
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Distribution.Standard
 apiSurface: source-clr
-reviewed: 35082db62bc1c5c703171f92691299167250fccacb68863a9e48f1e32a9fb077
+sourceFingerprint: 9fc3dd46a853db6c5ea122637c1ee9cfdae25cd70d4a7cf0c1106a8cfd0dbeda
 contracts:
 - project.inno-build-distribution-standard#cache-and-workspace-ownership
 

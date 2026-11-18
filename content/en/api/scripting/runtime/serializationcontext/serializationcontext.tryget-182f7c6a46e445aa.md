@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.182f7c6a46e445aa6fca103e44dcd47ea7be2f2a652d664fe996ad787e973cf1
 symbol: scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationContext.TryGet``1(``0@)
 title: SerializationContext.TryGet
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: editor-script
-reviewed: d4eb0514a8f155b24b6a9552d1d4057c65c04ced0657138ed60cf723f697eb0f
+sourceFingerprint: 85e01acc77c0d37577fcd8ca9a17e0f727f4a39ec3921395bd5d6593622f4c25
 apiScope: Runtime
 contracts: []
 

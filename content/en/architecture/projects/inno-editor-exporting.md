@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-editor-exporting
 symbol: project:Inno.Editor.Exporting
 title: Inno.Editor.Exporting
 kind: project
 owners:
 - Inno.Editor.Exporting
-reviewed: ''
+sourceFingerprint: d0bc3c4354aa5651ac02d492c8ee12222898d93d8c0ef168a7c7148a83a317cf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

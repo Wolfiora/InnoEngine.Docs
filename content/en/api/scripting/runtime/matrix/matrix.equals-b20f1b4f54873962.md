@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b20f1b4f54873962d2914e91a25d5841ea6848479ed8816e868f130830ba8ffc
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.Equals(InnoEngine.Mathematics.Matrix)
 title: Matrix.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 1ebe47de4ce870a7adbf680b852552397b928ae5bf40fb1c51a01470d898f932
+sourceFingerprint: f7c6e1d3f141d60a7b7d74257c4aaf82418786617b0aad1a0a26366ac50faa5e
 apiScope: Runtime
 contracts: []
 

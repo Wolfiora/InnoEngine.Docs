@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.57a69b90e40d98322a117a98b5f78855b1fddb476cdd0105a9de6123e59c07c5
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeCMakeSource.ResolvePath(System.String)
 title: NativeCMakeSource.ResolvePath
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 89e39f6b0958345b72318c68246b8912aa74507327a07f7559f0d9c72ea9e682
+sourceFingerprint: 7efee4c3c22d9f8a28c4ee3edc097710e298b220faac143b92fba0c569f8a8cd
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

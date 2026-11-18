@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.33eb21112b98014f6102a34b234a000f25f9c17dc0d6e71a55c1f171304e4d1d
 symbol: scripting:Inno.Scene:P:InnoEngine.Scene.GameObject.activeInHierarchy
 title: GameObject.activeInHierarchy
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 857818eed72bc851534ea08b60fa42b31c99a9823858e227b4cebda6d5d7474c
+sourceFingerprint: 6eef4ea848f888fbb1c672f9176b7e0d98d79672e712a2d82448eda212172a05
 apiScope: Runtime
 contracts: []
 

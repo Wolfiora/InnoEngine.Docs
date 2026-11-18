@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c64748c945791178593581130ae8372415d0df41e235338f83cae8eecfd055d5
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.PrewarmTexture(InnoEngine.Rendering.TextureAsset)
 title: IRenderResourceService.PrewarmTexture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 7f5d2e9edb26e7d1342fe765de9c522b5c614824caff6e0ffdf2c60df6cc08b7
+sourceFingerprint: 0ea86c88e1d57a1c820a10ff97e51ccef22b5c59d89e77f068aa93abc74412da
 apiScope: Runtime
 contracts: []
 

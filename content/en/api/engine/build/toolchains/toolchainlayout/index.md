@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.toolchains.fd9854ba599fd357
 symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.ToolchainLayout
 title: ToolchainLayout
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 360baf739d507dac701adf3642fb36404f3ed3aac582492e7f66615e6b2476dc
+sourceFingerprint: 69b6b620400a1227278a82c9c9e38a7f6683061e20133a30dc96d6711616fe4c
 contracts:
 - project.inno-build-toolchains
 

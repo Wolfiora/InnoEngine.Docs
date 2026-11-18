@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.shaders.e23a4c6f42c32517
 symbol: engine:Inno.Editor.Shaders:T:Inno.Editor.Shaders.ShaderParameterPresentation
 title: ShaderParameterPresentation
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders
 apiSurface: source-clr
-reviewed: 7236889ac662b35a12a6ee255b47d67c0b37d39fae0d8abd125bfa95caf295ac
+sourceFingerprint: 2c2451cdaf7bb118a6bd4cad4c9e40ebf69658d2e2de6742fb91be3d86778957
 contracts:
 - project.inno-editor-shaders
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.17d97890ebaa89cec13ad9c099d9ad3fd3f339cc1a4f02cde5e9c8b34f769f3e
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryHandler.StateIntegrityFailure(System.String)
 title: EditorHistoryHandler.StateIntegrityFailure
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 1ac72f307508c9ef28e3b30fd9358ecc4cd826930fb34885fa116a2cff3a6ab6
+sourceFingerprint: 9402dcf847b76364ce873b750e99aadc521f905ed3490d13d58dc2ac7b0b0859
 apiScope: Editor
 contracts: []
 

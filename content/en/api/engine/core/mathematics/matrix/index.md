@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.mathematics.950d79d89205df55
 symbol: engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.Matrix
 title: Matrix
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: afe89732111ac5b50816beb77b38547a06636c2e7d5e073e29f0fdc8fc8d6802
+sourceFingerprint: af9a8c34f1aff0747cdcf1e216570645dd188368c61330324b79a5a373060b44
 contracts:
 - project.inno-core-mathematics#numeric-and-layout-contract
 

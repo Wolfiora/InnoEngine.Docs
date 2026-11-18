@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e1cd9126d139505c0d56d5b78446f92911c581d775540e30e30f6c3ec55d20ef
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiColorEditFlags.NoOptions
 title: ImGuiColorEditFlags.NoOptions
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 9efaeb28218f3f33f58246385b7b151b0c3477ecdc225c81bac4c21e55e882b7
+sourceFingerprint: 9ee05bb3a55f8de43dacd6db9566b7d944b934bf4619332c999ac8a7d3eecb2e
 apiScope: Editor
 contracts: []
 

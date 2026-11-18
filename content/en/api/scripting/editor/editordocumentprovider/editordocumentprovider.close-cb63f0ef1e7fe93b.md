@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cb63f0ef1e7fe93b1c9592fcbaf46c3e298eb9f4ded97758628dc16853a4861d
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDocumentProvider.Close(InnoEditor.Interactions.EditorDocumentContext)
 title: EditorDocumentProvider.Close
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 8272e4a083902e54cfd35431bee6341f48d4d3cef65195c5099d3ca7db8eebdc
+sourceFingerprint: c7d79cdb602f42274621b4a1d0c36c002ad92c82dfcffd7deea316ac83d36c93
 apiScope: Editor
 contracts: []
 

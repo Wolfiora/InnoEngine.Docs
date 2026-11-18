@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c7115539dbb44419864e7918551f4c3cd2ff96352cc2d1473bba611e725bf039
 symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.FileLogSink.#ctor(System.String,System.Int64,System.Int32)
 title: FileLogSink.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-reviewed: a3fbd6dbc93ea046af56d75fa6682a0af1ef9f777243a400ef2b070a9fee472c
+sourceFingerprint: 82ccd0a175334bd4b96b41d6ec3f91c5c0bfb30e1289dbcb4f8d10ecdfc3705d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

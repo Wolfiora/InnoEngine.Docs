@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fd6e840859a631340278ffdc468f6d92a24707b945a2cb486451aa181cc7492e
 symbol: engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildDistribution.TryResolveNativeToolchain(System.String,Inno.Build.Toolchains.INativeToolchainProvider@)
 title: BuildDistribution.TryResolveNativeToolchain
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Composition
 apiSurface: source-clr
-reviewed: a095481b23907507304bb6366f6ccb3fe88959522f01c8ad192c36bdb0e32326
+sourceFingerprint: 8163627b76a8e4873778bb849f0d6656c5d37f26cce324a045ecc65812e5c76c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

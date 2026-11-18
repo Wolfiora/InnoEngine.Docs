@@ -13,8 +13,7 @@
     "preview": "astro preview --host 127.0.0.1",
     "test": "node --test tests/*.test.mjs",
     "test:browser": "playwright test",
-    "docs:prepare": "node scripts/prepare-catalog.mjs",
-    "docs:review": "node scripts/prepare-catalog.mjs --review"
+    "docs:prepare": "node scripts/prepare-catalog.mjs"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "7.3.6",

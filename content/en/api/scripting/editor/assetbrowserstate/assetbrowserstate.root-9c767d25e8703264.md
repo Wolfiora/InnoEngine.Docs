@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9c767d25e87032640148a58dd962d8ff60a37cdeece4814cde1119e811f332eb
 symbol: scripting:Inno.Editor.Assets.ImGui:P:InnoEditor.Assets.AssetBrowserState.root
 title: AssetBrowserState.root
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets.ImGui
 apiSurface: editor-script
-reviewed: 543cdd7588f82628433669760d682278c97d0f7c596253afb67b6e73b314f7a6
+sourceFingerprint: c55b358dc35f7213f2d900a6a3abd7a4d53395367195143436f18802402427aa
 apiScope: Editor
 contracts: []
 

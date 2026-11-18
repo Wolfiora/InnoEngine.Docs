@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.graphs.b1c02018fc6a015a
 symbol: engine:Inno.Core.Graphs:T:Inno.Core.Graphs.GraphValidationResult
 title: GraphValidationResult
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: source-clr
-reviewed: fb6f14500a1642659156983cf60d6e8d00054f49dcc89b3399ec821f91d55d91
+sourceFingerprint: 233576b79525540b5ebfe6599c837997cd6f9a3cd0384a8521f3324d85a9bc05
 contracts:
 - project.inno-core-graphs#document-and-definition-contract
 

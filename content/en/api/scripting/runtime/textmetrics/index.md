@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.text.runtime-script.ff9c6dbdd807afda
 symbol: scripting:Inno.Text:T:InnoEngine.Text.TextMetrics
 title: TextMetrics
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: editor-script
-reviewed: 6b80225d7bf0ce082266555ca475ad2fdd635c4d1b24fb84999f53577aa1e2c0
+sourceFingerprint: 23eccfd26386ec235c6f287d0403b8464b8f9d0d7881e4f04df1504479b3f1f5
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.4d1d0749766829c6
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderRasterState
 title: RenderRasterState
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: b0f8a407513cac93899f008c2d97299eafd7ebd529adbdfc13a5768243c6f2b9
+sourceFingerprint: 2fe3503a4090aea3c7feec82fd16ef802429f5cc6e6b9c046b9d31c8b948b6f7
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.annotations.runtime-script.b99890ca836c8294
 symbol: scripting:Inno.Editor.Annotations:T:InnoEditor.Annotations.InspectorPresentationAttribute
 title: InspectorPresentationAttribute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Annotations
 apiSurface: editor-script
-reviewed: 2dcc9bc9a487747c968077807ffb27b884eeae7f4bcb3aeaca384e593589a2d9
+sourceFingerprint: da83bc8d39acc511c47534fbc1b10de49b5fdc592878a9fafc98d16ab1dfe957
 apiScope: Authoring
 contracts:
 - api.projects.inno-editor-annotations#loading-and-script-availability

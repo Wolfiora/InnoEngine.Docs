@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.audio.runtime-script.550ad820be42a2fe
 symbol: scripting:Inno.Audio:T:InnoEngine.Audio.AudioVoiceCompletedEvent
 title: AudioVoiceCompletedEvent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 4fc9d4c4dd10e85fa170f2b5527c9586f01b8440d89e22d1c88445310a99b481
+sourceFingerprint: 09699a22e73d3f3f1ecabd18a4ec82ae401f27e34783890138b0d6385ddef0f5
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

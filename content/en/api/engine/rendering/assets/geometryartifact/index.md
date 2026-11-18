@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.d5275de500e15114
 symbol: engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.GeometryArtifact
 title: GeometryArtifact
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: fd9f9670cb369e1bd15c36a98501d9788f1da00d9e1628fe4c8edb402913ab5f
+sourceFingerprint: ab6bc8305188e427738b5e284d75245cbe70f3acf11784f0fdc2fd57e71d712b
 contracts:
 - project.inno-rendering-assets
 

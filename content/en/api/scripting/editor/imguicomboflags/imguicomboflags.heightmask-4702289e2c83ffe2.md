@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4702289e2c83ffe23caa8f52750676161fb48916177cff5dff5dcedcfed6b9bb
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiComboFlags.HeightMask
 title: ImGuiComboFlags.HeightMask
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: eb533e77ca69cb9ecf0563941a84b00cc46685354b2579e3e744bfaf6f8ca172
+sourceFingerprint: 960e24a2eac7876a600f679236df8341ec4ec499a8776bd156d3e3e8e842e726
 apiScope: Editor
 contracts: []
 

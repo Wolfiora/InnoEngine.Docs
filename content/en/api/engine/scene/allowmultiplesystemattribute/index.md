@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scene.2dd200aed3d3c74c
 symbol: engine:Inno.Scene:T:Inno.Scene.AllowMultipleSystemAttribute
 title: AllowMultipleSystemAttribute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: f7ff666992a7b79f9da9e26ec71b0b87ad29a265e9308de0c38aac4d1dbfdaac
+sourceFingerprint: be3472d75c9a0c37e5bffd51d25288203de4fda30babed198de0497dfcecb49c
 contracts:
 - project.inno-scene#scene-ownership-contract
 

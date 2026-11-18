@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.126c867660fa22755949ebfb9893639bcb8084a7b39bf700a87ee8abd5fb46ec
 symbol: engine:Inno.Editor.Graph:P:Inno.Editor.Graph.GraphClipboardData.nodeCount
 title: GraphClipboardData.nodeCount
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: source-clr
-reviewed: 995b5b2a5f5ed993da17bb69d3f7aba29bad8a8ba9dd0c40b4b1cc30f1e330fc
+sourceFingerprint: 5a72f9f829c15ce018b9ec554a55b58de3c5867cdb1d1fe46e0b938003aec1ba
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

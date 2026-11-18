@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3c7eed4e2eefa3f1b68b335a223bcd152c787b63a75960e808ee97f50db80cf7
 symbol: scripting:Inno.Audio:P:InnoEngine.Audio.AudioProcessorId.bandPass
 title: AudioProcessorId.bandPass
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 5b7916b883e5f169301c2d619e15f7acc4993c2c9dd1fd2899502daf830368c9
+sourceFingerprint: 4f8cf94719c5cff73c5d24b726fb3255f262d9312db81688de9b48ed2d663011
 apiScope: Runtime
 contracts: []
 

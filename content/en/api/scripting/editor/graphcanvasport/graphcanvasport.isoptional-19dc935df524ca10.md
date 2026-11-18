@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.19dc935df524ca10676e1b161a119331de038f3a0ad0ff81220df1059db77a50
 symbol: scripting:Inno.Editor.Graph.ImGui:P:InnoEditor.Graph.GraphCanvasPort.isOptional
 title: GraphCanvasPort.isOptional
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph.ImGui
 apiSurface: editor-script
-reviewed: 3caf32a120127b702c4d3173f28ca6eabed7e5554cf9fb020e95ba27ac62195b
+sourceFingerprint: 12b779ec952fadbc55a90c9b7d8a936b6ec1fb325c8cff20024fe0ce922364ad
 apiScope: Editor
 contracts: []
 

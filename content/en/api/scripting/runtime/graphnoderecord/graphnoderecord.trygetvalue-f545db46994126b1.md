@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f545db46994126b17d126bcc62d6c4f96c6b796fcc19d3cff34571c9ba737e5d
 symbol: scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphNodeRecord.TryGetValue(System.String,InnoEngine.Graphs.GraphSerializedValue@)
 title: GraphNodeRecord.TryGetValue
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: 3d51d3e75808916de9c61acc68474d7ce9e3e2bf6efb6df94b7d3e059794bce4
+sourceFingerprint: c839aa2fc3eeea5ee775b3c7d502ba50e0ac380cfc23679fc37780c3521eb225
 apiScope: Runtime
 contracts: []
 

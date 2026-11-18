@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f5f7597f5eb7efe02c59997f79821ca59b8a0480b16c861165aebe03315399d1
 symbol: scripting:Inno.Editor.Scene:M:InnoEditor.Scene.IEditorSceneWorkspace.SetActiveScene(InnoEngine.Scene.GameScene)
 title: IEditorSceneWorkspace.SetActiveScene
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: editor-script
-reviewed: ea172766c03596b6dfe7d7b5d77aecab54865a7f2b48b4444390237241984cd8
+sourceFingerprint: 4d2cd71805c7b373a5913eafb7ebbbdf17b733daf3666f1af78f335158f70aca
 apiScope: Editor
 contracts: []
 

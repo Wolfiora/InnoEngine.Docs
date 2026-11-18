@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.tasks.56d9cd602fa62564
 symbol: engine:Inno.Build.Tasks:T:Inno.Build.Tasks.GenerateBindingsTask
 title: GenerateBindingsTask
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Tasks
 apiSurface: source-clr
-reviewed: 0d156966cf3266b8d5a3952815661c65c14f562da51ed96ad4f33c19eef124da
+sourceFingerprint: 4b169e6e474aa3c8dce95af725484eb9f8353892aef5a2620d7b663f0aa73182
 contracts:
 - project.inno-build-tasks
 

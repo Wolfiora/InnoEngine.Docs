@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.db40ecbfc95eb56d6c5fd6d407f8872bd4ff94abab53705baf268512360a977e
 symbol: scripting:Inno.Text:M:InnoEngine.Text.Text.Rasterize(InnoEngine.Text.FontAsset,System.Int32,System.UInt32,System.Single)
 title: Text.Rasterize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: editor-script
-reviewed: e9083bf496bc89065d02292fae931e3eea45738e1849100fed41c0a5c640b28b
+sourceFingerprint: e4e025914f271883975cbfa603a40dcf5d68e8397d04ee2b97d709f7c892f3cb
 apiScope: Runtime
 contracts: []
 

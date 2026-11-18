@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ae358663a05c6ed3db2450dbe3d90bbddf941fe6ac239192a980959aaf646178
 symbol: engine:Inno.UI.Assets:M:Inno.UI.Assets.UiDocumentImportPipeline.ImportAsync(Inno.Assets.Pipeline.AssetImportContext,Inno.Assets.Pipeline.AssetImportWriter{Inno.UI.UiDocumentAsset},Inno.UI.UiDocumentLanguageId,System.String,System.Threading.CancellationToken)
 title: UiDocumentImportPipeline.ImportAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI.Assets
 apiSurface: source-clr
-reviewed: 6a07b5b34fd51bfc4654864fbeee9eb1842a375f8d7a1e3294574bc23aaed0ca
+sourceFingerprint: 2b8db4723d4b2755592ab0fa4cdc55ac8e5b5326937dd1cfe28f1aec559f481e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.assets.pipeline.17d56805c35615d0
 symbol: engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetImportExtensionUnavailableException
 title: AssetImportExtensionUnavailableException
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: 418491d42095c4c0eeac1ae174262142505f718314ac61761e6220f075db22a6
+sourceFingerprint: d662796bcb17e8cc2e926e3057edc279a99b4d74fcb5e7e8885aa16cbe625d47
 contracts:
 - project.inno-assets-pipeline
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a50ed8773fe9f7ae2e75084d13bedf802d4f4b7cd11c6fb897b0512e5bab72af
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderView.#ctor(System.String,InnoEngine.Rendering.RenderViewport,InnoEngine.Mathematics.Matrix,InnoEngine.Mathematics.Matrix,System.UInt64)
 title: RenderView.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: e491eed19409b18dccdfcbd3e474c433b6d4040ec8aaf49b9d2508684f07158b
+sourceFingerprint: 2555ca160beab99cd23538f0e14ceeb3dff02664f01d73bccd53e060cff997dc
 apiScope: Runtime
 contracts: []
 

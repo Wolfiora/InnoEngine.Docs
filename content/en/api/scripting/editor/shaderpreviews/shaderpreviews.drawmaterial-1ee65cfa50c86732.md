@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1ee65cfa50c8673232993daa5b40e9b32cc5521ae4dc905daf5bf25d1dcf1052
 symbol: scripting:Inno.Editor.Shaders.ImGui:M:InnoEditor.Shaders.ShaderPreviews.DrawMaterial(System.Guid,InnoEngine.Rendering.MaterialAsset,System.Single)
 title: ShaderPreviews.DrawMaterial
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders.ImGui
 apiSurface: editor-script
-reviewed: e2f69fb04358faab0e516276ed9da374ec61b7a2442a83cef1e041b9705e3294
+sourceFingerprint: b205732731bfee0b0f4e29a3391e3f2687b66b0428bba6c06460539a2a63a51c
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.42a51351da3910aaffae2452c82e753a738906c72c841154db86a0bb735e1836
 symbol: engine:Inno.Rendering:P:Inno.Rendering.RenderVertexAttribute.byteOffset
 title: RenderVertexAttribute.byteOffset
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 98cac83f3b6afb2c5376c3af8305c53e093bf318d903c95120e3601593d616dd
+sourceFingerprint: 4c73ae95875ee67f2525467cbfe592f80f5d0f708515e42c750f8ba3c342c647
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

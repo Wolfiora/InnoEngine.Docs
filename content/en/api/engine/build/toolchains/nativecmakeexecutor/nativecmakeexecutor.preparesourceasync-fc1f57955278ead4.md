@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fc1f57955278ead4bb850cb6a910ae8ae61c0ff5682079227398862feb7dd3c8
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeCMakeExecutor.PrepareSourceAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeComponentDescriptor,System.Threading.CancellationToken)
 title: NativeCMakeExecutor.PrepareSourceAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 24816100b1e09d40b6fe044f30efaf9309af79179f9d22e909ff9f14efddf121
+sourceFingerprint: 806e37feeda507b1ca6ff3f4a7d964e592b68229da6555d44db944a861ef5e2c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

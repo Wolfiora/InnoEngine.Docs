@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.921bc8d7c3dbbb014b1a3d90814cc94828c2fdf43f2010d30a69a434b7762f88
 symbol: engine:Inno.Shell:M:Inno.Shell.ScheduledShellFrameDriver.RunAsync(System.Func{System.Boolean},System.Threading.CancellationToken)
 title: ScheduledShellFrameDriver.RunAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Shell
 apiSurface: source-clr
-reviewed: ab7d3f6938044bf5251e5667c75a070cf3d5d1780bd4ccb960d199917b92d313
+sourceFingerprint: 39d23b091222e0baf3e4f3bd269aad91ce539a464b17801cc060798f1a6cd462
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

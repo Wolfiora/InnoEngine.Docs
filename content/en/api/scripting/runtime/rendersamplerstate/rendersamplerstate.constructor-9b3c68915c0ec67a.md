@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9b3c68915c0ec67a6333942bb293d53f07138afeec245ac5c7b97abb9bbe6a56
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderSamplerState.#ctor(InnoEngine.Rendering.RenderSamplerFilter,InnoEngine.Rendering.RenderSamplerAddressMode,InnoEngine.Rendering.RenderSamplerAddressMode,InnoEngine.Rendering.RenderSamplerAddressMode)
 title: RenderSamplerState.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 860fbad1b062c8e756a66e66f1035af9fca4bdc295f682510d2b75b543046b7f
+sourceFingerprint: dd1d437d7448a78ffa124ee569997acfe1e458f564e05bc7bc49d56161993c84
 apiScope: Runtime
 contracts: []
 

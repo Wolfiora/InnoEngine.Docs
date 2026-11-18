@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.04a591836e478671aa8fbcad85e59356f83d53fef897d2339a7595ff1daeed09
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.EndMenuSelector
 title: ImGuiWidget.EndMenuSelector
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 81b04ff255f272e4bb11e80c3927af89ff29eba98b96a401903531c06dc630d0
+sourceFingerprint: d34b85984ce75ef4ca367516e643215f9916e06331e353b4b1403f79d7ae7340
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.ui.runtime-script.7e71982f7044721d
 symbol: scripting:Inno.UI:T:InnoEngine.UI.UiMeshHandle
 title: UiMeshHandle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 65320aa9245a142e0ea8533b420c20a5c7d0a0eb381b6ac92d7c6371df8a9b6e
+sourceFingerprint: c3fa33929702d60ec09212d7537a8b6da7a45b31cd9bc92a173d6c3590a321b9
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

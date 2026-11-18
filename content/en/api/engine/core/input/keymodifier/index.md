@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.input.f0de48a27308a705
 symbol: engine:Inno.Core.Input:T:Inno.Core.Input.KeyModifier
 title: KeyModifier
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Input
 apiSurface: source-clr
-reviewed: 6110f5a17ec49e23002adef4ace2968311e7bf94bbdb4855495fb78440fd4e12
+sourceFingerprint: 2b83e4275b7e12d2a7b9f9aa737e388e92a8f3293a95766e5061f53682a6d07e
 contracts:
 - project.inno-core-input#input-value-contract
 

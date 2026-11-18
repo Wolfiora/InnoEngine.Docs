@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a9e4c207c41dfb394b15c605a82767b73ef8d6ce8f524f4312e9e6bc848ea03e
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildArtifactManifest.Write(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},Inno.Build.Toolchains.NativeBuildContext)
 title: BuildArtifactManifest.Write
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 9041511ee6bb4ccd52a300450ed026b6a62d47bf8cf4b49c3f2b798528a4e0b2
+sourceFingerprint: f6127defde8d0b843bba43f6b3bd9860ee6a56e508e4c06e82947f84592a06d4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

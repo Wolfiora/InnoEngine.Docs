@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ae6fbc331a5d26a0ac4e672ecfb8113afe2a6078965717dc58d90f0e9a1c0827
 symbol: engine:Inno.Editor.Rendering:P:Inno.Editor.Rendering.EditorViewportNavigationState.orthographicSize
 title: EditorViewportNavigationState.orthographicSize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-reviewed: c132a6b6919c8f80b018cf666a01a4bf2fec9f6b651b9b67ec605614366ae54f
+sourceFingerprint: 47a674d977af1641cd867d08adc9f140f5aaaf1d80c0fd1e448f43a79695505c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.7e940ed1519f0c17
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderSamplerFilter
 title: RenderSamplerFilter
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 63670091b80378d817177680aa745ae2f2b810b7ab78e3c274ac11bd555ade5f
+sourceFingerprint: 787d198fc3b86976000834117efd4aea3c7cd8e6c81a4ff51aab78bce02f8717
 contracts:
 - project.inno-rendering
 

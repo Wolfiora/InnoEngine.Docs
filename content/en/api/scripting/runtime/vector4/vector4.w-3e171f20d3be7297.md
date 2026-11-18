@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3e171f20d3be7297c71e188604baaeada27584985cd3735ad68107171514dab7
 symbol: scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Vector4.w
 title: Vector4.w
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 9d5f7d555684d9e820c2d871e7d52faf0474125919816ea30ec6dd5c126363c5
+sourceFingerprint: a9af3ee2605184b391b4c59e626a21b31c4acb2c989603a988892209a364162b
 apiScope: Runtime
 contracts: []
 

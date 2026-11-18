@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1ec861fb9ca58d85febe130430794f47402dea0b14ad481dd1983c8643adb481
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.op_Implicit(Inno.Core.Mathematics.Rect)~System.Numerics.Vector4
 title: Rect.op_Implicit
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: cc0df3b54c74267f39e8b39292dc16b8468fe9f3b1aae63bb57a222ecec596d6
+sourceFingerprint: 6a9fed3865eb35ff74e1821ec53032c1c74434f227e419defa387b5b4748eeb7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0d08451438150e9acf80224f8d1d7e8fcee825f760ea4e942cdee4b28163c519
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.IsMouseHoveringRect(System.Numerics.Vector2,System.Numerics.Vector2,System.Boolean)
 title: ImGui.IsMouseHoveringRect
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 71b1061c7733ea2f01c494b5c5c777631b4c1dd37aa64005ea79b1fa98c9cdc6
+sourceFingerprint: 71816028d752241317a5c3c3fd9eb54d30aa36d47b3c3ea22877a378d7634ad7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e3921cc62aff694596dde5bcd75ba99686ff24c273f89933f0c6bc18f516d96a
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.MathHelper.LerpPrecise(System.Single,System.Single,System.Single)
 title: MathHelper.LerpPrecise
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 05a3e5b80c30e04dd25dc3507bbc98b3cca69d4d442f38918b5f19ba6ef31058
+sourceFingerprint: 0277188c981e50090e9cbc617993aa485328822cdcf788e9390f0e4b3d55474e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

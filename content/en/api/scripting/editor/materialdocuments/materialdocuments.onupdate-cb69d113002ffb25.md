@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cb69d113002ffb25801a9ae007e6f8251bc71bd81dfab53119c270010c385002
 symbol: scripting:Inno.Editor.Shaders:M:InnoEditor.Shaders.MaterialDocuments.OnUpdate(InnoEditor.Core.EditorContext)
 title: MaterialDocuments.OnUpdate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders
 apiSurface: editor-script
-reviewed: f83a7d0a9a0aa9e595639ef7f692feea6a766355e6f1aa48f0ba0f8ba18d22e9
+sourceFingerprint: 1670901362870604d8d171fb6462f9803cf34dc6793f6686bec00d28ddd92dbc
 apiScope: Editor
 contracts: []
 

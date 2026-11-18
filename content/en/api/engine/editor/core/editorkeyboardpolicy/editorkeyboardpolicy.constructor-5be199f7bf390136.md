@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5be199f7bf390136c2ae597d5914f94faf2cbb9d96e1f2ef5c9e347d33ed97e9
 symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorKeyboardPolicy.#ctor(Inno.Core.Input.KeyModifier,System.String)
 title: EditorKeyboardPolicy.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: source-clr
-reviewed: 7723d7e3deaf58018a58a02b096b71a97f1fbe623d5d27cf56b97211c4701a12
+sourceFingerprint: ae6aa593596877204a5969d665086980609cd7bed0a53cba337da86e0c305b81
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

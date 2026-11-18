@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.aa202180bfe649733e6b97252a61a792123ac621d94ec01f760f194c7d21a5c2
 symbol: engine:Inno.Editor.Rendering:F:Inno.Editor.Rendering.EditorViewportManipulationPlane.Spatial
 title: EditorViewportManipulationPlane.Spatial
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-reviewed: 075bdbb7ed7012e9941d6aea13340cf082a6d6d9164de9499a03c99fab9673d2
+sourceFingerprint: 3e5fd43773e8a5c9a3c7899f8a2d8c4b647d46926cc420dabe3df95f0ea1198d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

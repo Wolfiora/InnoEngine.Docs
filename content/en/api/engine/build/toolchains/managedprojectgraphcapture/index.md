@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.toolchains.e059af60e56f5680
 symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.ManagedProjectGraphCapture
 title: ManagedProjectGraphCapture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: b9863f9739ed92f1345101d6a03d19e3df475b5e25b760190e030a40f1498063
+sourceFingerprint: 407998c9ee2c6f72c14479821709e0237763b6a8231bb5346c61efbfa0e5d51e
 contracts:
 - project.inno-build-toolchains
 

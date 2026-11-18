@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.scripting.ee8f2866ab9a80d8
 symbol: engine:Inno.Editor.Scripting:T:Inno.Editor.Scripting.IEditorScriptCompilation
 title: IEditorScriptCompilation
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scripting
 apiSurface: source-clr
-reviewed: ee4ff0e31a15f0cdf125a8ec2c82b66b4c4972c8cbd82f706c26407c2b955045
+sourceFingerprint: b346b331f3fcd7e29097ce09a0deddad9c3ce607e45febbfa84777ea05710502
 contracts:
 - project.inno-editor-scripting
 

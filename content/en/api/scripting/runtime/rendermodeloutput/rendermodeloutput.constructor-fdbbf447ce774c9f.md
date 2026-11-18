@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fdbbf447ce774c9f9928f6e5fe7318a2f55467d64edafdae475d3bbc06974352
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderModelOutput.#ctor(System.String,InnoEngine.Rendering.RenderPipelineAsset,InnoEngine.Rendering.RenderFrameData,InnoEngine.Rendering.RenderTextureFormat)
 title: RenderModelOutput.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: bc59eec14e6c89854fe440ee3af29b1326fb04b3775e6930b272d42e8df314dc
+sourceFingerprint: 8e876f0094c55541ed33a899b23e695eece141bd37f8ecfa2eeb7dad0641e152
 apiScope: Runtime
 contracts: []
 

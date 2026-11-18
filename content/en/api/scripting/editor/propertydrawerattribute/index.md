@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.inspection.editor-script.f1ccaed7a1176cd2
 symbol: scripting:Inno.Editor.Inspection:T:InnoEditor.Inspection.PropertyDrawerAttribute
 title: PropertyDrawerAttribute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: editor-script
-reviewed: 2929d0a02d8d1b7adea650396de8b67a6765f8431eed45e99c8c8d878b9029db
+sourceFingerprint: 8cac41615e54b49f046080d8210990eb93ccf6a434807d823535930faa6ba8e1
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

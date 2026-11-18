@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-editor-panel-filebrowser
 symbol: project:Inno.Editor.Panel.FileBrowser
 title: Inno.Editor.Panel.FileBrowser
 kind: project
 owners:
 - Inno.Editor.Panel.FileBrowser
-reviewed: ''
+sourceFingerprint: 18e8c87ee0221bddaa07d634021a765f89e4c3c22f408ca839854fce2251e55a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5d2d9b1b995a1d1f9e73eb73348e591baf5bcfa421f68ec0d600ad10949a187b
 symbol: engine:Inno.Animation:M:Inno.Animation.IAnimationService.TryGetState(Inno.Animation.AnimationPlaybackHandle,Inno.Animation.AnimationPlaybackState@,System.Single@)
 title: IAnimationService.TryGetState
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: source-clr
-reviewed: 83ee2c816ae862dbc74f606d5bf82d4753d2022e84f186a64e00c3506f9418e1
+sourceFingerprint: ace56aa42ca63dbdbf2bb2fb3ac019fa2332b07d4e83fded87be3bfb2772644d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

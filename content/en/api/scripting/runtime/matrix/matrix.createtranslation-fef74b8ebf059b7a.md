@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fef74b8ebf059b7ad738e70f670274c9d00695a98774ead3c06030cc375965ae
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.CreateTranslation(System.Single,System.Single,System.Single)
 title: Matrix.CreateTranslation
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 5515578f43c90dfbbd0de18dafd94b9cb879de19f84c5ede514624d4a59ad11c
+sourceFingerprint: ab9fbbc73ed0f734e96c0ba5d2bf2a6ddbe7721e1914496774e5c1bee0839e24
 apiScope: Runtime
 contracts: []
 

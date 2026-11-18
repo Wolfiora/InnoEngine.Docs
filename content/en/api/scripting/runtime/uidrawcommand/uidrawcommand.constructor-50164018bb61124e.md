@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.50164018bb61124ef90bb19d6aa381deebe77b5db90e4a8444a26114e922f5e7
 symbol: scripting:Inno.UI:M:InnoEngine.UI.UiDrawCommand.#ctor(InnoEngine.UI.UiMeshHandle,InnoEngine.UI.UiTextureHandle,System.Boolean,InnoEngine.UI.UiClipRectangle)
 title: UiDrawCommand.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 6de2bb1d85a02b6fc115642f39482fa3c1a1eab2c7a6ea7e3e8c196efee0fe78
+sourceFingerprint: 9e6ce9f0119d017e5b154b74facf06ff9f3f1b8057b1dfd1bcd9bfb0a3b9cac4
 apiScope: Runtime
 contracts: []
 

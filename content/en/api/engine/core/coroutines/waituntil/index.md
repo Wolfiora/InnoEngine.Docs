@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.coroutines.cfdeeefa424095c4
 symbol: engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.WaitUntil
 title: WaitUntil
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Coroutines
 apiSurface: source-clr
-reviewed: 132dec902bc71aff493a2c5d93c56cc61faf6fdee30cee3755fd7a92856ff927
+sourceFingerprint: d9b92091246169a4fc94b02eddac7aa160c99dbb63eaaaaba7eef00c0f684278
 contracts:
 - project.inno-core-coroutines#execution-and-release-contract
 

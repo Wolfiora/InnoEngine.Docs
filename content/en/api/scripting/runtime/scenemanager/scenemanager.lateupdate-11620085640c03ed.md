@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.11620085640c03ed6ece6beba2867d4434550020760fdfdd63f74c294af4ddb4
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.SceneManager.LateUpdate(System.Single)
 title: SceneManager.LateUpdate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: df0777fa6cffe6c6ccd534827e90fedb29d77d5c72307fef63439fa6848edb04
+sourceFingerprint: 7fcf067220302406e4dc76ea75feaa43c3f811372d4b98428f07798053855e55
 apiScope: Runtime
 contracts: []
 

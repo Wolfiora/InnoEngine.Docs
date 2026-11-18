@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime.runtime-script.bc6253b93feff0a8
 symbol: scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.RenderFeatureContext
 title: RenderFeatureContext
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 407701cd21307cc2e7c073ed80987bc6e51ce6144cbe2cd68d1d7053074b73cb
+sourceFingerprint: 3df8279821cad12a35b872fcd7644a02b1d341f916db93790eb04e61b588699f
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

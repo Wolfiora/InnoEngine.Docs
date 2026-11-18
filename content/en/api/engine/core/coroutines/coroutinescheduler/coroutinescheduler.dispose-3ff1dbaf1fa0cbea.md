@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3ff1dbaf1fa0cbea07bfc29ffe0c744dab53f6795871082e0490b53f9b008016
 symbol: engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.CoroutineScheduler.Dispose
 title: CoroutineScheduler.Dispose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Coroutines
 apiSurface: source-clr
-reviewed: f5d9e0faa3c80dc87412710eed65bdafd7aa9d41beee3a825d4d295a11216739
+sourceFingerprint: fc169876567977b047ad73c27994e9423b61b4c5d201ed5b45968dd42585a98a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

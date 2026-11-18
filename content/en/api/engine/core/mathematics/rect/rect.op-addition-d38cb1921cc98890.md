@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d38cb1921cc98890b509449c28dc25b3e47c725da6d6fcaf47c32c0d605fc151
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.op_Addition(Inno.Core.Mathematics.Rect,Inno.Core.Mathematics.Rect)
 title: Rect.op_Addition
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 8944453d421d46c57851cb3d0ffecc32b71f07013b939d4cfd7e9618dd1a7d7b
+sourceFingerprint: 963cfbb7d84768b48b22e8e72fd36025e90a91c232cead43d8a25fbe5ac41ab6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

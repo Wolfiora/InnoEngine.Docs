@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scene.runtime-script.066997beee0bdb11
 symbol: scripting:Inno.Scene:T:InnoEngine.Scene.PrefabAsset
 title: PrefabAsset
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 55b5d856b0e827ee58836a43cc5022ce200578dfbaa4d82e2d6cc1ab5e76d4b1
+sourceFingerprint: f1ac2d088a1b245cf2323f0970d4d434af45d0be07b2f9cec828e84e18d26296
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

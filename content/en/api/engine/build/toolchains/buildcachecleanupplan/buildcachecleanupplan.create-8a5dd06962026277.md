@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8a5dd0696202627733aa00cbab95e2eff83f898a7bfdd018a4667d8a6630770a
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCacheCleanupPlan.Create(System.String,System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.BuildCacheOwnerDescriptor},Inno.Build.Toolchains.BuildCachePolicy,System.Boolean,System.String,System.Threading.CancellationToken)
 title: BuildCacheCleanupPlan.Create
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 1d1220c52ea608e579b7c4331dfbfa5687b0d2e796b54b804b9833ade1f2fbb5
+sourceFingerprint: 6577c599ef89a1a819d4897365ece2792c7da666bd9ae359d67292c3843bd921
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

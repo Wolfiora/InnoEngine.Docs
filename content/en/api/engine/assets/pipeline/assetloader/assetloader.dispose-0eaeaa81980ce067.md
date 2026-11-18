@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0eaeaa81980ce067a748480a4b4cd61dd602c6266388a62241dbbace341f3f78
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.Dispose
 title: AssetLoader.Dispose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: 3bd090ff551e400c05914882c565314dcce26c0cccca4ab82a5f305aaef10307
+sourceFingerprint: 5dd5d00dcd6bde9bede7b412ed1bbbd823af712d5fbc1f79cd7b926ddc281e6c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

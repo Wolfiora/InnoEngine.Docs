@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.adapter.platform.2c6ba4b4de7adc1f
 symbol: engine:Inno.Adapter.Platform:T:Inno.Adapter.Platform.INativeWindowSurface
 title: INativeWindowSurface
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Platform
 apiSurface: source-clr
-reviewed: d6571bbba1c4b15a207a6e90e803d61f29d2281b9187ab28f06912406411c4db
+sourceFingerprint: 7a34b96833d7428b31cb40db07d66c329912266f2b13e05b66ffbf59eb7e327f
 contracts:
 - project.inno-adapter-platform
 

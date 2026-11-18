@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2f76375258e7ae0605ef9fcb276f2744c2bb8027c103aefd4e42666e2a7f8792
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IRenderResourceService.TryResolveTextureArtifact(Inno.Rendering.Assets.RenderTextureArtifactReference,Inno.Rendering.PersistentTextureHandle@)
 title: IRenderResourceService.TryResolveTextureArtifact
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 601e6c5e58ce6c82b63de5b679b3a5fe7fc83ee46c6d5e3b5a1ece05dae5b1e1
+sourceFingerprint: 3a3acc3de15561b51260cf438d3405699863bedcab49875aea5fb50d299e1ca9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

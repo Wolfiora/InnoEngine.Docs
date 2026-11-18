@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cd3dc1a7fb8cca25a5548bf9ae1a3a75b8262334f4400d6281afdf016b760e2e
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.Saturate(System.Single)
 title: MathHelper.Saturate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 53211d71e2359795eef3be6c1ca4083e4b808c1d896c053568ac845309ad041d
+sourceFingerprint: 15eb1dcc659d7ec1ab439e3658cab7b53b6dd3e4d656dbf721344fb4027808f8
 apiScope: Runtime
 contracts: []
 

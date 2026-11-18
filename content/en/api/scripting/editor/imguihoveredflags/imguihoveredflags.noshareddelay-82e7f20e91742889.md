@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.82e7f20e9174288959e56ab2a4841ab2004c440923a0b21619471ccc5d9cc4a3
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiHoveredFlags.NoSharedDelay
 title: ImGuiHoveredFlags.NoSharedDelay
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 7fea8170307a250b1cc47d3424c700b59f9f3324ca3e4f7a8a841217a0604ee1
+sourceFingerprint: 47af6af0eb9b51e6233549b53bb78020de396e8c7d3af4366c65ecdd52e6e701
 apiScope: Editor
 contracts: []
 

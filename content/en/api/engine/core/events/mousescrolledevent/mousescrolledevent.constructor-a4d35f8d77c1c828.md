@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a4d35f8d77c1c828abf435a3d79230852a2db8f5f545e80d01519327a2f6259e
 symbol: engine:Inno.Core.Events:M:Inno.Core.Events.MouseScrolledEvent.#ctor(System.UInt32,System.Single,System.Single)
 title: MouseScrolledEvent.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-reviewed: 577c6cdc1a28bafefbfeb7a44595fc10f00d49e49a7a5e8ac2ac9ba130e64bd8
+sourceFingerprint: 7bf36c42bf37162f0c5c68f196abbfd0eceea6b78b38aef257c8a9f99811794b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

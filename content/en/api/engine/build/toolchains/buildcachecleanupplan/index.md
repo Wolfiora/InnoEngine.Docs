@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.toolchains.dfb3accedee44d1b
 symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.BuildCacheCleanupPlan
 title: BuildCacheCleanupPlan
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: ae3c7a4b885e3b4c7210987081cfdc86211d42ba69a079608dcb6acc15107ca5
+sourceFingerprint: 42fd9084302dc6a67eee19fb72f9c422d4541c48321720d781c3e90137206758
 contracts:
 - project.inno-build-toolchains
 

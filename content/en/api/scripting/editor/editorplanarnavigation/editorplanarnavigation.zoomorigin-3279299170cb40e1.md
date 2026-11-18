@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3279299170cb40e11587fd130ba1da9d2a1a1f6d654667a10a717801491b8730
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorPlanarNavigation.ZoomOrigin(System.Numerics.Vector2,System.Numerics.Vector2,System.Single,System.Single)
 title: EditorPlanarNavigation.ZoomOrigin
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 097c821a892bce16f22f15598e561d236d5ecd3694816bf8b5f51ae1ef1f2788
+sourceFingerprint: 69159eae6462cbade0bac0fba3ce6a08ad92957707beaaf0685eeda984e41a42
 apiScope: Editor
 contracts: []
 

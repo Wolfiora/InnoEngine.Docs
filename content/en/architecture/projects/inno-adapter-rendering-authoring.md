@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-adapter-rendering-authoring
 symbol: project:Inno.Adapter.Rendering.Authoring
 title: Inno.Adapter.Rendering.Authoring
 kind: project
 owners:
 - Inno.Adapter.Rendering.Authoring
-reviewed: ''
+sourceFingerprint: cfe7fac556cfb80e5ab4548e22f348ed760b0218a7c4a3610e617d379365c94d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

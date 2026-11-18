@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a77afa3150127e0ebea9154f98e561e5306719e3adb0e38ee79d98713bfe8b1d
 symbol: scripting:Inno.References:M:InnoEngine.References.ContentReadScope.TryGetValue``1(System.Guid,``0@)
 title: ContentReadScope.TryGetValue
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.References
 apiSurface: editor-script
-reviewed: 1aa92450c7c8a86eaf7ac78d9de6dabfc521208543434b1d068ccc5242dd3746
+sourceFingerprint: 885a0f3332d3e5a74c7648c080dd3b0025dd4f9d1365b73c23b64d71123729e4
 apiScope: Runtime
 contracts: []
 

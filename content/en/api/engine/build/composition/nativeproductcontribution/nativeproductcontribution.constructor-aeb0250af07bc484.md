@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.aeb0250af07bc4848cb002a584974cf4cf57c8f97642fb8c206cd3a8faf85b95
 symbol: engine:Inno.Build.Composition:M:Inno.Build.Composition.NativeProductContribution.#ctor(Inno.Build.Toolchains.ProductNativeBuildPlan,Inno.Build.Toolchains.INativeProductExecutor)
 title: NativeProductContribution.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Composition
 apiSurface: source-clr
-reviewed: 6028077c2a7c8fa909bb52079fb93bf27f6b58dd7a527fc1e98d73e735dc73a9
+sourceFingerprint: 1f04d6768b4f5cb13529e28874055f2b78d95980773247ad8291bb5f8696429a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

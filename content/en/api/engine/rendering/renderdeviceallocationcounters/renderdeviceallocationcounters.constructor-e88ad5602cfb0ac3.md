@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e88ad5602cfb0ac38fee726e4013da19f170bcf2ae206151b897a8a710cc0012
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderDeviceAllocationCounters.#ctor(System.UInt32,System.UInt64,System.UInt64,System.UInt64)
 title: RenderDeviceAllocationCounters.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: e61d8c0a9148d0414380f2a2767090ec6e715cb3b90ecdbca833c1033b7d7847
+sourceFingerprint: 0b1b33495d1325001d69356e9d21935d71f52d48aa17bc8496b8d87058cfa6b1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

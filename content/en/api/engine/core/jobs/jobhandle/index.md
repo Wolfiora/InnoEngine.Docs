@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.jobs.43b1819a53c1f814
 symbol: engine:Inno.Core.Jobs:T:Inno.Core.Jobs.JobHandle
 title: JobHandle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Jobs
 apiSurface: source-clr
-reviewed: e8b188410f83b79301ee60f80ed48d022dbb3b2fe019628699711bef26b38e98
+sourceFingerprint: 947c6aea85045362bdefb262655c09502d7fcbb42a5e2d83db62a5b92b910df8
 contracts:
 - project.inno-core-jobs#frame-and-queue-contract
 

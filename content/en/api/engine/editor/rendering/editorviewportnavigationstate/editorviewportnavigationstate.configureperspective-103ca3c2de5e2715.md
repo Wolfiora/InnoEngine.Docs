@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.103ca3c2de5e2715415c958eb568873869382c0a2c114b15c01e5c2da3cdc3a3
 symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportNavigationState.ConfigurePerspective(Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Quaternion,System.Single,System.Single,System.Single)
 title: EditorViewportNavigationState.ConfigurePerspective
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-reviewed: fbfdc26443eb3c97d5053bd4a8479cccb7756b2b14620c06bd025e952a2e0bec
+sourceFingerprint: 44394574822cd2059e6377962aca2d6e9c4aa421d3607466b5fea2bc70304e88
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

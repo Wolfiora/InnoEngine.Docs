@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1523dea2306e2d3ae6b2756935b5ba94ae03a2ee6f2eaa40fc1a199d94eb962f
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector3.op_Implicit(System.Numerics.Vector3)~Inno.Core.Mathematics.Vector3
 title: Vector3.op_Implicit
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 4be3727a4863ac562478381b7ba1e626eb51cd07caa4ad92d8a110f6744aabef
+sourceFingerprint: 4ed3eef692465ae335bf9ad2aeeb16c566b8aa86de538712b9aa8ceb8e63b1bb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

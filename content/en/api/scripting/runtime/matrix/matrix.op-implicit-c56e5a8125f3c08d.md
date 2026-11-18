@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c56e5a8125f3c08d4eecd56c5f0203665603c630db4ef718ad81d16bc0881813
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.op_Implicit(InnoEngine.Mathematics.Matrix)~System.Numerics.Matrix4x4
 title: Matrix.op_Implicit
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: b2a76b829972bc18bc5ff91169ea1e8e27dd185cff9bc628e4272c26af12da0c
+sourceFingerprint: dc52f52d0ea79f4af06a375fd1e5153c1f03fff9bf6800603f1b8ea50fff6c42
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e5330eca6a5c755fc043d6cad06873b817af6b57ce0b22960de297272ae60d50
 symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiChildFlags.AlwaysUseWindowPadding
 title: ImGuiChildFlags.AlwaysUseWindowPadding
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: ddf01959fef8ca86e37726daa6b4f305e2938fe8a9a20d77bac0851814b02e5c
+sourceFingerprint: 194fd6bf961bf66d367dbf5b24878dbe0b668d65db7377fd6ea0f156f5c762c1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

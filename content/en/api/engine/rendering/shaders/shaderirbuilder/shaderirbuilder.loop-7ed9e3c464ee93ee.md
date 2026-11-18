@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7ed9e3c464ee93ee1ae471103f7a5e6fbc51f3695e3ddf1ac5014abc56b06ccb
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.Loop(Inno.Rendering.Shaders.ShaderIrValue,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Rendering.Shaders.ShaderIrValue},System.Func{Inno.Rendering.Shaders.ShaderIrBuilder,Inno.Rendering.Shaders.ShaderIrValue,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Rendering.Shaders.ShaderIrValue},System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Rendering.Shaders.ShaderIrValue}})
 title: ShaderIrBuilder.Loop
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 245d16d41d14a1bc44eda724d7d778dcef94132065f9d358a6ca67970b7eca42
+sourceFingerprint: e76f80eb75ec8de292b2fca1a5a71979480638ed34ca3830858158d4f3efd8a8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

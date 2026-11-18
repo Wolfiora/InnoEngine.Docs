@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a5d25c498aa764bb21b4ebb48c46107183c29bfe1e4102d94dbfaeee033f4824
 symbol: engine:Inno.Core.Identity:M:Inno.Core.Identity.Identity.Resolve``1
 title: Identity.Resolve
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Identity
 apiSurface: source-clr
-reviewed: c4f47e50a94bcf43afb9c6115f61d5c5305b2fea2e5a7a4b858970b21eb33d53
+sourceFingerprint: 2262afd963324c6d68fe3b6558171e1883405c2a970dd2d48f6a982b4f130c85
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

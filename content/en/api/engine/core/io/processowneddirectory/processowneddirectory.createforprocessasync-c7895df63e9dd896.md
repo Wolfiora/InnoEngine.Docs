@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c7895df63e9dd89664490c54445f2adab86726ecc76308c81c470126941f609c
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.ProcessOwnedDirectory.CreateForProcessAsync(System.String,System.String,System.Threading.CancellationToken)
 title: ProcessOwnedDirectory.CreateForProcessAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: bad92332655a11b6828a4aad0fae6155b17ddc5893eafa07d2471bfed5f3c40d
+sourceFingerprint: 556c40b5e4fcaa7b1e5de17c7ce5bc5c60c10c618f65f96390852dca0c7c41b8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

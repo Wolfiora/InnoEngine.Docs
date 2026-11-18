@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f4dcafb2131657cec95ba91e8b80393d14bb2d636379402b37d26307bf2f8e41
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphClipboard.Copy(Inno.Core.Graphs.GraphDocument,System.Collections.Generic.IEnumerable{Inno.Core.Graphs.GraphNodeId},Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)
 title: ShaderGraphClipboard.Copy
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: ca6049494def16affb56d05483fe8058cc1b727302c2369ba8a55bedb37a4b38
+sourceFingerprint: 23c74418bc13acf84e031abf5b6fad64c0f402f2d899099b7fceca961b7e8359
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

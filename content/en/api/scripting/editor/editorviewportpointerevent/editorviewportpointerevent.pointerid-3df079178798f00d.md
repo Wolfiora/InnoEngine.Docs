@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3df079178798f00ddc936aad98e4a251416128f944759d6cb43c54a7171afea6
 symbol: scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.EditorViewportPointerEvent.pointerId
 title: EditorViewportPointerEvent.pointerId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: e2e027e41b722d102458e5d37ca7bbe72e09ac43a1567d6b02e826c899a171fb
+sourceFingerprint: 82e3921f87246d9ef890ccd0cafe96882b0f38b5126a4364892bd3c899a4e59f
 apiScope: Editor
 contracts: []
 

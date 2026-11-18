@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a76125ed032c18f5ddc1cf1cbab5aa8782aaec2642c7da6bb529a7ed81c2a565
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.RenderShaderVariant.#ctor(System.Collections.Generic.IReadOnlyDictionary{System.String,System.String})
 title: RenderShaderVariant.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: edee109da6ae89c25cbc0618b900fe5eb2babf685503eb57b41a0cfe15f70e7c
+sourceFingerprint: 9dda28038094564272618618d6e0c5614243c28a0dd13fbe2a2ef53a30e7aa23
 apiScope: Runtime
 contracts: []
 

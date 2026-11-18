@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4e81910c63f7ba11e506e1f25cc90aad0f96a466d483ecf511aaf41edb71343c
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.IsFinite(System.Single)
 title: MathHelper.IsFinite
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 2d58076ed2f568f4dbf55804653da5cea79a5e97225a11c60bedc53ce91ae7b9
+sourceFingerprint: b13987c2470eeaefb9d4e4a3f29ca36ce4064182a0f234b32626df0e8cf6ab99
 apiScope: Runtime
 contracts: []
 

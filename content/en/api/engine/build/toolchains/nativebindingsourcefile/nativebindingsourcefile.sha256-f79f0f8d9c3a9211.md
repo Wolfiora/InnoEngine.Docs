@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f79f0f8d9c3a92117fb7a5c2c72cd8b3f252522ef973c19d5b84637a0c222490
 symbol: engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeBindingSourceFile.sha256
 title: NativeBindingSourceFile.sha256
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 3a15a40fd67d6be0a65ce88cf4dc990d7e6c355be309711d990f53ed2263e4fb
+sourceFingerprint: b69e6eff96cc24b7bd3f3bf39f4cfaf2a15a852cac17f5f0a532ee97ddefdbda
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

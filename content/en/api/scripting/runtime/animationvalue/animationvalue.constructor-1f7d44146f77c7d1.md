@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1f7d44146f77c7d1dd23c839b7f5ac0bb902f365b571d917c5a13930fd7c54f5
 symbol: scripting:Inno.Animation:M:InnoEngine.Animation.AnimationValue.#ctor(InnoEngine.Animation.AnimationValueKind,System.Single,System.Single,System.Single,System.Single)
 title: AnimationValue.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-reviewed: 5aea8c62dad4805c792fd71a4e15939c13479ebb467d27106643af1ffe062c22
+sourceFingerprint: 823c69ad97f0a90fe300f6cd6861421b889b308885566da06025d08fec651721
 apiScope: Runtime
 contracts: []
 

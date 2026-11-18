@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.120415fb17399cc9bde6ad9457966bb4ab4a38e4f773fd06e6d88f94c54ea125
 symbol: scripting:Inno.Core.Events:M:InnoEngine.Events.EventDispatcher.#ctor(System.Int32,System.Int32)
 title: EventDispatcher.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: editor-script
-reviewed: 39463cdfa2b5b27889ea63a23379578b42d2976b9bde2b24293e18c5fdfca149
+sourceFingerprint: ade734865d9ae1cb7f6590c25aa1e56e89ac07450408efa6c6f7f87a96cf4434
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.runtime.contracts.65155321de3d06c0
 symbol: engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.IRuntimeSubsystem
 title: IRuntimeSubsystem
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime.Contracts
 apiSurface: source-clr
-reviewed: 0b594139e90ab6b3deab16038d8571ddd5fc467f13e5a2d271a7110df8c4103c
+sourceFingerprint: ccde6c8a21f728a6db36631de394f42a8f78d6b011b493e85a11cad8a0e1680e
 contracts:
 - project.inno-runtime-contracts
 

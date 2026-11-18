@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e624fde06eaa654fda3650e82a52163622660d64c600289040b0faffcd8fe222
 symbol: engine:Inno.Scene:M:Inno.Scene.GameScene.FindObjectWithTag(System.String)
 title: GameScene.FindObjectWithTag
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 0cc3df006c1addf8dd78e879d2d76172dd959941e43e45563b211c9eb9cd65f0
+sourceFingerprint: bf8789942c7c56ec04a572fa85c585e98856c2a07eac2dbf5481ade3beb74c69
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

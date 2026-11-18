@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.imgui.c8a06618f33a1b4a
 symbol: engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.EditorGameInputCapture
 title: EditorGameInputCapture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 0507ed8b20777990a85490d0b4f4b6926769b1f2cf16066636fe7de436bcd224
+sourceFingerprint: f92e2188a71b3fb2173854928be776fd9dfe0f05720d78a4f057832b94fad5e1
 contracts:
 - project.inno-editor-imgui
 

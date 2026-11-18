@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.67cb5e61fa6d3d735f70f4759bb56c799dbab4ec88d2cf6aa892a23fcdb718cc
 symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderVertexSemantic.TextureCoordinate4
 title: RenderVertexSemantic.TextureCoordinate4
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 02c91d4b8991f87c5339a375393112849470f2609dcd8f7118464e98f862c68e
+sourceFingerprint: 602d9d71ddbfd20a7883e07aa2ab8ac607d775266fd205530ef825578c67b40d
 apiScope: Runtime
 contracts: []
 

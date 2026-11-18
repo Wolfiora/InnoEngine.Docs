@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.31ae27fd60939d8c
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderTextureDimension
 title: RenderTextureDimension
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: bbea9f4754e5b9da6db845937e0203c6437d2af2811e82cbf60930218c0b9140
+sourceFingerprint: c672408547e8a47e35925140e0560298d96347c161f1e94d74c15ad848ddd44b
 contracts:
 - project.inno-rendering
 

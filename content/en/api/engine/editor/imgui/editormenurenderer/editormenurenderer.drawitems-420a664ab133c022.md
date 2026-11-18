@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.420a664ab133c022d499f41f3a76c80e929aa7e35796b9b4d526cb7b364b283a
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorMenuRenderer.DrawItems(Inno.Editor.Interactions.EditorInteraction,System.Collections.Generic.IReadOnlyList{Inno.Editor.Interactions.EditorMenuItem})
 title: EditorMenuRenderer.DrawItems
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 3f7863afe2a625a103e901ff68ce3e5f674fa86b53699a010447919f5cd83d7c
+sourceFingerprint: 120c4a504c077ea2c4fff5d89a14ffcef57caecadd7ad4c4fb5e051497acc59d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

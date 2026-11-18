@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b229318bcde1e2e14e16b58f759b1cd98e2501e80862147b4301c7cc3683961d
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Quaternion.#ctor(System.Single,System.Single,System.Single,System.Single)
 title: Quaternion.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 7c33b64f2b5501a5bdac296c9e44e5f25c79a810fce7986bbc4b0814a6f0e167
+sourceFingerprint: 1b165c0ee05fe5344b31f98ffa5e8ae11d3bdbc7b6418727b01baac40c73d2fc
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f7a90386837c7de8277f7fe3979d2bc31f4fe4496337cdd4721f38b6b68c5899
 symbol: scripting:Inno.UI:M:InnoEngine.UI.IUiService.Update(InnoEngine.UI.UiContextHandle,InnoEngine.UI.UiInputSnapshot)
 title: IUiService.Update
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 110041016411341910300866afb314681534123e303b07b0a916f2552d6a6d5e
+sourceFingerprint: c9ca60348fe5f5176b40626902e9606e80b8d98754de8faada738b7b07c8df12
 apiScope: Runtime
 contracts: []
 

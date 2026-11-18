@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.toolchains.183523c1327d4db8
 symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.ManagedBuildExecution
 title: ManagedBuildExecution
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: e3375e59f9475b73957b83f7b03048aa9e63443d1957a75dc38fb2db48b72b85
+sourceFingerprint: cfec58253c60aeca845db4e4f84efccadda0d3431a6bb05696e444f3d291f0ba
 contracts:
 - project.inno-build-toolchains
 

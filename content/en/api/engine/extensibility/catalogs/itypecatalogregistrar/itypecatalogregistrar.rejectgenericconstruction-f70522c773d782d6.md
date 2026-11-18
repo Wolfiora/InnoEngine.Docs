@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f70522c773d782d60057f077e82ade705402d98e4e572d95eb2576c4ab9c1ad6
 symbol: engine:Inno.Extensibility.Catalogs:M:Inno.Extensibility.Catalogs.ITypeCatalogRegistrar.RejectGenericConstruction(System.Type,System.Collections.Generic.IReadOnlyList{System.Type})
 title: ITypeCatalogRegistrar.RejectGenericConstruction
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Catalogs
 apiSurface: source-clr
-reviewed: ea8a51b13cfcf485313d42803c13cffa9a92e70913004c720779ba4c0948fecf
+sourceFingerprint: 27c06b7c540fc7ec238a4fd40564b74bf0098637852c05e3e23cecfddc283f87
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f17a85313920bc29ee1bb674900cc001fee9dd9194b7c872e0c23ea14bb23964
 symbol: engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildPlatformContribution.#ctor(Inno.Build.PlatformTargetDescriptor,Inno.Build.Composition.BuildTargetFactory,Inno.Build.SupportPacks.IPlayerSupportPackSource,Inno.Build.Toolchains.INativeToolchainProvider,System.String,System.Collections.Generic.IReadOnlyList{Inno.Build.Composition.NativeProductContribution},Inno.Build.Toolchains.INativeBindingGenerator,System.Collections.Generic.IReadOnlyList{Inno.Build.Managed.ManagedDeploymentId})
 title: BuildPlatformContribution.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Composition
 apiSurface: source-clr
-reviewed: 11c164adae0f6436d021f70b0bc3d239bb10c8406508144e4e989c512fbe4d3b
+sourceFingerprint: d9d1cb27a547fc1cb8489e02ff5e637606f985dde9f25f696d9d5e62d4a9fa9b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

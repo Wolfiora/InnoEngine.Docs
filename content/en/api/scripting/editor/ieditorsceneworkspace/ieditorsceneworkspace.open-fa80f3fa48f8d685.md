@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fa80f3fa48f8d6859e91f994012cdaabd3669eca2f19fd0077269613cba17eca
 symbol: scripting:Inno.Editor.Scene:M:InnoEditor.Scene.IEditorSceneWorkspace.Open(System.String)
 title: IEditorSceneWorkspace.Open
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: editor-script
-reviewed: 4716ef4254fc70540ae7d3b3b5df72a88dc8919e1d20a1f4dd70b5d7b7763e21
+sourceFingerprint: 8df35830e555792b8fbe739bf7a900c888f3860d46999674f37e41069a1dc290
 apiScope: Editor
 contracts: []
 

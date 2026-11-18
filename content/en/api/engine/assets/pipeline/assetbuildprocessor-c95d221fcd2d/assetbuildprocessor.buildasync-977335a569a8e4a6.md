@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.977335a569a8e4a6baa4ef880afe48676e0b47283a74974b2c1fa4fd40842783
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetBuildProcessor`1.BuildAsync(Inno.Assets.Pipeline.AssetBuildContext{`0},Inno.Assets.Pipeline.AssetArtifactWriter,System.Threading.CancellationToken)
 title: AssetBuildProcessor<TDefinition>.BuildAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: 50fd52b70a0780a2b97c69fb29af2c756241161fc244db66ffb959f15ee06040
+sourceFingerprint: 0fe82b9f002a36b3e76ea0b9536f61dc4b2fe0baa73408d6d21e83ce55c18b15
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

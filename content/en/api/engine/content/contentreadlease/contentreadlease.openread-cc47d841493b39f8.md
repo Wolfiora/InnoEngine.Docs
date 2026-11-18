@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cc47d841493b39f8f4c60b5c69cef8282b3093165692c6cb5cff63973912005c
 symbol: engine:Inno.Content:M:Inno.Content.ContentReadLease.OpenRead
 title: ContentReadLease.OpenRead
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Content
 apiSurface: source-clr
-reviewed: 6ca4c033c3fb36f532087fa295eba993fef2ae7025b870b5c664d5307f6d7660
+sourceFingerprint: 806afc082877cc037a3096440cc8462cc2b43798c76fc3a31fda2996616afbc0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0484810b865e77cfc1e0a4f8608feb16e276b4db05ba2c1ba9e29f94f071f83a
 symbol: scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.F4
 title: KeyCode.F4
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Input
 apiSurface: editor-script
-reviewed: e8f44917679cc59ec6685ede69111d11a5def2dd2255985b6004b8caee340181
+sourceFingerprint: 298816023046c9c7c2770a2c8269ab94c7dba769b2524af77e2a675dc9a283f3
 apiScope: Runtime
 contracts: []
 

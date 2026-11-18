@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cfdf82511dfbe4a091fdf82d7a26a8a5e8f3315b6e14a708d0a0940847e5a39e
 symbol: engine:Inno.Build:M:Inno.Build.BuildPipeline.BuildGameAsync(Inno.Build.GameBuildRequest,System.IProgress{Inno.Build.BuildProgress},System.Threading.CancellationToken)
 title: BuildPipeline.BuildGameAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: 1c0dfcb0584af9da5cf72190b9c595e2a04e108270340b052425ddb7b5492d02
+sourceFingerprint: b7d5299592913742cda8ffddc35c30ac4f2add6205ad04b1b056fc0f9c40f8ef
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

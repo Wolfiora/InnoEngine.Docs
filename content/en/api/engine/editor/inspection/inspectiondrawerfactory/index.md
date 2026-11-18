@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.inspection.c40f722122401247
 symbol: engine:Inno.Editor.Inspection:T:Inno.Editor.Inspection.InspectionDrawerFactory
 title: InspectionDrawerFactory
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: source-clr
-reviewed: 3b6d3b710a09745cc1622a8afaf3beed56404b8fd35135cf5303f4e3f1c614c8
+sourceFingerprint: c7c542ef6ff7ea6ca051b75efda9c72a1a5ced05d4708f98e192043c3455c9dd
 contracts:
 - project.inno-editor-inspection
 

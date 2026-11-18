@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d4d35f97f911f5ba97bbcebaaea312be6529a71c59d391df7f8e9cc8497b3c7d
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderStencilFaceState.fail
 title: RenderStencilFaceState.fail
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: f0148c6b8ae7bfbe32882048f19801e643c06d1f32dffde9807a95764684aa42
+sourceFingerprint: 50149825574bd6422c58ee4c4369de052738824200e41e22200686ec010ffb20
 apiScope: Runtime
 contracts: []
 

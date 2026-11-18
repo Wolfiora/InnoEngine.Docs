@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.storage.69793dfc1818dda4
 symbol: engine:Inno.Storage:T:Inno.Storage.Storage
 title: Storage
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Storage
 apiSurface: source-clr
-reviewed: 55757d3ab7bb0e810eb173a1d0163a723ff05a90151eb81e2fb0d5d019fcb195
+sourceFingerprint: 5fd11ae160104195d94884cee6b96ba12d359797a82ee39d024469c738f9ba08
 contracts:
 - project.inno-storage#operation-and-ownership-contract
 

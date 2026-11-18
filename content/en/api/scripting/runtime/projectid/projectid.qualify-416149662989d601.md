@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.416149662989d601416f7df32f710f15674820a6e6faeddf4c625aa3687e19dd
 symbol: scripting:Inno.Core.Settings:M:InnoEngine.Settings.ProjectId.Qualify(InnoEngine.Settings.ProjectLocalId)
 title: ProjectId.Qualify
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: editor-script
-reviewed: e296087d72c4847f9b1ea212ac841fa1c4150d36f8ed2cc811f04b03c6fc1032
+sourceFingerprint: 421ad840893b602e5e2c442a030f98447f621257e08bc7ff0f9516541125229f
 apiScope: Runtime
 contracts: []
 

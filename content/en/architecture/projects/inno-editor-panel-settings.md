@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-editor-panel-settings
 symbol: project:Inno.Editor.Panel.Settings
 title: Inno.Editor.Panel.Settings
 kind: project
 owners:
 - Inno.Editor.Panel.Settings
-reviewed: ''
+sourceFingerprint: da97fbd2ee085800ea30b225a32ac57e0b56da5f6cacdeb84930d45f15a04684
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

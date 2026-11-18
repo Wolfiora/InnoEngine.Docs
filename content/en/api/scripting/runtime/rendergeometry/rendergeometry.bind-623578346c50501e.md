@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.623578346c50501e462723248fa8072a5bb22f06622a813b1077576590cb75eb
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderGeometry.Bind(InnoEngine.Rendering.RenderCommandEncoder)
 title: RenderGeometry.Bind
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: c5281d17eecaf4dbad716f90510da4e3e7cbfd96b689774f6ff1302901fb544d
+sourceFingerprint: a5233a082ea9df1501f96ae5e2d03bd1bb20d6e5ea685efc15e74f662b8d212e
 apiScope: Runtime
 contracts: []
 

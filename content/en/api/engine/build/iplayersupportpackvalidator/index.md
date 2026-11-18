@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.585520529c88e48c
 symbol: engine:Inno.Build:T:Inno.Build.IPlayerSupportPackValidator
 title: IPlayerSupportPackValidator
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: 7cd29e475b2403331f1c1d9b42a0aa6d0ece166f9637b03ed8c96d8243c9cb9f
+sourceFingerprint: f7777c93df62b465d9b4699a51351f1a8011b2faca064269e6ef0a4b87ae4f11
 contracts:
 - project.inno-build
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c4f79592275dc8ae0b99a19a5570ab17c5bee3a2ed9d24aa76ce8c50e515b0cb
 symbol: scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.ShaderPropertyDefinition.defaultValue
 title: ShaderPropertyDefinition.defaultValue
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 95315a9b887b6aa5a3c0b5fc98676cc561f98a89e5e84cb4e65a709d8c33e483
+sourceFingerprint: 372215e208f5105ee0aab2bce41c2f2b803ecf85e63e878b034dd3b597ca4203
 apiScope: Runtime
 contracts: []
 

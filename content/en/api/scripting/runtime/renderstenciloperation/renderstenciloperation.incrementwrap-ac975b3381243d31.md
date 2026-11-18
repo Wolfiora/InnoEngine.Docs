@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ac975b3381243d31e82789bfd40d1560115119bed331f123c168dd06fd36246a
 symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderStencilOperation.IncrementWrap
 title: RenderStencilOperation.IncrementWrap
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: ec27dd3ae11b027d46375298b383556d59ed3ddb339d9e5fe707d3b6c6e2a995
+sourceFingerprint: 09b8ca8a5ffc09f42695f8dc5d18dcfa8732a19260721a9a2e755f3633354191
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.acfa3bf804817c42de697c5e8acd65a6d978c0cb9568eea1592998c8623e7263
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameTagCatalog.Remove(System.String)
 title: GameTagCatalog.Remove
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 053519fc7cdd058818486e95870087ba1a580a42726b61a6f54bb38088f1c2f9
+sourceFingerprint: 15f76f87283ebe7c96efe04af2ceebac36b775fb2f7be1bb1b19ec2d5962b448
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bd603fc6bd53561a50988b996c20b8e14fd510f5849843b10effb64e5abd9ba3
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.Transform.SetWorldTransform(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Quaternion,InnoEngine.Mathematics.Vector3)
 title: Transform.SetWorldTransform
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: f831ad56bc24ea67dbf73c1587acd1a7c33dcacbd75fc3f972237aa531401f4b
+sourceFingerprint: 6207075ad32d9edf0d869c97a8209b652786ee1e4bbbc146342e65bb77471d5d
 apiScope: Runtime
 contracts: []
 

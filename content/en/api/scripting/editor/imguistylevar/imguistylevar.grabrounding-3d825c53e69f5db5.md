@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3d825c53e69f5db56becd4877be4d9bccde0bf1246c2b91a51f879a689a9ceac
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiStyleVar.GrabRounding
 title: ImGuiStyleVar.GrabRounding
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: d324d5bce6b683c1e3cf64e27e047c64c7a3e1066979e02e970d02ea07661596
+sourceFingerprint: b62dff292e0e663b20a1c6301200071c8a8726c33e587213b3defa99201c2b90
 apiScope: Editor
 contracts: []
 

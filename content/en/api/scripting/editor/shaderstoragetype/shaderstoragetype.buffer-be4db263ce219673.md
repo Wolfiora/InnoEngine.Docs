@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.be4db263ce21967328743bcd1d2b1de4622a217a1a62136fd897dc6723adcb2d
 symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderStorageType.Buffer(InnoEditor.Rendering.Shaders.ShaderSourceType,InnoEngine.Rendering.RenderStorageAccess)
 title: ShaderStorageType.Buffer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: bec4a797bec592043d98390cb0d2aefc90878b4a65c6a483b8e566a1fb5774cb
+sourceFingerprint: 1e1fa276e3b1d5d93d4247566de2c79ea3468c3ec6eff7ace8fab42426c1d322
 apiScope: Editor
 contracts: []
 

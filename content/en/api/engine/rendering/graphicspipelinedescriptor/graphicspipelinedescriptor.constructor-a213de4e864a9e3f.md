@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a213de4e864a9e3f64c9c7570eda6a10a1abe312ca464cf4b7da8d6c5882a8a9
 symbol: engine:Inno.Rendering:M:Inno.Rendering.GraphicsPipelineDescriptor.#ctor(System.ReadOnlySpan{System.Byte},System.ReadOnlySpan{System.Byte},System.Collections.Generic.IReadOnlyList{Inno.Rendering.RenderShaderBindingDescriptor},Inno.Rendering.RenderVertexLayout,Inno.Rendering.RenderRasterState)
 title: GraphicsPipelineDescriptor.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 913e8cb63a7cd3379aaab44336c75dd39f2a80b303ca0f344134960c965c2500
+sourceFingerprint: 7dd07a5ba78e4d4ad986879555f493e22b0e872df445de370b3de6b1a30ea96a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

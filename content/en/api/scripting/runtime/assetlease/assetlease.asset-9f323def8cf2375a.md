@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9f323def8cf2375aa1cb67d3af884fa397635d9231e0df972f99588fc721913a
 symbol: scripting:Inno.Assets:P:InnoEngine.Assets.AssetLease`1.asset
 title: AssetLease<TAsset>.asset
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-reviewed: e34da6e88f80a3ee69dcf10a5eeb1509a3df7d24504b92f5910e0ec94123a130
+sourceFingerprint: df652758e1d39d3c0186881b2d99a05d19bbc8cda000059e1f89bb2a0c342ef3
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.12955e947c2c70b42676353a6a093e6a37c44ff93e369bb819083b52bd4339f2
 symbol: engine:Inno.Player.Runtime:M:Inno.Player.Runtime.PlayerCommandLineOptions.Parse(System.String[])
 title: PlayerCommandLineOptions.Parse
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Player.Runtime
 apiSurface: source-clr
-reviewed: bcb7aac6e969f69e3970f9844c93e62c975db9337e7076751fc9b64610e76dbd
+sourceFingerprint: abf21ab96531d24ce561fe2de5c4dec0cb79b4a0ee4c032828aab871a86ab688
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

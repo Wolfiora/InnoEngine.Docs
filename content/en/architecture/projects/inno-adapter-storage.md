@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-adapter-storage
 symbol: project:Inno.Adapter.Storage
 title: Inno.Adapter.Storage
 kind: project
 owners:
 - Inno.Adapter.Storage
-reviewed: ''
+sourceFingerprint: e980c83bf58ccc5cf1e6038c67c4792d917c06e4faf75b4cf7c21435714a2315
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

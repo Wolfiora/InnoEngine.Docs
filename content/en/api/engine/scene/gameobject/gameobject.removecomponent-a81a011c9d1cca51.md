@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a81a011c9d1cca51f94212fd97f845b685f7ffe05115b6c9b15551555cfe066f
 symbol: engine:Inno.Scene:M:Inno.Scene.GameObject.RemoveComponent(Inno.Scene.GameComponent)
 title: GameObject.RemoveComponent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: c6391b0fb35ef7377c2dfba8b6dc73f9145b2cca1c0893be1c2b1cdf6486b182
+sourceFingerprint: 4c8491b4817bc5c047ebda796a37ac9878ef06b2085d852901be4345a981263a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.92bd75e5ba76a47b64630d7bc824473edf1f345ba04354b905a39de52ef725ac
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.SliderFloat(System.String,System.Single@,System.Single,System.Single,InnoEditor.ImGui.ImGuiSliderFlags)
 title: ImGui.SliderFloat
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 34b72509472fd1e60a7225d9cbedbbdc454f9ddbd4a121ca441d874abaedf17c
+sourceFingerprint: 2c01e954dd273028a59ab0a2a33fe436ef03d552e88818d1b4cd7630003c2c02
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.74288d9f1718db5fc45a692e7d171fb46743b8036e8a72c8b25ca89467334b7e
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorPalette.tableHeader
 title: EditorPalette.tableHeader
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 63536b33f4f2aa05435e9f443a999d30137b1b2b39b043b982ec75a203703445
+sourceFingerprint: 99777b6ffb88b32466d9fc00e051400d3eb11b5a47ecf0a2defdd69087bee6ed
 apiScope: Editor
 contracts: []
 

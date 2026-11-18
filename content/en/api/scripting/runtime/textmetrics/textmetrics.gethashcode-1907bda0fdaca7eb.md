@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1907bda0fdaca7ebfaac5cb630a29664e29ad3983c005309ecf2c3554352f202
 symbol: scripting:Inno.Text:M:InnoEngine.Text.TextMetrics.GetHashCode
 title: TextMetrics.GetHashCode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: editor-script
-reviewed: 8f3e98388ad660975b71f9bfebd34902f5902039a61b9827e3ba1c85767f876d
+sourceFingerprint: 8f3e98388ad660975b71f9bfebd34902f5902039a61b9827e3ba1c85767f876d
 apiScope: Runtime
 contracts: []
 

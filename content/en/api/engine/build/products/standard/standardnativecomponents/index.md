@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.products.standard.81123f2d536f208d
 symbol: engine:Inno.Build.Products.Standard:T:Inno.Build.Products.Standard.StandardNativeComponents
 title: StandardNativeComponents
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Products.Standard
 apiSurface: source-clr
-reviewed: 217c94fcc2fb43e1a984bfdad84c3635e799f0ad92bb4db02c840dfb849cabe9
+sourceFingerprint: 0d220731cf8ea16729d549a59fe8fdeced1fcd0a327df0ecdd9c3d6579ac362c
 contracts:
 - project.inno-build-products-standard
 

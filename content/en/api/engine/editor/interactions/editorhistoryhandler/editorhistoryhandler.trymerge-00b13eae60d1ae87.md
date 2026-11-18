@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.00b13eae60d1ae8716a5c703fc1ffe4afc5c8c0b143b2b655e1eb4246794432b
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorHistoryHandler.TryMerge(Inno.Editor.Interactions.EditorHistoryChange,Inno.Editor.Interactions.EditorHistoryChange,Inno.Editor.Interactions.EditorHistoryChange@)
 title: EditorHistoryHandler.TryMerge
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: ebdb6b461057007fb70c589ad2ea50113d518783b9672c40cd63d2123ff8d898
+sourceFingerprint: 6a3fe39975568a2758edf9610ec4dff44ebf83db5110bf177fb6d89dd028ea89
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

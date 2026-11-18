@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8ec142fd49cc049a8801ae51b88b7289a1bae8650accbf5efdd80612a3a62b5c
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetCursorPosX
 title: ImGui.GetCursorPosX
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: ab59e696fdb1c684bfcfe3b64d2f1010431b360f8ad9fa864b1f508b6b01015d
+sourceFingerprint: b1477df9ab69022c75bba531b6c81cff49d3521f4c4a9d98cd0b4caf03639e79
 apiScope: Editor
 contracts: []
 

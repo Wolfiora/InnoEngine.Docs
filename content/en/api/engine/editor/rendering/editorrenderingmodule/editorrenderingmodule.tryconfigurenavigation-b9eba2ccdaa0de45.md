@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b9eba2ccdaa0de45bb576d2bdaf3bb58723b56ed024ec8b1dfca3736a36e5267
 symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderingModule.TryConfigureNavigation(Inno.Editor.Rendering.EditorViewportKindId,System.String,System.Int32,System.Int32,Inno.Editor.Rendering.EditorViewportNavigationProfile@)
 title: EditorRenderingModule.TryConfigureNavigation
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-reviewed: 75d8d0b2cd72d7eae2f277363e67565409f2d360bd34dc9148618428ca7df976
+sourceFingerprint: 30d6c2324c47ebc1a7f61c845d232ac76112ae58c61ca39fc45abad99645f80b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

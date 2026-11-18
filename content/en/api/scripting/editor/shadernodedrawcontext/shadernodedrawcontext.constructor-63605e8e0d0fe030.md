@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.63605e8e0d0fe0303b7b4644f9d215f697fc29e5b413957d4e836fa1b7d1f139
 symbol: scripting:Inno.Editor.Shaders.ImGui:M:InnoEditor.Shaders.ShaderNodeDrawContext.#ctor(InnoEngine.Graphs.GraphNodeRecord,InnoEngine.Serialization.SerializationRegistry,InnoEngine.Serialization.SerializationContext,System.Action{System.String,InnoEngine.Graphs.GraphSerializedValue,System.String},InnoEditor.Rendering.IEditorPreviewService,InnoEditor.Inspection.InspectionDrawContext,System.Boolean)
 title: ShaderNodeDrawContext.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders.ImGui
 apiSurface: editor-script
-reviewed: 0a7bc11b8e56e14f4a5b59a9ac51ae57e9fea501bcbb2b32847e4ce0148e0eee
+sourceFingerprint: 3ffd5e50c792d82e40ac19984b838dd141349ad73c21dac2ab4772c9eb074afc
 apiScope: Editor
 contracts: []
 

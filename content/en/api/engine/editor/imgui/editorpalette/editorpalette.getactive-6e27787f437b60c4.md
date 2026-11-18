@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6e27787f437b60c4fa12cd31ebb6c5de0c997c662aa5896594d49f7663548412
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorPalette.GetActive(System.Numerics.Vector4)
 title: EditorPalette.GetActive
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 13299655089619300ee0f8a439f28aad9f8f352d50bb3df9e7d3cb1de420d1b5
+sourceFingerprint: 97726338ad887f491543a7150f416d3a972fe672441bf1010bf022a7e217687e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

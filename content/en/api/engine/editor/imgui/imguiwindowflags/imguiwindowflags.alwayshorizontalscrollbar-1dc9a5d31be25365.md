@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1dc9a5d31be253654d51c9ec78bcd0801372953bc64e5c44f12eb8fc102dbd7b
 symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiWindowFlags.AlwaysHorizontalScrollbar
 title: ImGuiWindowFlags.AlwaysHorizontalScrollbar
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 73e22e05e198ca8bd327c74b0184554ad6b3aea5ee43422f9d5483da5e0bf688
+sourceFingerprint: c0d6231e08beb36cc5ea2dc57cb358b327a042631b15439a88b1286f8e010f89
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

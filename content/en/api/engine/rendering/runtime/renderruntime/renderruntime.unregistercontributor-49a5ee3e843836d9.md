@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.49a5ee3e843836d9b664f431cc9933387eb0e4894e531bc825f987dc23b18d79
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRuntime.UnregisterContributor(Inno.Rendering.IRenderFrameGraphContributor)
 title: RenderRuntime.UnregisterContributor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 79a8fdc69aca3bebcf69ca6c4ccbfbc2fd3dfea551906654ed5d1cbe76fc46df
+sourceFingerprint: f4a67e7a4d4112be88ac7fdffaa7beeb92fa3a342ec4807984d1b95cc4950c69
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

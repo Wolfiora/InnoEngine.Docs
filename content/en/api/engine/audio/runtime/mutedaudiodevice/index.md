@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.audio.runtime.a63dcfeede6e3455
 symbol: engine:Inno.Audio.Runtime:T:Inno.Audio.Runtime.MutedAudioDevice
 title: MutedAudioDevice
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio.Runtime
 apiSurface: source-clr
-reviewed: e81d4ee559145035a6e5b375c32dc6925c39215a673ab00268c46b1afa96f8d2
+sourceFingerprint: f91c2bbd20cc8a13e70a9b081be016e401a13769bd792a83da93f4bbaf9304f7
 contracts:
 - project.inno-audio-runtime#composition-and-lifetime-contract
 

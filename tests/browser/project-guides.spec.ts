@@ -13,7 +13,7 @@ test('project guides keep authored prose and share a flat linked sidebar group',
   await expect(group.getByText('Overview of Engine project guides', { exact: true })).toHaveCount(0);
   await expect(group.locator(':scope > .children > .children-inner > ul > li > .nav-row > [aria-current="page"]')).toHaveText('Inno.Adapter.Audio');
   if (await menu.isVisible()) await menu.click();
-  await expect(page.locator('.api-status')).toContainText('Review pending');
+  await expect(page.locator('.api-status')).toContainText('Authored');
   await expect(page.getByRole('heading', { name: 'Provider ownership contract', exact: true })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'Source project facts', exact: true })).toBeVisible();
   await expect(page.locator('.source-actions a').first()).toHaveAttribute('href', /\/blob\/[a-f0-9]{40}\/src\/.+\.csproj$/);

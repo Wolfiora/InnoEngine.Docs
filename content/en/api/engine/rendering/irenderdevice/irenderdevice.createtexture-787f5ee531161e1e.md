@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.787f5ee531161e1e2d26abd6e9c5aad8d889720f46791d41217f62a56c0787c3
 symbol: engine:Inno.Rendering:M:Inno.Rendering.IRenderDevice.CreateTexture(Inno.Rendering.RenderTextureContainer,System.ReadOnlySpan{System.Byte},System.Boolean,System.String)
 title: IRenderDevice.CreateTexture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: f1b7c979e5cf22e8d102d477372597b58f887402bd59163717843aee41dec85b
+sourceFingerprint: c9dbf5be95319ea6bff3aea0bac0e8fd4e879291b9ccf8d6c1f9dea664b7e980
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.177f74ba3c7ccd02ef7ddd3ef21b32def52686ba021175928aa0a769deb52159
 symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorGizmoIcon.Deconstruct(Inno.Core.Identity.Identity@,Inno.Core.Mathematics.Vector3@,System.String@)
 title: EditorGizmoIcon.Deconstruct
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-reviewed: 686e27a8d08e8232b617062a06b4a1e1e9197683a5a8e54242c718339d72ed61
+sourceFingerprint: 686e27a8d08e8232b617062a06b4a1e1e9197683a5a8e54242c718339d72ed61
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

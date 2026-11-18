@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.67816fbd022299720233ecef08b4917956ce95a91032c36fcecf2c73f9b88b5b
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetMousePos
 title: ImGui.GetMousePos
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: a9e9bd1627855a77cfbd2dc62bb0647015575a4bb5500d49493ba190f07b246b
+sourceFingerprint: 38b3628419b489698878d2955a58485a25c3df12ff7891aaf9aefaf13d410d1f
 apiScope: Editor
 contracts: []
 

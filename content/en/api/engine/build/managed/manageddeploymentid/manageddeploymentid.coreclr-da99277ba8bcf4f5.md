@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.da99277ba8bcf4f5206bbe8f6698dcc00bfe185b4eddc5eae684f684fcb5fc7b
 symbol: engine:Inno.Build.Managed:P:Inno.Build.Managed.ManagedDeploymentId.coreClr
 title: ManagedDeploymentId.coreClr
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Managed
 apiSurface: source-clr
-reviewed: 17959397482a28d132afb0a83ea169f6ac2ad3966f59cdab923e98ae92906d8b
+sourceFingerprint: 7926bec4ccfe9ef2318c5688475cb41afb662deec11be89ad8a0242ce2f248af
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

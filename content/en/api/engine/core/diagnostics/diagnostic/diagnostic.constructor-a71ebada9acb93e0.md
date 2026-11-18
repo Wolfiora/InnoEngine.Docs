@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a71ebada9acb93e08c77d9a996aa5218f9c9c41fed2381c6927ec1ac7cc7083e
 symbol: engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.Diagnostic.#ctor(System.String,System.String,Inno.Core.Diagnostics.DiagnosticSeverity,System.String,System.Nullable{System.Guid},System.Nullable{Inno.Core.Diagnostics.DiagnosticLocation})
 title: Diagnostic.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: source-clr
-reviewed: 2a594381c092e6fe1c61fb1f53d074ee7bcaa43368e0ced1cd097c52f274c39e
+sourceFingerprint: 54a761456c71e9a7a3d9ef8218adf5930233dbe141b7e4981d4058c01a0c1ae7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

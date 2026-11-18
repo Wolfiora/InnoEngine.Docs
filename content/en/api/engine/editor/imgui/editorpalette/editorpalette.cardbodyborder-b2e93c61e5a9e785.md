@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b2e93c61e5a9e78566594aecf31cffea0204e14f9013992e33f2de3191ac08f8
 symbol: engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.EditorPalette.cardBodyBorder
 title: EditorPalette.cardBodyBorder
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 2716981bfdba0d8182458fce306af7113af7a7a48f8557fa999efe11c2913994
+sourceFingerprint: 96fb8f9236227769ac1b1c19ed6b22b18896663c158102807359ee940f247b4b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

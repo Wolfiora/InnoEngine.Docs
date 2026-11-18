@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.379274992c56874422773f168cb82263f72f8d2e9b542c6fb52b726e22ea6792
 symbol: scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.RectInt.width
 title: RectInt.width
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: bb08716619036ac6503b3e5884fdf6b89ae19f98ed6d6f7a5b70b9ca26bb1861
+sourceFingerprint: 4be1c39a7d2981bb7f4ceaed67f9178f20300d521890889c2acd162dd64e95a0
 apiScope: Runtime
 contracts: []
 

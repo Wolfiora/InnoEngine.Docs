@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7c18a901ac1c5feb9b4580cb2660cb9f62ba2a59e36be43d7c96545550984444
 symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportFocusBounds.GetHashCode
 title: EditorViewportFocusBounds.GetHashCode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: 9fdf582934321ac78add695bfcafac05e30d15ce391010e9a4a585d8bfe2e7fd
+sourceFingerprint: 9fdf582934321ac78add695bfcafac05e30d15ce391010e9a4a585d8bfe2e7fd
 apiScope: Editor
 contracts: []
 

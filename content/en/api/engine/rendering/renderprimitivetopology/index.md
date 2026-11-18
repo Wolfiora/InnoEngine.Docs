@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.b10e6e9d3f6af68e
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderPrimitiveTopology
 title: RenderPrimitiveTopology
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 8cca0c252ab45343b18f63cc34c50dece0057fb470cf2211d28e8b2892f7353b
+sourceFingerprint: 015200dba00ffe24ba1ad2739e4a5b8bd3aecbea74d1693bab97037873ee1371
 contracts:
 - project.inno-rendering
 

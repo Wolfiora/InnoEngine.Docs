@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f7fce54150b25629df356302db6a79443fa72d1fed7c24d76aaed9dc3febf643
 symbol: engine:Inno.Editor.Shaders.ImGui:M:Inno.Editor.Shaders.ImGui.ShaderNodeDrawContext.Read``1(System.String,``0)
 title: ShaderNodeDrawContext.Read
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders.ImGui
 apiSurface: source-clr
-reviewed: 3d95e19ecbdea53455c82c233acc95e3e43116b0df20963bbdc4e888a4b4f202
+sourceFingerprint: 3ef38dbb0481ce3840793ea6b8649d1f1ff8fd28cfba9029ebea71f7f7b8e17b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

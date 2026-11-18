@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f51de76a1a3b0392ad10e26e546ecd6a845b4ef080ada8929c52d02002cbab04
 symbol: scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphPosition.#ctor(System.Single,System.Single)
 title: GraphPosition.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: 6de0bf73c0ec4953af14338bf67399a540852932a9d24c649b01966bd431660b
+sourceFingerprint: e0179e655e45dad06f09b65183846265b0b8f3bee4dfabec0c87b6ea08bef478
 apiScope: Runtime
 contracts: []
 

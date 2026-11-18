@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5c7efa8887e2d0efaa92be104dd420d880da6cf92ec8868b070c8df98f4137b4
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.MeasureDialog(InnoEditor.ImGui.DialogPresentation,System.Numerics.Vector2)
 title: ImGuiWidget.MeasureDialog
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: f39463f956b31e067ac51887bf1fc938314ef7cad7a804f0d9e4c8191a8fac20
+sourceFingerprint: 4a7469de78752855aa38c64b1ef97abf4cd40f8d60770618dbd3d9621ec02d26
 apiScope: Editor
 contracts: []
 

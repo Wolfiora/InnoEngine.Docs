@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.20e03f9c427708488b6a3ead6f4a8f28ab67c53c6a810ed83b982fdcd512b9ac
 symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.SetGameObjectLayer(Inno.Scene.GameObject,Inno.Scene.Layers.GameLayer,System.String)
 title: SceneEdits.SetGameObjectLayer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: source-clr
-reviewed: 2c4ed7becab8096e85ee1519c024ab3bb7f92ce4ac9c26563d40a96ff03ceefa
+sourceFingerprint: 1c281977f8180d393529ecd5508afe66820977c23bc0487b1f03a19550230c61
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

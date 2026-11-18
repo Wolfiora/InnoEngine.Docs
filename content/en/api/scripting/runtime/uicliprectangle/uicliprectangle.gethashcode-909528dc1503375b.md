@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.909528dc1503375b001e9026a5efbceb197951a251a53d554ea1e4105e7f912e
 symbol: scripting:Inno.UI:M:InnoEngine.UI.UiClipRectangle.GetHashCode
 title: UiClipRectangle.GetHashCode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 1ebfb4aba3abf42be9baf666de9ce63c111a57b29a3538caf7a9d8c9a95c1501
+sourceFingerprint: 1ebfb4aba3abf42be9baf666de9ce63c111a57b29a3538caf7a9d8c9a95c1501
 apiScope: Runtime
 contracts: []
 

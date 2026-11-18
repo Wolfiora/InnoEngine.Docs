@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6a4b8d06f822ab932ebdc5b5e80758629270d42896bbac9ac3413f75ab7b32b6
 symbol: engine:Inno.Audio:M:Inno.Audio.IAudioDevice.GetClipState(Inno.Audio.AudioClipHandle)
 title: IAudioDevice.GetClipState
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 35757b5cf1749fd9c55503f79281ee0be6ae79b9024dfc91df17087de6a1b229
+sourceFingerprint: e3e0783d45d11faa716462a7f570d8ab018ea941a6b5c73085e7c977023f4580
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

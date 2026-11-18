@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1bf0e63f34e9b7a103dc9fbc015432810b8e2afaa84f1fac73083491fef38a21
 symbol: engine:Inno.Editor.Graph:M:Inno.Editor.Graph.GraphDocumentController.AddNode(System.String,Inno.Core.Graphs.GraphPosition,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Core.Graphs.GraphSerializedValue})
 title: GraphDocumentController.AddNode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: source-clr
-reviewed: d02006e8eeb68f051a871e99005b2633cc625764003f4de499b5dcfbd837fde5
+sourceFingerprint: 9d023bdc3befad66990453fedecc134091cf1425ab27a002ec507de472abb5ee
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

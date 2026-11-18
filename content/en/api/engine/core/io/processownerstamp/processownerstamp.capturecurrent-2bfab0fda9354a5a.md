@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2bfab0fda9354a5a918274a5cde66987aade0aac15ec5ade618ab0db2ad08b74
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.ProcessOwnerStamp.CaptureCurrent
 title: ProcessOwnerStamp.CaptureCurrent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: 20a985175b0425d7eb454ae068766bccf968f360ccc9b78cdd33b11d3efd3644
+sourceFingerprint: 0a4d5870ffac537b6b377e4be1a3587801889ae98e94f749f0def645a604f134
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.aed2ee015c38fdb59062778d851f1b362d4c33e70f4f2f596fe9a50a87b200fc
 symbol: engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetEditingModule.MoveSelection(System.Collections.Generic.IReadOnlyList{Inno.Assets.Pipeline.AssetFileEntry},System.String)
 title: AssetEditingModule.MoveSelection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
-reviewed: e6a376e757b4aa99857fbc424450eb279f0f3eeaea65236187cfb3cde1385f3b
+sourceFingerprint: ceea64b8b59cbf87fb3157efeee5e68012d51d6c19ac96303d37beec5313ca85
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

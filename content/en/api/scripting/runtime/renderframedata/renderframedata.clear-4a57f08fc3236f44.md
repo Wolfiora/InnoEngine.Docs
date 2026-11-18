@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4a57f08fc3236f44678cb94d52a0494db6f34be3695299de46ca98c4ced96b7f
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderFrameData.Clear
 title: RenderFrameData.Clear
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 64dd6dc27c6bb7fc4a5445039d9f3e73c4f0d916d5314cc1298e3005c81e0efd
+sourceFingerprint: 8bf72c83b3b012c3e7fc3c95aee793ce24bb695d4308e461dc66dc90f8fec9ba
 apiScope: Runtime
 contracts: []
 

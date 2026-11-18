@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2570da0afaa9ad382924cdb32863ea52bb9778a790a534ed0293607f0800d84e
 symbol: engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.GenerationCoordinator.AcquireOperation(System.String)
 title: GenerationCoordinator.AcquireOperation
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Reload
 apiSurface: source-clr
-reviewed: b5c2e7505cc6e9ca5e01ee91ecc88bdc3763d76a3f5dece6348bb899ebe44c41
+sourceFingerprint: e0753df4b19552612de2540b137e0681cdbec9f43b2e73d51c9142c5fa19e1cb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

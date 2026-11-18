@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1f6be742ac689caefacd5021819f0354307e60ed9e0b32da2908f2b8284983ee
 symbol: engine:Inno.Adapter.Presentation:M:Inno.Adapter.Presentation.IPresentationContext.TryCaptureLayout(System.String@,System.Boolean)
 title: IPresentationContext.TryCaptureLayout
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Presentation
 apiSurface: source-clr
-reviewed: 3d068f783aba80d350ce394f79788728c8ac0ee30762bec6d032bb413a39e9db
+sourceFingerprint: fce5d731fddfc1b3e21746d251628848874c83c28accd4f2ed5be1281000b81e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

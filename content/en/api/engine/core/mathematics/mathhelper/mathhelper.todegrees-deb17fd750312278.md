@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.deb17fd75031227803a08fb2b42daeefb035c35a92fdd80d494acd2096714c92
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.MathHelper.ToDegrees(System.Single)
 title: MathHelper.ToDegrees
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 2d721045c2fe53e1d188b214c50ffbedf4c902b0a524282a9da9f1b24b7a0f7d
+sourceFingerprint: 19f1b6fda2efd46739de2df55aabc88ec2233cea968cf6625ca8d18dbe2f431d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

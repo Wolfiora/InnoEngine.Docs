@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3ffa79c29c7054e80ff8aa09231f650507de67a888dfc137dd280a6ddc5f85c9
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphNodes.Expand(Inno.Core.Graphs.GraphDocument,System.Func{System.Guid,System.String,Inno.Core.Graphs.GraphDocument},Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)
 title: ShaderGraphNodes.Expand
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: d9a1c53b672ab2242ac282a9ec5be29233e26105348a5876a396202fbf536cb2
+sourceFingerprint: 4e98d22cadbf162c78dbea6027e0454157ad4e54a2fea5acc33535f0e5483cac
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

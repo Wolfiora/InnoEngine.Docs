@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.4fdba2412ec0b4f0
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderStorageAccess
 title: RenderStorageAccess
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 314015b5c68a5e6e551a9cca1465138c6696e56f8cf2ea53737c4c79ef16c99d
+sourceFingerprint: 8dd8a5716d0666387410fdb2e526e7c15053690a342dee1534b80597ab43bdeb
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

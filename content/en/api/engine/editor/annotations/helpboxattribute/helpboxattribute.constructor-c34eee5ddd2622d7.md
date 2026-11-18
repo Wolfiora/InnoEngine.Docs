@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c34eee5ddd2622d77e54dfcff0301467767981a7018406fa1a812fbf8cf3959a
 symbol: engine:Inno.Editor.Annotations:M:Inno.Editor.Annotations.HelpBoxAttribute.#ctor(System.String,System.String,System.Object,Inno.Editor.Annotations.InspectorMessageType)
 title: HelpBoxAttribute.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Annotations
 apiSurface: source-clr
-reviewed: 338cd982a8d90d158dcb030a7daecedd8821cfc52d20b2265c5a45e342a189c1
+sourceFingerprint: b2969297134fbe63cf76440b67bd6a8210aac94bab481c570f21fa608093bc61
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.assets.imgui.editor-script.255226e2cf3cf187
 symbol: scripting:Inno.Editor.Assets.ImGui:T:InnoEditor.Assets.AssetBrowserStyle
 title: AssetBrowserStyle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets.ImGui
 apiSurface: editor-script
-reviewed: dc275cf741b0b35fd280dbf8f31870886dc5c23389f13de4e315ad528fc28d66
+sourceFingerprint: 7f3ff880afee8ee14df163ebe8dd9ca83a24e0d789d1318a68bf70a853119466
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

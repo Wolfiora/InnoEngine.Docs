@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8bcb4192b6575008b8c24075dca8b88ab3b730a6f7a4ac697b1a003acfd96cc5
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RasterPassBuilder.UseSurface(Inno.Rendering.RenderSurfaceHandle)
 title: RasterPassBuilder.UseSurface
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: f6cb46e6a29aa88f77f4fbe0e7d8909df675e18bf87a681827d447c25896429f
+sourceFingerprint: 323e24ee351d1bd584426c703d882581535eacc04eda68a8cc6f916c6a50088e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

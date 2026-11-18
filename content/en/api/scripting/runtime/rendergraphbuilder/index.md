@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.765065280c3e786a
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderGraphBuilder
 title: RenderGraphBuilder
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: bc9b3774c2c2fea704b3e79e2db46dffe84910a02df5ce567abaa8de42fc4421
+sourceFingerprint: ed29d6ea34f6c3b36938ab160cdc3b4c8eb5fafa3cbb09c852ce917e9685e978
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

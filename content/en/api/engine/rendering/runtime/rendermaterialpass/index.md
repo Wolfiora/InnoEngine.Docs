@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime.2901e18d9236794a
 symbol: engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderMaterialPass
 title: RenderMaterialPass
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 230f2896a4a04740e27aea6fbbeaf2fa48507a9705d81758da862865097a3f7b
+sourceFingerprint: 4ee4769b2abddd6122e1c307c3a1ed13344e1961b249745315a74018e90e96cc
 contracts:
 - project.inno-rendering-runtime
 

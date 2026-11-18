@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.12e554a9962e4a09aef2e8f7c307bb5f98f3a002a1d9325b2ad602a0fba18091
 symbol: scripting:Inno.Core.Diagnostics:M:InnoEngine.Diagnostics.Diagnostic.Warning(System.String,System.String,System.Nullable{InnoEngine.Diagnostics.DiagnosticLocation})
 title: Diagnostic.Warning
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: editor-script
-reviewed: 0b932e20593015edf4f4c2920d818fc7cbcc66e2c4a8dc6753e542e9c0ca0462
+sourceFingerprint: befecace63ff43575b39c815aead8a924aa58a0da488ec5b0ef0b9264adbc6d2
 apiScope: Runtime
 contracts: []
 

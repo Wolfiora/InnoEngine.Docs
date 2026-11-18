@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dd8695ab75a7917d751eababb31bd035143cf6e1d0555479068c14ea584502d0
 symbol: engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystem.FixedUpdate(Inno.Runtime.Contracts.RuntimeFixedFrame)
 title: RuntimeSubsystem.FixedUpdate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime.Contracts
 apiSurface: source-clr
-reviewed: 01c45749afecb1af2a595f84783c816d51d7b5175988befd74be3376b610fb28
+sourceFingerprint: a2fa0130a622a0c06df3c8351c1b91b64390ff80fcec7198c0e6641eb030b854
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

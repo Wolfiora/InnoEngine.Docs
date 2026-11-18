@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dd3aef6e3605cf35423340adf04e431cfdff9965028b99a06e3b02ad17c5ec17
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.Transform.SetParent(InnoEngine.Scene.Transform)
 title: Transform.SetParent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 3b2ca5e839a297ac5055db99080071a448ffbacd9b57ee6a34e73f2310f9dfc7
+sourceFingerprint: f3159bee2dd155afca5a46c1784544fed0880a5d2bc47895d7e6cd23584768fc
 apiScope: Runtime
 contracts: []
 

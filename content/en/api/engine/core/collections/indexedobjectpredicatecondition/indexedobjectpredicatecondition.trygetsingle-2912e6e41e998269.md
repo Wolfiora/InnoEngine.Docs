@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2912e6e41e9982695646e201c21f6c26c8d2ddf0d66cba1aa0357006ca6e91bd
 symbol: engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectPredicateCondition`1.TryGetSingle(Inno.Core.Collections.IndexedObjectStore{`0},`0@)
 title: IndexedObjectPredicateCondition<T>.TryGetSingle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Collections
 apiSurface: source-clr
-reviewed: debdc9de4c6f7d3e638a5684183a05fa3b4067808e0e56ec85f6d8a0935355f3
+sourceFingerprint: a2812d8656a37ce81f8638afda5dba93975c152db67e347abb16c0d78ec80f22
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

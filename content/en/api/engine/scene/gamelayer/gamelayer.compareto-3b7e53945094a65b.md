@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3b7e53945094a65b43246d1892c7ab8f53a5e739d616a8f9152eea125faa9c51
 symbol: engine:Inno.Scene:M:Inno.Scene.Layers.GameLayer.CompareTo(Inno.Scene.Layers.GameLayer)
 title: GameLayer.CompareTo
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 9b667bb03bf417b314170dcbfc86cad6daf2961f5d4234d551f607e7a1986767
+sourceFingerprint: 4bbedbd57497b27eb4fe41274319815e1e5e3e238e164fc6b3a71ce8f50b2094
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

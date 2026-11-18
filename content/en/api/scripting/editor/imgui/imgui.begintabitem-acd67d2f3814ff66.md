@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.acd67d2f3814ff66bffedc67303dc2c0ca55ec6df155346478948332b73744a0
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.BeginTabItem(System.String,System.Boolean@,InnoEditor.ImGui.ImGuiTabItemFlags)
 title: ImGui.BeginTabItem
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: e639f57c7d63ecb8c02cb1c755a3ac16de0e577e90733c96603394fa7a208189
+sourceFingerprint: 4ac19b06ab481f39dda9215ebfa72d3e42e877107ce973d210fd9108067ab8a0
 apiScope: Editor
 contracts: []
 

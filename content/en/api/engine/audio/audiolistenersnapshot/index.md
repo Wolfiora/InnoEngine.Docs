@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.audio.c43c3cbcdabcce89
 symbol: engine:Inno.Audio:T:Inno.Audio.AudioListenerSnapshot
 title: AudioListenerSnapshot
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 385f458deb8366ac1175fa8031d4a375f3e78faebc1528b350ae64e4b70b8a73
+sourceFingerprint: caca5332eb27a3ebe4643bbe9aa3772664bc5d3ff3b1e3e4e8cf5556eed380d8
 contracts:
 - project.inno-audio#playback-and-device-contract
 

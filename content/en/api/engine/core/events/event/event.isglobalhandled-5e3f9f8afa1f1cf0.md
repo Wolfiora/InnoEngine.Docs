@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5e3f9f8afa1f1cf0f32f9bd0b1710c7b8774cb5353ffb134f3b4ede9452594a7
 symbol: engine:Inno.Core.Events:P:Inno.Core.Events.Event.isGlobalHandled
 title: Event.isGlobalHandled
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-reviewed: 6110752070187d149574d98eafb849f82f8e78a3be2c3dd8a31a1730b20d9081
+sourceFingerprint: d8671f794cae078f5f029b32e20d899b53e1fbeb76048be1effd450a38a9bec3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

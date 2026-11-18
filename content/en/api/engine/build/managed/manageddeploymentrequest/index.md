@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.managed.a150216bb34fa498
 symbol: engine:Inno.Build.Managed:T:Inno.Build.Managed.ManagedDeploymentRequest
 title: ManagedDeploymentRequest
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Managed
 apiSurface: source-clr
-reviewed: e4c4abb62bd836fa428987d0d337b5f662a4210827fe7d3785693bdec383f3e6
+sourceFingerprint: 809ec89b1813fed846a7f34705edfff0adb76a2d7760f848c10dbf749363908f
 contracts:
 - project.inno-build-managed
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3c167b57ddaf4f18ce196dd7eb3725ae2fbff23620b0901f13e54a2db798fe45
 symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderSamplerAddressMode.Repeat
 title: RenderSamplerAddressMode.Repeat
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 486d9a00d78821ca0b94157062ff83be68b9d6b42c7ee86fed73c737800e3f01
+sourceFingerprint: 4e9e7e168a08f07fdcfccc309a21d08ea2353d94631a58f04a82da291cddf1f7
 apiScope: Runtime
 contracts: []
 

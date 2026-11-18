@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.04796f3e8f0105f7acfc63cec6c927320652040949b9e2bce7376ce6f575487d
 symbol: engine:Inno.Input:M:Inno.Input.Input.IsKeyDown(Inno.Core.Input.KeyCode)
 title: Input.IsKeyDown
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Input
 apiSurface: source-clr
-reviewed: 7d67c61952136ab8cf73e44e8d67b0cd5623f2df2e34b7d44723e066a605d165
+sourceFingerprint: 8d15277cbf958e561e7dad6f25696eaeb32647875d556649989682788f4a1db4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

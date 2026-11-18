@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.05718bc6cb699548eef3e21d7f58ba98aec427935ed8097e00c126b59cdfcdee
 symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderGraphType.dimension
 title: ShaderGraphType.dimension
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: bcd793285a12425e126426993c2bd6a4dd4e8d23a61cb32381e6dfda1b635a68
+sourceFingerprint: f66609dcf205fc5083b338f89bd554568b8587f5aae052ddab384f4d70e2e79e
 apiScope: Editor
 contracts: []
 

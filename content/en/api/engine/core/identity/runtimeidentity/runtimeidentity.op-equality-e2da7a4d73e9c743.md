@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e2da7a4d73e9c743882cc1d30852d8f3eb4c5ba2b003964b5dab5a0ddc7fd8e1
 symbol: engine:Inno.Core.Identity:M:Inno.Core.Identity.RuntimeIdentity.op_Equality(Inno.Core.Identity.RuntimeIdentity,Inno.Core.Identity.RuntimeIdentity)
 title: RuntimeIdentity.op_Equality
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Identity
 apiSurface: source-clr
-reviewed: 481058d9baacb8f67c095603d51919defa42a84a8b548c05ae200a9f3e15d885
+sourceFingerprint: f96580361638ef80769710c3b0df39d6d9bdd0f5dcdf9311ad239d2d1c230e7f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

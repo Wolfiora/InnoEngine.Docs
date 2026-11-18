@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c0261250ec8d4d8f593cbe188c9ae04b0dc74f1b29fde808e12cd9c624455fc5
 symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderTargetArtifactPath.GetShaderPath(System.Guid,Inno.Rendering.GraphicsApi,Inno.Rendering.Assets.RenderShaderVariant)
 title: RenderTargetArtifactPath.GetShaderPath
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: f3aecd706c63044306533bf42a5d25ff4485bfc2c9e5351e58830e62b854dc4b
+sourceFingerprint: 698ea3bf19a3edc738366ef664468f4a7bc7feff80f2ac31e9ada588ff1c59c6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.960d26a8b78e046709d0c7c681e5569c1fce198ee86429379977bec4667042ea
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorDocumentContext.SetViewParameter(System.String,System.String)
 title: EditorDocumentContext.SetViewParameter
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: 08ac722db404a2a00452e7db9e7fdab0c811aa7b59ff819cccf6ebd7575d3ec8
+sourceFingerprint: 3fb6078882171b272f8cd02f65daa51a27a3498af8bc946ea3bc4f6a4c8ea109
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

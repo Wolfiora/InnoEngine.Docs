@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2f1d51e55f6313bbbc2e9c22b0233b6b39a61c0073a7263c8eb66c9a308cf162
 symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportFocusBounds.#ctor(InnoEngine.Mathematics.Vector3,System.Single)
 title: EditorViewportFocusBounds.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: 1913c1fc3826045ab2b56fbec6f78bc25f4bd7fe91f22db4f6b949c56e4ab588
+sourceFingerprint: 1f878fac06cebc96f2f363b34b3983567af0c73f08fc73536e526b10c69c9de9
 apiScope: Editor
 contracts: []
 

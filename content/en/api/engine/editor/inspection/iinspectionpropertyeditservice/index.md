@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.inspection.91ed65d66592eaf6
 symbol: engine:Inno.Editor.Inspection:T:Inno.Editor.Inspection.IInspectionPropertyEditService
 title: IInspectionPropertyEditService
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: source-clr
-reviewed: f8cec40abf8dbc68dd1dc94070bb1aef4e0912f01179bc9efd95ab1373e3b6b1
+sourceFingerprint: 69ffc0e67301afeb9b9c8447849f02916f31cbd13b98f5bc2b2c91688188f930
 contracts:
 - project.inno-editor-inspection
 

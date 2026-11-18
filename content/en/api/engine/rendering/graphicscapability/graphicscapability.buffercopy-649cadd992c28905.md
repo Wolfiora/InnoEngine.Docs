@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.649cadd992c28905448023ae9f1c0cdd91684b8dfdaa9dfe95e08f08fd12154d
 symbol: engine:Inno.Rendering:F:Inno.Rendering.GraphicsCapability.BufferCopy
 title: GraphicsCapability.BufferCopy
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 97a352b147e4f9653ecb0218d2bf4b43bbd00f3978e76edd5ff5576a37555389
+sourceFingerprint: ded6fe710fb94e9ac5d9c458e842ff9389b76ca3de401e7af5ad834cbe7c23d4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

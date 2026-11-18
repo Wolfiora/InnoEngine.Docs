@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.87139f69074b54bb1bdfd74f8fc8a090d8def8c1303fe650e3f9e736f5210eaa
 symbol: engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasView.ToScreen(Inno.Core.Graphs.GraphPosition)
 title: GraphCanvasView.ToScreen
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph.ImGui
 apiSurface: source-clr
-reviewed: b0f442b71bd53ce279d22710c59a5ef1ffc9e4f6d70f5b15a9eb6f726461e8d6
+sourceFingerprint: b6bcaa7533631e16d619889d733bd81eb851bd23f50022df7673cd23e87f897f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

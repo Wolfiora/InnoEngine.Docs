@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.55f10aba226756f9a8e0a4932131f5ac4f684206ba1aa1a52467875bdd391a87
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.TableSetColumnIndex(System.Int32)
 title: ImGui.TableSetColumnIndex
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 725c6a3c990f49145580533b1f6176af3b671444889a604508f4fe73c444007f
+sourceFingerprint: e82f1122d882f316ff589daadf83f7ebb3338daec7baffe228b7ccce2b8a0b67
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a1b43aa772c5d15f7e2ea566da5368b26e17793da1e682609830625956da3ea9
 symbol: engine:Inno.UI:M:Inno.UI.IUiService.SetText(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle,System.String,System.String)
 title: IUiService.SetText
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: c442519fb87e059395580b6b4e08ae1e3fe0a65bae93c2028903915ef5b703a3
+sourceFingerprint: 45f9fb35884913c5a42dfb8e0ca4188a128eb844dcb20e1852432764c5c182cb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

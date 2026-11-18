@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ea4a3f9fa9c6dee2db18c0b3382d6b2b28822affa9f50fee49ac3118f988af50
 symbol: scripting:Inno.UI:M:InnoEngine.UI.UiRenderFrame.CreateRetirement(InnoEngine.UI.UiMeshHandle[],InnoEngine.UI.UiTextureHandle[])
 title: UiRenderFrame.CreateRetirement
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: af2bd48e2aadf98a76df7beba443644702109157883db8d98da5e5a2fb5d8ff2
+sourceFingerprint: 1a376e41331f5e954b7bdfb18f7e8931c388984fbb051fc466152e394d49335c
 apiScope: Runtime
 contracts: []
 

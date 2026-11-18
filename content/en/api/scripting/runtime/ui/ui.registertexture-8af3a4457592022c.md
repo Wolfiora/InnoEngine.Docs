@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8af3a4457592022c96740b49e9fd1e5049075b0407d0b2a9b6a9510e1ed22354
 symbol: scripting:Inno.UI:M:InnoEngine.UI.UI.RegisterTexture(InnoEngine.UI.UiContextHandle,System.String,InnoEngine.UI.UiTextureData)
 title: UI.RegisterTexture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 979e0b0fe047e5b06c511a9ec5fc138f8559ae2d6376e5eb8b2c27f6e5c26a88
+sourceFingerprint: af38cc5412e4a7a5e70b08a396e2d3a98095b3c70d84e200960a91c7e224d65b
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3db68e09470d88dd6c64f065a08b420d34bcd4db73da7b376b95e5df331d2454
 symbol: engine:Inno.Core.Identity:M:Inno.Core.Identity.IdentityAllocator.Unregister(Inno.Core.Identity.IdentityObject)
 title: IdentityAllocator.Unregister
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Identity
 apiSurface: source-clr
-reviewed: e8b0c284d8f0fa0e159a09e35e7603872e4938da2a3dbb63d1271ba5a747a8bc
+sourceFingerprint: 35ce700a855a6c6c97b4354f5c47e9286488497f239d6336c2cd34840806b21a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

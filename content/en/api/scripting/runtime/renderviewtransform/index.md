@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.8a1b8e85386b72bf
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderViewTransform
 title: RenderViewTransform
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: e0a2e973ec7f987d4e28227fa6e42c191d4be116f33328ca82e2c156cff378cc
+sourceFingerprint: 51c5f2fc1ceef41dcca8247c4fd7d7955c428d47bcedc28cb62d24b773ea30f9
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

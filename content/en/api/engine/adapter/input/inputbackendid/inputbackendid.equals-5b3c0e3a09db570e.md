@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5b3c0e3a09db570ed24ff1ffc8915c80afc4b1a02eb2f7706f57a03fa30d686e
 symbol: engine:Inno.Adapter.Input:M:Inno.Adapter.Input.InputBackendId.Equals(System.Object)
 title: InputBackendId.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Input
 apiSurface: source-clr
-reviewed: ba714052db9c0dd2813e82a705bc4ad9fbb302d98e49d9e9d2b860f07a3e5893
+sourceFingerprint: ba714052db9c0dd2813e82a705bc4ad9fbb302d98e49d9e9d2b860f07a3e5893
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

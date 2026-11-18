@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.426f239254a1eba2b0c3fc98748e2b5378d41943a4ac05242331c400c2c5f840
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.GraphicsPipelineDescriptor.vertexLayout
 title: GraphicsPipelineDescriptor.vertexLayout
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 97085b6bbb3ba0d69d8b3b126576ca897afab10598ed8e6a61afb7dbf9922fb4
+sourceFingerprint: 5e16c9b0a83f4aa4539ab52bdd77d20dec5478a8f5c2c96a38bc97557e4d5bd2
 apiScope: Runtime
 contracts: []
 

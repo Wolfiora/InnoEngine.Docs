@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3cff969816af4df371a4533f289238b07351068750f9f5a1a4d0766c995c6a34
 symbol: scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneEdits.SetGameObjectLayer(InnoEngine.Scene.GameObject,InnoEngine.Scene.GameLayer,System.String)
 title: SceneEdits.SetGameObjectLayer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: editor-script
-reviewed: 1c01aa519edb9912b091f664f6e565c8a4ea62d5cf6418c173bdd2d64d8267a1
+sourceFingerprint: b4bc768b11957f2afb99c642d3886eb3176bb3973205b4b6ac9eb0e4050f85bb
 apiScope: Editor
 contracts: []
 

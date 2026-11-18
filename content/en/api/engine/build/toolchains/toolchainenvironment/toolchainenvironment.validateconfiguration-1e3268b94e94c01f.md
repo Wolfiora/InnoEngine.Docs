@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1e3268b94e94c01f07ed733e9420da43e4412619f7492403e624020f0150f4f1
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.ValidateConfiguration(System.String)
 title: ToolchainEnvironment.ValidateConfiguration
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 2b234a262229e7b12e291b85fd32f385853070cc5e85cd3038347ede24262127
+sourceFingerprint: 6f70d4757a38a4d361cc75218c71d57cfa46c6e00791347c490e2dc6cae7ed35
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

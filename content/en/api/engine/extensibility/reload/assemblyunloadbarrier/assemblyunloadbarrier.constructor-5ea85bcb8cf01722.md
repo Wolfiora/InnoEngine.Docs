@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5ea85bcb8cf0172262a5e08e284771f48500e1b5b3306898906b6fa28251315c
 symbol: engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.AssemblyUnloadBarrier.#ctor(System.Collections.Generic.IEnumerable{Inno.Extensibility.Reload.IAssemblyUnloadProbe},Inno.Extensibility.Reload.AssemblyUnloadBarrierOptions)
 title: AssemblyUnloadBarrier.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Reload
 apiSurface: source-clr
-reviewed: a8bc8606d3cba22a884802e9d437b07fd8cffe274f1867111d4704b7aeef64a9
+sourceFingerprint: 9ff821007bbcd6ee23a56abb88e8677aa79effa2e3e75d154f4612f0b1e45e09
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

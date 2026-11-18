@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.ui.2c2a20f36cb6f8f5
 symbol: engine:Inno.UI:T:Inno.UI.UiContextHandle
 title: UiContextHandle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: aeeaf613b05e41033b31d7cab3b9aec1cccdfacd7c4f4d5771c6a0dd93ecc31f
+sourceFingerprint: bf6c9301bf16c2f60bb145f404062bbdbd70bf017dfc03e44b9ae6eb2f655776
 contracts:
 - project.inno-ui#document-and-frame-contract
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c9551d7dee87f7a97b5d6ff2024d3823d8e1d788f4e7b4698c4309bf5a417890
 symbol: engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettingComposer`2.CaptureContribution(`0,`0)
 title: ProjectSettingComposer<TSetting, TContribution>.CaptureContribution
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: source-clr
-reviewed: b9084fc1b0b9ebe4dd48138946ee31d936d930e507189753de216052d72cd0ab
+sourceFingerprint: 038c4ad8567543ba17c503d9a72693bd8003534e850699305190cabcb9833533
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

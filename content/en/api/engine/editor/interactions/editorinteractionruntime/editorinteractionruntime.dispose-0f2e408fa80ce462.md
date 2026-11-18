@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0f2e408fa80ce462e7c6cdc0f5bacb960e4bd6c5c20ca873dd261348572ee266
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteractionRuntime.Dispose
 title: EditorInteractionRuntime.Dispose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: c1e52bfd7805ad7dd171bfdb5f95ff038cbeb1658f79e76aa03f25aa78c507a5
+sourceFingerprint: 5c8ec20f4cf55d09531326e1e0303866a23830758fa7c7861311498efa8fd47a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

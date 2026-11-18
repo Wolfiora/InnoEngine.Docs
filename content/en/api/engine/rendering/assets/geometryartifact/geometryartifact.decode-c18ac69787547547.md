@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c18ac69787547547491625973d6757f254c86bcfb0b2b022001fec031ff85d29
 symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.GeometryArtifact.Decode(System.ReadOnlySpan{System.Byte})
 title: GeometryArtifact.Decode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: 12eb5bbc42a112446bada717b752ce8aca74193ce7c1044b566b543d0746ab09
+sourceFingerprint: c52dc1b5b0f6eb044ce5601b857a3cd087dc3d2859a931a61d9b61cfdbf59e22
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

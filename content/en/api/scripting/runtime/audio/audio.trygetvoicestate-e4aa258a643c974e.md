@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e4aa258a643c974e06d903bc1a3f6744b82b191a7ad052117d6593d452be5387
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.Audio.TryGetVoiceState(InnoEngine.Audio.AudioVoiceHandle,InnoEngine.Audio.AudioPlaybackState@)
 title: Audio.TryGetVoiceState
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 3ad826c4eec15da4c2e9175fd747fc8395b9121a6dc0d79703c4e66296e7b179
+sourceFingerprint: 471fc63a8fe8d518019d888dacd9832fa8dba25b21d60380cc3ba7e967665e57
 apiScope: Runtime
 contracts: []
 

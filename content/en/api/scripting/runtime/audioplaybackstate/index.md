@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.audio.runtime-script.b6d9f1cb21fabe4f
 symbol: scripting:Inno.Audio:T:InnoEngine.Audio.AudioPlaybackState
 title: AudioPlaybackState
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 361611c9dd63b06a9aa0c6afb490cabe962e5696d379eee757e1710b33420540
+sourceFingerprint: 97f0d79dea0dd4cca077dbbc906006dbc36ad1d2cae475579ca2521d161ccfd9
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

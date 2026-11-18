@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.41e01201df9f697cba1b12626f29b0384b2f91f5e035795742acd07152b9bba1
 symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.ProjectSettingPathAttribute.#ctor(System.String,System.Int32)
 title: ProjectSettingPathAttribute.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Settings
 apiSurface: editor-script
-reviewed: 8d3836006dc750ca1cce94a1e49d6022d4b7a000d310c8d2af71c6fdd9a0a790
+sourceFingerprint: 22024f3517824d0f6492bcd7f9c8aa63b6efbb8ab06df58cb8510cde5f48dd26
 apiScope: Editor
 contracts: []
 

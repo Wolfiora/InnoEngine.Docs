@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.text.e8d5c01b19e82afa
 symbol: engine:Inno.Text:T:Inno.Text.FontMetadataCodec
 title: FontMetadataCodec
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: source-clr
-reviewed: 9f444b9fb93f6d8305a39325b322275ffae436bd4d87ab5bb944edbc18140a45
+sourceFingerprint: a085878d65b7f289d494a920e16fe25952216050d1cef26da2cecbe1dde25344
 contracts:
 - project.inno-text#shaping-and-glyph-contract
 

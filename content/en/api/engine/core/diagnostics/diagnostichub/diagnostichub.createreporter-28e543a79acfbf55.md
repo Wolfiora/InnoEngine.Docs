@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.28e543a79acfbf55323cb4662af0d5f615b7b675f5f0c4c3aa47da327f09d97b
 symbol: engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticHub.CreateReporter(Inno.Core.Diagnostics.DiagnosticSource)
 title: DiagnosticHub.CreateReporter
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: source-clr
-reviewed: e35289b047d4ff3e57932407d4a729d2e7d80002d88d8735f6d27e1a95f28286
+sourceFingerprint: bedcd95ec3d18f68c17e8fb35127751495289ce99036dde2f495305515a98955
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

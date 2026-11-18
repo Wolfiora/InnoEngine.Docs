@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.20c76c77168767698b34407ca373cab3ea09c4657b3e7bb3e1263057f469bb71
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IRenderResourceService.ValidateShaderArtifact(Inno.Rendering.Assets.RenderShaderArtifact)
 title: IRenderResourceService.ValidateShaderArtifact
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 5d0f0708b55fed15fd7114b35e6821a22e1b5676383a21327ecd0feae2d3abcb
+sourceFingerprint: ded36a9ba61bb8ef3972795fb1f9edb1f04bfdd759be5e5303c8e20108f0ae0a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

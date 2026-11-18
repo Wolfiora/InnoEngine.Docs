@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2d3278003993eac94e6edcefc437c9441dd0e3697385704ad0d0bcbcf5dd2ab8
 symbol: engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildCaches.CreateOwners(System.String,System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.NativeComponentDescriptor})
 title: StandardBuildCaches.CreateOwners
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Distribution.Standard
 apiSurface: source-clr
-reviewed: 4b49603d3bd4744a4cd3bbe2be1380e3a312a0c84ea1f0aed2f0ec730c495fb2
+sourceFingerprint: acbce805c275e216df3ff9ac9e62ec65500293f261cfd70d45309e691efe7daa
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

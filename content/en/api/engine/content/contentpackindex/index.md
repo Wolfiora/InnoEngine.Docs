@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.content.e62fc7378b965840
 symbol: engine:Inno.Content:T:Inno.Content.ContentPackIndex
 title: ContentPackIndex
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Content
 apiSurface: source-clr
-reviewed: f62c5c540155b133b72332869bf03bdc8ed00e0c4d0db18706098bd75f4295be
+sourceFingerprint: f8b3ca47d2902b092e94f777d194ee0a2252e72cac60c3f5e75719e781914eff
 contracts:
 - project.inno-content
 

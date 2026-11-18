@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: api.projects.inno-editor-core
 symbol: project:Inno.Editor.Core
 title: Inno.Editor.Core
 kind: project
 owners:
 - Inno.Editor.Core
-reviewed: ''
+sourceFingerprint: 8832de103be14264e397d044502b81fb23b962db9f9d5b38929e49bae247cf88
 contracts:
 - architecture.editor-generations
 - architecture.ownership

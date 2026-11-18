@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2f724b22d7bc1c6a3c8fc960d9654af171d86ebba9dba03357e1b65615a460eb
 symbol: engine:Inno.UI:P:Inno.UI.UiContextOptions.width
 title: UiContextOptions.width
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: f1b43488f990189f9e5027496b702e24c114a1cb806b3ccf81ce4c0a2d9e8f6b
+sourceFingerprint: 28f6ae51fe7fd8f7ab135343720c9bdb62284607d065aced35fa63bdc372eec6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

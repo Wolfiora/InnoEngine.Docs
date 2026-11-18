@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.settings.f3c65486f1ad1216
 symbol: engine:Inno.Editor.Settings:T:Inno.Editor.Settings.ProjectSettingEditor`1
 title: ProjectSettingEditor<TSetting>
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Settings
 apiSurface: source-clr
-reviewed: fc17c9048ef6bd10e8f23699f8e5e9361c25156a4cb57e78f6208712663badbe
+sourceFingerprint: ee6828a3b171de7d9603ef036a804d67b731ec74aab3ae1704c131c2fe09ffd9
 contracts:
 - api.projects.inno-editor-settings#identity-and-use-contracts
 

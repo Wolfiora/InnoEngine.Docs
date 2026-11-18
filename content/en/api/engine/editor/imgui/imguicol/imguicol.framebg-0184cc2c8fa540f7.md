@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0184cc2c8fa540f7ddc547cc88202b1a89eef48a7687d85be4669169fdbdc0da
 symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiCol.FrameBg
 title: ImGuiCol.FrameBg
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: fe701bf135e94f9ec4c1c7bc5dcbd1cb329615528f3f17d1852a989ad7d04aa2
+sourceFingerprint: 9b5e9c2edc6c9e54bf7aeb5f1e98b0508dfce51092a58b69dd76dcf078e38c70
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

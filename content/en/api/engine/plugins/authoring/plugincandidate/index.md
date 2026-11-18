@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.plugins.authoring.f2418739f542aa1b
 symbol: engine:Inno.Plugins.Authoring:T:Inno.Plugins.Authoring.PluginCandidate
 title: PluginCandidate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Plugins.Authoring
 apiSurface: source-clr
-reviewed: 0aa0ed39864f6bf239d746d5a4b1344f6bfab03d00e2e21a8baa7be350b333c6
+sourceFingerprint: e1c409e70710aa65ea2e26f2ed9998339567800d9995b3d294f97a540c6d4741
 contracts:
 - project.inno-plugins-authoring#installation-and-generation-contract
 

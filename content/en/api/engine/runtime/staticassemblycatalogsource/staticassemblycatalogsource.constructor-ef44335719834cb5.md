@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ef44335719834cb54ec76de358e7a6167d85f3e385e31ca1370bfeaf17013c06
 symbol: engine:Inno.Runtime:M:Inno.Runtime.StaticAssemblyCatalogSource.#ctor(System.Collections.Generic.IReadOnlyList{System.Reflection.Assembly},System.Collections.Generic.IReadOnlyList{System.Reflection.Assembly})
 title: StaticAssemblyCatalogSource.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: 29a2eb496abdf1854c54b9e288ef8e8e4c9ae39cf1e485bcac31639d5071cd82
+sourceFingerprint: d5b8e2dca4dc3c991c54e01400e6109f89bebc1487b96a7b5d309cb92062a292
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

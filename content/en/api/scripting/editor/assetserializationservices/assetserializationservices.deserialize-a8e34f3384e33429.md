@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a8e34f3384e3342955dd34f9e9b0c5d37188e9daba8fd5a58f3385e2a6222ebb
 symbol: scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetSerializationServices.Deserialize``1(System.ReadOnlySpan{System.Byte})
 title: AssetSerializationServices.Deserialize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: editor-script
-reviewed: 136759e1389901d4ea635fc397c9fae7043114d89a252af3d127064ec632c19c
+sourceFingerprint: cd35db9aa01be305447a8d9f98c86b63de6c7b369734eeb555aacdcfc9f4c5d2
 apiScope: Editor
 contracts: []
 

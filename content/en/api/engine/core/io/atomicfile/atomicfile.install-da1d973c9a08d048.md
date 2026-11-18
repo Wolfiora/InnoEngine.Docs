@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.da1d973c9a08d048316264ebcb98144302af29cd7be7da4f60fe3c6874c4f1fa
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.AtomicFile.Install(System.String,System.String,System.Boolean)
 title: AtomicFile.Install
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: 8cf72d6d0c186510ba0c7d6f076a0ee49fa119d448340cbd6ffb922a96871950
+sourceFingerprint: ae64d4a48e91a9dabc3f8fe5f6cd9250374850c77099cb7eb04fe2ca77fa2000
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

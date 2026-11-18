@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f59376ab20e7a5e365ba4c9be8ba6dbb4a547f1c84e8485fb1f287589ba1c178
 symbol: scripting:Inno.UI:M:InnoEngine.UI.UiDocumentFragment.Equals(System.Object)
 title: UiDocumentFragment.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: e5f836369e87b72b90dca830e94f2f63586ee7b0d02bac2dd7ab412aad9ff342
+sourceFingerprint: e5f836369e87b72b90dca830e94f2f63586ee7b0d02bac2dd7ab412aad9ff342
 apiScope: Runtime
 contracts: []
 

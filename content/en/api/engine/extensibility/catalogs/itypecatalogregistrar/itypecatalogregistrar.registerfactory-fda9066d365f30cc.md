@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fda9066d365f30ccfbf5c546aa23b9cbcda4af71b024c4fb88e99cf4668aa509
 symbol: engine:Inno.Extensibility.Catalogs:M:Inno.Extensibility.Catalogs.ITypeCatalogRegistrar.RegisterFactory(System.Type,System.Func{System.Object})
 title: ITypeCatalogRegistrar.RegisterFactory
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Catalogs
 apiSurface: source-clr
-reviewed: fc7ae97ee7cee30fdc410df2b7e0d3ac6aa538a2e3e2ecc8a917fc49e876e168
+sourceFingerprint: ee089f3d2c3a8cf5bd946b7a54195a13dda9dc56cc9dfc2fbebdd60bff6ec2e3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

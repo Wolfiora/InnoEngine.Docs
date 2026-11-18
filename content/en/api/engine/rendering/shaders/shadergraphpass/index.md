@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.shaders.31b93a06cb4d678d
 symbol: engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderGraphPass
 title: ShaderGraphPass
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: ec220e4421d96c93bc4c3517ca00a17b9d8e8c94b124acceda6e7caf793ba1fd
+sourceFingerprint: b34becd59db5e54fb42c8b69df19fe774f835f27761caa056e01c02de6373d8c
 contracts:
 - project.inno-rendering-shaders
 

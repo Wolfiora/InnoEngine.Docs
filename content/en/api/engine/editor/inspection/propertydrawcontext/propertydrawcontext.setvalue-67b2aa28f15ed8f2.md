@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.67b2aa28f15ed8f2d98601f8dfed5f1ab178f153763c45f47cfa78a13cd771d9
 symbol: engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.PropertyDrawContext.SetValue(System.Object,System.String)
 title: PropertyDrawContext.SetValue
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: source-clr
-reviewed: f6d911e2be2aa4d9295f76d4abb3b66d6c3691089b1f149bdd884f79441a1748
+sourceFingerprint: 3877925013e21b5b8e9e4481bb24fd261df2d061f5ad0950183d692120805730
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

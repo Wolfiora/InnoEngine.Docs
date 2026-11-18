@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4af8c2948d89bd9a6a55573c471798a7d48374e509b9d5e0824d31fdb9cf77e5
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.Sample(Inno.Rendering.Shaders.ShaderIrValue,Inno.Rendering.Shaders.ShaderIrValue)
 title: ShaderIrBuilder.Sample
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: a55a2b124bb6c7167aceb73241c5f96ab77531df5b92dd86bed9c5025f3b4cd9
+sourceFingerprint: 8c7ef5ee9b3a7c23f805ec56b6ce76fbb4d17d1f4e02a34ba3e9016ee1690794
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

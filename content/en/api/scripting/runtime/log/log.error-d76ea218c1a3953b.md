@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d76ea218c1a3953be15213597e651cda9dbe625e8233447bb4e48d5e1dd3c966
 symbol: scripting:Inno.Core.Logging:M:InnoEngine.Logging.Log.Error(System.Type,System.Object,System.String,System.Int32)
 title: Log.Error
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: editor-script
-reviewed: 98882c0034fe5e12f8f06813d1a1e655ab61341ac584045c5cf76ed80cf56f68
+sourceFingerprint: a2adc4905a5b40fd3c9732a02a34ff2c651a7939b5e31f043e76307f8117bd19
 apiScope: Runtime
 contracts: []
 

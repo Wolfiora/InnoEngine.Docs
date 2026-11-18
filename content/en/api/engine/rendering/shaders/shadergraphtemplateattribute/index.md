@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.shaders.3e627b19f9998376
 symbol: engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderGraphTemplateAttribute
 title: ShaderGraphTemplateAttribute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 8641e22925fd4c7c427fa4f49d334f68ff4df71ac01896eae73e484a5200d686
+sourceFingerprint: 60b27fc1b3d205e3ee973f5ef6c86f7553a4aa1a50e4d83e932d84fee4704e64
 contracts:
 - project.inno-rendering-shaders
 

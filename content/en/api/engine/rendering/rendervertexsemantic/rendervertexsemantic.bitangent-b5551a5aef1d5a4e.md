@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b5551a5aef1d5a4e837aac080b7c442d241b846632d01273fb267e550546286e
 symbol: engine:Inno.Rendering:F:Inno.Rendering.RenderVertexSemantic.Bitangent
 title: RenderVertexSemantic.Bitangent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: c00a80be4187509204dbecdfb8b3c4673590a5eb2d2609983bbfb8dd839f68cb
+sourceFingerprint: 0b3b369a0bb8bec1e9562dcedc58eb1697318cb86d344786fd7987423f9c4b1e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.498ed068843d26150e59e99e7ae85a97dbffb8289ed5cb0adfaae926501ce896
 symbol: scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.MaterialValue.vector
 title: MaterialValue.vector
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: b3c5e023cb14861d83caaef807886fe3160f2a8ef9caa0990b6962f91bb1d65c
+sourceFingerprint: 25cf58a9537e0abd5dd1191fc643fc7f5b163a2f83ffe93ebf6627d6cf4e83b7
 apiScope: Runtime
 contracts: []
 

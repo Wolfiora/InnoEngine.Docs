@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.da55eeec03b67893917393a2d2935ee4977ef92a72c818320a8a02a0dc316f8d
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCachePublisher.EnsureImmutableRegistration(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Threading.CancellationToken)
 title: BuildCachePublisher.EnsureImmutableRegistration
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 048722efa0f0ce4b3ddcab528248c0cad1b9ab7e3f2e4014c25a5834a4ecf678
+sourceFingerprint: 9a2fec457aa818c41c72cc54e56bb46ff6e67a5848dc381590373084d7033f03
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

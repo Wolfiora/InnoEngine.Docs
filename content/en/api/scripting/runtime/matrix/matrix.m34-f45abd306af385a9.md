@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f45abd306af385a9a9dfa6850b31e8311a2e0b31bba3f44bd55f034a69be0cf1
 symbol: scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Matrix.m34
 title: Matrix.m34
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 4597d468dbcc378f9be4bc56b90cbfb128ad168f46ce7e6dccf418012a249a64
+sourceFingerprint: 0a818b0d48c5efab982b204e0966fb6658eedd682b9df1aff783432c080540e4
 apiScope: Runtime
 contracts: []
 

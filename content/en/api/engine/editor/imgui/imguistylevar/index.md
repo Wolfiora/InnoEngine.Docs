@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.imgui.1ced47dbbc4cfea3
 symbol: engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiStyleVar
 title: ImGuiStyleVar
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 0f18610feccf4cce4d85a15e5ba1e64b0a4dc1e36027ee65a1a05befb494d5cf
+sourceFingerprint: 54700e22c248649f05784a71bbcb17d51d068fcd98b3950b7119afa2d9d61da4
 contracts:
 - project.inno-editor-imgui
 

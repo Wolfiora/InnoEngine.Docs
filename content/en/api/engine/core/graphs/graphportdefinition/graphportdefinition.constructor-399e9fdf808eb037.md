@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.399e9fdf808eb03728fda1b413305a2dc847ac69a256c0f9612e942b5eeeb53b
 symbol: engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphPortDefinition.#ctor(Inno.Core.Graphs.GraphPortId,System.String,System.String,Inno.Core.Graphs.GraphPortDirection,Inno.Core.Graphs.GraphPortCapacity,System.Boolean)
 title: GraphPortDefinition.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: source-clr
-reviewed: 598a6bb03bea106c0bb33bcff0ef57b11b452b848575d37a4e2a57f28db4236a
+sourceFingerprint: 3c9d8b65a7ce7a01428c5a0a5aea29b2363205a7b77e78eae882ce275f737e74
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

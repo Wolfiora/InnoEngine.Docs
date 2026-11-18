@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.05b5c04b3b7b2430af9d8eb02e216813f6bdd5edaf245c9c3808a2d77e3d01fd
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Quaternion.op_Implicit(Inno.Core.Mathematics.Quaternion)~System.Numerics.Quaternion
 title: Quaternion.op_Implicit
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 4652a4253726b5d39e3a86de6252e7c33a1241386245dcb7be6541b0395ed438
+sourceFingerprint: 0dbd5575c7a8610fa6c40d61d115b354cac53c0906e5bcd1429b0645efa74c0a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

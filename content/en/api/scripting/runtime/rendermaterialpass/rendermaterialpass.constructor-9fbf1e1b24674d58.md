@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9fbf1e1b24674d586676848acb96a9070491b75656e23335dbf3367364d52cee
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderMaterialPass.#ctor
 title: RenderMaterialPass.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 7860d8d4adf00a33b5cf98ebfd93a86718ef7d164d0c184702da95acabd35627
+sourceFingerprint: 7860d8d4adf00a33b5cf98ebfd93a86718ef7d164d0c184702da95acabd35627
 apiScope: Runtime
 contracts: []
 

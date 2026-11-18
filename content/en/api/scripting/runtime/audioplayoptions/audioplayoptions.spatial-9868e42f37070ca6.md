@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9868e42f37070ca68bb05f5eb0d5c0823f3ad9be4d91a2acbd1f60c4e350460e
 symbol: scripting:Inno.Audio:P:InnoEngine.Audio.AudioPlayOptions.spatial
 title: AudioPlayOptions.spatial
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: c04e85af7b90a5bf875d942b84b3a5720a26d594c8badc2b74e3ce3a02dc6f31
+sourceFingerprint: 9898cb99d4ee29421cbd851afacdf972fb70d4e262f03610994a58e6e07f8816
 apiScope: Runtime
 contracts: []
 

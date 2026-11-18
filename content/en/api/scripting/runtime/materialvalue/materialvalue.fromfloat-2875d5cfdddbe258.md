@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2875d5cfdddbe25883ddda09d8f885e863820502bb4ffab3aec91142b6639fc8
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.MaterialValue.FromFloat(System.Single)
 title: MaterialValue.FromFloat
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: e3c7c8a80952f3c5402ab449bf6a3527d64e9c780944ab4f8159005b84cb31df
+sourceFingerprint: c888d920ebfc2b6bf5db2670e545eac8c1a60ea39c77eaa3f2f15e689e831e1a
 apiScope: Runtime
 contracts: []
 

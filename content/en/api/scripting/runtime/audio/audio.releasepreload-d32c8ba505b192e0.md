@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d32c8ba505b192e088041e48a28dea8cfdf5cedba65b5fc6440a8fe9c2b5bd02
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.Audio.ReleasePreload(InnoEngine.Audio.AudioClipAsset)
 title: Audio.ReleasePreload
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 07740c48381b7229c2eeef0f638730ca1bc6b5ffeaec380d41dc07e2d726ef55
+sourceFingerprint: b17b75ab314c3fc6ea53686a5c8d3a6bf95a259506ef10ec76cef6cf9fad06c6
 apiScope: Runtime
 contracts: []
 

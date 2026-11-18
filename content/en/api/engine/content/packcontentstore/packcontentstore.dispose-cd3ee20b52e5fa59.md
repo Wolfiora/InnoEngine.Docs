@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cd3ee20b52e5fa593f710634d345b0d92c0b9501debdfafd4715934af844bc6f
 symbol: engine:Inno.Content:M:Inno.Content.PackContentStore.Dispose
 title: PackContentStore.Dispose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Content
 apiSurface: source-clr
-reviewed: 9ca81ae6d46328f4f31720afaee5d289449161d07bf5ea5b9be2af21925ede58
+sourceFingerprint: 420e5c77ae828db6cb1740c186de387c5da3253e78e3fc745709809da987ac31
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.composition.fc13ccd2c8248070
 symbol: engine:Inno.Build.Composition:T:Inno.Build.Composition.BuildTargetFactory
 title: BuildTargetFactory
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Composition
 apiSurface: source-clr
-reviewed: 75d02af8cde5e25a2d29409a038335b91c5eb3e583d25b1b43cef1e986e97754
+sourceFingerprint: e2760e324c1040af65d355af7a3f89fb79a2c634b0ae20c2e9c761fc2eb16cbb
 contracts:
 - project.inno-build-composition
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7292a7c71ad6fdf087bb7ad80d9ebc0bb0e543a267e55a2e9ccd1be996ad7c36
 symbol: engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.PropertyDrawerRegistry.Dispose
 title: PropertyDrawerRegistry.Dispose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: source-clr
-reviewed: eb322b8b32411aa3020d15f2c5d241e8165f603f041ad3dcabf864b6985b2777
+sourceFingerprint: 762d6712d98baf878f0962691870e1cdbbf0e7c35a3807607ba89d59bdc1c111
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.986dd080cf788a71a9b26291aab7be12a84f4d5bc7adf4f27d43dc9c1e01463e
 symbol: scripting:Inno.Editor.Annotations:M:InnoEditor.Annotations.HelpBoxAttribute.#ctor(System.String,System.String,InnoEditor.Annotations.InspectorCondition,InnoEditor.Annotations.InspectorMessageType)
 title: HelpBoxAttribute.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Annotations
 apiSurface: editor-script
-reviewed: 39d540041506fe1fd8713fc4b02a98eea60ffd7eee50777bc8d61fd6c8707921
+sourceFingerprint: 8ad0ef54aca46eead569633c0d447f34a20b6ac290cabe117d826f96ca341780
 apiScope: Authoring
 contracts: []
 

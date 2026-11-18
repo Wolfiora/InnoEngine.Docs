@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-adapter-audio
 symbol: project:Inno.Adapter.Audio
 title: Inno.Adapter.Audio
 kind: project
 owners:
 - Inno.Adapter.Audio
-reviewed: ''
+sourceFingerprint: 7bbb24ea77919492b1d7663b688b2565bc5ab7ed0b968e2d3c3203839fca1072
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

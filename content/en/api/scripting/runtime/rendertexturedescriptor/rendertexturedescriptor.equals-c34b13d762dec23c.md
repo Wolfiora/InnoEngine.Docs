@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c34b13d762dec23c67310d00c5ddd195bb21ef387fe3effdfccd7dbb585a56f1
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderTextureDescriptor.Equals(InnoEngine.Rendering.RenderTextureDescriptor)
 title: RenderTextureDescriptor.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: d95435fecafff5729660ac03f4f002bd61393f3c7d9336d3f2f93c1197a9a1f0
+sourceFingerprint: 29aeac4cec838e6f392c06659701246ca7fd592ab80bcbb7275e816cef8df006
 apiScope: Runtime
 contracts: []
 

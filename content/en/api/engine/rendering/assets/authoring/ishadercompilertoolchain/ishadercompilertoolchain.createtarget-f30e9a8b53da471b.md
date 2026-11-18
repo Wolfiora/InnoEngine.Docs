@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f30e9a8b53da471b6325db6631caed1f2efbae9fb4a0a22723ea8fbed904c119
 symbol: engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.IShaderCompilerToolchain.CreateTarget(Inno.Rendering.GraphicsCapabilities,System.Boolean,System.Boolean)
 title: IShaderCompilerToolchain.CreateTarget
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
-reviewed: 5083e981667bdc468e68b3deb2c26f30b03392dfbb5d05f9b601a8042fbfd9fe
+sourceFingerprint: ab8c75a02a5325ebddd4f979ebe460dbcb21831085d47fad6fb4778d8aee7a6a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

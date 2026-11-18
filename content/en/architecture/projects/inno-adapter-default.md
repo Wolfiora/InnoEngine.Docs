@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-adapter-default
 symbol: project:Inno.Adapter.Default
 title: Inno.Adapter.Default
 kind: project
 owners:
 - Inno.Adapter.Default
-reviewed: ''
+sourceFingerprint: d83aeaba9e62f269ddb6c1407b3a724542d70f159f399b3deac56ae524407210
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

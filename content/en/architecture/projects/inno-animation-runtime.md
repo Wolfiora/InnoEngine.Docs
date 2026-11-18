@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-animation-runtime
 symbol: project:Inno.Animation.Runtime
 title: Inno.Animation.Runtime
 kind: project
 owners:
 - Inno.Animation.Runtime
-reviewed: ''
+sourceFingerprint: c7092e494d47ef2cffd960932166c837d0a07b72f2e3f2aa5645d251c88aa94d
 contracts:
 - manual.animation.play-clips#target-and-playback-lifetime
 

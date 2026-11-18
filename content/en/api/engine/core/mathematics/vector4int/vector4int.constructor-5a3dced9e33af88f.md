@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5a3dced9e33af88f40fc3d11986d8ca0423c9d242dec168d756bd9b8558c3b8f
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector4Int.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)
 title: Vector4Int.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 2dac10c324679d6cb5ce60d85d1c8a9aaf692b68fe865ce0501b55d416240078
+sourceFingerprint: 15619fd927f8361c25c4d46cf211208ba5166d7dc22920a5dd63de93e4330725
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

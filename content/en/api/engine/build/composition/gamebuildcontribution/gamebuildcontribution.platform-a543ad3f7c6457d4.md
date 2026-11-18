@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a543ad3f7c6457d4cee617d80712145625657ebaeb4df86b3e00221008708e60
 symbol: engine:Inno.Build.Composition:P:Inno.Build.Composition.GameBuildContribution.platform
 title: GameBuildContribution.platform
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Composition
 apiSurface: source-clr
-reviewed: eb7ea1b639aef76c013dde44b14f915092a8dc676441c04ac02f45d58567346e
+sourceFingerprint: bd296131b94921f8ffab4afd0067b1455272a3ca40b0477f9ca47449a965506d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

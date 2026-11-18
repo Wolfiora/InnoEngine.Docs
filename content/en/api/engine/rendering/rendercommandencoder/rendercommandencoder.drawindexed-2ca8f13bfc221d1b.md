@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2ca8f13bfc221d1b08d2a254cf27b972d9b3d214ea75cdfa5cbc7e2b2ab68f59
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.DrawIndexed(System.Int32,System.Int32)
 title: RenderCommandEncoder.DrawIndexed
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: fbf36ca62fce9b8f558d9c6e3965b4645bc98637e9c713ec90543af859292f62
+sourceFingerprint: 472658ae4961ac7f5abc0e50d9afa071c8a10af62e562e5fd01bb1554d4f16ec
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

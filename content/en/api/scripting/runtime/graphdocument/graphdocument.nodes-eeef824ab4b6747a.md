@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.eeef824ab4b6747a9273e9f3afe6a56df8e058ec5f7413c3ea408ebb211eb7b5
 symbol: scripting:Inno.Core.Graphs:P:InnoEngine.Graphs.GraphDocument.nodes
 title: GraphDocument.nodes
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: 8f8c4dc2d1a4686ff05bd5254d20bb717e17169b177551b05564e28e82f80b4d
+sourceFingerprint: 6717611c8c9c7357bad3b48bfdc8950b0141826098605142cf14d50f3a77d9c2
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d72e80b3044a52636867f9a0f73d454cf953b67ccd5f5d13c2be603d329d71f8
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphPrograms.RemovePass(Inno.Core.Graphs.GraphDocument,System.String,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)
 title: ShaderGraphPrograms.RemovePass
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: e446ce95607ebad9f2919d0ea485b067dba6df7e9f312e99e6580d5312fdb7a7
+sourceFingerprint: d0b13756d873ec35800e05bd4034c4f65f6b2ac5759402e5233a50bb80c30313
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

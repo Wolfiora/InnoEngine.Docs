@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.c9cbbc88a18bc0a6
 symbol: engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.MaterialPropertyBlock
 title: MaterialPropertyBlock
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: 47477e7b53c81428216e96af0bccbd4f4bea527e7ec12b339f45876c9a01c9cf
+sourceFingerprint: 31928b406a2d2678cbe51fb21befd4bced64106f9555faa6603e7fc8367bc259
 contracts:
 - project.inno-rendering-assets
 

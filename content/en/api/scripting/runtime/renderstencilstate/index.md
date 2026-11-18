@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.a4162613f7605e31
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderStencilState
 title: RenderStencilState
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: e5a4717407a39544a173d4c382dc89710a5e0dc829f89d02e766fe024e9003ce
+sourceFingerprint: ae563ea5066dafcc83a74d2e282a42ac381a3ac9f26c13b7e542f5de91dab0ef
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

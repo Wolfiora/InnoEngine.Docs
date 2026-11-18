@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e816f7e32ebcb9dd32ebb4fef34c6e550aa3c2370d5f9015b42643e88a89a722
 symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.GeometryAsset.#ctor(System.Int32,System.Int32,System.Int32,Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3)
 title: GeometryAsset.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: 39a4cd6b82481553cfdc3494aae645b85bf37981ad1384fca3bd24518dfa9cdf
+sourceFingerprint: f8081cdfc8ec85228bfe7c126ea3a06a0dfdf377bffe696ba41954588b1de2b6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2239008d5b8db1500af60bfc06395188a5d46715ae9967d93fdfa09795ea9c44
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.EngineObject.Equals(System.Object)
 title: EngineObject.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 71b3ef0b30873d21f7397dd65f0352cd0d86e5d7a90e0dd8fe5b3ecddcafa049
+sourceFingerprint: 42d9c8864ade790053c6cee510be3f9c904341abc7c63ed8f6f1aee8bc9e03f7
 apiScope: Runtime
 contracts: []
 

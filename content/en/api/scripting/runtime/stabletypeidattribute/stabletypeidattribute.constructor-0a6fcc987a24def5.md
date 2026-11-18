@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0a6fcc987a24def550622ff080031fb7bd0ccff365380edbb89730652d36b604
 symbol: scripting:Inno.Extensibility.Types:M:InnoEngine.Reflection.StableTypeIdAttribute.#ctor(System.String)
 title: StableTypeIdAttribute.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: editor-script
-reviewed: f424e78fe4aeed3b567b1ea287c12694c6ae179caee4922703b92187d8ccfc05
+sourceFingerprint: 69e16ead05998111434854a4f02a4175fb315742add64cb6996fd77e0eef8ebb
 apiScope: Runtime
 contracts: []
 

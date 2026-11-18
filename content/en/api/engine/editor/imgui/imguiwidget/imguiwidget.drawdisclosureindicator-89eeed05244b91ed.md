@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.89eeed05244b91ed1153a61a2a951e9fd929185d3e21d15e9d583034d38eb2f6
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.DrawDisclosureIndicator(System.Numerics.Vector2,System.Numerics.Vector2,System.Boolean,System.Boolean)
 title: ImGuiWidget.DrawDisclosureIndicator
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 9a08240c69be127a8551da160ec299a275e0f593119dc71e2d439462e866c6ad
+sourceFingerprint: 659d81038a297be649851c2c1f8c954f8aa5df253d531977a15891159408a9ac
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.77fca9bbb5bbb7bd3d92f2694149cc054c4ab59074c78e2f603f8ec2755b3aac
 symbol: engine:Inno.Rendering.Runtime:P:Inno.Rendering.Runtime.RenderTargetStore.rejectedCount
 title: RenderTargetStore.rejectedCount
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 37bcb1eb00ac15c98c7245d330e1a65a1c849dbce3a4cf6c7d1f1407911eb742
+sourceFingerprint: b7fe80a8c056c1b2bd4f697c568003aab6ef62332f5c673d5306b7239aa1795f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

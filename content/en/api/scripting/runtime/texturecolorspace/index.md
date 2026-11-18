@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.runtime-script.2a1aa06e2fe4e834
 symbol: scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.TextureColorSpace
 title: TextureColorSpace
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 94dbd7ff5335e8dc2f095ee5d3a140747675756236dbe95d542eea8851be5827
+sourceFingerprint: a50c156f65c1c5b020c87bd28f90d0eec8b474bddf922489898b13b1f4104ec4
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

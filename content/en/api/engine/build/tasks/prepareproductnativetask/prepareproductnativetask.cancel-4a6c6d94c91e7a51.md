@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4a6c6d94c91e7a51b66bcfd87deae7d785621ca683e7ad26f13e2815dc2bec00
 symbol: engine:Inno.Build.Tasks:M:Inno.Build.Tasks.PrepareProductNativeTask.Cancel
 title: PrepareProductNativeTask.Cancel
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Tasks
 apiSurface: source-clr
-reviewed: 75fef3502d87620c3273c46a09dd727bd9d32d9ea53cd7d8911fa6791c6f87a0
+sourceFingerprint: e48a558349a73badfefb6854d7bc1040d6edf38effeae6dc7462c825c1b89067
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.23e78343d99f7eb59588f51819b692f3c8787afbaa4bc37d2ddd25f66b931cf2
 symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettingObject.GetAsDouble(System.String,System.Double)
 title: EditorSettingObject.GetAsDouble
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Settings
 apiSurface: editor-script
-reviewed: a6e7f3b343f30ecf076397fe5a85568b63201e9af1395ee7dd5718fb12627521
+sourceFingerprint: 16042f3b61ae6387199f10506b0a13f88117593afff795d9c132aa9861925143
 apiScope: Editor
 contracts: []
 

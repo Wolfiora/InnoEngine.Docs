@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.171e2487a1ec36cd4e08b7b53b9ef9f43243ebac337e37b24740bb4733ce4822
 symbol: scripting:Inno.Editor.Assets.ImGui:M:InnoEditor.Assets.AssetIconAttribute.#ctor(System.String,System.String,System.Int32)
 title: AssetIconAttribute.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets.ImGui
 apiSurface: editor-script
-reviewed: cb5cf9593b3fefabecf029612a452c39448797cfe34f21c6311d5fefd4eae574
+sourceFingerprint: d467e9441f0c01c6ac654fa6251faef9edd7febdd4b61f4e899ed7380fb42e30
 apiScope: Editor
 contracts: []
 

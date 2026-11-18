@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.serialization.629826818c1ca289
 symbol: engine:Inno.Core.Serialization:T:Inno.Core.Serialization.SerializationGeneration
 title: SerializationGeneration
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: source-clr
-reviewed: f8d4c214addc3943b93daa8ea0edbcc9699fd7d7d231e3a4efbd81d1b3e1fb1d
+sourceFingerprint: f36fdf72a7f389c45aec635840724326959c1b21a8babb55da669f50478cb937
 contracts:
 - project.inno-core-serialization#operation-and-generation-contract
 

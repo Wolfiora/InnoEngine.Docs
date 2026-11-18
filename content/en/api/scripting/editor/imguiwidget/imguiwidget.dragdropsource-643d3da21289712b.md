@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.643d3da21289712bf3b1f506684d939adcf872d7234d0425bb6e6fbe444157c6
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.DragDropSource``1(System.String,System.Func{``0},System.Action,System.Boolean)
 title: ImGuiWidget.DragDropSource
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: ff799720e792e2cd4d433cc8b828cd27a7483ae616be42a737b03607868db597
+sourceFingerprint: 5d83d1572bb41016ae7e6940c5411188bca4315a15b2cca118b1e56e179bc525
 apiScope: Editor
 contracts: []
 

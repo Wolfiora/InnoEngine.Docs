@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ab1555b53ecd46d73f81c125cb7222d7847c98a8b02e80c42d77f6e2c09e2441
 symbol: scripting:Inno.Assets:M:InnoEngine.Assets.AssetResidencyStatistics.#ctor(System.Int32,System.Int64,System.Int64)
 title: AssetResidencyStatistics.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-reviewed: f06c8faaee278460479ef1f4ab87c79f163738ca97be49f43ccb6fd6a0025130
+sourceFingerprint: 35503c18931981bd1deff305070068290cebbb5127ae6eef0696c33c9e732914
 apiScope: Runtime
 contracts: []
 

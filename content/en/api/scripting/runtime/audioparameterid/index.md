@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.audio.runtime-script.b5c6dccacf95fcff
 symbol: scripting:Inno.Audio:T:InnoEngine.Audio.AudioParameterId
 title: AudioParameterId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 63b2c3f0b19e5c7cda16b68363deb1c157c2d735edcfc860465a29c471c7f773
+sourceFingerprint: 74dc626316a0926173bde2edd9f10bb3c7e11442163557a8cab5a08ae50c147e
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

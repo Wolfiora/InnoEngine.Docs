@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b8cf6888e5a2690eadeba4011121b09cd8953683cbf7f88859a91cc0d6dd08a2
 symbol: engine:Inno.Editor.Interactions:F:Inno.Editor.Interactions.EditorViewportCursor.ResizeHorizontal
 title: EditorViewportCursor.ResizeHorizontal
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: bac1d3a6e2ad4d85e787f8a6330b59c50c9575eacbde989676b45dc604f7be17
+sourceFingerprint: 1ed6a68ebe2c979e5760ea392a4cd9481652546a8e29529d0b6937ff7bdde3c8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

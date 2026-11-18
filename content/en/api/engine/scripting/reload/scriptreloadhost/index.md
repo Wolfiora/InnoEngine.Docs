@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scripting.reload.d272da59695cbec1
 symbol: engine:Inno.Scripting.Reload:T:Inno.Scripting.Reload.ScriptReloadHost
 title: ScriptReloadHost
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Reload
 apiSurface: source-clr
-reviewed: fb2271c7d2a7af401e48774c2c801f9ac4f1e811cd37f16a274da44d181b25c7
+sourceFingerprint: 639ae857ff9be2f24423765f34d999b0e9ef4c0ae78b313b47c2e4511c620e5e
 contracts:
 - project.inno-scripting-reload
 

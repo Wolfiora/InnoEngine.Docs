@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.assets.runtime-script.083a94a96c0372fd
 symbol: scripting:Inno.Assets:T:InnoEngine.Assets.ArtifactLease
 title: ArtifactLease
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-reviewed: a3f471e96d8fe9215be7463202944a80421f1fdb8ae4cdb62ae7e17d1dc4ff6d
+sourceFingerprint: f379eb4b71bc03a89afb1297bfd841e3fea35c939e24136db91ab21692848066
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

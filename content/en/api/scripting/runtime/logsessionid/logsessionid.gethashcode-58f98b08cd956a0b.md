@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.58f98b08cd956a0be57c2ba0bae402794746f56b7443164e6023f0916bf3fba8
 symbol: scripting:Inno.Core.Logging:M:InnoEngine.Logging.LogSessionId.GetHashCode
 title: LogSessionId.GetHashCode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: editor-script
-reviewed: 9509aed78ad48eecd02fddf04080f96dbc2787a5fce541df16877afe1db166b3
+sourceFingerprint: 9509aed78ad48eecd02fddf04080f96dbc2787a5fce541df16877afe1db166b3
 apiScope: Runtime
 contracts: []
 

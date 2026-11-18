@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.864b2c9402820a799302e0026886324faa8f81f75523bdf7488bfac733197c77
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.ClickableText(System.String,System.String,System.Numerics.Vector2,System.String)
 title: ImGuiWidget.ClickableText
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: d445640f2ec971bca15c572edec33a845c8578b0fd453e977f655d01668f0347
+sourceFingerprint: 7382b9621a4bfec82e06b0bb87c407aed46ca9f6d1c02d93669b580de9a280f3
 apiScope: Editor
 contracts: []
 

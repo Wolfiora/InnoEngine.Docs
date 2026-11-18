@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c79a2a4e0679b3cb66b7d1b26cf8f9bf5a0ea945e59f0b062e1e13a9f4b2ca98
 symbol: engine:Inno.Adapter.Default:M:Inno.Adapter.Default.DefaultAdapterCatalog.#ctor(Inno.Adapter.Default.DefaultAdapterCatalogOptions,System.Collections.Generic.IEnumerable{Inno.Adapter.UI.UiBackendProvider},System.Collections.Generic.IEnumerable{Inno.Adapter.Input.InputBackendProvider},System.Collections.Generic.IEnumerable{Inno.Adapter.Audio.AudioBackendProvider},System.Collections.Generic.IEnumerable{Inno.Adapter.Text.TextBackendProvider})
 title: DefaultAdapterCatalog.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Default
 apiSurface: source-clr
-reviewed: 35bf59b795bfee5a95d470de0eb31a4169d9c29526bb5270405b81571dacce3f
+sourceFingerprint: 802ea13985e46a3d8478c926774afc45a3363403677b78b885f892089c36d1c1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

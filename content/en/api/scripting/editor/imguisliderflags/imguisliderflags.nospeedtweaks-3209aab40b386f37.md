@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3209aab40b386f378834ca7b6eda5d5a0585697907b3a2896e0e259015f9dccb
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiSliderFlags.NoSpeedTweaks
 title: ImGuiSliderFlags.NoSpeedTweaks
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: f6e983fcfc4ad4f04ca456d2ae0f1b17af28497e91af128db0aa0ed5ce8c4153
+sourceFingerprint: 93bf22909656837fa6c75bb97244a597fc35c872cd0fbe9e30e6be7b1e8d229d
 apiScope: Editor
 contracts: []
 

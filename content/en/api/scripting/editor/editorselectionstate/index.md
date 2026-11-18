@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.interactions.editor-script.10cbe0affc48073e
 symbol: scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorSelectionState
 title: EditorSelectionState
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: c1226f96a0f434c7dda6068a13191175a73a5eef4efbd821589994f72bb15121
+sourceFingerprint: 189a944be64e794c3ccf620a6bd6be346ef3e384326b8fb3579025c842b1f65b
 apiScope: Editor
 contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5cc89fa9fcf0d50f585e5c86b36c1f2601dc1762aa8ee4ecc02906d997ccefac
 symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportNavigationState.ConfigureOrthographic(Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Quaternion,System.Single)
 title: EditorViewportNavigationState.ConfigureOrthographic
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-reviewed: b22a1d8d80ec4b6094d1a8c34c02abc040d5bcf0429b41c026041854d10dd445
+sourceFingerprint: cf935fcc75306d6c40879decee635f104be37ca4764acc892025d98315ea2ae3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

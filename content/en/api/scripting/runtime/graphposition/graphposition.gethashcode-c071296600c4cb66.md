@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c071296600c4cb662a5d2448c0557c387cff9c28c165970f3eda3fbdbce3d8d8
 symbol: scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphPosition.GetHashCode
 title: GraphPosition.GetHashCode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: d93497700543d6c272c4301a8faafeecdc6e68ff8d22046a8a0681fcb01217af
+sourceFingerprint: d93497700543d6c272c4301a8faafeecdc6e68ff8d22046a8a0681fcb01217af
 apiScope: Runtime
 contracts: []
 

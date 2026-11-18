@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.545498f44baf6e5c3c6d90f34aaa4413928cb48ac5dbf416a6ea047299486580
 symbol: engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetDraftDocuments`1.TryMergeHistory(Inno.Editor.Interactions.EditorHistoryChange,Inno.Editor.Interactions.EditorHistoryChange,Inno.Editor.Interactions.EditorHistoryChange@)
 title: AssetDraftDocuments<TAsset>.TryMergeHistory
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
-reviewed: 22c62894aaffc5c5da0f152a24e37c6e2c2f879e675c1019caf0ebe1cfdc3430
+sourceFingerprint: 82be4b4e32e64068493e2fde9a30b53644817709199cd93f6705bfb7907483c2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

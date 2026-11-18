@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.content.42db43b94f3374bf
 symbol: engine:Inno.Content:T:Inno.Content.ContentPackReader
 title: ContentPackReader
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Content
 apiSurface: source-clr
-reviewed: 626df0d3d864a579b2090b337419a25e2b67c7b39734a75e623db33da561cbd2
+sourceFingerprint: 96939e87eff351a0f21418c7efb612560b84cc2630759023237ae7ac81aa54cc
 contracts:
 - project.inno-content
 

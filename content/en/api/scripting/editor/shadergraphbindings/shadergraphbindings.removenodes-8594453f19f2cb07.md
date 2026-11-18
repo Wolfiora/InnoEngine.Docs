@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8594453f19f2cb077f27df7cbf4415ddc54d7a1e149bfbabb7edb804e23b012e
 symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphBindings.RemoveNodes(InnoEngine.Graphs.GraphDocument,System.Collections.Generic.IEnumerable{InnoEngine.Graphs.GraphNodeId},InnoEngine.Serialization.SerializationRegistry,InnoEngine.Serialization.SerializationContext)
 title: ShaderGraphBindings.RemoveNodes
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: cc1b8401827c9b23b7b219ad88ddf40afadfd3723924fa8032743efc12c05863
+sourceFingerprint: 9de549ad6f83911055ed67d2961a7a35b29db9708116d1d5152fc28b2638c7ed
 apiScope: Editor
 contracts: []
 

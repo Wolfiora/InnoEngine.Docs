@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1b34d23d582e49d866f7f86b3db5deca294a7d56ab738f84b538d85e402996b8
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.Dummy(System.Numerics.Vector2)
 title: ImGui.Dummy
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: eb26e474c570a5cb6f7c47d6c3f92cc4088bbe1fdb5e4fa6960d0b50a5e33f54
+sourceFingerprint: 5534dfcf6684294e10a1d9196c179a9360bc3a696d594fb89b09e319a265bfb0
 apiScope: Editor
 contracts: []
 

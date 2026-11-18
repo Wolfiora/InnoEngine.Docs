@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4f3909666e30d0288153a19ddc0c71b0dde919cb55d81d37c671c83ddd61b9ca
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderPassBuilder.AllowParallelRecording
 title: RenderPassBuilder.AllowParallelRecording
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: ab6ab26cbb873555c1e2d89ad2889379bd2a55edc22eff0f3c70270d12a8b5b6
+sourceFingerprint: 9971e72682e1d3eb24ccbdde2833362ec6fce42c72564fc95da2553d50e69e31
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

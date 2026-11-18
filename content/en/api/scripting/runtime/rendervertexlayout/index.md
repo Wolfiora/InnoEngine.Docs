@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.0979dc407d361d15
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderVertexLayout
 title: RenderVertexLayout
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: cf059be9c0d43724ccd91fdb39665b0551d3a39b02ba40ec93cdc8112e2a37ae
+sourceFingerprint: e6b0398bda2603d950f2f9b497513597e3b4dd24d30abc839c2fb88060d96ca8
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

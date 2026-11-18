@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e424f1d4dc2622def3b01b1cc742c8c6d0e203beed755861e942b1df5fd7f63e
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphDiagnostic.#ctor(System.String,System.String,InnoEngine.Diagnostics.DiagnosticSeverity,System.String,System.String)
 title: RenderGraphDiagnostic.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 8769afc6a8417a26e16494c5394f7baa6db92cf2fd4dc549d3195af05c20c618
+sourceFingerprint: 4605b37c095c12b6cfb769b7825c31c36026a18bdbdfca9575de2dc62d6eb70a
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.98ea49963bddb82bbc9469933403bcece16c363e070fe9146dde2613eb580706
 symbol: engine:Inno.Core.Jobs:M:Inno.Core.Jobs.JobScheduler.ParallelFor(System.Int32,System.Int32,System.Action{System.Int32,System.Int32})
 title: JobScheduler.ParallelFor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Jobs
 apiSurface: source-clr
-reviewed: d301a6a41869ab9dac836a3f8f5d35b8832356b6944a48ab8ac1c286307d15e2
+sourceFingerprint: 51b01bc3d05ed953806a8c766c0b6dc32d151d07c09082216a5ccc0284703c08
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9b6b43b1989c87ac6197de05708818a607eb28018d862f71b6657ad81e311451
 symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphPasteResult.#ctor
 title: ShaderGraphPasteResult.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: a8bf0fc0a1ad47d62e09b6e68834e652207f4368882166e21a42200293f30d0c
+sourceFingerprint: a8bf0fc0a1ad47d62e09b6e68834e652207f4368882166e21a42200293f30d0c
 apiScope: Editor
 contracts: []
 

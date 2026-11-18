@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5bbd981820b7b0e024b4673771d3c0e28e1da8e98a9f877cd7b908c2b0e311ec
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.DrawProcedural(System.Int32,System.Int32)
 title: RenderCommandEncoder.DrawProcedural
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: d4faf780dc93227f43e1187a6c7bbef8806866b64a821ccd9fdb58a71c5da0cd
+sourceFingerprint: d5229e2f34581ea9c015487e8b523696a1a50bb3a37d6dbf07cde0e9cec251ab
 apiScope: Runtime
 contracts: []
 

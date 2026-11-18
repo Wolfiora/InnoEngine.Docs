@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.877c51437c165a7bf6d836716a903a15668754dd5c5435e8d54738767726e71e
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRuntime.SetPrimaryModelOutputEnabled(System.Boolean)
 title: RenderRuntime.SetPrimaryModelOutputEnabled
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 67bf16cec15b67c06e561cf2f2a8aabb1ac8e93b7ff2dfa83ad71adec473e087
+sourceFingerprint: 382dadbf8cbce517da68ad230cf67773c40ee70af5bf3c0175aea10c9fd12c0b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8102d94c07d678d81c1c28749df1c33fa1b3d195b3f9331e02cc0f9d1afa50a7
 symbol: engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioRuntime.#ctor(Inno.Extensibility.Types.TypeCatalog,Inno.Audio.IAudioDevice,Inno.Assets.IAssetArtifactLookup,Inno.Core.Events.EventDispatcher,Inno.Core.Diagnostics.IDiagnosticReporter,Inno.Audio.Runtime.AudioRuntimeOptions,System.Func{Inno.References.ContentReadScope},System.Func{Inno.Audio.IAudioDevice})
 title: AudioRuntime.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio.Runtime
 apiSurface: source-clr
-reviewed: 6b8652601649cf608e5ec28b73ec8555ef4b547b99d4effba34dcced30ca66ca
+sourceFingerprint: abaa12e3c0d4ca07247f0cdbb72cce45e44476227571afde5e78c5a912272e62
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

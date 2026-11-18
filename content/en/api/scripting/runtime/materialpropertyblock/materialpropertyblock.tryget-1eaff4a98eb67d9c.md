@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1eaff4a98eb67d9c1ea765eadc3d49e17ed10656815a297d8c16449bd4ad11ce
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.MaterialPropertyBlock.TryGet(InnoEngine.Rendering.ShaderPropertyId,InnoEngine.Rendering.MaterialValue@)
 title: MaterialPropertyBlock.TryGet
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 42298eb7a1d988eca2f475363f7fba147e73f63aa7062ab763e5b0af3581e78a
+sourceFingerprint: 71f1bd2b922db8ec98a406d3d6e955dc0a353ed83c184d1a4e33501bb2b90dc4
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6e36f60d0a25dc922c5ad960f639db815a102a5f3f359b6c59c72e5012c78e00
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.SetNextWindowContentSize(System.Numerics.Vector2)
 title: ImGui.SetNextWindowContentSize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 9ae5f9b5c25abc224e3f846f0eef7d6639c53c8dafb57b6404ab5730fc3f2a34
+sourceFingerprint: 61b4d2156df806aad822ad826a296f2615370c05f2f4c7e2e6bf2b2237ea64bd
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ebcdd2dbcad87852c9ff188cd8d134bb3f734fa40341c7827641925f114e6331
 symbol: engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderSourceNodeDefinition.function
 title: ShaderSourceNodeDefinition.function
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: efce036d361061e54a4b78a03746a5e351fe92df51bcd8d80a81b94a013877ba
+sourceFingerprint: 04820be7df420eac5bd68da76f0c34c2bff49126e82aa91e4c97b4240069a96c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

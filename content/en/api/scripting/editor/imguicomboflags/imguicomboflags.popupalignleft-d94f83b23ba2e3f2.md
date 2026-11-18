@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d94f83b23ba2e3f2d17b678d785a82caf48ad1dc2ad5cc5bcdd3d324d861f6e3
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiComboFlags.PopupAlignLeft
 title: ImGuiComboFlags.PopupAlignLeft
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 6dca7382aed5fbd4a39276be5abffbd1682f91f6fe415446904d9064d4c7597d
+sourceFingerprint: 8e3c8585dc134be3e8a9c1b0b9222c35954103360618d74b8d71f18c018f8cc1
 apiScope: Editor
 contracts: []
 

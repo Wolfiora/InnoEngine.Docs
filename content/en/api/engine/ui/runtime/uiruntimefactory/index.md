@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.ui.runtime.bd5d2a8d10518d7e
 symbol: engine:Inno.UI.Runtime:T:Inno.UI.Runtime.UiRuntimeFactory
 title: UiRuntimeFactory
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI.Runtime
 apiSurface: source-clr
-reviewed: 6b81a3895766fd439404aa811f2ca2bec431508674f270ff399f114592529915
+sourceFingerprint: 32a38d176c27dd852dad42b3177669e706a02f264fb5f1faa7fe1b75d2e25337
 contracts:
 - project.inno-ui-runtime#session-and-font-ownership
 

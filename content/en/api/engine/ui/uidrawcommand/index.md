@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.ui.0d3a9bb5d82163bb
 symbol: engine:Inno.UI:T:Inno.UI.UiDrawCommand
 title: UiDrawCommand
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: c9a767a2a8dc50a7819c2e97397883681ea7b7b204117ab8621f0b8b76100f50
+sourceFingerprint: f2ce3b9d8eb174cf0cb06a7007e2267392ae2b17352ba3957329287c357900df
 contracts:
 - project.inno-ui#document-and-frame-contract
 

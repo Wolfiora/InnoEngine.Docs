@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.baf26cfa7e47c8bb0e5d8957ccf24bd9663c62d11aa6d33ed7377e16077c65ae
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.InlineRenameResult.Cancel
 title: InlineRenameResult.Cancel
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 417c6d3dff286b6746548ccc64bd8e7ceeac8298ff19514d5efdc9833c813aeb
+sourceFingerprint: 6da0216d2f77d04b40839108f0aca6926a294b5ea07b3e649de2eb50ead3b684
 apiScope: Editor
 contracts: []
 

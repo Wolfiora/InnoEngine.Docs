@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.019b5e74d65036a65113db9b5da27a27759d4896ae81a9792ab00d2da61703d6
 symbol: engine:Inno.Plugins.Authoring:M:Inno.Plugins.Authoring.PluginEnvironment.Dispose
 title: PluginEnvironment.Dispose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Plugins.Authoring
 apiSurface: source-clr
-reviewed: b7f389e4e641ecaece46fecf81e5e1eb588613a500c340f099d5ea4194f7a43a
+sourceFingerprint: 7b0f233068898b39727e09cb85ca4c6d5158ae7bb68d119ec07b08792f55e907
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

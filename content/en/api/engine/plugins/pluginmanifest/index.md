@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.plugins.8610ff9ffa0c5577
 symbol: engine:Inno.Plugins:T:Inno.Plugins.PluginManifest
 title: PluginManifest
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Plugins
 apiSurface: source-clr
-reviewed: 69f785330ea8018a65d651b13af8ad264a97cfea181c2cba6f5608b3a084b257
+sourceFingerprint: 52b94efeb4e9eba50abf15f35caa4f48e0657bb836788854502f7f070687588a
 contracts:
 - project.inno-plugins#manifest-contract
 
