@@ -113,7 +113,9 @@ class InnoSidebar extends HTMLElement {
   render(entries: Entry[]) {
     const ul = document.createElement('ul');
     for (const original of entries) {
-      const entry = original.children && !original.href?.startsWith('/InnoEngine.Docs/api/') ? {...original, href:undefined} : original;
+      const linkedGroup = original.href?.startsWith('/InnoEngine.Docs/api/')
+        || original.href === '/InnoEngine.Docs/architecture/projects/';
+      const entry = original.children && !linkedGroup ? { ...original, href: undefined } : original;
       const li = document.createElement('li');
       if (entry.key) li.dataset.key = entry.key;
       const row = document.createElement('div'); row.className = 'nav-row';
