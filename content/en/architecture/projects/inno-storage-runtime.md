@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Bounded asynchronous storage operations owned by a runtime session.
-outdated: true
+outdated: false
 ---
 # Inno.Storage.Runtime
 

@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Editor authoring and presentation providers composed over the neutral runtime catalog.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Adapter.Authoring.Default

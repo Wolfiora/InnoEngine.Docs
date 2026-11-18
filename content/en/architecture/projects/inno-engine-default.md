@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Default subsystem composition without a global service locator or duplicated product lists.
-outdated: true
+outdated: false
 ---
 # Inno.Engine.Default
 

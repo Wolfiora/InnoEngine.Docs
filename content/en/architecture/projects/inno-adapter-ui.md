@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Explicit UI backend identities, providers and deterministic product composition.
-outdated: true
+outdated: false
 ---
 # Inno.Adapter.UI
 

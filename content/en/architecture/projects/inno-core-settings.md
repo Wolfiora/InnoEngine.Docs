@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Byte-backed settings documents, project contribution composition, and generation-scoped lookup.
-outdated: true
+outdated: false
 ---
 # Inno.Core.Settings
 

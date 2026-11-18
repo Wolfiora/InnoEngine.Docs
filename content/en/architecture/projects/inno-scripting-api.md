@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Explicit script exports, logical namespaces and domain-owned attachable-type metadata.
-outdated: true
+outdated: false
 ---
 # Inno.Scripting.Api
 

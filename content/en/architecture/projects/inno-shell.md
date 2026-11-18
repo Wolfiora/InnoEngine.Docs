@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - One owner-thread application loop for platform, input, rendering and product retirement.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Shell

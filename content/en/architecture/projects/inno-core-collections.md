@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Deterministic dependency relationships and reference-identity object indexes without resource lifecycle ownership.
-outdated: true
+outdated: false
 ---
 # Inno.Core.Collections
 

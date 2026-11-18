@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Neutral devices, resources, commands and transactional render graphs.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Rendering

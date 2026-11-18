@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Compose input providers and route neutral events to isolated session backends.
-outdated: true
+outdated: false
 ---
 # Inno.Adapter.Input
 

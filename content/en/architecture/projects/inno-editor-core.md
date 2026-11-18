@@ -15,7 +15,7 @@ contracts:
 source: InnoEngine contributors
 description:
 - Presentation-independent Editor context, extension lifecycle, frame statistics and reload coordination.
-outdated: true
+outdated: false
 ---
 # Inno.Editor.Core
 

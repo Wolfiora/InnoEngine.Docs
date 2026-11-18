@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Session ownership and frame-scoped access for a selected input backend.
-outdated: true
+outdated: false
 ---
 # Inno.Input.Runtime
 

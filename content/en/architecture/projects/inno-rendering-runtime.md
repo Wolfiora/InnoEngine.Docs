@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Output requests, render-model generations and owned GPU resource caches.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Rendering.Runtime

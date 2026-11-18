@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Explicit host selection and provider snapshots for text backends.
-outdated: true
+outdated: false
 ---
 # Inno.Adapter.Text
 

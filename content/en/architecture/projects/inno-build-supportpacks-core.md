@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Verified Support Pack preparation, publication and protected consumption.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Build.SupportPacks.Core

@@ -14,7 +14,7 @@ contracts:
 source: InnoEngine contributors
 description:
 - Session playback, deterministic target-local blending, marker dispatch and binding generations.
-outdated: true
+outdated: false
 ---
 # Inno.Animation.Runtime
 

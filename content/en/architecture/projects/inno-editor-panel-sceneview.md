@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Internal Scene viewport host with neutral navigation and transactional transform editing.
-outdated: true
+outdated: false
 ---
 # Inno.Editor.Panel.SceneView
 

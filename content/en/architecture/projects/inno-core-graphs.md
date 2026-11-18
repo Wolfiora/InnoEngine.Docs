@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Neutral editable graph documents, generation-scoped definitions, topology validation and current-format serialization.
-outdated: true
+outdated: false
 ---
 # Inno.Core.Graphs
 

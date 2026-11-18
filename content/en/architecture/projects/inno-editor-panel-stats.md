@@ -15,7 +15,7 @@ contracts:
 source: InnoEngine contributors
 description:
 - The discovered Stats panel and its bounded frame-timing presentation.
-outdated: true
+outdated: false
 ---
 # Inno.Editor.Panel.Stats
 

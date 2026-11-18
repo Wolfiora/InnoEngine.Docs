@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Explicit module sources, dependency closures, catalog candidates and the shared generation owner.
-outdated: true
+outdated: false
 ---
 # Inno.Extensibility.Modules
 

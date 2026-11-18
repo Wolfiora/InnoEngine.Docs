@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Explicit runtime rendering providers without backend-native types or compiler dependencies.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Adapter.Rendering

@@ -14,7 +14,7 @@ contracts:
 source: InnoEngine contributors
 description:
 - Stateless Inspector presentation metadata with an explicit authoring-only script surface.
-outdated: true
+outdated: false
 exampleMode: editor-script
 exampleProjects:
 - Inno.Editor.Annotations

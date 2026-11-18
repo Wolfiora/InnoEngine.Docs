@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Select application storage through explicit provider registrations and logical scopes.
-outdated: true
+outdated: false
 ---
 # Inno.Adapter.Storage
 

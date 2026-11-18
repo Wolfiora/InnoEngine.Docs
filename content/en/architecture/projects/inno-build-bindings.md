@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - The engine's replaceable BGCS integration behind neutral generation contracts.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Build.Bindings

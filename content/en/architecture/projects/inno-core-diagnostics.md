@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Host-owned current issue state, revocable producers and complete-report presentation.
-outdated: true
+outdated: false
 ---
 # Inno.Core.Diagnostics
 

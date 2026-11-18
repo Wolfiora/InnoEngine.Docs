@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - The internal shader graph canvas coordinating shared documents, graph edits, compilation and presentation.
-outdated: true
+outdated: false
 ---
 # Inno.Editor.Panel.ShaderEditor
 

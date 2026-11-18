@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Engine vector, matrix, quaternion, rectangle and color values with explicit numeric and interoperability conventions.
-outdated: true
+outdated: false
 ---
 # Inno.Core.Mathematics
 

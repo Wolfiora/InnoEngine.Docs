@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Ordered host lifecycle participants with independent event scopes and deterministic render unwind.
-outdated: true
+outdated: false
 ---
 # Inno.Core.Layers
 

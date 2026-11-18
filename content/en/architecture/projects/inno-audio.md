@@ -14,7 +14,7 @@ contracts:
 source: InnoEngine contributors
 description:
 - Backend-neutral playback, mixer, content-provider and device contracts.
-outdated: true
+outdated: false
 ---
 # Inno.Audio
 

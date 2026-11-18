@@ -15,7 +15,7 @@ contracts:
 source: InnoEngine contributors
 description:
 - Presentation-independent actions, menus, selection, drag and drop, history and extension activation.
-outdated: true
+outdated: false
 ---
 # Inno.Editor.Interactions
 

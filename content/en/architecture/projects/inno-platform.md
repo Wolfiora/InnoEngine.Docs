@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Neutral application, window and frame-pacing contracts without native handles.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Platform

@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Dependency-aware validation planning, owned execution and evidence reconciliation.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Tooling.Validation

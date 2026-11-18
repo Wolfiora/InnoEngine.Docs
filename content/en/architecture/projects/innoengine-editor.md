@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - The development executable that directly starts the SDK-selected Editor product.
-outdated: true
+outdated: false
 ---
 # InnoEngine.Editor
 

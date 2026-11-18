@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Stable type references, immutable discovery snapshots and owned transactional extension registries.
-outdated: true
+outdated: false
 ---
 # Inno.Extensibility.Types
 

@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Neutral managed deployment identities, capabilities, requests and results.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Build.Managed

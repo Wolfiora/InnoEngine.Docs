@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Import and export scene and prefab source through the engine asset pipeline.
-outdated: true
+outdated: false
 ---
 # Inno.Scene.Assets
 

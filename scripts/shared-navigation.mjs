@@ -43,20 +43,19 @@ export function sharedNavigation(navigation, catalog, base = '/InnoEngine.Docs',
       if (!item.items) { trails.set(href(item.slug), ancestors); return { label, href: href(item.slug) }; }
       const home = item.items.find(child => child.attrs?.['data-group-home'] === 'true');
       const key = home ? href(home.slug) : `${trail}/${label}`;
-      if (home) trails.set(href(home.slug), ancestors);
-      const api = home?.slug === 'api' || home?.slug?.startsWith('api/');
-      // Outside API, a group can never be a link. Preserve its landing page with
-      // a distinct, explicit overview label rather than a duplicate group entry.
-      const childrenInput = item.items.filter(child => api ? child !== home : true).map(child => {
+      const linkedHome = home?.slug === 'api' || home?.slug?.startsWith('api/')
+        || (ancestors.length > 0 && home?.slug === 'architecture/projects');
+      if (linkedHome) trails.set(href(home.slug), ancestors);
+      const childrenInput = item.items.filter(child => !linkedHome || child !== home).map(child => {
         const title = child.label ?? titles.get(child.slug);
-        return !api && title?.trim().toLowerCase() === label.trim().toLowerCase()
+        return !linkedHome && title?.trim().toLowerCase() === label.trim().toLowerCase()
           ? {...child, label: 'Overview of ' + title} : child;
       });
       const children = entries(childrenInput, key, [...ancestors, key]);
       const body = JSON.stringify(children);
       const id = createHash('sha256').update(body).digest('hex');
       chunks.set(id, body);
-      return { label, key, ...(home && api ? { href: href(home.slug) } : {}), children: `${base}/navigation-data/${id}.json` };
+      return { label, key, ...(linkedHome ? { href: href(home.slug) } : {}), children: `${base}/navigation-data/${id}.json` };
     });
   }
   const roots = entries(visible);

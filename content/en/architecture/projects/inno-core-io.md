@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Explicit filesystem boundaries, atomic publication, shared leases, byte documents and process-owned output.
-outdated: true
+outdated: false
 ---
 # Inno.Core.IO
 

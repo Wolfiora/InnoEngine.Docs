@@ -14,7 +14,7 @@ contracts:
 source: InnoEngine contributors
 description:
 - Persistent object identity and generation-safe lookup within an explicitly owned runtime domain.
-outdated: true
+outdated: false
 ---
 # Inno.Core.Identity
 

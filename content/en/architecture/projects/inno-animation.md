@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Neutral clip sampling, explicit targets, value bindings and generation-checked playback.
-outdated: true
+outdated: false
 ---
 # Inno.Animation
 

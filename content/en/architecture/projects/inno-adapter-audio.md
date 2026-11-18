@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Explicit audio backend selection and composition-owned provider catalogs.
-outdated: true
+outdated: false
 ---
 # Inno.Adapter.Audio
 

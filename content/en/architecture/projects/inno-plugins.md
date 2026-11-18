@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - The Player-safe manifest contract for a local plugin package.
-outdated: true
+outdated: false
 ---
 # Inno.Plugins
 

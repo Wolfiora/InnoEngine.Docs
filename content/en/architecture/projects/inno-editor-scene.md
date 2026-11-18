@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Scene document ownership, persistent-ID edits, minimal reversible History and atomic Edit/Play presentation.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Editor.Scene

@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Neutral graph geometry, pointer intent and borrowed UI drawing independent of shader or panel semantics.
-outdated: true
+outdated: false
 ---
 # Inno.Editor.Graph.ImGui
 

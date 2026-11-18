@@ -15,7 +15,7 @@ contracts:
 source: InnoEngine contributors
 description:
 - Editor preferences and Project setting drawers share a frontend while preserving separate persistence owners.
-outdated: true
+outdated: false
 ---
 # Inno.Editor.Settings
 

@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Session-owned Editor preview audio and isolated Edit/Play generations.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Editor.Audio

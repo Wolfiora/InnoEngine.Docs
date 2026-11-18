@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Presentation-independent export service, operation-scoped progress, cancellation and retirement.
-outdated: true
+outdated: false
 ---
 # Inno.Editor.Exporting
 

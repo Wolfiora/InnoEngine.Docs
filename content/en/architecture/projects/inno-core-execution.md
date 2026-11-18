@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Revocable execution bindings, admitted asynchronous work and dependency-safe retirement for host owners.
-outdated: true
+outdated: false
 ---
 # Inno.Core.Execution
 

@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Explicit selection and preflight for seven neutral runtime backend families.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Adapter

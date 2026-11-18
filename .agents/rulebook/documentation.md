@@ -12,7 +12,7 @@ Write derived project/API JSON with canonical UTF-8 and LF line endings before h
 
 ## Project guide synchronization
 
-Register project guides explicitly in `reference/projects/content.json`. Apply the API prose ownership policy to these pages through the same engine synchronization, review and canonical composition pipeline. Preserve named-author bodies byte for byte; update generated project/type facts independently. Hash actual project metadata and its captured declarations/XML for source review, not unrelated engine commits. Existing authored prose enters with a review request, never as XML-owned content. Only registered project paths may be rewritten. Source status is advisory; malformed metadata and corrupted facts remain errors. Project guides remain outside API navigation and use disclosure-only groups.
+Register project guides explicitly in `reference/projects/content.json`. Apply the API prose ownership policy to these pages through the same engine synchronization, review and canonical composition pipeline. Preserve named-author bodies byte for byte and update generated project/type facts independently. Project review fingerprints use actual project metadata and captured symbol identities, declarations and XML. Normalize XML line endings for API and project review and exclude unrelated engine revisions and source coordinates. Preserve an empty review receipt for unreviewed project prose and show Review pending. Use Outdated for a changed recorded contract or an explicit review request. Only registered project paths may be rewritten. Source status is advisory. Malformed metadata and corrupted facts remain errors. The Engine project guides index uses a linked disclosure row with flat project children.
 
 ## Page purpose
 

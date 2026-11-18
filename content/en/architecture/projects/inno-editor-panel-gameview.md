@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Internal host for routed game outputs and focused Play input.
-outdated: true
+outdated: false
 ---
 # Inno.Editor.Panel.GameView
 

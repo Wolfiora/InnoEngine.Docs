@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Standard Native component closures and deployment manifests without SDK selection.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Build.Products.Standard

@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Owned Game/Plugin build transactions, content freezing and final platform publication.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Build

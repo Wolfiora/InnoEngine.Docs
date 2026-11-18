@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Explicit Editor product composition, preflight, default layout and complete host retirement.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Editor.Hosting

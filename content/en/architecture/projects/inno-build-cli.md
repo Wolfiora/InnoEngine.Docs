@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Explicit development commands composed from engine build and authoring services.
-outdated: true
+outdated: false
 ---
 # Inno.Build.Cli
 

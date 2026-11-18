@@ -15,7 +15,7 @@ contracts:
 source: InnoEngine contributors
 description:
 - Session audio composition, bounded preparation, completion and device recovery.
-outdated: true
+outdated: false
 ---
 # Inno.Audio.Runtime
 

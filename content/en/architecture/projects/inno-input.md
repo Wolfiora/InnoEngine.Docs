@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Backend-neutral keyboard, pointer and committed-text snapshots at runtime frame boundaries.
-outdated: true
+outdated: false
 ---
 # Inno.Input
 

@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Backend-neutral viewport contributors, model composition, safe previews and authoring target artifacts.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Editor.Rendering

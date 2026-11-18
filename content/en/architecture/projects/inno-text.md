@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Imported fonts, neutral shaping values, text service contracts and the runtime script facade.
-outdated: true
+outdated: false
 ---
 # Inno.Text
 

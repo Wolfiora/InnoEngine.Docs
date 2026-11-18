@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Reusable source asset drafts, creation templates, file edits and operation-scoped sample progress.
-outdated: true
+outdated: false
 exampleMode: host
 exampleProjects:
 - Inno.Editor.Assets

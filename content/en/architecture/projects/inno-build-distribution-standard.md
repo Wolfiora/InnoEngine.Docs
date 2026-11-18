@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - The standard engine distribution's platform, tool and product composition.
-outdated: true
+outdated: false
 ---
 # Inno.Build.Distribution.Standard
 

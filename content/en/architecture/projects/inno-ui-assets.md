@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Neutral UI import settings, language frontends, dependency analysis and runtime payload production.
-outdated: true
+outdated: false
 ---
 # Inno.UI.Assets
 

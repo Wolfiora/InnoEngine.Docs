@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Dependency-light discovery facts and static registration contracts owned by each contributing assembly.
-outdated: true
+outdated: false
 ---
 # Inno.Extensibility.Catalogs
 

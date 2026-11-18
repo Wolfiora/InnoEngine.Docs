@@ -13,7 +13,7 @@ contracts: []
 source: InnoEngine contributors
 description:
 - Reusable shader-node, material and parameter inspection presentation over shared authoring services.
-outdated: true
+outdated: false
 ---
 # Inno.Editor.Shaders.ImGui
 
