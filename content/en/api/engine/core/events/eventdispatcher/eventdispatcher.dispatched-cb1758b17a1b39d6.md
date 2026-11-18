@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cb1758b17a1b39d6eb1a4dd3cdd41a6d4007a59d7b6efaea386d43cec1271d8e
 symbol: engine:Inno.Core.Events:E:Inno.Core.Events.EventDispatcher.dispatched
 title: EventDispatcher.dispatched
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-reviewed: 523e7abd15b8a6cfdf65b9c4baa95c309861261f213c8293268c78e4f09ff6be
+sourceFingerprint: ea8f4c5aee3ecbcd1a1c572f92138dba2ece3b87778b48606d6863a639e6f311
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

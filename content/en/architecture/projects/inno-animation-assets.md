@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-animation-assets
 symbol: project:Inno.Animation.Assets
 title: Inno.Animation.Assets
 kind: project
 owners:
 - Inno.Animation.Assets
-reviewed: ''
+sourceFingerprint: 9d57c6d243508f5354fda1ad2acc08ec346c38f7a321df7828e4e2586c28f3a5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

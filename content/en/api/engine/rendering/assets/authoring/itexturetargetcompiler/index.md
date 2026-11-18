@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.authoring.ebc5fc87b6071bc8
 symbol: engine:Inno.Rendering.Assets.Authoring:T:Inno.Rendering.Assets.Authoring.ITextureTargetCompiler
 title: ITextureTargetCompiler
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
-reviewed: 375c0287f1c2076e6836432c516bf0bcff831736aef450ca7d663493cedb12bb
+sourceFingerprint: 5765567044dc4bd56f2c132d37823b738944ef5268a1c6bb5283488cddf9808c
 contracts:
 - project.inno-rendering-assets-authoring
 

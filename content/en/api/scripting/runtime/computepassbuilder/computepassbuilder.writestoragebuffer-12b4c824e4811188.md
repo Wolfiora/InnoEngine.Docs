@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.12b4c824e48111889d92217d37bf86937e9530bd35a9b2286c83830258b4b5de
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.ComputePassBuilder.WriteStorageBuffer(InnoEngine.Rendering.RenderBufferHandle)
 title: ComputePassBuilder.WriteStorageBuffer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 21930f722a32d83ce846541be750adef821380e292ea904e7fa8e1cb3dfceb49
+sourceFingerprint: faf18d4bbf0c11df66bb524d3129d24a038d2c05a73770285585d855f5f03445
 apiScope: Runtime
 contracts: []
 

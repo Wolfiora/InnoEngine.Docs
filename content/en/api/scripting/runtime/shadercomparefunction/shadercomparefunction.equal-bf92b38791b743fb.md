@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bf92b38791b743fbe069941bf2bfdaca276b1468b57c0516ffe760c60ec37fe0
 symbol: scripting:Inno.Rendering.Assets:F:InnoEngine.Rendering.ShaderCompareFunction.Equal
 title: ShaderCompareFunction.Equal
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: a1a610e95b3d86538ebc9a0f8aa8e2c5f2401d44beb4040a3b4065f84fded017
+sourceFingerprint: c1348ea260190fe2008fcd3df02e2b4aaad03f27dba8dcb36f9800e115c26cc6
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.cb9fa6a3bb0cec71
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderTextureReadbackResult
 title: RenderTextureReadbackResult
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: e5f040934d7fa9eabca2cfe881506d1c214756de4a1b8911a3f4f341015a8ec8
+sourceFingerprint: f262aa321b7fbbd078a2aae2fcedf0c7ae8413f5ebb8934a14efaafa987afa79
 contracts:
 - project.inno-rendering
 

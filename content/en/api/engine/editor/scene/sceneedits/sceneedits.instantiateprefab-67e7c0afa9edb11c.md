@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.67e7c0afa9edb11cc5924cbdb0cc40113d44e135a3d7268d6233bcb69df7a99a
 symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.InstantiatePrefab(Inno.Scene.PrefabAsset,Inno.Scene.GameScene,Inno.Scene.Components.Transform,System.String)
 title: SceneEdits.InstantiatePrefab
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: source-clr
-reviewed: a601d98706fbe92f9ec72787791aad2164e0feac6cf33516ed80a8c88576666c
+sourceFingerprint: a5a6b9378f6064611d956bcb201dcc5ca344f1b0923bad817e65bb6a07de75f6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

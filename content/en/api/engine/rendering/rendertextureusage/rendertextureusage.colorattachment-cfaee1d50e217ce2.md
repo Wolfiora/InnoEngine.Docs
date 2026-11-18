@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cfaee1d50e217ce296d15bd3173e646a2d343a1f970a5bfc42989652071df96a
 symbol: engine:Inno.Rendering:F:Inno.Rendering.RenderTextureUsage.ColorAttachment
 title: RenderTextureUsage.ColorAttachment
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 681108001594751517e6abd88b6e0bdbc7c97775513ede9010ea7fe8048dd251
+sourceFingerprint: f042683acf9be947f8e6efa01c60fdc1cac8d69cd7ef5f7be5fcdef6e7a503f1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

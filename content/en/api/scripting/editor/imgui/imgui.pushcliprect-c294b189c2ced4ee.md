@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c294b189c2ced4eeeba7be96e8d638f9ec31909b75c038a835076a5c8c7c391f
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.PushClipRect(System.Numerics.Vector2,System.Numerics.Vector2,System.Boolean)
 title: ImGui.PushClipRect
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: f85b6ed113c03b87974c8c440e910b6023699eae33b939ec2c61a61d21fe3f2b
+sourceFingerprint: 0ead383024c959f1cf2235f74b68878e44c0b55a044a9565b25200dcc35d5cc4
 apiScope: Editor
 contracts: []
 

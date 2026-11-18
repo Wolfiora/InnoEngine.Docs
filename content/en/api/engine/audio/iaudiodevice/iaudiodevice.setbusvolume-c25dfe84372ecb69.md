@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c25dfe84372ecb69bd9961b34d2357c774da930e875517527f6cc7924ac0e098
 symbol: engine:Inno.Audio:M:Inno.Audio.IAudioDevice.SetBusVolume(Inno.Audio.AudioBusHandle,System.Single)
 title: IAudioDevice.SetBusVolume
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 5ac0f7eedc254713db8b950d8105f8870a61c918c5a0626b56a5416264b75c32
+sourceFingerprint: a2193def89a3fb5eca37b04017e1c83d3ac1900495e8917238bb226e0920ab6a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

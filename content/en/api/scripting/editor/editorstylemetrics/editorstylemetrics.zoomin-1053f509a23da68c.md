@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1053f509a23da68cb4a1b2a24a0f0a93ad85285014165842d289af7d8d6d8902
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.EditorStyleMetrics.ZoomIn
 title: EditorStyleMetrics.ZoomIn
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 3d839e182cd3a19c39b01424465b733d604094cd7284ac7cf6ff1ef0da3495b2
+sourceFingerprint: 15c4294fa0343024182cbf3fee774c73a73272ad4561f3cccaf5625d0dd7e8f2
 apiScope: Editor
 contracts: []
 

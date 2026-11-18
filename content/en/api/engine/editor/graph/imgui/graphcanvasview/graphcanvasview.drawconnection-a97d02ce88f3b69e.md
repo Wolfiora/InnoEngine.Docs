@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a97d02ce88f3b69e36f2d5fb34e8ec3eca4ea23e1f9e64b56fea9c41373e9cd7
 symbol: engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasView.DrawConnection(Inno.Editor.ImGui.EditorDrawList,System.Numerics.Vector2,System.Numerics.Vector2,System.UInt32,System.Single)
 title: GraphCanvasView.DrawConnection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph.ImGui
 apiSurface: source-clr
-reviewed: 15bad32cbcdc2503d904e2a2e76c9f69862fe6879dfdedcea4718215f419f240
+sourceFingerprint: 26fcdfe6bbf01c268ac97e143885325c4dacc5f29fc3043bb1059263c9699355
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

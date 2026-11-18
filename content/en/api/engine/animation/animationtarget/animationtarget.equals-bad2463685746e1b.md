@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bad2463685746e1ba7361dd9fe57bd914a2a780669f41e93b867ea31ca087639
 symbol: engine:Inno.Animation:M:Inno.Animation.AnimationTarget.Equals(System.Object)
 title: AnimationTarget.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: source-clr
-reviewed: a210ff6b0bf8abef07337aa3482bf3da83906f2fe60942a6d19dc388856099b5
+sourceFingerprint: aa044ea7bb5c9c9bb1ba3be8140e8a04c6cbb8cb5c34ffc0d829ff7282984250
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4396ce470a5e7272723a7bb0745e8cfed905e06152e5651e92b0d0f1b8fd8cf6
 symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderTargetArtifactProvider.GetTextureArtifact(Inno.Rendering.Assets.RenderTextureArtifactReference,System.ReadOnlyMemory{System.Byte}@)
 title: EditorRenderTargetArtifactProvider.GetTextureArtifact
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-reviewed: 5a3a3263f10fae20fc213d917b4d655db6be9bb96c06b9daa4e14dc4cd9e301f
+sourceFingerprint: 399573f757dcd604688fbfaa59d5d54f5aeb4a964b629bda7b0cfe2e52bb5b39
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

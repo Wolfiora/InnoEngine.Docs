@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.panel.hierarchy.editor-script.30e1da0eb9decc33
 symbol: scripting:Inno.Editor.Panel.Hierarchy:T:InnoEditor.Hierarchy.HierarchyObjectDropTarget
 title: HierarchyObjectDropTarget
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Panel.Hierarchy
 apiSurface: editor-script
-reviewed: cb58258137e8a1dc865475cf4988ea85505fc1786c93c687d3f26fbe21653013
+sourceFingerprint: 9cd9bffc5fd806b2f175dc0a5e2e5db0581020daa8fa9dba4ebbbc6c8a440506
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

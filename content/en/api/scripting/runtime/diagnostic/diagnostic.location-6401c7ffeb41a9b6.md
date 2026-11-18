@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6401c7ffeb41a9b6c27a1ec1c43a69119a6784a35632c1b5e5c7e8d1b7f3df2c
 symbol: scripting:Inno.Core.Diagnostics:P:InnoEngine.Diagnostics.Diagnostic.location
 title: Diagnostic.location
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: editor-script
-reviewed: 12fbecbaddc89e83294fb19b0451e32d903ff2d2234a00043ce57307b4f57d4b
+sourceFingerprint: 35fa280ab6c9a4dc90088e177b30c40537e8a032a01a2cc827e1887a4020371d
 apiScope: Runtime
 contracts: []
 

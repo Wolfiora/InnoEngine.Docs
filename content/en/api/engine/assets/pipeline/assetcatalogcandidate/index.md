@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.assets.pipeline.f7d90396534a4e24
 symbol: engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetCatalogCandidate
 title: AssetCatalogCandidate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: 3602445cb35768ef1d9ae899dc427950c7fdc7fd998913000e09d2394e452ac4
+sourceFingerprint: dbd723bcc5d168e8b146ce51a905d5bb54b2cd9496d8dd580307b06fd95e39d9
 contracts:
 - project.inno-assets-pipeline
 

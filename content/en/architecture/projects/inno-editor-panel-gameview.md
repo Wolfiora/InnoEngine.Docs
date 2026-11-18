@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-editor-panel-gameview
 symbol: project:Inno.Editor.Panel.GameView
 title: Inno.Editor.Panel.GameView
 kind: project
 owners:
 - Inno.Editor.Panel.GameView
-reviewed: ''
+sourceFingerprint: ea1c97ddc323558224fea34d0a8fcdfae3a0be02e9fab26eb18a6ab710f9bdcc
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

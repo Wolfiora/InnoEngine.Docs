@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f4aea6acdbdcad8cb4096e57f222ceda5f06cfec985f8bb8fc808934f109e264
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetStyleColorValue(InnoEditor.ImGui.ImGuiCol)
 title: ImGui.GetStyleColorValue
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: f1a0d4154dbd72b4f463d5a10058e4ee9111d7ab306b638d647964b9b28eb07f
+sourceFingerprint: 3a3a8d323269aea7fa72b91b900369f14744a5fe22090c0b99cd600166eefad2
 apiScope: Editor
 contracts: []
 

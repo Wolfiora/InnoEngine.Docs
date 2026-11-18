@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.20bfafa6bf8d334f
 symbol: engine:Inno.Rendering:T:Inno.Rendering.CopyPassBuilder
 title: CopyPassBuilder
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 9f83f1071e51a4d4c2b31b19aef390b23c2a5bd85caaac6c4c46526a7a410317
+sourceFingerprint: 183603d4264e0d68dfce872b41659af26f636371f949824a65b47e13150b59c8
 contracts:
 - project.inno-rendering
 

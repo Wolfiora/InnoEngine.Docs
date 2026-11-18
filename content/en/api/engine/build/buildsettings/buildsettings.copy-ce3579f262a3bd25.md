@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ce3579f262a3bd2539904d59e9731199bfa3afdd48ec387fed6f981594ec4b03
 symbol: engine:Inno.Build:M:Inno.Build.BuildSettings.Copy
 title: BuildSettings.Copy
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: c4ffb8151cf0cf3c80a186b5521b5ea6ff17886256857c821cc341e8b5e62d0c
+sourceFingerprint: 840862e5fea97ac1ea127629a538e0897a5e0f67fbea7067f1d3bf7d484897d1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

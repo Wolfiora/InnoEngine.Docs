@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.audio.e540725f779f1b86
 symbol: engine:Inno.Audio:T:Inno.Audio.AudioClipLoadMode
 title: AudioClipLoadMode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 87c4952538d9495a256e4448c24e8eee5811149b3ddd9eba534de7728be3ec84
+sourceFingerprint: 76b0702df82be24a23f1ff543bf38a17c45186ef57b304601e83d1946a257e89
 contracts:
 - project.inno-audio#playback-and-device-contract
 

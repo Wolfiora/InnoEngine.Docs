@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a757c658ed78fe1cd1cb6f49d2ebb123bda504c8133acec137677183063b4ed8
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.DeleteDirectory(System.String)
 title: ToolchainEnvironment.DeleteDirectory
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 1cb27be180229ed35cabaa0a098514d447b23926051066d52769b6e14bb6510b
+sourceFingerprint: 4002c8d24edd692d39e7077cd58b6087d407082deb85066c6e6124fca8c41f8f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.40b22b43659424765dcad42627dc5421de27e46feeae7185581e0b8b86d2cb74
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorPanelExtension.TryGetWindowPresentation(System.Boolean@,System.Boolean@,System.Numerics.Vector2@)
 title: EditorPanelExtension.TryGetWindowPresentation
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: 42078a92650d18fc95a9f5c0b13917346f7fc5486383bb6dbb4c17c0ec25458e
+sourceFingerprint: 51c7be41df01ae2fa64ad9670f191713f9174fe7072078af39adf02c20c55023
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

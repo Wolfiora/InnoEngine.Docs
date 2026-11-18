@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.692d7f36708fb7a258d6dd63969c4694153b192b2f0009064da1b63eff52b2f0
 symbol: scripting:Inno.Assets:M:InnoEngine.Assets.AssetDependency.op_Equality(InnoEngine.Assets.AssetDependency,InnoEngine.Assets.AssetDependency)
 title: AssetDependency.op_Equality
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-reviewed: aecc452ab78c448bef79660a74d542bbe83fa86dd5017a838f1ee2d270f80ed1
+sourceFingerprint: a2967eb81f16a75004d7bf048e29078cce5e687f873037ba0c4f0832ee70967e
 apiScope: Runtime
 contracts: []
 

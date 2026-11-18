@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime.28839771cfe53b84
 symbol: engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderResourceProvider
 title: RenderResourceProvider
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 70a7e54e7a25ef03e739a14172213dfe7818745f9d7db32bed49537ce6d6fb48
+sourceFingerprint: 3eb3a992ef5139aedd9e85791af9c6e6b0d02d31cfd9c49fd02462b6d9ffad28
 contracts:
 - project.inno-rendering-runtime
 

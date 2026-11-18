@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1872f7e4c4ea205df321eb8098fd3a39f5e3d0380b3653d9d1232083bd4c76b7
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.TableSetBgColor(InnoEditor.ImGui.ImGuiTableBgTarget,System.UInt32,System.Int32)
 title: ImGui.TableSetBgColor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 7e8437ca3f642cb5cec34f1c2dd7f73ee6b2ff73d787e358310ca8784b11c34f
+sourceFingerprint: a99b40ea7281e51362accded0ea895e1ab549e9e01f4a967675e70c6912f8139
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.632fba1f42188f30e9a98c944b87d21dbc0005ae21ed2b4c02c02a519c698136
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiHoveredFlags.AllowWhenBlockedByPopup
 title: ImGuiHoveredFlags.AllowWhenBlockedByPopup
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 336ccf114dfef79e3291707bd66f83a1be670c09cc819b5858e96d50d91dd9e0
+sourceFingerprint: e22b8a34c9bd2433680f3af2e342ec01e4da05ee88074e131f3055d53ae2ade1
 apiScope: Editor
 contracts: []
 

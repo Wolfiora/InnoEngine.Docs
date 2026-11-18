@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2d15a82ea89aa8c95e7fc35d6a8f94db5a29883988ee9714f5743630850ac36d
 symbol: engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderGraphSourceStore.Save(Inno.Assets.AssetPath,Inno.Core.Graphs.GraphDocument,System.String)
 title: ShaderGraphSourceStore.Save
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
-reviewed: a572318c49be8977d6027a99a1abb24f3e6aa9b1c91d9c935730fa8503890dd3
+sourceFingerprint: aa35f514c3285cc16cbb2ac143a3025f737eceeb35570ca89aacfcd69ceb7b40
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

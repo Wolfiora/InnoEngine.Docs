@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.73f102de96b9b5abd05d6ab2331972990c16c2644afa3215372704296cde99ae
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.EditorStyleMetrics.C_MIN_ZOOM
 title: EditorStyleMetrics.C_MIN_ZOOM
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 2903117803f41cba529e947a787b14e078d6847b957d6f03611b7c696a3d4d06
+sourceFingerprint: 411d8eef8d46de3ebd67ff5d730b85c3472f28acc4cd0feed22f46b7bdc4d0c3
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.ff771b8a6a525c8b
 symbol: engine:Inno.Rendering:T:Inno.Rendering.IRenderFrameGraphContributor
 title: IRenderFrameGraphContributor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 358c29330dba408eb324697b4340f0fb26f60cf4c3205ee83a0a9043b6030ea8
+sourceFingerprint: 79b80f6fdd6295f14c1c2bc19d1a349365ca25da135518d254555e02a8a26a2f
 contracts:
 - project.inno-rendering
 

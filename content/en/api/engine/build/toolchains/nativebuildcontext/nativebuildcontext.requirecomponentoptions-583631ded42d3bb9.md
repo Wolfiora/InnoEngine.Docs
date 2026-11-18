@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.583631ded42d3bb9f5fa51dbd496221b685b44f3775922f3263e564958553bdb
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildContext.RequireComponentOptions(Inno.Build.Toolchains.NativeComponentDescriptor)
 title: NativeBuildContext.RequireComponentOptions
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 343c5cadca6172dbc1ed95d33d9aa540425284aed1bee871b7bc8b7f024b27ba
+sourceFingerprint: 544c658cec78d2d7a83a8ec0a6ab8d0115a7aeb55a48e7b4b0192f9b87aa590e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

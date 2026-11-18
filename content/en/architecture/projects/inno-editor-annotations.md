@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: api.projects.inno-editor-annotations
 symbol: project:Inno.Editor.Annotations
 title: Inno.Editor.Annotations
 kind: project
 owners:
 - Inno.Editor.Annotations
-reviewed: ''
+sourceFingerprint: 58bc4cff404225de5a720dc232ea6ef8aa0ab0557580a9cae5d54c4a673044af
 contracts:
 - architecture.ownership
 

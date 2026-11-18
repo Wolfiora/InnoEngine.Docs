@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c3f876daa12258e37f59b48e6deeee2ac3538132a2e6c5cdd96ced1cbca85850
 symbol: engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectKeyCondition`2.GetSet(Inno.Core.Collections.IndexedObjectStore{`0})
 title: IndexedObjectKeyCondition<T, TKey>.GetSet
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Collections
 apiSurface: source-clr
-reviewed: 53af0fcf375938d70bc2c05e1d321bd3c5d45b15561a27ce68ec1e9cae13a3ef
+sourceFingerprint: 5fb7a52bba7c14d8945004d0dbf619dafda6d0b3cb7f5428b7853374025a0abb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

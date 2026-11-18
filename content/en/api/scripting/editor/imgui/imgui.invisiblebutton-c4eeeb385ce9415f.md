@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c4eeeb385ce9415fd327523f2e25eeabac1b5298c6f3cbb70291f2e1c213769c
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.InvisibleButton(System.String,System.Numerics.Vector2,InnoEditor.ImGui.ImGuiButtonFlags)
 title: ImGui.InvisibleButton
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: c0adc30576e9cdf5b8c094ca2c33e4db5e5349d8fc05213d902884e6787a9d24
+sourceFingerprint: 6021df635b952f8d19b02038153ac7a86d83f8540c25fb53eb49b01c3ec6aad1
 apiScope: Editor
 contracts: []
 

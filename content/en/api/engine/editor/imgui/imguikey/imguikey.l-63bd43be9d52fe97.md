@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.63bd43be9d52fe97aa1e7bd7bffc64e4cb7b6ac47398978965fe9df55d6f55dd
 symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.L
 title: ImGuiKey.L
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 59d416b2a35e71d4a57469817588cbb3732564d54ace492b3183da8b6ec4901b
+sourceFingerprint: 59af761f4f4983b92bef44ab7a783ca0ea0fd2987bf7691a43eb8a08effd27f2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3acc9c9405f316bfad69ba42cd282ab772ca690877c081612e6d99eb2b7c14ba
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.SliderInt(System.String,System.Int32@,System.Int32,System.Int32,System.String,InnoEditor.ImGui.ImGuiSliderFlags)
 title: ImGui.SliderInt
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: ff7d782f806f45b2ccb4fcffb438b8d5de383c074a7c8ab68578b888dc455b12
+sourceFingerprint: cf49518770b858a0587f93bd4f5f65698306a6eab8f1f6a5ba73031b69e83047
 apiScope: Editor
 contracts: []
 

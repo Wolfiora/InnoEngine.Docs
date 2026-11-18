@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.eef1c9b88ef797be712c99593e377b153971ac0bfaea3de19e10bae6db945daf
 symbol: engine:Inno.Scripting.Api:P:Inno.Scripting.Api.ScriptingApiNamespaceAttribute.scope
 title: ScriptingApiNamespaceAttribute.scope
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Api
 apiSurface: source-clr
-reviewed: 81491199b04360ce13395ad323a1a3fe015c454fdbefd779195107d7eb4420f4
+sourceFingerprint: 08f26b8f6ed5f0078c13fba6e8d26bfec7043568f88354814f1a371e2ce32127
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

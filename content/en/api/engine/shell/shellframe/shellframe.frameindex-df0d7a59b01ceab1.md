@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.df0d7a59b01ceab1ca26e0729c803e158bf59907d82d288efa13c99b3123e3b8
 symbol: engine:Inno.Shell:P:Inno.Shell.ShellFrame.frameIndex
 title: ShellFrame.frameIndex
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Shell
 apiSurface: source-clr
-reviewed: 81f865f563bc3276bbc9024d665e820a73e8dadc062d1a6e9b571b78006ec6ce
+sourceFingerprint: 134e1145b80467687adbc09a5ae6505555e301cf839fc50da03314684899d608
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.78af6a884ab9a63a113b271325dccc6bc4985ef98436f360d7e1c5bb644d8f35
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioContentProviderContext.Submit(InnoEngine.Audio.AudioListenerSnapshot)
 title: AudioContentProviderContext.Submit
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 41fc7a422cc9bd1f29e565f46fee0208b6ecf09cb2f9281fd8291c66ce9b3f22
+sourceFingerprint: 8344b69b5f44d26fca6cd528e000568579809ebd64c32c2f6f2bedc716c4e1ba
 apiScope: Runtime
 contracts: []
 

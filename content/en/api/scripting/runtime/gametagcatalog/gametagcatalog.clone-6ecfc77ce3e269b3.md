@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6ecfc77ce3e269b3a5a33cf45d666fcf9e7bffed21d4df7eeb34f4202f415c39
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameTagCatalog.Clone
 title: GameTagCatalog.Clone
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 65ef0b03ebd2c66d244cdbf8d7a1218a2f6f8d675e7a447c1ddebabe346ae86e
+sourceFingerprint: 7c945504ed5e972fd7b794773ceb6233f1430be3e38b708fa0ade85627b2c395
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.graphs.runtime-script.b385f299f157aff5
 symbol: scripting:Inno.Core.Graphs:T:InnoEngine.Graphs.GraphNodeDefinition
 title: GraphNodeDefinition
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: b293647a229ed2005f59193253aabd6b7381f1b116ab6e282e4c7eefcdedec6f
+sourceFingerprint: f66d9225969ffde7c6f1c56056cd87e7b346c75e49a412721714805b309e489c
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

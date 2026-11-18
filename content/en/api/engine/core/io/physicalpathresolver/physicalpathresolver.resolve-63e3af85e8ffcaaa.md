@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.63e3af85e8ffcaaaa477fb174967e5489ba1b698e8cf6ee1f990dc1e6098716a
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.PhysicalPathResolver.Resolve(System.String)
 title: PhysicalPathResolver.Resolve
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: 3d4f24bdc0aae6b62242792c0ed9c59fa8084525f97e53b625a7f0f095058635
+sourceFingerprint: 8782f8a6113e5f712b5900ba51ed585518a4c9b8cc397d9caac612248f0def05
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

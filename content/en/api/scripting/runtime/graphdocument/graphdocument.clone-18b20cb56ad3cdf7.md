@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.18b20cb56ad3cdf743f320c2fa907e7be824d79f44347382694e2c6fddec57c2
 symbol: scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphDocument.Clone
 title: GraphDocument.Clone
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: ead6189f8016819ba57da891122db1062fb7fb03a8986d6cf92e6e5cd67d6cbc
+sourceFingerprint: 07545c6ce029b1e62a65f19dbdb5f9c9dc87d5e424503fadd2284d87f92f60c6
 apiScope: Runtime
 contracts: []
 

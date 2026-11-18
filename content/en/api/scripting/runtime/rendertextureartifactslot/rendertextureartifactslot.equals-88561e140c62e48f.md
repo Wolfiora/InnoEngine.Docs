@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.88561e140c62e48fb9ecfa6f5b902688f4d5b3c5a76336459a528a5547e96e21
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.RenderTextureArtifactSlot.Equals(System.Object)
 title: RenderTextureArtifactSlot.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 2f30f57e9109d84b1568ae3cd1849fd7dab689f34ea00d7045692dda1524fb7c
+sourceFingerprint: 2f30f57e9109d84b1568ae3cd1849fd7dab689f34ea00d7045692dda1524fb7c
 apiScope: Runtime
 contracts: []
 

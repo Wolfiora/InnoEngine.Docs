@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bd6c753949801e4820150e9412bae03a1755067be31e0e45fd7d9d5fc1878c5f
 symbol: scripting:Inno.Editor.Graph:M:InnoEditor.Graph.GraphEditorModule.CloseDocument(System.Guid)
 title: GraphEditorModule.CloseDocument
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: editor-script
-reviewed: fa543e845e76c4757359e285c919b85a384e34ecc804dfa9a083b4e92556f72e
+sourceFingerprint: 85c15f5de36385d992b0dd2736897aedce2183a71c2cd1f47cf50bb3a06f3ef1
 apiScope: Editor
 contracts: []
 

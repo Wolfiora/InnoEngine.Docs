@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d1475c1f5afb04e0cf880b472bb10515e4461823d32b1593b2548d6027ec40af
 symbol: scripting:Inno.Rendering.Runtime:F:InnoEngine.Rendering.RenderTargetArtifactStatus.Pending
 title: RenderTargetArtifactStatus.Pending
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 1947dfd1d32ec7ef3da196fac4e221b3343cc03894a9b5b15b0ceb7621f512f1
+sourceFingerprint: 231978de686d4e6b7556855b3afe01898e94a8553b64e34a8fa0ea3da3350a6f
 apiScope: Runtime
 contracts: []
 

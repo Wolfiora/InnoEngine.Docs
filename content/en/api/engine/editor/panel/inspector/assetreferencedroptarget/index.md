@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.panel.inspector.1f4dfc47eff543a2
 symbol: engine:Inno.Editor.Panel.Inspector:T:Inno.Editor.Panel.Inspector.AssetReferenceDropTarget
 title: AssetReferenceDropTarget
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Panel.Inspector
 apiSurface: source-clr
-reviewed: a9f58b6eee70c8a3ae378823ba87ed4ded8523d9f3b8fba9c8729df0e5deabe8
+sourceFingerprint: e264e720ded12833e209d93469da69dc92af6c10391551d334bef77bc0c7f056
 contracts:
 - project.inno-editor-panel-inspector
 

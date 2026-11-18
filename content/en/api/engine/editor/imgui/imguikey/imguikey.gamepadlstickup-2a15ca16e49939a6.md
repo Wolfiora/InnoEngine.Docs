@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2a15ca16e49939a657cda40710312b1ed1c9f168890d95021a9a8604b2c6abea
 symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiKey.GamepadLStickUp
 title: ImGuiKey.GamepadLStickUp
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 53795dc615361c9b2ec99989cdca0fa34a4e492706e5c416df9390f63fcc8f87
+sourceFingerprint: 6354d11087acb2b398201636bdc96359de4342def18b761b77baa30a6fbb1bc4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

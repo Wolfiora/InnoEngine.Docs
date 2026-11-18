@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fbabde6c8e5efae08c5c2704894d811c61cb9793d78b9788a4ab0575dfb40b48
 symbol: engine:Inno.Core.IO:P:Inno.Core.IO.IByteDocumentStore.documentName
 title: IByteDocumentStore.documentName
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: 2777beb1a9e64817e74e8143dc25584b73e73214b6cd0380ffa6d4fdaaf6b01c
+sourceFingerprint: 9e4c2407e857957d9b4cc66aa04156b6fa1f1d710ca3a2e0e2da852e9e10409b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

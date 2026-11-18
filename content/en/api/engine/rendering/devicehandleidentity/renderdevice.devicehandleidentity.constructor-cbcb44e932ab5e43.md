@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cbcb44e932ab5e43cf7ac79c30ab32811747b8d82dfdc6c7173958920ed07337
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.DeviceHandleIdentity.#ctor(System.UInt64,System.UInt32)
 title: RenderDevice.DeviceHandleIdentity.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: f79e2a0fd74dfc2ea70eeb2b74e14f4b14baae4971975942b292404c478d5504
+sourceFingerprint: d79d616559ced577630b0878a07245b0c8025f7b1264c75f97f3cf16d9a2653c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

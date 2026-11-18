@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f42d549b7dc957b65fe1c3044c80b486dd9aa5b2e8de91b0aa5a39bd7b387d06
 symbol: engine:Inno.UI:M:Inno.UI.UI.SetAttribute(Inno.UI.UiContextHandle,Inno.UI.UiDocumentHandle,System.String,System.String,System.String)
 title: UI.SetAttribute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: dae1e5074928d9320d9367c087460185db2b7cf0c7ce637044a2f7349e3a6db3
+sourceFingerprint: fda0b0db169bb64e7e0f25ad0604d174ca1b7efe607ea75e8f64628406f80efa
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

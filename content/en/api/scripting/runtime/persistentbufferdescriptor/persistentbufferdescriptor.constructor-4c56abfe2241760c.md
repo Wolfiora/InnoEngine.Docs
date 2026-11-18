@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4c56abfe2241760c6c8a39f0b54f47cd4ddd8ad0042abc78f06ed864513fa8ab
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.PersistentBufferDescriptor.#ctor(InnoEngine.Rendering.RenderBufferDescriptor,InnoEngine.Rendering.RenderVertexLayout,InnoEngine.Rendering.RenderIndexFormat)
 title: PersistentBufferDescriptor.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 93e19618e0e262db0b2b7ef31d91d109b8079dc2a5f114732df07692c1cac9c7
+sourceFingerprint: 74afc0c9101005e04b0679537e444c684c82adf2886c41eb3df2956e1d524b25
 apiScope: Runtime
 contracts: []
 

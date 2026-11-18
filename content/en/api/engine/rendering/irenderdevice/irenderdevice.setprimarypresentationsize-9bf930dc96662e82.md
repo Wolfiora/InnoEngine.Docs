@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9bf930dc96662e8285a05aea165a6c7498864b85cfa63687a81cacb8f924437d
 symbol: engine:Inno.Rendering:M:Inno.Rendering.IRenderDevice.SetPrimaryPresentationSize(System.Nullable{Inno.Rendering.RenderPresentationSize})
 title: IRenderDevice.SetPrimaryPresentationSize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 65619cf9c3d25d79ee9074c1044784911a20ab40ecc3596251879d277a80d5d9
+sourceFingerprint: f130c09d173263e3279492eca9f2a64ee37f2c9d48ce5c370099fb08408d8279
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.storage.runtime.e3b2203bf4cb1021
 symbol: engine:Inno.Storage.Runtime:T:Inno.Storage.Runtime.StorageRuntime
 title: StorageRuntime
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Storage.Runtime
 apiSurface: source-clr
-reviewed: 506c7a06961ee5f6a2c24d8664b9dfbff835e7738f6127c9d0f08da11b4f30e8
+sourceFingerprint: 8a478163a75d9bd429ca7297f9b1ca364384c4588af3706ac94c0fe20fe7a0d9
 contracts:
 - project.inno-storage-runtime#admission-and-lifetime-contract
 

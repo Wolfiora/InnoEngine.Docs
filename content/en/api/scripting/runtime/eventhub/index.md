@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.events.runtime-script.b769708cdced8a07
 symbol: scripting:Inno.Core.Events:T:InnoEngine.Events.EventHub
 title: EventHub
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: editor-script
-reviewed: 2a21a1f8a3021f93b43f04db7ade0aa17e1347950c41dfa16351a92a8313373c
+sourceFingerprint: 24d0b3917961fad682727111c62ed76e910e25321bf26d433f34c26baa6fde83
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

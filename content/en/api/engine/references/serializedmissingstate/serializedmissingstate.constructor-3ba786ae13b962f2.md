@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3ba786ae13b962f2aaa571ebbd78a115bc87ce756a4c994fe33a89b9d9e34bfe
 symbol: engine:Inno.References:M:Inno.References.SerializedMissingState.#ctor(Inno.References.ReferenceKey,Inno.References.ReferenceDescriptor,System.ReadOnlySpan{System.Byte})
 title: SerializedMissingState.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.References
 apiSurface: source-clr
-reviewed: ee78ff07efa8d073af9776ec23c64aa392d069a0230137e1c990bf64e63e76d4
+sourceFingerprint: 1a67796fc18332475743c6bcca77b0aeb4cccd039fce4cc03121ed4ec493a8cf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

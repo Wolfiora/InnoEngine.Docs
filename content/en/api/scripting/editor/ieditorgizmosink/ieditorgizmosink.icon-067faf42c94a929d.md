@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.067faf42c94a929df93a243ed2ccb48ad26d3d3f049392b3f1caa5f7bf2f96f9
 symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.IEditorGizmoSink.Icon(InnoEngine.Core.Identity,InnoEngine.Mathematics.Vector3,System.String)
 title: IEditorGizmoSink.Icon
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: 2e81fedc10592bdd97f0793e2b85c874f5027cdd089837a62519aca6458a3bf6
+sourceFingerprint: 48989d2fe8a1a9c07d18adf32fe37b8c800676b945dd19125302d3ed3941e90d
 apiScope: Editor
 contracts: []
 

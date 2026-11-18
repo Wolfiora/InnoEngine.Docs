@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e1d11b06fe063a0412ee5792e8eecbb2f2547a341f67395d243998844214b890
 symbol: scripting:Inno.Editor.Graph.ImGui:P:InnoEditor.Graph.GraphCanvasView.zoom
 title: GraphCanvasView.zoom
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph.ImGui
 apiSurface: editor-script
-reviewed: 67f6f96dd418f8740e4d00085a99307b0e5b53b22538376b3e973b78e83ae894
+sourceFingerprint: 30c7b536e8810a95b199da2ff118c4056997cb004b3c13d6c8af59570b872d45
 apiScope: Editor
 contracts: []
 

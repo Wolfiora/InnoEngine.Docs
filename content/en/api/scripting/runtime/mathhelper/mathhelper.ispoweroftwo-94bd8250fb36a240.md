@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.94bd8250fb36a240205a5601873482bd961894949399000515c765394e69fd4b
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.IsPowerOfTwo(System.Int32)
 title: MathHelper.IsPowerOfTwo
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 68eb7c50f5ec3adc4898e75340fe12489c5e736619e45cd0e93f992b7a9dc281
+sourceFingerprint: 19502fba97c91bdf5490bc5dd29380323f978ca961e6448fde631e264b0d7bbb
 apiScope: Runtime
 contracts: []
 

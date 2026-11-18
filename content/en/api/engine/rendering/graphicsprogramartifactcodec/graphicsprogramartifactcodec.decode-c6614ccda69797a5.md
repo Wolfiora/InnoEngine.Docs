@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c6614ccda69797a5ef129403f4a7fcc4234f81d52be5187babfec2ffa246a2c7
 symbol: engine:Inno.Rendering:M:Inno.Rendering.GraphicsProgramArtifactCodec.Decode(System.ReadOnlySpan{System.Byte},Inno.Rendering.RenderVertexLayout)
 title: GraphicsProgramArtifactCodec.Decode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 7a318fe19c2f197427f26e530617b78e5f75d54216766dd954b3ecfc2d120853
+sourceFingerprint: 694486493996c125bc80ecb85e4c1c9c53c2cfe1aa7f92997b5ade699f6181c0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

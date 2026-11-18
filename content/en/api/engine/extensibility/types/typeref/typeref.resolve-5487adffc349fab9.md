@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5487adffc349fab9ccc1685f911dee2394dc47cd48f9d250d970c89e6e2d8a0e
 symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRef.Resolve(Inno.Extensibility.Types.TypeCatalog)
 title: TypeRef.Resolve
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-reviewed: 614584aab5112b0ebc06d13580efa31ca6ac6725bc9ba462e92107a7b036d570
+sourceFingerprint: fb088433f66846d0d2c8e28dc403fb707176bf217e9fbcc2cb76207f11a4b4f2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

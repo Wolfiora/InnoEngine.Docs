@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cd0f33609b7aae0205f948069adf2f4d3267b9f551304a76f689ee2bc8e3299d
 symbol: engine:Inno.Scripting.Compiler:M:Inno.Scripting.Compiler.ScriptDiagnostic.Equals(System.Object)
 title: ScriptDiagnostic.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Compiler
 apiSurface: source-clr
-reviewed: d21d84aec63318ed1fda6eaeb2455f216408ab88cfe41f8a16d581015aaf7fb2
+sourceFingerprint: d21d84aec63318ed1fda6eaeb2455f216408ab88cfe41f8a16d581015aaf7fb2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

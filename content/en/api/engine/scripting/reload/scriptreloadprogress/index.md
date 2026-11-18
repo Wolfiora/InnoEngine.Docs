@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scripting.reload.4347b096f0fa86c8
 symbol: engine:Inno.Scripting.Reload:T:Inno.Scripting.Reload.ScriptReloadProgress
 title: ScriptReloadProgress
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Reload
 apiSurface: source-clr
-reviewed: a8282dd77fad70909e0aa5b828a792863c2b00e86cda3e4c1332d372d1989158
+sourceFingerprint: 923df4040e8841e6424a6ee06058470d9c64756fe75913a458904ae6c9b892db
 contracts:
 - project.inno-scripting-reload
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9e1f3e6a71ae65301db4828439f3e4606ef705cd2ad638c692ca74ef677519b7
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiCol.PlotHistogram
 title: ImGuiCol.PlotHistogram
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 9c0062693d54419adc9d4715be8f391afbfac2b1e5e2d7b60f88ff752cdaa0e4
+sourceFingerprint: 07e95c1a88ab5527deda4d1f5027cc44cc8082aacdd5037d69413dfd92a25e58
 apiScope: Editor
 contracts: []
 

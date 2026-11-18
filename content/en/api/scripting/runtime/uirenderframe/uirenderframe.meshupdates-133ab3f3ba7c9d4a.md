@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.133ab3f3ba7c9d4a2916883634dfea478b97670557005c45c1a9aef90ad037b0
 symbol: scripting:Inno.UI:P:InnoEngine.UI.UiRenderFrame.meshUpdates
 title: UiRenderFrame.meshUpdates
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 4b8743fb3fdac2bfc4fc92f0bdfd1ae85d6862a842cdcc974ba736bab1c166d3
+sourceFingerprint: bb55c068bea52502e179911b9da69593de56f0fcb9399be5560c65959a09b499
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d242e2e18a14775836aae61cfaf73d4447f24843378e0a10e264bd6daa6e5b95
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetCacheOptions.CreateDefault
 title: AssetCacheOptions.CreateDefault
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: c73f2fb75321d1722f9bd6b82112ac4f983945ee28f73e87d86784c667f9182a
+sourceFingerprint: f3dba7a5637a9caa1b8d449b7839d010f9dbbb65411e976fd3ca091c5d30c6a4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3733f907209c0dfee56039390aa3cbe8a01aad8455d8fdf874219fbe99f6632b
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorModalExtension.TryPrepare(Inno.Editor.Core.EditorContext,Inno.Editor.Interactions.EditorModalExtension.Presentation,System.Numerics.Vector2,System.Nullable{System.Numerics.Vector2}@)
 title: EditorModalExtension.TryPrepare
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: 66c1d58aa3590be3496c82606d7439297d6d3d40f2a5ecbebb8d334f1daefd23
+sourceFingerprint: 5c23992ef169ff0adeb065e22d39a828856ec7dba1c2f95cc6c714e759ec3c3f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

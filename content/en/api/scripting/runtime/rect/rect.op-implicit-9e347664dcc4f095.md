@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9e347664dcc4f09507a2140b19d43d295a0a5205497e74224887984340065b1f
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Rect.op_Implicit(InnoEngine.Mathematics.Rect)~System.Numerics.Vector4
 title: Rect.op_Implicit
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 4c21bb4a7fc41c2cdaabdd91e086407b200d7ce86dda324d80a2f6938399d4d2
+sourceFingerprint: f02b83b47c182ef3d2f1716518f1434f1f32c0545c47bb42385104e222645744
 apiScope: Runtime
 contracts: []
 

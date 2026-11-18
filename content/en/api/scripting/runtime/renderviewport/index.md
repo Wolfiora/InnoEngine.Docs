@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.899771529aae312d
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderViewport
 title: RenderViewport
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: d764efeceb1f6c0d307785d2a906d3a819b86e37c60ea2fb87ff14926d6d4386
+sourceFingerprint: 546afd01df38c7ca47f31d81ef701d06477864d5e235d55f17bfe3c1630c10b6
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

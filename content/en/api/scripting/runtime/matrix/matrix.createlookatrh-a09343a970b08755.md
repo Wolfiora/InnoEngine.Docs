@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a09343a970b08755974315f02bf203273f17b85df3ecdb90ab05ed6d01973fb2
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.CreateLookAtRH(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3)
 title: Matrix.CreateLookAtRH
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 42e1a51c25cedfff510c0cfc5aa274c82503cb93e6f90062ef475da7e5e7c64d
+sourceFingerprint: 539d36e6631deacdf4f16096178de9ae09c5c4df55d7e9b5e9fcf469f3fa9afe
 apiScope: Runtime
 contracts: []
 

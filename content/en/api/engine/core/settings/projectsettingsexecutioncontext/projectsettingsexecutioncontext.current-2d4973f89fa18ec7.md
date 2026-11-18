@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2d4973f89fa18ec7c49e48763a7920ba351cd10df825fe3cbb468c14c7594155
 symbol: engine:Inno.Core.Settings:P:Inno.Core.Settings.ProjectSettingsExecutionContext.current
 title: ProjectSettingsExecutionContext.current
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: source-clr
-reviewed: ae6d8a2cc5931bf3da3ba867c2f5ce7461998b944fa16a781f28299f2f74344f
+sourceFingerprint: 862fa2f510fbe43e108ca175234daa9065298ebe2ec556ed047f71426c8f233e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

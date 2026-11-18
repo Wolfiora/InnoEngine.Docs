@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.80d17bb75792ccf5842af833ccb60350d30a13d6dfe39f37ebc1fabaa8bbf43c
 symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiFocusedFlags.RootAndChildWindows
 title: ImGuiFocusedFlags.RootAndChildWindows
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 46ce3493e03866afa6d55b4fe35281920c8ffa172e1c1a7375dc9700e8278114
+sourceFingerprint: 6187c52ed32b16abcb303c8188dcbb5d415c39b7385244c489ba12411665aaba
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.imgui.f90231d925059f7e
 symbol: engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiWidget.TransformGizmoOperation
 title: TransformGizmoOperation
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 2c99c8729bf4934975e2804b19db4bc6938a661cd7f33644815b0097de7c60fb
+sourceFingerprint: 2038178c4d3098efc3553bdbbdf9f20fa9ed27c5ddce04dad24d689bf7f6c392
 contracts:
 - project.inno-editor-imgui
 

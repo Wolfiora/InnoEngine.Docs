@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.271280f420a940091dda47ba21769a66aea003ecf9cf23936431383bf3a7cf15
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPhaseId.Equals(System.Object)
 title: RenderPhaseId.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 31720b3a1e36097427ab021f37448c9d4012f9a48c31a99505080d761f098a57
+sourceFingerprint: 31720b3a1e36097427ab021f37448c9d4012f9a48c31a99505080d761f098a57
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.50e1b0cca932ee95bd89c6a2899c6226927589e20b534d6adae5143f27856b7d
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderBufferHandle.isValid
 title: RenderBufferHandle.isValid
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 922c3405648317ce5c77b8dddb6da1791edfa5b214b321a2d6e2508333fc3994
+sourceFingerprint: 8949f560ead1fda4ebcaa14af85f23f794d1f81a369c1c3830d145d1e6fa5323
 apiScope: Runtime
 contracts: []
 

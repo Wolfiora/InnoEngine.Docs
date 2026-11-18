@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f7fc3f44a8327a7db9e3bee45de435eaa154b9277384e462b2cf037f71fb90ee
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.RectInt.GetHashCode
 title: RectInt.GetHashCode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 516af5280848518cdea8c2853b176cd89f8e775f71d7601f634951df6d1db721
+sourceFingerprint: ee411c870c7fea484ef3bfb948eb80753d62863be953cefcc63e69745af025b8
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e042bb3d1f917bcf4cc2f8180997a1dc8ea8cbde1f5505ac571af40586bfa100
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildHostDescriptor.#ctor(System.String,System.String,Inno.Build.Toolchains.BuildHostServices)
 title: BuildHostDescriptor.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 8fb7c2a359e7d4971c2f3d6a397365b92573818b3501f8b440bb95c708f85572
+sourceFingerprint: 7d7e83510931e156e80b2557a3369471108527578bec3c10012c5fe4da3653ac
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

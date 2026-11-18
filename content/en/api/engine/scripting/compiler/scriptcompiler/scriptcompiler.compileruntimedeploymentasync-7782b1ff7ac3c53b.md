@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7782b1ff7ac3c53b0f00621d8a8d9bc507350dea5cd33493348d728652a64c16
 symbol: engine:Inno.Scripting.Compiler:M:Inno.Scripting.Compiler.ScriptCompiler.CompileRuntimeDeploymentAsync(System.String,System.IProgress{Inno.Scripting.Compiler.ScriptCompilationProgress},System.Threading.CancellationToken)
 title: ScriptCompiler.CompileRuntimeDeploymentAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Compiler
 apiSurface: source-clr
-reviewed: afd410ffa822e7721c61b47bc6f86b5182981179414bd5cda1925613d2cc48ae
+sourceFingerprint: 7fd8ef3a0f47bdc18f506c7adeb2fedb69f595a9db31892a12e953ad665f065a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

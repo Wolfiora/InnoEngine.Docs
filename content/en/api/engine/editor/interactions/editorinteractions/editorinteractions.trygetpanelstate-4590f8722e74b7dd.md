@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4590f8722e74b7ddd6a9f6d0e03b8ff959370431ee0d298fc2a2b265bf80ed5a
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteractions.TryGetPanelState(System.String,System.Boolean@)
 title: EditorInteractions.TryGetPanelState
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: 6000307d3a4684e4d20a90e0d50bc1f82714afce243cba3b80eb81c91381003c
+sourceFingerprint: ddff04b5d60fcfd37ffd3cc8eb1d6def6d9870f75f51df19249533616674232e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.io.87ebbef5c9f0f02d
 symbol: engine:Inno.Core.IO:T:Inno.Core.IO.ProcessOwnedDirectory
 title: ProcessOwnedDirectory
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: ca0227cf67bdc57a2d2674d0b0d748dd87b5088198f22dc24dd3050d6de4b016
+sourceFingerprint: 5c659a033c00499999904b4b73111419cdcfd2c622a14749a9aeed86338e98a1
 contracts:
 - project.inno-core-io#publication-and-ownership-contract
 

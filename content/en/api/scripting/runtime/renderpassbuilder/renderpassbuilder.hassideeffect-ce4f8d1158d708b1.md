@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ce4f8d1158d708b1208d9f964230017392a3aa4cdca06c00806bd7407f605b7e
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPassBuilder.HasSideEffect
 title: RenderPassBuilder.HasSideEffect
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 23af05a41ebc30ebf10f0f977b49d7c283f69ecadcc93ef29ae212c6c535d4df
+sourceFingerprint: da852ac9bfcc5288ad0cce95d434d0ab08686d00c4e10d43392e0dc0e669b565
 apiScope: Runtime
 contracts: []
 

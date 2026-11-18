@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b47db3faf1ffa817fdab958c793b94d5a8a9aa6717cac5825454cabc82fca4f1
 symbol: scripting:Inno.Audio:P:InnoEngine.Audio.AudioPlayOptions.pan
 title: AudioPlayOptions.pan
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 82b99fedc3cee967780dcd6191a259fa0993c88e706d93926835826e2261b2d2
+sourceFingerprint: af40866aa2cf2f7f20b182c4871ad58f8b917cb5c51bcc63915bd9cd49916f0a
 apiScope: Runtime
 contracts: []
 

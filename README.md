@@ -66,7 +66,7 @@ Every API type and member has its own explanation and stable symbol identity:
 | `source: FLwolfy` | Preserves authored prose while source declarations and relationships continue to update |
 | Unknown marker | Fails rather than guessing ownership |
 
-Set `source` to your name (for example, `source: FLwolfy`) before taking over an API explanation. Preserve its `uid` and `symbol`. A source contract change can require editorial review even when the prose is preserved. Removed APIs with manual prose retain their files for review outside current navigation and default search. These rules never authorize overwriting ordinary Manual pages. See the [API authoring guide](content/en/contributing/api-documentation.md) for frontmatter, stable addresses and review identities.
+Set `source` to your name (for example, `source: FLwolfy`) before taking over an API explanation. Preserve its `uid` and `symbol`. A change to a source contract can mark the preserved explanation Outdated. Removed APIs with manual prose retain their files for review outside current navigation and default search. These rules never authorize overwriting ordinary Manual pages. See the [API authoring guide](content/en/contributing/api-documentation.md) for frontmatter, stable addresses and review identities.
 
 ### When publishing
 
@@ -141,10 +141,10 @@ Documentation follows the engine's Apache-2.0 license unless an individual asset
 
 Engine project guides use the same editorial ownership policy as API explanations. The linked Engine project guides row opens the index, and its square toggle reveals the flat list of project pages. Their registration is maintained in `reference/projects/content.json`.
 
-- Generated metadata: `uid`, `symbol`, `title`, `kind`, `owners`, `reviewed`, and `contracts`. Do not edit these fields to change source facts.
+- Generated metadata: `uid`, `symbol`, `title`, `kind`, `owners`, `sourceFingerprint`, optional `outdatedFor`, and `contracts`. Do not edit these fields to change source facts.
 - Authoring metadata: `source`, `description`, `outdated`, and optional aliases. `source: xml` (or an absent source field in a registered guide) permits synchronization to regenerate the body from the selected project source/XML facts. A nonempty author name protects the body.
 - `description: null` leaves the default description to the source/content pipeline. A nonempty list supplies the project introduction and the Purpose text in category tables. For example, `description: ["Select audio providers for a host composition."]` changes the Audio category explanation without editing a generated category page.
-- Synced identifies generated content. Review pending identifies a named-author project guide with no recorded review. Outdated identifies a change since a recorded review or an explicit review request. Verified records an acknowledged source review. Project and API review fingerprints normalize XML line endings and exclude capture revisions and source line numbers.
-- After reviewing a named-author guide, run `npm run docs:review -- content/en/architecture/projects/<guide>.md`. The review tool updates `reviewed` and clears `outdated`; do not fabricate the fingerprint manually.
+- **Synced** pages use source XML. Set `source` to a human or AI author and commit the Markdown to show **Authored**. When source facts change, synchronization preserves that text and displays **Outdated**. Editing the body or description restores **Authored** on the next build. A later source change can mark it Outdated again. An explicitly set `outdated: true` lasts until the author clears it.
+- The same three states apply to registered project guides and API pages. The generated fingerprints ignore XML line endings and source coordinates. Editing and committing the page is the entire authoring workflow.
 
-Existing project prose was retained during migration and attributed to InnoEngine contributors. Each migrated guide stays at Review pending until an editor reviews it with the command above. Unregistered Manual and tutorial pages are outside this mechanism.
+Unregistered Manual and tutorial pages are outside this mechanism.

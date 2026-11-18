@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.animation.9852c242252f5c30
 symbol: engine:Inno.Animation:T:Inno.Animation.AnimationPlayOptions
 title: AnimationPlayOptions
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: source-clr
-reviewed: 8dee8c6b5409f92927739377c1d3a509672bae4cf615a29a4ade652de71238de
+sourceFingerprint: ace75f6b407511518e1c49e99cdc3ac279dbc54319786c9b9dbef026274509f0
 contracts:
 - project.inno-animation#target-and-service-contract
 

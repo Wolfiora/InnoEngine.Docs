@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9c07ed1aa0141259d01ce5679e3643aa2b9401ef6c0563ac376ee76205c296e2
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Color.ToUInt32ARGB
 title: Color.ToUInt32ARGB
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 5d5c935dd8f729ab045948edeb18ddba1ccfc688fed7d979ab476413c2dbfeb1
+sourceFingerprint: 3f9f07466cd64f31afc80d94cbfc81778e5175ca2ef980dc53535cafcbd882e8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

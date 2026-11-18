@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8326dd7ed6aaaa594f968bb3561ad8175d2e712a151fdc83682bbfe240fe097f
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.InsertionLine(System.Single,System.Single,System.Single)
 title: ImGuiWidget.InsertionLine
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 44293225749c4732d4bc7bfdae6d97a7be144a12d1148feaa9ea6bf5eac886b6
+sourceFingerprint: 147ba2de3358e393eb26a350d93aaab3bc4224cb49add0e39d8fdef6bd867c2c
 apiScope: Editor
 contracts: []
 

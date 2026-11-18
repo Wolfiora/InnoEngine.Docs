@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.38f6838f2916c12802ed40ba8ec337ac553be1331c423a1afe18cdbdbc4435a0
 symbol: engine:Inno.Rendering.Assets:P:Inno.Rendering.Assets.RenderShaderPassArtifact.rasterState
 title: RenderShaderPassArtifact.rasterState
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: 7626459cca8a172ce86871960a592de872f5299e3ad7f9a165f43c7361b0f39d
+sourceFingerprint: 1725d0bc7e8c0aa247a362d2856599249dad0589d5da163c2701d7d3ca46b9b9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

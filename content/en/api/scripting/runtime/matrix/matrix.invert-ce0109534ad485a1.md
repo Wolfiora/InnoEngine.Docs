@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ce0109534ad485a13e6aa377adf67acb2ca2401dd6e07ac031bdfee08d82e4b2
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.Invert(InnoEngine.Mathematics.Matrix)
 title: Matrix.Invert
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: bd645f98c8931f28f0bef86c54212e28ada6d2b65fa883201420c55d6b0edd25
+sourceFingerprint: da171e18d76e4ba5d5b1d995ff8d603b4288f883e15435622d2e150756f851de
 apiScope: Runtime
 contracts: []
 

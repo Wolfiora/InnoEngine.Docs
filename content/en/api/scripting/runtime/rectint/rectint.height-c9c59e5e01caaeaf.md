@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c9c59e5e01caaeaf2f319628618f2b948dec761232a717a31737a3cbfa562e50
 symbol: scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.RectInt.height
 title: RectInt.height
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 52f9e50babe2e0843c68f6fb330bb53e63f2665c80f64e3a1cfb6fe9fd5017c5
+sourceFingerprint: 9fcba0d5b975fe4ddfac053954c09254bb6ff9473b85d9bd2fc99d963c1a9b53
 apiScope: Runtime
 contracts: []
 

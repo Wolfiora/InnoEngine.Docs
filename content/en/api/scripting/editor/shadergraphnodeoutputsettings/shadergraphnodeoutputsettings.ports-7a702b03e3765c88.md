@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7a702b03e3765c887d473ceaa7adf9411638fce0c888c31178d62798b1907742
 symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderGraphNodeOutputSettings.ports
 title: ShaderGraphNodeOutputSettings.ports
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: bf605cddbb41f8aab80dc01acaa4cd990d874a04c391ed59e8406e0239c400d8
+sourceFingerprint: 6abb88511af1d4cb6d9894df94f6e7801e65c34f97f4dccd3e87542542f0582f
 apiScope: Editor
 contracts: []
 

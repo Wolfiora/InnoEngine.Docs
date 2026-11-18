@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.audio.runtime-script.d7719ac2c498c754
 symbol: scripting:Inno.Audio:T:InnoEngine.Audio.AudioMixerFeatureExtensionAttribute
 title: AudioMixerFeatureExtensionAttribute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: a9a681e9055fa4182a5957d793a4a35a2b729ce129f0680cf043ed24586c4d9c
+sourceFingerprint: c21ecd6264afdb6c4d531f89cefe3333500063abaec5671b33d1f3f6c148453a
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

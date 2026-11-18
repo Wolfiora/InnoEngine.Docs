@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.011846893d7d272ca3d79115a7588135b99160580313dcd03cbd39384818e418
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.DragInt(System.String,System.Int32@,System.Single,System.Int32,System.Int32,System.String,Inno.Editor.ImGui.ImGuiSliderFlags)
 title: ImGui.DragInt
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: fb020a47479e760136bcf09b7455b6e4cff4a34d0b5c78d32640c8cc34b5bbef
+sourceFingerprint: 70a572c89d5986e8d411f0f3ee351a9b227044c839b0a0f2144f5e5ed888f53f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

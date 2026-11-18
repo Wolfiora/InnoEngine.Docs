@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.acd9ccd521b9a26bcd8664bc817b3945f599bc23c5ff6d1cba04d3f31b733899
 symbol: engine:Inno.Build.Products.Standard:M:Inno.Build.Products.Standard.StandardSupportPackRequirements.CreateStatic(Inno.Build.Toolchains.ProductNativeBuildPlan,Inno.Build.BuildTargetId,Inno.Build.Toolchains.NativeLinkPlan)
 title: StandardSupportPackRequirements.CreateStatic
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Products.Standard
 apiSurface: source-clr
-reviewed: 3024f44d75211b52a95a569c26c3c940958a3ecb6f2bd4417960e6f9b8a05ac1
+sourceFingerprint: e2261db827a4779f387d11a5ea0927f356eb07655d4f455889ba7d42d1b11140
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

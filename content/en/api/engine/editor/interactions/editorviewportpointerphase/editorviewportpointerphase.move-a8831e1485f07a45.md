@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a8831e1485f07a45ac8f2d094fb8f71baf431ee60fbef8a87669b5d09c7f87ec
 symbol: engine:Inno.Editor.Interactions:F:Inno.Editor.Interactions.EditorViewportPointerPhase.Move
 title: EditorViewportPointerPhase.Move
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: 38b2932834f0ff42b1cd142544ad56414d0d39323ae15fcbffd278fa2f238a76
+sourceFingerprint: 495bfb008461388212c16e00b5f4582de9862106095cba09f6fb704095697247
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

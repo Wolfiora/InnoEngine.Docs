@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.shaders.858fa5689a204637
 symbol: engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderTargetAttribute
 title: ShaderTargetAttribute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: b9bff345417f72723f1648107c58f3ee4c82479f142b6a2a0148bc23e17ab215
+sourceFingerprint: 9009cbab2f7464cd0dba5b1f8f6dedcc991eaa52d712b5c1e5ca45f47527b3e7
 contracts:
 - project.inno-rendering-shaders
 

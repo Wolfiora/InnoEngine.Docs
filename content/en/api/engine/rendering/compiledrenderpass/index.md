@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.b46339ec620fc376
 symbol: engine:Inno.Rendering:T:Inno.Rendering.CompiledRenderPass
 title: CompiledRenderPass
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 34e36460bfeb3abbdb9854a8476cb822beca34961dadaa49013777d4a9f723ff
+sourceFingerprint: b3fa9c5a8d81540d1ae040c105963aaefcebc3e6bd630aeb844835d8d8995359
 contracts:
 - project.inno-rendering
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ace034603b21d6c4dc8c3d194a8e8d503af684b93ad274ad519cef17260aa024
 symbol: engine:Inno.Text:M:Inno.Text.TextMetrics.#ctor(System.Single,System.Single,System.Single,System.Single,System.Single)
 title: TextMetrics.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: source-clr
-reviewed: 733c87a191688d1e3b1460fee0568b747d9a23a0a3f67c08ca4730c2157787e6
+sourceFingerprint: 20b9a26f6ef0d1a3d6ef9dc7241d70a6d52a9209d430441a128b946a2c5122a6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

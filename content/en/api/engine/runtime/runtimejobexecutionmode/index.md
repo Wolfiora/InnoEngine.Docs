@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.runtime.e490bdc5692108e7
 symbol: engine:Inno.Runtime:T:Inno.Runtime.RuntimeJobExecutionMode
 title: RuntimeJobExecutionMode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: c2d748b2155034625890effa8b9082026841dd164d5c9e59b28c1a5bb123afc7
+sourceFingerprint: 7387a939d8262b0eaccd49f0c6b8e0c9a4e42540c33c108c8131dc81d282166a
 contracts:
 - project.inno-runtime
 

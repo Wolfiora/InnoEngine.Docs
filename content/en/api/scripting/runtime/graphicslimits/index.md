@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.a9a39f8e22c722f2
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.GraphicsLimits
 title: GraphicsLimits
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 7b3f972c78e4c1e339b2037f1716337f57163503a1eb092ee9c1bd2a1b50f155
+sourceFingerprint: 53f6c2a60ac4354113a0e16fb61cb5cec1471ec07acef172a3f2da7d39fcface
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

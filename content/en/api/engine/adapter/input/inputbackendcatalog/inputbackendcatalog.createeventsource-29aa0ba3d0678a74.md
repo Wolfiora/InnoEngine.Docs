@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.29aa0ba3d0678a741709edc9e19469489de132f0f275ec69cf9cd8bcd47372c4
 symbol: engine:Inno.Adapter.Input:M:Inno.Adapter.Input.InputBackendCatalog.CreateEventSource(Inno.Adapter.Input.InputBackendId,Inno.Platform.IPlatformWindow,System.Boolean)
 title: InputBackendCatalog.CreateEventSource
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Input
 apiSurface: source-clr
-reviewed: eb16901c9db9bacc4c8cab33798020b875f6a3d55ca19d1f5462d20da65f7e82
+sourceFingerprint: 177ed349f28e593f60c42c4e4cb69e05e7ca4925dc5b1ff17e51726e482b0b5c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

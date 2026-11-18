@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.64c4fa07a7bef1f3
 symbol: engine:Inno.Build:T:Inno.Build.IGameContentCompiler
 title: IGameContentCompiler
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: f71e398fed44357585f16a75814090218b57ea482952ae7be44ab324abcca718
+sourceFingerprint: aced500cc0d79ed200b17a0b11f181db689906c40cd3fddb2509eaa4e26265a0
 contracts:
 - project.inno-build
 

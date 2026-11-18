@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.211a709e0434b33d17661a788760ba4a2f646f98c522e8d94454462a102ab80b
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.ShaderPropertyDefinition.#ctor(InnoEngine.Rendering.ShaderPropertyId,System.String,InnoEngine.Rendering.ShaderPropertyType,InnoEngine.Rendering.ShaderStage,InnoEngine.Rendering.MaterialValue,System.Nullable{InnoEngine.Rendering.ShaderPropertyBindingKind},InnoEngine.Rendering.RenderStorageAccess,InnoEngine.Rendering.ShaderPropertyBindingOwner)
 title: ShaderPropertyDefinition.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 1b90d09315480309229ef536c4b97b567d0c55383a1f09efdb19d36625433f20
+sourceFingerprint: 1d1d97b4d857c259c3d4840d9082556b6412ab356aebec288d3d6d230f4f9ae3
 apiScope: Runtime
 contracts: []
 

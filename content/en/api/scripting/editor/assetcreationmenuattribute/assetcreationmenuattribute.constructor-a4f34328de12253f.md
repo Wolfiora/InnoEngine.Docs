@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a4f34328de12253f9f8b72966dfdcfd876eb24f8a2c7e5459f8c5644830915ad
 symbol: scripting:Inno.Editor.Assets:M:InnoEditor.Assets.AssetCreationMenuAttribute.#ctor(System.String,System.String,System.String,System.String,System.Int32,System.Int32,System.Boolean)
 title: AssetCreationMenuAttribute.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: editor-script
-reviewed: 643d8ebafb7fa6840b3c831b5ca840332052ae2100ea4fb08a71873414c49d4b
+sourceFingerprint: c9dfc4d77fd633d19ed9c1ee6387a29858a79e0f49c93f85c1951b6138c28af6
 apiScope: Editor
 contracts: []
 

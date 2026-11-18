@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ae20a1772ce29b7a1b8e3a6fc9bcf4b325fa63f5109bebfa205d0460c93a8940
 symbol: engine:Inno.Text:M:Inno.Text.ITextBackend.LoadFont(System.ReadOnlySpan{System.Byte},System.Int32)
 title: ITextBackend.LoadFont
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: source-clr
-reviewed: 3f0961e71d51f6c2b55a53486216a826fe4bcef2e2c87b3aa0d2f40c5f67439a
+sourceFingerprint: 3378aa0eda8b21fadb56a1a29b92d15a28012257453e3da5554543dd1d7e594f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

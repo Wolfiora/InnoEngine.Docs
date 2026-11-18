@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.jobs.d9b1f213435f4b15
 symbol: engine:Inno.Core.Jobs:T:Inno.Core.Jobs.JobSchedulerStatistics
 title: JobSchedulerStatistics
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Jobs
 apiSurface: source-clr
-reviewed: e40649311b062ca79509b9e5ee8e33a81e89b53d7e4e1a0675331640baa126e3
+sourceFingerprint: f830fbb07cf8e78b945267e730d28e720cf5e5af220c8fe25f55c1091af53bb0
 contracts:
 - project.inno-core-jobs#frame-and-queue-contract
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.15f3c4717b8160b24202da9470e0ff1654964513b3de7ae3ab0e4f1ba8653f16
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameScene.InstantiatePrefab(InnoEngine.Scene.PrefabAsset,InnoEngine.Scene.Transform)
 title: GameScene.InstantiatePrefab
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 6677492fd3e20867e979a3dcd2bfef9f944f46639db41c08563bd47d9c33451f
+sourceFingerprint: 8a5bfc3c2e75c27ce03fac631d437e83d267a5ecaaa79317265143a8719baeb4
 apiScope: Runtime
 contracts: []
 

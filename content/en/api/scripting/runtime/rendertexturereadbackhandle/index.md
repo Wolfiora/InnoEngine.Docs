@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.675014ce8ed8a438
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderTextureReadbackHandle
 title: RenderTextureReadbackHandle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 601a5e6d0d145802d2341bcc3e71bb83729acc71e4e3a43bd00116d9c8dceea0
+sourceFingerprint: 4eff69aa26d0dffcd5a126af145e5a974723ed026067de922b1a496f42895fed
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

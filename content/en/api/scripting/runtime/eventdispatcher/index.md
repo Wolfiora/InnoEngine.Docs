@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.events.runtime-script.7bcc2c6aae71e4e1
 symbol: scripting:Inno.Core.Events:T:InnoEngine.Events.EventDispatcher
 title: EventDispatcher
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: editor-script
-reviewed: 8c526a9f2a3fb43decaf6f0dd1903cf1c09ca74d65f578ff75fef33b05067290
+sourceFingerprint: 59743c22071a7210417ef20d70fdd635d7ac34294593184731b23c005bb4f37d
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.802d0ac871c7c9e29babe49b2507462811997d973fe9beb10221f7e1d0d616db
 symbol: scripting:Inno.Editor.Shaders.ImGui:M:InnoEditor.Shaders.ShaderPropertyInspector.Draw(InnoEditor.Inspection.InspectionDrawContext,System.Object,System.String,InnoEngine.Rendering.ShaderPropertyDefinition,InnoEngine.Rendering.MaterialValue,System.Action{InnoEngine.Rendering.MaterialValue},InnoEditor.Inspection.IInspectionPropertyEditService,System.Boolean,InnoEditor.Shaders.ShaderParameterPresentation)
 title: ShaderPropertyInspector.Draw
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders.ImGui
 apiSurface: editor-script
-reviewed: 2b01ca57b4826b8f5a44e4744765464024e19b01ff5221a02f4616490ab1f334
+sourceFingerprint: e5998e4df24d203daf190be392c0150bb966f259bb6d862c7f9aedfbfcaae806
 apiScope: Editor
 contracts: []
 

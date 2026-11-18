@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b2a94ba85590b553c672178510dc7c73503ad466fb71001bf4aa2eb55238fdcc
 symbol: engine:Inno.Scene:M:Inno.Scene.GameScene.ResetSystem(Inno.Scene.GameSystem)
 title: GameScene.ResetSystem
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: f1a72c4bcd8be17f875f47bef1f77740f81ee66832d865e43719113a58268111
+sourceFingerprint: 1aee9eb98a8a45a6975416d9b61ed52b159c7fee75227900f6bdf0d9689e60cd
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

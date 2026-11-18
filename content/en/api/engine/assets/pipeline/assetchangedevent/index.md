@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.assets.pipeline.4e1acfd7a3aeb378
 symbol: engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetChangedEvent
 title: AssetChangedEvent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: 8c06eb3c8e55a8974b03758b6f59792fa1989dd6488832464a4433f2d3525e91
+sourceFingerprint: 770abb9fef39ac08589ac4b9336d8b949307c71cfbd6a8b6e40e42017b21c781
 contracts:
 - project.inno-assets-pipeline
 

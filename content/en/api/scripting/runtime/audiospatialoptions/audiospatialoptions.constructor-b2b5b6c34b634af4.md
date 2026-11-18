@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b2b5b6c34b634af4357b104e06c9bfb41cc21b0fc972c9009bd0eba1ac169fd5
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioSpatialOptions.#ctor(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3,InnoEngine.Audio.AudioDistanceModel,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)
 title: AudioSpatialOptions.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: e87a8a576f45ed364d8624e8249ff36d0ec4c1183da3db8dab6020c2fa41868e
+sourceFingerprint: a7d609f93c059a79f690ad7a41212c2d23af451a6ad55e67a4670d1f07c2d3b9
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.63939df3cef70d224087ddd8dbac4020622d42c83f53f359b66e4c70743fd80c
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioMixerBuilder.AddBus(InnoEngine.Audio.AudioBusId,InnoEngine.Audio.AudioBusId,System.Single,System.Boolean)
 title: AudioMixerBuilder.AddBus
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 1a039347c9ee4f1bee60e672a9750cdb1d5cd6366f096393e828825aafaf3736
+sourceFingerprint: a8629976e6789b7c662ad34d7a492d9755c8f3db76fff203a961c31963356c4c
 apiScope: Runtime
 contracts: []
 

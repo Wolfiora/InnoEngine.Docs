@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f9771a883f135de56bb339dc8a3674bd978307d430cb4ad26954db08a57a0277
 symbol: scripting:Inno.Editor.Assets:M:InnoEditor.Assets.AssetCreationTemplate.Create
 title: AssetCreationTemplate.Create
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: editor-script
-reviewed: fd2bd99835cc0829b5c22909a0b19f8dde649b81c473a6c4fe52fd8ef9db7971
+sourceFingerprint: d23d0296b8670de9bcf8eb0f218b1a43676b512a4f09c0a117c448a3c2ec230e
 apiScope: Editor
 contracts: []
 

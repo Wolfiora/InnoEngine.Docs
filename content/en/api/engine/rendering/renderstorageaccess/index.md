@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.bf37019cd0e65a5a
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderStorageAccess
 title: RenderStorageAccess
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 426085d31908d9be97d39af1b3626271533d3f7cc4b2f85863aee759ad3bec1e
+sourceFingerprint: 393267119c68205926bc91d9acdfe20c723238d7d49c6e86620014255599eb45
 contracts:
 - project.inno-rendering
 

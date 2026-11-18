@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.124c9bc43f6e3fc7698cfccbefc8f0061ff6d8c63a00e6fe2103af84c2bf7601
 symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportManipulationSpace.#ctor(Inno.Core.Mathematics.Matrix,Inno.Core.Mathematics.Matrix,System.Boolean,Inno.Editor.Rendering.EditorViewportManipulationPlane)
 title: EditorViewportManipulationSpace.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-reviewed: 0ad47e1726920a124d337051e475d1d0a2ba523541c428bcadab0bf74ee8dbf1
+sourceFingerprint: 86a8733b295b169d69f35ce76e562e68b744a0ef692499f83635f98881ede429
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

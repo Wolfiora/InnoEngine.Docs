@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.99f436d48b3af24bba3fa417de1fa0a6f3a696794f85127f870c267e3b0fd5aa
 symbol: engine:Inno.Rendering:P:Inno.Rendering.GraphicsApi.Noop
 title: GraphicsApi.Noop
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 7c753af96b6b0b6c334771a73e0df37502d83c9e25222b483f3c75ce84884429
+sourceFingerprint: cbedd4674d0249354493c0e03e01e8e06daffea1f2dc750abf351b7fd4d28bd9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

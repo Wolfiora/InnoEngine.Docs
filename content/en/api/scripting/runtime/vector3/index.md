@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.mathematics.runtime-script.cd39ad16a23c96a2
 symbol: scripting:Inno.Core.Mathematics:T:InnoEngine.Mathematics.Vector3
 title: Vector3
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 1230b549db5a7b776b8673b1ec4166bfa1b4ab7cd5845ae47d205154d36f00c5
+sourceFingerprint: 3c27c876586057690dbefd24bb6beec7ebe4b0e9bd4aa8b1d4182c0e48f20533
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

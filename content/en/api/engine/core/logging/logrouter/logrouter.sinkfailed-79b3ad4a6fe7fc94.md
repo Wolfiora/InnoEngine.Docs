@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.79b3ad4a6fe7fc94bd0ef0d72a9fc7c76278ab6777fb4a71d287ae7cf5f4da61
 symbol: engine:Inno.Core.Logging:E:Inno.Core.Logging.LogRouter.sinkFailed
 title: LogRouter.sinkFailed
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-reviewed: 569a13352e200c5f6e078c0f1fe508e4231df559c79c1b286ec23c5e82525c90
+sourceFingerprint: 53b0cf76d1f474c31de2d8347f3e908856f68ab5dc2edc043604f7107d47a6a4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

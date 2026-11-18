@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bde901ff5e00dc691450a0bac37f3aa6725ed21d708f96d572ccfc8721abff0d
 symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRegistry`1.DisposeExtensions(System.Collections.Generic.IEnumerable{System.Object})
 title: TypeRegistry<TSnapshot>.DisposeExtensions
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-reviewed: 78a67a4a2ff24cb178ef8d6081a69c11d5ec20b9bc8980b211d149411a747ac2
+sourceFingerprint: a97c529f5e78bcf9496fa1937e07b8ef876117e935b18f0877a990276309e674
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e17a8f6bf088e2e7ae2ef0e822150531e0422ee227b49dbc64f80f28fb36e33d
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.HotKeyGesture.Equals(System.Object)
 title: HotKeyGesture.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 6d7c0fa8d0551e6f1cc661eede60e3e71ceab1d960c71fd0c636effe50d7bd84
+sourceFingerprint: 6d7c0fa8d0551e6f1cc661eede60e3e71ceab1d960c71fd0c636effe50d7bd84
 apiScope: Editor
 contracts: []
 

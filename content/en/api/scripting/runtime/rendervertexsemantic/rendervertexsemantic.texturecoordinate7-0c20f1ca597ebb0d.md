@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0c20f1ca597ebb0d0cd469bc7373ceca9d995c0112d7d5cb2ceeec94bbe8392c
 symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderVertexSemantic.TextureCoordinate7
 title: RenderVertexSemantic.TextureCoordinate7
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 2711d6c629e092bde5cbbb1c15ed4a54112eea43b479a72275fb792f5f8dcb6b
+sourceFingerprint: 500cbfd879fba4fe9c926250fa3191b2927db6ad03f11b09999382c8907531ff
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.coroutines.2abdec6e7ff2921c
 symbol: engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.WaitForTask
 title: WaitForTask
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Coroutines
 apiSurface: source-clr
-reviewed: 3e75af7c363876fb85b0e47da91873bb58d98234d7f6f4efeb18f8e3dfe7a139
+sourceFingerprint: 9d107bf6d6c7300befd129fa29db30c682ee221f8756fae5863aeba7b6fa094d
 contracts:
 - project.inno-core-coroutines#execution-and-release-contract
 

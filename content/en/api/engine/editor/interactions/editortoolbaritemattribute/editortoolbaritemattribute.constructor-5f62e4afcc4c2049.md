@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5f62e4afcc4c20491a87143b2735209e65b3145e4ba613feb9989c223fd07ce4
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorToolbarItemAttribute.#ctor(System.String,Inno.Editor.Interactions.EditorToolbarIcon,System.String,System.Int32,Inno.Editor.Interactions.EditorToolbarIcon)
 title: EditorToolbarItemAttribute.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: 18b30f7fc3ce5a4562a9901f163473cf10cf128dae53561166f86eea98b840b4
+sourceFingerprint: 521aae3ed9d1630511445209bc53776616958afd33b8f0c94b42b04e0655465e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

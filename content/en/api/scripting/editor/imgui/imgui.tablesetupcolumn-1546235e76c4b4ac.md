@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1546235e76c4b4acff224c374237be3dd0327a7f8991e2c206785fabf47391c9
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.TableSetupColumn(System.String,InnoEditor.ImGui.ImGuiTableColumnFlags,System.Single)
 title: ImGui.TableSetupColumn
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: c38169f6d07171094beb3480a79eda88559347b603baffc45637e2626a00b83e
+sourceFingerprint: 6dfb0b9855c3937ee826d89733035d7b55e7e5ecc380f4bbcce69a537f713679
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a66b6d0eebe6e517cdc8b15148ade039ddf820814b7afa0b4ce5b1f3ab20ef8e
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorStyleMetrics.menuRounding
 title: EditorStyleMetrics.menuRounding
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: f8230a8f25de906f8c0aaa0f395766f7fc411ad722a3dc82ba59180d5c0388a2
+sourceFingerprint: 2e98080f4499b92701a35321b7ecac5d2879152a76739e78c8f3d79e2090ee52
 apiScope: Editor
 contracts: []
 

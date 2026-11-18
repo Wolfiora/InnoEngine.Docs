@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8780411a43494cafba601adfba603b3bcae2d0e1928ffde2c1528433864fbbb5
 symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorPanel.Restore(Inno.Editor.Core.EditorState)
 title: EditorPanel.Restore
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: source-clr
-reviewed: c6c6bf4cabfe5c3d32a53faad7e0e985d9ffdef0021f48e3faaccf6f659059db
+sourceFingerprint: 95292568c24baeb93a254ac4fddcb2f1a8332257e66fe4bbe25a23e141921c0d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

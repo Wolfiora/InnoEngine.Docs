@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1cc1d38de995a1dca6df0fe8b32fe6634b582005efcff22f6efb2dc4da2d836b
 symbol: scripting:Inno.Editor.Core:P:InnoEditor.Core.EditorFrame.deltaTime
 title: EditorFrame.deltaTime
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-reviewed: de6c73c3cd24a5f25d73a0df702ade5a7501a71029cb30a2205a1bca7f56834d
+sourceFingerprint: 32e518107422df95e70672cb95ceea9d087cc60d5245a4d4c810390342c062fd
 apiScope: Editor
 contracts: []
 

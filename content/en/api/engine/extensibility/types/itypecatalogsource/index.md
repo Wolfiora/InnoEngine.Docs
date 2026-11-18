@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.extensibility.types.12e9d79b81828ed4
 symbol: engine:Inno.Extensibility.Types:T:Inno.Extensibility.Types.ITypeCatalogSource
 title: ITypeCatalogSource
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-reviewed: 8407d9ee8c576ca11fbb18d003a2f8cf322973103e05fbc5c8bc72d961f93a68
+sourceFingerprint: 570bdd20b9d5f2cff6e237f4eb3580ca09c1a7830714940d06ae5627c8d91def
 contracts:
 - project.inno-extensibility-types
 

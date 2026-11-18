@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.de87f880c193474aff5d784b0aab53980325893f49ecac836626af55edb51464
 symbol: engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.ImGuiWidget.InlineRenamePresentation.id
 title: InlineRenamePresentation.id
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 1d1f6ee836ee3ec8ec6e46402cca001eb79c511d495f953d8d4b4fba6f9aba60
+sourceFingerprint: 1f6b657aad05763e5a477a2dd2b2314e6396371b4b2f7bb45f96cfc2faf774ec
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7cb6265964ea6c8158508161d5ff19b8fe5efa9b65ba6698d6894f3a7098ce81
 symbol: scripting:Inno.Rendering.Runtime:P:InnoEngine.Rendering.RenderRequestProviderContext.input
 title: RenderRequestProviderContext.input
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: d13f830eed9b3cbf0e78622670bbf02e0199dd4628ae1018f58500891e96bf0e
+sourceFingerprint: 000c69a713e870772741f4249f173654423bd55b134e365a3e4b3c4c1d276351
 apiScope: Runtime
 contracts: []
 

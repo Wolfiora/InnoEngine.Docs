@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.events.6ef5f9fae8fbf9d7
 symbol: engine:Inno.Core.Events:T:Inno.Core.Events.WindowEvent
 title: WindowEvent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-reviewed: 67a2408c1c76db91626c03a464b8bf5004b43f7a87b34e079b407aac9f107834
+sourceFingerprint: 425703477afe25c7d18dfc3ac2cbf66b0f166022b48afa72853ff7f98685131f
 contracts:
 - project.inno-core-events#dispatch-and-lifetime-contract
 

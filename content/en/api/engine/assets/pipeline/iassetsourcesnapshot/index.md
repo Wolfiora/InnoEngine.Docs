@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.assets.pipeline.3e83463bec927cbb
 symbol: engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.IAssetSourceSnapshot
 title: IAssetSourceSnapshot
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: 6e6b61fdd588e66d4a0ac75e20f2b8d3959789dd4c49c9a04d44c5ab4ae5be2d
+sourceFingerprint: 5c4f386c6cfa68cb8fa4b498bb899bc2187ff97d72a8b7d173d1dd57609b374f
 contracts:
 - project.inno-assets-pipeline
 

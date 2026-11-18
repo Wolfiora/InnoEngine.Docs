@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d063f616d8df3b2c216c0d8bcb7baaa1cfc982e01d6bf87131f57fd750833ee8
 symbol: engine:Inno.Editor.Assets.ImGui:M:Inno.Editor.Assets.ImGui.AssetBrowserState.SetRoot(Inno.Editor.Assets.ImGui.AssetBrowserRoot)
 title: AssetBrowserState.SetRoot
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets.ImGui
 apiSurface: source-clr
-reviewed: ee31ad954090b7b5958de1095b7ffe608628b37716298efe092f524091c45703
+sourceFingerprint: bcd14c7e6f40d0ffee3dd3ec12f4a86a2e66579ccd3d72df5a3e6c504397908b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

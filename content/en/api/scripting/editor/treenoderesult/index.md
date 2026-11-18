@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.imgui.editor-script.e57f995c0326bc52
 symbol: scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.TreeNodeResult
 title: TreeNodeResult
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: fb29441b1364785182e7c06d88055146d14da60197b257d11ad44b48ea719690
+sourceFingerprint: 59553df373b599ead80c28ed9a2639f8f737636e0268c2706acf09eb6372ba52
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

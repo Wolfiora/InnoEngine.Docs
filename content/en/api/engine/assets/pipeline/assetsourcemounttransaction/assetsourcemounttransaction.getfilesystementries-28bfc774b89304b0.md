@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.28bfc774b89304b03fecd00ddd2287a2215387c628ac90c3681e8ddba0e365c8
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourceMountTransaction.GetFileSystemEntries(System.Boolean)
 title: AssetSourceMountTransaction.GetFileSystemEntries
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: 7916c08d1b0086cf0875db595229b4ffe30d406ca344811f8a884712ecda87b5
+sourceFingerprint: 3f49b181ff4baf61b08e744518928281db480a40390970b3715808b036ec2a26
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

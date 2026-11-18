@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.input.01b091eb5ecbacb5
 symbol: engine:Inno.Core.Input:T:Inno.Core.Input.MouseButton
 title: MouseButton
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Input
 apiSurface: source-clr
-reviewed: 4f620b7a5697134647dce41ada6ddcd80005caea366a6c2c956ac17994c411b4
+sourceFingerprint: e288f68d39a1ef4975b61001d8bb4748012193c1c80ec3e11d8c699ccafa7622
 contracts:
 - project.inno-core-input#input-value-contract
 

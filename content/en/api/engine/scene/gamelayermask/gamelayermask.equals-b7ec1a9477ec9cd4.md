@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b7ec1a9477ec9cd4feaf31d99d199637c2cbe26d2b671649e23d1520840865b6
 symbol: engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerMask.Equals(Inno.Scene.Layers.GameLayerMask)
 title: GameLayerMask.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: feb3a2f7100bba89e097e038d71142b2c5fb2e2de81254152ab4aa09d96cf8ed
+sourceFingerprint: 0f5eb3f36008ecfa7f191a8741d26a580a92a584f6b0ded00816f649f931a2cf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

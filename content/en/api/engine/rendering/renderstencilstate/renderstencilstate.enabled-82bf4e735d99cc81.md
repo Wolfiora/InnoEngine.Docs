@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.82bf4e735d99cc8155a9fa1cc794e19102f1f4b9cd00ea17db676babbb84b184
 symbol: engine:Inno.Rendering:P:Inno.Rendering.RenderStencilState.enabled
 title: RenderStencilState.enabled
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: ad242d07c9de4904ee5029efefa74e1957b1a13a2f2ee48a27a9e9d4677e65e9
+sourceFingerprint: 5021e1f7d8dce4ed6113c3f11b474da720dd1efbadfb2a75024ec49cdc683167
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

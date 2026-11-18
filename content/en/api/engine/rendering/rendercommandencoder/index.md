@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.1a2eb7b0af88d2bd
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderCommandEncoder
 title: RenderCommandEncoder
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 0659a70a0883ea04213615a3184d8369a839c3f430ef03ddfe96f0a34df5cefe
+sourceFingerprint: 10e54a04e27103c1f5400f9b88763a0ed22ed9fa5f6a24d383177c36dc6d29eb
 contracts:
 - project.inno-rendering
 

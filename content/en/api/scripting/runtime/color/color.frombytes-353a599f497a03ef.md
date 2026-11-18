@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.353a599f497a03ef6f824b01766da7842b83064a8d5ecf248ae50cfdc26330a0
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Color.FromBytes(System.Byte,System.Byte,System.Byte,System.Byte)
 title: Color.FromBytes
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: ef000f61a67ccfaa48134ce98ed3554acbad46b61f18d653188f10878b754fc2
+sourceFingerprint: 284e014cccac3172c07fb6f5f2e935530b1255ccfa62a471e7ab32698b94c4b3
 apiScope: Runtime
 contracts: []
 

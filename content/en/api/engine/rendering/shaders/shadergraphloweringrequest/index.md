@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.shaders.8fb67e72c3a83faa
 symbol: engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderGraphLoweringRequest
 title: ShaderGraphLoweringRequest
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 2f6c54f2d168d92f2e33bc09386dd161011638983e19e1084475160159a00fd3
+sourceFingerprint: b204188c01f8a917cee5b7004eea1f8b2b83e1c9f848faabaa252d01b1216081
 contracts:
 - project.inno-rendering-shaders
 

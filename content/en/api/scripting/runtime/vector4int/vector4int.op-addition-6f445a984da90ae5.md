@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6f445a984da90ae5806677fe6d794ec19cf9a7a9597686269d6d0d8664e1d158
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector4Int.op_Addition(InnoEngine.Mathematics.Vector4Int,InnoEngine.Mathematics.Vector4Int)
 title: Vector4Int.op_Addition
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: df5d70484d0a4a146c5415deaeb7e08e6679675f0a5da3d71b17845b4393872e
+sourceFingerprint: 740a9edccc028b6f5a6a1a37b26906d84e34bce54338c2e4057afe4caa5c6915
 apiScope: Runtime
 contracts: []
 

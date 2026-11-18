@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d9fa45d389e983396f192f96b0e44a4faefeb51e9fb9276e69957e74009d1e41
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerMask.op_BitwiseOr(InnoEngine.Scene.GameLayerMask,InnoEngine.Scene.GameLayerMask)
 title: GameLayerMask.op_BitwiseOr
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 286fd8814a8ea94e1405ed95bbcc4e6107682fdb54fe98f138ebdfa9f69edf99
+sourceFingerprint: bb0f6e6c6fae3e484a767820c23e7f90b39565b4ec3de3d7bba3e15d5a8a62ae
 apiScope: Runtime
 contracts: []
 

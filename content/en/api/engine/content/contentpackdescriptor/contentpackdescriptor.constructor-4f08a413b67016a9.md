@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4f08a413b67016a9fc4e8234a0513a08496a9d0aff5afbb40c7938faefea0d94
 symbol: engine:Inno.Content:M:Inno.Content.ContentPackDescriptor.#ctor(System.String,System.String)
 title: ContentPackDescriptor.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Content
 apiSurface: source-clr
-reviewed: 073d00996dc49555223f6393d3ca80e260834d62805f46b4300e9121e3d14d33
+sourceFingerprint: 777594788d7e20a979c7cff954950cdd55ffd732c919efdef3cf3aa0a419cc32
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

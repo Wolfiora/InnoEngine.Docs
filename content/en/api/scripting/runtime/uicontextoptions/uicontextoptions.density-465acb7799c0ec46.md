@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.465acb7799c0ec46fcbb48cc2d7148e01152e7423cd5f482b85efc27866789de
 symbol: scripting:Inno.UI:P:InnoEngine.UI.UiContextOptions.density
 title: UiContextOptions.density
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 84764ce8d6623f6b1adad0b4106b70290bff1799fdee499d5e8895d284eba3b7
+sourceFingerprint: 1c707c3a7e622498a32cb943b4e5640a66d0d3238bff47929bb0cd04c6a9d86f
 apiScope: Runtime
 contracts: []
 

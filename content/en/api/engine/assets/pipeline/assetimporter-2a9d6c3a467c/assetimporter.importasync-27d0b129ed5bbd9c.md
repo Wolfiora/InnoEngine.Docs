@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.27d0b129ed5bbd9c8917fc7bf06650d0177ba116693a6b9a21f7e0b56080026e
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetImporter`1.ImportAsync(Inno.Assets.Pipeline.AssetImportContext,Inno.Assets.Pipeline.AssetImportWriter{`0},System.Threading.CancellationToken)
 title: AssetImporter<TAsset>.ImportAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: 7136ef98a7852ef49b5f9791698f5339a389debad37afbf331d5270b9774d50e
+sourceFingerprint: f71e7530b76999455eaf353eb83f933ab33900a8186899a896938ea260d200e6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

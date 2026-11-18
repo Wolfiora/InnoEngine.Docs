@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2a230d1b9bbc663e518e411eb0a236ba4e7b99514c616b08bec1c399f80c5ccd
 symbol: engine:Inno.Text:F:Inno.Text.TextFontStyle.Italic
 title: TextFontStyle.Italic
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: source-clr
-reviewed: 99371c684162d6915d5988f1bc9f1a014bedb2e4a80ab9f2ad9dbf11e178590c
+sourceFingerprint: 3e61bb1b30ef31ec4039b74ecef6a2b9f43b51ed1c3f493de40423d6a30fc6ab
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

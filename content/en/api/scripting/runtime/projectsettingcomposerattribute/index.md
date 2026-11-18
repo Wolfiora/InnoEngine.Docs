@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.settings.runtime-script.3c064706608bc743
 symbol: scripting:Inno.Core.Settings:T:InnoEngine.Settings.ProjectSettingComposerAttribute
 title: ProjectSettingComposerAttribute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: editor-script
-reviewed: 53081bb17a90ee1acb2b1c272eac49cbdff3be48da02b4fcb372c77af4b398b5
+sourceFingerprint: 0d676eab93f8fcbae9bd66923e792c1fde12257558ae798e7aae2d7824f61cbd
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

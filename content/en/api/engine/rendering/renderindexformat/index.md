@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.25f1e15ff50655d7
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderIndexFormat
 title: RenderIndexFormat
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 772a0eb9d80d140b127c17d8c88b92ddbae397edff1fdd75da71087aa5b349e1
+sourceFingerprint: 4326a21644c749430d578b148f28db8972834354be22bb7c2585fea134fc2302
 contracts:
 - project.inno-rendering
 

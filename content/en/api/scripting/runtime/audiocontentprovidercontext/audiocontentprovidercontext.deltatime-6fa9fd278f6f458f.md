@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6fa9fd278f6f458fa3e8fea1d0747285581ec5380a60a33ab99cba97acc14be5
 symbol: scripting:Inno.Audio:P:InnoEngine.Audio.AudioContentProviderContext.deltaTime
 title: AudioContentProviderContext.deltaTime
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: cd1703337f472b31453be9059f172664b9a34add18cd558139c4dc69b25193fc
+sourceFingerprint: a5fddc88f20b6de187bd365275373c2ae98179f0a2254dd7966b0c3a2aca506a
 apiScope: Runtime
 contracts: []
 

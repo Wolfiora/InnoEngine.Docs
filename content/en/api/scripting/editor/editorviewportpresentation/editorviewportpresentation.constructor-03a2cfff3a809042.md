@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.03a2cfff3a80904299eb21f5fdd021c3b6ddee2a047a0058c1769db7e97f970b
 symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportPresentation.#ctor(InnoEngine.Mathematics.Color,System.Single)
 title: EditorViewportPresentation.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: d02cf3c8fca759a05f60e598b9a3c45e323190cd2ae45ebf77199035188fd4c0
+sourceFingerprint: 1998a17db2a4369753d83a167c3bc46ca77305f72b26752e2db8159d2ee0b29e
 apiScope: Editor
 contracts: []
 

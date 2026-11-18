@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.exporting.4954455ade0e3688
 symbol: engine:Inno.Editor.Exporting:T:Inno.Editor.Exporting.EditorExportProgress
 title: EditorExportProgress
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Exporting
 apiSurface: source-clr
-reviewed: b263901f76aef342ac79e5c3f5313a959625f24c17be5804aab839c85eeaa8bc
+sourceFingerprint: 86238c5588359205575e63d7d80c50055acf5c6f62f59774c46aa2efab6f9b02
 contracts:
 - project.inno-editor-exporting
 

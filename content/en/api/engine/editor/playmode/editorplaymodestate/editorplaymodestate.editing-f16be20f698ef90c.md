@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f16be20f698ef90c9f67d45df22399caeff668aadc1b5033148f1c74a1109732
 symbol: engine:Inno.Editor.PlayMode:F:Inno.Editor.PlayMode.EditorPlayModeState.Editing
 title: EditorPlayModeState.Editing
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.PlayMode
 apiSurface: source-clr
-reviewed: b696a6e7d656c93323746d597108e661e62c2abb9186a8151c6d001f3d25fc10
+sourceFingerprint: 10b1f3b4be4b42858a01a6feba6960e5b602bdcfe0dbcaddaa12fd00b4dcfa48
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

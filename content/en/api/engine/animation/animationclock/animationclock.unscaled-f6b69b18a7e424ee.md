@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f6b69b18a7e424ee360226dd69a7ef3280000b77d77de2231c39b9f222938d2a
 symbol: engine:Inno.Animation:F:Inno.Animation.AnimationClock.Unscaled
 title: AnimationClock.Unscaled
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: source-clr
-reviewed: c54f98077c629f7461f05933b9fe1c1129fbcde91e86fc3e1403d8855872ad39
+sourceFingerprint: d9f16ca9eb5978b070f1621500b81fa6cebc2d4ddff7e969752bc6eafa596149
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

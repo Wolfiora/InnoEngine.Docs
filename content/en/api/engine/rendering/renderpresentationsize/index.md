@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.7f3159dede05c259
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderPresentationSize
 title: RenderPresentationSize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 0bad306c87069415b540d19a0921b02e774174483ed5cb8572c609b2fc086207
+sourceFingerprint: c2be28746889536ed931acb814502569a3c84f21b39588e6ebe6065a6f0e416f
 contracts:
 - project.inno-rendering
 

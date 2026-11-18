@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e2f6d2faf48f9166f065a84aa5b66eda4fc6e5d8a7f27d9345e64de5015c9b65
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderDevice.GetHandleIdentity(Inno.Rendering.PersistentTextureHandle)
 title: RenderDevice.GetHandleIdentity
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: c0519c66f5574e03cf26616812bb20a24b1e54527af1bb410a48a2ff852218ff
+sourceFingerprint: 38804235863418320ec32dd57073155a5a113c0aa9b8d13f69c268ace5ad3672
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

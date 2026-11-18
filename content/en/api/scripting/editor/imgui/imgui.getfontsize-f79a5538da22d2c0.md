@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f79a5538da22d2c0befcebee7b1f5024ce258e893d19b7a697a126093a6ead52
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetFontSize
 title: ImGui.GetFontSize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 77a86873682ae8c5e4c8cd715bf6ae8b9392ad511a997f85636f020d30996dfb
+sourceFingerprint: 45d0ae968f195ce56fc00453a00060fec4ec92bef42ee0998a8017034eb961b6
 apiScope: Editor
 contracts: []
 

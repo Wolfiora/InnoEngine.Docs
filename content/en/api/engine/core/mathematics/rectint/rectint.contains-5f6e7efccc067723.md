@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5f6e7efccc0677237cc5b8c53ff5921c6a4ef8e87c3f3fad2e7a02a29c9a44e9
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.RectInt.Contains(Inno.Core.Mathematics.Vector2Int)
 title: RectInt.Contains
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: e5d1096b9ddd0ee08bd8712c3249ae373f95435f46a35a3ad402038422b2d62b
+sourceFingerprint: 8d3b727613e5d12d67417b9f2f2e501a75083832cc201cb700847ea5ddfe087e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

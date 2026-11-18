@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.011cf9d102f5cc56abf0624d0d15195627c42be1ad2283f1d8820058f66a963b
 symbol: engine:Inno.Editor.Rendering:P:Inno.Editor.Rendering.EditorGizmoLine.start
 title: EditorGizmoLine.start
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-reviewed: e98531f2135e9169aae02ca0dff065738570bd7b1317f693e1ac0bde5dfb80a5
+sourceFingerprint: 9067c36d60f1d03dc8b6b6e6b16ecf188bb4feb92d08a8cc530ef504cc779d45
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

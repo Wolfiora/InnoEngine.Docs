@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d908f524ac6566cc5638aa63a9d4eefe976ab178b4c0774d2a2084e587e6f380
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildCachePublisher.Record(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.String,System.Threading.CancellationToken)
 title: BuildCachePublisher.Record
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 9e859969df553ae7c0b65ab349e79ac06307d0933427e7de24c5f530b00b230c
+sourceFingerprint: 7658989ab8d1b20689924cce59f7760a595a31e38e3b7930a4b35441c9db5098
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

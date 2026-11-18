@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.adapter.default.074b9f3339c460a9
 symbol: engine:Inno.Adapter.Default:T:Inno.Adapter.Default.DefaultAdapterCatalog
 title: DefaultAdapterCatalog
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Default
 apiSurface: source-clr
-reviewed: d64e602b73f52c92300ee34d4961bfbb64aa8d3d48f7aa61645775a73ee53b38
+sourceFingerprint: cceec7a272a957d3f0099120ee84956ebe8e861e92e5f46c343075743a4299c6
 contracts:
 - project.inno-adapter-default
 

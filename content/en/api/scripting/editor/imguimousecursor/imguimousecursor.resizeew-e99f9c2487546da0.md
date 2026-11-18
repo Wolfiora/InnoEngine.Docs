@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e99f9c2487546da065c919f14666d24999b33fec4f3179a43889d0c31d082f7d
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiMouseCursor.ResizeEw
 title: ImGuiMouseCursor.ResizeEw
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 963f734a480060d480323889eaf744e8504fa1bf4ba0bda18c94d28a6db48a6a
+sourceFingerprint: 99c4ea6a4ce1ec9f42bccf1e2c565208c07b81f4fd44ddb8777ca53f8b9af7ef
 apiScope: Editor
 contracts: []
 

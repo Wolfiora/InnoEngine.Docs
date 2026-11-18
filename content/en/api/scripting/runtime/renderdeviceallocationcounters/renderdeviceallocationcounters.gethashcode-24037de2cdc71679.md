@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.24037de2cdc716799d8adbbd6c45f38e9a884643c1dcb0483199e252727b8028
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderDeviceAllocationCounters.GetHashCode
 title: RenderDeviceAllocationCounters.GetHashCode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 464aa0bd2d1cd4b232d909781da9f2e78750771f1894bf911541b55b0e83b7f8
+sourceFingerprint: 464aa0bd2d1cd4b232d909781da9f2e78750771f1894bf911541b55b0e83b7f8
 apiScope: Runtime
 contracts: []
 

@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: api.projects.inno-core-identity
 symbol: project:Inno.Core.Identity
 title: Inno.Core.Identity
 kind: project
 owners:
 - Inno.Core.Identity
-reviewed: ''
+sourceFingerprint: 4dafa83581695e900c805c4fd9c7bcd9c2b727ccefe766f50ac29b79dcab92ed
 contracts:
 - manual.identity-and-missing
 

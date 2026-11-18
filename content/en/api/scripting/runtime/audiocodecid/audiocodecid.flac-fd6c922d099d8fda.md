@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fd6c922d099d8fdae0e16f56740da5828b670048ab95203949bf744ac6afe763
 symbol: scripting:Inno.Audio:P:InnoEngine.Audio.AudioCodecId.flac
 title: AudioCodecId.flac
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 96937c88cc840d499353cb9a3f8e5be37621c2a055eea3674a115f4102722d25
+sourceFingerprint: 8d8f6998147f4018fedd1c2eeeb3dc8199d26d5261d8f5d1c00279b7a58e26b2
 apiScope: Runtime
 contracts: []
 

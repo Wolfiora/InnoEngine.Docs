@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.875031039f9f3ad8a9a698719611adb1787a21056b494d8c0e3bd8be163c8b32
 symbol: engine:Inno.Shell:M:Inno.Shell.Shell.UseHostPipeline(Inno.Runtime.RuntimeSubsystemPipeline)
 title: Shell.UseHostPipeline
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Shell
 apiSurface: source-clr
-reviewed: 56ad7d6bc3a8a848b56ddb2ca99f0c8a10aede7029299c63a12ddb0ed23f57ec
+sourceFingerprint: 1d8373a6b8bbe89f49765b09b1268f4d316de86efe5c604ab8a76074e6dfd43a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

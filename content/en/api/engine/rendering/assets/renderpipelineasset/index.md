@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.fbedbcde50eb1263
 symbol: engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.RenderPipelineAsset
 title: RenderPipelineAsset
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: e45adbc3cd8887229a70178e4757eeab24f9726b1d53c92022483d31a85cd2dc
+sourceFingerprint: ee7241492d66c8953d710587335e88692f2bb72d330985b421151dc1fadce7a4
 contracts:
 - project.inno-rendering-assets
 

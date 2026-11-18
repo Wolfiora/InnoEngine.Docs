@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.events.a0e1cc49b8a3ff07
 symbol: engine:Inno.Core.Events:T:Inno.Core.Events.MouseButtonEvent
 title: MouseButtonEvent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-reviewed: 076bdf7f9518a28a532c570052b42409ebd0dc4cff53ec0db43120148a628d8d
+sourceFingerprint: 159af1aab1fc4f5bd3102a20b4fbe5fbcb9d5715e616bf446c7c15cc945cfa4a
 contracts:
 - project.inno-core-events#dispatch-and-lifetime-contract
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6a659cd827297fa9d25e225e28ec57cf650b15de60f49570e6ef2519a90fa466
 symbol: scripting:Inno.Editor.Rendering:P:InnoEditor.Rendering.EditorViewportNavigationState.farClip
 title: EditorViewportNavigationState.farClip
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: 249bf2070e3a3ef49490b8289e1fc5d7f8e3375589a5d766bee0f2e0002db8f1
+sourceFingerprint: 0dab00a6077deffe082007fea93afb94c9288169dc193ec61b29d2752302365a
 apiScope: Editor
 contracts: []
 

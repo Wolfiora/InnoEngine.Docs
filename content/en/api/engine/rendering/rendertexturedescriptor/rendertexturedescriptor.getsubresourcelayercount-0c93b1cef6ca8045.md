@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0c93b1cef6ca80454e29a5d09918bd929ba24bfd5cb752f50b0b12fcfa31bfbe
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderTextureDescriptor.GetSubresourceLayerCount(System.Int32)
 title: RenderTextureDescriptor.GetSubresourceLayerCount
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: d7a9b8ccc8288f6358118ba1077dc85ac0302442b1eedae119bba8f3ce753681
+sourceFingerprint: 42ec941989eb2184b21dc03a6fcf0b0828c878cf8bcf83b3ec68d68e8418fad5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

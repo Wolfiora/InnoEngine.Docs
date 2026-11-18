@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.player.runtime.f9711962e51dbf5a
 symbol: engine:Inno.Player.Runtime:T:Inno.Player.Runtime.IPlayerModuleActivator
 title: IPlayerModuleActivator
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Player.Runtime
 apiSurface: source-clr
-reviewed: d99854e30f36f4ff9dbfc99466bdf23a82e2f78af10a314bbbc3f34cb16c5efa
+sourceFingerprint: 31acecb794a3aad0db3a50e2531f80e54a494d1d055cf54e3dc89590b8284dfb
 contracts:
 - project.inno-player-runtime
 

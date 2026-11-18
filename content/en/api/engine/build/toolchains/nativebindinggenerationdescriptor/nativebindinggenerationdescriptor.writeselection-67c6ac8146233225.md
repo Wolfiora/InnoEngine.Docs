@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.67c6ac8146233225f98bdbe9065afb578c96dd161bb72531cea800e6ea781aec
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationDescriptor.WriteSelection(System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeBindingGenerationDescriptor},System.Collections.Generic.IReadOnlyDictionary{System.String,Inno.Build.Toolchains.NativeLibraryKind})
 title: NativeBindingGenerationDescriptor.WriteSelection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: e601ee62e45b717220810a9bff9b4ac7883646052fa0ad7e0096b26367898037
+sourceFingerprint: 8c5f858608e0231aefc59cf8cb03db01a532f098334d79910835df286fe8e9c5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

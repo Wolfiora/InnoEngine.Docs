@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6e2b7852dde7f3ed0e34b83a6c3b019d2b2fb3b8e4e3c6ad1965b74f33827e03
 symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.EditorSceneWorkspaceFactory.Create(Inno.Runtime.RuntimeSession,Inno.Assets.Pipeline.AssetPipeline,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,Inno.Core.Logging.LogRouter,Inno.Editor.Interactions.IEditorSelectionCoordinator)
 title: EditorSceneWorkspaceFactory.Create
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: source-clr
-reviewed: f55fb3e5c35dc33b9c86079b7b7a316f69fd46af8a6c271b99e3f78a2287947e
+sourceFingerprint: 90fc392ed1f7e28b6f9b9501ffec1536c2ba499393c0c9a69beff3505b942fdc
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

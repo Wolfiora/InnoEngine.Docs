@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.623efe6264eb5d960abc6895ca57a695be044e1036ad1c0fc0c7667b52d6c5e2
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.IRenderFrameUploadService.UploadBuffer(InnoEngine.Rendering.RenderBufferUploadDescriptor,System.ReadOnlyMemory{System.Byte},System.String)
 title: IRenderFrameUploadService.UploadBuffer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: b182b20a76c5eee86dc8960ed6f489d4a21520c0a7e05cc7438b81faf87fec8d
+sourceFingerprint: 730ac1b424d9b28c4a3aff29d290441f63ae7a13c6d3cc3a83caaddfd1448b9b
 apiScope: Runtime
 contracts: []
 

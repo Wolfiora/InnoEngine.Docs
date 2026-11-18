@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.bbc14325bb32eead
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderPresentationSize
 title: RenderPresentationSize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 416391e55d06034d77808f217d13748de301d62533c618b6441796f00ba01425
+sourceFingerprint: 908604a146b98288bd4ed59e02bfb8ede010bef37c708a5effe5f7b6f3d3974a
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

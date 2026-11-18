@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.448d796e5d51f7dfa5381371b2bf61192adb673f68ed10b4b056482389c0e6ae
 symbol: engine:Inno.UI.Runtime:M:Inno.UI.Runtime.UiRuntime.HasElementAtPoint(Inno.UI.UiContextHandle,Inno.Core.Mathematics.Vector2)
 title: UiRuntime.HasElementAtPoint
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI.Runtime
 apiSurface: source-clr
-reviewed: 39705bddef94a6198f57944cd135230250421ae250dc94dfab02dd575aa4f1a4
+sourceFingerprint: 198c567681df757142d3709ff72d35fc7113a68a363b371b243bee5e2ec233eb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

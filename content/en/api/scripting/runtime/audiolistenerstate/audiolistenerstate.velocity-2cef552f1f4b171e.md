@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2cef552f1f4b171eb1b09862f69786ec76a188fe55ade7bc984eace46bf19baa
 symbol: scripting:Inno.Audio:P:InnoEngine.Audio.AudioListenerState.velocity
 title: AudioListenerState.velocity
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: e837f2dc49f902a6a34aeb786c830bfb0b57d18fb3d6be7b2d513e7b6a308f53
+sourceFingerprint: b70e11ae11992ce796dd58f0024eb872b03dc2d80545c128fa5d6368adca90c8
 apiScope: Runtime
 contracts: []
 

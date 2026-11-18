@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a6d8b7a918cabc70f67662a49649a8af5f563b128cb89b1b8993b048b4683ad2
 symbol: engine:Inno.Audio:M:Inno.Audio.AudioContentProviderContext.Submit(Inno.Audio.AudioListenerSnapshot)
 title: AudioContentProviderContext.Submit
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 90154288966c050a0dd34db7524337b788cb94996cabb1589ae0c689cc1e2995
+sourceFingerprint: a78f9c3bac3d7e2099910a0ecaa631b15746bafab0581625aac87d82188184b4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fea21b90333b0a0536a4d6bf70082e5d01aa82a372b33b41e1697fec0a17552d
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.AcquireKtxTexture(InnoEngine.Rendering.RenderPersistentResourceId,System.Int64,System.ReadOnlyMemory{System.Byte},System.Boolean,System.String)
 title: IRenderResourceService.AcquireKtxTexture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 0b64acc0f130016df8d605b110bc212d5a5df5d29dba42c8f3cccb34d7f9fbd3
+sourceFingerprint: 913e985bcd33ee09a0ec7d0de71263043f7297dd6f5536641929a9bfd6e414b0
 apiScope: Runtime
 contracts: []
 

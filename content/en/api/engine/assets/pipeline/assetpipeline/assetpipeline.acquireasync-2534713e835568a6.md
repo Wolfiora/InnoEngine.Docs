@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2534713e835568a608e5974e042284bbfb365b5f515a5a9ca1da9720354e8b24
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.AcquireAsync``1(Inno.Assets.AssetPath,System.Threading.CancellationToken)
 title: AssetPipeline.AcquireAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: e3aa95d6021b2f31ef5a96801591373557a437f8c6a1f5d5bf2f6d85c1755609
+sourceFingerprint: e5559274acef4798d59146e98202ef9286e4b596d3c360bc7f044151b2a30a00
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c5e13b9b2056f1ce87a9558f12788c8c05f296c769d08aa539d92456011bc781
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector2.Max(Inno.Core.Mathematics.Vector2,Inno.Core.Mathematics.Vector2)
 title: Vector2.Max
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: d9197c8b9327f9d78de72b98b55fde79e069b8dab6424dea873e7fa058cca1dd
+sourceFingerprint: 9381d5e560623f6a5f3ca1266c3de068188ba79ed4116138e556316292aa3416
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

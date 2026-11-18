@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.54cc53c9ee2c08375d1cec12d092bbf3e6d1b49d481b40950ae484fd0fb81780
 symbol: engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectPredicateCondition`1.Validate(Inno.Core.Collections.IndexedObjectStore{`0},`0)
 title: IndexedObjectPredicateCondition<T>.Validate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Collections
 apiSurface: source-clr
-reviewed: f3610f2431bc2b599934edcabc8197b3c98ddd97b63807db8fa3db4e129d1bca
+sourceFingerprint: ebbbcc7eac567fb59bc4f19aa98d9e281481515c358d9be1726831955a546958
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.177349e5066303c6077058f728ad0924cf583545602337f432af89e8035e64a4
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteractions.SelectRange(System.Collections.Generic.IReadOnlyList{Inno.Core.Identity.RuntimeIdentity},Inno.Core.Identity.IdentityObject,System.Boolean)
 title: EditorInteractions.SelectRange
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: f1f3f274b83c12d09a966a517d9a0ba50258c6a971a29c6885aa1487294d899d
+sourceFingerprint: 046a81648b3618930110ff3e07336e92c88deb547ba28c012c9b45844dd41734
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

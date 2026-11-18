@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.455bf5b786e2f4171e7ce371702562f6ffe5aa98b21df282b57851ca8b4ba441
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.Transform.Reset
 title: Transform.Reset
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 6224da82045cf2214d30bffbaf38e8a5961e3c2d54b068fa2dfc702b56988f7a
+sourceFingerprint: 8a89045b0bc485b11e3552b1ef33c03dbeff00a404b89b3a81a14c09a9026226
 apiScope: Runtime
 contracts: []
 

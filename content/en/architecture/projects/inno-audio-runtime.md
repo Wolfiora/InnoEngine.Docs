@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-audio-runtime
 symbol: project:Inno.Audio.Runtime
 title: Inno.Audio.Runtime
 kind: project
 owners:
 - Inno.Audio.Runtime
-reviewed: ''
+sourceFingerprint: 66bb6e145d4487491c3133ff10332bb890000fc2f67d1ac9b89165fdfddced9a
 contracts:
 - architecture.audio-lifetime#ownership-and-generation-contract
 - architecture.audio-lifetime#retirement-and-failure-contract

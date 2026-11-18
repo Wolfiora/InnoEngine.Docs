@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.45f9f37673684c71c9b6a08022130c18dd4155d6645fc1519109aa88f0f3cab3
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderPhaseId.GetHashCode
 title: RenderPhaseId.GetHashCode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 689d84a450c8c7cad6a1ce4c1b330146ad1dd80e76de00be8be1ea2cea64f254
+sourceFingerprint: 689d84a450c8c7cad6a1ce4c1b330146ad1dd80e76de00be8be1ea2cea64f254
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

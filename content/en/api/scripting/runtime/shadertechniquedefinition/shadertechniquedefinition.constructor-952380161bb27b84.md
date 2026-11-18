@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.952380161bb27b84972798d7be9e0bbf6a01fe03e2653756ca1572ed733a2974
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.ShaderTechniqueDefinition.#ctor(InnoEngine.Rendering.ShaderTechniqueId,InnoEngine.Rendering.ShaderContractId,System.Collections.Generic.IEnumerable{InnoEngine.Rendering.ShaderTechniquePass},InnoEngine.Rendering.GraphicsCapability)
 title: ShaderTechniqueDefinition.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: f0f6b9c06ebbb0e0366f141e90a6c9d6f0e3f3737c7150b4da9d23259e351cda
+sourceFingerprint: bdaa13522711de4721bb9e0ff6944da99a02a61d8d1efea80aae0550ae7f691d
 apiScope: Runtime
 contracts: []
 

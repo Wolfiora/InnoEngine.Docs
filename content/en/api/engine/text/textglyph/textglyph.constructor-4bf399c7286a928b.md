@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4bf399c7286a928ba038cd2505423f7e6082f0169a9fca8132afde7d4e8eb0a7
 symbol: engine:Inno.Text:M:Inno.Text.TextGlyph.#ctor(System.UInt32,System.UInt32,System.Single,System.Single,System.Single,System.Single)
 title: TextGlyph.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: source-clr
-reviewed: 6cb536d23f3163d7824f23f23a62f60d610ede6d545528f37811577092eecdaf
+sourceFingerprint: 90300f7c70611c0b211875b53b0b28d09aa0cc14a046bd4833fd57b61f63366b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

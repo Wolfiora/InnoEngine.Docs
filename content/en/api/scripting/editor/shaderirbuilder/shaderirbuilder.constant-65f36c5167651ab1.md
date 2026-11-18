@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.65f36c5167651ab1d6af0c02c14e5492598d6e28195d944f3cc12810d14f268f
 symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderIrBuilder.Constant(System.UInt32)
 title: ShaderIrBuilder.Constant
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: 78eb3cf3d6a96c1dcd2457c1047eb0a8b7f24894cc1462deb71bf51353a12237
+sourceFingerprint: 3f45ce35de9ceb678673ca738ba906fc8fa4ff85d068952fd1855565e61cdab7
 apiScope: Editor
 contracts: []
 

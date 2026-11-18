@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.456816c2691d4b0a93eb9ef2c915d5bd186881fbca7092127af39b12c4463aa1
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.DrawLine(System.Numerics.Vector2,System.Numerics.Vector2,System.UInt32,System.Single)
 title: ImGui.DrawLine
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: cbb2d50131903469ec2ca458ec056c9f39adae23c47fc36f2eca2b2090a828c9
+sourceFingerprint: 8497ca6f306b30f030e0605e3af614933aa0ab9a4270a8101dc9ad9b0fa45182
 apiScope: Editor
 contracts: []
 

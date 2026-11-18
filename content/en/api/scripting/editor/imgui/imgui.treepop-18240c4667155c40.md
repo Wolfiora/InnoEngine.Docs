@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.18240c4667155c401d2a62cbbcdc85c314c069186c760efe3545385162120e26
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.TreePop
 title: ImGui.TreePop
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 270c77bf548a486dffbce4e4ddb6baaf3be2fe057c8a1d3d1593143bedac8cd8
+sourceFingerprint: c0558151b0a84b7c05dc40fbee5a78da5ef7a5c6233cc606d824b82a6a0bd5e7
 apiScope: Editor
 contracts: []
 

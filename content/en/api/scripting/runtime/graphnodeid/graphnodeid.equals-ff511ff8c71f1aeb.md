@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ff511ff8c71f1aeb607407bc5acb54fb52f3b14e88626821785aad4cdb2643dd
 symbol: scripting:Inno.Core.Graphs:M:InnoEngine.Graphs.GraphNodeId.Equals(InnoEngine.Graphs.GraphNodeId)
 title: GraphNodeId.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: 68603ed169d8382c287d6dc60c30d68929ce8968cc6b6ac57c9ac0bef1fe6384
+sourceFingerprint: 68603ed169d8382c287d6dc60c30d68929ce8968cc6b6ac57c9ac0bef1fe6384
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.graphs.runtime-script.d07c327d0471c2ce
 symbol: scripting:Inno.Core.Graphs:T:InnoEngine.Graphs.GraphPortCapacity
 title: GraphPortCapacity
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: 0277b1942f3341deb2ff4fa0925a97f7b4340ba8ff1b7a6f89dc2757f5bacee8
+sourceFingerprint: b9f0d6b56be69510d233c79b0f98e0505410442cbf58763e4e446532539fe408
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

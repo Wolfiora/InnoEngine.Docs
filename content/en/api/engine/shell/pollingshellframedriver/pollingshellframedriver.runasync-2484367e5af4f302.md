@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2484367e5af4f3020df8268e22c8dd1fa0e553cc2a8da66559c5edf3b36e4eaf
 symbol: engine:Inno.Shell:M:Inno.Shell.PollingShellFrameDriver.RunAsync(System.Func{System.Boolean},System.Threading.CancellationToken)
 title: PollingShellFrameDriver.RunAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Shell
 apiSurface: source-clr
-reviewed: 59a717b48082668632771e6e3cd2ff141d449bd5276d9e20ed55322175778728
+sourceFingerprint: 30aa4e6c4f48ee013a10472faeb9d27d067056a606fc03101ccdf02f471ee1fe
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

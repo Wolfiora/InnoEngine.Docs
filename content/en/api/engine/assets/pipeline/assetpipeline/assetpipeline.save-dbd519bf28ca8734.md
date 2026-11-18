@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dbd519bf28ca873452b45e775a74c920aec87bd6e508364c09c5da9bb38266cd
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.Save(Inno.Assets.AssetPath,Inno.Assets.AssetObject)
 title: AssetPipeline.Save
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: ff56686274e4b07688c78d9539654cb5209652a496cd3d755c517fe5520c0f58
+sourceFingerprint: 55cd8e3f99a7b14b9950207fd2a95301924dc451671a9b547b931512b56b7061
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

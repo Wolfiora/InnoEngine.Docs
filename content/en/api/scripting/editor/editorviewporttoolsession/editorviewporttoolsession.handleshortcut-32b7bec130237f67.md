@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.32b7bec130237f674be56020a5c529c2ce5e76c4750b445a3de4727374327dc4
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorViewportToolSession.HandleShortcut(InnoEditor.Interactions.EditorViewportShortcut)
 title: EditorViewportToolSession.HandleShortcut
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: a5618a22c2af8689f136a8d9af12b09facf91bd5e43d5f3e74e202cbc518508a
+sourceFingerprint: 79a834fbb2233989078bf3a5f2d4e9a239bfd39920214d8b56e5f684123abf43
 apiScope: Editor
 contracts: []
 

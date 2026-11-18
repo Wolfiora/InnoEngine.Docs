@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.tasks.b386a65d470033c7
 symbol: engine:Inno.Build.Tasks:T:Inno.Build.Tasks.CompileShaderTask
 title: CompileShaderTask
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Tasks
 apiSurface: source-clr
-reviewed: c9a31fc0b4e0b5caca42632ec351f12d4e5674609288a8aa763a2d2b258ac93c
+sourceFingerprint: 8b927a830eedd92c4d8eb1f5f673582275225e51184662859fc19a03854bd249
 contracts:
 - project.inno-build-tasks
 

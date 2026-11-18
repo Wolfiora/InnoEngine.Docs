@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b5c75e834c6e8fd273a05f9d530853cf6610fb301617332da367bd751c47e549
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.MaterialPropertyEntry.#ctor(InnoEngine.Rendering.ShaderPropertyId,InnoEngine.Rendering.MaterialValue)
 title: MaterialPropertyEntry.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: b6b899c272572751733c9ddf0b19503bb184d65e091460ab3c049df3e964ca67
+sourceFingerprint: 3b6a5400cb36304c09506c560181e88af776c1e130cefe4ab9b9cca1e8be45a1
 apiScope: Runtime
 contracts: []
 

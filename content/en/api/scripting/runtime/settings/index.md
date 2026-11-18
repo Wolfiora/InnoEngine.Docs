@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.settings.runtime-script.03801f8d3af31d98
 symbol: scripting:Inno.Core.Settings:T:InnoEngine.Settings.Settings
 title: Settings
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: editor-script
-reviewed: aee1e57f27fba5a8fb81a61e88ba1588c248b85be5d161005cb97f34a78290cf
+sourceFingerprint: c0d28330060b5ce584c9c254c3cc7ea0dc48188a856b2b0f9ecf89209b1886e0
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

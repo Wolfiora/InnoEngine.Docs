@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.annotations.runtime-script.666f518cec582d95
 symbol: scripting:Inno.Editor.Annotations:T:InnoEditor.Annotations.TooltipAttribute
 title: TooltipAttribute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Annotations
 apiSurface: editor-script
-reviewed: 1bb197359d8aa2df6ced659a17a1f85790191d3b8d75a0084d7f88c10ab7f2de
+sourceFingerprint: 4e8882b6f083c4afa408c38c723f1c1014c842da77b62d71a02d03c42e14c482
 apiScope: Authoring
 contracts:
 - api.projects.inno-editor-annotations#loading-and-script-availability

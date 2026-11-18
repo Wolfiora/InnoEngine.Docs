@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.shaders.3742b74fe5f3d0f9
 symbol: engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderStageInputNodeCompiler
 title: ShaderStageInputNodeCompiler
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 62da012bf9e66a1dd41a3a96c47acd9a26b6597b4e633270a624735ef90aac8d
+sourceFingerprint: 79102e91874e4d3cf56d3cada826a9ff157c4ebb3c5ff82bc669833e6645c43b
 contracts:
 - project.inno-rendering-shaders
 

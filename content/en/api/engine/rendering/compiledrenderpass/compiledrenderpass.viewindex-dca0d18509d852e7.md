@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dca0d18509d852e7a4f897980db1716e296eb21f846ddc4e01f3dd393d26e20f
 symbol: engine:Inno.Rendering:P:Inno.Rendering.CompiledRenderPass.viewIndex
 title: CompiledRenderPass.viewIndex
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 77d12cb5d8bbdd3fb1c5b121511a3b5b6c34d7b7eb0fd99dfb1ad491353f865b
+sourceFingerprint: 8f641c2c16b57bd5eb8446e79a52d28420964656eb6216dd2078cef4392850f0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

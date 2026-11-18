@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.82e512f7a4e024b1fb4173c682c09ad546a2b5bba4e5725fc07f06db88814080
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.CoordinatedFileLease.AcquireAsync(System.String,System.String,System.TimeSpan,System.Boolean,System.Threading.CancellationToken)
 title: CoordinatedFileLease.AcquireAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: 3c943477b8a6225059b9792cbc698454917e1fee6b6d328bc6759d4be28d8510
+sourceFingerprint: fa061b118a419d41556f5a1cc0117888b99ae7604fcebaaa04de820dc4f43482
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

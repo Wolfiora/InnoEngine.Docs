@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.aa2b23c981896077094e464f6e19a7ecf050f143fdd530c01748873eb3e8260a
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorGameInputCapture.Report(System.UInt32,System.Numerics.Vector2,System.Numerics.Vector2,System.Boolean,System.Boolean)
 title: EditorGameInputCapture.Report
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: e597704d26f7d1f03796ca98451b755bbc4c2e137cb069e4e4f15694d681d8f9
+sourceFingerprint: 0deeb15d79975ab2d6e2c3d788dd8babbaab9d7c634533d05d85a252c798dcd6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

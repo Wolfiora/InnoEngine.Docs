@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9020d69e908cc144fe7496ae2b44a0bc52bc15296e9d546d7aee3d940911eb43
 symbol: engine:Inno.Animation.Runtime:M:Inno.Animation.Runtime.AnimationBindingRuntime.Apply(System.ReadOnlySpan{Inno.Animation.AnimationSample})
 title: AnimationBindingRuntime.Apply
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation.Runtime
 apiSurface: source-clr
-reviewed: 3aa8747dc9141f8693ca15e35416352c714a62b58858d1c3023c2722c296a783
+sourceFingerprint: 03b3c91f1fdbc935e8bf86724fbaa9fb6548005276c65d63027285c47b83e061
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

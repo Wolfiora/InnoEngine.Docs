@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.47a6a9e4b71378ec7548da175906dde4a4150d95a6cb84910853a8a1c253cd0f
 symbol: engine:Inno.Build.Tasks:M:Inno.Build.Tasks.CompileShaderTask.Execute
 title: CompileShaderTask.Execute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Tasks
 apiSurface: source-clr
-reviewed: e93002e0d2b6bc881ac0cf2a0da617033336a1ec5005dfb081387d4ad0427186
+sourceFingerprint: 4306614fba2649fd72ae877caf75be16055c728d96adfe8d852ac1034db93d0d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

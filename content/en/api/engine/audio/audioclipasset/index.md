@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.audio.56bf18d4fb2991fb
 symbol: engine:Inno.Audio:T:Inno.Audio.AudioClipAsset
 title: AudioClipAsset
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: cf80e5858e404c71d9bc974d019d1c91a7da4377070916cd68dd5c4c0ba67a50
+sourceFingerprint: 32155e9da74a8d30aa35340fb8493c54220bcc75aeac35524f736a4552ede251
 contracts:
 - project.inno-audio#playback-and-device-contract
 

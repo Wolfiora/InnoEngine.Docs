@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.388b9f810a6b28187661e293d151a200f90c2903ccd1df9eb0aecfeb0eb192ac
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.GetItemMaximum
 title: ImGui.GetItemMaximum
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: c07e6ff3af1ec3489380aeffe35891dda484dd44bce974923f4465015eb9963b
+sourceFingerprint: 124dd53e016739a213815d51837d412ce066230dbbd89358c60d900bec178a06
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

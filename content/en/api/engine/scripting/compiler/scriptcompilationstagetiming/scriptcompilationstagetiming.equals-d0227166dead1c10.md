@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d0227166dead1c10617da90ba7e02aeab6948c37de1c6ef7919c8d3cffc05ed2
 symbol: engine:Inno.Scripting.Compiler:M:Inno.Scripting.Compiler.ScriptCompilationStageTiming.Equals(System.Object)
 title: ScriptCompilationStageTiming.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Compiler
 apiSurface: source-clr
-reviewed: 623c35148878bfc4df76c433ac24b5a34abdd8115e9ae06d43b679ee8b104c68
+sourceFingerprint: 623c35148878bfc4df76c433ac24b5a34abdd8115e9ae06d43b679ee8b104c68
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

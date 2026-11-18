@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.core-identity.identity
 symbol: engine:Inno.Core.Identity:T:Inno.Core.Identity.Identity
 title: Identity
@@ -7,14 +7,15 @@ kind: api
 owners:
 - Inno.Core.Identity
 apiSurface: source-clr
-reviewed: efe47613a66c0ff13723866f1e4296bf8c59c5a5e69a0aca065e6907c3ccedb3
+sourceFingerprint: a980f58ae820a012d09817717f55adbc7793b189c3176e2c1af7825ea44b18af
+outdatedFor: 41055bec7be316f26aa0fa678b5605a3db3b72a82c0996be50d1785de022172d
 contracts:
 - api.projects.inno-core-identity#lifecycle-and-failure-contracts
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors
 description: null
-outdated: true
+outdated: false
 aliases: []
 ---
 

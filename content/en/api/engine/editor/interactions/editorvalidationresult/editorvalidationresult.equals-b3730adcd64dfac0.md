@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b3730adcd64dfac0557a9e144499e3217ea9650ad1a0faa4d41c467eae12eec5
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorValidationResult.Equals(Inno.Editor.Interactions.EditorValidationResult)
 title: EditorValidationResult.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: 8b70b7ebd6118257ded857bd5f1430cc1a7512b35e0de214ccbfdcc2841d5304
+sourceFingerprint: 8b70b7ebd6118257ded857bd5f1430cc1a7512b35e0de214ccbfdcc2841d5304
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.adapter.platform.457717396dd7b603
 symbol: engine:Inno.Adapter.Platform:T:Inno.Adapter.Platform.IPlatformBackendFactory
 title: IPlatformBackendFactory
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Platform
 apiSurface: source-clr
-reviewed: d10e3564f39b82d2725cdf36d5c09b7549251a01fb92a85c475a8ee169e6669d
+sourceFingerprint: b578e59707daa86962d4e1dffcce25f9b610d4f04d9b07452cb8d8325795cf66
 contracts:
 - project.inno-adapter-platform
 

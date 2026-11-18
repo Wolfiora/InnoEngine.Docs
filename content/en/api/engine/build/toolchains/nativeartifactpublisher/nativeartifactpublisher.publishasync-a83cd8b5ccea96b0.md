@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a83cd8b5ccea96b0a7e974f443e3c6996a76e214057ed8360c0500177a659752
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeArtifactPublisher.PublishAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeBuildRecipe,System.Func{Inno.Build.Toolchains.NativeBuildContext,System.String,System.Threading.CancellationToken,System.Threading.Tasks.Task},System.Threading.CancellationToken,System.Func{Inno.Build.Toolchains.NativeBuildContext,System.String,System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.NativeArtifact}})
 title: NativeArtifactPublisher.PublishAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: c0eba0335162aff69fa283d50532d517acf942c1470176f7c1ee039a9f1ab944
+sourceFingerprint: d9bd5d93253d0b4ed2e9e6195b6423eb3ec3e7387470b6802155086533e6ee97
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

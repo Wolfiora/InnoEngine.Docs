@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.extensibility.types.9b8925da12eb170b
 symbol: engine:Inno.Extensibility.Types:T:Inno.Extensibility.Types.TypeRef
 title: TypeRef
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-reviewed: b9d1db1764ca5512c020de50c3d5f9f0a27a103d1bf19711055c1f46da2230e7
+sourceFingerprint: 009d5c03b1d89b729b43e37d60f4a174b94bc33c85a6e31129de16bd352ac858
 contracts:
 - project.inno-extensibility-types
 

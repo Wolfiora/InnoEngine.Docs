@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-editor-panel-hierarchy
 symbol: project:Inno.Editor.Panel.Hierarchy
 title: Inno.Editor.Panel.Hierarchy
 kind: project
 owners:
 - Inno.Editor.Panel.Hierarchy
-reviewed: ''
+sourceFingerprint: 70f43e5f89e0ef97267c158d9512be5f61d9361de65bdc63c74ad11134225859
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

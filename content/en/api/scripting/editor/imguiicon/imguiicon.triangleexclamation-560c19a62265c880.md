@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.560c19a62265c8804a7712f25c896d8b93b8ba1d02e91e6b31add3ccbd175604
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiIcon.TriangleExclamation
 title: ImGuiIcon.TriangleExclamation
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 09425acc7fdda534ec8589a6a5e19b802dd2d3609aabbd6f63ffe62f968f5288
+sourceFingerprint: ced54a600246cf04b31960c1478b3e4a15f0ce854275436a74bf8e3f2eb03edf
 apiScope: Editor
 contracts: []
 

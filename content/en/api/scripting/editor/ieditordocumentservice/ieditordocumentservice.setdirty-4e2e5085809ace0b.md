@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4e2e5085809ace0b0bf5c5aaf010066b81443ae36098d244d50ea28298fe1b45
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.IEditorDocumentService.SetDirty(System.Guid,System.Boolean)
 title: IEditorDocumentService.SetDirty
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 0c66aed4346dfae11f2f3b97e2388f9f9bd6cac38f4d1f5068565e06640fd111
+sourceFingerprint: 560a72397b6daa6e902f2649928ad8d6e28b8a4908d4b4b52832c79629e18bb0
 apiScope: Editor
 contracts: []
 

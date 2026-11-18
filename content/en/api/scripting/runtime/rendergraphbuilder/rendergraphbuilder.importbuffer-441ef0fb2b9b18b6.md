@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.441ef0fb2b9b18b67a9c73b0913163e9bf9bc6d1439894837a31360264e519cb
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.ImportBuffer(System.String,InnoEngine.Rendering.PersistentBufferHandle,InnoEngine.Rendering.RenderBufferDescriptor)
 title: RenderGraphBuilder.ImportBuffer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 7e47c957ec3373cd14b6fba2055e94e6676f157a2c9812164ac30c712af54e9c
+sourceFingerprint: bbe2113d442482001d2c078d13f3a9644ad834943ce7e0a0a1aa4359fca9ad2b
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d887d1e665c52fb2bdd3ee6ebe4d56f54e51b64dc184a1974cb7d6bb40d7489c
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderView.Equals(System.Object)
 title: RenderView.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 948e6c3f81b7a4fd347b8f7627b157e401a1f93efd0e9ccdc59b2b6781e9d195
+sourceFingerprint: 948e6c3f81b7a4fd347b8f7627b157e401a1f93efd0e9ccdc59b2b6781e9d195
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f0e68d6c9cbdf4cd7db8daaf57f64c343b888529bacbf9abe4d5f83dae6b85a0
 symbol: engine:Inno.Rendering:M:Inno.Rendering.ComputePassBuilder.ReadWriteStorageTexture(Inno.Rendering.RenderTextureHandle)
 title: ComputePassBuilder.ReadWriteStorageTexture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 77083df9b0b02441b4760d863053de0cd59198218d9ed8f78c6f8ac5b94411b6
+sourceFingerprint: ec284dfe44b066af8f15111ee1985f3850b042bc45796f58401ab96c5526efc4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

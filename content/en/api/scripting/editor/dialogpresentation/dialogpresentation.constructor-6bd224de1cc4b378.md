@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6bd224de1cc4b378c6212eed05dc0fc00a6eeab2b6b21e6f404f964022124a11
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.DialogPresentation.#ctor(System.String,System.Nullable{System.Single},System.Boolean,System.String,System.Boolean,System.String,System.Boolean)
 title: DialogPresentation.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 4ccb75c513b9d2c517e1e2657816c69404ec22248437beedb1a9ce8e0176bfcf
+sourceFingerprint: 9e85da951e4c53f6de4490f77e067569c8ffca1226780b2d38fcdeeac4193227
 apiScope: Editor
 contracts: []
 

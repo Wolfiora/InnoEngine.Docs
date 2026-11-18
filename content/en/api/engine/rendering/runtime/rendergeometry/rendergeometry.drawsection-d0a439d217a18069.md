@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d0a439d217a18069cbd9077be0eefccf93a22e98fb69fd4c28bd06b86e01c1de
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderGeometry.DrawSection(Inno.Rendering.RenderCommandEncoder,System.Int32,System.Int32)
 title: RenderGeometry.DrawSection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: b39e9663456ee3fa48bdd047b8031ca691fe1090bab114c4a2804e85578ebf14
+sourceFingerprint: 44f9469db5bb2fbbef0598428ecabc13af9670069bd12540f754bbfaa6f902b0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

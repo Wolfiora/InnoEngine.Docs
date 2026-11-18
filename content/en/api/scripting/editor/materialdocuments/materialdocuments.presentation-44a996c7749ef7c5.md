@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.44a996c7749ef7c54d64b1093aa0405afa1b2e6ed5676570173eb2dd6025f1aa
 symbol: scripting:Inno.Editor.Shaders:M:InnoEditor.Shaders.MaterialDocuments.Presentation(InnoEngine.Rendering.ShaderAsset,InnoEngine.Rendering.ShaderPropertyId,System.String@)
 title: MaterialDocuments.Presentation
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders
 apiSurface: editor-script
-reviewed: ed3f3d5d82e49252b31177e92ef2c4864ee6fa06d4ebede18fbb1f21260669b4
+sourceFingerprint: 37f01d90e300c35544e7595ed519b8e3ceefd78a522e4ef6c1ad817bccd8ed7f
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cc4adb9c0e2a79f48679feb4ce79eaef70c9f22e59032b3051cbd87e6b0807d8
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderGeometry.DrawSection(InnoEngine.Rendering.RenderCommandEncoder,System.Int32,System.Int32)
 title: RenderGeometry.DrawSection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 3c1e8426bb700c077f92a1853925259b8775938b6dcf998a29e4789e6fb27957
+sourceFingerprint: 987176b2cdcc5c6937074df261650bdca4dffa31ef814c4b8c9bb168a1a51301
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f608ec192d2155fbd4a1dfaa19446cf79a97ba11eeaf2df513ffdb99a9852793
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderSamplerState.Equals(InnoEngine.Rendering.RenderSamplerState)
 title: RenderSamplerState.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: fb6c43607a92a3e8faaafbc915241d366b032ef58703c0b96ba7b5bdbf2cf743
+sourceFingerprint: 6d4d96ad3b49965eb9a0684a8b297fd2902f1e47b6ab2a29cef1d106899843fc
 apiScope: Runtime
 contracts: []
 

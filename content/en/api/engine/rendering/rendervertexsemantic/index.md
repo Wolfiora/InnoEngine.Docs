@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.1fd69a21bfc743da
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderVertexSemantic
 title: RenderVertexSemantic
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: acf3bddc4a5e6dd4cd0f23f534a962420bf7ed6d2d1bf8047a618a26795d3f4f
+sourceFingerprint: c91f2464e747ba2d2b54a638b4db0281c37e03f790364a9a2d68171b0552bb25
 contracts:
 - project.inno-rendering
 

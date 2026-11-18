@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scene.7bdd6dd7608981ea
 symbol: engine:Inno.Scene:T:Inno.Scene.SceneTypeResolutionException
 title: SceneTypeResolutionException
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: a0859aafb8de0a028bb7eb7848c98ba06ec58a88f2320bc57016c5efb5a1e37d
+sourceFingerprint: e6190e0fdd418aa23a2efafae7ece231cb0bf8768a77a9ea8bc7e4a8e2d085a2
 contracts:
 - project.inno-scene#scene-ownership-contract
 

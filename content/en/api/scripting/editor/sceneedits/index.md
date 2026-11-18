@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.scene.editor-script.462d9353427922c1
 symbol: scripting:Inno.Editor.Scene:T:InnoEditor.Scene.SceneEdits
 title: SceneEdits
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: editor-script
-reviewed: 976703900626d7d0efaa408e4a2681c8e665cf34476e291572576b07ff8ef488
+sourceFingerprint: 0ab9d5af7d75faf75ca3476e93b89a17fd145788d27702940fbf9ac0fe805f2c
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

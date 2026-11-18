@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ddd543550c1e739e3ab74541dd628effb30f064f5da4c34faff828ba255a7328
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.PanelWindow(System.String,System.Boolean@,System.Action,InnoEditor.ImGui.ImGuiWindowFlags,System.Boolean)
 title: ImGuiWidget.PanelWindow
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: eacc5ecd98fefef631a094fefaf26f06c11fa44d15ad7869e8a123481ca470cd
+sourceFingerprint: b535ab037708da47a2b11a2df9ffc1835b053bc9152ad06d1c2cee25a28286ba
 apiScope: Editor
 contracts: []
 

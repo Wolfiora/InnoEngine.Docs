@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.713801c57391592b69b75fbe3b010ed32bc83f4045e5a8146453cf4b0a804498
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.PersistentBufferDescriptor.indexFormat
 title: PersistentBufferDescriptor.indexFormat
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: c3d52294d21fae6f7d0ac2604e990c22957c9bab43ea8212cf60838786569319
+sourceFingerprint: c5ad705337d842e51f1c263abdcd1706dd00842dfbb843c6c0980cb87df70037
 apiScope: Runtime
 contracts: []
 

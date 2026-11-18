@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2e06fc28869f7a5cce1c0cdc9ecc69d39518adfb73c5a978748d4f21d13a370d
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderTargetStore.#ctor(Inno.Rendering.IRenderDevice,System.Int32)
 title: RenderTargetStore.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 6fdff7d6271f04dc41fe0df5fcbf18c43d43d993bf7b874ea43fd5514e90037e
+sourceFingerprint: 56fb4180b22d7d2a5e160af28466bf7756e227092f8cadcbdd2ad527b4014e42
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

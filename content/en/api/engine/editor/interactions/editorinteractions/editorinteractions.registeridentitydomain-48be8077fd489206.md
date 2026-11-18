@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.48be8077fd4892061d746b97e64f9270f1be2bc0e64b7bce325660a36b21360b
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteractions.RegisterIdentityDomain(Inno.Core.Identity.IdentityAllocator)
 title: EditorInteractions.RegisterIdentityDomain
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: 678fa8a045f87f05f69321dcd4bcbec73c79e79018c2b584e9fb2edcc64b55f9
+sourceFingerprint: 7b56378b9b0016d5881227436b3e7dd8c30359025157ef6081bd4a50950e32ca
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

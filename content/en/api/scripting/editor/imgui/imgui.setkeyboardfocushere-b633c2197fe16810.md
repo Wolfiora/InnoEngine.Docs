@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b633c2197fe16810ab979e0fec0fb897ce1e5ce00ff6ddcc870913b43b01d676
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.SetKeyboardFocusHere(System.Int32)
 title: ImGui.SetKeyboardFocusHere
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 2718dd3c0adcc1027274fd9019250cadd62626cab71f5236458569710ff2748f
+sourceFingerprint: 82190523fa3751f78ad5c9540a706d5202f416d5941ea8d2620b984eb79ddaa4
 apiScope: Editor
 contracts: []
 

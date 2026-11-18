@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.52a4343a5997e3fa9ef36c835c3a75a840a4828cfb7a6b610501006beb7a3e44
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorHistoryResult.Equals(InnoEditor.Interactions.EditorHistoryResult)
 title: EditorHistoryResult.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 414292e925fdb86a2022ae86dd363cf529e7e7c6dcdc9f0acc09927586b9ce85
+sourceFingerprint: 414292e925fdb86a2022ae86dd363cf529e7e7c6dcdc9f0acc09927586b9ce85
 apiScope: Editor
 contracts: []
 

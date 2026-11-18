@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.ui.assets.f4582246ee8e0fa7
 symbol: engine:Inno.UI.Assets:T:Inno.UI.Assets.UiDocumentImportPipeline
 title: UiDocumentImportPipeline
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI.Assets
 apiSurface: source-clr
-reviewed: 3eb7a2889b2d74b3830a4939a89f6537d199b8e0a1a6a7cce859fc15eb33e8a4
+sourceFingerprint: 53284d960a87bc0610c9460ac7cec05c96afe79bd2730bdd5b6457b99bb18628
 contracts:
 - project.inno-ui-assets#import-and-generation-contract
 

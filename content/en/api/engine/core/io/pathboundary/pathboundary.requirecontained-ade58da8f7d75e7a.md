@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ade58da8f7d75e7a28108801f60f645c475c1faafb4326a375b5b52e60b1f84d
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.PathBoundary.RequireContained(System.String,System.String)
 title: PathBoundary.RequireContained
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: b836aa51e1d8279fec43f93ec0a96dc49b575dc2aea4df0d0eb60e7901639bdd
+sourceFingerprint: e687feb2b50ef3fd79d03ecf734d0d41dbd08c672d95e7a996672c19a6591831
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

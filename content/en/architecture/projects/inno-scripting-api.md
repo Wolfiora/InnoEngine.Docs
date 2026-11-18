@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-scripting-api
 symbol: project:Inno.Scripting.Api
 title: Inno.Scripting.Api
 kind: project
 owners:
 - Inno.Scripting.Api
-reviewed: ''
+sourceFingerprint: 203b500c5d9e1b0fde1bf19b95fb6ba1af0cfd2db9e24bcc7b0fe0f6b08a39ea
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d14cee934a34a90cb6162766306374f34c0f78caee69a55fa65649401414fae8
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioListenerState.#ctor(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3)
 title: AudioListenerState.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 94dd4fcbcb8c18e748fdb8e0896d6c6d69e3d003f5277aa9f6b8934886712e95
+sourceFingerprint: 6bd06e318c5f3aa9c1e2ca4f3f9e44d543e4bb84b8a3b7771957f95b2561ac25
 apiScope: Runtime
 contracts: []
 

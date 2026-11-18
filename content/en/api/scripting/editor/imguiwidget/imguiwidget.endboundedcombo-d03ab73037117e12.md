@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d03ab73037117e125c489605f7db249fb2e88ab7e9f275660ce683d19e4b54e4
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.EndBoundedCombo
 title: ImGuiWidget.EndBoundedCombo
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: b41ae4f8bf2b91509513b3f1a59255d3ddd50319921f665da9997a533a2569db
+sourceFingerprint: 9e4099480921c64d9a04edb319ec0b578f0f10ba2d947ea6372c5a316fb771bf
 apiScope: Editor
 contracts: []
 

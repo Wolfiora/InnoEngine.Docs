@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.646f561b1426bef93c26984e0c33061644992ecc7224466793d0d5578e10bd78
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.NavigateList(Inno.Editor.Interactions.EditorInteractions,System.Int32,System.Int32,System.Int32)
 title: ImGuiWidget.NavigateList
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: e87343a8b635577926f5c64bbf04d1d2b77bd28056a09960be2eebaa95a1c7a6
+sourceFingerprint: d7a4a6cbe5a375c0c33a8ec9ccfeb9838289efa912edce33440dadedd378047c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

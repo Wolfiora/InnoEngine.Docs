@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.03e7f1097363cf8c37f502c1d5e9bbbccafe3d3aa4a08d2f053bd3ac6bae0713
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.IEditorDocumentService.Close(System.Guid,Inno.Editor.Interactions.EditorDocumentCloseMode)
 title: IEditorDocumentService.Close
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: 6e886262aa05cb3708219a2f490929f8deb2c05ed5a0a5e57841ea716621d0d0
+sourceFingerprint: 1e5b1242399ce014d0446dd82e1912c0c2a3a520219a26f18bbb26272d040900
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

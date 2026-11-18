@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.abf7db1d49e380e625123b76152c1795e1ea43c84bcb291556a2cf585ada3112
 symbol: engine:Inno.Core.Layers:M:Inno.Core.Layers.Layer.OnLateUpdate(System.Single)
 title: Layer.OnLateUpdate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Layers
 apiSurface: source-clr
-reviewed: da33a96874719cefb01b0c7277d774818257317ca40e9e9e396ca8a07c125af4
+sourceFingerprint: d83a6fa5de775b99e3a49e965792af698e9114c38c5295b32281f7015a15d0b6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

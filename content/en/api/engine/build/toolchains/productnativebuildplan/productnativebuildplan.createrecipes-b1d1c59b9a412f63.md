@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b1d1c59b9a412f6359d4127b4ba611c331dc32c87e4610800ced6c661195c4ce
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativeBuildPlan.CreateRecipes(Inno.Build.Toolchains.NativeBuildContext)
 title: ProductNativeBuildPlan.CreateRecipes
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: f3c1d1b322dc9b1b922019f74bc68115e3297712261b124630ec4073f3933374
+sourceFingerprint: 9467d6101c58681a64e64ad775eb3760422443d673e17dd555c446618869330b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

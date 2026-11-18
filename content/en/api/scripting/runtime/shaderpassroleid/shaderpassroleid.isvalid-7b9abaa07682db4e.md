@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7b9abaa07682db4e997f79bcb35fd08b7d2fcdfbeeb23c45873856741cf6ceac
 symbol: scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.ShaderPassRoleId.isValid
 title: ShaderPassRoleId.isValid
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 80c9075d1bb205e7c37ea0220e9a96d4f0f104c9755381c13bedcf9b7a23f522
+sourceFingerprint: cd146b674ca1cca138b5d8a567d7cacf59e302058865e0ca11f524fe8d66f16d
 apiScope: Runtime
 contracts: []
 

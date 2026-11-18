@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2a4150184e767c9967d07f0fdefe94f9212ac884d133716e32d994dcb2912872
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorMenuRenderer.ContextMenu(System.String,Inno.Editor.Interactions.EditorInteraction,Inno.Editor.Interactions.EditorInteraction)
 title: EditorMenuRenderer.ContextMenu
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 398aede1422c9ddcaa8cc30a3dc5cb87635b1dd6cf24f7cc8043e0c9f677f286
+sourceFingerprint: 0855d00e4e59aad1420f9dc2174bc988078df41c65bcbce129ab6bdc4f6cf98d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

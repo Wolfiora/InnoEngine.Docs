@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9888943769c7c94771d3f2c71f5aa4a6daac90f69dd5be58032147809e596f0b
 symbol: scripting:Inno.Core.Settings:M:InnoEngine.Settings.ProjectId.#ctor(System.String)
 title: ProjectId.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: editor-script
-reviewed: 36f70f7ef435925d009f6b9a45c3547d21c7e81f13084764fdfccfc8d7bff859
+sourceFingerprint: 25903acb1ca686f6dbabe5de6f741a1b68f4d912f1146c0303123004463d971d
 apiScope: Runtime
 contracts: []
 

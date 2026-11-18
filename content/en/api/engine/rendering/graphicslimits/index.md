@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.55cf828dc3179762
 symbol: engine:Inno.Rendering:T:Inno.Rendering.GraphicsLimits
 title: GraphicsLimits
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: aa884d4bf43a72b9874aa53af04b5d9ae18af2e26af57a1a4dfa600cbee07e19
+sourceFingerprint: 182ee2d87699e1eb13fb38151046e7f14513d46dda5775b82591090ca82ad9e5
 contracts:
 - project.inno-rendering
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9f7073fce81b96f7af9cdf4b649059cd13d98ae7bf05f87b8c1a4e9f6d00615a
 symbol: scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneEdits.CanEdit(InnoEngine.Scene.EngineObject)
 title: SceneEdits.CanEdit
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: editor-script
-reviewed: 3dea0ecfa13bf15c18a26806a4545813182341462f0204dd60beb70cf84b010a
+sourceFingerprint: d0b9b06f025e73d239dc53ebe90cf685427d8b296dd8dde128b4f1ae6e2e663f
 apiScope: Editor
 contracts: []
 

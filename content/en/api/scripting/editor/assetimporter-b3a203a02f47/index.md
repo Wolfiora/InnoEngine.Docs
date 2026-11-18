@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.assets.pipeline.editor-script.b66d11c08f3600a5
 symbol: scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetImporter`1
 title: AssetImporter<TAsset>
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: editor-script
-reviewed: 35725768f87d5887a6c2e240f1dbcb8c0f5cfc2929bf1415d3aa1ebdd3a241fd
+sourceFingerprint: e7845c299ed1abcbb4269b5e20f836c30fad4d99c6da1dfa2951fbd757324f06
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

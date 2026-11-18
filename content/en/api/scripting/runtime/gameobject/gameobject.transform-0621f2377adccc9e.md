@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0621f2377adccc9e12370ff90c31e5bfb12834e15abea3233131d4554c799fdd
 symbol: scripting:Inno.Scene:P:InnoEngine.Scene.GameObject.transform
 title: GameObject.transform
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: fa01e7dfa3fbc151efadaa4a1d84462ea4209497ecfec76511cb635134ccbcb1
+sourceFingerprint: 5b0e151eb3a3c33dd15327b8ed87ae49678f77216c1dc07a2a9d1e40fba80f4b
 apiScope: Runtime
 contracts: []
 

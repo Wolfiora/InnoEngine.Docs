@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.481a9d7af01cdf625b0c87be43a2fa3f15ba3c909333bc3778065b621e94357f
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.BeginSearchPopup(System.String,System.String@,System.String,System.UIntPtr,System.Single)
 title: ImGuiWidget.BeginSearchPopup
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 7e707faf12edb54394f638bed50cbe224a2a256e7b267a98c60569438e6f691e
+sourceFingerprint: 9de20eda34f6d22d3082502ba268f7e09e949f089776314d8df79e8ecc12262f
 apiScope: Editor
 contracts: []
 

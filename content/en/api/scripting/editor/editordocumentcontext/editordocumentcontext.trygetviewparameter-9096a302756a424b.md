@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9096a302756a424b29c9d84cad900663f485cab728d18945bccf110365c6b32c
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorDocumentContext.TryGetViewParameter(System.String,System.String@)
 title: EditorDocumentContext.TryGetViewParameter
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 2158fdde416279b8958c18f764681d96048f1a8e16be7bbea812d1265c7f14e5
+sourceFingerprint: bc48aac0f6764c3222028472eff7f90e65107c5d5ab3f016f1fd98da0d62834e
 apiScope: Editor
 contracts: []
 

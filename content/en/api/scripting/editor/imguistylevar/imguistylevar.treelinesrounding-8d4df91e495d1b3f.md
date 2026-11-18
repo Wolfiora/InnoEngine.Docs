@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8d4df91e495d1b3f30c929602ebdb7e42c24eaf0dc250ba0df97c1f296c5fcec
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiStyleVar.TreeLinesRounding
 title: ImGuiStyleVar.TreeLinesRounding
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: cf972ffac4e97174474bf9da91d94ce03864f02fd7b6bdb463878196214d449b
+sourceFingerprint: 43e178a03fafc75de0eb99243b4bc5da0d9b9ef3c687f900dd1db0dc1037dcb2
 apiScope: Editor
 contracts: []
 

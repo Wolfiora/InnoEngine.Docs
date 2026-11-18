@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.shell.d948dbe8c99e61ba
 symbol: engine:Inno.Shell:T:Inno.Shell.IShellFrameDriver
 title: IShellFrameDriver
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Shell
 apiSurface: source-clr
-reviewed: 863361672b5adf1dea957c09f57e3a303214d44265d0cac562b0a2c21e78e0ea
+sourceFingerprint: b27850c97f3c5cf7e3cd1af9a569b21b29969bebb08618dbae4702591b50a1f3
 contracts:
 - project.inno-shell
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8dfee5598a6e8832841877d907c940c804cf4c9b7347af10dde591d868c54b3e
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.TransformNormal(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Matrix)
 title: Vector3.TransformNormal
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 7dea9c701a73a358a061ce98adab4b86a2d46a2cea3092337ebf9bbe785c95be
+sourceFingerprint: 3e86d2316261841d57dea418e691d25a5011aea834f2cdcfb1a7d33138384a78
 apiScope: Runtime
 contracts: []
 

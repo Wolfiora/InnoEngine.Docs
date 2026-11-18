@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.b56a616857c84980
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderStencilOperation
 title: RenderStencilOperation
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: daa73825493f729af6bd98ac10570edc5f81f2278577c0249958af6a3c219324
+sourceFingerprint: 2e82f2811da35753bde0c86a634fbd535e3e219e7925e02a2c61f44dedcbbd9e
 contracts:
 - project.inno-rendering
 

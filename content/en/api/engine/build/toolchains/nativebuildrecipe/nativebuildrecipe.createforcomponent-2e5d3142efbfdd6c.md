@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2e5d3142efbfdd6c2e78f3044ec548203733e1c0658b2b0a500b32923ca7570b
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBuildRecipe.CreateForComponent(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.NativeComponentDescriptor,System.String,System.String,System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String})
 title: NativeBuildRecipe.CreateForComponent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 7816c8427c63be76c72fb8f2306e4b5884b1efc48a13103ee87b772dd97efcd8
+sourceFingerprint: a67072632a5004d9062aa378fa2d5998e90b29b894897fc7f385aa3abe69fd5d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

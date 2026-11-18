@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ecf23a8189d2d6863e64ff8edcb9c2c965fb6c3551daf6b078a398b3542b8498
 symbol: engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.SerializedPropertyRenderer.DrawValue(Inno.Editor.Core.EditorContext,System.Object,System.String,System.String,System.Type,System.Func{System.Object},System.Action{System.Object},Inno.Editor.Inspection.IInspectionPropertyEditService,System.Boolean,System.Boolean,System.String,System.Nullable{System.Double},System.Nullable{System.Double})
 title: SerializedPropertyRenderer.DrawValue
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: source-clr
-reviewed: 1785a163a5498bc02980f5c32a4828c2c4cd39b65eac5a8430e180a09e784b87
+sourceFingerprint: 7740c37f384970fd429966bfa31d78a6c95dc6bbd77b7ddc3d7a902df193a98e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

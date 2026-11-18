@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.625f4eaceb00b056c7ae3c682459233c9be2964407afd7f4f8b0598f6390fe20
 symbol: engine:Inno.Assets:M:Inno.Assets.ArtifactLease.ReadAllBytes
 title: ArtifactLease.ReadAllBytes
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-reviewed: ebb4875796ba2b8b570060d22e6f5cf6a0c413a3b299a79728b1c6ce1e59013c
+sourceFingerprint: 3327988e78a0bd7d795a4326fba76efa66901071f26e9fb9888f4637aa6f7195
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

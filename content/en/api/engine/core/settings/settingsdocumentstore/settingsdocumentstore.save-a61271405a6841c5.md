@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a61271405a6841c576739e1a6107f87779bf47a49b4ed27ed00af58eaf17e142
 symbol: engine:Inno.Core.Settings:M:Inno.Core.Settings.SettingsDocumentStore`1.Save(`0)
 title: SettingsDocumentStore<TDocument>.Save
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: source-clr
-reviewed: 5d225783c772d1e92faa36d9a4b2b3c81582fe60235dcc76d28c3a2b7c7a6277
+sourceFingerprint: 0ca6b2c46555b3b4fd39796cc92db31b77f6f36adcf4187abb2bc6f649102c0e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

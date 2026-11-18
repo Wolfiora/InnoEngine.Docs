@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2fb27adda3cdfeb48a45bfb13a9ef922af1ab67ba34a64308d921ebb7db231c6
 symbol: scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.LeftShift
 title: KeyCode.LeftShift
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Input
 apiSurface: editor-script
-reviewed: db56752875a344eb4a2a928e489c3b4eb3c42b94632fe38b678e43c35c8e8333
+sourceFingerprint: 7507db9e569c0458aa0631ea356f43c713f86fbd7b0bf08b96dd058ba81b55c6
 apiScope: Runtime
 contracts: []
 

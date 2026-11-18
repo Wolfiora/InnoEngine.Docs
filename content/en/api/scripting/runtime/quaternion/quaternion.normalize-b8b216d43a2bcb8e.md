@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b8b216d43a2bcb8e8eec0338a326e7616e1a528a0e9adda0e11e0a060b5cea4d
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.Normalize(InnoEngine.Mathematics.Quaternion)
 title: Quaternion.Normalize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 038de0bc5769a6e273d11f78a710472ea168768f0661e8023afd2f3539adaa76
+sourceFingerprint: 35163b62c6a1c6241f1d71f68c08d93afd2594c0e95bd7c992b6a2569e1a0a33
 apiScope: Runtime
 contracts: []
 

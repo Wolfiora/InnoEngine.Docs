@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2951c38cff61c49e760d68aecb49e1c12af654e611bf3e5f62236f7d5497ee1b
 symbol: scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetImporter.CreateImportSettings
 title: AssetImporter.CreateImportSettings
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: editor-script
-reviewed: eb4663f0f13c947ae2276e68f0dceb4fa25572f60bc00146d57b327c4608bfb5
+sourceFingerprint: 1d43c9985b4b91cc34234d81247af188f9c856540e2585a2a227a8fe8fab54db
 apiScope: Editor
 contracts: []
 

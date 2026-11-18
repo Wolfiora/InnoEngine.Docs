@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.audio.def161644a357183
 symbol: engine:Inno.Audio:T:Inno.Audio.AudioBusId
 title: AudioBusId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: b83e7b1ceadbe392337cac3e21b0d71d8bb5761c7653f2f7d615c1deab1623bc
+sourceFingerprint: 3251ce3c8403459c98c4fb00ac34d81e7f47b659c2c1443d8886f17697636514
 contracts:
 - project.inno-audio#playback-and-device-contract
 

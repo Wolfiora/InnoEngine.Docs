@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.toolchains.fb6ecbab14ea9de5
 symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.BuildArtifactReadLease
 title: BuildArtifactReadLease
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 6d913894aad04d5cd6ef3f4b4b2f6349609e1d8a223c15019f1058cb6012724d
+sourceFingerprint: d6d3bf17bc5eec6edb19f1c865b7f2392ac5274d393e715cb2183536c9964deb
 contracts:
 - project.inno-build-toolchains
 

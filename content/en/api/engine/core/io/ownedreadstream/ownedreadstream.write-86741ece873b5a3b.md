@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.86741ece873b5a3bc0b6b94e3c9350b496b4b674d41b0d27f86723e4f85f497f
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.OwnedReadStream.Write(System.Byte[],System.Int32,System.Int32)
 title: OwnedReadStream.Write
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: 20e95982698549e9f51e3ea2f682c786b2663a8987f70c1a5af8d286b95d69a0
+sourceFingerprint: 20e95982698549e9f51e3ea2f682c786b2663a8987f70c1a5af8d286b95d69a0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

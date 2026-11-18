@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2bd53c806a863f6e9b8c2bcbbcda063b6f4bc1f9085f3d376e0b9a3a49f3fafe
 symbol: engine:Inno.Audio:M:Inno.Audio.IAudioService.ReleasePreload(Inno.Audio.AudioClipAsset)
 title: IAudioService.ReleasePreload
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 4eff4fbff5a7c007913594f677b5eeb290f805b30a742819a31c2de635a8ae94
+sourceFingerprint: c002faa932238ee2ca33f133209d097f6422aba394c9bb9083dbae9b09439f72
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.037a2506f36bc6d6cdc8cb4eade83ac8c7712a2ad3e361699d26afaed1a38778
 symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorViewportOutput.Equals(System.Object)
 title: EditorViewportOutput.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-reviewed: f855a518aad409743ffbb034cf7c005a8075bf44f7318aca3c0344119aa85b6c
+sourceFingerprint: f855a518aad409743ffbb034cf7c005a8075bf44f7318aca3c0344119aa85b6c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

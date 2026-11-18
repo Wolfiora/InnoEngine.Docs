@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4b660cef6077e9b05dbc849da889ac3e062eafe710808144045e762c69fe582e
 symbol: scripting:Inno.Editor.Inspection:M:InnoEditor.Inspection.InspectionDrawerAttribute.#ctor(System.Type,System.Boolean,System.Int32,System.Boolean)
 title: InspectionDrawerAttribute.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: editor-script
-reviewed: e0f5492b3a49552403a42e797c65c3a33158f520a786d884517868aa8723abdc
+sourceFingerprint: 5cc58ac94c6cbb3da0362c0362d7d6ef1fb5c1f05b89f43a3fb241e0ccfd2c5e
 apiScope: Editor
 contracts: []
 

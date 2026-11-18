@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6a1ab805e6c307b601c9a582931ec74753f4aebdd0760954cb293948cefd7ba3
 symbol: engine:Inno.Build:P:Inno.Build.PluginBuildRequest.displayName
 title: PluginBuildRequest.displayName
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: c8751ae28f61158db2df1b12c9516666ceafc2cd43bde1555e7e6399636cd00c
+sourceFingerprint: eb9be705e6950c5f3ac7de5e0babdc9097b2b45cdb31599b4c040cb98b3f67ed
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

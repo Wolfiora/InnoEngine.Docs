@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.eb7b214ac92d55d52771363fea72bc21469b3c12bdbd3d1d84e9d45dd3f2993d
 symbol: engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.AssemblyExtensions.TryGetInnoAssemblyClassification(System.Reflection.Assembly,Inno.Extensibility.Modules.AssemblyDomain@,Inno.Extensibility.Modules.AssemblyScope@)
 title: AssemblyExtensions.TryGetInnoAssemblyClassification
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Modules
 apiSurface: source-clr
-reviewed: 18ca34677ba62b4b4d5c54bdf787fa442948abc998716196adeaefca7755fcd3
+sourceFingerprint: b70470977dbcdb3ac925efcd93c1c558f1203ffbd5e1f61f14227f5fd4bd8ebf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

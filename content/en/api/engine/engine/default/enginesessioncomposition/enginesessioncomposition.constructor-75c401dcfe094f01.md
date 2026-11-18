@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.75c401dcfe094f019d214a156a80da4b3a21e0c7fe30891556b709d7ac31cee1
 symbol: engine:Inno.Engine.Default:M:Inno.Engine.Default.EngineSessionComposition.#ctor(Inno.Runtime.RuntimeSession,Inno.Adapter.IAdapterCatalog,Inno.Adapter.AdapterSelection,Inno.Adapter.Input.IInputEventSource,Inno.Assets.IAssetArtifactLookup,System.Func{Inno.Audio.AudioProjectSettings},System.Func{Inno.Storage.IApplicationStorage},Inno.Runtime.Contracts.IRuntimeSubsystemFactory)
 title: EngineSessionComposition.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Engine.Default
 apiSurface: source-clr
-reviewed: 5766b58a286326df8d9f3b27dee4226b36114c3dde1a2aba3db91704cf4261ae
+sourceFingerprint: 0c5c25f072e3a5c54c5176ff67fda737f469c2beaeee0d6f827eade1151c5f6d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fac5c439268833b7cefd8b54e8267a0222e6276b417c83b3047b057659c47867
 symbol: engine:Inno.Content:M:Inno.Content.IRuntimeContentStore.Acquire(Inno.Content.ContentKey)
 title: IRuntimeContentStore.Acquire
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Content
 apiSurface: source-clr
-reviewed: eaacf8afec2657eca7ca2fe7f8d65d76f0eb49c4fe0cb363bbde7ba987997743
+sourceFingerprint: b5132c2f2f89c593743671b2a16be384924699117c1b22d27bd9e30c0eb1549c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

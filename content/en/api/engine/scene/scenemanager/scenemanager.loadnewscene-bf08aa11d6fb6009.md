@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bf08aa11d6fb60094c1e199882059c0966b368b3e50e4103ae7ae601d82cdc2b
 symbol: engine:Inno.Scene:M:Inno.Scene.SceneManager.LoadNewScene(System.String)
 title: SceneManager.LoadNewScene
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: c37db72b9605c0db369b94b57b6564184f07fd724931e58b8164657a59bcadc9
+sourceFingerprint: 63d6b0a39ae785d1ab63485265b8ec2eb34f2afa7f1fb5690b72dfdd65cb19f2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

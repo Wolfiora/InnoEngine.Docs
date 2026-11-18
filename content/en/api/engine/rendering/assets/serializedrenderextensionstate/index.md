@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.e751fdca5945ad0c
 symbol: engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.SerializedRenderExtensionState
 title: SerializedRenderExtensionState
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: c52e371d031183b14a7026df06d9e1797c5934aac8e88e6ab4f82066262f87ef
+sourceFingerprint: 15636a42f914d3eef39415820733def0aec703f1da3e239ea4d0d3c6f7eceb74
 contracts:
 - project.inno-rendering-assets
 

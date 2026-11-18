@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.f4a5dace3737bf4c
 symbol: engine:Inno.Build:T:Inno.Build.PlayerSupportPackLease
 title: PlayerSupportPackLease
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: 1f8cdb49aa0d35c4b74a4eebbd9ecfff6c4c5d2be81f335b0996110852d56664
+sourceFingerprint: ad042bb2746085ad31d9fd1c3aa1fdc6f47e54362a1a24a922593cb717fb9be8
 contracts:
 - project.inno-build
 

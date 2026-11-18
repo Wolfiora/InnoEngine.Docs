@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a0225ec4e5b042086712e237e5aa4605398553fece93197bbb4316238e171d49
 symbol: scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasPointerController.Step(InnoEditor.Graph.GraphCanvasView,InnoEditor.Graph.GraphCanvasLayout,InnoEditor.Graph.GraphCanvasPointerInput)
 title: GraphCanvasPointerController.Step
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph.ImGui
 apiSurface: editor-script
-reviewed: 29b376011047e663c8f9911a262b7f4cf8169ef280a274ad2c109969a7a170d7
+sourceFingerprint: f98e2c4b523aeca623c2b47eaa4788bbbdab8f5746c264a3a6c7004ae7c39296
 apiScope: Editor
 contracts: []
 

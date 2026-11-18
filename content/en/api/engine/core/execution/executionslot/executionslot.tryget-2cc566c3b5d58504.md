@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2cc566c3b5d585049cdfbe1b1bb061f2574addf4885072dbe70000ef1921d6af
 symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.ExecutionSlot`1.TryGet(`0@)
 title: ExecutionSlot<TValue>.TryGet
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Execution
 apiSurface: source-clr
-reviewed: c88307e24d403e915a2635d2398cb8a79667a39f5fe13ef25331b6183946f86c
+sourceFingerprint: f067d33eeb9d849503c5ee4d2c4ce4a4dce244f20cb8a29d805d5039c108af8c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

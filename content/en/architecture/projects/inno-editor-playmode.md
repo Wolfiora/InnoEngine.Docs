@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-editor-playmode
 symbol: project:Inno.Editor.PlayMode
 title: Inno.Editor.PlayMode
 kind: project
 owners:
 - Inno.Editor.PlayMode
-reviewed: ''
+sourceFingerprint: bbbbacd3e9a532296d5c52a9c6db8eb09667bd4c5e20c923b46075f48313cbcd
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

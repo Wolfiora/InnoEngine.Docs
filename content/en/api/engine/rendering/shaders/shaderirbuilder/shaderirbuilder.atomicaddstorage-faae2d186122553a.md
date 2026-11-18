@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.faae2d186122553a5ca11b9141e1e0b650ec5be8b4de07adff06e37994bddf95
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.AtomicAddStorage(Inno.Rendering.Shaders.ShaderIrValue,Inno.Rendering.Shaders.ShaderIrValue,Inno.Rendering.Shaders.ShaderIrValue)
 title: ShaderIrBuilder.AtomicAddStorage
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 94c67fe209017296b19d9738cdb84494255784ec1c1c6e8f6889096842b9b17f
+sourceFingerprint: 2ae386255292b95efc3612c7e196c353db9feacf3d8c5bbf1fa447b7b5a87290
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

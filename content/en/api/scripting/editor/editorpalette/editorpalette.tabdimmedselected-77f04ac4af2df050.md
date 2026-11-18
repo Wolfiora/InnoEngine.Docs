@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.77f04ac4af2df0501ddbe82f1156f691cf4e94af988d20e53a1d1a4c3ee3044a
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorPalette.tabDimmedSelected
 title: EditorPalette.tabDimmedSelected
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: e2e3fdf68fc5bed53af97b8fcb9bb0a2acc0ae373c4540c07563e43e7c3cd9e5
+sourceFingerprint: 8a4847e5edae8cadeceedeeb439a8d38d680d3cb0c6128fdecc92cf404a2929c
 apiScope: Editor
 contracts: []
 

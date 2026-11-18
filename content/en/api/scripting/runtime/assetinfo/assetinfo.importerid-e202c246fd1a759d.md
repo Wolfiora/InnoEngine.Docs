@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e202c246fd1a759d6fb941534367736fc397bb46322aca0cdd63305101f8561a
 symbol: scripting:Inno.Assets:P:InnoEngine.Assets.AssetInfo.importerId
 title: AssetInfo.importerId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-reviewed: 037a01e6b51a53dc17be5d85833d11ba60eca2cf9071588c34a15479c8fe3b13
+sourceFingerprint: b68464b58e9454030c9feef724ac62d05567bda0c032b194068efa8f9cc185a9
 apiScope: Runtime
 contracts: []
 

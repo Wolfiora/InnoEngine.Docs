@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.input.runtime-script.185a761ca5affe75
 symbol: scripting:Inno.Input:T:InnoEngine.Input.Input
 title: Input
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Input
 apiSurface: editor-script
-reviewed: f625407b7f98fdb2f6646bc36b06c7762485c6b28403d647efac68531a05c508
+sourceFingerprint: 43b4a3c9ab4be10b2cd1dfe196804e1e28f1bd4b47f66c7b9088a6554260b9f7
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c34928581b1c9a78d505b7009fe2ed28a2668b65a08856f8edcbedb9907b6c21
 symbol: engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildEnvironment.ResolveManagedHost(System.String)
 title: StandardBuildEnvironment.ResolveManagedHost
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Distribution.Standard
 apiSurface: source-clr
-reviewed: 56b9741b61e919aa3014835a455dc0a57bd8383415440beeb631088f80417cef
+sourceFingerprint: cd55d6c3c8498de727131d5614c12de9e8bf6b403a8330f4daa4fc8f1935c44a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

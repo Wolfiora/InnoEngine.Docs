@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7b712bbba15175318d3c07898808d555e98c19bbfbdbd7411265f6e1dc025f49
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.GetCompactIconSize
 title: ImGuiWidget.GetCompactIconSize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 4a0cb8b22df6e1143e3e596410c6136b4c3e12c70bb57ab7577c5914e3280079
+sourceFingerprint: 040a945f9c3963b36ab22e1718c24198d106c099f5f7d7a0f7ab0919fd1f035e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

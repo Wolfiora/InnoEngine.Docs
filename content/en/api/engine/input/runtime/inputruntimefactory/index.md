@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.input.runtime.15253179baf6ab18
 symbol: engine:Inno.Input.Runtime:T:Inno.Input.Runtime.InputRuntimeFactory
 title: InputRuntimeFactory
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Input.Runtime
 apiSurface: source-clr
-reviewed: 5f33c95886369273b60fbfafc14c7f23879b280860a8ec8291f443da7ffd9397
+sourceFingerprint: 066d23cac76c0e80853511f9254e4b92682b23c75c0f8b27e6761f3d3e14cc9e
 contracts:
 - project.inno-input-runtime#frame-and-lifetime-contract
 

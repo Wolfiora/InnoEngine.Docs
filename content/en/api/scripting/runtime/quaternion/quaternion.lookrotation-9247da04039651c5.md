@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9247da04039651c502cafb1eac5f8bfb2fddf4722ef379d29299c75a70410028
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.LookRotation(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3)
 title: Quaternion.LookRotation
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: ee09d885e692f3eae6b21413160f1a1eef649231b2555ccac273167e18457f11
+sourceFingerprint: d609a771da4913707a1286e0f46c8bfd2665fef9c9723f5fcb0d787dfe7cf431
 apiScope: Runtime
 contracts: []
 

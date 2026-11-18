@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.imgui.editor-script.cc4f4726c3dc56e3
 symbol: scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiFontStyle
 title: ImGuiFontStyle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: e6274f1470116e776f4649a06501f98b5c5eaac7f9981b1976146210e72eae11
+sourceFingerprint: 0653480f8b26cf191fdeef267c443e3d5250373742ee9232ee9990915723ca51
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

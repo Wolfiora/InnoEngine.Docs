@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.adapter.platform.519d2d49ec00f982
 symbol: engine:Inno.Adapter.Platform:T:Inno.Adapter.Platform.PlatformNativeHandles
 title: PlatformNativeHandles
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Platform
 apiSurface: source-clr
-reviewed: 93d544251d77c419ce080e1fea0d5fb767b7f0a1fabfe0aa7e179f08ed5f9427
+sourceFingerprint: dca0cdb16bee525e54c9b3b37659788ef371a53dd4e2fe15ef54de1e01bb6603
 contracts:
 - project.inno-adapter-platform
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f850a72be5123f3c04a0d3f3d6448459a2a9d5beb6a9d0983bdc9e04fab9aff5
 symbol: engine:Inno.Extensibility.Modules:P:Inno.Extensibility.Modules.ModuleSourceContext.host
 title: ModuleSourceContext.host
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Modules
 apiSurface: source-clr
-reviewed: 3216fcf8ac1df9b9771b8551c33d5ff57ad663e41c9fbc4061fa7ec3023b3f2b
+sourceFingerprint: a71c6fd584655f8c1a34fbd926887f7f313b2a79e445f76d9fbf39cccf44b3ef
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

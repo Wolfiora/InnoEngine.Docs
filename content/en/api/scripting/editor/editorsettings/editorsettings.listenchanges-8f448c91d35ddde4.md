@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8f448c91d35ddde4879035ffe8c965f87012fc31a17404ae128d91934f3e8e68
 symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSettings.ListenChanges(System.Action{InnoEditor.Settings.EditorSettings})
 title: EditorSettings.ListenChanges
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Settings
 apiSurface: editor-script
-reviewed: 60f225c49b2286a9ee235589f00d5cd344e821d6b49dfdef5f9edb8f08a7d140
+sourceFingerprint: 4a047d1a2fbec44ed687e3270b9d9b8d56297c1f860394dd05f5d72f741ebec8
 apiScope: Editor
 contracts: []
 

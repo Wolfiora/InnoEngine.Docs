@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a85fdde6331574d9cfbf45e629ca4bed7e4ba11a85543d4801a05184c048e090
 symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.SerializationCaptureKeyBuilder.TryAddOwner(Inno.Core.Identity.IdentityObject,System.Nullable{System.UInt64})
 title: SerializationCaptureKeyBuilder.TryAddOwner
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: source-clr
-reviewed: c589fbadd6b151ac1dbf2eb9f1ea7c564791544e2c5eb2b5a44763d585fa8f69
+sourceFingerprint: f8820d0c34fd117235f6348816fcf49973fb9c8241e0e9a5040fe7105c5530ac
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

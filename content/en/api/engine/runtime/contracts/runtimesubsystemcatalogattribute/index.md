@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.runtime.contracts.ba3d9b59c1762da1
 symbol: engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemCatalogAttribute
 title: RuntimeSubsystemCatalogAttribute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime.Contracts
 apiSurface: source-clr
-reviewed: 0e56de8ee9c260aa5f5c1c3f2d1fe735d77e025e21232451b7764b7226a81d2b
+sourceFingerprint: b9ddbee3307c33c7efbaa0578da78300db94d9eaf3aa8e231c5818cef3188ea4
 contracts:
 - project.inno-runtime-contracts
 

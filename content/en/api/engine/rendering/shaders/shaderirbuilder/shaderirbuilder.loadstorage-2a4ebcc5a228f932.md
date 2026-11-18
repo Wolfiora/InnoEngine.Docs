@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2a4ebcc5a228f932fc32558a43387b4e6149652207d08b379712cb301815c1af
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderIrBuilder.LoadStorage(Inno.Rendering.Shaders.ShaderIrValue,Inno.Rendering.Shaders.ShaderIrValue)
 title: ShaderIrBuilder.LoadStorage
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 1b9dfd5dfe755fe129e1b487d9a1be3dd27c7be9ca00de77f1b1a8abc1082bce
+sourceFingerprint: 5cbf5c52150fa03474f533f0bf3959aad391f5830b6ad8da89ef82974f7f0aa2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

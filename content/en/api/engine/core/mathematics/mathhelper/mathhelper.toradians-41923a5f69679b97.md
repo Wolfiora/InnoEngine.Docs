@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.41923a5f69679b9740398f85bb23aed90d9df11d5584c7267a27c2763895512c
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.MathHelper.ToRadians(System.Single)
 title: MathHelper.ToRadians
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: ac6fb18f1e24381de62e61b4cc29b2ff9f7dd3666c014e94b43807c41340a226
+sourceFingerprint: 5fab2fce884b79b000f16fb2fd454afedede52a0376fd93e8a972493faea4fbb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.graphs.bfb56b4b28c64963
 symbol: engine:Inno.Core.Graphs:T:Inno.Core.Graphs.GraphPortCapacity
 title: GraphPortCapacity
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: source-clr
-reviewed: cd32eebff4f98ceb18d1ee84dd430b0e8e5d639339f2146f31e1855203a52c91
+sourceFingerprint: 6b57c13ebb42bf87517d451ec358124f127eb0314ea3d6048c8c72c702dd6bc8
 contracts:
 - project.inno-core-graphs#document-and-definition-contract
 

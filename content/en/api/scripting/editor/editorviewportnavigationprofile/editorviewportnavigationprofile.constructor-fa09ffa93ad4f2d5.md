@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fa09ffa93ad4f2d551e2f7bbfc3690ba24bbfcea75467b2e58be18c810826fb1
 symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportNavigationProfile.#ctor(InnoEditor.Rendering.EditorViewportNavigationProfileId,InnoEditor.Rendering.EditorViewportNavigationCapabilities,InnoEditor.Rendering.EditorViewportNavigationMode)
 title: EditorViewportNavigationProfile.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: 60084fe5799c82371fb9a66a1c0f51b5076f1779cd1efe8c4b4172b3f57d2d46
+sourceFingerprint: 9a29b0622947ad9d5cf6ecd3493317913c2a00bca3d0efe85f6e998c52fc43d5
 apiScope: Editor
 contracts: []
 

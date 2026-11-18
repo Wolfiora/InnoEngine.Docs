@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8b189c44fced687c1799170af1b66a8bf4d1aaf7e660eabbcb9a9b561cae47a6
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetLayout
 title: ImGui.GetLayout
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 3cdfd9e69ccd1beb8671a084a1a802f682ad907036bff63d517f412026f5e256
+sourceFingerprint: f81b290804510bbfbb3fe14f3c565d91c1ac090deb14f204694a8977270130b2
 apiScope: Editor
 contracts: []
 

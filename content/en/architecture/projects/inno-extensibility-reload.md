@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-extensibility-reload
 symbol: project:Inno.Extensibility.Reload
 title: Inno.Extensibility.Reload
 kind: project
 owners:
 - Inno.Extensibility.Reload
-reviewed: ''
+sourceFingerprint: e84524c7898d7415b7964020197cb9ac40e8c934d9904d8cce00e3d9c2125180
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

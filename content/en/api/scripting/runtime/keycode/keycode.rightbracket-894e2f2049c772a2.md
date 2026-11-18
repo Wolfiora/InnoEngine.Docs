@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.894e2f2049c772a256688db0b08ed64eec94d8ec97d783be567895a61e64b96e
 symbol: scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.RightBracket
 title: KeyCode.RightBracket
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Input
 apiSurface: editor-script
-reviewed: da43f82da98c26783cf20d238afda860e790778a7feaad93e1261d46b23c0eab
+sourceFingerprint: 7cc3e321e443f987730670917bdc82592ef3943fb4f1fac351507338878ec237
 apiScope: Runtime
 contracts: []
 

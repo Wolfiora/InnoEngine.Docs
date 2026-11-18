@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.interactions.editor-script.ba89acafc45ada60
 symbol: scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.EditorAction`2
 title: EditorAction<TTarget, TArgument>
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: e6f107461009902751d08c28e1864e93c69c42b07023908a869cf1b484bf94a2
+sourceFingerprint: 5421efb5827852bce003c27b8d3cf02cc751dad7d5e28853b6fff0355aa963df
 apiScope: Editor
 contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts

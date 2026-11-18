@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.47db80c25ce23c30476745a528cff8d95e100e7a352a984d336f82e6b43c9fb7
 symbol: engine:Inno.Rendering:P:Inno.Rendering.CompiledRenderTexture.handle
 title: CompiledRenderTexture.handle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 7bedca0fa6f8eb70de82358b06459141992f16feec4025ee718fdf38b856a009
+sourceFingerprint: 9c10b489079167000852b7c6a420edf0c45a25a503aeb6d085027d8a19a10d9b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

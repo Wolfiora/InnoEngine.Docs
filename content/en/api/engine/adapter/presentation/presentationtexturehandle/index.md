@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.adapter.presentation.948c5b8727cd8c73
 symbol: engine:Inno.Adapter.Presentation:T:Inno.Adapter.Presentation.PresentationTextureHandle
 title: PresentationTextureHandle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Presentation
 apiSurface: source-clr
-reviewed: a82446b5e7afb7273ab7d420b1290d55579b1e40ab87beefc5561aed785f6953
+sourceFingerprint: c84ce8074a6918f6b28236e74146e771e3c233d45940ae5faf6adf5ce97c9970
 contracts:
 - project.inno-adapter-presentation
 

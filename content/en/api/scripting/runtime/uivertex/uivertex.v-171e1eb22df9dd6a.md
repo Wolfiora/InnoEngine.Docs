@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.171e1eb22df9dd6affec0593603a9493a12e35d152a0ec7d2e344e36b4fbc313
 symbol: scripting:Inno.UI:P:InnoEngine.UI.UiVertex.v
 title: UiVertex.v
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 0b88294ed8faec97819640f77057b8ae3e978fc5ff9fc50fff8f3c780ad380ed
+sourceFingerprint: 3f9a8af710bf39217d2b5a3c2cf4609db32cd2415761630210e129a27e2957a5
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.io.6cedee446ec53227
 symbol: engine:Inno.Core.IO:T:Inno.Core.IO.PathBoundary
 title: PathBoundary
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: ec45dd19f55e619e7e124f4111e4094544df535e35d047c91b8e4bdc2b89b642
+sourceFingerprint: fce34b39488cc0eb7b23b2553a80ebfe2e484807e3447d789336c951a2176c47
 contracts:
 - project.inno-core-io#publication-and-ownership-contract
 

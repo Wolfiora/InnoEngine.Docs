@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b3d6da446ebafff3192e2b3d0e26fba38a6822cef7b5518f12647c7aa41fc020
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.Trend(System.String,System.ReadOnlySpan{System.Single},System.Int32)
 title: ImGuiWidget.Trend
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: e2745657f7e0d2c5b39d99344ba467fc4072f566525a811f6b0e0e540e71ca99
+sourceFingerprint: a4e83c6257483b45428752c15580127d4e2ab29761dba1a2b9c57986cb56c878
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

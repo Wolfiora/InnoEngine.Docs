@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cc57bc93ce3e79002a057337fb1153b37605b620b0817a88aa423c949775b5cd
 symbol: scripting:Inno.Input:M:InnoEngine.Input.InputSnapshot.WasMouseButtonReleased(InnoEngine.Input.MouseButton)
 title: InputSnapshot.WasMouseButtonReleased
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Input
 apiSurface: editor-script
-reviewed: 6b95b4a888413774fe55511ddc80b3695d82b79da32d38107e5e5af9b08fb882
+sourceFingerprint: 19a061e022b90aa65623525603fafbe02100da8bbec87e72665ac820d437ad42
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.23bf0c2015a28680455125635c1ce93da53dbd4ceb98d572c148b7507bb4b15c
 symbol: engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerDefinition.#ctor(Inno.Core.Settings.ProjectLocalId,Inno.Scene.Layers.GameLayer,System.String)
 title: GameLayerDefinition.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 7f226684be7972f3da77a333e35475d7b4fc53b7230e172fa3889cc5fd83081f
+sourceFingerprint: 28170085a80b58196c6eb1270fea3155d79d740bf87f2c8e18ad705a2232e711
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f577347a5478b7e466556805a4dc1a8c8af00b7f627cb69f7485efe79a4be22a
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.AtomicFile.WriteAllBytes(System.String,System.ReadOnlySpan{System.Byte},System.Boolean)
 title: AtomicFile.WriteAllBytes
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: 625ea50656df00bb2e14af651d7b12e5162912d4c256140e77e94b770e02228f
+sourceFingerprint: 83eeb9a624fd9926fd35a5eb3344b53d10d9a6e90101f4b73d2b0e5eb967617f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

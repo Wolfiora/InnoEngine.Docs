@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d0e2bd4c3ef32036b978e9c2d08104634cd4ce51bc525469b0508d6b8cd28d61
 symbol: engine:Inno.Rendering:M:Inno.Rendering.IRenderDevice.DestroyComputePipeline(Inno.Rendering.ComputePipelineHandle)
 title: IRenderDevice.DestroyComputePipeline
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: c51b5ca651638de6ae214ba7e208d37794cafffbe562e23cf8ba4019955d9b31
+sourceFingerprint: 25e881fa631d7e217c326ddae354d115112bb07b8818508460489a62b64b6658
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

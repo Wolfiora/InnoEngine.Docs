@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.text.027e94403f7bec65
 symbol: engine:Inno.Text:T:Inno.Text.TextGlyph
 title: TextGlyph
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: source-clr
-reviewed: f46ff18af03eed495b6a2214372f87e56998e444a663ed5897f4ef4723067404
+sourceFingerprint: b148578dbf4ff4a723234f2c437adf2fef12d4915073f652286c09a1235f2d3f
 contracts:
 - project.inno-text#shaping-and-glyph-contract
 

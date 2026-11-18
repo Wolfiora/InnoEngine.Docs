@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.59b9f55ba082ac9b8707f67046ba74321f8576a8e336a8aa65a0a5ac12c5d8df
 symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorModal.Prepare(Inno.Editor.Core.EditorContext,System.Numerics.Vector2)
 title: EditorModal.Prepare
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: source-clr
-reviewed: 56ef8d36a1e364d9f64642e5f93086e37ec51426e9033d1e64372e0d050e2176
+sourceFingerprint: 54359b0d8bfec39071d9f6a37ce6683e715499b8e5642991b1f870617288ef66
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

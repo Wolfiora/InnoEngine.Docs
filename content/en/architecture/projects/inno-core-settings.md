@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-core-settings
 symbol: project:Inno.Core.Settings
 title: Inno.Core.Settings
 kind: project
 owners:
 - Inno.Core.Settings
-reviewed: ''
+sourceFingerprint: 3f774d93725d6396ad56d81d1843f145e05113493286bc1644a3b84d8019c250
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

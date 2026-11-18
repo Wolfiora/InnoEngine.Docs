@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2b44786aa6c90cbcb01934b7489e0fbfb829cd0636f1557039d282c5c4e3e44b
 symbol: scripting:Inno.Core.Mathematics:P:InnoEngine.Mathematics.RectInt.min
 title: RectInt.min
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 8d8cfd852b4391fbf28e47fc5dcb3a290dcd59567cda7f2d6eae980c59b2c82c
+sourceFingerprint: 950abc9283d94daf6a56607fd7a549d90bedb495a80b197fa5b419d1b5fbf8aa
 apiScope: Runtime
 contracts: []
 

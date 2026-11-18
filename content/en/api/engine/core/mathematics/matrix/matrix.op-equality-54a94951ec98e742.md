@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.54a94951ec98e742b90857c08be58b6fedd417071e95668f9fe8947a894e8daf
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.op_Equality(Inno.Core.Mathematics.Matrix,Inno.Core.Mathematics.Matrix)
 title: Matrix.op_Equality
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 0b32b1ff87b5130babc7ba022fe9973292671ee0fa4beb35d888ff42579e20d4
+sourceFingerprint: 447851902a3e19c5309ae8a3a024f3c55b6d172a7537e109890af904bd2ddc5c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

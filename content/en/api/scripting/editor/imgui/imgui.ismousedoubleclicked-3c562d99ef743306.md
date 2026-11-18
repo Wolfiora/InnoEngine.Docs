@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3c562d99ef743306cad9d379bf42a975a4d3a85a39d33b46da76d0cf6913fc8d
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.IsMouseDoubleClicked(InnoEditor.ImGui.ImGuiMouseButton)
 title: ImGui.IsMouseDoubleClicked
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 050e7d45583acf13577e41cf7726cd2d9014fd9530ad82595458f51da2dbafe8
+sourceFingerprint: a9015392683da4ee8cf26cbfbddd3468dd8a2e3ecaccbedf0784575cbe5215d7
 apiScope: Editor
 contracts: []
 

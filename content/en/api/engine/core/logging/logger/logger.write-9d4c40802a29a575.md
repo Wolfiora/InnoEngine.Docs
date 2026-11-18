@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9d4c40802a29a575b492161f6eca01942cd638f57d557ed0ea8cbd3bd5a42417
 symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.Logger.Write(Inno.Core.Logging.LogLevel,System.String,System.Collections.Generic.IReadOnlyList{System.Object},System.String,System.Int32)
 title: Logger.Write
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-reviewed: fa3dd2e2e75909c65d7067aa313c3771ea7a09241d149e2dc2ebe5671cc82eb7
+sourceFingerprint: 1fcc4f284f0afc6c242d15f1f1b7ddc9338a87b9542c1d1164970902f1b698ec
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

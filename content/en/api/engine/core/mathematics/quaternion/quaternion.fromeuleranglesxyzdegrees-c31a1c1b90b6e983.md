@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c31a1c1b90b6e983dbf482572dadc522a4e4a2560a71541a2e8e55a1c36afa59
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Quaternion.FromEulerAnglesXYZDegrees(Inno.Core.Mathematics.Vector3)
 title: Quaternion.FromEulerAnglesXYZDegrees
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 4fd33d841ee0e24a9bbe81a5ab5d38fce4bad1f3be0eb0e31a1e679b69dbd21f
+sourceFingerprint: 0a6df0fda2b26788fe3e74b8b6e61ee6b71e4f813d8b273f4fb3cbc6963d9beb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

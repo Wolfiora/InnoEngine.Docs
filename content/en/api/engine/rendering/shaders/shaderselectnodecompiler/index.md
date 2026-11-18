@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.shaders.2470847c2b2da51b
 symbol: engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderSelectNodeCompiler
 title: ShaderSelectNodeCompiler
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 9708a49e03a58aa20f4d5de160abb033eaaf42e202270a1f0a73cc9aa7daf1c6
+sourceFingerprint: bca0c2f072d2e620512a15e8b04dfb81ab54d49a7bc040a9283c32c84d0e74ca
 contracts:
 - project.inno-rendering-shaders
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.45a602337b6e999e7f996de48e321d835da20318ff5fb96980b79f4fa0d03b7e
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorPalette.axisX
 title: EditorPalette.axisX
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 63fef299bb0ecfff193422fee832a005a2a86860a400c52bd8de6e1cbcb48c6a
+sourceFingerprint: 53ddd375adca5fde7b9e62afb0cd814f5b79138dc7805dd02933c7469ef8fba1
 apiScope: Editor
 contracts: []
 

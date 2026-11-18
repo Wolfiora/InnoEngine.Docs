@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.imgui.editor-script.a2ca5f7dd7bd26d5
 symbol: scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiSelectableFlags
 title: ImGuiSelectableFlags
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: eca535f935702c1000e735a8b86eb4cfcb43429aa3a46cf977e2e0a3ad7acfe6
+sourceFingerprint: 4d2e47418d3cce9aa569eead546168d389b1c9b6b35cdbe0be854ba4a9d4fb43
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

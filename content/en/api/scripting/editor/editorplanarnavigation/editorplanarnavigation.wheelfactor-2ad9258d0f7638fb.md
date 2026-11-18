@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2ad9258d0f7638fb1fc950d6497f1777e32a409021867bce478dfeb469b56ac9
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorPlanarNavigation.WheelFactor(System.Single,System.Single)
 title: EditorPlanarNavigation.WheelFactor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: b85824e1d7a666ae5464779dc38a3c617fd0e561121bbed364b12b6d02ef6d3a
+sourceFingerprint: ed845bb936da8ce566cd3cb67fa8f06ac480b0c245c7e4ff67a4f538cfbe108a
 apiScope: Editor
 contracts: []
 

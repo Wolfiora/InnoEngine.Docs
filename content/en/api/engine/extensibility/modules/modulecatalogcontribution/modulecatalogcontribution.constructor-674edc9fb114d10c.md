@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.674edc9fb114d10cb62023196bf87a097e3084c7231c4b985e1d87cbc256e006
 symbol: engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.ModuleCatalogContribution.#ctor(System.String,Inno.Extensibility.Modules.AssemblyDomain,Inno.Extensibility.Modules.AssemblyScope,System.Collections.Generic.IReadOnlyList{System.Reflection.Assembly},System.Collections.Generic.IReadOnlyDictionary{System.Reflection.Assembly,Inno.Extensibility.Modules.AssemblyScope},Inno.Extensibility.Modules.IModuleLifetime)
 title: ModuleCatalogContribution.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Modules
 apiSurface: source-clr
-reviewed: 1f41b3363d6944f8439ca2aca63073449c7cb0e85b2aa3093d8aeb0d538f5d2b
+sourceFingerprint: f6776e77febe1a850394709cc0b3ae4b2f8a04d7de637eec141217465363dbd2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

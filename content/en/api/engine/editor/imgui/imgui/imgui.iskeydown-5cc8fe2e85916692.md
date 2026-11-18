@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5cc8fe2e85916692120ba20ba48b8091bed1523489c70d9d73335bcdfa9d7417
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.IsKeyDown(Inno.Editor.ImGui.ImGuiKey)
 title: ImGui.IsKeyDown
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 0440772ddf2084e402b742e5dbc95f182baa54687b17b9402e02b950bd655336
+sourceFingerprint: 2d65dadb848230d10c6f305de5d73d5450a52919298726066dfe6ae2d8a0e291
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a8856621fb287488b532712baa8d1260d17251be3e3269ed676a454252f108ad
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.SectionHeader(System.String,System.String,System.Action)
 title: ImGuiWidget.SectionHeader
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 9810bcc55ad65fef9e24985ed67a286647dfa02f5a22653bda9300e1d476349f
+sourceFingerprint: 5588e81ae799ce93536a2dc4145a215eb268d222ad54bee9949b50fd038c6582
 apiScope: Editor
 contracts: []
 

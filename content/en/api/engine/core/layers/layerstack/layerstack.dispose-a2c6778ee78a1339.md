@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a2c6778ee78a1339dc5441ebc5b4a8804d99f305470cfe194d38609fa35af3c8
 symbol: engine:Inno.Core.Layers:M:Inno.Core.Layers.LayerStack.Dispose
 title: LayerStack.Dispose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Layers
 apiSurface: source-clr
-reviewed: 0909a4ef3816b0c68951ff946c7fdcee6ee5244587fe3d95fddf6ab9542e653f
+sourceFingerprint: 21f1a85431a70e589c4889f6ab4222945de4cd5bb88f96de9988aebd5cbef0e8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

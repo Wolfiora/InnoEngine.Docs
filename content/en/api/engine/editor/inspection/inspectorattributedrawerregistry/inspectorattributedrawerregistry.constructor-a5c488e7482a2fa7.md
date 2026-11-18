@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a5c488e7482a2fa7f44aa1036275c153f9c2cfcb75ecf89f517ef79a62ee66e9
 symbol: engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.InspectorAttributeDrawerRegistry.#ctor(Inno.Editor.Interactions.EditorInteractions,Inno.Extensibility.Types.TypeCatalog,Inno.Core.Serialization.SerializationRegistry,System.Collections.Generic.IEnumerable{System.Object})
 title: InspectorAttributeDrawerRegistry.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: source-clr
-reviewed: 820c15fcd8bc32529ed7bf585f7970f22917a14c7b0aa225d876c28170ab268e
+sourceFingerprint: fc12c356f128c81ee36b7b2fb3b24156204fc9e29cedda7c5c6a8cb0dc109bdb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

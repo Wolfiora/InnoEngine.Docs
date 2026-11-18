@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f317ef4cf7f8c4daa52a47c4482e2cf2693355f36ea33ed7c3ca041ecc14880e
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.GetLabelChipSize(System.String)
 title: ImGuiWidget.GetLabelChipSize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: ef69f26adb0e912563cab9d6c276afe3da3804d0096e882ea9de01d34186559e
+sourceFingerprint: 1b4cedff14fcce54ef0041af1261ac7f802ca348cc92cd762551784359bfdde7
 apiScope: Editor
 contracts: []
 

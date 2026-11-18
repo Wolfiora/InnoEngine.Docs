@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5f429725bcd29c8b3c53b7e024e1d3b35d83b7059bcee8bf0c790174dcc3fa4a
 symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.RetirementBarrier.TryComplete(System.Action)
 title: RetirementBarrier.TryComplete
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Execution
 apiSurface: source-clr
-reviewed: e579fa96cad7febff5467fe41d699be4ac32a81b49cdbf6649ae0fb330e457c0
+sourceFingerprint: dcf63829fe7d6d2e4f27eeff9050e59dab45a8fe8d8e2afb05ed760ff509ec18
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

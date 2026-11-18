@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3895b93e91f149f18ba7a6fe52307025bd5029da40d9975d91ec4f767558b60f
 symbol: engine:Inno.Audio:M:Inno.Audio.AudioDevice.DeviceHandleIdentity.#ctor(System.UInt64,System.UInt32)
 title: AudioDevice.DeviceHandleIdentity.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 2ef79b3b2dd197e3990f62bf96a534f473890005fbfd2629fb590a62dbf77497
+sourceFingerprint: 795182e3d27153c0e5805550e9a8b5294cac2457194d8b4505feb3aa8ef2f75a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.735d674aee2d56a2aedc85ca916cd9021cf3e1300fbdcdcfe13ce2ab01670079
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector4.op_Implicit(InnoEngine.Mathematics.Vector4)~System.Numerics.Vector4
 title: Vector4.op_Implicit
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 209110baecd2c43a28cf1814ee44d49f18763924f8be8cfba6c4fca14071b810
+sourceFingerprint: 6e9a37b916a97753afc33d27438b9e646e2aa0392d7c5fe99a90e2d65ed46338
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b590b02ad680f02df7ab11e8d99a43ff1cc236703ebcf2e48c66c2515a8682ee
 symbol: engine:Inno.Extensibility.Types:P:Inno.Extensibility.Types.TypeCacheBuildException.loaderExceptions
 title: TypeCacheBuildException.loaderExceptions
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-reviewed: 3605a3ca949dc9608684bf8ae67fa5369be813882896a589cdf01443c33b02b3
+sourceFingerprint: 6dece5cdd47a82401796e3d1b36ffdd294003b2d825a9c3c23dc1aa50068c13f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

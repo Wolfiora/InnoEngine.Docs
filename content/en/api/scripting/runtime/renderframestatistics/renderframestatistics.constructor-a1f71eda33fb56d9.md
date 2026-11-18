@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a1f71eda33fb56d9115497ed0ea00b8f96702647db718cce4ee9db411b146c66
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderFrameStatistics.#ctor(System.UInt64,System.Int32,System.Int32,System.Int32,System.Int32,System.Nullable{InnoEngine.Rendering.RenderDeviceAllocationCounters},System.Int32)
 title: RenderFrameStatistics.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 4e9d530e9a98f480d213b17714034c533bb633878678fb59cc3eb6b36ba6c832
+sourceFingerprint: 9a142fe79bdc182dde096fdc3e83a93bfef41bb2bdcf53145f1813e95276421f
 apiScope: Runtime
 contracts: []
 

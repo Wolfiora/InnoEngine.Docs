@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b17eee1ddcffd3d5fc80e3903d80eb32d271696f51a9ef91af3e07c47c7e80a4
 symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.LogRouter.Dispatch(Inno.Core.Logging.LogEntry)
 title: LogRouter.Dispatch
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-reviewed: b3b4b9a8711183b6ee09a8480a09bc5c410e21589f20224cc5e5405dccc85347
+sourceFingerprint: 74f15ed3cc4e367ecc112bbf814c90112178f0444af56ebe861152795ae07a0a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8f20c615c9d61e18663ecc3c15aecc5ac6d551042c3408b0b1e729b9d18bb61c
 symbol: engine:Inno.Build:M:Inno.Build.BuildPipeline.#ctor(Inno.Assets.Pipeline.AssetPipeline,Inno.Plugins.Authoring.PluginEnvironment,Inno.Core.Settings.ProjectSettingsStore,Inno.Core.Serialization.SerializationRegistry,Inno.Extensibility.Reload.GenerationCoordinator,Inno.Scripting.Compiler.ScriptCompiler,System.String,System.Collections.Generic.IEnumerable{Inno.Build.GameBuildTargetBinding},Inno.Build.Managed.ManagedDeploymentCatalog,Inno.Build.IPlayerSupportPackProvisioner)
 title: BuildPipeline.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: 3ff8bf5e8cb8a2fc2d9f3a116a3b646e631298de94970cf2d5a8ce8903c387ee
+sourceFingerprint: f892dfa604076354d07e8f515189f83c11fe3c64dffd6bf521ddeb8f64db97b9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

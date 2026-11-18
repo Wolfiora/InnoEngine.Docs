@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.883da6e99b3ca42139fabe77db1ad62c5dfd585f67caaf58ba6b82da7d2a6aef
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRequestProviderContext.#ctor(Inno.Rendering.Runtime.IRenderRequestSink,Inno.References.ContentReadScope,Inno.Rendering.GraphicsCapabilities,System.Nullable{Inno.Rendering.RenderPresentationSize},System.Nullable{Inno.Rendering.RenderViewport},System.UInt64,System.Single,Inno.Rendering.Runtime.IViewContentCollector,Inno.Rendering.Runtime.RenderOutputInput)
 title: RenderRequestProviderContext.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: fe20d892cccd1f4ed52b2523069237819bae0c793ec2043fd930adb86cfdc135
+sourceFingerprint: d912ae7528376534681e2f602b921e15932e96181347898676308de6cf9d65ca
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

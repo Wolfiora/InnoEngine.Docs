@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bb03ae349db4482c8ead01243276d6d4586435454fc15a5887e3fb25eb2c95a4
 symbol: scripting:Inno.Editor.Shaders.ImGui:P:InnoEditor.Shaders.ShaderNodeDrawerAttribute.definitionId
 title: ShaderNodeDrawerAttribute.definitionId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders.ImGui
 apiSurface: editor-script
-reviewed: ea5c42396a3120376cc9e2c1c687b59b5b0f72079e217bf4ee820851bdfa1a6c
+sourceFingerprint: c31ba98f9ae84a72ffa6d6e049e165002cf3e6d707d9ef15116f3e955a0c4040
 apiScope: Editor
 contracts: []
 

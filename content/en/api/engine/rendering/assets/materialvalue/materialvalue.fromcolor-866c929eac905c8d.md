@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.866c929eac905c8d045bac592b4bea8da7b6c554649835cf300168980487dfb7
 symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.MaterialValue.FromColor(Inno.Core.Mathematics.Color)
 title: MaterialValue.FromColor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: 45873bebdc35984d9c440e41bf4f8148d777eb904a585b65451ea901fcf83738
+sourceFingerprint: 6056d060398dcf5bab252f5897618b10af4e498c2049d92aa479534ef78abf7c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

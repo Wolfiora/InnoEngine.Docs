@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1fcfa13933ba43f83204d1c94cccd9349c65020af53657ea3b8c1207e4aa2341
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.GetGlyphVisualBounds(System.Single,System.String)
 title: ImGuiWidget.GetGlyphVisualBounds
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 24a5d81e9182d8d7bcf0fec9492188cdba67fb356d92f4338e953491792e3320
+sourceFingerprint: 3f799f1ce27a5044698e653fd5d7944df52b23289d09d7b1d4b4dac28e9107de
 apiScope: Editor
 contracts: []
 

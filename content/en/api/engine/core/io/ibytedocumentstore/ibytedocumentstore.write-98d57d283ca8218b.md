@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.98d57d283ca8218b21886bc1135fcfe1e3066f32d5ed0f0d1d92258f9c5a891f
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.IByteDocumentStore.Write(System.ReadOnlySpan{System.Byte})
 title: IByteDocumentStore.Write
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: 2b3bddb316a3ac8572cbdc29f92e43fbd722f51bfdbcfc98a82c049fb342efd3
+sourceFingerprint: 0272d02b9ced5570c1e4ce3d26f42ab608aabf0adbde4eb65e4c7a760385554b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4be0aa105ae614cbe4e06300736f714563de1cc21e550e471e403cb064056595
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingCompilation.VerifyInputs(System.Func{System.String,System.String},System.Threading.CancellationToken)
 title: NativeBindingCompilation.VerifyInputs
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 26d854d6c2ebb49a7da6b8bfef69412ce73675c7c0b2a24f41cc23907596caae
+sourceFingerprint: 136342edea344aa2b13c35c97e81771e0c84a55f1fcf58555f6072a404b429c8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

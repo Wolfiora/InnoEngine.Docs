@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.312db7f244039a3e243d151d42b987a9521a304b86bb783ddd10d1db9d83f03d
 symbol: engine:Inno.Runtime:M:Inno.Runtime.StaticAssemblyCatalogSource.GetAssemblies
 title: StaticAssemblyCatalogSource.GetAssemblies
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: 72fdb6295dcbbc8d14a60ac6b898dc9b2a912892a03f631fba3c1120babf1fb6
+sourceFingerprint: cc7926f47ff5a8cff27f5ac1fcd4c2e8e99d12eec58554bef32058fd655a8a74
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

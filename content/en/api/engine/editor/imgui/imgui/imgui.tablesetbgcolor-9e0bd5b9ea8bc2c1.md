@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9e0bd5b9ea8bc2c134373717fbac114fe80bbcbbc0c20342895a0a2db4365db4
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.TableSetBgColor(Inno.Editor.ImGui.ImGuiTableBgTarget,System.UInt32,System.Int32)
 title: ImGui.TableSetBgColor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 48ce79741f8c4fbe72454fc46e2b64efc579756ba3c8ea7bb2ba12818fc7c232
+sourceFingerprint: 2c2a16f1653f1c07b8c77154d26e0699ad3483aeb13c93ee2415aec39e224d18
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

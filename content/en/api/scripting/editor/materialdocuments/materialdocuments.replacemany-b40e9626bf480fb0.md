@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b40e9626bf480fb09681c4a72b9ecc09cc122fdebfde1ce1767a241dd59d36c9
 symbol: scripting:Inno.Editor.Shaders:M:InnoEditor.Shaders.MaterialDocuments.ReplaceMany(System.Collections.Generic.IReadOnlyDictionary{System.Guid,InnoEngine.Rendering.MaterialAsset},System.String)
 title: MaterialDocuments.ReplaceMany
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders
 apiSurface: editor-script
-reviewed: fb0c05002276ca070b9f54d38089574b8ba447ac9446ed246562ab3f9d73b3ad
+sourceFingerprint: 992f4d8dfe611255976cbfffdf5be295bf1eec8a587ff973ed623ea7408f7826
 apiScope: Editor
 contracts: []
 

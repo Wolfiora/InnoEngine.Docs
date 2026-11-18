@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bf36bbc4191e210e4d9963fb7133a4410f0382fbbc8ba4d97e181898c02c8932
 symbol: engine:Inno.Core.IO:P:Inno.Core.IO.OwnedReadStream.Position
 title: OwnedReadStream.Position
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: 3f72cc017c19979f71616f605234b5bbfab6c14ff5e2a22ea1423b075922a38a
+sourceFingerprint: 3f72cc017c19979f71616f605234b5bbfab6c14ff5e2a22ea1423b075922a38a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

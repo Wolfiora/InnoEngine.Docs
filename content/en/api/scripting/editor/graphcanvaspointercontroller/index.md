@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.graph.imgui.editor-script.e3fe67cc8287fec2
 symbol: scripting:Inno.Editor.Graph.ImGui:T:InnoEditor.Graph.GraphCanvasPointerController
 title: GraphCanvasPointerController
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph.ImGui
 apiSurface: editor-script
-reviewed: 2e6ff91748dd83c794766a00366dab37ddd393cc534e97ab46025a59f83e7d7f
+sourceFingerprint: cd494dcad37000db026964ac5109d29cba671cb2368951dfabae008df400dd1b
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.635911515e8e393170a767b073c5781b94812a4f5c2e8e70d87c7e8e18de16c5
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.SceneManager.FixedUpdate(System.Single)
 title: SceneManager.FixedUpdate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 77cf7fded63e8a2dfdfc699111e8511ec2db031eaad5d14e0d702a442eb3a859
+sourceFingerprint: 639714b48065cc12b48dc7c0a1e46fbe8ab33967a639d13c6d84afc9f42b8a40
 apiScope: Runtime
 contracts: []
 

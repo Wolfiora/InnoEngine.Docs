@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.18e47395c8791791f7b5eb3c1953090e5c1a4b1161fa98e846c272cc54c02bc0
 symbol: engine:Inno.Text:F:Inno.Text.TextDirection.LeftToRight
 title: TextDirection.LeftToRight
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: source-clr
-reviewed: 29c63a808f1ba5fe9b6415567d4820fa09f5b54637e5b3b53e0e5e0f9bd39f7d
+sourceFingerprint: 7d6e67a552382f21140a1325c34b818fd5661529554eb80b7057bf504d505788
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

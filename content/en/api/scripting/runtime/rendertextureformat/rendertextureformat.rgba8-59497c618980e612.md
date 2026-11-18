@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.59497c618980e6127f25e125b810e8fbf259f2212db5172e1ef4ce135f00f1e4
 symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderTextureFormat.RGBA8
 title: RenderTextureFormat.RGBA8
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 5b8e6a1747eb7fa4090d595b6216bd5fd87be7c41d80d5721cf152e9ae330a89
+sourceFingerprint: a47c575ec7ab445f9726550d9bc92cd4181b24d2599c7a511e3752f4b027428e
 apiScope: Runtime
 contracts: []
 

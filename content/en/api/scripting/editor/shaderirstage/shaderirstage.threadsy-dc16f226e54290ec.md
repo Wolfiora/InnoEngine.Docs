@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dc16f226e54290ec15121e6c526175a9fdabcd9fd80cf3f5083f4031da63abf5
 symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderIrStage.threadsY
 title: ShaderIrStage.threadsY
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: 7b111f455c2b427cc3a99a0255521643211f209870b746e42b7926f836c9f26a
+sourceFingerprint: 1b06099cb87f229fa9de85044eb3e9ca741bbb260732290fe462e7f33046c42e
 apiScope: Editor
 contracts: []
 

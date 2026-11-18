@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b30b35932215cbebadba9d599b9a3fa6f90cf2a34479b6a58f6f275d856e7173
 symbol: engine:Inno.Audio:M:Inno.Audio.AudioClipDescriptor.#ctor(Inno.Audio.AudioCodecId,Inno.Audio.AudioClipLoadMode,System.Int32,System.Int32,System.Int64,System.Int64)
 title: AudioClipDescriptor.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: ccf20ac28064cbd9c75121ddfc1e6e43d951bc055c276927c77630eeeb7cf6c1
+sourceFingerprint: 3f7ec06e0e7248230945182ca2edac2123f872f9c7bdde18bf36ef458e1fed9e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

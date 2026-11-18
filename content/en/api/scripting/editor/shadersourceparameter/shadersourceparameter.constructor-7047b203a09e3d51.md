@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7047b203a09e3d51c02203bdcbad5f4c97cf526056319c471f10341f990653a6
 symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceParameter.#ctor(System.String,InnoEditor.Rendering.Shaders.ShaderSourceType,InnoEditor.Rendering.Shaders.ShaderSourceParameterDirection)
 title: ShaderSourceParameter.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: 3cec1183d863c0b4e94484c9851ed95b7243b09d5b5e081e8ae44f76c6fc947d
+sourceFingerprint: 8440e49f4d9c0daa8af381b47a2b0b196a4bf839cb6f8ada7013eaf04dfecf28
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f7731a76238b6adbe56e8ca6835883d6cb69a0f397d82a3cc33c9e8e463e226f
 symbol: scripting:Inno.UI:M:InnoEngine.UI.UI.CloseDocument(InnoEngine.UI.UiContextHandle,InnoEngine.UI.UiDocumentHandle)
 title: UI.CloseDocument
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: b532cf4adb42cd095a82fab99efa8fd8659b52b5b525cae613f5a2faa6f80c95
+sourceFingerprint: a65171f408cf6467199c8dc083bf90855466604f4359b34a55cd7ba3a4359866
 apiScope: Runtime
 contracts: []
 

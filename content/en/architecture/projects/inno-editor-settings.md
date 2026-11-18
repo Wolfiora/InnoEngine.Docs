@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: api.projects.inno-editor-settings
 symbol: project:Inno.Editor.Settings
 title: Inno.Editor.Settings
 kind: project
 owners:
 - Inno.Editor.Settings
-reviewed: ''
+sourceFingerprint: 90eab9c069068ddf36ecc463e3b83f0ada3d12ea7dddc492269df024751738c1
 contracts:
 - architecture.editor-generations
 - architecture.ownership

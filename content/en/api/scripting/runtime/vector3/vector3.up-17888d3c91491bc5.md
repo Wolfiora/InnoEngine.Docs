@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.17888d3c91491bc5e64d50a74980d22d03e3877957a72ff01763c1559d10073e
 symbol: scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Vector3.UP
 title: Vector3.UP
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 322a3094c4c0a47e99918d166d090624078cc57f69b8ed226ceb4759e12f927a
+sourceFingerprint: b1a0584f8a2b353110e69063d4069175c18358f6b3e0f2305599abc9fa0973bc
 apiScope: Runtime
 contracts: []
 

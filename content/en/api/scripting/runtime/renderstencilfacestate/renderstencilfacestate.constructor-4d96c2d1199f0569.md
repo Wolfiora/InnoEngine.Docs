@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4d96c2d1199f0569df0ab8e07e870565025218baba10467395952d027f83055d
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderStencilFaceState.#ctor(InnoEngine.Rendering.RenderStencilCompare,InnoEngine.Rendering.RenderStencilOperation,InnoEngine.Rendering.RenderStencilOperation,InnoEngine.Rendering.RenderStencilOperation)
 title: RenderStencilFaceState.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: ec3b1583212262c3694be542257cdb5bc91be54b43d46f89617c9f69cda4b598
+sourceFingerprint: db98e22bc77ae8092ed728a642895aeb858a5c50e06c6f47ed5f20384b724978
 apiScope: Runtime
 contracts: []
 

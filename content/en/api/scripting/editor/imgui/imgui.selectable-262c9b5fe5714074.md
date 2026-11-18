@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.262c9b5fe5714074b680b384087ac8b0cba6653d40e636ef1a4046e21dd48823
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.Selectable(System.String,System.Boolean,InnoEditor.ImGui.ImGuiSelectableFlags,System.Numerics.Vector2)
 title: ImGui.Selectable
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: dedc4f1db173e9bd20d98928297013af0e90e3a4d9db5a51682d80d970b2535c
+sourceFingerprint: 7304b3bc43f0f1fffb8d4b03dbe1bf0a3eb017934aa5dfa458808ecd6530b563
 apiScope: Editor
 contracts: []
 

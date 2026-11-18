@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.885bf553da016c1f896f89223f37695160e12b122ecc119c565b20e0bfd73717
 symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderSourceInclude.Equals(System.Object)
 title: ShaderSourceInclude.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: e6d1a89e6ef05f84717be9727c913ec1d0d975b097af54aeddc1dde0f56e8d70
+sourceFingerprint: e6d1a89e6ef05f84717be9727c913ec1d0d975b097af54aeddc1dde0f56e8d70
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6a4022354533862553d26c75da01ab6942611a4e19a0ad31d79ceaa553dda750
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.ConstrainedContent(System.String,System.Action,System.Boolean)
 title: ImGuiWidget.ConstrainedContent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: b9c999f80d6ba808b3fa0d59bfc468bf786c3f32a9ff73109a8e8445424bbe43
+sourceFingerprint: 98995a72b81a07a4624e3726373860d48884212eee484b789de1a2e6c079feff
 apiScope: Editor
 contracts: []
 

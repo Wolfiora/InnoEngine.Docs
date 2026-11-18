@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0afd1bd9c759e30651675c6d2053dde3bfcf04b69264d275012225607a7b3feb
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.SetScissor(System.Int32,System.Int32,System.Int32,System.Int32)
 title: RenderCommandEncoder.SetScissor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: f4cf4762c377eea431f0182fbf6ef865fac8c0fd3684d43c516c55015710fac3
+sourceFingerprint: e0f416a288b5304de313b65662874574cab20477f14ff8a85f54801121d570b9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

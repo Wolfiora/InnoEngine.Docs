@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9673bd12fa525e47b15a6e3f2b8f5d39d81e0ecec2ba76f1809176041efc46cf
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiIcon.RupiahSign
 title: ImGuiIcon.RupiahSign
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 35a10eb23328312697ed4e974548f0e3af78a4af3909ed7ff871d298606a202c
+sourceFingerprint: 9883bbe9bb7b5c4e286274a080f09275e0baf8e83b44a6bb135dffeb342760d4
 apiScope: Editor
 contracts: []
 

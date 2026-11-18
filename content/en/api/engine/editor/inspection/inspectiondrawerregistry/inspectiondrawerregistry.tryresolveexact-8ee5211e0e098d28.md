@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8ee5211e0e098d28c38b0a0e32e60edaaeef891bd0c494941d45a01dd1b16869
 symbol: engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.InspectionDrawerRegistry.TryResolveExact(Inno.Editor.Core.EditorContext,System.Object,Inno.Editor.Inspection.SerializedPropertyRenderer,Inno.Editor.Inspection.IInspectionDrawer@,Inno.Editor.Inspection.InspectionDrawContext@)
 title: InspectionDrawerRegistry.TryResolveExact
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: source-clr
-reviewed: b10850a1d0fd4f80707a4811cbbccbfcc035dd334d189c04ce5e032445f7e48b
+sourceFingerprint: 8e77bc5f7a04bb2d922e92b96dd468034c5b1265b74f152b36be5ea57e65fad1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

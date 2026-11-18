@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.animation.runtime-script.0b35559fba13b81c
 symbol: scripting:Inno.Animation:T:InnoEngine.Animation.AnimationSample
 title: AnimationSample
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-reviewed: 8d410c44c28b0509669de461e3613a59ec7c41a42e6a896250c43704d3c28b4e
+sourceFingerprint: f4ed032c0d8840ac5c94b0c3fdf4530fb10362e930428b0cf5d19036b0bde0ff
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

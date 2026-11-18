@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b8b0031cfcabaa10ec20a169f242b06c40feee13b3d43630ac30946b35754cc8
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Color.op_Multiply(InnoEngine.Mathematics.Color,System.Single)
 title: Color.op_Multiply
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 4fccac0b65cc2ee58d4610708faf437b5745fddb91ac6a8552cd3d72e30f4b07
+sourceFingerprint: 72d8a9b2af9c9181a4410dcc30a73646509b35ba5a86331b903af0fdaaf8b920
 apiScope: Runtime
 contracts: []
 

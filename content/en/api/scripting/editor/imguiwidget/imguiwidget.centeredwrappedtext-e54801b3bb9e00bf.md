@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e54801b3bb9e00bfbe570b6c07a8c83dec969d171d82c07860dd72c5db10a604
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.CenteredWrappedText(System.String,System.Numerics.Vector2,System.Numerics.Vector2)
 title: ImGuiWidget.CenteredWrappedText
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 40eac94aa090461ea573226a522a33779cdd409e9c286b0d535e8f925199fff5
+sourceFingerprint: cf027c56461a34dda044bb8faf94fab727c084cde1cfc6d6138a4e7c3bae3c08
 apiScope: Editor
 contracts: []
 

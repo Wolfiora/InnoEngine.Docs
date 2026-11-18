@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-build-taskhosting
 symbol: project:Inno.Build.TaskHosting
 title: Inno.Build.TaskHosting
 kind: project
 owners:
 - Inno.Build.TaskHosting
-reviewed: ''
+sourceFingerprint: 64f9c6e5a60f3013cc547c1a31dca55da20fc17b2fa02a383a40570d875d58d7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

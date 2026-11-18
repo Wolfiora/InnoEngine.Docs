@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bb2b39b151cb598e1bfd6883a193f618f353e8e0fde46ac3383d32cac97c3eef
 symbol: scripting:Inno.Rendering.Runtime:P:InnoEngine.Rendering.RenderView.projectionMatrix
 title: RenderView.projectionMatrix
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 9aecdc094328e336715258c0a374a38df3a3b7144d6502f44334716159ec20e4
+sourceFingerprint: c46429632526e353457dcf2de0510571749988aed28c6a8be27b497c839c61c6
 apiScope: Runtime
 contracts: []
 

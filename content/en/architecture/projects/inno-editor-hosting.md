@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-editor-hosting
 symbol: project:Inno.Editor.Hosting
 title: Inno.Editor.Hosting
 kind: project
 owners:
 - Inno.Editor.Hosting
-reviewed: ''
+sourceFingerprint: b59be0636edb1fecbf3929262e38725cc2d93d4c07d4f14d50ec0ebf9238689b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

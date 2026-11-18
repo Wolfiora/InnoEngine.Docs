@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.a6c18cb2240c5fa7
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.RenderBufferUploadDescriptor
 title: RenderBufferUploadDescriptor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 8a707f20e69bf1705f2a54f478c3bc1c3291385795247f6cf8d953f95c91a020
+sourceFingerprint: 592960fd238c6cb1ef29d3f35fb639a4796a335e9f11bd51c0ca99b847d3b18a
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

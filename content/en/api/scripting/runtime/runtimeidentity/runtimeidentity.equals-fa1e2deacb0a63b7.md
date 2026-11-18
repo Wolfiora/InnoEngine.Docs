@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fa1e2deacb0a63b716bfc14fb39b9d2ec20d4407f1e2a350ba736736d8a6a943
 symbol: scripting:Inno.Core.Identity:M:InnoEngine.Core.RuntimeIdentity.Equals(System.Object)
 title: RuntimeIdentity.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Identity
 apiSurface: editor-script
-reviewed: cdd60a52a645d17032704c144759f497b42e32f1f22edbcc14c679961d267dee
+sourceFingerprint: dac4f6ef3e61461491da265b5fc05d18208d56713404f56bba65f6a65cea7297
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d207ec4c14e6bb2372d46a58506213468060cdf6c6369c53b8b96e110c4e25b3
 symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.ChangeHierarchy(Inno.Scene.GameObject,System.Action{Inno.Editor.Scene.SceneHierarchyEdit},System.String,System.Collections.Generic.IReadOnlyCollection{Inno.Scene.GameObject})
 title: SceneEdits.ChangeHierarchy
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: source-clr
-reviewed: 8a8a236db9dc6c721891737726a633d861dfeae1fb5275c8cd0a2a5816be23d1
+sourceFingerprint: dd578a2c12c0124c302eb56bc49ac403f084035af8aabbc710eccad96da348eb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

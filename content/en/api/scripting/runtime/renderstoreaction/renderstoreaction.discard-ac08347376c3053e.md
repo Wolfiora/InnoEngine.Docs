@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ac08347376c3053e730a778b6d3f1b3485c27abad9974e1848768a160ca0deb3
 symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderStoreAction.Discard
 title: RenderStoreAction.Discard
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 7931073450ed610b313100853e5940e8f00c60153a1d3854eb2c6b93e3a9f1af
+sourceFingerprint: 1c8d8a85305c8766e0e9e0e643044c841f9037c1bb545616778a8144033f020d
 apiScope: Runtime
 contracts: []
 

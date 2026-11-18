@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3cf37a11c5989d9df2f3bbf1f2022c9cf4196a20fafdb5b961b3041145c98c84
 symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportContributor.DrawToolbar(InnoEditor.Rendering.EditorViewportContext)
 title: EditorViewportContributor.DrawToolbar
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: 2b72af3e0a08831a673d9e0e3a9c3957a9b1ce56db7fda02c45304a6d8e28c55
+sourceFingerprint: 1cb046a90fd69e8b49ae0267891f27ca5ff81b49d9d54122b421089fb5b9a9dc
 apiScope: Editor
 contracts: []
 

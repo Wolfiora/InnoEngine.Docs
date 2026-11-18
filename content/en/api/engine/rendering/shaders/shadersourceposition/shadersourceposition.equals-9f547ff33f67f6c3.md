@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9f547ff33f67f6c3f0ce3923e102a2b595b828482e1b6787ece27c9eb49e0043
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourcePosition.Equals(System.Object)
 title: ShaderSourcePosition.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: bb090f7a542d537a5856d5c9ff97969abb3b4f7a7a0a71e8eba0f83e2e2f76e7
+sourceFingerprint: bb090f7a542d537a5856d5c9ff97969abb3b4f7a7a0a71e8eba0f83e2e2f76e7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

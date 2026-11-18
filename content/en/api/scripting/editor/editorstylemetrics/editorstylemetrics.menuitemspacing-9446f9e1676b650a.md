@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9446f9e1676b650a97848791bf373ae8ab2321d0c799774d825b8be813beedf4
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorStyleMetrics.menuItemSpacing
 title: EditorStyleMetrics.menuItemSpacing
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: ad2e14d83f894ff3d85f1271acdd7c89431e5de1ff2117ce8328474d4f6367b2
+sourceFingerprint: 77c502735f258d662e495eab675f0277216e220761cc5f50bd5235d1d94479af
 apiScope: Editor
 contracts: []
 

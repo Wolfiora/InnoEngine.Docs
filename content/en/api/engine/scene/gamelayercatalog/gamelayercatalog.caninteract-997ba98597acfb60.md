@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.997ba98597acfb60f5d906e195731af30a3baca72cc16c7f0df0667d00731e4a
 symbol: engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerCatalog.CanInteract(Inno.Scene.Layers.GameLayer,Inno.Scene.Layers.GameLayer)
 title: GameLayerCatalog.CanInteract
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 303d7181ce47dc7669bdce03574957a8db20bf3b5aa01d727b89bf4e2993917b
+sourceFingerprint: 2afcbd789cd41a04462f6e65108036dcdb3fec621d36b51b72e7bd70c467b631
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

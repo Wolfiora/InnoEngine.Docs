@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5bc45967fad845878fa161dd278c41a5b86e35ede99d50b4438f776332d9d328
 symbol: scripting:Inno.Animation:M:InnoEngine.Animation.AnimationPlaybackHandle.Equals(InnoEngine.Animation.AnimationPlaybackHandle)
 title: AnimationPlaybackHandle.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-reviewed: 3389dbf07427ec977975fb7bc1912cface4741781ce7d2f606ea9159572421c8
+sourceFingerprint: 3389dbf07427ec977975fb7bc1912cface4741781ce7d2f606ea9159572421c8
 apiScope: Runtime
 contracts: []
 

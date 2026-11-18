@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f92b6535e542b8288e504ce8d257a38db8cafb09d3bfea2dcfad951a8043ad75
 symbol: engine:Inno.Plugins:M:Inno.Plugins.PluginManifest.Validate
 title: PluginManifest.Validate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Plugins
 apiSurface: source-clr
-reviewed: bab3e939903c2d71b2897d2cc550fdf4ab04bc34e50a133ed63df6362092acfe
+sourceFingerprint: cdcb1ff7018b8cbecbeb4e04fe974e95908a3ea2938784926a2ad6f686986158
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6a55f2a3439d0d177102993045e4e05fbea3cb7f31bfd10646a7058f45ec87fe
 symbol: engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphNodeDefinition.#ctor(System.String,System.String,System.String)
 title: GraphNodeDefinition.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: source-clr
-reviewed: 2646cd3545099918724122bb41979195ba298850fcbb799192c11f99339aca5e
+sourceFingerprint: e4500aa9060e9d7d04e2a05c28c450dcb6aad8ce512e5d851248ff7b4dc3f61e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

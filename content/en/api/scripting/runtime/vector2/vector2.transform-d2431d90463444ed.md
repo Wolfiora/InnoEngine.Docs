@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d2431d90463444edc0921791b3ec64056fb6e0665745f11b59f6a1d1398c5a47
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector2.Transform(InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Quaternion)
 title: Vector2.Transform
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 5bc9dc20586e2e77ef7f2044bdd932f93cb97ff633ddc4cb206da77b7c3f177d
+sourceFingerprint: acc515bf047b31f4737ce6a6e215eba494b9133d7dbc49c3c1e1a46e33fb23b0
 apiScope: Runtime
 contracts: []
 

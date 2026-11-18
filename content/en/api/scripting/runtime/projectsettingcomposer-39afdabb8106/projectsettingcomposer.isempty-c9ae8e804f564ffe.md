@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c9ae8e804f564ffef60e47b327e20e51fd534ccee718eb9ba61d349815ff29d4
 symbol: scripting:Inno.Core.Settings:M:InnoEngine.Settings.ProjectSettingComposer`2.IsEmpty(`1)
 title: ProjectSettingComposer<TSetting, TContribution>.IsEmpty
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: editor-script
-reviewed: c4997b147352c70e13223f62802d198d3ef7dff7b09f3acb715b886eba5f5759
+sourceFingerprint: 1ada1cc0782e4ed78be0c157abe20d79400e651156f3c26a0f8f13fd43f6347b
 apiScope: Runtime
 contracts: []
 

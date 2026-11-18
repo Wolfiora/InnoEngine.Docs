@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.54c92d16b165f43c0d68024f0ef7da23e253e7484c12801c1b8f0628bdb1d422
 symbol: engine:Inno.Animation.Runtime:M:Inno.Animation.Runtime.AnimationRuntime.#ctor(Inno.Core.Events.EventDispatcher,Inno.Animation.IAnimationBindingSink,System.Int32)
 title: AnimationRuntime.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation.Runtime
 apiSurface: source-clr
-reviewed: 42662ad2084c35d1cdad97eaf8ca18b54d37d099958aaf32359f629638a8afbd
+sourceFingerprint: 3923afea88a0a5a4b896091d9e617c1edadb4eac94f944f5cec963036bf53691
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

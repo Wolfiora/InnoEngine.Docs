@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.settings.68a262c4cb1153c6
 symbol: engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectIdentitySettings
 title: ProjectIdentitySettings
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: source-clr
-reviewed: 7da9011d10db04f8dd81c872b778db57574c51bfa2cca8db5336d580558011b6
+sourceFingerprint: 7308bf34b19fd256d3a03b88b7b1af3859716b58d4fc953cf57ea8f1b8b27413
 contracts:
 - project.inno-core-settings#settings-ownership-contract
 

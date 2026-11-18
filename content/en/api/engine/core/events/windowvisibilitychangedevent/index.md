@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.events.14f7c7ecccf57f7c
 symbol: engine:Inno.Core.Events:T:Inno.Core.Events.WindowVisibilityChangedEvent
 title: WindowVisibilityChangedEvent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-reviewed: 502d1d2c866f003a4a12a9ebaccec68549ef8173aed80080bfdd395185832c89
+sourceFingerprint: c5a28e654ac920fc6c9c4edc31416e0aeaa2e50acb86c9dfe86ed7c867cc9134
 contracts:
 - project.inno-core-events#dispatch-and-lifetime-contract
 

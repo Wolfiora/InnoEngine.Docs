@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.14643d2eefc0b6a1479c2e0672190ff95079715f74fb55c66940d20d4a853c69
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.CenteredProgressBar(System.Single,System.Numerics.Vector2,System.String)
 title: ImGuiWidget.CenteredProgressBar
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 1abb05b0492fb6d5ec09f7593e3cebb880d7b97b5af64704ce6ba06ce9e36de7
+sourceFingerprint: 9e9602057f01e684a83fa6ba04536211bf885b90bfd677792b4fa31217081051
 apiScope: Editor
 contracts: []
 

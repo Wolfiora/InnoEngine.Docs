@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.runtime.contracts.86f6eacc513c2e78
 symbol: engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeCapabilityId
 title: RuntimeCapabilityId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime.Contracts
 apiSurface: source-clr
-reviewed: 8402b40b26554ff998e33918c81798e9b18542d7116b990be45707bfb2c38787
+sourceFingerprint: 892789e11c8123faa28d5fb136f7dbf260cc52c6b9b510859d6ba755c07da1b8
 contracts:
 - project.inno-runtime-contracts
 

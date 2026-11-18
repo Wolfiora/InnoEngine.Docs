@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1b2c560e2cd683e691aaba4591960da3d328ccd4faa226eb2896b70e95f30bc6
 symbol: engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectStore`1.Clear
 title: IndexedObjectStore<T>.Clear
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Collections
 apiSurface: source-clr
-reviewed: fcd92df872119869747d4c927fb7c49e7cb713344ef2879a056d6a7636a27f65
+sourceFingerprint: 414112d603496973a4b4dbddab9eac3d18742255669b4e66caa5fbea88a4ed02
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

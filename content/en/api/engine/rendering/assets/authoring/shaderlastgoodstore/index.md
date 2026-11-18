@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.authoring.c90d00467a1c99f4
 symbol: engine:Inno.Rendering.Assets.Authoring:T:Inno.Rendering.Assets.Authoring.ShaderLastGoodStore
 title: ShaderLastGoodStore
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
-reviewed: aaa05a6e7af5214ffc30211aa1e406a07f42464347f0ec58aa42efbf91a4ed79
+sourceFingerprint: 16e00ffaef6ea79a60057ba8d5928bb0e1ff808f2b5b72db5a402d8a09faad3c
 contracts:
 - project.inno-rendering-assets-authoring
 

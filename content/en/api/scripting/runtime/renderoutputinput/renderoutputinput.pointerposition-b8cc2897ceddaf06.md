@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b8cc2897ceddaf066d6971970ba0c006d04707c012a2bfadcda22796aad5e653
 symbol: scripting:Inno.Rendering.Runtime:P:InnoEngine.Rendering.RenderOutputInput.pointerPosition
 title: RenderOutputInput.pointerPosition
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 3b2f10de41dd7c3d0bf931a9bb5e782c41951e855c94588a86d481b0f8c6a292
+sourceFingerprint: 93f21d0086e0c09837acc79786c1d74e7940e528f79f114bd800418ac0abc138
 apiScope: Runtime
 contracts: []
 

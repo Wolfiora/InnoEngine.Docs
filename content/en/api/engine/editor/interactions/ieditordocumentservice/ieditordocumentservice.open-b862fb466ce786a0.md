@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b862fb466ce786a07b988e532cdf10b0124fe6555dd14278f09a3d89ca9079b4
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.IEditorDocumentService.Open(System.String,System.Guid)
 title: IEditorDocumentService.Open
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: a80df39aedf81f28e740fb43869e95e97c211ca43cbe57355a48c1acbcf7baef
+sourceFingerprint: 3e21d54ba5560b38c425da9d137500d3375f00638f9cc5308bf3abd397032b00
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

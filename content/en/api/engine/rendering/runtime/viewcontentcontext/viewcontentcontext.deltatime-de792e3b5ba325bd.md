@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.de792e3b5ba325bd7279711bfc406e328242005f0d99608813dd408d9bc030cf
 symbol: engine:Inno.Rendering.Runtime:P:Inno.Rendering.Runtime.ViewContentContext.deltaTime
 title: ViewContentContext.deltaTime
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: e858fe07e6f075f7162d74d5b6d2c072b86b342aef235b3413885c1cc33970ed
+sourceFingerprint: f4233d96e4945601a9a3d55295ca73abf0a4f5b2e322cb0ebc04cb75976aad41
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

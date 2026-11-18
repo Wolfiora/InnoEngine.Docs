@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.59e92c4c75390253702fd630e6fbc0f532fbe18361601294d4e0e2aa48c20416
 symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderStencilOperation.IncrementClamp
 title: RenderStencilOperation.IncrementClamp
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 33e5b218f79bb0e381241e4b09471b84ec682071bc5af6efc640eaa03cd4ee96
+sourceFingerprint: 827f739eac7dcfff01ccdf8f57c0d2cecde7f0e05fd6ffdb94db53a3114176e9
 apiScope: Runtime
 contracts: []
 

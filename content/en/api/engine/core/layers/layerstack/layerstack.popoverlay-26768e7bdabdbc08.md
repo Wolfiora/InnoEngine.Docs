@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.26768e7bdabdbc0819b338a2cb6c34989258cad30f7f9d2b7d222acc054534cb
 symbol: engine:Inno.Core.Layers:M:Inno.Core.Layers.LayerStack.PopOverlay(Inno.Core.Layers.Layer)
 title: LayerStack.PopOverlay
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Layers
 apiSurface: source-clr
-reviewed: 19c793bff6e464f77baab55e29af29701129500451cad295a1af8eb6e47342bd
+sourceFingerprint: 74ab846d1283a7e504baad6a6a5288c4ca52a1273a61bd54fa169dd1b2aacbaf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e5f005f2fbd8270547c113a1575af52187cb67a3d9cd081dc473ffecab972fd3
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.MathHelper.CatmullRom(System.Single,System.Single,System.Single,System.Single,System.Single)
 title: MathHelper.CatmullRom
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 4a6ab4dd02eef169fdb6476b97207d59c7100eeaa83566aa1f0babb4efd686b5
+sourceFingerprint: 581e4dede331c4321883200a70534deb5aad9d34f1086454da0b822fe397789a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

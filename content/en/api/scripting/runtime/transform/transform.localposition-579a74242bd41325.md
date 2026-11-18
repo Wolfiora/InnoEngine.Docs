@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.579a74242bd41325c9d516f771f78a2ba0818ef8bdf9fdb3bc0e0c68c9d2c9c6
 symbol: scripting:Inno.Scene:P:InnoEngine.Scene.Transform.localPosition
 title: Transform.localPosition
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 26e5ba0f4a63b68d7d1bb807d93281655c6573aed5373bcc04b7161517f852bf
+sourceFingerprint: 9e6a7cc8fa49f53af21192be46f3158a5ea1d2220b10863ecee005d4daf35650
 apiScope: Runtime
 contracts: []
 

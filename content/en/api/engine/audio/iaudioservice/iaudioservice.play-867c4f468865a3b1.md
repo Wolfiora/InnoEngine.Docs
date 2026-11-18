@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.867c4f468865a3b1e5dacb17dd97d19e2b8ff501bb7bf1e8fad20966b94030e3
 symbol: engine:Inno.Audio:M:Inno.Audio.IAudioService.Play(Inno.Audio.AudioClipAsset,Inno.Audio.AudioPlayOptions)
 title: IAudioService.Play
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 6ae68976dd12aaf7df2c2c4a5e2b27628a72ac953e8de12e277b56de07c54e98
+sourceFingerprint: c6d683b3d7bf8c02ea83ea63bc19c6427241aac31c9fb18a152df35a9c5c18ac
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

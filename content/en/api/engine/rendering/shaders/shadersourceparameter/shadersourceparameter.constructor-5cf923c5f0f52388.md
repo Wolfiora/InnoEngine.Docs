@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5cf923c5f0f52388ae7e6ce8fdd9a3998cd8765bda372395fc843c4bee7449ec
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderSourceParameter.#ctor(System.String,Inno.Rendering.Shaders.ShaderSourceType,Inno.Rendering.Shaders.ShaderSourceParameterDirection)
 title: ShaderSourceParameter.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 1d6ad0ea0c479c067b084699dc7a9f996dfeddec90a92227bac97fc4187ae4aa
+sourceFingerprint: 432827f625e2d8ebb7a32e95f883515c6bbf015ddef40a452c94b00833d71bc6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.35f05ca7fc5c1f1d72a577deed0086107429716d219b648be96c3e77a8c3b66b
 symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.IEditorPreviewService.Draw(InnoEditor.Rendering.EditorPreviewHandle,System.Numerics.Vector2)
 title: IEditorPreviewService.Draw
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: cca1e0426e50dbd3b27f402e1a1722cdc1c4efade5610cc175adde3c3031a97f
+sourceFingerprint: 6d8fa19a1f5889849b4d37cbaa7194c9d8a0cf92645d0f698d9753ee64f184cd
 apiScope: Editor
 contracts: []
 

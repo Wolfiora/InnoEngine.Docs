@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-core-serialization-generators
 symbol: project:Inno.Core.Serialization.Generators
 title: Inno.Core.Serialization.Generators
 kind: project
 owners:
 - Inno.Core.Serialization.Generators
-reviewed: ''
+sourceFingerprint: da56ed4dfa130ce7184cd5d95fccf55825eefbbbbf4593e0ce4cab4b7377aa22
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

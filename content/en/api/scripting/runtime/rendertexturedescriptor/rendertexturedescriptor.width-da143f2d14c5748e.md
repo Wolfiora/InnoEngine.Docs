@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.da143f2d14c5748ef8d2918b0e8200393086dcbcbca74493145bd125299e02d4
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderTextureDescriptor.width
 title: RenderTextureDescriptor.width
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: d52f2d10302e2f405a6d81f2cad53738bded4c2e0d88cc28919f9e841f0874a1
+sourceFingerprint: bc2a68b64d9eaa81e30b4e6ac9f1081053dde84b2a33bc593e11a40bb885d27f
 apiScope: Runtime
 contracts: []
 

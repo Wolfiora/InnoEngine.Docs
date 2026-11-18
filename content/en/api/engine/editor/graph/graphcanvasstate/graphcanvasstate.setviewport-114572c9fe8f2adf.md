@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.114572c9fe8f2adf610ebe2dcd050a7d30c780034be4985148c1b0a407010865
 symbol: engine:Inno.Editor.Graph:M:Inno.Editor.Graph.GraphCanvasState.SetViewport(Inno.Core.Graphs.GraphPosition,System.Single)
 title: GraphCanvasState.SetViewport
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: source-clr
-reviewed: c3f8925eecc28b7cacc4faf1e403d1624e9e430e210290d2016d7fba5ff2c3a4
+sourceFingerprint: 59352e0631bb8b61b659829c57072e6a78181185e08c8c75ca0ad62d47e7e707
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

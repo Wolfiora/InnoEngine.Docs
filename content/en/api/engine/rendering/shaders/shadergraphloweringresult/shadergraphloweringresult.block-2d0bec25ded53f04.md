@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2d0bec25ded53f044992a1a2d6dce328c0e3bc80712df7ea555530e38029c11c
 symbol: engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderGraphLoweringResult.block
 title: ShaderGraphLoweringResult.block
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: f687ac29ae12fdb4101176ada881130a29cc914d156b1f0bec71dfcd62bf9c69
+sourceFingerprint: 1043a6a407240b52808b32238faa32cb9fa36dc3e9dcd36c32178af36ea2a0cd
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

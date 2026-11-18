@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-core-input
 symbol: project:Inno.Core.Input
 title: Inno.Core.Input
 kind: project
 owners:
 - Inno.Core.Input
-reviewed: ''
+sourceFingerprint: 9d4c57503ae07f8a9d50b858cda41b10a5612a802d477e6a80f0c7cfa6a10205
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

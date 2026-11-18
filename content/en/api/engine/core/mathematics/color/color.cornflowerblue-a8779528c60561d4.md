@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a8779528c60561d4f212e1e210773a4f42037567648b605dca031e2d2cd4cf90
 symbol: engine:Inno.Core.Mathematics:F:Inno.Core.Mathematics.Color.CORNFLOWERBLUE
 title: Color.CORNFLOWERBLUE
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 510688f592909e35d6531aa95f1dd35b3c2df1f67ed349eed96d8eaa65431c1b
+sourceFingerprint: 4e2b73b371beb4a80ca55bdf7093d8aaa325f9b17b092b3accfdef3abfff6a62
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

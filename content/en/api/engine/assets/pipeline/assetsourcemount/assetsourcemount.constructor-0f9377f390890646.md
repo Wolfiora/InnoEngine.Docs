@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0f9377f390890646b23aab26377b93e0489cf2d470350204423bd0d732a957e0
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourceMount.#ctor(Inno.Assets.AssetSourceId,System.String,System.Boolean,System.Collections.Generic.IEnumerable{Inno.Assets.AssetSourceId})
 title: AssetSourceMount.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: decf6a2cb92cf741610a0a5eb822da9e3a7eb545f3820a8880721594a55ee512
+sourceFingerprint: dee41a7b54733a61d7c48358a114c9c75968ab6616ec2da3367e3c5f1a22d8f2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

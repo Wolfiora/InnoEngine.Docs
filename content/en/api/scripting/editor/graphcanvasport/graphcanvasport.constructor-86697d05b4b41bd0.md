@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.86697d05b4b41bd0078774e1381f32cb1bbdca9ad12695313c52a9832701438d
 symbol: scripting:Inno.Editor.Graph.ImGui:M:InnoEditor.Graph.GraphCanvasPort.#ctor(InnoEngine.Graphs.GraphEndpoint,InnoEngine.Graphs.GraphPortDirection,System.Numerics.Vector2,System.String,System.Boolean,System.Boolean,System.Nullable{System.ValueTuple{System.Numerics.Vector2,System.Numerics.Vector2}})
 title: GraphCanvasPort.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph.ImGui
 apiSurface: editor-script
-reviewed: 59dd282ed678fe9f2445cc69bfa467fcd6126bf1deea7c2088e3d1fbe83cc701
+sourceFingerprint: 2d53c95c1fddb876f880f069aeaf7eb5b9d04fdfec2412e210faa437724fa553
 apiScope: Editor
 contracts: []
 

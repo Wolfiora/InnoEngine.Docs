@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.772c5053c791ef0da5e122cf8c9005c6bfb81844638f22239ab15872fe90880d
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorStyleMetrics.modalFadeOutSeconds
 title: EditorStyleMetrics.modalFadeOutSeconds
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 5ef85fda4896bcaf67ca6d4306dfe76f9c2f53b3f73366f4f4bb9a6a520d0d3e
+sourceFingerprint: eb15da7ae15262e3745fdf03ab93aeae79ccb0a079c9cb0f71265a156209a4a1
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6e97856beed2c089248acc4e18824068a2e354fdeb9a6c7357784286effbc43a
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.Extract2DTransform(InnoEngine.Mathematics.Matrix)
 title: Matrix.Extract2DTransform
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: b186f9e695eb11a956ea750234aa1059efbbe93d3d7df0895551ab095c56d9eb
+sourceFingerprint: 843e6626c146018b0ad36a4d69eea429cf0cc6f0ab2057315c4a31949cfec2a5
 apiScope: Runtime
 contracts: []
 

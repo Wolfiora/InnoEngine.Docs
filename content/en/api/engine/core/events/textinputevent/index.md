@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.events.2736f51e923170ec
 symbol: engine:Inno.Core.Events:T:Inno.Core.Events.TextInputEvent
 title: TextInputEvent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-reviewed: d2206cc30b277101c116a47f44ed6e82f520db247161b771c007a153c162d63e
+sourceFingerprint: a5eee527d4ba8afb705b6b7b65ae5f8d1505f94175519b7f9e076da8cd98a330
 contracts:
 - project.inno-core-events#dispatch-and-lifetime-contract
 

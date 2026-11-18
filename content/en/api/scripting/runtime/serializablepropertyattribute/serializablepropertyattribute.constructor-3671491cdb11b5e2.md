@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3671491cdb11b5e2d1cd9c34647db7f57d9d4f86e84835bb5142ed49f195f0ca
 symbol: scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializablePropertyAttribute.#ctor(InnoEngine.Serialization.PropertyVisibility)
 title: SerializablePropertyAttribute.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: editor-script
-reviewed: c40f64afa794c62fe368e8821b45ccc0b569ef6f1775cbd383e0a5dfe5dbc534
+sourceFingerprint: ae0f49db3c564a9861538a876bd0ef140410606be30b2584b153d84505b4edd5
 apiScope: Runtime
 contracts: []
 

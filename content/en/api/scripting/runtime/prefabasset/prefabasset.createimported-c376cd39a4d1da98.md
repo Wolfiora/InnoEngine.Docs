@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c376cd39a4d1da980995359358e27efdee9aa365015205ceb4dd285d92f39454
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.PrefabAsset.CreateImported(System.ReadOnlySpan{System.Byte},System.Collections.Generic.IReadOnlyList{InnoEngine.Assets.AssetDependency})
 title: PrefabAsset.CreateImported
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 2de262eb206de752f2dfe0d19f879a05ae248e10b1e2a69e2b27ede6d7eee1ec
+sourceFingerprint: c3420ab4cc8200c9843f4b6c26657b139fe4633623600d245111df1cbf9402bb
 apiScope: Runtime
 contracts: []
 

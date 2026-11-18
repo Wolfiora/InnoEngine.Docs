@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.43b78ab14819f9867c84ea5027be1a01521748db953921fae85fa01812ff8a27
 symbol: engine:Inno.Audio:M:Inno.Audio.AudioSpatialOptions.Equals(Inno.Audio.AudioSpatialOptions)
 title: AudioSpatialOptions.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 11ede117186a06c95311ffc790482d70c9387e1f9a775a6efcc61acbcceadcba
+sourceFingerprint: 11ede117186a06c95311ffc790482d70c9387e1f9a775a6efcc61acbcceadcba
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

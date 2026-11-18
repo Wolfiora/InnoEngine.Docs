@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f97b8e8ffaa4638058173af7732f4c43b5a78488467e8b7b204b150cad244a28
 symbol: scripting:Inno.Storage:M:InnoEngine.Storage.Storage.DeleteAsync(InnoEngine.Storage.StorageKey,System.Threading.CancellationToken)
 title: Storage.DeleteAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Storage
 apiSurface: editor-script
-reviewed: 71f65428572931e0302c68dc3ab2d36246a9a17cb877094be8687a03b5d2ad77
+sourceFingerprint: 91566e17fae934c9dbdc5fb429ca910a890de52111ecb2e24fe543f7505ea15a
 apiScope: Runtime
 contracts: []
 

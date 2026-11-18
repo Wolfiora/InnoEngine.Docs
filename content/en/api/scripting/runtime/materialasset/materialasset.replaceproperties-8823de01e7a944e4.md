@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8823de01e7a944e42ca0f39a5b892d5c19abfa0d3df1dacbf35ffbe1d793965e
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.MaterialAsset.ReplaceProperties(System.Collections.Generic.IEnumerable{InnoEngine.Rendering.MaterialPropertyEntry})
 title: MaterialAsset.ReplaceProperties
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 691078df411d8dd27d2685cdcccd32b8ed38e3742bbbe13540fb7ae2bef05321
+sourceFingerprint: 459bf815193dcc344a7233a9f783178750d55ab8e312df91969f67dffb044cf9
 apiScope: Runtime
 contracts: []
 

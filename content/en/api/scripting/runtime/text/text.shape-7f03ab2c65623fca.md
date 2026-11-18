@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7f03ab2c65623fcab310438d4ea2f338efb0a77dcb97bbbb6eb0c5a1a65750e6
 symbol: scripting:Inno.Text:M:InnoEngine.Text.Text.Shape(InnoEngine.Text.FontAsset,System.String,InnoEngine.Text.TextStyle)
 title: Text.Shape
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: editor-script
-reviewed: faa658683bd3ff04e960b8ca3cdeaa93343a2c8c045aef795777f64e96768e4e
+sourceFingerprint: a17df9fcaf22266d8f3ec266c1f0cce69933d465139f650fd9bd3852e406cf62
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.eb37bb92a805dff4ed0e0667b3834caf1ddffcf60143e3e8fa1880ecd58fb13f
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.Audio.PlayScheduled(InnoEngine.Audio.AudioClipAsset,System.Double,InnoEngine.Audio.AudioPlayOptions)
 title: Audio.PlayScheduled
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: adf8715b2c87bbc79514888677005d21d07eb0c5a23425bf10fa772c90ebc9a2
+sourceFingerprint: 928ccf0a03f318d4989698cec1808813074f9a62ee77e78e8d1848663dbd1b9b
 apiScope: Runtime
 contracts: []
 

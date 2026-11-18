@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dcbae71b43a6a292335b5edeff76d3107de498120b6f1a56fcf5019a666e0e35
 symbol: engine:Inno.Shell:P:Inno.Shell.ShellOptions.preferredGraphicsApi
 title: ShellOptions.preferredGraphicsApi
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Shell
 apiSurface: source-clr
-reviewed: 7872b65187c60754ede887b3adef3bf34c70c90804fc5f559f7c703797e7f564
+sourceFingerprint: 487d75dfbcc238f61bd182a93294c0fd2243025962fe0482473f94f8da3b24c6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

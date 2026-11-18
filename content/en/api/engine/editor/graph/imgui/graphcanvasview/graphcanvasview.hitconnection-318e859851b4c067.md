@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.318e859851b4c0676440087ef8e6616963ceeaf8c8a12a034af9a680008f58b8
 symbol: engine:Inno.Editor.Graph.ImGui:M:Inno.Editor.Graph.ImGui.GraphCanvasView.HitConnection(System.Numerics.Vector2,System.Numerics.Vector2,System.Numerics.Vector2,System.Single)
 title: GraphCanvasView.HitConnection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph.ImGui
 apiSurface: source-clr
-reviewed: 074ce79a68193fb3cfc30f4c9e65355867973488e6dffc0b79e7c6f42403bece
+sourceFingerprint: 9abfea4d8aa55bf93738a528d990c8d952fc4590982889038417a269f6120508
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

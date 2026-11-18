@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.interactions.f06a59fae419198a
 symbol: engine:Inno.Editor.Interactions:T:Inno.Editor.Interactions.IEditorViewportCoordinateConverter
 title: IEditorViewportCoordinateConverter
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: f40185d6a1b7f5c0cf2061271590ad800b0fce97de35c86869f51bd3097e8013
+sourceFingerprint: 8262f853d872840c94b90dd25d8cae261920dbd0bb13b2497cc1239e746d51f7
 contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
 

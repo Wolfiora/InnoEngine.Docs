@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2d4079b644baf2273163fc45cd4b75ac83b6d5f1638614461bbce45c4dfdd09e
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.Barycentric(System.Single,System.Single,System.Single,System.Single,System.Single)
 title: MathHelper.Barycentric
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: ddf2f6fe78f77c4a9b3c0d8c3c24837d686adfd128a9d446cbb26cef41729680
+sourceFingerprint: 84294b4879759f434e6b20b2f38a83c803f75be5a31761e9dbdccc7660c92041
 apiScope: Runtime
 contracts: []
 

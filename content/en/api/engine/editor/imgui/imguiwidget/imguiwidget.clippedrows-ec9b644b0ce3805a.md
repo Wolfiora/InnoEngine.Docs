@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ec9b644b0ce3805ac416b4d72e3eae9267cab764ccafd478dd5cbf59fb192e6b
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.ClippedRows``1(System.Int32,System.Single,``0,System.Action{``0,System.Int32,System.Int32},System.ReadOnlySpan{System.Int32})
 title: ImGuiWidget.ClippedRows
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 8096f92de73261469e51f0d761abf6368b5b0e9cfb34f3c65d66ba204f36ab7e
+sourceFingerprint: c4047f3414d121d6e212079ab61ec13a676f7c6b28e27cb557b9db51af0c588c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

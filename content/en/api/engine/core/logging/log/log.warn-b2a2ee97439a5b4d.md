@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b2a2ee97439a5b4d1ca8e6d37afb89503196925f472cde79a21ef7925e36c7c0
 symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.Log.Warn(System.Type,System.Object,System.String,System.Int32)
 title: Log.Warn
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-reviewed: 94d7386ac756c55c789b5e4d361c2f18ee387fc9715cd2100550073442badc92
+sourceFingerprint: 1cdb8873515c0e09fc47d7307af46dd2aeb58ddb893b2e45bec1d78388a425b9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.ui.f4ac5b2e2b699df2
 symbol: engine:Inno.UI:T:Inno.UI.UiRenderFrameBuilder
 title: UiRenderFrameBuilder
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: 624d86d7e3ff192377bcef8a1372020e2ff8a39036a130c0b53ec7253f8474f1
+sourceFingerprint: af70b8b3eab993385a52ece5ad6364d4204edede5f32357c1ed5d461f705afd4
 contracts:
 - project.inno-ui#document-and-frame-contract
 

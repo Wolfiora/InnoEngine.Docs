@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5425afa68a9e419c725ea4f114d3dc5788f6f637c218948df6fdb204bb48d585
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IRenderResourceService.PrewarmMaterial(Inno.Rendering.Assets.MaterialAsset)
 title: IRenderResourceService.PrewarmMaterial
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 5f9a4694eeee2cd1f41de69f57985ee1641d98e912f07d68eb118fb3dae94425
+sourceFingerprint: 7c9628fa66deff9c7ba4015cd9816fc98adf029e2d949e195852e7d7cb6d879b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

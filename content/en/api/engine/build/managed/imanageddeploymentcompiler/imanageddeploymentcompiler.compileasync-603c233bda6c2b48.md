@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.603c233bda6c2b48b51dddc781f208a78da3373f6335c532b582434a590c2d7c
 symbol: engine:Inno.Build.Managed:M:Inno.Build.Managed.IManagedDeploymentCompiler.CompileAsync(Inno.Build.Managed.ManagedDeploymentRequest,System.Threading.CancellationToken)
 title: IManagedDeploymentCompiler.CompileAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Managed
 apiSurface: source-clr
-reviewed: c1c66a61e0634d462880c4f4a7df041b6b8406607e6037e672dfe96114235109
+sourceFingerprint: 3dc3865ded916107183895a638cf9e87be30445ef1c9495c64958fdd2c4fa9c1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

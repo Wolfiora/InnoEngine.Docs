@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.70ab3d403f06e8151b8d19ea39b2220bcc9bb7fc8b5c76fe622a6b080e650c54
 symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCacheSnapshot.CreateInstance(System.Type)
 title: TypeCacheSnapshot.CreateInstance
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-reviewed: 5fe80a8218768d51e5af4554110852bd7579f680d1d657c7501e915c477cf89e
+sourceFingerprint: 73f8f14dd35ccd471d11401e9d2059f123fa715f1187680beed8048fcea0894c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

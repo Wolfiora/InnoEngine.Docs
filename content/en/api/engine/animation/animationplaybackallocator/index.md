@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.animation.86fd47b3c29ea82f
 symbol: engine:Inno.Animation:T:Inno.Animation.AnimationPlaybackAllocator
 title: AnimationPlaybackAllocator
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: source-clr
-reviewed: bea38387059aa50555fd474db3e2400fce8af60f499a6a98058a43f611e5d9c4
+sourceFingerprint: 7c2afbc17a6fb9040783c673db3c98906453d27a1e0ecbde2b15a84505318cf7
 contracts:
 - project.inno-animation#target-and-service-contract
 

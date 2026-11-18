@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.16f283cae26877a1f65d32c4873244823121236ca89de74e62623220ec61e78a
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.AtomicDirectory.Publish(System.String,System.String,System.Threading.CancellationToken)
 title: AtomicDirectory.Publish
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: 826868e5fb911ec693038f3a5d57012c5f1933a59b64ce5e1433243170b64bcd
+sourceFingerprint: e7fb550c1c22ce01343e414d15fb70692c42f1adde6345f692abe08e6ce02a0e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

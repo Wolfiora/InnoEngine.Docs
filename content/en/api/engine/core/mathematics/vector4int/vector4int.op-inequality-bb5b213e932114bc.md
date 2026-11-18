@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bb5b213e932114bcf59f4072bd02549a7869418c55ee062a2e8469c7055ad023
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector4Int.op_Inequality(Inno.Core.Mathematics.Vector4Int,Inno.Core.Mathematics.Vector4Int)
 title: Vector4Int.op_Inequality
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: ba59110f59bb4745d0af7f201f7b5d8896a513f3fe9a8c8f2bae13af8694d6dc
+sourceFingerprint: 67275ece2ea43127f6c51894f071474d5f49cba7642008326a0ab3708943ec24
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

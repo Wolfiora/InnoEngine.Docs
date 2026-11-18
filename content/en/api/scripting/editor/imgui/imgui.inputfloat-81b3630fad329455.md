@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.81b3630fad329455ac978a023e0e5176916920b3ed91919b6c15b7d8a8600bcb
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.InputFloat(System.String,System.Single@)
 title: ImGui.InputFloat
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 629f8624bfd823f223fd56676eae26f423f903acc28f3195bce41bb89e8617c2
+sourceFingerprint: 3c4da4221a73f10740d9d5248893ddaa4b5d552e944926b107cabd6fb94642f2
 apiScope: Editor
 contracts: []
 

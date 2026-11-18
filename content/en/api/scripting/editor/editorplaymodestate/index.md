@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.playmode.editor-script.d2401531cdeab600
 symbol: scripting:Inno.Editor.PlayMode:T:InnoEditor.PlayMode.EditorPlayModeState
 title: EditorPlayModeState
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.PlayMode
 apiSurface: editor-script
-reviewed: 61d05cc45193d64300d3a70bd0a3d7301e7515a455ab9c95920743ee46b6a6df
+sourceFingerprint: 03af39f724666511c56acdb145e51ce8a3b3045458d4d62a553233a96e98c231
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

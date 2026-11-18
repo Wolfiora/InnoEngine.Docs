@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.130c2c88f248bcd15109c416812e9c056349a529d5728474b32010a97c89f1b7
 symbol: engine:Inno.Build:M:Inno.Build.GameBuildRequest.Validate
 title: GameBuildRequest.Validate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: d25532bf47d7d4274c9e0fcddd57c68cafc5cccba99e62f3c1156d29013b1c55
+sourceFingerprint: d6aa8808f9c4fbb7a2487b2d115602819c69b7cebdb48867f7d4044e5b12897a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

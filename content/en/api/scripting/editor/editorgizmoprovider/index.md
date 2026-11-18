@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.rendering.editor-script.740d8e610b2a56ce
 symbol: scripting:Inno.Editor.Rendering:T:InnoEditor.Rendering.EditorGizmoProvider
 title: EditorGizmoProvider
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: ac203f3f6b295563e24be70379a531b8a7665dd8b51d6a3469d774855d7672b2
+sourceFingerprint: abde4807c42f22cb31f34b23301333691b02db1fe5889b7f2b5be3cca592474b
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

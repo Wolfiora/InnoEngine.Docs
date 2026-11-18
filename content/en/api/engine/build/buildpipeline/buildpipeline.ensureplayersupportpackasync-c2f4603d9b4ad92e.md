@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c2f4603d9b4ad92ed413b274bf923c9f67df18f9eed862625ee065f4441f970e
 symbol: engine:Inno.Build:M:Inno.Build.BuildPipeline.EnsurePlayerSupportPackAsync(Inno.Build.BuildTargetId,System.Nullable{Inno.Build.Managed.ManagedDeploymentId},System.Threading.CancellationToken)
 title: BuildPipeline.EnsurePlayerSupportPackAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: ef27baacab3ea9623aadf69ccc43dd406ae406c0c13a62998d21d8a21e74cda8
+sourceFingerprint: 54863caa10ac387078c6b2ade39bf90cd201778c271808e64fb43712098a0c28
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.92c3f2ebdd95641fc9e0eebc4a314c2a9b69095e0ed2be4104ebb122e8d5334f
 symbol: engine:Inno.Scripting.Compiler:M:Inno.Scripting.Compiler.LogicalScriptingApiAnalyzer.Initialize(Microsoft.CodeAnalysis.Diagnostics.AnalysisContext)
 title: LogicalScriptingApiAnalyzer.Initialize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Compiler
 apiSurface: source-clr
-reviewed: 911043e24772b6ad537b74be6c5e2124b2a84465105168b873e5c6c6748f1a6c
+sourceFingerprint: a1e95cd0b403b44ebdc2dbeb40e0eaa9a6ce9f19e207ee136d639e8d3545a3bc
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

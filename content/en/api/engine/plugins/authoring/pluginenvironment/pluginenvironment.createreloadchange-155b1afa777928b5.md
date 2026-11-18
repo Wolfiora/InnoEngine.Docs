@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.155b1afa777928b5714e62353c942a593b5848b6084fca8328ca1ae6733f78b2
 symbol: engine:Inno.Plugins.Authoring:M:Inno.Plugins.Authoring.PluginEnvironment.CreateReloadChange
 title: PluginEnvironment.CreateReloadChange
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Plugins.Authoring
 apiSurface: source-clr
-reviewed: 6b03b236a69bf79a87d5596f2059071484e131e53b6a027f758428fe65830b6c
+sourceFingerprint: 18165464c1faf11f0d225d93732c744036fd55f8cfe465a84b459db3efe4dff2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

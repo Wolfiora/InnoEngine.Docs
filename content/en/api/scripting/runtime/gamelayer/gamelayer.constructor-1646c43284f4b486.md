@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1646c43284f4b48617c6aeab41cdcdce50b6fdf268276555f5d08fdd96ba9fa8
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameLayer.#ctor(System.Int32)
 title: GameLayer.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 50835c327cd1f36a5fdd72295a226e2d23e5a82e501d137642f128bc40f4b5bf
+sourceFingerprint: c251f84b661d30a885250339f51e11bb1618389f3dac9bfe8a72d410e89c0b83
 apiScope: Runtime
 contracts: []
 

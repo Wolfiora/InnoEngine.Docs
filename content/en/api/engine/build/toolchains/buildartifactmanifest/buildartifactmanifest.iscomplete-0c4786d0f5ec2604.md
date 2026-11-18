@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0c4786d0f5ec2604139bacd7a9df39c08d1c815ef723d1d486d23ff1fb18c9dd
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildArtifactManifest.IsComplete(System.String,System.String,System.Collections.Generic.IReadOnlyList{System.String},Inno.Build.Toolchains.NativeBuildContext)
 title: BuildArtifactManifest.IsComplete
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 42ee1b739e72d44ce28a5b9307bb6d6baa06d87e3c95af8c88fd23fee5773af5
+sourceFingerprint: dc0fc5786fc29ca9df111a101c876a66c3d0916460297937b08838b7ef5a59b9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

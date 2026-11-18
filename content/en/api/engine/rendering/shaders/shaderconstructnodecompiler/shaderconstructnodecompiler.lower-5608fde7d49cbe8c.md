@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5608fde7d49cbe8c3b1f7a057bbe3838e17c95114b6616016a78a0b97f6a4af4
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderConstructNodeCompiler.Lower(Inno.Rendering.Shaders.ShaderNodeLoweringContext)
 title: ShaderConstructNodeCompiler.Lower
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 8bda9fa690037d79d552318a62f8c1b1589a2fe1b0030837e7f8697e13f1d5f6
+sourceFingerprint: 19f313bbad2bb5229d10ab7f38dda3875c46dc3745be1b8e0113d33135e604bf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

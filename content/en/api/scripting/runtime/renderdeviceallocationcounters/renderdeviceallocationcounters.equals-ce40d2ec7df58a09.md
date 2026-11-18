@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ce40d2ec7df58a0925f896351bd3be9e4706b6fb446fa64bf96e29fa847be37c
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderDeviceAllocationCounters.Equals(System.Object)
 title: RenderDeviceAllocationCounters.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 99e5c7456c368baf64731ee3b6666dc6e1fab37c263ef44acf07c6482f5ab6a8
+sourceFingerprint: 99e5c7456c368baf64731ee3b6666dc6e1fab37c263ef44acf07c6482f5ab6a8
 apiScope: Runtime
 contracts: []
 

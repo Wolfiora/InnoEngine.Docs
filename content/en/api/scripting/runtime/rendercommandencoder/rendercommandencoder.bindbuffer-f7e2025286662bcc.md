@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f7e2025286662bccd9706c13955086eb9eb9170b3f4c9ca7981d3764b614da0e
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.BindBuffer(InnoEngine.Rendering.RenderBindingId,InnoEngine.Rendering.PersistentBufferHandle)
 title: RenderCommandEncoder.BindBuffer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 80b9ed98fac955afeea658994dda06c1560f53940074d9aa4cd840d7904502ff
+sourceFingerprint: 10b85582672daceb4fe6d67f06738db4cc985f2baaf6a0210d292c6fadadcc2c
 apiScope: Runtime
 contracts: []
 

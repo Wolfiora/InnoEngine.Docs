@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ef1894123b7f0c5083f6cf3f6382a852d819ae78ccf20b8dbcc01c897ae5be97
 symbol: engine:Inno.Animation.Runtime:M:Inno.Animation.Runtime.AnimationRuntime.Play(Inno.Animation.AnimationClipAsset,Inno.Animation.AnimationTarget,Inno.Animation.AnimationPlayOptions)
 title: AnimationRuntime.Play
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation.Runtime
 apiSurface: source-clr
-reviewed: 36131e195096ec6ef8a5322c55f335d42cf35dca020e20189c1ec53567108f9d
+sourceFingerprint: 7164a8e381aa9fad955d8310a5d7540637b4b0a5e81436f8948547fd7fb84d99
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0dca3f391017f47671a3d4fdcbcd07c0586f38f9715d515f6c2d803383b22958
 symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphPrograms.Bind(InnoEngine.Graphs.GraphDocument,System.String,System.Collections.Generic.IEnumerable{InnoEngine.Graphs.GraphNodeId},InnoEngine.Serialization.SerializationRegistry,InnoEngine.Serialization.SerializationContext)
 title: ShaderGraphPrograms.Bind
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: 2c80e17aa1611021037a256b9ffaf0a91a5cca5e8332a949b9acfb6b65fe8c2c
+sourceFingerprint: aead5cabdbe973d3d800a602146dc5525e6ae778e67c5e145c39e54d527fd975
 apiScope: Editor
 contracts: []
 

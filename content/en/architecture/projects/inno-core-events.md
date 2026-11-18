@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-core-events
 symbol: project:Inno.Core.Events
 title: Inno.Core.Events
 kind: project
 owners:
 - Inno.Core.Events
-reviewed: ''
+sourceFingerprint: 12006234fa2de1df47d59f85f524980058983ff36c8305675591a7891f2cbd7d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

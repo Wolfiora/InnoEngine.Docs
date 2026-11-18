@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.33986aee50aa16a12e59b24aa1f0f9a475959792f377392f1e985af9d390f494
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingIncludeDirectory.#ctor(System.String,System.String,System.Boolean,System.Boolean)
 title: NativeBindingIncludeDirectory.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 335d78a5e6444f6d31bee575bdb7feb5a1fb8e6f3cf1821e20576e9be893ed8c
+sourceFingerprint: a82cc66bbcafb6f19501a51202005daa011f9eeb24444dfdc718c01a0feb0245
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

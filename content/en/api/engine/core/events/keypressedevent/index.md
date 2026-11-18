@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.events.dec0fcde34bd616f
 symbol: engine:Inno.Core.Events:T:Inno.Core.Events.KeyPressedEvent
 title: KeyPressedEvent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-reviewed: fbfbe33aceb4896d3d112fa7c8416ccc7ff357b7ab00cb26df8dc978ac834fbe
+sourceFingerprint: b2d43c555952c1e79e8f612ec24e7f2995809a2469819016d8e8c16ff2b5c204
 contracts:
 - project.inno-core-events#dispatch-and-lifetime-contract
 

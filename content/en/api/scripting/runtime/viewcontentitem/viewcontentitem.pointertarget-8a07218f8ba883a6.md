@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8a07218f8ba883a6d6fe1dee3e33b31da14b28c8ab67050765b8d49929f17633
 symbol: scripting:Inno.Rendering.Runtime:P:InnoEngine.Rendering.ViewContentItem.pointerTarget
 title: ViewContentItem.pointerTarget
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 8b656597bd115752a1e75f164925b05a4fbe183b4379e0dbf3be4420ca68807a
+sourceFingerprint: 707be4ce1567b0a928688258f6477d2bec291c20f2ade3b0855e4426afa36755
 apiScope: Runtime
 contracts: []
 

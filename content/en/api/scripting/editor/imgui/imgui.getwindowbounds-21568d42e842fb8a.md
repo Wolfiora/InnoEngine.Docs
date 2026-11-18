@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.21568d42e842fb8a393e3c6c5a9b755ef34fb2a1833415cb1a1fc37f09ec1654
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetWindowBounds
 title: ImGui.GetWindowBounds
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: f5996396cb054d7c2abdc44cd31ea0e40db1c82a3547424461f8efd725f38c90
+sourceFingerprint: d56bd7aaecd00cdabba37d5a6cb12d1e5e82b62c6ad26ff48262a81ddface289
 apiScope: Editor
 contracts: []
 

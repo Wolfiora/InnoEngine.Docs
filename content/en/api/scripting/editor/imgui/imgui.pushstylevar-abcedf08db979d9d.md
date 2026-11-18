@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.abcedf08db979d9dadf8c96b53912d8f97a821997a221180b8c186bf90887d52
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.PushStyleVar(InnoEditor.ImGui.ImGuiStyleVar,System.Single)
 title: ImGui.PushStyleVar
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 9187de365f8451960e0d2d4bfdff0ae232bfb007906df610d8df0945f13c2003
+sourceFingerprint: 46b21495c88a27e362e6182e7510c8ae6f1e8d0340d4a3e4cace9fb593ea8fff
 apiScope: Editor
 contracts: []
 

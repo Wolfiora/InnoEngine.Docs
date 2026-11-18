@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f7989abd16c4fc043e2b33534fe2248a06165b5fb84f87c0917f6c59b9944fa4
 symbol: engine:Inno.Core.Layers:M:Inno.Core.Layers.Layer.OnDetach
 title: Layer.OnDetach
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Layers
 apiSurface: source-clr
-reviewed: 26cf3197f70991604909f79b3c0296475e8d3b02ad67c0807e550a2580f3d615
+sourceFingerprint: 13cdf06fceb52169ddde704ca1c51e7636cfe724e7ba2d7a120382695c226476
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

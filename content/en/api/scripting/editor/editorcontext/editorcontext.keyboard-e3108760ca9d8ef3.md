@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e3108760ca9d8ef3ff20d657f15644f046cab98ebbdb848b45d1870a59a7e062
 symbol: scripting:Inno.Editor.Core:P:InnoEditor.Core.EditorContext.keyboard
 title: EditorContext.keyboard
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-reviewed: 6cd8e85e06f33bf6658bf7e8af2311d3f547b5b2b9d2d05cb3a12db328071769
+sourceFingerprint: c34156fa66187fa1bf418e5dba6bfb7b4c9c4fc2b4127210c9183cd862ea043b
 apiScope: Editor
 contracts: []
 

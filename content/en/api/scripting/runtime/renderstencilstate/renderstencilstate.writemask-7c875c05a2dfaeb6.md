@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7c875c05a2dfaeb68bc6c1bd304624d51e88166cf306e84036bfa4677b5acb88
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderStencilState.writeMask
 title: RenderStencilState.writeMask
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: a82365455c3c5c820acf1f3c013d4b52ff619f6c2e80672aefe6ce1927308555
+sourceFingerprint: a0efe327148355f7269564ed400c02fdd483042c5ab76cf77a1fd7b8104c946f
 apiScope: Runtime
 contracts: []
 

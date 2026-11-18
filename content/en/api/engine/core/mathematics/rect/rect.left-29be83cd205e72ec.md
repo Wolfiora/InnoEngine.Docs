@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.29be83cd205e72ecb554c6644044f39f967fd3e386e62202ef364d547c428cf0
 symbol: engine:Inno.Core.Mathematics:P:Inno.Core.Mathematics.Rect.left
 title: Rect.left
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 2b51f4fe17834a8e876b9ca7e3b3783675db4e754221c4ba4e3c032db610d0f8
+sourceFingerprint: 69bef6867653b5faab1715953fc12ac0a842b586c04907681481f95afc71b24d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.868e0436e4350e98939d5912efdafe4c65e492611c47ca2f3ed41bae3040d647
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Quaternion.CreateFromAxisAngle(InnoEngine.Mathematics.Vector3,System.Single)
 title: Quaternion.CreateFromAxisAngle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: f98f0a313e8ed28e19ccac2a7196bb8d5ad8a4ad19d2ec17e8861f0063c6dc87
+sourceFingerprint: b6fd391e8d7260b1efc9fd0b7e2ca23d384a41c38eb419cc99e263afd77a2489
 apiScope: Runtime
 contracts: []
 

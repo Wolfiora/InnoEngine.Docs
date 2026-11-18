@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.25a0c12a8105601c33f96ee143438d3fd9e2690c6b951d145280c348bbbe4941
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.TextureAsset.#ctor(System.Int32,System.Int32,InnoEngine.Rendering.TextureColorSpace,System.String)
 title: TextureAsset.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: b8a223d23b313fc2343ba406e09c74de81e5fdad8fad6ead245648ead7a484f0
+sourceFingerprint: 204d7444ae6ae9d1346d056913bc505dd8065a512debd3443937d0082d6f6c5d
 apiScope: Runtime
 contracts: []
 

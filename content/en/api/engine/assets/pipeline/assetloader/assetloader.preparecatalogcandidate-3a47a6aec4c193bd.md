@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3a47a6aec4c193bd19b50f2d745ea7a706b8417cc4ae3ecd4a67e0e48dcaf73d
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetLoader.PrepareCatalogCandidate(System.Collections.Generic.IReadOnlyList{Inno.Assets.Pipeline.AssetSourceMount},Inno.Assets.Pipeline.AssetSourcePolicy)
 title: AssetLoader.PrepareCatalogCandidate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: d01da2e4107840e694b1643f0d9b74380021dd0a99ab62e6482a259c72fb5c8a
+sourceFingerprint: 950d890160dcb5b789ab7068e210946d6f60894ed641c585597b58c38f19c23b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

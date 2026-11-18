@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6c9ef27c7b0b8fccecc9dd8ea0e298dc43f5c4a660e4fccb77688bc76b1e33c9
 symbol: engine:Inno.Build:M:Inno.Build.BuildPipeline.BuildPluginAsync(Inno.Build.PluginBuildRequest,System.IProgress{Inno.Build.BuildProgress},System.Threading.CancellationToken)
 title: BuildPipeline.BuildPluginAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: c3b521b2dec8294357031e12cf4b706f11aab1dbaa602a21e86cc0662a389bdb
+sourceFingerprint: ebb647a501ddf0e582278b87846edce7a7be32ee290c088fabe3f1e1f6f437ab
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

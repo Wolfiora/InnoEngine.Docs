@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6d9c7ec99218355148790e8a0fe2a4e7f71703268732eff4570b08f3e0bba2ed
 symbol: scripting:Inno.Core.Events:M:InnoEngine.Events.Event.HandleInHub
 title: Event.HandleInHub
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: editor-script
-reviewed: 0ccdb61d61372b92db27f079bb57779491678af026d9ab241e4fc3291c46c12d
+sourceFingerprint: 5bb0a7f0b71a674fc7197c337ee8d7b8cae4edea76f06b002266a280797248da
 apiScope: Runtime
 contracts: []
 

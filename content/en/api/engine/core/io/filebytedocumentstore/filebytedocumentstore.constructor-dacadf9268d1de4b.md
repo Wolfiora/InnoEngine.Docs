@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dacadf9268d1de4b64973a6bd7958f6efd466bd4e2230c8a6ea7084e9b0f9e87
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.FileByteDocumentStore.#ctor(System.String)
 title: FileByteDocumentStore.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: 56f90f5283ddfb4402411dc60f5fc9fc8e86d2068721e4f385ae02e66fe84a4a
+sourceFingerprint: 296bc5cf71f6456c62b6c72a2413daef231b85bb3e18dcb01d3316df3574b8cf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

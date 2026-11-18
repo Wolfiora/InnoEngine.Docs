@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8c12acf852126ec945229e738b8d0249c78e1911ff2b82a2c440ff897df03b21
 symbol: engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.Diagnostics.Set(System.String,System.Collections.Generic.IEnumerable{Inno.Core.Diagnostics.Diagnostic})
 title: Diagnostics.Set
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: source-clr
-reviewed: 29c4f2645a0508b21fafe78545dd74ee1ef7006b80f420cd0f573cc7abf2f9c9
+sourceFingerprint: dd120cd3455c142138b3a314b31d3563244f2237164d222cfd75acc8c5d8d1cb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

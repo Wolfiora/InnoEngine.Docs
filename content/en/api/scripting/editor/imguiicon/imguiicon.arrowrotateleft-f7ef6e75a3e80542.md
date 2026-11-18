@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f7ef6e75a3e8054283738ad24c081143a3f8d66eb799478d048ab255331eb42c
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiIcon.ArrowRotateLeft
 title: ImGuiIcon.ArrowRotateLeft
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 6eed1fe7f6b8d29ef79edd0a6e59c3072017b6bdf4a143b903253ab7287e9d9e
+sourceFingerprint: 300fb1dfdcd3d03f6de93f7e4a06ee4868370d38a5ca27ed2ad5c5f17cdf0f55
 apiScope: Editor
 contracts: []
 

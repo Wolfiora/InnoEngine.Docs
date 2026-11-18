@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.57f438f5ac28bd0313db8632eb2e4b9c0f71d2d6713445db5f8ef87bbd09de70
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.ShaderInterface.bindings
 title: ShaderInterface.bindings
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 2caa4294eddea893b27a4b897cb3eae94f06e18f5fd624e718fc7e8898476faf
+sourceFingerprint: 07e4ca359038166d59b9a574627b5278e2e46e75d6c24a331dc9b3cecee32e19
 apiScope: Runtime
 contracts: []
 

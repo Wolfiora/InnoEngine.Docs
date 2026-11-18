@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.ec371a3dbdfeea61
 symbol: engine:Inno.Build:T:Inno.Build.BuildProgress
 title: BuildProgress
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: 36a8565af845ab7614f405334dc2cc73c6eb5de908b834cf30fa2a6eeb556d7a
+sourceFingerprint: 76468476cd7c33e07fc28b650cae5786306ab4c1ba8f1e69ab11906ee4ca5e1b
 contracts:
 - project.inno-build
 

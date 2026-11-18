@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d308e11008fd718201b8f8922114ceea0728c1793f367124edde0bbd1c732c83
 symbol: engine:Inno.Runtime:M:Inno.Runtime.StaticTypeCatalogSource.CanCreateInstance(System.Type)
 title: StaticTypeCatalogSource.CanCreateInstance
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: c6b81d42aad1052a1b4ddd48a6470e8445cf9253b8c23d4228b2c8b063cafdd6
+sourceFingerprint: 29b6b4e8bcca461e0dfdc955d6f0d33ae8c1af0e601b21660c1ce0ca61e317fb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

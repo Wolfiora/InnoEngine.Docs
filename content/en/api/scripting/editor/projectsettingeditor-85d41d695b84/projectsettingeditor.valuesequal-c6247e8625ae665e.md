@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c6247e8625ae665ec6783062dd5566475a5a8869dbc4596e9e14a227b0335c8f
 symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.ProjectSettingEditor.ValuesEqual(InnoEngine.Serialization.ISerializable,InnoEngine.Serialization.ISerializable)
 title: ProjectSettingEditor.ValuesEqual
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Settings
 apiSurface: editor-script
-reviewed: 868d8fbb3b4f33b51c579aa43b323f7c57b8ad978e41d8d033df5decef2174d7
+sourceFingerprint: 37a487f93be7842240cfac05bb014a895b17c3798733aaf034fc2703acf1b85f
 apiScope: Editor
 contracts: []
 

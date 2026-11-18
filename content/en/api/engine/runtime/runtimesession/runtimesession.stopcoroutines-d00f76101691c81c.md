@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d00f76101691c81cc2e4a5355e3050d4909948c06d43bcdff90426870a7a760c
 symbol: engine:Inno.Runtime:M:Inno.Runtime.RuntimeSession.StopCoroutines(System.Object)
 title: RuntimeSession.StopCoroutines
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: 4a9b478a175b6304db8019eea2f8d5369fbb5b67574ffc62de6bf2077afb177f
+sourceFingerprint: 0bf55d7177b9948a62b9dd8651a1a2f4fd1512fea2fc89164ab84f75d0c4e7f8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

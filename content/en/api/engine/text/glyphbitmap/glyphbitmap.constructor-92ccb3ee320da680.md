@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.92ccb3ee320da6804da3c31b4028adc28f847652705bdb94bbbeeb2e3f1817cb
 symbol: engine:Inno.Text:M:Inno.Text.GlyphBitmap.#ctor(System.Int32,System.Int32,System.Int32,System.Int32,System.Single,System.ReadOnlySpan{System.Byte})
 title: GlyphBitmap.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: source-clr
-reviewed: ca200a904cf4e333f2c1c0be929135f262d8ff819517419b1087131e1a79ee89
+sourceFingerprint: 0150022fe4a4e39f83e3781eb48d6770fc4c2b50f57079cf8f2f7f69a88fe15b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

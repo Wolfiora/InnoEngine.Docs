@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.mathematics.runtime-script.837ff794b954b4b9
 symbol: scripting:Inno.Core.Mathematics:T:InnoEngine.Mathematics.Rect
 title: Rect
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 411c9691ae958861833293879377b1c5b7b9e613adf7a5e3f50eaaba503aa661
+sourceFingerprint: 02cd5dbef4381733bf77a11f040e33b3f0096559b78b494ca225fb8911abfc97
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

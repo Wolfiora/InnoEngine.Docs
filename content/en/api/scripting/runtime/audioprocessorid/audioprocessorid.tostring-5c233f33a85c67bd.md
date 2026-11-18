@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5c233f33a85c67bd4f6172a1a606568a57a420eb08465b7508cdb41dc06117a6
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioProcessorId.ToString
 title: AudioProcessorId.ToString
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 862f2b286bbea1a79b63045b385fcb891721dedeb86fec75d7684e065ad31a65
+sourceFingerprint: 6f74556ce9d52fce3c76375727646d43d6cfd13bbb8749455cee2a9a9c27a7bc
 apiScope: Runtime
 contracts: []
 

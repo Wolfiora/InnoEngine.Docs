@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ae0b01a434748463f23b188c587164a6f99cbf9b01c88ac062541d313b00ad6a
 symbol: engine:Inno.Extensibility.Modules:M:Inno.Extensibility.Modules.IAssemblyCatalogTransaction.Activate
 title: IAssemblyCatalogTransaction.Activate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Modules
 apiSurface: source-clr
-reviewed: dbe380a2f0abf343132f19fbf36d060f0aae8844a0b9fa733fa5f97d77dbd0d8
+sourceFingerprint: 61307869590c0f7eee3d53dbb502ed853c62a534e2f65aac412544d2e971b95d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

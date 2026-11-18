@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dc1bf0ef78c211d3bcc24e662adbc824fbf8dbc4138d71c81fc70efa7d1c43af
 symbol: engine:Inno.Editor.Rendering:M:Inno.Editor.Rendering.EditorRenderingModule.TrySubmit(Inno.Editor.Rendering.EditorViewportKindId,System.String,System.Int32,System.Int32,Inno.Editor.Rendering.EditorViewportOutput@)
 title: EditorRenderingModule.TrySubmit
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-reviewed: 57559567041f8294ab6fb092611aaa7a4e8ce7ae5b6ba63b2a1e67e7015f7859
+sourceFingerprint: 90296ac755ce8c18591775cf1d634af159388d9498ce7c9ac1959c6a59cff2f6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

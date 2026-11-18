@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1237cfc2e471e043e0f730e633c98ed69a37b8f80f5df55306a766fb4fbe53e2
 symbol: scripting:Inno.Audio:F:InnoEngine.Audio.AudioDeviceState.Lost
 title: AudioDeviceState.Lost
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 7383c13b4b2dabd918894ff228fccdbe42a7c7fe1997bcd3ffec51889c39802e
+sourceFingerprint: 6aaf5640a4c00bf38be8a4eb95af48c761dc859fcd797cd8b97e2a2c0c1f5e57
 apiScope: Runtime
 contracts: []
 

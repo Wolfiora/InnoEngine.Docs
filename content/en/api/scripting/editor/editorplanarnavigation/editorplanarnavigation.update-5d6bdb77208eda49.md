@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5d6bdb77208eda49dc198af26c0eb404ee785cd3ebb63bb87d0843426b636b67
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorPlanarNavigation.Update(System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.Boolean)
 title: EditorPlanarNavigation.Update
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: bceeff7051593664d90e4fecf34a38b1b209606077b0e1786eddf99f506b7675
+sourceFingerprint: 10dd6e7510707c054d07a37d4702f1b998cd70ddfa02fe9217f41e52c6eac20b
 apiScope: Editor
 contracts: []
 

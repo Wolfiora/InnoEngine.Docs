@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6830a7e16655cd939cbb0185b94c8f8e6fdcf2535caff34df690d24680b15830
 symbol: engine:Inno.Build:M:Inno.Build.SdkScriptCompilationEnvironment.#ctor(System.String,System.String)
 title: SdkScriptCompilationEnvironment.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: f52fae469e155434e1278ecb3a392cbeae7a67dd52dc120492a7259f5b242cde
+sourceFingerprint: 428b03dc3cba1afdbc6e0b7b72816355594b52ea7fa8bc2172fd5a81a964e2a3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

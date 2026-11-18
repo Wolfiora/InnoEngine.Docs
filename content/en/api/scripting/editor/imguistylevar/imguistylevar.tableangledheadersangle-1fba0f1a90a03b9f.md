@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1fba0f1a90a03b9f35d74586e061f8ec68c9b8d3e8a5ef079833bc121a91fba8
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiStyleVar.TableAngledHeadersAngle
 title: ImGuiStyleVar.TableAngledHeadersAngle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 4fe024482f8c19be27470a7963862c1740537fc3faba00c0954b6f8f8a4a1ed0
+sourceFingerprint: 7fff226c379d5a184ec219d4d8f170d008b46790a4ed36ede1bd9f2e3e4dc654
 apiScope: Editor
 contracts: []
 

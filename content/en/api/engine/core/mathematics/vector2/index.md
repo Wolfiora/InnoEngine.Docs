@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.mathematics.4260e9466cd12616
 symbol: engine:Inno.Core.Mathematics:T:Inno.Core.Mathematics.Vector2
 title: Vector2
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 92d886e45b8886ba3418453e7b657c068bc43cd0672ed2cf293d7d6c691e2f32
+sourceFingerprint: acfd277ee05f5d97fa449c21e1b3023e21a77e8513f9c35958d0b2c54868d521
 contracts:
 - project.inno-core-mathematics#numeric-and-layout-contract
 

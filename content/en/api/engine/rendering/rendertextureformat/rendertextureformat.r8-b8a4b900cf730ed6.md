@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b8a4b900cf730ed6bab8cc7da12a58b421242794c6b39c4af5842ae9a6171ba5
 symbol: engine:Inno.Rendering:F:Inno.Rendering.RenderTextureFormat.R8
 title: RenderTextureFormat.R8
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 90feafbedcf9c7d5dbc8656e2f3ed85f57584734778d10339d06dfd6c4e8e550
+sourceFingerprint: 7f650240f5ca92acb6a3d8cab79732fe9fc2d60faffef9dcf62761c5901f43f7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.distribution.standard.a86fde7406b2e1bb
 symbol: engine:Inno.Build.Distribution.Standard:T:Inno.Build.Distribution.Standard.StandardBuildDistribution
 title: StandardBuildDistribution
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Distribution.Standard
 apiSurface: source-clr
-reviewed: 3bc2ac370d3ef8e8f01caa0e5cff7590c647972f3161374a05a4c1809bcbf47d
+sourceFingerprint: 58942479ecb1335333147cbf4c7fbffc204a195af95345c3c47b7bb4b06bd255
 contracts:
 - project.inno-build-distribution-standard#cache-and-workspace-ownership
 

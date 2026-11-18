@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0cb4c91d764ef9cd76fb17e2a5ce9d8086d7de4042a16b448e1a340030f0dbe5
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.PushId(System.String)
 title: ImGui.PushId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: ed56d3b0276be75f5d425838448373f56f8e508e3ca365752922f6975aa738cb
+sourceFingerprint: 18c56a0def0552187789d665a1c9fd1efa71f43fdcc6597ecd0832caba66a8bd
 apiScope: Editor
 contracts: []
 

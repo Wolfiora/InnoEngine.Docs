@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5606e5c65d80e0bbe948d0d4d1b96407f315e1ec0d98c7407a7cccc8a28ba535
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.GraphicsApi.TryParse(System.String,InnoEngine.Rendering.GraphicsApi@)
 title: GraphicsApi.TryParse
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: d505be1a892144da4a38c0e8bee0a94f2d771773dee891fbb82f0cb59417e0b1
+sourceFingerprint: 3e9e90c9a59e3cf29c282334fe42474c55d4341a46962375ba23aac81eff5e9b
 apiScope: Runtime
 contracts: []
 

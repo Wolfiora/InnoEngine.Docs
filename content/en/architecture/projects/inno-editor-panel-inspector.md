@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-editor-panel-inspector
 symbol: project:Inno.Editor.Panel.Inspector
 title: Inno.Editor.Panel.Inspector
 kind: project
 owners:
 - Inno.Editor.Panel.Inspector
-reviewed: ''
+sourceFingerprint: 27468e9eb6a2271dc086fb52c6346668feabb2668148b5899d366d52da0a255e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

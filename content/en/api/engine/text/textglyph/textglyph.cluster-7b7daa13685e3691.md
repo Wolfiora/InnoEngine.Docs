@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7b7daa13685e369104ea9a0ddbb2174c8bb92fed2567961fe2d515b8d9d5fe6e
 symbol: engine:Inno.Text:P:Inno.Text.TextGlyph.cluster
 title: TextGlyph.cluster
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: source-clr
-reviewed: c913605efe84cea0415b4b1b5e4899d89db80a6d07ca7602679d193470d00fcc
+sourceFingerprint: ccc974142af78c632017229479fb5cfca5b61b56c85325efb88264a0b3a8ba19
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

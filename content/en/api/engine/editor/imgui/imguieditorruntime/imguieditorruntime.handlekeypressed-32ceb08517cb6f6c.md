@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.32ceb08517cb6f6c2e9c68b3bb572995470ac1faf010d928136847d37a3238da
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiEditorRuntime.HandleKeyPressed(Inno.Core.Events.KeyPressedEvent)
 title: ImGuiEditorRuntime.HandleKeyPressed
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 0a01877b1aae620418e4abf4031b3ef5a56a2fb1d5442403c54e28f0a5498964
+sourceFingerprint: f4267baee4d91a90644df36a6471da6692344d0e74ce88bd36f663d05d8a5440
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

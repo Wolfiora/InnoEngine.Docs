@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.graph.editor-script.bafc294e4f9da602
 symbol: scripting:Inno.Editor.Graph:T:InnoEditor.Graph.GraphEditorModule
 title: GraphEditorModule
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: editor-script
-reviewed: 35930c4c8a07e05c961b55ebbbd177797ef138dd6a94706a015fb3e662263e6b
+sourceFingerprint: d23c22478850db71f790180c391c14cf4bfb097f0374fa91dd47014acbf313ac
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.09b482e76c91573f161568b77c491fe6638f72ad7dcc86f7fa63c23064290b47
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorSelectionState.TryGet``1(``0@)
 title: EditorSelectionState.TryGet
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 675f4e3353f0fcda7e477463d8f67bbc2c2084f5c5272ebf9c7a4ba634bdd32e
+sourceFingerprint: a081900fb7f95277a9b19d175da529cd5fca9e80e53b89e7564b4b1c24c3ceb9
 apiScope: Editor
 contracts: []
 

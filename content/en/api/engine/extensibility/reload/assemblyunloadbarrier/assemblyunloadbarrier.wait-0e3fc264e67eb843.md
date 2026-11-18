@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0e3fc264e67eb843f65d98458ff49869e1e99956864a7f94b1e679826d8f516e
 symbol: engine:Inno.Extensibility.Reload:M:Inno.Extensibility.Reload.AssemblyUnloadBarrier.Wait(System.Threading.CancellationToken)
 title: AssemblyUnloadBarrier.Wait
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Reload
 apiSurface: source-clr
-reviewed: 994fa1077d229dac98e5fe7065e8f394b399a8f1b158eff66a2dfe1cdaf6ff90
+sourceFingerprint: dfc6e79a2e3421267138d8774723c1e479171ca317a8fac2b036783c03953701
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

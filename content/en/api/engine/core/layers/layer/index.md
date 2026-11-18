@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.layers.8a83c4cbccb84691
 symbol: engine:Inno.Core.Layers:T:Inno.Core.Layers.Layer
 title: Layer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Layers
 apiSurface: source-clr
-reviewed: 80c34374c42ecf24715017126900c301e616a802d6fc536a8d08656c8b8136b7
+sourceFingerprint: e9ecda52c2740fd4ccbaa91b1d57a4cb99eaa98aadf5719ed6904e6cafcc92c1
 contracts:
 - project.inno-core-layers#attachment-and-frame-contract
 

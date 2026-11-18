@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.imgui.editor-script.066e29b984391d16
 symbol: scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiTableColumnFlags
 title: ImGuiTableColumnFlags
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 50964c0f2dfb499d61ac13ba68bc6283648f99017eabe9249cd8255fa5a1102c
+sourceFingerprint: 63ec95b7851b7d6ca58a3384cca5d3c3340ebd368ab36e07eb28f3d0674d89a6
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

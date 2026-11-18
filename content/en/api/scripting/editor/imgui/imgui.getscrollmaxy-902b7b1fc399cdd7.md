@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.902b7b1fc399cdd718b4d7e5a2b075245437ef0f248a250f82b473c1ecc6d2fc
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetScrollMaxY
 title: ImGui.GetScrollMaxY
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 3b3fff1a874a4328dc719f18eb9cf725b3f805d04dc660598d1c2193b8fa3da7
+sourceFingerprint: 46277c56feb312e1dbb26cec3196d8423e8bafa088240a25dd1a5391ba386634
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a73646f56e0634692cc4e27b119d35989bfb240ceef33de3adeab301b7b46dbd
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerCatalog.GetInteractionMask(InnoEngine.Scene.GameLayer)
 title: GameLayerCatalog.GetInteractionMask
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 747730f379fc94e5d6c88cd02ea9f0ab7fba1da389afc898f7481cc8cd899576
+sourceFingerprint: ce6c6e5fc4afd5dd3cb7ba74922edddb2439def99dc76897df521371547d0f89
 apiScope: Runtime
 contracts: []
 

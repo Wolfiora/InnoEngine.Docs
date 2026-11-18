@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.152051f1c195a30e517ea62bcae1aaa547da660e9781cb05b3993bba1807d202
 symbol: engine:Inno.Assets.Pipeline:P:Inno.Assets.Pipeline.AssetSourceMountTransaction.sourceMounts
 title: AssetSourceMountTransaction.sourceMounts
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: 2155624b6129fc6de2c06d539e0f1ef1ec6e17cd74abcfe0480aedc16e857bd2
+sourceFingerprint: bf66a31fdc31a7b7709f7027b797ac14f4e1bf308223445d01087e4e74f8137c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

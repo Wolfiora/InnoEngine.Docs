@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b365d0694e8e7f9cdada1f517f080530cb8f077acdff57a415b37c580e642644
 symbol: scripting:Inno.Editor.Shaders:M:InnoEditor.Shaders.ShaderParameterPresentation.Write(InnoEngine.Graphs.GraphDocument,InnoEngine.Rendering.ShaderPropertyId,InnoEditor.Shaders.ShaderParameterPresentation,InnoEngine.Serialization.SerializationRegistry,InnoEngine.Serialization.SerializationContext)
 title: ShaderParameterPresentation.Write
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders
 apiSurface: editor-script
-reviewed: 11f30651960f2f224f3c9dcb5b6981cc16b15134a3b4d06118e451368b1ab5b4
+sourceFingerprint: 08cea721ef34d4a8175fe99508791a131453ef2f4f8df9e0032de03604a17738
 apiScope: Editor
 contracts: []
 

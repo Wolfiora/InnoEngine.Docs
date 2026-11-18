@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.68e1a009125c2180ad20609faa36969fa3e3c46b8a52a5053f1f591e04b4d45f
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.NativeAssetSourceSerialization.Import``1(System.ReadOnlySpan{System.Byte},Inno.Assets.Pipeline.AssetSerializationServices,System.Collections.Generic.IReadOnlyList{Inno.Assets.AssetDependency}@)
 title: NativeAssetSourceSerialization.Import
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: b235c1b056958085ddb7bb8ef043a502c59fe36f1f344ebf2dfee8e8811438e6
+sourceFingerprint: bc89b79d6353670085a2e364e2bdb8b3519f060b6ca651a3e42e5bc43282e015
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

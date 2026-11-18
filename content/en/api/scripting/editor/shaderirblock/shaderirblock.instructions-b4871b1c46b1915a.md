@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b4871b1c46b1915a795b404dc73116f593a5648f85d7793c3fb454ddb1f1536c
 symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderIrBlock.instructions
 title: ShaderIrBlock.instructions
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: e9debb8f45b8d291bd3b598926a4b6e60c10801737642695021fe76ddd513977
+sourceFingerprint: 73dda94258a9929c1da09e3230527c3fae36fff3d7dbc572fbba5cf6783a3802
 apiScope: Editor
 contracts: []
 

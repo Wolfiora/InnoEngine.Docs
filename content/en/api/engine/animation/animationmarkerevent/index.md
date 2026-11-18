@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.animation.b8e550a4d52aab3e
 symbol: engine:Inno.Animation:T:Inno.Animation.AnimationMarkerEvent
 title: AnimationMarkerEvent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: source-clr
-reviewed: 0ce733aac8ff9f5873c69260ecc90306789187f292c76a0b6d4f654021e61fa2
+sourceFingerprint: 4cf24afd780d1675ffc34b7d30d366215a74399073d2444a85e4d1886a624b0f
 contracts:
 - project.inno-animation#target-and-service-contract
 

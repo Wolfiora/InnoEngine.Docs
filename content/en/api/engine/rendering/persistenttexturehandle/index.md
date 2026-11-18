@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.ca0705af48c16077
 symbol: engine:Inno.Rendering:T:Inno.Rendering.PersistentTextureHandle
 title: PersistentTextureHandle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 132efdf64300542b8462efc6f62750f058bedc49e18b6415eb3e0979894d56d3
+sourceFingerprint: 292235d2b6003abbc8472a5691ac5557052b74d990500bc8aad577093e1a5ade
 contracts:
 - project.inno-rendering
 

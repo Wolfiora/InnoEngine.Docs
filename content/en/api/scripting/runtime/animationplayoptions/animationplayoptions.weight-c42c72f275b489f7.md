@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c42c72f275b489f71f9832e2d3433eb8015f6438e0898559fd0cb9bc703b1933
 symbol: scripting:Inno.Animation:P:InnoEngine.Animation.AnimationPlayOptions.weight
 title: AnimationPlayOptions.weight
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-reviewed: 8de8686a32a061c60aaf1658ab7532bfc35595c9eb92d74a785484588a8dd97d
+sourceFingerprint: f538656a7aeccb830bc74f2a5e990e0467d611cdbc1f25813543c15b6dd250ea
 apiScope: Runtime
 contracts: []
 

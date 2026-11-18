@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.extensibility.modules.5cc4bb19163a4efb
 symbol: engine:Inno.Extensibility.Modules:T:Inno.Extensibility.Modules.ModuleCatalogContribution
 title: ModuleCatalogContribution
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Modules
 apiSurface: source-clr
-reviewed: 54adce0af5104b2f247901e447bb3e00782f8fcdba27f617f4f373d9114e93d3
+sourceFingerprint: ede786911dcf06dd28373b42a916613df5fd8207904a1b38f5d514274c4696a4
 contracts:
 - project.inno-extensibility-modules#source-and-publication-contract
 

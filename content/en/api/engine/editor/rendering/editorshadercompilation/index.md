@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.rendering.b4eb178b4b05a5ed
 symbol: engine:Inno.Editor.Rendering:T:Inno.Editor.Rendering.EditorShaderCompilation
 title: EditorShaderCompilation
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-reviewed: 491547daff1579efd35456f7268230dd4d02c9e6862da78ed3595f6bcea693ee
+sourceFingerprint: 321879368a4c02194dafd738cf9934c28a8e57a2798be151b5bc7a2d1e9a6871
 contracts:
 - project.inno-editor-rendering
 

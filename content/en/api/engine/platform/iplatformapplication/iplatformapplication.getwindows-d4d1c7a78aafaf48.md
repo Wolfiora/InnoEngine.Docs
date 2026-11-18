@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d4d1c7a78aafaf485a713ca60ed20ac405c68d2be5a90c222731b06a357f9331
 symbol: engine:Inno.Platform:M:Inno.Platform.IPlatformApplication.GetWindows
 title: IPlatformApplication.GetWindows
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Platform
 apiSurface: source-clr
-reviewed: 814efca7818f3ea04c9abc7ccb54e49a278d6ac4d1bb92e0188c7a3c4d111dca
+sourceFingerprint: 0fdb1f7c9e79fc8f5478bc0412664cc6872ece949a15a71ab4c82c323022c8df
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

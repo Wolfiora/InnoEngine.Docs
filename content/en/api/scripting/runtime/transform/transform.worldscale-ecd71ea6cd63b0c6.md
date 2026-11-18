@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ecd71ea6cd63b0c6a37823f99cd1e4311f18ea066ce3f1bb0b972f969a11af67
 symbol: scripting:Inno.Scene:P:InnoEngine.Scene.Transform.worldScale
 title: Transform.worldScale
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: ede0c62ad9bd38daaaaf786759618898c8175ca60c29da7ba8f30fc3c43b48d4
+sourceFingerprint: 7d260c70970b0f95c296ae2abd37a573af110268f22826b003dd1140744da168
 apiScope: Runtime
 contracts: []
 

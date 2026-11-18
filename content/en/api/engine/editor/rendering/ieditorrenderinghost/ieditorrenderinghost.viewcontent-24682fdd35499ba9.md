@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.24682fdd35499ba9010368cf7afe4903a1c282b11c964a4cbfd8470d7abee15a
 symbol: engine:Inno.Editor.Rendering:P:Inno.Editor.Rendering.IEditorRenderingHost.viewContent
 title: IEditorRenderingHost.viewContent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-reviewed: 91c68da0037a595b80a18b24a2de954cd63d27b703d1664ce9de971dec98f027
+sourceFingerprint: 400ff025d70bb623777d054fc0695366644e7ea98ac9cfeac9a7720e081d19e2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

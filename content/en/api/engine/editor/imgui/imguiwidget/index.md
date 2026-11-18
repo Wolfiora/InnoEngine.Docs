@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.imgui.d7feaecdd475b63f
 symbol: engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget
 title: ImGuiWidget
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: a595f01741c9a455e3c7173ab2b45260a8ebebee607c10bf15eb40b753bc0908
+sourceFingerprint: bdffd64e99c2a1710501d78a1c03b3febc3c7452edfbdb487847e894e20e5f3f
 contracts:
 - api.inno.editor.imgui.d7feaecdd475b63f#declaration
 - project.inno-editor-imgui

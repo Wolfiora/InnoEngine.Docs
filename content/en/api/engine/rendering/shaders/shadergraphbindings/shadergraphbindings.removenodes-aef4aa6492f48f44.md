@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.aef4aa6492f48f44694bf5a753f8cdfa915c115abaa365af85b2cf7b242af3c7
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphBindings.RemoveNodes(Inno.Core.Graphs.GraphDocument,System.Collections.Generic.IEnumerable{Inno.Core.Graphs.GraphNodeId},Inno.Core.Serialization.SerializationRegistry,Inno.Core.Serialization.SerializationContext)
 title: ShaderGraphBindings.RemoveNodes
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: a6f041456cc15ac25d9dd455febc026cd5c1570bd716c9b2ab5317ff860bf3c1
+sourceFingerprint: 1fa7abb4758d9b52611dd7145c7ad868efc417b00e7e102cbce9d13cefa6d54e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

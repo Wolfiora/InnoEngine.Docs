@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-scripting-reload
 symbol: project:Inno.Scripting.Reload
 title: Inno.Scripting.Reload
 kind: project
 owners:
 - Inno.Scripting.Reload
-reviewed: ''
+sourceFingerprint: 0b89301e0e6f3b6a3b63e2187f533395500d12aaafb7ccd7b2464e59ee2e1f67
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6fda2c8a20c9816b3d375b3ceb80f23e0f8c7377c2bdd4674e3c2328f8c816be
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderResourceMap.TryGetBuffer(InnoEngine.Rendering.RenderResourceId,InnoEngine.Rendering.RenderBufferHandle@)
 title: RenderResourceMap.TryGetBuffer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 61a4f57f95ef036a38878410515c4780bee38771961ae2df0fb521c67253a5b4
+sourceFingerprint: daca793576204f39727e5ebcb17d1cf4e0efe50aa6c2f6d37777182d82ba0035
 apiScope: Runtime
 contracts: []
 

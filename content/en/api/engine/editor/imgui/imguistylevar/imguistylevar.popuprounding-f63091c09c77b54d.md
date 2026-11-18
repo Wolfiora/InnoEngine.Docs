@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f63091c09c77b54da58d1f74c6fdfe6ff1af8a1a86bc06fc494bca47d2a279bc
 symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiStyleVar.PopupRounding
 title: ImGuiStyleVar.PopupRounding
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 50f75490f5599d1cd7b6088db3b6cfde54f540a6c65fcae35814521787324439
+sourceFingerprint: 56e3c0748b170ff6df9c02bbec4baeedb0e7166fdb30c5e2c5232eb0c423631d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

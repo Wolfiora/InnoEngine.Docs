@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.io.a1a9e8edbe3f8b47
 symbol: engine:Inno.Core.IO:T:Inno.Core.IO.PhysicalPathResolver
 title: PhysicalPathResolver
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: d032feba5b028c0dd573f02c6b3be805130cc5566963cef3b620a255260f1a78
+sourceFingerprint: 2cfab3b1512a3d24b2457073e6a60f8c0c23c6857ff6eae93b5ec3b0b1455232
 contracts:
 - project.inno-core-io#publication-and-ownership-contract
 

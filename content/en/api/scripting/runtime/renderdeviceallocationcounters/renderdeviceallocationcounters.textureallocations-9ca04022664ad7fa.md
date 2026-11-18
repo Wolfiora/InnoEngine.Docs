@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9ca04022664ad7faa61aafab6d0164d2baae2cb751b5094a24492b510cf25173
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderDeviceAllocationCounters.textureAllocations
 title: RenderDeviceAllocationCounters.textureAllocations
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: e0806a200077c215363d10996291e21a3a71933c8c37e235672d96d96246a0c4
+sourceFingerprint: b556159387964ee235b35accc0ccab2a1989a26f93170042df7881b38ffea089
 apiScope: Runtime
 contracts: []
 

@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-editor-panel-logging
 symbol: project:Inno.Editor.Panel.Logging
 title: Inno.Editor.Panel.Logging
 kind: project
 owners:
 - Inno.Editor.Panel.Logging
-reviewed: ''
+sourceFingerprint: ec862487fc0ede1ad9c535c83807310465252f1d1d0780a280ff7686aa6bf700
 contracts:
 - manual.editor.console
 - architecture.ownership

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9ffb1c348b7c699bec58622c5da7de1b9c15215beea552dfa4cb4f2755f94810
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Matrix.CreateFromQuaternion(Inno.Core.Mathematics.Quaternion)
 title: Matrix.CreateFromQuaternion
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 5bfee3cf01e503bbb77deb36fd9f63a224e886159ccd7de0434e4e216d78753d
+sourceFingerprint: f77c64739f8a6a80da8e55c6d25d2259f04cc65503659cc054e4661eadd9c87b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

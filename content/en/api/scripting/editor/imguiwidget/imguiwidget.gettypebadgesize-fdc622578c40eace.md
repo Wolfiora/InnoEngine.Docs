@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fdc622578c40eacec18d3a4fe1de0f1150db73bf201b46431c93adbeb51cb5c2
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.GetTypeBadgeSize(System.String)
 title: ImGuiWidget.GetTypeBadgeSize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 30df06d9d1646f146770c4e26217055762ed81fdbec083d50b710eda427acb0d
+sourceFingerprint: 10362fbcbf304fb8361f3f3778bf853c0193b937caf74f60ee757e5da4fad75d
 apiScope: Editor
 contracts: []
 

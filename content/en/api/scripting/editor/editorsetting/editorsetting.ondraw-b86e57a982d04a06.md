@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b86e57a982d04a06f2740c1bd7d278753983170e0af6285fa9687d745bee6074
 symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.EditorSetting.OnDraw(InnoEditor.Settings.EditorSettingObject)
 title: EditorSetting.OnDraw
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Settings
 apiSurface: editor-script
-reviewed: c73543a3713da26eb43207f64dfe71a7ef937f576bce6c0cdef110e8213a7466
+sourceFingerprint: a2f92876df10f40246f41ee6fa1fab8b7eb44f5657b2e6eb47c579dc1bd483a8
 apiScope: Editor
 contracts: []
 

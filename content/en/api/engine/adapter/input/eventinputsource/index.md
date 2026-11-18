@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.adapter.input.07d8bc8b1e347d4c
 symbol: engine:Inno.Adapter.Input:T:Inno.Adapter.Input.EventInputSource
 title: EventInputSource
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Input
 apiSurface: source-clr
-reviewed: 4eb6b83ddaeec49642242fbb78c1ce8f6537a2d58c662f774d73c7bbb6f242a6
+sourceFingerprint: fcb1e575a46d88fc5c4b6faba715b42882b15cfc88510e8403e26ef42f46ef09
 contracts:
 - project.inno-adapter-input#ownership-and-threading
 

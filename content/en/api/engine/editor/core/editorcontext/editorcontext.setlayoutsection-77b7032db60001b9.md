@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.77b7032db60001b99b7d185a4ca1328a1ce85e2125f0afa2a588c99169339ff6
 symbol: engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorContext.SetLayoutSection(System.String,System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{System.String,System.String}})
 title: EditorContext.SetLayoutSection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: source-clr
-reviewed: 89e4796ca7e64437b2f8d6b0e2ffb1e78ebbf2d8c1a35e9c7eca1adfaf05e1f7
+sourceFingerprint: aa5cdb9b51d8fee6a47fc15008a86f944237feab10f16c333fe35e05b9a2887c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

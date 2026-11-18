@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a32358d03c594e1f8c8e579036c24803e10a74ba4a8fd3ecfe1951f9a0e8b135
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderRasterState.#ctor(InnoEngine.Rendering.RenderCullMode,InnoEngine.Rendering.RenderFrontFace,InnoEngine.Rendering.RenderDepthCompare,System.Boolean,InnoEngine.Rendering.RenderBlendState,System.Byte,System.Boolean,InnoEngine.Rendering.RenderPrimitiveTopology)
 title: RenderRasterState.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 4a6b3f1054da43d1333ef17ff22f7bcfbb94420ec44d500c5b661eceb856977e
+sourceFingerprint: 00c695453f98583bb6df3729545b6c2a9391771a8197267dc09fb6cfaa44b66e
 apiScope: Runtime
 contracts: []
 

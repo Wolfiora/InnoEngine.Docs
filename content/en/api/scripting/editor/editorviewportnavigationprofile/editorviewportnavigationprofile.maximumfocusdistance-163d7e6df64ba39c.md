@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.163d7e6df64ba39c64775d6dbf3a28c36bc03c96a2880edf5fe2b340a06239a6
 symbol: scripting:Inno.Editor.Rendering:P:InnoEditor.Rendering.EditorViewportNavigationProfile.maximumFocusDistance
 title: EditorViewportNavigationProfile.maximumFocusDistance
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: a59a4729746a165933ebf845fcda25519164e66c711e31054da2dfc9320fca23
+sourceFingerprint: 89cf15fc97ec14ebf9c81bdaf9cbad259f30337ecf4f3035464a417f9de51935
 apiScope: Editor
 contracts: []
 

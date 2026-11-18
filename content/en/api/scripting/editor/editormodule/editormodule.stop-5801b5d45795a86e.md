@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5801b5d45795a86e5c7437f8c414b0298734b41a918efa256f76cf332b1b6099
 symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorModule.Stop(InnoEditor.Core.EditorContext)
 title: EditorModule.Stop
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-reviewed: 655d3c5bdb660606e4f7ca71b020c618f18a7df6cd92c3a8cc3140f7c5ab80da
+sourceFingerprint: 4de6fd7717855e3a5487f4d6c502163e54bed027229893794e409a9b814d92e3
 apiScope: Editor
 contracts: []
 

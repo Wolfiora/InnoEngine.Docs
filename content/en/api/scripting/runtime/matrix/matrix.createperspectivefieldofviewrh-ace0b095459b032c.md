@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ace0b095459b032ce231d562bdda1d19a51cb48fab6e7204db049888d8d46531
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Matrix.CreatePerspectiveFieldOfViewRH(System.Single,System.Single,System.Single,System.Single)
 title: Matrix.CreatePerspectiveFieldOfViewRH
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 418ff59da9773b6c9dbbe4b16e96768a6bdf3aec5ccdeb08977abafacba96371
+sourceFingerprint: fd87e0c0b173b72bff2f91f580b510d620ce10cc324fe0fe209bebe902fd9b54
 apiScope: Runtime
 contracts: []
 

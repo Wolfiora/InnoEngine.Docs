@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f829b34a94a7b545c334c6f95cdba303cfc2d63baa629b4106dfe387fabc873f
 symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPreparationIdentity.VerifyAsync(System.Threading.CancellationToken)
 title: PlayerSupportPackPreparationIdentity.VerifyAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.SupportPacks.Core
 apiSurface: source-clr
-reviewed: 088b1c0a125a16c26ba93bd60f0fdac55afa1796378fd77ae6047833e3d94196
+sourceFingerprint: a9a031e429f527740f8e0242e664a0e8705f61c98ca67f483bb10c53e05f33cc
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

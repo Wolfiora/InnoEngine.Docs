@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c5297f296182e02950d56862465973f70357ac8d3b9e72ca6a1f2cabf361c233
 symbol: engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.EditorStyleMetrics.menuSearchFramePadding
 title: EditorStyleMetrics.menuSearchFramePadding
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: f8df0a429f0fb3eda8637a88b78baee11a8925abf9ee98aece6fd537f64ac39e
+sourceFingerprint: 46e394ef4040bb2f243d412418d5ccd8128f60eeae5c3a02a6957a3f6ba47b5e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

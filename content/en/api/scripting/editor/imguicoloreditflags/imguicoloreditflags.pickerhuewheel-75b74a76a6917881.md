@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.75b74a76a6917881cd503d61d242d2cd8d51afb240e4def9f2015b4e2a0a4d09
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiColorEditFlags.PickerHueWheel
 title: ImGuiColorEditFlags.PickerHueWheel
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 0d71364597fb9257f7ba8c60b8c689b01bc920dca130cfe0b2836648c69de245
+sourceFingerprint: 47fe312993770e6b7a6afba092cd38643b7bd3dfbde21dfb865fd69ba97e54d0
 apiScope: Editor
 contracts: []
 

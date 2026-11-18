@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6a0bc20dbee773a6f74bb72037c377a64c3d69bbf64732d96cbf54623c50bcf6
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.AcquireComputePipeline(InnoEngine.Rendering.RenderPersistentResourceId,System.Int64,InnoEngine.Rendering.ComputePipelineDescriptor,System.String)
 title: IRenderResourceService.AcquireComputePipeline
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: c74a651827ff6c1e2283a439ead9969d93cf4d9a56f103a1a7abd5c34fafd4f3
+sourceFingerprint: 9b1c7b0f6ab715a05deecacafb44f5aef5953a47b99f5bdc7c3f4063ab402584
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.shell.a761c86bc837a685
 symbol: engine:Inno.Shell:T:Inno.Shell.ShellState
 title: ShellState
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Shell
 apiSurface: source-clr
-reviewed: bcc3eb891cc495b2fd9ab6163cff9bafb56732953ec585211ce95630e61be0cc
+sourceFingerprint: 6351cea29bd15073ba8da0209296526ff8cb477df121353f33f72b6d9eb452db
 contracts:
 - project.inno-shell
 

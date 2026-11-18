@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e67e3c5f3530302e95dcf5caff5ed0d2b2b9757ce5698ddc8cf1fad65c89c59b
 symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorContext.RemoveLayoutSection(System.String)
 title: EditorContext.RemoveLayoutSection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-reviewed: acba80fb469a3dbc8e8339a998e2414c5fb2d86b13646b6796daf67d2876e318
+sourceFingerprint: 778b683c17e41784ed9984d2cb4a130817015f0abae403090721d5ef0fa108c5
 apiScope: Editor
 contracts: []
 

@@ -490,7 +490,7 @@ test('type members form one compact table and manual explanations have no XML no
   });
   expect(introduction).toContain('Provides instance-owned persistent and session-local identity state');
   await expect(page.locator('.api-status-synced:visible')).toHaveCount(0);
-  await expect(page.locator('.api-status-verified:visible, .api-status-outdated:visible')).toHaveCount(1);
+  await expect(page.locator('.api-status-authored:visible, .api-status-outdated:visible')).toHaveCount(1);
   await expect(page.locator('.sl-markdown-content .api-status')).toHaveCount(0);
   await expect(page.locator('.source-actions a').first()).toHaveText('Source declaration');
 });

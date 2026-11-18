@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7e42434350f43735d4ae08d636f31018bc2220874dd1880a501bfaaf70fb3b75
 symbol: scripting:Inno.Animation:P:InnoEngine.Animation.AnimationTarget.samplingOnly
 title: AnimationTarget.samplingOnly
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-reviewed: e20cc33bcf1eb25ddc7641bfb034a77d94fb20d854b4bd8a76ef0d797f4f08a9
+sourceFingerprint: a9b457d8c713c1d6c4fd18ace1e9cbf20b8e5b310775a008260af532337a9103
 apiScope: Runtime
 contracts: []
 

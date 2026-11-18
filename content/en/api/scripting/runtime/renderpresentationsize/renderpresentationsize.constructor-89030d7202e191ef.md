@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.89030d7202e191ef45e3768e53ce0c084c089ab9fd8f4df62819834b01e80b8b
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderPresentationSize.#ctor(System.Int32,System.Int32)
 title: RenderPresentationSize.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: a29fe618a3e77a9eb49a3cb11f1927049797f02a40dbb53289bf5ac5b32297cc
+sourceFingerprint: d985996ad6fe9120aec4958008f9e196480c4d49a14218f46975892e9b926078
 apiScope: Runtime
 contracts: []
 

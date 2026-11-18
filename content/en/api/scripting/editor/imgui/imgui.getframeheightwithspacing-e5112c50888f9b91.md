@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e5112c50888f9b9151b0948a1429cb894253047e8e3af8ddfa0d09a71e43d906
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetFrameHeightWithSpacing
 title: ImGui.GetFrameHeightWithSpacing
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 4ea2586e71acc63b8f172af05895590c22f6121a9c0bfe65328981b5c34243e9
+sourceFingerprint: 226e6fedf1b54add76c931204148828fe47415bcc044eb583d51ebb0de3d5245
 apiScope: Editor
 contracts: []
 

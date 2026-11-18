@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a0ffcd2b35b2831e024f145cdfec091a02c90c84caeed59669c56bb84837a2a7
 symbol: scripting:Inno.Animation:F:InnoEngine.Animation.AnimationValueKind.Quaternion
 title: AnimationValueKind.Quaternion
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-reviewed: 0903c374d588aa0967c32a84bacc9bddbdcf7f52a6589abd7043f658b0f01105
+sourceFingerprint: ce4933af2cba78a1a480a8de590463c2973116df44766ee2f5ae0eebf42dc425
 apiScope: Runtime
 contracts: []
 

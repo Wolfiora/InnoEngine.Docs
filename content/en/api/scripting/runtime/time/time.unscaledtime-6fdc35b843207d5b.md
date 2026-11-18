@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6fdc35b843207d5b2307e0f965943de7d6d9898b9fcfe6ee0bee2d2ec30e137d
 symbol: scripting:Inno.Runtime:P:InnoEngine.Core.Time.unscaledTime
 title: Time.unscaledTime
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: editor-script
-reviewed: 8172512fc7cc7c2309f71fa42f41bec7bbf293a6fc5dc64e84b97a3670826055
+sourceFingerprint: b46242cfddd614e281d77be35c84dbe5bf68e18f431c43f6ff054d04541ed1f1
 apiScope: Runtime
 contracts: []
 

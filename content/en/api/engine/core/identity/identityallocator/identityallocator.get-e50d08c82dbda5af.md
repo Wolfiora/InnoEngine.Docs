@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e50d08c82dbda5af9b0f03b73ef320be4969c80d979eee1a996357a9275a418a
 symbol: engine:Inno.Core.Identity:M:Inno.Core.Identity.IdentityAllocator.Get``1(System.Int32)
 title: IdentityAllocator.Get
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Identity
 apiSurface: source-clr
-reviewed: 5b231147462b32c42dcc085316d1795120fd65b38fd6ac631176fb5be5a068b1
+sourceFingerprint: bddf9d1b16b056520971840f06afd6ffe342c72e97d75d06078ec36b6a964b64
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

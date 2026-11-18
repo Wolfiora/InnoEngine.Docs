@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.animation.b71d0e72b3a92424
 symbol: engine:Inno.Animation:T:Inno.Animation.IAnimationBindingSink
 title: IAnimationBindingSink
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: source-clr
-reviewed: 74b2bde9fb0749060af8850cfd2ddefcad5d4489ea1e0fb97969e992a2bd206e
+sourceFingerprint: 57d2c11e755ac025fbea1fbaf0733d83595bbc32785c1c8a3135743aed6908c4
 contracts:
 - project.inno-animation#target-and-service-contract
 

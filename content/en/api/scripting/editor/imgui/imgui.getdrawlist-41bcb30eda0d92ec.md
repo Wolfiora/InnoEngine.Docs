@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.41bcb30eda0d92ec4fe75afd8d020e1aef3c79f70f1f627cd988f5ae1a21fb7e
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetDrawList
 title: ImGui.GetDrawList
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 29c0eeddf5d87335b0e70af5a51a50c83f0caa0c45a1f4a8ee48199c486390d7
+sourceFingerprint: da325a8c6299f77f5fe37303aa1fb283d49561abbece656f47515d85448a2edb
 apiScope: Editor
 contracts: []
 

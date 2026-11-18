@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.6c48421785e2d8ae
 symbol: engine:Inno.Build:T:Inno.Build.PluginBuildRequest
 title: PluginBuildRequest
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: ac7ed215f8f1cb3fe3184a5d502271ac0ec65d625cb858c1316ff17a101b0182
+sourceFingerprint: 1222b10066f5c6592ea0447595f2cf7e52f197e68eb8432166edc6c1134d5098
 contracts:
 - project.inno-build
 

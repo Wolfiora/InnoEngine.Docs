@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ccdd8251da6068c08a9131e2a6c917763c9bec1a17e195ce1efc6a23c98e5732
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector3.Lerp(Inno.Core.Mathematics.Vector3,Inno.Core.Mathematics.Vector3,System.Single)
 title: Vector3.Lerp
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 698f7eaab74ef93241a31963311d3cc900a31d9b2b3b081e89ee4f8a76ff7e04
+sourceFingerprint: acbb8a0ea71b0d1b671ef9bbddad3432c75e81fa7c5e4f9b1342398248b15216
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

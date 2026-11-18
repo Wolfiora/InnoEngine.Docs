@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8e16cf8ee7ad240f8bfd31e977e060f4aee305054fe11b8a29cd038bfc4612be
 symbol: engine:Inno.Audio:M:Inno.Audio.Audio.Seek(Inno.Audio.AudioVoiceHandle,System.TimeSpan)
 title: Audio.Seek
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: 2c7155fe30c895e15fc44e099d8f367c719710a9e10bf55d41629aac24478f72
+sourceFingerprint: 76050e713628f3cffe9d7ea22378d75fe7be28613d6a78256ab7c07e3460d7b8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

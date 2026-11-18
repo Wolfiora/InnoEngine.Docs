@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.46ca7fbd7d32bf2084a40218547c93e1fb79709a586d0b41f0f29ce0d3686866
 symbol: scripting:Inno.Core.Input:F:InnoEngine.Input.MouseButton.XButton1
 title: MouseButton.XButton1
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Input
 apiSurface: editor-script
-reviewed: 621c2c35e29bd129e1cbecf60386273c863215e89d0b77e78d9fb173fa6ab4ea
+sourceFingerprint: c0a1b314859e2fd0108403be2579ca642447b3bbd3b46308c238ee6b5b3b57d5
 apiScope: Runtime
 contracts: []
 

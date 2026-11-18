@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e6f99b31146f6846b9a80668003310c51d95944abb3812dc3abb29e394b5e1b8
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeBindingGenerationDescriptor.Load(System.String)
 title: NativeBindingGenerationDescriptor.Load
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: daee70f7a81b04c1e6ccd25cae52248d11b7372a2a7882aa72324528750567d0
+sourceFingerprint: fd7e5156299689e3f746ca8c27a34fbc64d0f9771d344cc24ae64b0f00f51455
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

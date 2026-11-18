@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cd87432aacb2c95921fe08c605abb71814ad38d3d3612340a7e6caeec7bcf166
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderGraphDiagnostic.resourceName
 title: RenderGraphDiagnostic.resourceName
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 763614ecfbbc83516c8f31f428bf7da84f41f2509c687ffdc8e73858b0059fc9
+sourceFingerprint: 4f1a4496ef5330826617585077e177dd58f1ab361ec1994db388cce14a22f452
 apiScope: Runtime
 contracts: []
 

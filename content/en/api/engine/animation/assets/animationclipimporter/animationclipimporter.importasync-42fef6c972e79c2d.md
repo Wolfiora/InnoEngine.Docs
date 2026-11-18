@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.42fef6c972e79c2d723c749cf0be5b6d71cabe00ad1ec8813da2c02ec2602d1e
 symbol: engine:Inno.Animation.Assets:M:Inno.Animation.Assets.AnimationClipImporter.ImportAsync(Inno.Assets.Pipeline.AssetImportContext,Inno.Assets.Pipeline.AssetImportWriter{Inno.Animation.AnimationClipAsset},System.Threading.CancellationToken)
 title: AnimationClipImporter.ImportAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation.Assets
 apiSurface: source-clr
-reviewed: fd3302e366275ef4a39591ae8bd3e8591c119d335f94b031736e57bd699c2dbd
+sourceFingerprint: 057b0b60d28b5969359e230a9723ad9651e4b481dc412b5d571eb2909ff663ec
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

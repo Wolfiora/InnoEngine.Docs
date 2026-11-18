@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.58fa3cbbdc5e94f4a30d77478a48b9d7ed545e200d13133f5c30b10a84bdd2ca
 symbol: scripting:Inno.Editor.Interactions:P:InnoEditor.Interactions.IEditorHistory.undoUnavailableReason
 title: IEditorHistory.undoUnavailableReason
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 2608ec25e5f89f94f3227bfe24494e80845e6e87c8eb148cca415ebe6915eca1
+sourceFingerprint: 32bf821e6a42835a13e137ea032983afefd8cf69aef3bee188cc3d6903d89bb2
 apiScope: Editor
 contracts: []
 

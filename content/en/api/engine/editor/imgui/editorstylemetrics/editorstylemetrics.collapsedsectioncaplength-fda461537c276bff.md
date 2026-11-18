@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fda461537c276bffce9eaae142dc88f7e4803ff1c1edd24758cadb86a4336bb3
 symbol: engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.EditorStyleMetrics.collapsedSectionCapLength
 title: EditorStyleMetrics.collapsedSectionCapLength
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 2c5e1778eac2b37331ebe2440fec21daf1fadd15145dc3ed2a9f4b693ed1cb32
+sourceFingerprint: 1be1ac4a4d5237bbf9365c1d3605a6ffce2283218c95ce94deb3f5d5d9e958e4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

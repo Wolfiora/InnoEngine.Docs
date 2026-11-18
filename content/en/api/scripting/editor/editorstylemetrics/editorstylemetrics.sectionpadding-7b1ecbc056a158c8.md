@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7b1ecbc056a158c8439fc13608f543b1006523ee3ea3987a278000260a96de3c
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorStyleMetrics.sectionPadding
 title: EditorStyleMetrics.sectionPadding
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: c010e9a3d2a4d4cda2d62479f4c2e778ae84bd3bb99e7ef7d373b42b7fcfb641
+sourceFingerprint: e58abfa4d717f185faf636a7f16a6a2ec4b2aff67b67dca3474ba14735ea9545
 apiScope: Editor
 contracts: []
 

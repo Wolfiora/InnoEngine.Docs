@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-extensibility-catalogs
 symbol: project:Inno.Extensibility.Catalogs
 title: Inno.Extensibility.Catalogs
 kind: project
 owners:
 - Inno.Extensibility.Catalogs
-reviewed: ''
+sourceFingerprint: d193c7c93fc41f9146baa50003e86a3eab5228cb8b89a580b73732c29f753841
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.56eaf2323fb86a0d1bf2045e4474511f30418872ddd6beafc7614c03943afe3e
 symbol: scripting:Inno.Editor.Shaders.ImGui:M:InnoEditor.Shaders.ShaderPropertyInspector.Compatible(InnoEngine.Rendering.ShaderPropertyType,InnoEngine.Rendering.MaterialValueKind)
 title: ShaderPropertyInspector.Compatible
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders.ImGui
 apiSurface: editor-script
-reviewed: fc6b79f9eaf596e2a408c70d6680f28f5cf89573c4f67cfc99977d116c4144b0
+sourceFingerprint: 14e10998346a9674c6e3873bc42141d9bd973ce70f09309a149f34d349bbfcce
 apiScope: Editor
 contracts: []
 

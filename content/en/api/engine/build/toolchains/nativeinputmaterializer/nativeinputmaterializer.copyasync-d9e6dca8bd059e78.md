@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d9e6dca8bd059e783b1ff899e2d209777986c5376049d17b0725f9fdecc55ae9
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeInputMaterializer.CopyAsync(Inno.Build.Toolchains.NativeBuildContext,System.String,System.String,System.Threading.CancellationToken)
 title: NativeInputMaterializer.CopyAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 4abc6c313da04b6615992e0bfcf1012c78070feb28c86d0a89cfa829b15f718d
+sourceFingerprint: 35369515e6bc7c4b499d7f09e20052c292497655cac3e8d2cfa59948f3108df4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

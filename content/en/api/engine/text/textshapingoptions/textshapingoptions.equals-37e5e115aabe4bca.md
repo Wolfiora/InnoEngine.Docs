@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.37e5e115aabe4bca552d245002be15770f70a3b23f2b2d6cf261494e6ee00942
 symbol: engine:Inno.Text:M:Inno.Text.TextShapingOptions.Equals(Inno.Text.TextShapingOptions)
 title: TextShapingOptions.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: source-clr
-reviewed: 1a4d7fe00ddf0441d50d4bc55924ea0f5173a785f667fbf862ec1e687b67a647
+sourceFingerprint: 1a4d7fe00ddf0441d50d4bc55924ea0f5173a785f667fbf862ec1e687b67a647
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

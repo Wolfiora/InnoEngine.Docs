@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.89b9485f665a7cefacce436367368c29a6e42c7c9b9139cab10496e744c4953f
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioBusHandle.op_Equality(InnoEngine.Audio.AudioBusHandle,InnoEngine.Audio.AudioBusHandle)
 title: AudioBusHandle.op_Equality
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: a0419f164be7a8f6b07f5c872a7a2c5872a650fe2d27376ed9dbdae2bb09b0da
+sourceFingerprint: a0419f164be7a8f6b07f5c872a7a2c5872a650fe2d27376ed9dbdae2bb09b0da
 apiScope: Runtime
 contracts: []
 

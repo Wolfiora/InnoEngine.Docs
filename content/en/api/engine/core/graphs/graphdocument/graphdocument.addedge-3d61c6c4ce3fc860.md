@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3d61c6c4ce3fc860fd01b38dc9620d86b550b65e1c9f51be8f82362862293e54
 symbol: engine:Inno.Core.Graphs:M:Inno.Core.Graphs.GraphDocument.AddEdge(Inno.Core.Graphs.GraphEdgeRecord)
 title: GraphDocument.AddEdge
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: source-clr
-reviewed: 762cad36b6c2c7098b89d1b55c2c32c50fd0efbe7fcccfe73cd4df3d4a463e31
+sourceFingerprint: c892f03fac0ce652bf93780808e937b2822323abfeab9ce443babd92ebb143cf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

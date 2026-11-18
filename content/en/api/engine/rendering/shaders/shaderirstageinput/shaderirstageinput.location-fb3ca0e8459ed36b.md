@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fb3ca0e8459ed36bcbca4ab45f98005bbaf6624ec7ce430d24bdb0ec6198ab04
 symbol: engine:Inno.Rendering.Shaders:P:Inno.Rendering.Shaders.ShaderIrStageInput.location
 title: ShaderIrStageInput.location
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 1f7a868630d3267dcca314b39c89dbf7ae99180ad83574cc420f0a6a0ccf27a1
+sourceFingerprint: 6413d7b78e0c63c12966600d5a4ea87965b7632e225638f6f4d1ff2a751c664d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

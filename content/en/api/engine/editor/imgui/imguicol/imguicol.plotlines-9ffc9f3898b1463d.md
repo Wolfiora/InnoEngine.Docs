@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9ffc9f3898b1463dbdad166eca6aa66a3c389e6e79c336c291b859a5f2ab84fa
 symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.ImGuiCol.PlotLines
 title: ImGuiCol.PlotLines
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 0d4d042617eb6c1e12ed92e882e2075cbca83eddb8dcb78f21e250e491b294b7
+sourceFingerprint: a42d6effb3cba83f22b785faf71c9b529343ea9eddf4f2e676309a5d858f06e4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

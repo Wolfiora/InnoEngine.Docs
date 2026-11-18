@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5b27e5c909136f610b73566593519db01e2c45b46c9836a97b5c170665d45c41
 symbol: engine:Inno.Text:F:Inno.Text.TextFontStyle.Oblique
 title: TextFontStyle.Oblique
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: source-clr
-reviewed: ad2ea889e2a447c33da20e5050d052174c185aa539d9765bb624188fd8530828
+sourceFingerprint: 6851499087440acef642d0f2b1a14c625e6d5f9cadf34e94775dd4be88046303
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

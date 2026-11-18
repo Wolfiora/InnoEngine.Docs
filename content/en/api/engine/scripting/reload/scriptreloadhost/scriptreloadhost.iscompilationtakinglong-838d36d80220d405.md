@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.838d36d80220d4054b0f69e31c3b0b9edccd53019b161420b75d9d602ad5883c
 symbol: engine:Inno.Scripting.Reload:P:Inno.Scripting.Reload.ScriptReloadHost.isCompilationTakingLong
 title: ScriptReloadHost.isCompilationTakingLong
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Reload
 apiSurface: source-clr
-reviewed: 23e27f9acdea8e6796a172d7c3f70bf2bfb333513de7df6c9a26908fef32c295
+sourceFingerprint: 16c576bc22e1da13aad619fb55c1407a0963bc812b7b16a8543ad8ede2a49cff
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

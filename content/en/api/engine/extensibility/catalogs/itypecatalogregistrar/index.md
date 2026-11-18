@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.extensibility.catalogs.3c11be680076b4b1
 symbol: engine:Inno.Extensibility.Catalogs:T:Inno.Extensibility.Catalogs.ITypeCatalogRegistrar
 title: ITypeCatalogRegistrar
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Catalogs
 apiSurface: source-clr
-reviewed: 7cac5f6205824524e4f8d7cd732ba3258f5fba5dcf1d315a1508a16180d5a184
+sourceFingerprint: a6a24b2db28abaa7013a5dad146734bd86ef0c2e8ac914d4b4da3de8d8e69c14
 contracts:
 - project.inno-extensibility-catalogs#composition-and-factory-contract
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b12e2a98ffc0c0c6174947f850c074f816a190ce2b6ece3e56ed20774fc960ed
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.SignedAngle(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3)
 title: Vector3.SignedAngle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: a6d0974107f8384a27e98cf4876f8112c8d953d4640bdbede725e87b73eb2018
+sourceFingerprint: 0eac2187b952ab5bfee713a41df8c66cc70bf7d997f41b4841dbcff80a86a443
 apiScope: Runtime
 contracts: []
 

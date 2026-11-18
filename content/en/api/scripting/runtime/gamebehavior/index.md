@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scene.runtime-script.e8e194b9836bef73
 symbol: scripting:Inno.Scene:T:InnoEngine.Scene.GameBehavior
 title: GameBehavior
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: f465525a6816e28b324dcef22c6783450594c7769d35a1dd44bcebbfe6eac9d1
+sourceFingerprint: 866a324f15c49b6e1112304da912a85c4ed4c2edcb8209eae089ce0f563e9264
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

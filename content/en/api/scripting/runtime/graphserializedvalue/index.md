@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.graphs.runtime-script.9cb32122c5dbf936
 symbol: scripting:Inno.Core.Graphs:T:InnoEngine.Graphs.GraphSerializedValue
 title: GraphSerializedValue
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: 3395180c2a5822693b7f72c907a4a00ebd78f4806699d4f94e8598ac0d27eaf6
+sourceFingerprint: 2dfa37f53af8ffc5d2de9ee218ff7f0068b9b3bb872d1075079f1439120fc043
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

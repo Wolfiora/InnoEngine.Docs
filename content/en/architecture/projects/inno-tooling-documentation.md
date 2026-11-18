@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-tooling-documentation
 symbol: project:Inno.Tooling.Documentation
 title: Inno.Tooling.Documentation
 kind: project
 owners:
 - Inno.Tooling.Documentation
-reviewed: ''
+sourceFingerprint: 6be7b5857a02b1e0e20ec74f1d8f40a5983030e80829f01619629caec3b2cdfa
 contracts:
 - contributing.documentation-queries
 

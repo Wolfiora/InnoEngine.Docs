@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8a01f6ffad2fac02cfde5d62dafb0d4fa621e3500881122d729ac74c7057711f
 symbol: engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerCatalog.Remove(Inno.Scene.Layers.GameLayer)
 title: GameLayerCatalog.Remove
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 75dd066e3a0e8558acc6f5a773f2848a683d49205f25fb88adb67da6502d87ab
+sourceFingerprint: 14b02e19a061c573fba395eefdbe3b40a399a87488efa1563140728bedb57129
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

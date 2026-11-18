@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.diagnostics.runtime-script.8cb2b1c161541b61
 symbol: scripting:Inno.Core.Diagnostics:T:InnoEngine.Diagnostics.Diagnostic
 title: Diagnostic
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: editor-script
-reviewed: 3451112cec91818074c2a1c4d85fb25f6cb978137b5ecfce87122f5abb83751c
+sourceFingerprint: 2133d19262f431f579406f9f6e64136d86b17206bd169fc86d028a0f822d1fe9
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

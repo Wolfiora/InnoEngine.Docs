@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.63cd0c7e8a3f5a84350730d20baba4ab796d0271887aa8cbacbb9f9d1d1f9b6e
 symbol: engine:Inno.Rendering:M:Inno.Rendering.ComputePassBuilder.WriteStorageBuffer(Inno.Rendering.RenderBufferHandle)
 title: ComputePassBuilder.WriteStorageBuffer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 25515ff9ffd229e62b591b0b0d6923777dc281d58e7cfcfdc9c18bf68de29417
+sourceFingerprint: 5ac31df7b8559043ad88232cb0666d1abb7d034bae39ca2679880ce9f58e53fc
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

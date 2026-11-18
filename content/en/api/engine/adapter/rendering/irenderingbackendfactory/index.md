@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.adapter.rendering.aac2c58b4a6be123
 symbol: engine:Inno.Adapter.Rendering:T:Inno.Adapter.Rendering.IRenderingBackendFactory
 title: IRenderingBackendFactory
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Rendering
 apiSurface: source-clr
-reviewed: 8e898a59ce6609e8a095c9f9d9a2043cd8e1f2b27a733f561a108812ca36d11d
+sourceFingerprint: 90b3b4013b2894c77c19d18756bac94065ac7f105073d334c95bff6cb8e981a9
 contracts:
 - project.inno-adapter-rendering
 

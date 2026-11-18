@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.ui.runtime-script.b945f8272b6a8665
 symbol: scripting:Inno.UI:T:InnoEngine.UI.UiDocumentAsset
 title: UiDocumentAsset
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 6363caad1c6664428bfd7aae7ae37866717dc188400d9736a3571fcf083c1208
+sourceFingerprint: d702b74d66077c7510666d357c52a0966e9a3f056e0d55004c393024e6367378
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

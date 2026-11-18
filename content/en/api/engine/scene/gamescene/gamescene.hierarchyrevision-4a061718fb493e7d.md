@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4a061718fb493e7dc3eff7d52941475302ac8acc4ff0425d7f86dc7e20c29d99
 symbol: engine:Inno.Scene:P:Inno.Scene.GameScene.hierarchyRevision
 title: GameScene.hierarchyRevision
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 316f3339722654a5f6131759480a9da6bf590fde03b10f5378c65707812a6a9f
+sourceFingerprint: 943c5ecec997d54e1b137a7c47bbdaf64103e39fdeecc45b917073eb32c602bf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

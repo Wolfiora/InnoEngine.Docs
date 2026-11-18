@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dd59829818dad0e419d7360ba018c6d1a67d8921a3aa2fd4eae867115fce461b
 symbol: scripting:Inno.Editor.Core:P:InnoEditor.Core.EditorPanel.allowScrolling
 title: EditorPanel.allowScrolling
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-reviewed: 17107908809fe02a175ea36c11cfc31e52ef878278fdd4b12a1397201146c444
+sourceFingerprint: b24da8683738e98e565f882e4ae0b811899713c6dc9f1fa5058f078fb3c1c7ab
 apiScope: Editor
 contracts: []
 

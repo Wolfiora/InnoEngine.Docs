@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f77715baec963370f7e3271abd151a4deab02160215a00ca05acb6a01c641e3b
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Rect.TryIntersect(Inno.Core.Mathematics.Rect,Inno.Core.Mathematics.Rect,Inno.Core.Mathematics.Rect@)
 title: Rect.TryIntersect
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 3b7171cec77d026216ce6ad509aec912003930bfe054818a64e4bd920f585176
+sourceFingerprint: 8b9afb72fcaf291da07c4b971f85dccf3fdf06c33e7aa6f51af116037a0aaa6c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

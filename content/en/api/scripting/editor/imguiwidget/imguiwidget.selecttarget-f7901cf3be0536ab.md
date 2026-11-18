@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f7901cf3be0536ab79bfe7581b4532c9e3745a52e8b32e7fd309e9537207fdd9
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.SelectTarget(InnoEditor.Interactions.EditorInteractions,InnoEngine.Core.IdentityObject,System.Collections.Generic.IReadOnlyList{InnoEngine.Core.RuntimeIdentity})
 title: ImGuiWidget.SelectTarget
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 199fa85d2b0d2aee3f40917abc1bf298ccedc6f05883937ff64181f5a0277039
+sourceFingerprint: f743e04941b727870407990dd837d9d4e8880011daae08d40a7293f9c4c2bf6a
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime.runtime-script.e085b7fe52c60ff2
 symbol: scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.IViewContentCollector
 title: IViewContentCollector
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 8401d74e6a0902551ec8040b390421bcdec98ca42291c4fc3aafa526c1053225
+sourceFingerprint: 39751f063d9c6cc3fc67bd8cc46b88b05433f737475e55891b307fb1e2a461e2
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

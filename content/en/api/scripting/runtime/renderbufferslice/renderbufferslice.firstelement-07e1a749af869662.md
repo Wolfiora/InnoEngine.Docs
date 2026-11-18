@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.07e1a749af8696624e681df2c572c4f0d90487bb95c93077b27013a1117eda9b
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderBufferSlice.firstElement
 title: RenderBufferSlice.firstElement
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 11f05beab991c7bb7affd4a58bd55f3da31d2ae037319ba59fc5217b914f8e02
+sourceFingerprint: f1e188da510a8185990ff83fb6c9d93e60ca0ed31c9438b84eddc1b2cece3979
 apiScope: Runtime
 contracts: []
 

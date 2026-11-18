@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.authoring.c874fe92dd888ed8
 symbol: engine:Inno.Rendering.Assets.Authoring:T:Inno.Rendering.Assets.Authoring.ShaderCompiler
 title: ShaderCompiler
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
-reviewed: de3b74d051b0eb14f7b4c9307a92bd9b24d1338ca1c9389f7da6c6b6284933ed
+sourceFingerprint: aa058502fb73197c1dd782b5e7c84849865f69a35a0e13cafcfb0fe0f4dbc960
 contracts:
 - project.inno-rendering-assets-authoring
 

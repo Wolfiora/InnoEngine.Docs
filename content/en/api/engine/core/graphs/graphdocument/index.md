@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.graphs.4c6d74c85656ab7b
 symbol: engine:Inno.Core.Graphs:T:Inno.Core.Graphs.GraphDocument
 title: GraphDocument
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: source-clr
-reviewed: f96384b99bf5e099be8526238cfa94e9cfff69f5723a135cd7f9f449ab42f282
+sourceFingerprint: 515e90f75313a8f3a40967e06220b1bfbfbd592e1ce72c83b871cd9e89c2bf76
 contracts:
 - project.inno-core-graphs#document-and-definition-contract
 

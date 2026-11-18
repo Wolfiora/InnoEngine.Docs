@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.22834a88a0c6a78c5eb093e86393ba7ec5669b9daad19260bb9d7d0ab9f3dcb0
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameLayerMask.FromLayers(System.Collections.Generic.IEnumerable{InnoEngine.Scene.GameLayer})
 title: GameLayerMask.FromLayers
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: eb87c2e2d162aafd05d86f11c87e6f8f8f40d51772291c3983578a3f0314e4cb
+sourceFingerprint: 88333700ba992d1cf7c714c89a66cb952329eccfc9fb5f750bc88a32754aa5a3
 apiScope: Runtime
 contracts: []
 

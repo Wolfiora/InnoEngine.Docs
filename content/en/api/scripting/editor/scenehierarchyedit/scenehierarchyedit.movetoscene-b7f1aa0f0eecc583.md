@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b7f1aa0f0eecc5830acfd54b2dbf96270ee6d35bfa515c016d6b4d6ac69cfdb8
 symbol: scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneHierarchyEdit.MoveToScene(InnoEngine.Scene.GameObject,InnoEngine.Scene.GameScene)
 title: SceneHierarchyEdit.MoveToScene
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: editor-script
-reviewed: 3a7e35b1e73a8b6d60688127da2f5069f8fd7c6906fd676caa20eed000e80705
+sourceFingerprint: 7a1a0965ef43e40845cfd56ca8b7165ebe02b00c94aeefbad0f405dc459bdc4c
 apiScope: Editor
 contracts: []
 

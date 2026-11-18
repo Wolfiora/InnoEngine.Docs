@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.57593478cca6794451eabe3e4be892189b78482bbbdd46c49986dc12d8508bca
 symbol: scripting:Inno.Rendering:P:InnoEngine.Rendering.RenderTextureHandle.isValid
 title: RenderTextureHandle.isValid
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 6c2cedc91a618f1e2256e17712fa9f2680035bd5d704c4ad79ffa7ebbac63b8e
+sourceFingerprint: 0137342b2a347e16c7088d714297ad4d652a2ce117706517774dc03c03edbbbc
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6f1a55430c78a387043393c590dce26cacd96e57296b73bd7c4a271a8f2f34bc
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.TryResolveGeometry(InnoEngine.Rendering.GeometryAsset,InnoEngine.Rendering.RenderGeometry@)
 title: IRenderResourceService.TryResolveGeometry
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 3b9c0132217c6374050ef1398ccf40251833b9ec0d12fb27a4a4f397512b1328
+sourceFingerprint: ed7f46f082d20ea6fda3c79cc9323538183251400d559fef9621075fa250703e
 apiScope: Runtime
 contracts: []
 

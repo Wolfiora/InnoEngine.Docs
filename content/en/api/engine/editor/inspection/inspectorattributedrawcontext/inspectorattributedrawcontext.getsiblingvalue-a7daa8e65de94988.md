@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a7daa8e65de9498855a5c5210af39bc2435e504213640cee77932b804393c039
 symbol: engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.InspectorAttributeDrawContext.GetSiblingValue(System.String)
 title: InspectorAttributeDrawContext.GetSiblingValue
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: source-clr
-reviewed: 3672bb636508c909a2524547e26a7bda0397807f3c357e2f910e1ee4b511029e
+sourceFingerprint: 8076fc1895e8122b5e71c1db74a70558e4019294ac549ee88c128dd474e50ce2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

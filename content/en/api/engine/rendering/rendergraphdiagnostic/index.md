@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.f33ae143e9fbff39
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderGraphDiagnostic
 title: RenderGraphDiagnostic
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: e5e8da579c9a6e0872346e8e63cfad0a0c293a3062fef54b092c48b4b131df0f
+sourceFingerprint: d565084b826794fb7580a5c16b3b37281cee1c3543b8ffa39a2b0afa9962d85c
 contracts:
 - project.inno-rendering
 

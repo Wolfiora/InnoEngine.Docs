@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.66fe54d2fc53a1517981904ef29f223eee2aa9a2c782b568c0261a54141da3e2
 symbol: engine:Inno.Core.Serialization:M:Inno.Core.Serialization.Converters.SerializationConverter`1.TryCaptureKey(`0,Inno.Core.Serialization.SerializationCaptureKeyBuilder)
 title: SerializationConverter<T>.TryCaptureKey
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: source-clr
-reviewed: 6ffc41b0aeaa85fc23226a8e2b7f977e88e16e486ec4e1ecdb079652739e7202
+sourceFingerprint: dcb8882287cf1f074766eed24b45c8567a38843ea6ac94936fe9b8813ab4e2b3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

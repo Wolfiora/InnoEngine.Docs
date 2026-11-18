@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.core.b7254ac55c2ccaae
 symbol: engine:Inno.Editor.Core:T:Inno.Editor.Core.EditorStatistics
 title: EditorStatistics
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: source-clr
-reviewed: 734d43b046674b38e578f291a7093e021e08b68c75265d1ab6e9e73a8a1bf7ec
+sourceFingerprint: c0dd7ece6e37fbec75836e7c05887444647dc4f4485d013f8340bbedd02ea920
 contracts:
 - api.projects.inno-editor-core#lifecycle-and-failure-contracts
 

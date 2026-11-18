@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f434e39eef1c186422b14f40e2b417da2aff4c3009cf334d96bd88990f0bd8e4
 symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.EditorViewportLayer.#ctor(System.String,InnoEngine.Rendering.RenderPipelineAsset,InnoEngine.Rendering.RenderFrameData,System.Int32)
 title: EditorViewportLayer.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: cfe94e0955d369d51cc3f6c8973025ad716383dfb430d67a6d07eb4cdc94e164
+sourceFingerprint: ad65f7e425f70e79bfaa3d53a0d0dc8742045f09c2255b78e534fb0b0f9f8371
 apiScope: Editor
 contracts: []
 

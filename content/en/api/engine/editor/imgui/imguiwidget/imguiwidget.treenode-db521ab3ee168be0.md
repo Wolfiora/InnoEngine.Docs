@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.db521ab3ee168be0edae37bab865146b5eb0e60ff1f093f2e1f44bc727514de1
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.TreeNode(System.String,System.Action{Inno.Editor.ImGui.ImGuiWidget.TreeNodeDrawContext},Inno.Editor.ImGui.ImGuiWidget.TreeNodeOptions@)
 title: ImGuiWidget.TreeNode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 4532cb3e5354268169c90b2921fa8d0ea676c92633607227b6fa3d6b6779fa44
+sourceFingerprint: 57cc7d8028bda8d5cfbeb31ba469bcd0d67bbcb6b8b05e3a657dfb04edc930e5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

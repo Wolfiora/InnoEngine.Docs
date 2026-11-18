@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7c4e89d4284f5ea8561c1777c5a5b2c7c2d450377abf548d8573990f99734d1c
 symbol: engine:Inno.Editor.Settings:M:Inno.Editor.Settings.EditorSettingPathAttribute.#ctor(System.String,System.Int32)
 title: EditorSettingPathAttribute.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Settings
 apiSurface: source-clr
-reviewed: ddf0a48330c27ea194c5692cde6801b89382b201608856297bba415da00c7b7f
+sourceFingerprint: 94416403f38649c83feb8aa53f98f5a6e3cdae1819c9d712ba981a52d79c96b6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

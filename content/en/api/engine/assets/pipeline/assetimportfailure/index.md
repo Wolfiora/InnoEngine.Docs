@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.assets.pipeline.e0df66f40562ebd3
 symbol: engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetImportFailure
 title: AssetImportFailure
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: 175657d05978bad3bcc4fbe008823341b72e093b555b6f1d02005bbabcbc9ae7
+sourceFingerprint: 1e4db8de182261adbf0ba46b5bdf008f259e729fe74e6fd39c17255f611d36f0
 contracts:
 - project.inno-assets-pipeline
 

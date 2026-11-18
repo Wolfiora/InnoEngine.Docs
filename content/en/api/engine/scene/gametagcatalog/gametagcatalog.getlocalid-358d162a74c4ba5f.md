@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.358d162a74c4ba5f47df33843458be1ae65d24ce9462cc240560b1e9f3bda5b5
 symbol: engine:Inno.Scene:M:Inno.Scene.GameTagCatalog.GetLocalId(System.String)
 title: GameTagCatalog.GetLocalId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 6082325354dda1d8727e14a1cc3505d2c51dc3b4c49b7dcfbba16ba7b84e3904
+sourceFingerprint: e2421292dc37cbc16794d937f7d121d163ea10bdaf556d7fa1e9ac0c7ec28ef3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

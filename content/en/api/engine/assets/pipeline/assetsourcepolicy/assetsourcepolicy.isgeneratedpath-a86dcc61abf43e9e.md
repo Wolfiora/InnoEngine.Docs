@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a86dcc61abf43e9e53642ba6a0798aaff85ebf26b4f032d7022665865788df5b
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetSourcePolicy.IsGeneratedPath(System.String)
 title: AssetSourcePolicy.IsGeneratedPath
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: be695d6f0251a06f0a07dff98c595ffdc412a4a40cc326fc758b6a9c8b810347
+sourceFingerprint: 4a9fde44b826ea67954e8575134a0fa856ae3fb26f2812316833771a54f133ab
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

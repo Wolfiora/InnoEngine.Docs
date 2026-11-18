@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0536479d44a55ba81c0922b649dc390561934fafcb3f72ed978c3d18dd986172
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderGraphNodeInputsCompiler.GetPorts(Inno.Rendering.Shaders.ShaderNodeDescriptionContext)
 title: ShaderGraphNodeInputsCompiler.GetPorts
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: da4d226e10e0deafb48d9eb7d31a1103b35190445be5a40c2d55c6b87ef27d5d
+sourceFingerprint: 701e2ae412d4e2394d2df9ced0bea1cebb7cb42fc157060444a0a0c11fe20660
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

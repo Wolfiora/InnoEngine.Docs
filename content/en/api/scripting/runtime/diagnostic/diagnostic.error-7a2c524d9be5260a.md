@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7a2c524d9be5260a775db7d82f5a903480b1b2a83a384b9a90cb06886c894845
 symbol: scripting:Inno.Core.Diagnostics:M:InnoEngine.Diagnostics.Diagnostic.Error(System.String,System.String,System.Nullable{InnoEngine.Diagnostics.DiagnosticLocation})
 title: Diagnostic.Error
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: editor-script
-reviewed: 78c12d6a28dc9db2afbc27ce8e0511ee1d8e1d1cbfa98ecd9a5aef28b8d9722b
+sourceFingerprint: d2a0203b92d77bdcc693b647c1619f0abaa4a60bb5b9f84fe56b308f521456ea
 apiScope: Runtime
 contracts: []
 

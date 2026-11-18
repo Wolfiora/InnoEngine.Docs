@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.abb564ce6171b62c44491b0cd45e6c1e3a8b41e0ac145ebacb4e898bb601e84b
 symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.IEditorSceneWorkspace.TryGetSourcePath(Inno.Scene.GameScene,System.String@)
 title: IEditorSceneWorkspace.TryGetSourcePath
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: source-clr
-reviewed: 925934130a7b3ac5041ca889f5cefe8a9a21c1f0de4e92ea4ca91a962e628050
+sourceFingerprint: 14882f7b3d96c6bd88995575e98a748bc16ec4e59073d07dbc84dd5ccff3c667
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

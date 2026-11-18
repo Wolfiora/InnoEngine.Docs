@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.toolchains.6c92d470e8438f79
 symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeCMakeExecutor
 title: NativeCMakeExecutor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: c50a6e575667d154c7a28da7fa7232ed30cecbc36a1aed0248959faaeda4ba8b
+sourceFingerprint: 99baf0bfc6dee7d6f402039144189d079c05a629ae25c14707b88f9dfdf39dbd
 contracts:
 - project.inno-build-toolchains
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9acb78a3f7af0177992a359dee44c2fbd300d308f835e3046aa8236a3adfb706
 symbol: engine:Inno.Rendering.Shaders:M:Inno.Rendering.Shaders.ShaderNodePort.#ctor(System.String,Inno.Rendering.Shaders.ShaderSourceType,Inno.Core.Graphs.GraphPortDirection,System.Boolean)
 title: ShaderNodePort.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 09154065ee4cce45e364ad39b1b86252f7d8229d02855892eba3dd859beae878
+sourceFingerprint: a721345e3779368dacd49f116f1ce6280ad4185893ba1d2850eb78ac4a96d184
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

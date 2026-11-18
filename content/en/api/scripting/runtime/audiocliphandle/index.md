@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.audio.runtime-script.277e1540ea80086b
 symbol: scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipHandle
 title: AudioClipHandle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 5511cfd2e6b0dc0ff9b57dc587d6b94245b0f7f8c09e61416e55148951763dfb
+sourceFingerprint: 33b72988b88be7730de7d83a873bd36f6c3ca4a8f45578c99c32a9d3f2976e76
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

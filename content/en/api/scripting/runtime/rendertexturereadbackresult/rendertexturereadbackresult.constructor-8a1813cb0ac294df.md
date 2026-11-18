@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8a1813cb0ac294dfbc5c14ec4a3c0398ea4850093ad5d3fca753923ff1a80864
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderTextureReadbackResult.#ctor(InnoEngine.Rendering.RenderTextureDescriptor,System.Int32,System.Int32,System.ReadOnlySpan{System.Byte})
 title: RenderTextureReadbackResult.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: a09ae601ea3f433e451d2198cc73eb0814a07f78117afab725fbcd4deca8eb4c
+sourceFingerprint: 48ab11de5f60eac580606b3ccb8ed7abad353ef26d3eef60d005346ae80b3cd2
 apiScope: Runtime
 contracts: []
 

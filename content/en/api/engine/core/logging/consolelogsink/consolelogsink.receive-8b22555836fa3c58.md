@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8b22555836fa3c583778b29f991168071d810e42d835aa9635354952e515b341
 symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.ConsoleLogSink.Receive(Inno.Core.Logging.LogEntry)
 title: ConsoleLogSink.Receive
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-reviewed: dc94313821d962c2a6b6b9669d55e1a62d84dfc57569f6a11617038739399cc6
+sourceFingerprint: b5dd0117d42c3c4c1dfbbdd37968e3f7ee95b2a0c415097a9fee522421860702
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

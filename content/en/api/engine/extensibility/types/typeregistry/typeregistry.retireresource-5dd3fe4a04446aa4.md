@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5dd3fe4a04446aa46f1e5aaecae8da4c4a5e2c357bf8d80c4b9ccbc6428b2b42
 symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRegistry`1.RetireResource(System.String,System.Action)
 title: TypeRegistry<TSnapshot>.RetireResource
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-reviewed: 4d2456683ecd83664adbdd14c778944520bfa91306f11069dc6832b6256f8a57
+sourceFingerprint: 38d80897afc7ae5fcdf1a636ec25ffe89643afc5e8d0b57a83aaf7f4b960ac76
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

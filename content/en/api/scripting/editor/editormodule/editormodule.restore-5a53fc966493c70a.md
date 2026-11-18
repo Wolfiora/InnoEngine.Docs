@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5a53fc966493c70acf09c495e72b84e7ba5f0d6889a9a527921ce6a353101cb0
 symbol: scripting:Inno.Editor.Core:M:InnoEditor.Core.EditorModule.Restore(InnoEditor.Core.EditorState)
 title: EditorModule.Restore
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-reviewed: f815840be95e54c11955276fb7387276b50af91abbfbd5da52782fafdfacccfe
+sourceFingerprint: f0ec5a627c3804e6316785c6f6b5ca98918205677768d37487d9fc5bb14c9811
 apiScope: Editor
 contracts: []
 

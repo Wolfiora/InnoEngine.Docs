@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5953fae2a96bb1ecb1ff8b49134d195f6b1c89a9945af2c01728703846503e63
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorSelectionState.CopyTargets``1(System.Collections.Generic.ICollection{``0})
 title: EditorSelectionState.CopyTargets
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: c3e665fb02d1a092563c33e3d2d01b59dbc217921b8df47e82097846eedaef62
+sourceFingerprint: 27aee7db87243fd51204fda9d7ee810b70a5ffa5e6beefd850506022eb5afb40
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f9614d930ab3af28648156577130c6deb650a51592ea2f3b8d9c9dfb2f43acab
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.TryResolveMaterialArtifact(InnoEngine.Rendering.RenderPersistentResourceId,InnoEngine.Rendering.RenderShaderArtifact,InnoEngine.Rendering.MaterialAsset,InnoEngine.Rendering.ShaderContractId,InnoEngine.Rendering.ShaderPassRoleId,InnoEngine.Rendering.ShaderProgramKind,InnoEngine.Rendering.RenderVertexLayout,InnoEngine.Rendering.MaterialPropertyBlock,InnoEngine.Diagnostics.IDiagnosticReporter,InnoEngine.Rendering.RenderMaterialPass@)
 title: IRenderResourceService.TryResolveMaterialArtifact
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 8f43e54d7e512857e162bd61698e8abb000dbd45bdb6f430d15f0ea7acea128d
+sourceFingerprint: ea033254dd8cc01255310bcfed949685dd5ea5196d1139785dd4e54b48ee67eb
 apiScope: Runtime
 contracts: []
 

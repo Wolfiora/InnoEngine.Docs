@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.shaders.3a7d973faf8a593f
 symbol: engine:Inno.Editor.Shaders:T:Inno.Editor.Shaders.ShaderInspectionSelection
 title: ShaderInspectionSelection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders
 apiSurface: source-clr
-reviewed: 0af50286628ea97f6c8150ae3434b8926f5b016a9ce1a4e69051dacb7e03c8a4
+sourceFingerprint: 2589c9dae16e5354486b849d7ad5e3e3258c843d0cbff3a439553c365d689462
 contracts:
 - project.inno-editor-shaders
 

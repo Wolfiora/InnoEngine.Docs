@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.371fa4a463ab40276da120db244bde9c1b746394b3b8bb2b25cd8abf2941f781
 symbol: engine:Inno.Adapter.Storage:M:Inno.Adapter.Storage.StorageBackendCatalog.#ctor(System.Collections.Generic.IEnumerable{Inno.Adapter.Storage.StorageBackendProvider})
 title: StorageBackendCatalog.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Storage
 apiSurface: source-clr
-reviewed: 83465935ee392987b0e05222575f9fa1ce1f52a13aa4d92d14982945b6736016
+sourceFingerprint: 7691321d4c8401f053b3638c7dfe0259547c983872af9452bd47de04770378ca
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

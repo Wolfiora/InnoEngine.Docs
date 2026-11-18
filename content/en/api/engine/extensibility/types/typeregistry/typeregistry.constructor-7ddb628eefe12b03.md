@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7ddb628eefe12b0375e2f4ad37e47355d61414f46284862942d1f65e9cea36f2
 symbol: engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeRegistry`1.#ctor(Inno.Extensibility.Types.TypeCatalog,System.Nullable{System.TimeSpan})
 title: TypeRegistry<TSnapshot>.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-reviewed: 2e9c7621c58eabbd3b04d8caaa8452f21665b243bbf48f4227a2a0f64b58fd52
+sourceFingerprint: 6994efcf184102c4d7abd0adf02b8b1595b45e37bc738ae0fc979038e741c4f0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

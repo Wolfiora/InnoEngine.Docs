@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cfe50f52319ba86d2a13604ab9122b6e7b05a637943898cd6e0113c5018a4652
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.NormalizeOutputName(System.String,System.String)
 title: ToolchainEnvironment.NormalizeOutputName
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: ef56e5c4bd322cda1a80da6c28adcc7e8575b4f3238a8b7c918fd7146307516b
+sourceFingerprint: cf293947f6783f11a529664657159a2b3758b6631927aab0804e2055c558e9e0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ff9b1aa7c32f432d8da440cca8ea2bd5357aa129b47ec685fafa740f9106a502
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector2Int.op_Addition(Inno.Core.Mathematics.Vector2Int,Inno.Core.Mathematics.Vector2Int)
 title: Vector2Int.op_Addition
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: e7c6d4e3cb5e6e691639128aed8c26991c39ef64658742b64fb3ccecedf0fbf4
+sourceFingerprint: b0cb5d0c27b6c6e930e4dc8c408c9380dd3dc220111c7ee7afb9bcdb4ef3b3e5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

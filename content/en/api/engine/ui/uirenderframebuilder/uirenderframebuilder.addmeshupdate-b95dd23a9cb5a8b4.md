@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b95dd23a9cb5a8b4186dbce99a8be6ee25c7bc592345c42c2c5112eac8d749c3
 symbol: engine:Inno.UI:M:Inno.UI.UiRenderFrameBuilder.AddMeshUpdate(Inno.UI.UiMeshHandle,System.UInt64,Inno.UI.UiVertex[],System.UInt32[])
 title: UiRenderFrameBuilder.AddMeshUpdate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: 64dc6d01d945ea813e1d8731b3408d72ac75fb125c4aeca8a281a2030b13a2b8
+sourceFingerprint: 6e6bfe7e23f572a4d4ee221f737ba23500eddbe8504daec02120550f3bf6d95a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.61db2633eafa1abef4ec54859a0867027b475d6d50841e391e8c85ff234e6602
 symbol: scripting:Inno.Rendering.Assets:M:InnoEngine.Rendering.RenderShaderVariant.op_Equality(InnoEngine.Rendering.RenderShaderVariant,InnoEngine.Rendering.RenderShaderVariant)
 title: RenderShaderVariant.op_Equality
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 134c6dafcd08f4b31efc54a5796ac117c9ced5969f8e4d3d7c78bac7c318be5d
+sourceFingerprint: 5f4bd2592e3c8b13676fc3b65ad09509a34cd10f4e809638ac42a6eff5983c95
 apiScope: Runtime
 contracts: []
 

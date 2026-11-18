@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fc87df9f58935e0c34f053a03856b46c2839bc089fe08c5d500fbed263e475d3
 symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.GraphicsCapability.Texture2DArray
 title: GraphicsCapability.Texture2DArray
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: ac408456009feb640eac5f81d29e661a8a9f6e64ad650f4280a1e89464fabb69
+sourceFingerprint: 0c2133a6c86ae0ab237a4bda6e13a9473b74f1aa50a58ed3bdfaa5329d7a6fb6
 apiScope: Runtime
 contracts: []
 

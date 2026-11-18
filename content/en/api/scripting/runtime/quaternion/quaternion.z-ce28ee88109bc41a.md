@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ce28ee88109bc41a20b28fe3962bf6b4dad1f22c7b814a4f5ca1f94be527250a
 symbol: scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Quaternion.z
 title: Quaternion.z
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 728d1472acf6b8750ba1e97c8741aa1b5f099a1c0699122efb381bd1a8e04473
+sourceFingerprint: ee28d0237e008c9fef5c0b0f0d2e04cf9470b59633a9dca17e6a51fc1dc92927
 apiScope: Runtime
 contracts: []
 

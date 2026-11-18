@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1a2985d30d102065f3dd078e16ec52be2c03305125f1959e1c9a5cd1b19d95f0
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.GamepadBack
 title: ImGuiKey.GamepadBack
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 5269927742400db6861e34ebde167fd8daab68a885fcece524c0fc53c14498c4
+sourceFingerprint: ee8acc2fc08019b4ca19ab9f533d49883b00c91daccb76126678a33cf1e94062
 apiScope: Editor
 contracts: []
 

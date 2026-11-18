@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7625164899156b0ea81eaf7ea64aba01a06a16d5dc0ab4f3a0aafba1ff27fd0b
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3.Cross(InnoEngine.Mathematics.Vector3,InnoEngine.Mathematics.Vector3)
 title: Vector3.Cross
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 14c3e41e6be265be30415ee218a4dd1ff52d2d64036ff593e24d4abca50981f5
+sourceFingerprint: 9f828d61ca748e182d17bc3e8324e258563f4cf272abe2d26aecbf2eda9cf796
 apiScope: Runtime
 contracts: []
 

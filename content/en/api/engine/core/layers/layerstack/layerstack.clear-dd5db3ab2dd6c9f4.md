@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dd5db3ab2dd6c9f4c968c50e54a169d5ea3326cdb767fd1bf7ab39e7e74c02f7
 symbol: engine:Inno.Core.Layers:M:Inno.Core.Layers.LayerStack.Clear
 title: LayerStack.Clear
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Layers
 apiSurface: source-clr
-reviewed: 2bd1812d6d98c17a8c8ed1e5cae9157e6c48c46408e03858e95fb7ec72123de0
+sourceFingerprint: 3efe0bb89b47e4019c79cf94b96d5dfdabd09a9d99597dd35ea6bab9af1c646a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

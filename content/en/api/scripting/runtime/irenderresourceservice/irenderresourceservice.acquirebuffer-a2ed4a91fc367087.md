@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.a2ed4a91fc3670876664c5a0796fca293905073fa857c0269377382ec17e0360
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IRenderResourceService.AcquireBuffer(InnoEngine.Rendering.RenderPersistentResourceId,System.Int64,InnoEngine.Rendering.PersistentBufferDescriptor,System.ReadOnlyMemory{System.Byte},System.String)
 title: IRenderResourceService.AcquireBuffer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 5bfd20be529e897cf84a5dada66c002f0d0b1684ad4d8147d84e4994d7d59825
+sourceFingerprint: 92ab1b214809142f80e91c943f5c5d4854db9325cfa0113f09445395f027870a
 apiScope: Runtime
 contracts: []
 

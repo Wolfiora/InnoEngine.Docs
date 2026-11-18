@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.toolchains.64095ef02f145654
 symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.BuildArtifactCopier
 title: BuildArtifactCopier
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 3b3c5e3c3ac23473a7c879901e399af063e6885cfde6b9c6825b50c891664726
+sourceFingerprint: 24827761574b76a815d8f6a8c6167da1ced84f123e39f5abb55ec50b58594a25
 contracts:
 - project.inno-build-toolchains
 

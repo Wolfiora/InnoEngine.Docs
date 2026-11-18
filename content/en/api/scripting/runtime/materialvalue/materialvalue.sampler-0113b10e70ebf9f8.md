@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0113b10e70ebf9f83639137b5a12739d2d0c77a02402cc200f268c6a082c9f3b
 symbol: scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.MaterialValue.sampler
 title: MaterialValue.sampler
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 67b1656428ab450978bb9268b7e55cb780b6eed76000a286a59bafc8e9c6ed01
+sourceFingerprint: 3d954b127f2f196b9bf4a461f886d94fff6d712e1e8fe057bed6db20316147b8
 apiScope: Runtime
 contracts: []
 

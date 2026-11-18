@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.91e7bdcb2f07fddd228cb1cf6374029620f53874951b1f2ff9bf34631ddf7795
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Quaternion.Slerp(Inno.Core.Mathematics.Quaternion,Inno.Core.Mathematics.Quaternion,System.Single)
 title: Quaternion.Slerp
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 62e8eb22ae18d1cdfcbb5893e805259a02685effbdf0a45a432203646a08052d
+sourceFingerprint: 8630117be499f0bd8264602be649f3113e392002a61ca848718c3bb981f9d05d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

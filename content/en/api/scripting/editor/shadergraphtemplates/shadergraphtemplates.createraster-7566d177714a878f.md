@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7566d177714a878f6b1fa5c68cac1b7c6bd5763977ee1fac85be207ffdb2ec6d
 symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphTemplates.CreateRaster(InnoEngine.Serialization.SerializationRegistry,InnoEngine.Serialization.SerializationContext)
 title: ShaderGraphTemplates.CreateRaster
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: 85cf366fe32ec451dbfb515b6d071e536959226d2ff4fc603b9a5d15546f66ed
+sourceFingerprint: f47244c5dee99620a0671340b91854b209e2c3854684f73deed40f9f70e00af8
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5f02b32172b74b32b37d07c8e69349908daac928b7a5a9b075b441cdab69e049
 symbol: scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetArtifactWriter.WriteAsync(System.String,System.ReadOnlyMemory{System.Byte},System.Threading.CancellationToken,InnoEditor.Assets.AssetDeploymentScope)
 title: AssetArtifactWriter.WriteAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: editor-script
-reviewed: ac7f81d1b48699377f9059f6e8c720d74b49dfd4a760a3ccba518e9a2872738d
+sourceFingerprint: dc90bf2c4fae87891bd3789bef1729c98fb2d60865c152e4053ce4860215d06b
 apiScope: Editor
 contracts: []
 

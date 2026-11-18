@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.545d05f3ebc6eec93bf6d96ef280335398ddf5ac71790732b581d5407de758d0
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.Checkbox(System.String,System.Boolean@,System.String)
 title: ImGuiWidget.Checkbox
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: d173a61fb9e98b5680e00bd2cbb871892a4c5d8879001a51302fd7f468418164
+sourceFingerprint: d6d1d32bbc89cd6f03ed79bfd2d3adf206bfeb1c2254b87d3752984b24919001
 apiScope: Editor
 contracts: []
 

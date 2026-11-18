@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.757e2d9f703ef8faf977856686486c0eee609f1fd68567eae444c55f07aad47a
 symbol: engine:Inno.Rendering.Assets:P:Inno.Rendering.Assets.TextureAsset.colorSpace
 title: TextureAsset.colorSpace
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: 6e4ccf773712b031155c7e2e08a3c88f6cf7de625c9f13dce53991782695784c
+sourceFingerprint: efcf5cfae0e275e84237d1db82a2efa76eb4e47342cf1f6c143a5dbbfb981e03
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

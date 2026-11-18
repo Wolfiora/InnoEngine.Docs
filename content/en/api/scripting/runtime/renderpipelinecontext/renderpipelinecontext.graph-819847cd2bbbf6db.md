@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.819847cd2bbbf6db2175078e128acaeb211733c3469e22ccee673e4938241aab
 symbol: scripting:Inno.Rendering.Runtime:P:InnoEngine.Rendering.RenderPipelineContext.graph
 title: RenderPipelineContext.graph
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: f647a936d7ed748d8e736dbd45cc43b3ac2d4793564319605d61ae895925892d
+sourceFingerprint: 465f8176895f6fe5ed8de4b91c7daa69660adebfd0cbc8c5a6ccd95d9f3ad26c
 apiScope: Runtime
 contracts: []
 

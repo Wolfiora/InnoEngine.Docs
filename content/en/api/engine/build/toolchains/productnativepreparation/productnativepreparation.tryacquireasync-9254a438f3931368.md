@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9254a438f3931368b11a96248be6945758b96a33ec70b42778aa4f702a796477
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativePreparation.TryAcquireAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.ProductNativeBuildPlan,System.String[][],System.String,System.Threading.CancellationToken)
 title: ProductNativePreparation.TryAcquireAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: a8d89ffb1b2a7cd091446795e4499cc822592eb080b1d60aea7817dadacfb2af
+sourceFingerprint: e7a70282621b222945e0c769ca28b9cc093cbd6d987a2ee079d3183c7f0b82b7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

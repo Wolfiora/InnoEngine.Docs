@@ -58,7 +58,7 @@ test('ordinary authored status-like quotations are not removed', () => {
   assert.equal(tip.data, undefined);
 });
 
-for (const status of ['OUTDATED', 'VERIFIED']) {
+for (const status of ['OUTDATED', 'AUTHORED']) {
   test(status + ' is forwarded without the old body panel', async () => {
     const processor = await createMarkdownProcessor({ remarkPlugins: [apiPresentation], syntaxHighlight: false });
     const rendered = await processor.render('> [!' + status + ']\n> Manual explanation.\n\n# Value' + footer);

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.50e3a7505566c8542fd1a86196d9e22c215fb44bf6e6ae517b57784eb3551e4d
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiTableColumnFlags.WidthStretch
 title: ImGuiTableColumnFlags.WidthStretch
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: c7051192e64afc4e48be12c20aa7ea757ec6bbae672b8f56670bafbd1461a018
+sourceFingerprint: f406401e079c8030ef2dda69e13465954d2a48bd3fdea83723d9d5fde4ecde59
 apiScope: Editor
 contracts: []
 

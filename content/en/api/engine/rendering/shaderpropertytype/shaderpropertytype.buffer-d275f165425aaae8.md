@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d275f165425aaae883f8745e760af23aaff419c04460b354cdd51e28bfdbdf07
 symbol: engine:Inno.Rendering:F:Inno.Rendering.ShaderPropertyType.Buffer
 title: ShaderPropertyType.Buffer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 5971c1131c67df3f74b29347e3775a8d3dc6898c0c8747befd784a8da87d8aa0
+sourceFingerprint: 1507819c9edf2403efc8223a2684e77f030a254df67b6968829e4f3eceb119b2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

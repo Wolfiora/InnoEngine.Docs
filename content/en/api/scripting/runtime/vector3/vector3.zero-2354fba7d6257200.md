@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2354fba7d625720086fbdcf4725a6e52e657f6caf3dc0d609e1cc5421e80c0d0
 symbol: scripting:Inno.Core.Mathematics:F:InnoEngine.Mathematics.Vector3.ZERO
 title: Vector3.ZERO
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 7ad25ae2c1a4b95bec1e8146dc8c925469e519f6c955c8544eeabc98307d71ba
+sourceFingerprint: 77f84b8a5581e8b97575d8ca11fe2edbaedba2e6ccae661189650e0f92dbf69e
 apiScope: Runtime
 contracts: []
 

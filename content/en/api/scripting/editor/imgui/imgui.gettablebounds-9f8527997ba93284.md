@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9f8527997ba93284f790b890756bf2e770b37090046614e82d867767cc3220b3
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.GetTableBounds
 title: ImGui.GetTableBounds
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 1ddb952dc3909eb0dfbb181ace5040e80dacf5d5bf5c54a68e6470daac504e20
+sourceFingerprint: 7f5c30179492c4e709f55831d255cbb78581007b56ac7cf57199cc92246d66bc
 apiScope: Editor
 contracts: []
 

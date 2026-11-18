@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e7602e8b1de8d619aa01ab0126bcd5e5b41c1a48898ff0ce2dd86f954d54aa63
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorInteractions.TogglePanel(System.String)
 title: EditorInteractions.TogglePanel
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: 63855be8ddd5b076a66e7c686d2fda76476c7edff878d040823c5ac181dfc89e
+sourceFingerprint: 5c2b93a9aa66d13f5adba62bc7a4a88f7eb0e9447c39e3e7fd2857c65a41caf3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

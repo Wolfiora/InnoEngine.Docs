@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime.c8d216836353b9aa
 symbol: engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.GraphicsSettings
 title: GraphicsSettings
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 6a2001a6603ec77e6cc6c42ab4b6e6f5686e18ff0a1bd266b351d65d65eb29b1
+sourceFingerprint: deda3442646d5d8339c3bcdf3c5bf5160f42185ca29b2be41a927a894f81ee55
 contracts:
 - project.inno-rendering-runtime
 

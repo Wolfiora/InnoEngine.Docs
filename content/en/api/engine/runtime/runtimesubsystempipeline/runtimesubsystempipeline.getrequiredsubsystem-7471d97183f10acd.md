@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7471d97183f10acd70b38505759f31ffa5fbb05ff84e885157fd47b09d9233e4
 symbol: engine:Inno.Runtime:M:Inno.Runtime.RuntimeSubsystemPipeline.GetRequiredSubsystem``1
 title: RuntimeSubsystemPipeline.GetRequiredSubsystem
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: 0cb7926463858e49a080d439091db632983b78ca06ec725dda43929e9850e517
+sourceFingerprint: b8ea52925809e39d2c75c8d921b6ab8d8011994e3746722274d6c8bbc0ee52d5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

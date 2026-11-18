@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.022b398dc241f138b7af2e1e0c41ebb0aeb197ecee0c93dc71f2b2c25c465d16
 symbol: engine:Inno.Core.Logging:M:Inno.Core.Logging.LogEntry.#ctor(Inno.Core.Logging.LogLevel,Inno.Extensibility.Modules.AssemblyDomain,Inno.Extensibility.Modules.AssemblyScope,System.String,System.String,System.String,System.Int32,System.String,Inno.Core.Logging.LogSessionId)
 title: LogEntry.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-reviewed: fbc5a714eeec5e7f1084c6333e56604cfd3a447b3f58f3e0b5d4d71451a8493e
+sourceFingerprint: a8b9fcb55ad0344457f9fa081be376d6a4b54d9f3fd5faed15b2561ad94f5212
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

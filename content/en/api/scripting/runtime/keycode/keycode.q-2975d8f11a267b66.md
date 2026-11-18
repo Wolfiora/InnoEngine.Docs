@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2975d8f11a267b665c1452fbde2410c1f0b55901da0cfbea7dda6f49645e4c21
 symbol: scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.Q
 title: KeyCode.Q
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Input
 apiSurface: editor-script
-reviewed: 16096c8b4fecb6d65dfb6def36aeef111f6f54d28c52758f1e6ca8e9e044e0ee
+sourceFingerprint: 0b8c8cc2b27563a8e0fd01bb460afdbdc4ee89728c6aeb262d42cbb5fea9b517
 apiScope: Runtime
 contracts: []
 

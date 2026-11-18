@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.toolchains.601ba5743c32f7c2
 symbol: engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeBuildProduct
 title: NativeBuildProduct
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: afaf80d19b6c03964caf6157b9e101db4166087493b45c2988d8cb054c0d1af7
+sourceFingerprint: c40326d552cab5bd75202b1a1654449f5875a72f20191adb2e10c6b57e1950ef
 contracts:
 - project.inno-build-toolchains
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.24f76c39933a554abdd337a96c63237069d6dd570de2c1775df742b1e0b7ea04
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.BeginMenuSelector(System.String,System.String,System.Single,System.Single)
 title: ImGuiWidget.BeginMenuSelector
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 330208877b72ea43c21d55995d3d3f8e140c033ea56f331c3a6d0ba3f7101032
+sourceFingerprint: bc6de94dc09ff83ed07aee910843b723bbd33a1761f04ff0fd99b4f10071e633
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

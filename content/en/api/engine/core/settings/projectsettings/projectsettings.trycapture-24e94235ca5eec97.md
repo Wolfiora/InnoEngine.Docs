@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.24e94235ca5eec970b31e772b28298bb0134a232e233faaf7c616e4a16725d98
 symbol: engine:Inno.Core.Settings:M:Inno.Core.Settings.ProjectSettings.TryCapture(Inno.Core.Settings.ProjectSettingId,System.String,System.Collections.Generic.IReadOnlySet{System.String},System.Collections.Generic.IReadOnlySet{System.String},System.Collections.Generic.IReadOnlyList{Inno.Core.Settings.ProjectSettingsContributor},Inno.Core.Settings.ProjectSettingRecord@)
 title: ProjectSettings.TryCapture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: source-clr
-reviewed: d1dcd7610f9f95b9382a72c2189ec5fe610c7b20b2387ba45e34a77cc5cf7266
+sourceFingerprint: 392f4a41b837a3ab58fea4389223b4b2d2522723d9a3b93ec2a5a2184ca03b23
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3503575d959262898513401cbd43cee3111d4986ccda937522cf71804d9632f5
 symbol: engine:Inno.Editor.Shaders:P:Inno.Editor.Shaders.ShaderParameterPresentation.group
 title: ShaderParameterPresentation.group
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders
 apiSurface: source-clr
-reviewed: fe9cc7ed9d406bc12d6777ebfa6aef7e1a44d131d178fc4e387458eb8b1a09a0
+sourceFingerprint: 4a1af3af7457d98deba4e2e9c90eb7a92c9d0c3859fcb8369c70b271637be6ff
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

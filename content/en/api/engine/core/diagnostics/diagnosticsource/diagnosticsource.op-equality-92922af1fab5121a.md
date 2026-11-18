@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.92922af1fab5121aa9196209d0259316803f1a03f5eee85d2d8b0f6204981733
 symbol: engine:Inno.Core.Diagnostics:M:Inno.Core.Diagnostics.DiagnosticSource.op_Equality(Inno.Core.Diagnostics.DiagnosticSource,Inno.Core.Diagnostics.DiagnosticSource)
 title: DiagnosticSource.op_Equality
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: source-clr
-reviewed: 6606ff033efdb9ea68dfac0cb383de4d2c14783ac5277d827f58b816c1ba52fd
+sourceFingerprint: f6f9450fefbecddacaaff1360a1a57113d53e722b3363b3f2752fda3461ed541
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

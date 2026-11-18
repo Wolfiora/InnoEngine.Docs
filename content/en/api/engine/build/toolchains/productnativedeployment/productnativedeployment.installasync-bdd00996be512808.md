@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bdd00996be51280888c59c768301858b3090ef884def6ec1df1e8d8bdaef9a17
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativeDeployment.InstallAsync(System.Collections.Generic.IReadOnlyList{Inno.Build.Toolchains.NativeBuildProduct},Inno.Build.Toolchains.ProductNativeBuildPlan,System.String,System.Threading.CancellationToken)
 title: ProductNativeDeployment.InstallAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 365aa330b3ae8fcede5dc2c9e4a97c961907a4f863ba54b62fbe566da4dd791b
+sourceFingerprint: 32c47dde5a9aa496d3a57dad541579023e8cb65a62de6d38869969a988fc43ea
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

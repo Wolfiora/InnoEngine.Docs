@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f4094158f5f04bd2469093ff65892db300308ffebe7f4f7fd00583e1339e0750
 symbol: engine:Inno.Scene:P:Inno.Scene.Components.Transform.worldScale
 title: Transform.worldScale
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 2ecee2cf2a99a8c1f78930010deaed05aab768415214de8f32bb4ddad64dae9e
+sourceFingerprint: 1ea1e4ee513bcde204ee0099487a1589ceddbb695375128bb1b9073f7b62aee6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

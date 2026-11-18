@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.353ce9b8907ad6820ad6936d062e5ce4562708422761adfa640d69c92f47f6fb
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiCol.TabSelected
 title: ImGuiCol.TabSelected
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: be8f526e0d20e7bd531f4bb9cd74e48041c13092e489a2fa30e52f28ca7b35a0
+sourceFingerprint: 988bd368bbbf253d3abc901ecade19da383f36b3cc3ea9ed753b66cb6cc346c2
 apiScope: Editor
 contracts: []
 

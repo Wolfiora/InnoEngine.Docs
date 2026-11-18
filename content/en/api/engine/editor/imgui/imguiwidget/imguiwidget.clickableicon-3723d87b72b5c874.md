@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3723d87b72b5c87480504dac3158f65a27dddb72de02a1aefbb81237863fff5f
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGuiWidget.ImGuiWidget.ClickableIcon(System.String,System.String,System.String)
 title: ImGuiWidget.ClickableIcon
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: ebe69fd859019b2115bdf4c3543e300349f7d8623af36f447e544908c8811b74
+sourceFingerprint: 0944482796e3f4515473ce86030f4e8857ac3d6809dfbb6f82ca4f0ad311c198
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

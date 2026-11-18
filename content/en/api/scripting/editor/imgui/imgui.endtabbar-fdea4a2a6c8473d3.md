@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fdea4a2a6c8473d3e318410bed31bd293301079cf143eb75c9d0e451e72de36e
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.EndTabBar
 title: ImGui.EndTabBar
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 11b79690d37e6d2d0f5302d9a517e2e41026584e5c99583ce9b8356bafc8c065
+sourceFingerprint: e740bc7723c8c7eee0c0cd9ab8d301a685ba9df1d54fe169a0a54ab9cdc843c5
 apiScope: Editor
 contracts: []
 

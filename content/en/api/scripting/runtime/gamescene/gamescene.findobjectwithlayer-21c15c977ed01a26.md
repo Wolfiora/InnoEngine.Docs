@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.21c15c977ed01a26f0545b43e7891a013d2ba425860ca52527340315e04f6185
 symbol: scripting:Inno.Scene:M:InnoEngine.Scene.GameScene.FindObjectWithLayer(InnoEngine.Scene.GameLayer)
 title: GameScene.FindObjectWithLayer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: dad5c5396d1fd783c113b146b99aebab513e03994b3167dcabe6337e6a01baa4
+sourceFingerprint: 7afd0a0711469b038fe7aae08773fce8a9dbcdc494b50ce44639afe86a2bb564
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.ui.runtime-script.cb663d65cbe60598
 symbol: scripting:Inno.UI:T:InnoEngine.UI.UiTextureUpdate
 title: UiTextureUpdate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 27c9a9114b1f1a8797b49ac7c0d8ccfee8068142ffd4425fb5ca7784278d897b
+sourceFingerprint: c32d1a54fc6807359bef6c0e9ee2ad734560ef744b02541890f90238cb9b3e53
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

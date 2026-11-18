@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-tooling-validation
 symbol: project:Inno.Tooling.Validation
 title: Inno.Tooling.Validation
 kind: project
 owners:
 - Inno.Tooling.Validation
-reviewed: ''
+sourceFingerprint: 0c7e234745429a8b077bb61c8bd478ab1328eb252e5840aae966ce06651992eb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

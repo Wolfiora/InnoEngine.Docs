@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4f9783d10ee624d8358aea6462b4878879ce3ec399758978c418028daa82e673
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.CopyPassBuilder.CopyTexture(InnoEngine.Rendering.RenderTextureHandle,InnoEngine.Rendering.RenderTextureHandle)
 title: CopyPassBuilder.CopyTexture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: eea3ac790d9e99d5b644c2d8252d06e07f447b047b4b9f54d147c539f946a7a0
+sourceFingerprint: 965ff9e4fdb6cb0705acc6ca792d80b598013c2915e9b01e365c5c75983a32d6
 apiScope: Runtime
 contracts: []
 

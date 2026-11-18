@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-scripting-compiler
 symbol: project:Inno.Scripting.Compiler
 title: Inno.Scripting.Compiler
 kind: project
 owners:
 - Inno.Scripting.Compiler
-reviewed: ''
+sourceFingerprint: 8eee3c68b78bd8c70760b7a48c8a189d5a477110b2cfe8f8ec9e2a72d97c839d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

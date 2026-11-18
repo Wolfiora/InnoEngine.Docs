@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.729386e27d2341e59edb20b06c8da9ffc2cb9c627103dbd7d5e7eb9f1a25adc6
 symbol: engine:Inno.Editor.ImGui:P:Inno.Editor.ImGui.ImGuiWidget.DialogPresentation.actionLabel
 title: DialogPresentation.actionLabel
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: b271291c4fa79a429e5306637b3d7361565cec4f5d0c1a4e2fc6b630bd85c78b
+sourceFingerprint: 9dc254dc75baa492ce8cc21e2cab747538fc4bbc96b9c0818cc4bf3ff24beb91
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

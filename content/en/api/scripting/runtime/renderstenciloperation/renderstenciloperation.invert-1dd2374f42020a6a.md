@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1dd2374f42020a6a6798eadfaf429f85a2f1052e6aa31ea055ce616eca2e4f5d
 symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderStencilOperation.Invert
 title: RenderStencilOperation.Invert
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: d13cf1e22935fb5b082cbdce2994f34b243b7c987e5c30e81eceebfcad2b21de
+sourceFingerprint: 1d68a83695eed74f5ef4acbc1b375de3bee42e68ff5d6af3baaba452f5c18a56
 apiScope: Runtime
 contracts: []
 

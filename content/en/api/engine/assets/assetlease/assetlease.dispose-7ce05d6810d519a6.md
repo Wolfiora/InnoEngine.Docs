@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7ce05d6810d519a62a6e01c8b5a098d68372d7d23e9cbea3205596da7197ec17
 symbol: engine:Inno.Assets:M:Inno.Assets.AssetLease`1.Dispose
 title: AssetLease<TAsset>.Dispose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-reviewed: 71bbd1f5647f4d302be68b60b9125721b7a92d328e4b14e28727e6087e41837b
+sourceFingerprint: 15d6503d4c6d4b97b418f721cae24872b327b97be951f718258e4a0a89dd6031
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

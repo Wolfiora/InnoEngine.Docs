@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ab8bc4775072cb934ecd36e7911d3c7d6b58b1b3ace7dbe69aac9fbb2494a1a9
 symbol: engine:Inno.Core.Events:M:Inno.Core.Events.EventHub.ListenOnce``1(System.Action{``0},System.Int32)
 title: EventHub.ListenOnce
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-reviewed: b59386e76726331da362357842b27560543537e8c384cccd3124ce001b0502d0
+sourceFingerprint: 5471ee7f1c66acdfeb68b902eac52e3d8669ea7954c11b825819785acef1cb2c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

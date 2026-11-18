@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f94bf01ac8eab355fe88279f645d3800c6b13b357571072f4c78f70286b4c910
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiWindowFlags.MenuBar
 title: ImGuiWindowFlags.MenuBar
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 7fb08f5fd2b0fa078548ca6a7665e6003f85377df6861abd860fef7475a75935
+sourceFingerprint: f8d62efe0ccfce4905268cff36f07a59ba1053d126843441598993c8b4c0cd4a
 apiScope: Editor
 contracts: []
 

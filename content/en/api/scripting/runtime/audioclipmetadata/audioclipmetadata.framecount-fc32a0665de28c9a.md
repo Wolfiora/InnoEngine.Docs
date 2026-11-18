@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fc32a0665de28c9a9ba387de37a389d1afa17288fb478b61a7b7839791bb21bd
 symbol: scripting:Inno.Audio:P:InnoEngine.Audio.AudioClipMetadata.frameCount
 title: AudioClipMetadata.frameCount
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: c062588499886c2c2c519cb9354a6932db4b8f952e29df2dba87f6801532508a
+sourceFingerprint: d37097f4a4239e6ced5f8654a315fc6aa0880e47eacac0e3c63ae7eb2882265a
 apiScope: Runtime
 contracts: []
 

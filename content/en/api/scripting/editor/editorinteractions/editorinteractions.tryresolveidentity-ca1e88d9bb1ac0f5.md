@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ca1e88d9bb1ac0f53523cb0d28e1a8a7cd4b001138c6ff2a35d2cf941b0999e0
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteractions.TryResolveIdentity(InnoEngine.Core.IdentityDomainId,System.Guid,InnoEngine.Core.IdentityObject@)
 title: EditorInteractions.TryResolveIdentity
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: f085a09fa86fd9709ea09d151d1d16765bd52fad69fb168ad08b1c39c4b1787c
+sourceFingerprint: afbf4f9a7bc2f9065b1c29df0d8b77a3147fb5827976323793961df87abfc8d6
 apiScope: Editor
 contracts: []
 

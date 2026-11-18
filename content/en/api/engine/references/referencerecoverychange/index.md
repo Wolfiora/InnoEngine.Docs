@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.references.c09fea0ea84a0817
 symbol: engine:Inno.References:T:Inno.References.ReferenceRecoveryChange
 title: ReferenceRecoveryChange
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.References
 apiSurface: source-clr
-reviewed: 08d0bf18f90c215833c1755d65e9642a6f9ea26a3117fe95a4aa006efeb1f4e8
+sourceFingerprint: a5890ebcdbe6d1f106076267f23902c50fe46eecfbf17fda81fca736208251e6
 contracts:
 - project.inno-references
 

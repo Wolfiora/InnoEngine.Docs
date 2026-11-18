@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bca465b430d7aed9d73d8a14003bf70a85eefce0651a5338aa6949858a1873ea
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.HasDragPayload(System.String)
 title: ImGui.HasDragPayload
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 626268ad08bfd1a5e450648d806911bcfd099c1eeb28f03e67d15b8e21a8c0ee
+sourceFingerprint: 502b3245379d9a8be115d103aa55a847181074572b3169b71289d1c5529bd45c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

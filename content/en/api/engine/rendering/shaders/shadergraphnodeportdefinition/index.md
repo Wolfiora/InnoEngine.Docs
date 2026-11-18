@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.shaders.64587fed60c95114
 symbol: engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderGraphNodePortDefinition
 title: ShaderGraphNodePortDefinition
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: d1c145d090384b094189e52a8f4c5d98bbb6fcfcdf7d886d6c9e782a14e26bad
+sourceFingerprint: 354fbc6bffee40820eb2243c617fae991ea384500f07f042a323f14e34b9af94
 contracts:
 - project.inno-rendering-shaders
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e619f477fe80f4cce081e5546c966f9c6e8ad00dd893aa4a8df611c8fac34489
 symbol: scripting:Inno.UI:M:InnoEngine.UI.UI.SetViewport(InnoEngine.UI.UiContextHandle,System.Int32,System.Int32,System.Single)
 title: UI.SetViewport
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: ca63da17b999cb719a660be25a9dd1aa5069bb23855fd0052c249122ff6f144e
+sourceFingerprint: b2581859a7b418e90aacf08d9afc3f804ff815c786267b8ee85d48acbe56c5ee
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.assets.ac72d9da4b52c9f1
 symbol: engine:Inno.Assets:T:Inno.Assets.AssetImportStatus
 title: AssetImportStatus
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-reviewed: 8f71c42d796dc6de72096ee329d13ec1c533a844e778b285bf351756ff4a835c
+sourceFingerprint: 7c49e0a04f4a491833e1a5c60fd1bfdb2a720a52c2df4744cf8ef38e07f1ed55
 contracts:
 - project.inno-assets
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3366735ac187586071c2f1b9283b9f243ac9ba4739f12b460c2c3ca183eeaec5
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.Vector3Int.op_Subtraction(InnoEngine.Mathematics.Vector3Int,InnoEngine.Mathematics.Vector3Int)
 title: Vector3Int.op_Subtraction
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 68d4b693711952f86b187e8ea9ded6d70ce8d6ccfe08c37ce240e51863e09abf
+sourceFingerprint: 8fee15d91d6bfbab6b692810ec7d39c01ba014926bc5532cc7940b24280cd95b
 apiScope: Runtime
 contracts: []
 

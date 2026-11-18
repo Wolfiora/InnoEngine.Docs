@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.466440098e4771ca906be0db68f72f4c221e4d114eb3b42f841ac2d6b86e1182
 symbol: scripting:Inno.Editor.Annotations:M:InnoEditor.Annotations.HideIfAttribute.#ctor(System.String)
 title: HideIfAttribute.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Annotations
 apiSurface: editor-script
-reviewed: ff0366ee2615823f93045fc39afc081bd5b1fc8f12e551c530997a4de35fb11f
+sourceFingerprint: b36d2d7990d23da1d11e73763b28346ce77a8bb721fc573d8af9dbc1c1c96d00
 apiScope: Authoring
 contracts: []
 

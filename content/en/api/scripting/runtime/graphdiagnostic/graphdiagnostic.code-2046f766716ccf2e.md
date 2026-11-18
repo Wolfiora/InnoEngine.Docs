@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2046f766716ccf2efc59ca1915fbe25c1c40a92072adf6e270048ecb98eb8765
 symbol: scripting:Inno.Core.Graphs:P:InnoEngine.Graphs.GraphDiagnostic.code
 title: GraphDiagnostic.code
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-reviewed: 4ed776b074509e6b4cd965688d14d60d2ab54af1f8c60d2d3dba3686d2e3f66c
+sourceFingerprint: 2014fb86eda248b5919f4c448e32b3d08e30deddde50927e6decc8627af6b30e
 apiScope: Runtime
 contracts: []
 

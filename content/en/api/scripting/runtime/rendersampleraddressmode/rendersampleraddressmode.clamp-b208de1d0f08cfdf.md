@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b208de1d0f08cfdf00444d036ecd6c51dfe2ea12edadf8a62399e51f553a50d7
 symbol: scripting:Inno.Rendering:F:InnoEngine.Rendering.RenderSamplerAddressMode.Clamp
 title: RenderSamplerAddressMode.Clamp
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: e8e07f9b73afa58fca8d51c75a13745ca9da8ada9f84e234b6a33a5b07f6a325
+sourceFingerprint: 81390541ba1c0ab41eb9406b2f4e529ce9a1e270b30316c881857f619ff52bdd
 apiScope: Runtime
 contracts: []
 

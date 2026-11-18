@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.taskhosting.4e36554364566d29
 symbol: engine:Inno.Build.TaskHosting:T:Inno.Build.TaskHosting.TaskRuntimeBootstrapOwner
 title: TaskRuntimeBootstrapOwner
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.TaskHosting
 apiSurface: source-clr
-reviewed: 232fa103a0a1de6a72edbdce45081802c032c8f46d26edc1f9770e2d540f695d
+sourceFingerprint: 6ac04d07b4c4d5a2d230021ca143d6c07de8fec8806c404ca0504aedd52d7ac8
 contracts:
 - project.inno-build-taskhosting
 

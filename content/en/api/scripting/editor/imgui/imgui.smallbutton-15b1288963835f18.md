@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.15b1288963835f18fb04f9d88c0052da994233c457ecfa3ac553229034c9b896
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.SmallButton(System.String)
 title: ImGui.SmallButton
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: acf0db4044bc57a5a3a38d450f27b2bd202468bf200f61927dd0d9dc98e3a292
+sourceFingerprint: 20c3fb5729020648342632bdd5f6a65b5f4c3fea27d95f078235907eccfbe960
 apiScope: Editor
 contracts: []
 

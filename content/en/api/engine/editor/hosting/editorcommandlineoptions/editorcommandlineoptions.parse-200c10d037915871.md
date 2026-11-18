@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.200c10d037915871c044935ac00ef40b8ed9a62170ae5c2af2eae7ccf592f1ec
 symbol: engine:Inno.Editor.Hosting:M:Inno.Editor.Hosting.EditorCommandLineOptions.Parse(System.String[])
 title: EditorCommandLineOptions.Parse
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Hosting
 apiSurface: source-clr
-reviewed: 9b3354f65b1155e604dbf33be339e96193ec735652be906c3d134a0f6a16ac39
+sourceFingerprint: de723183fe9eb33d52d1b53b18ab508681e61a249c743f786b6c825566d57799
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

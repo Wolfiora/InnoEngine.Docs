@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1a04957cea32c864c639e22624a2f33e609832251431c044e98035f3e31e0c65
 symbol: engine:Inno.Editor.Assets:M:Inno.Editor.Assets.AssetDraftDocuments`1.GetDraft(System.Guid)
 title: AssetDraftDocuments<TAsset>.GetDraft
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
-reviewed: e21b409a686221914f4291c297e521577e2f6aeb0f9c47bf163566c2238ea34b
+sourceFingerprint: 78f8c601e886edb528b09299cacca5f4a372fff94f49a71ac3ba9797534ec2ec
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

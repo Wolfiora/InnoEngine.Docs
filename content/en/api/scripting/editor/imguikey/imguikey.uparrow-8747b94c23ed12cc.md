@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8747b94c23ed12ccdcd04f1ecad3b5c61c4db20de8681a0af79422ae12490027
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiKey.UpArrow
 title: ImGuiKey.UpArrow
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 749048adfb3199d88884c7669eded9956f0760282c61f40b728527185efa4eb4
+sourceFingerprint: 7d393a08530611744f6bae0f38a5f9f74dd78f4db320b85fa62da4ff4065105a
 apiScope: Editor
 contracts: []
 

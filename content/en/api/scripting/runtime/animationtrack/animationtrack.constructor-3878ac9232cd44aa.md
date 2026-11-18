@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3878ac9232cd44aabf3e25b2a20f2edf2c7f88bc1b7ad42b860d8f9069b5642a
 symbol: scripting:Inno.Animation:M:InnoEngine.Animation.AnimationTrack.#ctor
 title: AnimationTrack.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-reviewed: 8fbd14f9e2edcf5db61cc2ab72ddfb4533325a80dd5e78c300b129d5665994dc
+sourceFingerprint: 81e0d6d8b40ba059fb9314e84c35553ae85f59cc5909b9903cd0a91f81bdb84f
 apiScope: Runtime
 contracts: []
 

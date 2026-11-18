@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-runtime
 symbol: project:Inno.Runtime
 title: Inno.Runtime
 kind: project
 owners:
 - Inno.Runtime
-reviewed: ''
+sourceFingerprint: eed6665391aff153339454aee8d7ae25fce69823d310bc7660c6a5770d75d758
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.09734a2bb8a48596fa1393374855bfbaeaa02a17f75c714b2db9116507b13846
 symbol: engine:Inno.Core.IO:M:Inno.Core.IO.PathBoundary.EnumerateFiles(System.String)
 title: PathBoundary.EnumerateFiles
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-reviewed: 894d66a41801e1d6ad0a3ae1353f1d8519dc947c1fd9b58cbab023f9e5f4d878
+sourceFingerprint: f16d1a1929fd86984ec8729ed426a7df4db600b61a1073eeeca284bd773e8eb1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

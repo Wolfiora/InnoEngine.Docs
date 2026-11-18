@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cce6e05515f4ba3ec4a2a7189a08cbcbda5fbbc26b6cadd29c8fcd3d6e148220
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.EditorStyleMetrics.SetZoom(System.Single)
 title: EditorStyleMetrics.SetZoom
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: f2bb138a2fc09b0fcc64c548a54df3bf6bebef58934f775a20b8eca3a2207ad6
+sourceFingerprint: 25b4a7da0b04010dec62cf7eae51de777c59212c115a69e9e5eed1b77b512ab5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5ecc33b1cc3c4ddccf69af607831518ff05a465d0d4f5c09fe9606ce824cbe89
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderClearColor.Equals(System.Object)
 title: RenderClearColor.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 9d850f2e148997abff80ce049bcadd9ac27d8ed4214d695ee62e4f4982d6411a
+sourceFingerprint: 9d850f2e148997abff80ce049bcadd9ac27d8ed4214d695ee62e4f4982d6411a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

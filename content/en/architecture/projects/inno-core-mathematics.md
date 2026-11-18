@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-core-mathematics
 symbol: project:Inno.Core.Mathematics
 title: Inno.Core.Mathematics
 kind: project
 owners:
 - Inno.Core.Mathematics
-reviewed: ''
+sourceFingerprint: 6e8bd315a70dfca0e2a98f06177d2ba07480c6aa7b02d15e4c59ffed74c42e9f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

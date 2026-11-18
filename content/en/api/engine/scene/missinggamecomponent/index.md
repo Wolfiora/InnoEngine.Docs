@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scene.83abc338c761e599
 symbol: engine:Inno.Scene:T:Inno.Scene.MissingGameComponent
 title: MissingGameComponent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: cb5dbc9bee510c9154e402338ec8e71479b95627817df9e042a2603abab4e47c
+sourceFingerprint: 2e1565ad58630d8e30491ec51f68d6b3d5d84de9f3656275598db9f5c9f6b5fb
 contracts:
 - project.inno-scene#scene-ownership-contract
 

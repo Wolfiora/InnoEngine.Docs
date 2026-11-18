@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.edb76cf4dc98eaa57418ec49b4eb6150c5359c6428117d68dc8a2c7c0d6ed6a9
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderVertexLayout.GetHashCode
 title: RenderVertexLayout.GetHashCode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: baeee440678ef3d67ccc7fe7c0ac076fde70a951f3545d01da1fa96a51e782c5
+sourceFingerprint: 7d651561e94ce9e7ef84bcf826d49664ba93a6cf2433f783d9f2e142532862ec
 apiScope: Runtime
 contracts: []
 

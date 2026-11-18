@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.84d8bd772834679505bce50f870f254bc7473deba0d118aacd245c9dc535661e
 symbol: engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioRuntime.SetVoiceParameters(Inno.Audio.AudioVoiceHandle,Inno.Audio.AudioVoiceParameters)
 title: AudioRuntime.SetVoiceParameters
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio.Runtime
 apiSurface: source-clr
-reviewed: bf0360bb67e1e029b9d717e1128e5e2c76ace386dd169f384e8b816347d55365
+sourceFingerprint: ff487e615d51f519ac80e9c71162872c4e774ad0c4d48bf9f1d20ccd2bbf8ac9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

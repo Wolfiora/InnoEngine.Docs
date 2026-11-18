@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4f483d9bc88723f360b32bec82003a424c195e6a118851d56483b8321e383e4a
 symbol: engine:Inno.Build.Bindings:M:Inno.Build.Bindings.NativeBindingProfile.#ctor(System.String,BGCS.Configuration.TargetConfiguration,System.Nullable{BGCS.Core.Targets.ManagedRuntimeId},System.Collections.Generic.IEnumerable{System.String},System.Action{BGCS.BindingHostBuilder},System.Nullable{BGCS.Core.BindingImportMode})
 title: NativeBindingProfile.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Bindings
 apiSurface: source-clr
-reviewed: 243dc3c9b92829e5224d7209bbdacaef64bea640d938ff567af1ab761e2b165f
+sourceFingerprint: e49cf746e30cac67c95bc8be536828c2cc76455923f4940951e1fb8ba472d7c4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

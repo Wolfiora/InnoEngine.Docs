@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.87ba39e19b40caeb840751427457117118ff83d78abc7efe407287fb84984327
 symbol: engine:Inno.Editor.ImGui:F:Inno.Editor.ImGui.EditorPalette.opacityFaint
 title: EditorPalette.opacityFaint
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 8ecc727e4ba7d428f9a0ea1b4ba0edded04a02d60752d0bbc34f371167ca5375
+sourceFingerprint: 29252546f6a7a0b71454bbc1a5e3e799617e6364f680a1b98b469e4dfc46e4ad
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

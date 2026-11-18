@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.706f9bbc985d37388b219d3f1a97c391d09461233a850f6e9ef6285652a262c8
 symbol: engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectStore`1.DefineKey``1(System.String,Inno.Core.Collections.IndexedObjectKeyFlags,System.Collections.Generic.IComparer{``0})
 title: IndexedObjectStore<T>.DefineKey
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Collections
 apiSurface: source-clr
-reviewed: c16812b25633924b914259982bf610a2c08830e6dbe2f17045cefa00597e996e
+sourceFingerprint: 79ef00724e7b5e634a790d303300d93047cacc3b1c41dff91010878b30b925cf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

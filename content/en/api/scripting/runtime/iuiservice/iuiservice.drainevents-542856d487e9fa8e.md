@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.542856d487e9fa8e6ff47a8a89c293c712754d79b58c6c7d939ea49f6379c75f
 symbol: scripting:Inno.UI:M:InnoEngine.UI.IUiService.DrainEvents(InnoEngine.UI.UiContextHandle)
 title: IUiService.DrainEvents
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: abc1984f2783e418eb290b679d62b101dd50a640807865fe6338c2f268d6cbf0
+sourceFingerprint: 59d955d40cc97c0943885866cc4764bccef03a68998926c5b322bfe45c93f6db
 apiScope: Runtime
 contracts: []
 

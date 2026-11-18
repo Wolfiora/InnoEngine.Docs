@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bd01eafb030f55af9b31065fdc32ae31ce54464dce614a828ae53ac8b2d89221
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorModalExtension.TryGetPresentation(Inno.Editor.Interactions.EditorModalExtension.Presentation@)
 title: EditorModalExtension.TryGetPresentation
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: c38550b254d1b85832c4ae4cc1918bf6a38bf781c92232a14b87538152cbc0ba
+sourceFingerprint: a1750ead4d1bb283602ca521c986fd86e5ef49b25e03d6434f1a82ea1e7d504d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

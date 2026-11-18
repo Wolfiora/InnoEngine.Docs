@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scene.3acd990876f01d6c
 symbol: engine:Inno.Scene:T:Inno.Scene.Layers.GameLayerCatalog
 title: GameLayerCatalog
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 4a1c61e55b69f4dd58a821840197613695bccf633a61b858c475ce6335e9432a
+sourceFingerprint: cce0b41290a67b40393f354f52cf2172cdac2f7297cabed8d1f0f9fbaa3b08db
 contracts:
 - project.inno-scene#scene-ownership-contract
 

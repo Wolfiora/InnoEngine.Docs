@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d52b3a9db890401a1f4d4e16b9688378e222a88ab9613b989ddf421be7494334
 symbol: engine:Inno.Editor.Inspection:M:Inno.Editor.Inspection.IInspectionPropertyEditService.ChangeProperty(System.Object,System.String,System.Action,System.String,System.String,System.String)
 title: IInspectionPropertyEditService.ChangeProperty
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Inspection
 apiSurface: source-clr
-reviewed: 4c064fd60debe2feb40006660fecec83b5d87abd1df85c5f80a7b9b22f7bf673
+sourceFingerprint: 5ba62852c110810b9d7ad3aea83f8840d4214ac61969a2aacceca8b325f320a1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

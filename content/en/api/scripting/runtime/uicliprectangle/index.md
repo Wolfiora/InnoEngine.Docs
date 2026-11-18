@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.ui.runtime-script.17ac7ae116c0258c
 symbol: scripting:Inno.UI:T:InnoEngine.UI.UiClipRectangle
 title: UiClipRectangle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 19d2732cfc329564de91c1f855061e595c8671baf160854b994583b8dd859e00
+sourceFingerprint: 9d16b35c20b12adad68c024294b9fccef047c1be09a4a6805baeed68e88005dd
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

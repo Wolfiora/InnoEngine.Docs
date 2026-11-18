@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e82c9961718d950c1994d212b93958c046316758a5118f68028e50f28ffbfe13
 symbol: scripting:Inno.Audio:P:InnoEngine.Audio.AudioMixerAsset.mixerTypeId
 title: AudioMixerAsset.mixerTypeId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 97948e80bdb2f616144d8520052878a0a3b3f1509a0b870a67814b06829a9e89
+sourceFingerprint: eebaf517cf64b5fd0172626e2531bad89e5ae4da2213bf93d77516ea8cdcb8e0
 apiScope: Runtime
 contracts: []
 

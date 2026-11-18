@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4b948c114501606abdebab46bb4de922aba3a3dad62a5dbf47d0cda265a416e9
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorViewportTool.OnPointerUp(InnoEditor.Interactions.EditorViewportToolContext,InnoEditor.Interactions.EditorViewportPointerEvent)
 title: EditorViewportTool.OnPointerUp
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 7aef1391942a74c970fffde9edc8b34132608a6282d59698a8d9821fb788c49f
+sourceFingerprint: 90af51b0db0539e894e7e4ced7f519e0269687cd5baed1faef219b2551d6048f
 apiScope: Editor
 contracts: []
 

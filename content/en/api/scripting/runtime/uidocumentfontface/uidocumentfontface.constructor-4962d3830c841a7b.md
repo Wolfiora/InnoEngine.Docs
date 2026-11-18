@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.4962d3830c841a7b928007db6685b8598c8a55e797ae9ace74b062770c78f4c8
 symbol: scripting:Inno.UI:M:InnoEngine.UI.UiDocumentFontFace.#ctor(System.Guid,System.String,InnoEngine.Text.TextFontStyle,System.Int32)
 title: UiDocumentFontFace.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 21f1b491f321483095fa8fb62b29c757adb1ef1fd7878a5b74b199e7fe2a929b
+sourceFingerprint: 7786faec7dcc05cebebe1e0854d3622bb20e92bd2b45a74c06de7094b17d1a37
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2fdf9348190a94b16c69074898321e0f07010fef41a93fd45a4f2e67f8040c12
 symbol: engine:Inno.Scene:M:Inno.Scene.SceneSubtreeSerialization.Restore(Inno.Scene.GameScene,System.ReadOnlySpan{System.Byte},Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver,Inno.Scene.Components.Transform,System.Int32)
 title: SceneSubtreeSerialization.Restore
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 0fb9b13e81140f033ac665102422e3cc9b3f754ef5a85cc8df3627cae9c4038d
+sourceFingerprint: 632943840e87b24c76810e1be79dd45672a2a8e7f57b64afadd63f2c4c85faf3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scene.0e68a1242d012171
 symbol: engine:Inno.Scene:T:Inno.Scene.PrefabInstanceInfo
 title: PrefabInstanceInfo
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 7fa9383e2c01bcc11cd1b1f51c0f0d78c95254142fcf8ebad3061c0abf55f683
+sourceFingerprint: 4eaf5c97a0436099b82588f99c0a7ad641ebd1b705deb9436623e7075fd0009f
 contracts:
 - project.inno-scene#scene-ownership-contract
 

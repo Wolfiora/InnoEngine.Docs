@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bfeb8abfa7f59a93a0e1ee45940f70f2206d28bdee40b8bb0319b1d6e4722588
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiFocusedFlags.AnyWindow
 title: ImGuiFocusedFlags.AnyWindow
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: b90b47f01c73b1bd0232e98ae005a72d90b6dabbf5469f8f82fbfe2ffe00ed1c
+sourceFingerprint: 6ec204951c98499b46919e93eab94a7dbcce5739a4a7ac28c83c95358e1a5533
 apiScope: Editor
 contracts: []
 

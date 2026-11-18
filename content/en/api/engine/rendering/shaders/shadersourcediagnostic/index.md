@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.shaders.6586c6dca809d6f2
 symbol: engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderSourceDiagnostic
 title: ShaderSourceDiagnostic
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-reviewed: 3c1c0bb9ec94cb7c2e0bdd0d25c6e63dfcb01a4e53619798e19f910a87f98b04
+sourceFingerprint: 94a00da0a3e8a08a437b7604dcb1e25933c105aa89c509a34fa3dee34432f30b
 contracts:
 - project.inno-rendering-shaders
 

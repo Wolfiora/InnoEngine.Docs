@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: project.inno-core-logging
 symbol: project:Inno.Core.Logging
 title: Inno.Core.Logging
 kind: project
 owners:
 - Inno.Core.Logging
-reviewed: ''
+sourceFingerprint: bc8adabee7e1b981ace33f91495be0406e22d81b406cc3b806c92badb812f640
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

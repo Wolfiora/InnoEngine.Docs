@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.build.fcf00cfcc1d282aa
 symbol: engine:Inno.Build:T:Inno.Build.BuildDiagnosticSeverity
 title: BuildDiagnosticSeverity
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: d7c0ddce22e6b21f9edca14883eca3561968f7ff2a011b6c9179571a8329598e
+sourceFingerprint: d7c62265da35e469880d7d540f2cb25b440af2792fed77c431a69e46581ff88d
 contracts:
 - project.inno-build
 

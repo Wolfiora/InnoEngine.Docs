@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2138e747d5c69df1717663e5b7395f24c3ba0a7498d9c165bf07da0667931fa4
 symbol: scripting:Inno.Assets:M:InnoEngine.Assets.RetentionScope.Dispose
 title: RetentionScope.Dispose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-reviewed: ad1af695fe197a38507be477bd3ea880821494cbfd3110fa7559cec7f24802c7
+sourceFingerprint: 5a20351d1235d38f52787329a4ed484270ec3f033b848b871385edd63cb8ccd5
 apiScope: Runtime
 contracts: []
 

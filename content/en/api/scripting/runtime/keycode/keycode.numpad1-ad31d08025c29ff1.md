@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ad31d08025c29ff1c57868a2dadfdcd56bd592a800ea7df32b39e3f9a58ce810
 symbol: scripting:Inno.Core.Input:F:InnoEngine.Input.KeyCode.NumPad1
 title: KeyCode.NumPad1
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Input
 apiSurface: editor-script
-reviewed: b4f2a127330f4c95c2f6ed079f5790657938d33fb163d74fc9e976028586b20f
+sourceFingerprint: 9b474178e83b5a30c66db0e1a6ed7920fc5be9b8908f041540e59d23ce34f2be
 apiScope: Runtime
 contracts: []
 

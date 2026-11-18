@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.df9d24d7f66901d5c5ec60a596eda81ee502e5dc42336a95391c4bb37c43876f
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetFileSystem.Refresh
 title: AssetFileSystem.Refresh
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: aff17f0f6c588c688a3b737c3d7c159c21af905fecd9a90e58cdeb1f14fa1d72
+sourceFingerprint: 59c812377232e8853397f1d00c845f663a56d68eae3cf92e203a6e737486a2d2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

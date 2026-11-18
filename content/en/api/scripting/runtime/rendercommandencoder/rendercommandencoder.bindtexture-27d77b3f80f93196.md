@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.27d77b3f80f93196e13a23ce1abd5bba60c7cbfb7357c055abd6d96bb58106ab
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderCommandEncoder.BindTexture(InnoEngine.Rendering.RenderBindingId,InnoEngine.Rendering.PersistentTextureHandle)
 title: RenderCommandEncoder.BindTexture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: a5a0db431cba653068ad6cd00e7574ae24b8b3274ee9745bbe1d00b6e6e2e2fb
+sourceFingerprint: d7bccd5f382d9dd4e76eac9e4fa86e035ddbf953c7aa89728cb88f3725863f47
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.imgui.editor-script.5232a341cdc3475d
 symbol: scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiMouseCursor
 title: ImGuiMouseCursor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: ad0916043525dfaf0fb3f5c5470b643a28b5b143e7a0e9531164c9c2d2a9c939
+sourceFingerprint: 9d32d2a36624e74748390168139256d57e400acd2bf12f532f475a5508c04aac
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

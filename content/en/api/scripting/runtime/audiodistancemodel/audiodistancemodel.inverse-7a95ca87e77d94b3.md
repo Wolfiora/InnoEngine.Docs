@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7a95ca87e77d94b35cab5d0e5bff0a173d3d046bf99e8c397224b8f53982067d
 symbol: scripting:Inno.Audio:F:InnoEngine.Audio.AudioDistanceModel.Inverse
 title: AudioDistanceModel.Inverse
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 8f82a53af9710a3c55325e9161fd813fb45eba7f3dab77eb41caf02e67337395
+sourceFingerprint: cadeaa98f825f833a24fd8188b8cab3a0adb4369b2a448eda38dbc348554eb90
 apiScope: Runtime
 contracts: []
 

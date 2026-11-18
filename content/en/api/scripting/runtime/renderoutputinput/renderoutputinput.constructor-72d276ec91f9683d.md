@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.72d276ec91f9683dd7178a3caf32443842989a4a70686fd2f16ea45a13c0e998
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderOutputInput.#ctor(InnoEngine.Mathematics.Vector2,System.Boolean,InnoEngine.Mathematics.Vector2,InnoEngine.Input.KeyModifier,System.Collections.Generic.IReadOnlyCollection{InnoEngine.Input.KeyCode},System.Collections.Generic.IReadOnlyCollection{InnoEngine.Input.KeyCode},System.Collections.Generic.IReadOnlyCollection{InnoEngine.Input.MouseButton},System.Collections.Generic.IReadOnlyCollection{InnoEngine.Input.MouseButton},System.Collections.Generic.IReadOnlyList{System.String},System.Boolean)
 title: RenderOutputInput.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 5966273e21275282e55a8870f9c16982933793959a43940909dcd865882488bd
+sourceFingerprint: ebb567d1ce68209a404f996a581ddc3c147240d68f209a8ab0b44dd24e065d8c
 apiScope: Runtime
 contracts: []
 

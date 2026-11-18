@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.11344edce8f1448770ec5180d0d9d2f5514d60a2e73f832ae9ca0a27f209e559
 symbol: engine:Inno.Scene:M:Inno.Scene.GameObject.GetComponentIndex(Inno.Scene.GameComponent)
 title: GameObject.GetComponentIndex
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 69847a839c1122add11f45b6df3728a733cf06bc20132dccbe546acf8d29ee81
+sourceFingerprint: eb2095e3c89727e272cb89fe252f8a728d188e0c5586c7d8b1a93369c0f87fbe
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

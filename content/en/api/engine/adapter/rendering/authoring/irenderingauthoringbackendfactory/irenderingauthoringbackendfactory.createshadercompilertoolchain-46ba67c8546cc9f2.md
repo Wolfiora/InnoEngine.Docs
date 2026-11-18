@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.46ba67c8546cc9f2deec869625e88db68a8b05b9329f17f8e6ed0970829973c6
 symbol: engine:Inno.Adapter.Rendering.Authoring:M:Inno.Adapter.Rendering.IRenderingAuthoringBackendFactory.CreateShaderCompilerToolchain(Inno.Adapter.Rendering.RenderingBackendId)
 title: IRenderingAuthoringBackendFactory.CreateShaderCompilerToolchain
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Rendering.Authoring
 apiSurface: source-clr
-reviewed: 6c59518d3695e1d1686fdcf55e44165b65b4f7886dcffaded7b6e8f51891a4d6
+sourceFingerprint: 226d718dde447f120ccaf6ccedb3b446f1276b09da35ff521bea7f65a914535e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

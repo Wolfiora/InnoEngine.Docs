@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0c149e32a5377ef2200af3b41c42629c7e42dd43af50e9a1a263f43b487fa6e5
 symbol: engine:Inno.Text.Assets:M:Inno.Text.Assets.FontImporter.ImportAsync(Inno.Assets.Pipeline.AssetImportContext,Inno.Assets.Pipeline.AssetImportWriter{Inno.Text.FontAsset},System.Threading.CancellationToken)
 title: FontImporter.ImportAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text.Assets
 apiSurface: source-clr
-reviewed: 8d2f3fd31c3c27a609b20a67d2410b3d5880aad74e84152ffd5d04ffda06f221
+sourceFingerprint: 70bf110ab1d3389ff362866c9e94edaaf2a63138349bfd69c8fcaed864b3e52b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

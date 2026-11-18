@@ -1,12 +1,12 @@
 ---
-# Generated metadata. Maintained by project synchronization and review tooling.
+# Generated metadata. Maintained by project synchronization tooling.
 uid: api.projects.inno-editor-diagnostics
 symbol: project:Inno.Editor.Diagnostics
 title: Inno.Editor.Diagnostics
 kind: project
 owners:
 - Inno.Editor.Diagnostics
-reviewed: ''
+sourceFingerprint: a1c66c7adfdf166eb011eb1db8e52105ab5cefb54c6ee23b69803748dca1bb67
 contracts:
 - manual.editor.console
 - architecture.ownership

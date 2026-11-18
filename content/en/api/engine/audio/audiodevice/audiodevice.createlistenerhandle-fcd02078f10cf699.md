@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fcd02078f10cf699cbf7e9c247c3217a818143f37f48df237c41a0a7d15175ad
 symbol: engine:Inno.Audio:M:Inno.Audio.AudioDevice.CreateListenerHandle(System.UInt64,System.UInt32)
 title: AudioDevice.CreateListenerHandle
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: c17445de35cbe6ea93cf7f191d19aa188b4736d25bc23036dfc6301de982f295
+sourceFingerprint: a48a000f760157bedd018315e2f4c68acbfa674eee79b827c73745ddfef79fa7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

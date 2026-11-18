@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.095d156331f23053625819e1a348b9a689eefbc046a5346b3c1da422b3e1e585
 symbol: scripting:Inno.UI:M:InnoEngine.UI.UiDocumentFontFace.GetHashCode
 title: UiDocumentFontFace.GetHashCode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-reviewed: 7c67dd5b1d79e4619e867bbc2f175253c4b77a174e52536d109cc18d0db97924
+sourceFingerprint: 7c67dd5b1d79e4619e867bbc2f175253c4b77a174e52536d109cc18d0db97924
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b4e709d525d79ef4332d73da64eced790eb0dbff3034e4bb41f7bf5e08c4641b
 symbol: engine:Inno.UI:M:Inno.UI.UiRenderFrameBuilder.AddTextureUpdate(Inno.UI.UiTextureHandle,System.UInt64,System.Int32,System.Int32,System.Byte[])
 title: UiRenderFrameBuilder.AddTextureUpdate
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: 5c46388d9c05963e5f20128ed6b6a2760f2e210a306a1489208c7147cacfe442
+sourceFingerprint: 65b26723d2e97ad6be2f8b87335f52dcf84d07da43b3fd2874281c8a049d3e89
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

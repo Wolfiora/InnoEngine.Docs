@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c7ef2a0ef71e252a9220c103220bb45a0cba98675510410f434a57e5378b47b3
 symbol: engine:Inno.Core.Collections:M:Inno.Core.Collections.DependencyGraph`1.TopologicalSort
 title: DependencyGraph<TKey>.TopologicalSort
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Collections
 apiSurface: source-clr
-reviewed: 60e4fd40a9157de07508a14359b0d37da4fa6e2dde7d5f38d10b930308e0e532
+sourceFingerprint: 5454db151439f3347794494a50df64217a07e13b12d6425a8701533c4d6066c9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

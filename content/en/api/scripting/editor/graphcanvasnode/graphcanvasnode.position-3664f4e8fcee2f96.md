@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3664f4e8fcee2f96736553f60c6d7b23556a4d8aabc4d38b46f3b6eb52020fcd
 symbol: scripting:Inno.Editor.Graph.ImGui:P:InnoEditor.Graph.GraphCanvasNode.position
 title: GraphCanvasNode.position
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph.ImGui
 apiSurface: editor-script
-reviewed: 38a9571ffa7b19b0cad644d413461b29c1f1f9e38266b35dd9c219f53033886c
+sourceFingerprint: 8ee8eb24955e86fe81b575981495892a7f450ba9a7d7da95c578eb40a3af74d1
 apiScope: Editor
 contracts: []
 

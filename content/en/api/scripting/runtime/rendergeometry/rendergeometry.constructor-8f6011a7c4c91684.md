@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8f6011a7c4c916842ab24b6145c90f4fcae5fc6a602722b42d17eaff68908690
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderGeometry.#ctor
 title: RenderGeometry.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: b2613714e82af864d62ef22c13c8126936a20592cdc8a670865fcbbcac8aacf3
+sourceFingerprint: b2613714e82af864d62ef22c13c8126936a20592cdc8a670865fcbbcac8aacf3
 apiScope: Runtime
 contracts: []
 

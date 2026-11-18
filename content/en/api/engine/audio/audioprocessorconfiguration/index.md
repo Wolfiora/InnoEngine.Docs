@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.audio.42a67d884ffa0cde
 symbol: engine:Inno.Audio:T:Inno.Audio.AudioProcessorConfiguration
 title: AudioProcessorConfiguration
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: ce69822d983a5fdebf386757faba673e7ec0db500386002e859f327f7c63122b
+sourceFingerprint: 22a6897e9b10119db1b48b28f393f7d9db421146baad459779a4ebd85076612a
 contracts:
 - project.inno-audio#playback-and-device-contract
 

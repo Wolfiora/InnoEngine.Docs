@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ea57486649d74f937ea099192a70931dcf8ab02bb8e1895cbf43baed8179bd2e
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.ShaderInterfaceBinding.#ctor(InnoEngine.Rendering.ShaderPropertyId,InnoEngine.Rendering.ShaderPropertyType,InnoEngine.Rendering.ShaderStage,System.Int32,InnoEngine.Rendering.ShaderPropertyBindingKind,InnoEngine.Rendering.RenderStorageAccess,System.String,System.Nullable{System.Int32})
 title: ShaderInterfaceBinding.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 144c58e2df20260cac213aed84219d609644ec1075a7a77553443dabf201e951
+sourceFingerprint: daed45d1e20b93c74161d388bf194ba2f94966504967fcd227d2265a9223b45b
 apiScope: Runtime
 contracts: []
 

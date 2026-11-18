@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.shaders.f3cfffca15badf5b
 symbol: engine:Inno.Editor.Shaders:T:Inno.Editor.Shaders.MaterialDocuments
 title: MaterialDocuments
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders
 apiSurface: source-clr
-reviewed: c8e8e60ff093a77c85a4e64123380223e86bafe000530b162d8e3c56f44d4035
+sourceFingerprint: 75d85508cfdbd64a72946754b0ef78aa1aa08d09bba2b8957713ffef0b14e091
 contracts:
 - project.inno-editor-shaders
 

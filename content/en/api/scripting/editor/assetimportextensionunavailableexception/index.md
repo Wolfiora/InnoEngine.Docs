@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.assets.pipeline.editor-script.18181796887c9f40
 symbol: scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetImportExtensionUnavailableException
 title: AssetImportExtensionUnavailableException
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: editor-script
-reviewed: 511e41b93dd2a8b116d8934bfd8932211b868829943a54684811865486a7cb9d
+sourceFingerprint: 5a8fd6f17c9723164e1444c9d8de30de8528510346df34fc666bd0530e82a15c
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

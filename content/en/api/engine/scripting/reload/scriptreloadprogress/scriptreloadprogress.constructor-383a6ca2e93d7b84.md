@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.383a6ca2e93d7b84d5d05c8a071aea617ecb4f31adc06af378d7a469b64abe83
 symbol: engine:Inno.Scripting.Reload:M:Inno.Scripting.Reload.ScriptReloadProgress.#ctor(System.Int64,System.Single,System.String,System.Boolean,System.Boolean)
 title: ScriptReloadProgress.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Reload
 apiSurface: source-clr
-reviewed: a814c5c8dd75ad27fbf3e9c6cb9896899f9147e4d90acbf89c9a6a6d921c8217
+sourceFingerprint: fa2b659016840e2a257264cd12f0b7e7c390d8e41c6856b5394c805255ac7866
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

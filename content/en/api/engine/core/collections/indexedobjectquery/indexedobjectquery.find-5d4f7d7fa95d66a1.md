@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5d4f7d7fa95d66a13555085b55cc719320ffd56168c4de74e3890a3c4fe30e73
 symbol: engine:Inno.Core.Collections:M:Inno.Core.Collections.IndexedObjectQuery`1.Find``1(Inno.Core.Collections.IndexedObjectKey{``0},``0)
 title: IndexedObjectQuery<T>.Find
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Collections
 apiSurface: source-clr
-reviewed: 191d8e3e15a18de9a8f4f3214aa921745b15722ffc8a8486dc9f485d4860e983
+sourceFingerprint: 8eb995d364b9ff05b42061e7c19e0fa016d8eabf1a5d2d02d69b842b450436bf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

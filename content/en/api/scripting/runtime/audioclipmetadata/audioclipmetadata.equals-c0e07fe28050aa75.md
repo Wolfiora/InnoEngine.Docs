@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c0e07fe28050aa75cb2ea7ae336c157e97d30853aefa4d27b8f4161da4bc3e3d
 symbol: scripting:Inno.Audio:M:InnoEngine.Audio.AudioClipMetadata.Equals(System.Object)
 title: AudioClipMetadata.Equals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: bbae7c8d284c1ce839c9dc204b3ebcaae9dcdb0a787f6ef4cc42a446d9ff6745
+sourceFingerprint: bbae7c8d284c1ce839c9dc204b3ebcaae9dcdb0a787f6ef4cc42a446d9ff6745
 apiScope: Runtime
 contracts: []
 

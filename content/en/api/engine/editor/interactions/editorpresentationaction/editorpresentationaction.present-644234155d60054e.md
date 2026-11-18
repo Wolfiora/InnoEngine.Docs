@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.644234155d60054e6de1cc909b5cdf1eb0ae51969edb278c8f7d76bc853d0384
 symbol: engine:Inno.Editor.Interactions:M:Inno.Editor.Interactions.EditorPresentationAction`2.Present(Inno.Editor.Interactions.EditorActionContext{`0,`1})
 title: EditorPresentationAction<TTarget, TPresentation>.Present
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-reviewed: a74d2cd0a5818cb3dac67610af314e0a479985ceb3c59413980a1ff069ba3ec1
+sourceFingerprint: 524cd63bedf0f800b973c78f72784bf924edee0c33fce3f0193492bcee094e93
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

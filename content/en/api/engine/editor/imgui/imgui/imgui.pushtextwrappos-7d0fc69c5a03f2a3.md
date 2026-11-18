@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7d0fc69c5a03f2a3f06f834b2fb077694a5ba2ca01712874c0c072c1e724b720
 symbol: engine:Inno.Editor.ImGui:M:Inno.Editor.ImGui.ImGui.PushTextWrapPos(System.Single)
 title: ImGui.PushTextWrapPos
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-reviewed: 50137528cea0dd5485faec83fc9c1e3aeee7c08fee0d1676ede5011e12758635
+sourceFingerprint: 45fcc670e22ffa0c595db8974e0324817dfe71b1a19f9c4f19a6705cb806f3f1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

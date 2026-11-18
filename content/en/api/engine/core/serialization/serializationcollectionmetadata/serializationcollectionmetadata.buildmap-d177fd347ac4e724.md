@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d177fd347ac4e724986144d590f49c8c6cbe1810f59892810c54ddf1f8ebc2c5
 symbol: engine:Inno.Core.Serialization:P:Inno.Core.Serialization.SerializationCollectionMetadata.buildMap
 title: SerializationCollectionMetadata.buildMap
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: source-clr
-reviewed: 65a99ee54f839afa1025ce90c3d168f15320cc3c772837c6fa91f7d202a3e615
+sourceFingerprint: a95bdb9bc4e645af6e2dd95fd4fd78725dd70631877badaa4587102dff8e2354
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

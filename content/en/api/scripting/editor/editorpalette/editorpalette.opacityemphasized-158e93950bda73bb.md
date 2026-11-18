@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.158e93950bda73bba48d6c71a4631f5359d3cbd81ae6e87041ad0f56e19aea0d
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.EditorPalette.opacityEmphasized
 title: EditorPalette.opacityEmphasized
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 0e03343c6f36c544439278f4aeb262b54bacf552e3e516fa17714d0060a73847
+sourceFingerprint: ec338681f77aa9eeb805595f624cdef639de40de9f4468f62b242440c4b583f1
 apiScope: Editor
 contracts: []
 

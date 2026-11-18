@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d85fdf636aca87b35a47d3d3e89572bb03c549e025a0a1bbc1f18200265addbd
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.EditorPalette.compactControlHovered
 title: EditorPalette.compactControlHovered
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 9c2203fe1b149d3bdba35163877f42685ee618b017b59127f22d8acc27dbe935
+sourceFingerprint: 56701e73132ce97a5138a3cc74bcb8a0bbe2e99eff245c3240ee89b8ca06198f
 apiScope: Editor
 contracts: []
 

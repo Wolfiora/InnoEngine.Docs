@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.15e9a92bb41ac1fb
 symbol: engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.MaterialValue
 title: MaterialValue
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: 83ef336cad23d81c28e632cbadc2bd6b747ee2b16c02fea5841750b7a54ce86f
+sourceFingerprint: 76bcbd3b7af48a744c3cb4a8d00d75c93397973c4da759953699d76a6830cb1a
 contracts:
 - project.inno-rendering-assets
 

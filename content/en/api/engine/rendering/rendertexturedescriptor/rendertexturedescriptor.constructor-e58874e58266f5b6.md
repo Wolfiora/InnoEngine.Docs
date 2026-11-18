@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e58874e58266f5b65df32c07cc5fa1e527bb286639a144309197712123c24f35
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderTextureDescriptor.#ctor(System.Int32,System.Int32,Inno.Rendering.RenderTextureFormat,Inno.Rendering.RenderTextureUsage,System.Int32,System.Int32,System.Int32,Inno.Rendering.RenderTextureDimension,System.Int32)
 title: RenderTextureDescriptor.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: ebac37b3e4cd116ff6d8c1a140d9f5532781c3fb2aaa369e60b5c7be9b5b9702
+sourceFingerprint: 94e2df89f065dfc5bfef27fb3eac8aaab010317a46bb25a75ab6bf0455b05b77
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

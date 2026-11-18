@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f6c06a0cdad460e1b7cf436ed46fd28957e076b160aaa1c6b3fe0954a2e455fc
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ToolchainEnvironment.CaptureOutputAsync(System.Diagnostics.ProcessStartInfo,System.Threading.CancellationToken)
 title: ToolchainEnvironment.CaptureOutputAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 07b84e0648501c81c5db11a58ddbe831c2ea8d62425924fdfab69898252b37ec
+sourceFingerprint: e3c338029ac3aabd75f055790ccfd36893981afc4ac41596cc60137526419386
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

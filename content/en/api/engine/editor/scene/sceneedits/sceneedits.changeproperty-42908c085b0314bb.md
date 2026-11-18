@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.42908c085b0314bb2eceaf16e1f03d32b5331885aa000d9c25ed65d79bbc886c
 symbol: engine:Inno.Editor.Scene:M:Inno.Editor.Scene.SceneEdits.ChangeProperty(Inno.Scene.EngineObject,System.String,System.Action,System.String,System.String)
 title: SceneEdits.ChangeProperty
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: source-clr
-reviewed: e2c339df0edc6bf6bc8e03fb66e487ec76be3ed222a673c034019d37a4e09413
+sourceFingerprint: f5bde74554604df62587d734cf99c2e9070aff7f47a072b27814bd982cb30524
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

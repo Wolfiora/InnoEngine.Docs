@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.91a6191dd8ee0bc45a1971857085a93ef474e90153aa96dbf22c97f83553a3dc
 symbol: engine:Inno.Build:M:Inno.Build.PlayerSupportPackCatalog.Acquire(Inno.Build.BuildTargetId,Inno.Build.IPlayerSupportPackValidator,System.Threading.CancellationToken)
 title: PlayerSupportPackCatalog.Acquire
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: b087fbe55b4d339455efafbf6b66b5a30e44ede35fb61226fb6df319ce389d36
+sourceFingerprint: e617ad1ff073a653e4cb8016eb4f222a2cd09783117e743c7bdf27cb3e972589
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.244a0d0d61a01334d9e2b13d29f14a76bf2ff63265b971b97ef3de924f9718c6
 symbol: scripting:Inno.Scene:P:InnoEngine.Scene.SceneManager.hasActiveScene
 title: SceneManager.hasActiveScene
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 343a51889dbf2c4fafe8628873e85cf4924fda6c228d52855fbc7c61fd3869c2
+sourceFingerprint: 2e0ea11420208d7f0d7a3fa1ef44c752e779609a1956da779c778b6ab16c9d6f
 apiScope: Runtime
 contracts: []
 

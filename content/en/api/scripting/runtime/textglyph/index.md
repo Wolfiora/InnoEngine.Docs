@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.text.runtime-script.f5cf530460164940
 symbol: scripting:Inno.Text:T:InnoEngine.Text.TextGlyph
 title: TextGlyph
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: editor-script
-reviewed: 0bc35ceb2e9ef4bcbb65599194fe209bba75872afecbc30de51b81bcf1ee2afb
+sourceFingerprint: eacd7d3cfdd22dc396951b18b13063645c6a991bab8b243d739d52917ccc7e9a
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

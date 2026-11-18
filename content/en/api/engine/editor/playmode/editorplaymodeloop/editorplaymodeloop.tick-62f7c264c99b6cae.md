@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.62f7c264c99b6cae1ba71878ee18c39808210d68299a23eec5e5c2f177421d40
 symbol: engine:Inno.Editor.PlayMode:M:Inno.Editor.PlayMode.EditorPlayModeLoop.Tick(System.Single)
 title: EditorPlayModeLoop.Tick
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.PlayMode
 apiSurface: source-clr
-reviewed: 9b72e446996f405b6252b23ed85dee3edb0762992b6b5507d53b33cfe0fff12e
+sourceFingerprint: e883effcf849d65915d678897ff247607ab44ffb5688b0dcd1c6d768c0dccc8e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

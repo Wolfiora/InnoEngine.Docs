@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.696466663ee6d01f
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderDevice.GraphHandleIdentity
 title: RenderDevice.GraphHandleIdentity
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 9429ab1a2b89a8b1e0ed9d883ac98acedcc7101d16e228929f111288e1f39305
+sourceFingerprint: e6e5be0ca759fbe034b0e13617fe9f1fce8d270470bb33119b125071b3a3c45d
 contracts:
 - project.inno-rendering
 

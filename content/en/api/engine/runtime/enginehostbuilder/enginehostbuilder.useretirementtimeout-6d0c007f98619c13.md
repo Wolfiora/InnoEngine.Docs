@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.6d0c007f98619c13e7062df114c2766ce1ed0e51b23a90f08b2780fc4f9fddfb
 symbol: engine:Inno.Runtime:M:Inno.Runtime.EngineHostBuilder.UseRetirementTimeout(System.TimeSpan)
 title: EngineHostBuilder.UseRetirementTimeout
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: 1be0dbfde382b86833044a193928f92e2bb1292e8b0af313a916230fd0bdaee7
+sourceFingerprint: d55cd5b2e1b31df96b0e18307c21adfde3c5c95e0c08e5eaecff8594f92280f4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

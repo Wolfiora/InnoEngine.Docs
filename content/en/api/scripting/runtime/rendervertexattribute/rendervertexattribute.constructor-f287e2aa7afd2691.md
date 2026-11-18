@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f287e2aa7afd2691f104d8f6107828926b54c0eda7ce896125524476dac8521d
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderVertexAttribute.#ctor(InnoEngine.Rendering.RenderVertexSemantic,InnoEngine.Rendering.RenderVertexFormat,System.Int32)
 title: RenderVertexAttribute.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 612c6350249780c873d7654124952f233907fbde530b374a86fddc3461024511
+sourceFingerprint: f4b5436c636a9d111953603316220154a7be0c10f2af9f3ab9f8cdd1af9997e5
 apiScope: Runtime
 contracts: []
 

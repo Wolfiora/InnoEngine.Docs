@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2608fc345cf6b65a4b5fae414c52ef0a03e3b5e208abd0ac2a543a6ccf6fc8d5
 symbol: scripting:Inno.Editor.Scene:M:InnoEditor.Scene.SceneEdits.MoveGameObjects(System.Collections.Generic.IReadOnlyList{InnoEngine.Scene.GameObject},InnoEngine.Scene.GameScene,InnoEngine.Scene.GameObject,System.Int32)
 title: SceneEdits.MoveGameObjects
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scene
 apiSurface: editor-script
-reviewed: cbc798e033f42dcb3112046199ca880f4548a83d148bd9a2f5eb2aa15b1d5bd5
+sourceFingerprint: 937a9cb036c8e8a89003b8cf080e0619df842fa172ab36c3a664a96657834d05
 apiScope: Editor
 contracts: []
 

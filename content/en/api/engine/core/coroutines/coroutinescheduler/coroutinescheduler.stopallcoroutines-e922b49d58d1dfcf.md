@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e922b49d58d1dfcf422fb9f0e584bc84a3a1b3532bf2ceaa2c1199fd8ecfa791
 symbol: engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.CoroutineScheduler.StopAllCoroutines(System.Object)
 title: CoroutineScheduler.StopAllCoroutines
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Coroutines
 apiSurface: source-clr
-reviewed: 29ddc1433bc2a74acf3331d5520854f37628653391a6c7e6bc3ad555a3f09731
+sourceFingerprint: a2acce77776ac247be263cd2ec0d785a0e93c8382e8d92b71ecab68d5e265af9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

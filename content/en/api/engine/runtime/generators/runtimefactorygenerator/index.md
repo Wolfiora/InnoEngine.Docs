@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.runtime.generators.5508a99212991841
 symbol: engine:Inno.Runtime.Generators:T:Inno.Runtime.Generators.RuntimeFactoryGenerator
 title: RuntimeFactoryGenerator
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime.Generators
 apiSurface: source-clr
-reviewed: 6d5637d6e984a53c25127fdddc75cdc4fd0eb8fcc5b07f60ddcc1c344b6b7d86
+sourceFingerprint: db7a42bd1b3fc5b8d0672b7b1c4c5f90aa2b5fe43762b324418895a1ddf375e1
 contracts:
 - project.inno-runtime-generators
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ab09469e2cbed7b3591b33e76be74d7af794c5ab402b143dae09c0f3e57b8e5e
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiInputTextFlags.AlwaysOverwrite
 title: ImGuiInputTextFlags.AlwaysOverwrite
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: e37dc6c9a03e0f9614147f9abeb1ab23047e0170f62d6136d97779d7c9240979
+sourceFingerprint: 8663148f1544119ba07f682be1d28b3ab760e450742ab72c4e36583531f43fdb
 apiScope: Editor
 contracts: []
 

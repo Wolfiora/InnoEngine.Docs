@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime.dd107c8ec961a5cf
 symbol: engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderGeometrySection
 title: RenderGeometrySection
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 055e2c880fd52c5226818f9da63eac28c922540e4ea820c12b48b1b26725e3e4
+sourceFingerprint: 93a681d3f86eab30f682822beac2cfa9b14828238149d4d86e58452f9ce3793a
 contracts:
 - project.inno-rendering-runtime
 

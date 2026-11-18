@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.assets.authoring.editor-script.54c3f23a0c26bf4b
 symbol: scripting:Inno.Rendering.Assets.Authoring:T:InnoEditor.Rendering.Assets.ShaderFunctionAsset
 title: ShaderFunctionAsset
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: editor-script
-reviewed: c12855b660be00bb28e004660b7df02d37039c061fc61a59ee03813d1d6d7649
+sourceFingerprint: e9be7f1e1a25ad3bcc0da251e127f34336a17b7b69cc019debd5b617694cfb8b
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

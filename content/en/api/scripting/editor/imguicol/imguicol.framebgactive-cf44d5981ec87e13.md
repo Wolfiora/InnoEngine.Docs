@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cf44d5981ec87e13f26f6cbbaf358a116d3d58651d68614541f541690b4ad989
 symbol: scripting:Inno.Editor.ImGui:F:InnoEditor.ImGui.ImGuiCol.FrameBgActive
 title: ImGuiCol.FrameBgActive
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: a811bc8c206c089a8c4cedf9abb49d377e35b12fe4f4e75507b7874091825d1a
+sourceFingerprint: 6ffc92c94b87cf46a4d4a1df3c7b9792ab93f0916d402ae1a7d8ea7e49b3ce0a
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.87cf43e2af9fb31cc4d52e15780698e8bd3d932ad97fb167e7ed42c823c37b31
 symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.LifetimeScope.RunAsync``1(System.Func{System.Threading.CancellationToken,System.Threading.Tasks.ValueTask{``0}},System.Threading.CancellationToken)
 title: LifetimeScope.RunAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Execution
 apiSurface: source-clr
-reviewed: ce70fd768583e64fa878bc93b653c00b6349300078888050550f81a8ca283818
+sourceFingerprint: 762c20b0adc9ade2f75fc2a4f905e9951e1414fae025dd943d07ad4367fa673c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

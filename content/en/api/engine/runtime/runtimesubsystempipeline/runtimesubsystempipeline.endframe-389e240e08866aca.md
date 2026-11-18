@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.389e240e08866aca8d0f87c38954af0a86d0c10a04d0ec5ae6eae799dcfb2a74
 symbol: engine:Inno.Runtime:M:Inno.Runtime.RuntimeSubsystemPipeline.EndFrame(Inno.Runtime.Contracts.RuntimeFrame)
 title: RuntimeSubsystemPipeline.EndFrame
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: 176b0425bdcdce813d8cae3ef859ebc6739050554acf1348dcee52e721d1cfff
+sourceFingerprint: d6457e2fd05f6f599aa60f68e832f3b57efcd3c6be5ea3832dcef4376689b4ed
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

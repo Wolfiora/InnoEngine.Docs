@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.c2c18aa5adeea24dbae320bc77b84d63978d1cc8f9eee5be057886354413eadf
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorEditGesture.Cancel
 title: EditorEditGesture.Cancel
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: e1cbc5c92bd4fa8e64839a0c564c075b1fdc68006e0f4373e27ffd5b3a8d5757
+sourceFingerprint: c0e2065a8fc50a1e45f0255b6645e7b680ee31cd37986c9db01fcab36cfc004c
 apiScope: Editor
 contracts: []
 

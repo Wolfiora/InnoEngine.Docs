@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bcb41466549f328bb818a52354bd3667153d8590ea42157d9391a9ce758a630e
 symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.IPlayerSupportPackSource.CreatePlanAsync(Inno.Build.SupportPacks.PlayerSupportPackPlanningContext,System.Threading.CancellationToken)
 title: IPlayerSupportPackSource.CreatePlanAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.SupportPacks.Core
 apiSurface: source-clr
-reviewed: ab918e4c14a62d9805d1c6f5074b981a33dfb5bede68e7917721d85b42d52d84
+sourceFingerprint: 9d63edcdc9b08aeeff2dde526334689942d628413475e40414e8ad6137d4df4e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

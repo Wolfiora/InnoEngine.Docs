@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3a328fa681752ae0926d695c7e614ec0a7491b9f3837e7f1d78203728a4ad8d3
 symbol: engine:Inno.Scene:M:Inno.Scene.ScenePropertySerialization.CaptureProperty(Inno.Scene.EngineObject,System.String,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)
 title: ScenePropertySerialization.CaptureProperty
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 05e4f83cd0154fcbc924df6c4bd8fbf0dcd60c61cda1ce6b855a394b0cb65ff4
+sourceFingerprint: fcc4ce74b4fa87eddd64d1512ab2056e33a32a9248a11ef205c6e0c54b1f1c4b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

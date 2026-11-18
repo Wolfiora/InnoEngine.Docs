@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.extensibility.types.93f91626904eb114
 symbol: engine:Inno.Extensibility.Types:T:Inno.Extensibility.Types.TypeCacheReloadContext
 title: TypeCacheReloadContext
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-reviewed: a8511e073102c6f6f6ce5716f623fa1b11272defe0f6ba3026b01d81e4824c4c
+sourceFingerprint: 4887392725c4492db4afb11a0ac39961ac23ee6485c51277215360abcae63446
 contracts:
 - project.inno-extensibility-types
 

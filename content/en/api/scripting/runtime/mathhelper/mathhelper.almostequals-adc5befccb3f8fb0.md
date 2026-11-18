@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.adc5befccb3f8fb05999a8a0a3bb418aff1139912d0e276238cd9e7ad5353818
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.AlmostEquals(System.Single,System.Single,System.Single)
 title: MathHelper.AlmostEquals
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: 390555c8c67f4b8799514eb9316c091e8c21ec5c07beef8f1b2d019b8b85f33e
+sourceFingerprint: b025c6a2cbccca84ac018651c271deb01ffb4d3ca7e2296a19d34b486027a84e
 apiScope: Runtime
 contracts: []
 

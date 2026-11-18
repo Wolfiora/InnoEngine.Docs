@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.adapter.ui.3def526de2033208
 symbol: engine:Inno.Adapter.UI:T:Inno.Adapter.UI.UiBackendCatalog
 title: UiBackendCatalog
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.UI
 apiSurface: source-clr
-reviewed: 15bd750b7962bc73d9a23d829926325a9c43b49c8e3b7ee9c0ccf20bb4bf2ac9
+sourceFingerprint: 37427136f1b8e0f2fd4b0b436e543cd3c9687cda26a4f899e4ad34cd5f5217c3
 contracts:
 - project.inno-adapter-ui#provider-and-catalog-contract
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.66735044350bb25f805c225735deaa38b53f02ecb19fc382fc1474331160cce9
 symbol: engine:Inno.Core.Serialization.Generators:M:Inno.Core.Serialization.Generators.SerializationConverterGenerator.Initialize(Microsoft.CodeAnalysis.IncrementalGeneratorInitializationContext)
 title: SerializationConverterGenerator.Initialize
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization.Generators
 apiSurface: source-clr
-reviewed: 5b5b8d61c708ffed401a94b6dde92e6634a53253bcca6bdfb867a93cbf4480a3
+sourceFingerprint: 931038338ed50e998b24d71146299c45b191c09675e46e01acffd4ea838802ee
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

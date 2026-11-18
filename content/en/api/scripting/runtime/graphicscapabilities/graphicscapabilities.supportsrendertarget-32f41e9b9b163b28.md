@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.32f41e9b9b163b285421ccbb2895834e50f3a96dcccf64d30052b69bf5082604
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.GraphicsCapabilities.SupportsRenderTarget(InnoEngine.Rendering.RenderTextureFormat)
 title: GraphicsCapabilities.SupportsRenderTarget
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: cbf13f5004c999b952de91352b34791928af483e0b697cbc0e6f4cb98a565a19
+sourceFingerprint: a657bc1f29fd220098600e8c031ec466c030ddf5b81e1dfc00abb6c868c34914
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.21bc4444531ef1f825a6ccc49a38754ecba6c1e735cef19196f467a35ef239f2
 symbol: engine:Inno.Core.Execution:M:Inno.Core.Execution.LifetimeScope.Own``1(``0)
 title: LifetimeScope.Own
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Execution
 apiSurface: source-clr
-reviewed: 7b8fdf22f788e093da95b807ee2237ad558cb8fdb29ea02e89f90145a9b51f17
+sourceFingerprint: a067a8344f68abf7516cfffa37c412db4aef73b0703f0f4aec091f476d3abce9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

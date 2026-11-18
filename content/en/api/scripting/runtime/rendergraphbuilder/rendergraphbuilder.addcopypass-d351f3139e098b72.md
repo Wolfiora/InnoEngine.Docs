@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d351f3139e098b72146408ac116b4c84a99a1e5fdc4865c7d555fa2dd96cef3c
 symbol: scripting:Inno.Rendering:M:InnoEngine.Rendering.RenderGraphBuilder.AddCopyPass``1(System.String,InnoEngine.Rendering.RenderPhaseId,``0,InnoEngine.Rendering.RenderPassExecute{``0})
 title: RenderGraphBuilder.AddCopyPass
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 37ce8d7f4a5608413460c51122021c09d05362202458ac2cce2ead868002a547
+sourceFingerprint: b6e099f16a3f628852597c8a8aaee26cbca777082b1142d08c08def9fb5343a2
 apiScope: Runtime
 contracts: []
 

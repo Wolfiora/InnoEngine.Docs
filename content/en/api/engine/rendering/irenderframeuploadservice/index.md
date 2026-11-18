@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.f6fdd4b380de8071
 symbol: engine:Inno.Rendering:T:Inno.Rendering.IRenderFrameUploadService
 title: IRenderFrameUploadService
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 9d94bfc4e641dae7f52d1e199b375ab25e2e08c3573ffbb7f2c2437500e6e842
+sourceFingerprint: f22c44133d2bbc5c55ca8f5bbabd2239ee9a53e68b9be407244143d2b29087d6
 contracts:
 - project.inno-rendering
 

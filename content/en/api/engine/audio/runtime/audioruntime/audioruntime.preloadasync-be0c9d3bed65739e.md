@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.be0c9d3bed65739e4bfb282dd750ae541e6ae5e3b4fada72db314c4cfc6a551e
 symbol: engine:Inno.Audio.Runtime:M:Inno.Audio.Runtime.AudioRuntime.PreloadAsync(Inno.Audio.AudioClipAsset,Inno.Audio.AudioClipLoadMode,System.Threading.CancellationToken)
 title: AudioRuntime.PreloadAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio.Runtime
 apiSurface: source-clr
-reviewed: f90e19168c3d01f82e2e84a106589b256aad99b42e318e3098ef2086e459ecb9
+sourceFingerprint: 6afb056e6c52e563cfba73525b0b9f743d9c512e9e79a7daeb904ee612cc2948
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

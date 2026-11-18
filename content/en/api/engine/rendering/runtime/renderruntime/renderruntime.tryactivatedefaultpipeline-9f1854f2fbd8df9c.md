@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9f1854f2fbd8df9c982f382da4466200df4653fd6953ccc7273b73bc534ec12d
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.RenderRuntime.TryActivateDefaultPipeline(Inno.Rendering.Assets.RenderPipelineAsset)
 title: RenderRuntime.TryActivateDefaultPipeline
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: 614690a2a23e3bea87132c3ea0ecb4a573fdb5b9579fe4fbcd34b36d1cd1fe8c
+sourceFingerprint: 215d81722289f58d450a70168f2d5aeb22ccf21c451148e6b9b8d775ce0ccf48
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

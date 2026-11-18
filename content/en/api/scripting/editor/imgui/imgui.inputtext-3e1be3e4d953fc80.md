@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3e1be3e4d953fc809dd191742ffa93c6b4203cfcaabebb1248e062f0ec2fb5f0
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGui.InputText(System.String,System.String@,System.Int32,InnoEditor.ImGui.ImGuiInputTextFlags)
 title: ImGui.InputText
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 4a2a3eed80ebb9c969c29603469c7f892dbc62d5ef6f2ab502a2fd6d14365c17
+sourceFingerprint: 8587ebfa694a8a484a87d1bf02505ce5273632bf3e55ad896d46ad9b888a0067
 apiScope: Editor
 contracts: []
 

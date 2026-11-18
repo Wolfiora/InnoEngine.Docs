@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.00eadc3a869eed8f0c3f18473fd0781b421480a029b614109373b2d51a0bf196
 symbol: scripting:Inno.Editor.Settings:M:InnoEditor.Settings.ProjectSettingEditor.Draw(InnoEngine.Serialization.ISerializable)
 title: ProjectSettingEditor.Draw
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Settings
 apiSurface: editor-script
-reviewed: 21aec08b5fe7a1b96109a5b2cd488ff71d63cebfa17e21f2981b2e680b908808
+sourceFingerprint: b52727e6ded081faf9beef6193f52c2a8c43c6c1afeb58cd56c617dfefce70d0
 apiScope: Editor
 contracts: []
 

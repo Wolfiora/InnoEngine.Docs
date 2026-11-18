@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.47e21acfc819996050fcb138662357ce5cfad5489692680f592efabaa62a4975
 symbol: engine:Inno.Runtime:M:Inno.Runtime.RuntimeSubsystemPipeline.Dispose
 title: RuntimeSubsystemPipeline.Dispose
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: a5818b3221eafd5800abfd9b2d6e2eb5f997cb6823711f830f73df511453f5a3
+sourceFingerprint: 6a03eb6b1ad0dabf159981a126699aaaa6e482ea5f14fa10cd0b0da6bd18c3f6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

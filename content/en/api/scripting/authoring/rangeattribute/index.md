@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.annotations.runtime-script.1c8d63cdf2f480c0
 symbol: scripting:Inno.Editor.Annotations:T:InnoEditor.Annotations.RangeAttribute
 title: RangeAttribute
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Annotations
 apiSurface: editor-script
-reviewed: f66fa6729fe9e8016af2e25284d56c97ef2aabff99ad515d7fb2f4b95603e020
+sourceFingerprint: 93e0df584dcfdfbc688bc8e5b53aced13207fafc94b93838482d8036f2233c5e
 apiScope: Authoring
 contracts:
 - api.projects.inno-editor-annotations#loading-and-script-availability

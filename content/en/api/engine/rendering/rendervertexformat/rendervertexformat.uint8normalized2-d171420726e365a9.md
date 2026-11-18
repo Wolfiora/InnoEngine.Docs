@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d171420726e365a9fb987ad02ef1cbc745426892051417dfd955a250c608f778
 symbol: engine:Inno.Rendering:F:Inno.Rendering.RenderVertexFormat.UInt8Normalized2
 title: RenderVertexFormat.UInt8Normalized2
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: e20d83dd01ba0a2866626214e603585ad133150e60df7346b9d7015e4f4b20e2
+sourceFingerprint: 68df1ae6042fbac6667e9cbbf9f0df4db476b35bcdce359462ea78c5eb81f981
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

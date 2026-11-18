@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.50cbcfea61afac88ea782352a9430eb889cee0cb1ad1dd5137b63dd26656344a
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.SetViewport(System.Int32,System.Int32,System.Int32,System.Int32)
 title: RenderCommandEncoder.SetViewport
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 095e8fdb620d75dcf047908144dda8622c7635cd9620fd9f4b9ed39830b6c91a
+sourceFingerprint: 10ed58ea4c4dca59d54c31e7434a24214ea07c275eb577211dfc0bfa2dee74b4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

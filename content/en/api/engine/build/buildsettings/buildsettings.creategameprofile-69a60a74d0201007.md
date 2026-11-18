@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.69a60a74d020100786842c93e4a8c5b58bfeb6fb847044819c7f6b8df68e5247
 symbol: engine:Inno.Build:M:Inno.Build.BuildSettings.CreateGameProfile(Inno.Core.Settings.ProjectId)
 title: BuildSettings.CreateGameProfile
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-reviewed: a9d9d00f130dc59eea57ba56bdc5b9b56d9e97769360d8716045d67397f01cdf
+sourceFingerprint: 2386c1c34aa9c067a6ce196fbfc65e32d2c11279ea236c9f73735028f4e16c46
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2bf6eeaf95a09ae2c6f8ed02ae1e87b40ea6b7116d7858168b2e02e9a1a3bac5
 symbol: scripting:Inno.Editor.Rendering:P:InnoEditor.Rendering.EditorViewportNavigationProfile.fastMovementMultiplier
 title: EditorViewportNavigationProfile.fastMovementMultiplier
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: c1bfb12beff37dbfc680b881cd9059522dc75b149752fe88584300e8b2d2fc8c
+sourceFingerprint: 017639df2d431b48ea8fd40df1fbac50c3e91ff985bf2b81790ea93a87b1fb57
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b325fcc45dbd2b55e9ee9b88fdbab3daea7ed9a7f8b849664d6a76cd6251ab1b
 symbol: engine:Inno.Rendering.Assets:M:Inno.Rendering.Assets.RenderShaderVariant.Parse(System.String)
 title: RenderShaderVariant.Parse
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-reviewed: bd07f9609a4897f5d9c0f9cd406b8acf0e389422b5e1d2341a2075e5e79d6ee7
+sourceFingerprint: e223f93d1317dc11d8ef8d884052a215b61165ff524827860b849ba735d3a302
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

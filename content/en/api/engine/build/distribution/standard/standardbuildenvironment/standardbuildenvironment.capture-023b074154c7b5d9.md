@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.023b074154c7b5d99d95bb379551494ff3141874418abb34f54af7a4b689d6bb
 symbol: engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildEnvironment.Capture(System.String,Inno.Build.BuildTargetId,System.String)
 title: StandardBuildEnvironment.Capture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Distribution.Standard
 apiSurface: source-clr
-reviewed: a5a05b9ead17c87b14c08585fceebd2d8b9fc3eec290f25dc10ee60b256b7419
+sourceFingerprint: a2897227c08bc9d3887ae9cbc39927307b7127b90fe3b23fc53aa7425a626fd3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

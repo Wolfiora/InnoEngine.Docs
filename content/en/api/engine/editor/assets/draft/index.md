@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.assets.63121595a158ace1
 symbol: engine:Inno.Editor.Assets:T:Inno.Editor.Assets.AssetDraftDocuments`1.Draft
 title: AssetDraftDocuments<TAsset>.Draft
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
-reviewed: 73fb1e0aaf8295482950503aeb16847771d05fb282a76d324133eec1996c264c
+sourceFingerprint: a4584594b4d2bcec38ec525bb2a76f8803b346abd0b70f139186c227acb09168
 contracts:
 - project.inno-editor-assets
 

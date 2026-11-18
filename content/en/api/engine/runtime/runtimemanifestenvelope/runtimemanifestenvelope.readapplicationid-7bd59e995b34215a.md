@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7bd59e995b34215accce379a0cbc168fb35695d6426b99d4cf50a0d892db7c08
 symbol: engine:Inno.Runtime:M:Inno.Runtime.RuntimeManifestEnvelope.ReadApplicationId(System.ReadOnlySpan{System.Byte})
 title: RuntimeManifestEnvelope.ReadApplicationId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: 39ef9f9c395444a7fabd66745a0fc0de482638887952533a80acd7a77e7c3022
+sourceFingerprint: a894cbba9f6a502f9aa861f1d1d43bf32c173e2564c639f51716c387a6b14612
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

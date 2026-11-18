@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.42809ae885ccb0967619866208390f7eb67e87a962d36029282e41cd883c5598
 symbol: engine:Inno.Rendering:M:Inno.Rendering.RenderCommandEncoder.DispatchIndirect(Inno.Rendering.RenderBufferHandle,System.Int32,System.Int32)
 title: RenderCommandEncoder.DispatchIndirect
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: ded444b03589b5635f32a32bfe1c3901630aa88f9a8465df3cb029eb36bdf28e
+sourceFingerprint: 48c806d19599dd6801d8b906d230d2218f8075b69161c0edc73755a38590ca4e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

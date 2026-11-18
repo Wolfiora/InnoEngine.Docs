@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.32e14ba9e15ede112f83ae0f7a882a99f078a29cc62637b61eaa82c2f9b76b33
 symbol: engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.CoroutineScheduler.Tick(System.Single)
 title: CoroutineScheduler.Tick
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Coroutines
 apiSurface: source-clr
-reviewed: a3020213e726d8bfe378cfe791c948383230721671fb8831ebf601ba725596b1
+sourceFingerprint: d54024f8a3421a5ccbccf1d3f85403283a3cda3b65e9c7c50b5b4024563ee989
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

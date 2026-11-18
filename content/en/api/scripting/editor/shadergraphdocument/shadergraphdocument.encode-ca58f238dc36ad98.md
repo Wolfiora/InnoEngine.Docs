@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ca58f238dc36ad98d598fe6a5b92cd64d52b2778d67c020404964a687bbef549
 symbol: scripting:Inno.Rendering.Shaders:M:InnoEditor.Rendering.Shaders.ShaderGraphDocument.Encode``1(``0,InnoEngine.Serialization.SerializationRegistry,InnoEngine.Serialization.SerializationContext)
 title: ShaderGraphDocument.Encode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: dfab40c3bfe3af45ccb5a80d307d6321ba80f7a720600ee9223153d6492a9172
+sourceFingerprint: 4a4488a5896f311a275a4eaea608b93aaba4cb56f5bf3116f0711f476a362859
 apiScope: Editor
 contracts: []
 

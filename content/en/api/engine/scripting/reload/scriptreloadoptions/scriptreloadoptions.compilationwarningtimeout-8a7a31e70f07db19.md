@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.8a7a31e70f07db19732260bdfaddd302b7a93cf19ee344a5789d2985682537e5
 symbol: engine:Inno.Scripting.Reload:P:Inno.Scripting.Reload.ScriptReloadOptions.compilationWarningTimeout
 title: ScriptReloadOptions.compilationWarningTimeout
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Reload
 apiSurface: source-clr
-reviewed: 98c33b28ea0efb19d88bf7911cfca37b2d94d03713def754015dfb4ab0b408ea
+sourceFingerprint: 55fd20f612c157e2ce95174af5ba4b4ec2c2b19e5d00b7096c74871e43c14d63
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

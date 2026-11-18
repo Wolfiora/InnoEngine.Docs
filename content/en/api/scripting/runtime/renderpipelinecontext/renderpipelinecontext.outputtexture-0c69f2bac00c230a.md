@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.0c69f2bac00c230a8d5549faa690f3ea4aa41c7eb70747ffafeb8d8687d66b20
 symbol: scripting:Inno.Rendering.Runtime:P:InnoEngine.Rendering.RenderPipelineContext.outputTexture
 title: RenderPipelineContext.outputTexture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 906adbe4c57aba1094b5d9236915384659a459f4a128d3e675d206b1b4bb345b
+sourceFingerprint: 58f88412c1ae93a591ddb9f5208f2688de1c4feaa075e31ecbbdf29adf83c42e
 apiScope: Runtime
 contracts: []
 

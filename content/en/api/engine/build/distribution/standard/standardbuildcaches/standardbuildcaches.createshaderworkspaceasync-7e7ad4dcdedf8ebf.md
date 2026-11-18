@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.7e7ad4dcdedf8ebfb437e1bba5ecfafb9be57cbb8fe6820b9131168f196a74d8
 symbol: engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildCaches.CreateShaderWorkspaceAsync(System.String,System.Threading.CancellationToken)
 title: StandardBuildCaches.CreateShaderWorkspaceAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Distribution.Standard
 apiSurface: source-clr
-reviewed: 51d3b35cc1a7ede42b0fb4b16904b4113da9fbfd27aa44148d223c9a9b2b9f2b
+sourceFingerprint: 01a1b93167b8f420bac479fdfa0bd386f6d1bf4a5c2dd1b28f3e7cfa4298070a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

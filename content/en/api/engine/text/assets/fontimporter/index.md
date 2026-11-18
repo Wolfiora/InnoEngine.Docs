@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.text.assets.bb62dea43dbbbe91
 symbol: engine:Inno.Text.Assets:T:Inno.Text.Assets.FontImporter
 title: FontImporter
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text.Assets
 apiSurface: source-clr
-reviewed: 90be5fa65d4a58b5770fe66a7324cf2993f8e2986677da7648b38ed033d5a275
+sourceFingerprint: a122148477ef9aecbc72af2d0dc0ed20577d5f5fc6a9ddc8279a6ec3ffb55338
 contracts:
 - project.inno-text-assets#import-contract
 

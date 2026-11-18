@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.15a98858ef746e5a
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderVertexFormat
 title: RenderVertexFormat
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: 2a9b7eb10963a826670279f2541446fbb1a0fff654ff7c58160db87beb815822
+sourceFingerprint: 61d626d45acf6b6585f06ac583bcaf36491bcc53209695bb1d2b7d634080851d
 contracts:
 - project.inno-rendering
 

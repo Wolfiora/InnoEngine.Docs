@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.2bfccc821b00604d4ae81ed0b3a89a9ded3d6ac345dfeda64704d7dffdb739e2
 symbol: scripting:Inno.Core.Mathematics:M:InnoEngine.Mathematics.MathHelper.Clamp(System.Single,System.Single,System.Single)
 title: MathHelper.Clamp
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-reviewed: a8fb9673833669173b39d247ced8416638c7220dd60d8c57a114ab9c8aa50ddc
+sourceFingerprint: f5cbbb92dc4322c2756e55bc72b7f80cd599fbd61ef2a9e99375c328ad2a0bee
 apiScope: Runtime
 contracts: []
 

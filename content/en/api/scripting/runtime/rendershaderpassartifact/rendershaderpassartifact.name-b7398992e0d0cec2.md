@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b7398992e0d0cec2f8bcf124eb24dd2dbaa61278d339b613239084fd01b42abf
 symbol: scripting:Inno.Rendering.Assets:P:InnoEngine.Rendering.RenderShaderPassArtifact.name
 title: RenderShaderPassArtifact.name
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-reviewed: 8b5b993429fe41cad3e3892e9cd37db09b29f3dc7d4cdaeb937556a828d5c349
+sourceFingerprint: b65e0df1540e31418d649ced1745925ee6bdaf850c31df7d15b2a46686b4faae
 apiScope: Runtime
 contracts: []
 

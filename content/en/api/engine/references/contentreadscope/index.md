@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.references.327be83e57ee1253
 symbol: engine:Inno.References:T:Inno.References.ContentReadScope
 title: ContentReadScope
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.References
 apiSurface: source-clr
-reviewed: 787cc75dfebad39c965c2a1514935cfb231744717ffbafbae2a31633ba78483b
+sourceFingerprint: 68364b1831fe9f1bed8fdb4ce6ea24bd443541fc4cfe4e6cbcf17cf01a87f733
 contracts:
 - project.inno-references
 

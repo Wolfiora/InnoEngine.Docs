@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.imgui.editor-script.05165a0ef0d87924
 symbol: scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.ImGuiButtonFlags
 title: ImGuiButtonFlags
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 6fc96699b12854b4cd7cb3834729e0d97890fd1959924521a1ef96ec054e9f33
+sourceFingerprint: 3be44ac6a0e82790c16d8d8e652cd7eb2f2d9bab0258d95f436ec06d1caec6bc
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

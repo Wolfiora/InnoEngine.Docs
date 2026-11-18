@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.43617b04b122f7f8
 symbol: engine:Inno.Rendering:T:Inno.Rendering.RenderPassRecordingMode
 title: RenderPassRecordingMode
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-reviewed: bb0bcc333151a70ee8b1a1a0f3e3cfb668b79027d341424b67a9cbb7291b2e73
+sourceFingerprint: 1a5fface1d7677f452b431f9dc894a465242089e39bde88dceda56b1754ad346
 contracts:
 - project.inno-rendering
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.audio.c772d406f562b0a4
 symbol: engine:Inno.Editor.Audio:T:Inno.Editor.Audio.IEditorAudioHost
 title: IEditorAudioHost
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Audio
 apiSurface: source-clr
-reviewed: 1f5df8896e65f9fa60607933ae1a439e1a45ace7b8858af5c138222c95fb1871
+sourceFingerprint: accdbaa3fe7fdcb32c865d4174f8eb2ef41611de98f4613ea387cb978b1468ea
 contracts:
 - project.inno-editor-audio
 

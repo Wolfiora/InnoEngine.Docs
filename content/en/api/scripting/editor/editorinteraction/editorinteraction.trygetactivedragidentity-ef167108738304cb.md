@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ef167108738304cb7c83492a76b288e4a10f265905625b35f7f75dee2b17df8b
 symbol: scripting:Inno.Editor.Interactions:M:InnoEditor.Interactions.EditorInteraction.TryGetActiveDragIdentity(InnoEngine.Core.RuntimeIdentity@)
 title: EditorInteraction.TryGetActiveDragIdentity
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 128836c9fed8c30704783f125056177fbcd44026a9a4c51e8bbfcd4a51ebff89
+sourceFingerprint: b6c4d7786544dfde6f900ab3a93d32292df01a9accf90d219d09c2d7404addfb
 apiScope: Editor
 contracts: []
 

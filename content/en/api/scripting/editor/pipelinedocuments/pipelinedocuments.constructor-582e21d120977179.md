@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.582e21d120977179ebd17c4a177c1d2b26dfd1576ce5660c529ba20a32d1d834
 symbol: scripting:Inno.Editor.Rendering:M:InnoEditor.Rendering.PipelineDocuments.#ctor
 title: PipelineDocuments.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-reviewed: d706e096a5f5cf5aae10b65b0ae1fa5f85453e3434957085df49637ce6cd257d
+sourceFingerprint: d706e096a5f5cf5aae10b65b0ae1fa5f85453e3434957085df49637ce6cd257d
 apiScope: Editor
 contracts: []
 

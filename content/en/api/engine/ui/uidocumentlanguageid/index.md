@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.ui.c6c7334fcce1811d
 symbol: engine:Inno.UI:T:Inno.UI.UiDocumentLanguageId
 title: UiDocumentLanguageId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: 1a9dc6044f8923fda04faf9db7215e5fb4b244cc7bf1a81e4bc95dcfa046cca5
+sourceFingerprint: 88bad1c1c4493c80f8d07516dd21745c0424dcc1100610e2897176fedcb31645
 contracts:
 - project.inno-ui#document-and-frame-contract
 

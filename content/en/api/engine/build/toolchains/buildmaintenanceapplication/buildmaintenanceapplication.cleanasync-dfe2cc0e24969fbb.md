@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.dfe2cc0e24969fbb5d87fb6443f6d1f829fb5d7c9d8941729976de530190a21f
 symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildMaintenanceApplication.CleanAsync(System.String,Inno.Build.Toolchains.BuildCachePolicy,System.Boolean,System.Boolean,System.String,System.Threading.CancellationToken)
 title: BuildMaintenanceApplication.CleanAsync
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-reviewed: 31b279c3b7f892d90941e4c1a13871033758ab7d9920bcfb857dfceaf5100429
+sourceFingerprint: 864a9293d5ac47f53bfdef0f487fb546a7e0331f9f20237427c893cdf605522c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

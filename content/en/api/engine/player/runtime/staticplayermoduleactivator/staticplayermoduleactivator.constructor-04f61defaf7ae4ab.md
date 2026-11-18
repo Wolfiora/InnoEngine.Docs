@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.04f61defaf7ae4ab84f3d40c985c7f2dd64e7e025cbe91c04a041cf48fee3fad
 symbol: engine:Inno.Player.Runtime:M:Inno.Player.Runtime.StaticPlayerModuleActivator.#ctor(Inno.Runtime.GameCodeDeployment,System.Collections.Generic.IReadOnlyDictionary{System.String,System.Collections.Generic.IReadOnlyList{System.Reflection.Assembly}})
 title: StaticPlayerModuleActivator.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Player.Runtime
 apiSurface: source-clr
-reviewed: a43ac4b595bb4229f60d2ad06e4ca2b153d760e671f814a945c9d27f8a419112
+sourceFingerprint: 0f21a364a0e4017a61a0649a0a673c007f3dddb1e4308be8410e64bc6820c8c7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

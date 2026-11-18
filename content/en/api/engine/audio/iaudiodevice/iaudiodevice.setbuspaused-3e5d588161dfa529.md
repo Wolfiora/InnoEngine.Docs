@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.3e5d588161dfa52905b741cfcd6ca34358fbb3244db50380936f53f40456daf3
 symbol: engine:Inno.Audio:M:Inno.Audio.IAudioDevice.SetBusPaused(Inno.Audio.AudioBusHandle,System.Boolean)
 title: IAudioDevice.SetBusPaused
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: e5f34d4215dcf40c15d0dbde0c38273063a3f031d8da293ce7e8a37b203e39da
+sourceFingerprint: 611796adb36d14971bd68d0a4b4ded15af0994cd827b9549773891be2d60c5af
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

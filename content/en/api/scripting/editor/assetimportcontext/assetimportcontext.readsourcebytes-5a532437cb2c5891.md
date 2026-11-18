@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.5a532437cb2c58913222644fc011255a6e728e69da9ff5a6b5ed1591aab54956
 symbol: scripting:Inno.Assets.Pipeline:M:InnoEditor.Assets.AssetImportContext.ReadSourceBytes(InnoEngine.Assets.AssetPath)
 title: AssetImportContext.ReadSourceBytes
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: editor-script
-reviewed: dc88f3d2700925ece15d63c60cac5d146c32e10f9f9d58ffb4ac2cdd9c23ac34
+sourceFingerprint: db075eef605594360ad6b680501bfc58fb36aae5763626c3c9f5b331b6bb146e
 apiScope: Editor
 contracts: []
 

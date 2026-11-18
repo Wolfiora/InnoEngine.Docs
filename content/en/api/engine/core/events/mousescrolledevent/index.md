@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.core.events.91d900183403162a
 symbol: engine:Inno.Core.Events:T:Inno.Core.Events.MouseScrolledEvent
 title: MouseScrolledEvent
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-reviewed: fac506b382151dc1e241429902d51a9a63d011a3d4b3fe9ed12e041ecf1e87db
+sourceFingerprint: eef55c6163d31d71cde7601583f6ee82ca2632aa426b356b0f89511996059210
 contracts:
 - project.inno-core-events#dispatch-and-lifetime-contract
 

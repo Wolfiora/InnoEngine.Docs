@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.f437cec6810159da53e4b2d844b71703e525f73b3a8872f4613850527f1bd1cf
 symbol: scripting:Inno.Editor.ImGui:P:InnoEditor.ImGui.TransformGizmoOptions.maximum
 title: TransformGizmoOptions.maximum
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 3b0cedaac24d9df6a5dc013e8b23995edb00e597aa8cf1e96e17f5091af17819
+sourceFingerprint: f5cc026a7d34d4e8b9801759751a06aebbc63539b95e1a55870fa4c8ca9d7c32
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.bee30c3b8bf3d25e0bd1a479b3803136e7e88c03b07c357636655b73ac104ac7
 symbol: scripting:Inno.Audio:F:InnoEngine.Audio.AudioCompletionReason.Stopped
 title: AudioCompletionReason.Stopped
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-reviewed: 2f3322a173d16ef3b27869bde6d548e3a7fcfa1a2a9630eaafaec6b0119e2dcb
+sourceFingerprint: 7dce5f07e64aa5d18bf6cce60abcb3ccb7b9acf08594e4b5a3209ef088d737c9
 apiScope: Runtime
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.d98d8fba23cd4b725a262669c771331268677250da2f63665343d965049354af
 symbol: engine:Inno.Rendering.Assets.Authoring:M:Inno.Rendering.Assets.Authoring.ShaderStageBinding.#ctor(System.String,System.String,System.Int32)
 title: ShaderStageBinding.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
-reviewed: 42f467d84fd12ed156080f9afa03494c595e5c898f9d3b76ee802b0233735b55
+sourceFingerprint: c488a2c60ac557dcadeca2a092c75dfcc57ea08d7a94338d5360e0dbcf18a51b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

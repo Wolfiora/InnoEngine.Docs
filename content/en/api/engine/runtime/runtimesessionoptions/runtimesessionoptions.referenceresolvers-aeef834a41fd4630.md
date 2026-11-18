@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.aeef834a41fd4630eac931b9eb99124c5018df50787d4199d7cf3efe71f3515d
 symbol: engine:Inno.Runtime:P:Inno.Runtime.RuntimeSessionOptions.referenceResolvers
 title: RuntimeSessionOptions.referenceResolvers
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime
 apiSurface: source-clr
-reviewed: 542e6bf82c679c3030e8c74c3d334db95d4f80efec4d0855ff4b7852b7aaefa6
+sourceFingerprint: a3c9c167a7a93ac5d9a08a7a2e918819ce67bfdeeb9a03a08ca5d9b48d1398a3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.fab38f0bfb8c222cd719193739e7664743e7ae5a5b3a884606081e2119740541
 symbol: engine:Inno.Rendering.Runtime:M:Inno.Rendering.Runtime.IRenderModel.CanRender(Inno.Rendering.Runtime.RenderOutputSession)
 title: IRenderModel.CanRender
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-reviewed: d9371433cdc186fda285cf478e081b8ea3b393a7a2651c426573e872cf396224
+sourceFingerprint: bef4d89b661c85422849a03b7f57524200e6fb4a3ef8b379002a189004f2c439
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

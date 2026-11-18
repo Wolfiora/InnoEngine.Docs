@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.cc3ebbd921a8fce336636f2ee6ffe78cf7f3458752bea5ec4df09136d39bff20
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.Vector4.op_Equality(Inno.Core.Mathematics.Vector4,Inno.Core.Mathematics.Vector4)
 title: Vector4.op_Equality
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: 2bfb0590b20192551b3206831bb191c33f320423584a94d539a16aa89bf9c6ff
+sourceFingerprint: 80dbd3256909cbc0dbb3ee9623232b91d5d12bd8c492da970b50efaa5e7cc138
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

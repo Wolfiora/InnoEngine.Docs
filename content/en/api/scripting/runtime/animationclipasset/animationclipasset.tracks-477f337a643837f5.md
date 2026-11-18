@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.477f337a643837f5ac158b5d9b08bbfbc587766b62adde798c14b6ef625718cf
 symbol: scripting:Inno.Animation:P:InnoEngine.Animation.AnimationClipAsset.tracks
 title: AnimationClipAsset.tracks
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-reviewed: 56fb35eaef2aeeeffb49f65e9d9f828f46064a04cbfa9d932a07b96e27422884
+sourceFingerprint: 78281440a79ad1b68f2aa1cd36a6f35864981c32e29aec49c58a963a7327d8da
 apiScope: Runtime
 contracts: []
 

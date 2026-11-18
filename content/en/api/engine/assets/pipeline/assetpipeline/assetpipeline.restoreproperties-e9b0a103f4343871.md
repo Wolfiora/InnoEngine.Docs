@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e9b0a103f4343871cfdce3e1f4a720a92de26338bf41778816b4d6a5c8f54356
 symbol: engine:Inno.Assets.Pipeline:M:Inno.Assets.Pipeline.AssetPipeline.RestoreProperties``1(System.Guid,System.Byte[],``0)
 title: AssetPipeline.RestoreProperties
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-reviewed: 0386e87716fad5046c7556c9bb6ca363178c06d2d40aab5635f5a408b12d640d
+sourceFingerprint: 736dfaf95135a2068c92d7871711e819b55c2fb504d17bd12aefd73d2ea46cd5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

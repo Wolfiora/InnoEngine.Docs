@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.assets.99453873fb49824b
 symbol: engine:Inno.Editor.Assets:T:Inno.Editor.Assets.AssetSampleImportModule
 title: AssetSampleImportModule
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
-reviewed: 163275b37f33882ccaab579d682ba5d05bd50b0eaa689d5636190a5d9504b3ff
+sourceFingerprint: 3349f669fea7520a0b92db743e9a327836d488c059234628b7d56e20691b7bfa
 contracts:
 - project.inno-editor-assets
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.rendering.runtime-script.497169e1f596235b
 symbol: scripting:Inno.Rendering:T:InnoEngine.Rendering.ShaderPropertyId
 title: ShaderPropertyId
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-reviewed: 23505f9a080475d04e1c6f30552e0b692ed0c5ab37dca2106c6565b60729b90a
+sourceFingerprint: 9ca7003281823608e8217471431c3c7a57ea35ad19da9485f0db5ac96ac36d69
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

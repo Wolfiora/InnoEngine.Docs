@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.29484e99c2f43e004d526044345e0d70e768e50ec2269a46fe7013e94fc93edf
 symbol: scripting:Inno.Rendering.Shaders:P:InnoEditor.Rendering.Shaders.ShaderSourceField.type
 title: ShaderSourceField.type
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-reviewed: 48cf34c5edf0a7ed1e1081a65caec22e8da53f8f2dd835062456b12704ef82ca
+sourceFingerprint: 47f82c51493f75a9c75c68827588d682d301254452fec719b20822238d32a3dc
 apiScope: Editor
 contracts: []
 

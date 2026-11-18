@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1796dce97c40565e1d9b721df0fff36a657d9607a40cd46b087d0c28b6d4291c
 symbol: engine:Inno.UI:M:Inno.UI.UiRenderFrame.CreateRetirement(Inno.UI.UiMeshHandle[],Inno.UI.UiTextureHandle[])
 title: UiRenderFrame.CreateRetirement
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-reviewed: 436226d13de6a495eb1db4b878503385016d35de2c3dc1340ef3efb5bd23f4ed
+sourceFingerprint: 0a48940f961fc7542da7cb63c2c63dd0f71dc98ae2768bec12c47ed6b62fb3f9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

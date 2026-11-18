@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.interactions.editor-script.720fa9c767e0a440
 symbol: scripting:Inno.Editor.Interactions:T:InnoEditor.Interactions.HotKeyGesture
 title: HotKeyGesture
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-reviewed: 35d604f51b5c42950e2ccd791c8b8d52d34244a63dd65eeb19cd2e62f097ff4b
+sourceFingerprint: 6950f30d2a0fa61fcf6a40ef2c6120efff30826411a69cbca3d7a7e71ac9ea8f
 apiScope: Editor
 contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts

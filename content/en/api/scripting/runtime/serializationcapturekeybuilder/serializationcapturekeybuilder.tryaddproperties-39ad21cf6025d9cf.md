@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.39ad21cf6025d9cf2323c88ca64f56e4a3388eec9750218e56c56455f24a52c2
 symbol: scripting:Inno.Core.Serialization:M:InnoEngine.Serialization.SerializationCaptureKeyBuilder.TryAddProperties(InnoEngine.Serialization.ISerializable)
 title: SerializationCaptureKeyBuilder.TryAddProperties
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: editor-script
-reviewed: cda90f2c50dde806f25b949c3e05f6f524ffa3f347f92ccfe2abdc58adc871d2
+sourceFingerprint: 7b269a7925ff411e1311ac8e8c5004a2d76e3b9c8cc6a113d423b591c5085303
 apiScope: Runtime
 contracts: []
 

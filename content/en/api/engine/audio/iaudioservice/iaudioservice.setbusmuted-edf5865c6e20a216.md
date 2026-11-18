@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.edf5865c6e20a2164bf36e5f9142e21129767f93ca5f49364f8b20107685675e
 symbol: engine:Inno.Audio:M:Inno.Audio.IAudioService.SetBusMuted(Inno.Audio.AudioBusId,System.Boolean)
 title: IAudioService.SetBusMuted
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-reviewed: aba7cc26ab3d5595c0daa5ce44a1edd3595570572b1f6d131d24ff53505b06f4
+sourceFingerprint: e612a47250d0cfa2cdd2fb1e3dfaeb4f6dcf0aabfef513058cdf85dc60771ca9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e306c9ca274f1ff3e5d341427274856a64977c9be107dce0ef86f04ac56c9add
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.RenderExtensionStateContext.Restore``1(InnoEngine.Rendering.SerializedRenderExtensionState,``0)
 title: RenderExtensionStateContext.Restore
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: d15c6482feef3c2200cf1b455b510105432c0d93028412d1a4185f68292f2f2d
+sourceFingerprint: 67ff451922b1398a730869062dcf1b47540fbea6dda08207c68b154e91559004
 apiScope: Runtime
 contracts: []
 

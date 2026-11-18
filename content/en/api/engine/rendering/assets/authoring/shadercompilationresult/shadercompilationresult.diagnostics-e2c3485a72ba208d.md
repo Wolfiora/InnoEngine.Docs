@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.e2c3485a72ba208d1c860d395f1d6f10e7c03ff7deeef6d04923ccbc4f3c1ecf
 symbol: engine:Inno.Rendering.Assets.Authoring:P:Inno.Rendering.Assets.Authoring.ShaderCompilationResult.diagnostics
 title: ShaderCompilationResult.diagnostics
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
-reviewed: d06ba1948f0f7dafd0688f0384245c44d29260ec86251c4bfe80cfdbc1878bce
+sourceFingerprint: ef9d6fe2f9c54a68b91fe9260aec34f3bcb03304821fc5ac99767f169faa5f0b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

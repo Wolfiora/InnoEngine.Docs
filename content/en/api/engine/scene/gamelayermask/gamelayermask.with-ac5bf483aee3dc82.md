@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.ac5bf483aee3dc8248a97e2eabda0ccb7744c7275b5dfeecaebabab1a1c8906e
 symbol: engine:Inno.Scene:M:Inno.Scene.Layers.GameLayerMask.With(Inno.Scene.Layers.GameLayer)
 title: GameLayerMask.With
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-reviewed: 90d52345acb7af1f33b2ec59d505d6f54f28e029e3f19be70f57e0a09ea247d9
+sourceFingerprint: 8db3effe0bf85bf7aaa9e4989a6b358c91b282cca023ba37e0ad9b2d5cb5daaf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

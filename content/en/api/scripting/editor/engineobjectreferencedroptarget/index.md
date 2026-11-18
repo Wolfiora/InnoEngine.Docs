@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.editor.panel.inspector.editor-script.12f4511ea1a9fe24
 symbol: scripting:Inno.Editor.Panel.Inspector:T:InnoEditor.Inspection.EngineObjectReferenceDropTarget
 title: EngineObjectReferenceDropTarget
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Panel.Inspector
 apiSurface: editor-script
-reviewed: 61d67af36732d2e881e51fb6706f85a28ae3627e2c8b32627c2ea2fe49c97368
+sourceFingerprint: bb5346a683c6c0611bcee589815e0d927d15748177c96251e2841614db42e5c7
 apiScope: Editor
 contracts:
 - manual.scripting.use-script-api

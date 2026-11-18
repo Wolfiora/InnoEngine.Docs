@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.input.61d5c3d11ee69c9d
 symbol: engine:Inno.Input:T:Inno.Input.InputSnapshot
 title: InputSnapshot
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Input
 apiSurface: source-clr
-reviewed: 5f29660985ecb62cf8435887a9a533ac566f3ea1c850e26b78db8e49b19d67c2
+sourceFingerprint: 8971fbbcbd1fc8528ffd9bc6a8d7770a75f9a954df824508b5bd95814baa7248
 contracts:
 - project.inno-input#execution-and-ownership-contract
 

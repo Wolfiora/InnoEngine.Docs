@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.1afde604eb588bc3bbbed87ef4fdc2b05e022380a9898bf300286f2217dae075
 symbol: scripting:Inno.Editor.ImGui:M:InnoEditor.ImGui.ImGuiWidget.CenteredButton(System.String,System.Single)
 title: ImGuiWidget.CenteredButton
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-reviewed: 36639db7c90616172d217451a416a326a6970c01a4ef551a411fe1d01011bc3a
+sourceFingerprint: c0dc520dfe40e7e3878e96e488c2908d15dc9158fbe09518c1c662d30c23371e
 apiScope: Editor
 contracts: []
 

@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.16aa2dd38770af742f575a4b42ad84aa5b841b1836990763028961aef9f24cea
 symbol: engine:Inno.Scripting.Reload:M:Inno.Scripting.Reload.ScriptReloadHost.#ctor(Inno.Scripting.Reload.ScriptReloadOptions,Inno.Scripting.Compiler.ScriptCompiler,Inno.Assets.Pipeline.AssetPipeline,Inno.Plugins.Authoring.PluginEnvironment,Inno.Extensibility.Modules.ModuleHost,Inno.Core.Settings.ProjectSettingsStore,Inno.Scripting.Reload.IScriptReloadCoordinator,System.Func{Inno.Scripting.Compiler.ScriptModuleDeployment,Inno.Extensibility.Modules.IModuleSource})
 title: ScriptReloadHost.Constructor
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Reload
 apiSurface: source-clr
-reviewed: 0e04df7d32bc76969cc5530ba5a75d921a6f24c835ddebe2da3be66632c3769f
+sourceFingerprint: 46596f3defabc51d325ebaceaf00d68f89fa3b12e3b94ef16c5fdaf3ff527fb1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

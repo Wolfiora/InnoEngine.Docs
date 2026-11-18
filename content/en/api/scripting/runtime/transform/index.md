@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.inno.scene.runtime-script.d0f15ed36b9812ec
 symbol: scripting:Inno.Scene:T:InnoEngine.Scene.Transform
 title: Transform
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-reviewed: 71be49f1970cb6dcb8a50f05b912d2d6cf305467f9e31d32c6f1c94e1323917e
+sourceFingerprint: d2b9a6a21a932d9766f3439486b0e2faa15a4ea2b38fce486ec620b2ada5f0f6
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api

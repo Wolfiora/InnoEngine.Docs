@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.67a41db7bacde2f0341a8ae6f7c0cfd3ef43b99f3073368c45d8b5f7ee062e79
 symbol: scripting:Inno.Text:M:InnoEngine.Text.FontAsset.OnRuntimePayloadChanged(System.ReadOnlyMemory{System.Byte},System.ReadOnlyMemory{System.Byte})
 title: FontAsset.OnRuntimePayloadChanged
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: editor-script
-reviewed: 0d4ea72afc46580125746d042515036bd7b721e5ef57d77ed333ec1f4459caab
+sourceFingerprint: cb7e195ec1e1e3353127f0e5577cc22c193c7d2ca8ce01002808206657c5c2ad
 apiScope: Runtime
 contracts: []
 

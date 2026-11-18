@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.b2b57a3daf5e0b030f99726dc6d39ff05af4acfa1e80c0283a8789f3a3ddcd1b
 symbol: scripting:Inno.Rendering.Runtime:M:InnoEngine.Rendering.IViewPointerTarget.SetKeyboardFocus(System.Boolean)
 title: IViewPointerTarget.SetKeyboardFocus
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-reviewed: 4e76f00fff32a1b035f613570f23e5977e0926570beb800621ed7bafdc30ca59
+sourceFingerprint: de93fa5da6c68e9b60f5fc96b594e78b941008fea0d7fa61718fd92fae9f651b
 apiScope: Runtime
 contracts: []
 

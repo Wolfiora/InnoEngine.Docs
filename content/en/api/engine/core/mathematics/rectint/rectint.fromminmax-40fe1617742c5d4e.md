@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.40fe1617742c5d4e5ea4730215aad07f41d50df0f39a686a1d6b1d94c4ffe67f
 symbol: engine:Inno.Core.Mathematics:M:Inno.Core.Mathematics.RectInt.FromMinMax(Inno.Core.Mathematics.Vector2Int,Inno.Core.Mathematics.Vector2Int)
 title: RectInt.FromMinMax
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-reviewed: a6dcd725054debd508379da981a608a1f9f275eecc033391bd2c0c05888ce10a
+sourceFingerprint: 8fbac8e58b647316eb7c8570ab5632ba8174167b1bf926d692d48f579cc531c9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

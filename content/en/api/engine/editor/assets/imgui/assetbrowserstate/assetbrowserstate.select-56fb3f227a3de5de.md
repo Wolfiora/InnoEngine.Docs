@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.56fb3f227a3de5de8aaccd6f64bc63e09abdb2a5f9ab0d2a183eafcce42393c5
 symbol: engine:Inno.Editor.Assets.ImGui:M:Inno.Editor.Assets.ImGui.AssetBrowserState.Select(Inno.Editor.Core.EditorContext,System.String)
 title: AssetBrowserState.Select
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets.ImGui
 apiSurface: source-clr
-reviewed: 5339dcd576e8d6aeecc97b4a1de0403d5440f05b0a87032f6bf609ba80c4ff22
+sourceFingerprint: 95ae5993b2a266e7180a20d46521a095d563fb448138448b451ec4b27b3192c4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

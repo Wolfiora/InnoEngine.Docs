@@ -1,5 +1,5 @@
 ---
-# Generated metadata. Maintained by API synchronization and review tooling.
+# Generated metadata. Maintained by API synchronization tooling.
 uid: api.9769c699a0739eca1b330bc5bb4d61c44d12bdcd128c1c11635cf84a783fa2c6
 symbol: engine:Inno.Build.Products.Standard:M:Inno.Build.Products.Standard.StandardNativeComponents.CreateStaticPlayer(System.Func{System.String,Inno.Build.Toolchains.NativeComponentBuildOptions},System.Func{System.String,System.String,System.String,System.String})
 title: StandardNativeComponents.CreateStaticPlayer
@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Products.Standard
 apiSurface: source-clr
-reviewed: 829ea8acd46e7ea5897a9f8f14ba0a7082e5e14a84926da495846c87603a9a37
+sourceFingerprint: 297113320f742ece1d26f9fa51b172588b25ab5685036362de438efec9715b6f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
