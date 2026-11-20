@@ -6,8 +6,9 @@ title: Inno.Editor.Hosting
 kind: project
 owners:
 - Inno.Editor.Hosting
-sourceFingerprint: b59be0636edb1fecbf3929262e38725cc2d93d4c07d4f14d50ec0ebf9238689b
+sourceFingerprint: 052c53dd6d3135a93de9e9fa80440c1ea8e0539cf47450657013c6fb13dab14c
 contracts: []
+outdatedFor: 175453981304e690be6a4508f3430199506e8e256a0c5361437b366150470a77
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

@@ -11419,11 +11419,11 @@
       "contract": "fa6265958e92fbf5ae582f5181dab8856b103ac98f8623de1796b574535622a4"
     },
     {
-      "symbol": "engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildCompositionContext.#ctor(System.String,System.String,Inno.Build.Toolchains.BuildHostDescriptor,Inno.Build.BuildTargetId)",
-      "path": "content/en/api/engine/build/composition/buildcompositioncontext/buildcompositioncontext.constructor-38ccf8320c9ba429.md",
+      "symbol": "engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildCompositionContext.#ctor(System.String,System.String,Inno.Build.Toolchains.BuildHostDescriptor,Inno.Build.BuildTargetId,System.String)",
+      "path": "content/en/api/engine/build/composition/buildcompositioncontext/buildcompositioncontext.constructor-a4c944e26c363269.md",
       "type": "engine:Inno.Build.Composition:T:Inno.Build.Composition.BuildCompositionContext",
       "title": "BuildCompositionContext.Constructor",
-      "contract": "5786c976ffb92a4c95a22cfb9a2ab6470cc8f086468ae6242b600af103e3beac"
+      "contract": "f04593caaacd35117c93d987a04eadbf59128bbddf02f4019194c710816bb1eb"
     },
     {
       "symbol": "engine:Inno.Build.Composition:M:Inno.Build.Composition.BuildDistribution.#ctor(System.Collections.Generic.IReadOnlyList{Inno.Build.Composition.GameBuildContribution},System.Collections.Generic.IReadOnlyList{Inno.Build.Managed.IManagedDeploymentCompiler},System.Collections.Generic.IReadOnlyList{Inno.Build.Composition.NativeToolchainContribution})",
@@ -11592,6 +11592,13 @@
       "type": "engine:Inno.Build.Composition:T:Inno.Build.Composition.BuildCompositionContext",
       "title": "BuildCompositionContext.host",
       "contract": "cd6ccb7d1c69c3e83bb9d7f7fa82dedec25a32ca8fc9e2fc8d88b3ac77f71143"
+    },
+    {
+      "symbol": "engine:Inno.Build.Composition:P:Inno.Build.Composition.BuildCompositionContext.nativeDependencies",
+      "path": "content/en/api/engine/build/composition/buildcompositioncontext/buildcompositioncontext.nativedependencies-9dec47dd6c9123b5.md",
+      "type": "engine:Inno.Build.Composition:T:Inno.Build.Composition.BuildCompositionContext",
+      "title": "BuildCompositionContext.nativeDependencies",
+      "contract": "467a1a58d53297fe2118c23347f303dd077651af158e54cd5e07897175001984"
     },
     {
       "symbol": "engine:Inno.Build.Composition:P:Inno.Build.Composition.BuildCompositionContext.toolsTarget",
@@ -11832,11 +11839,11 @@
       "contract": "877bd649bb843bb6e03fdb7e10007fd5f556538cff478c1442bd5e64d8ce9311"
     },
     {
-      "symbol": "engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildEnvironment.Capture(System.String,Inno.Build.BuildTargetId,System.String)",
-      "path": "content/en/api/engine/build/distribution/standard/standardbuildenvironment/standardbuildenvironment.capture-023b074154c7b5d9.md",
+      "symbol": "engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildEnvironment.Capture(System.String,Inno.Build.BuildTargetId,System.String,System.String)",
+      "path": "content/en/api/engine/build/distribution/standard/standardbuildenvironment/standardbuildenvironment.capture-26e5bcfe111126e5.md",
       "type": "engine:Inno.Build.Distribution.Standard:T:Inno.Build.Distribution.Standard.StandardBuildEnvironment",
       "title": "StandardBuildEnvironment.Capture",
-      "contract": "a5a05b9ead17c87b14c08585fceebd2d8b9fc3eec290f25dc10ee60b256b7419"
+      "contract": "ddddad5e25d07c27a3d0786e4cb8bf4137770735abe2a04a9e73b66f2d3df59c"
     },
     {
       "symbol": "engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildEnvironment.ResolveManagedHost(System.String)",
@@ -12343,11 +12350,11 @@
       "contract": "e98d4fe9a4a2a636b116c5c48dce468f9993dedc34e501e077ea848e662f886b"
     },
     {
-      "symbol": "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPlanningContext.#ctor(System.String,System.String)",
-      "path": "content/en/api/engine/build/supportpacks/core/playersupportpackplanningcontext/playersupportpackplanningcontext.constructor-350a71fd9a81340c.md",
+      "symbol": "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPlanningContext.#ctor(System.String,System.String,System.String)",
+      "path": "content/en/api/engine/build/supportpacks/core/playersupportpackplanningcontext/playersupportpackplanningcontext.constructor-276af59a1fcf63be.md",
       "type": "engine:Inno.Build.SupportPacks.Core:T:Inno.Build.SupportPacks.PlayerSupportPackPlanningContext",
       "title": "PlayerSupportPackPlanningContext.Constructor",
-      "contract": "890d7e989923ecc350be4fe2e7f24e0093852cda90ed92d8720cb1a2854a119f"
+      "contract": "c42aa98a2526b431a6665142da81ad00785d0cbe4ff9d41e4e2293b576034316"
     },
     {
       "symbol": "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPreparationIdentity.CaptureAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.ProductNativeBuildPlan,Inno.Build.Toolchains.DotNetSdkDescriptor,System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.Collections.Generic.IReadOnlyList{System.String},System.Threading.CancellationToken)",
@@ -12385,11 +12392,11 @@
       "contract": "e652e69a9c5804ac9347e2093c642e69d6b9c957d782d1a86e59a5919885bd16"
     },
     {
-      "symbol": "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPublisher.PublishAsync(System.String,System.String,Inno.Build.BuildTargetId,System.String,System.Threading.CancellationToken)",
-      "path": "content/en/api/engine/build/supportpacks/core/playersupportpackpublisher/playersupportpackpublisher.publishasync-7c3bc24a8506f541.md",
+      "symbol": "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPublisher.PublishAsync(System.String,System.String,Inno.Build.BuildTargetId,System.String,System.Threading.CancellationToken,System.String)",
+      "path": "content/en/api/engine/build/supportpacks/core/playersupportpackpublisher/playersupportpackpublisher.publishasync-dfa200a0d7be3eae.md",
       "type": "engine:Inno.Build.SupportPacks.Core:T:Inno.Build.SupportPacks.PlayerSupportPackPublisher",
       "title": "PlayerSupportPackPublisher.PublishAsync",
-      "contract": "b6181e36ecb9518920dba2cef6218f02bda0ae59c3e32110ad2fae5f47a3971a"
+      "contract": "5a995164704f24ac06b31d84eebd6ab5a99c185120ac421ac82f9b9eaaf8671c"
     },
     {
       "symbol": "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackRequirements.#ctor(Inno.Build.BuildTargetId,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Collections.Generic.IReadOnlyList{System.String},System.String,System.Collections.Generic.IReadOnlyList{System.String})",
@@ -12399,11 +12406,11 @@
       "contract": "1c7ca32558e6e3d90d30b9987529fb8a42b8f7b6a39de49148031113b37b19cc"
     },
     {
-      "symbol": "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.SourcePlayerSupportPackProvisioner.#ctor(System.String,Inno.Build.SupportPacks.PlayerSupportPackPublisher,System.String,System.Action{System.String})",
-      "path": "content/en/api/engine/build/supportpacks/core/sourceplayersupportpackprovisioner/sourceplayersupportpackprovisioner.constructor-49acf62988444093.md",
+      "symbol": "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.SourcePlayerSupportPackProvisioner.#ctor(System.String,Inno.Build.SupportPacks.PlayerSupportPackPublisher,System.String,System.Action{System.String},System.String)",
+      "path": "content/en/api/engine/build/supportpacks/core/sourceplayersupportpackprovisioner/sourceplayersupportpackprovisioner.constructor-7756335af163ea5a.md",
       "type": "engine:Inno.Build.SupportPacks.Core:T:Inno.Build.SupportPacks.SourcePlayerSupportPackProvisioner",
       "title": "SourcePlayerSupportPackProvisioner.Constructor",
-      "contract": "bfc1d089c2f491198d5bcd823f2293bc031d799461045a8fade3ca0446a36060"
+      "contract": "2d53cdf36f835291d562fb5e1faa0524734476042e4f5cf0d8f93ef2b8da8fd5"
     },
     {
       "symbol": "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.SourcePlayerSupportPackProvisioner.ProvisionAsync(Inno.Build.BuildTargetId,System.String,System.Threading.CancellationToken)",
@@ -12413,11 +12420,11 @@
       "contract": "fc920032296a3980d1f35d742fe7cb1d32d4e15a995abc4970713b8163caeeb4"
     },
     {
-      "symbol": "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.SourcePlayerSupportPackProvisioner.TryCreateForHost(System.String,Inno.Build.SupportPacks.PlayerSupportPackPublisher,System.String,System.Action{System.String})",
-      "path": "content/en/api/engine/build/supportpacks/core/sourceplayersupportpackprovisioner/sourceplayersupportpackprovisioner.trycreateforhost-0e6f709577c8cd1d.md",
+      "symbol": "engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.SourcePlayerSupportPackProvisioner.TryCreateForHost(System.String,Inno.Build.SupportPacks.PlayerSupportPackPublisher,System.String,System.Action{System.String},System.String)",
+      "path": "content/en/api/engine/build/supportpacks/core/sourceplayersupportpackprovisioner/sourceplayersupportpackprovisioner.trycreateforhost-abd598cd2208395f.md",
       "type": "engine:Inno.Build.SupportPacks.Core:T:Inno.Build.SupportPacks.SourcePlayerSupportPackProvisioner",
       "title": "SourcePlayerSupportPackProvisioner.TryCreateForHost",
-      "contract": "5b8fcb53f18499ef302211197c998e7cd5d2141877144d38b361af1a852533be"
+      "contract": "7f77f718aa7cc1e92cb7d3852c2e49aefed89a358c9a8468bd8b7aa5724a0761"
     },
     {
       "symbol": "engine:Inno.Build.SupportPacks.Core:P:Inno.Build.SupportPacks.FilePlayerSupportPackPreparation.target",
@@ -12483,11 +12490,25 @@
       "contract": "699ecf61d9421e2fc0c89f6d9490d9fa0f8dfc18470b88aef7c0757ff5547d82"
     },
     {
+      "symbol": "engine:Inno.Build.SupportPacks.Core:P:Inno.Build.SupportPacks.PlayerSupportPackPlanningContext.nativeDependencies",
+      "path": "content/en/api/engine/build/supportpacks/core/playersupportpackplanningcontext/playersupportpackplanningcontext.nativedependencies-bfe9202eba135cfb.md",
+      "type": "engine:Inno.Build.SupportPacks.Core:T:Inno.Build.SupportPacks.PlayerSupportPackPlanningContext",
+      "title": "PlayerSupportPackPlanningContext.nativeDependencies",
+      "contract": "9ac509171f81365d409e68199b0a29270b9d1e11271ee865bbee156a3df79f73"
+    },
+    {
       "symbol": "engine:Inno.Build.SupportPacks.Core:P:Inno.Build.SupportPacks.PlayerSupportPackPreparationIdentity.fingerprint",
       "path": "content/en/api/engine/build/supportpacks/core/playersupportpackpreparationidentity/playersupportpackpreparationidentity.fingerprint-b3da57a7e1f3dfa8.md",
       "type": "engine:Inno.Build.SupportPacks.Core:T:Inno.Build.SupportPacks.PlayerSupportPackPreparationIdentity",
       "title": "PlayerSupportPackPreparationIdentity.fingerprint",
       "contract": "adcf014fea7967e4258e12d2cdf5da8a0af3909ad40ce2a9635efa75b92078de"
+    },
+    {
+      "symbol": "engine:Inno.Build.SupportPacks.Core:P:Inno.Build.SupportPacks.PlayerSupportPackPreparationIdentity.nativeDependencies",
+      "path": "content/en/api/engine/build/supportpacks/core/playersupportpackpreparationidentity/playersupportpackpreparationidentity.nativedependencies-0dbad31b959f0399.md",
+      "type": "engine:Inno.Build.SupportPacks.Core:T:Inno.Build.SupportPacks.PlayerSupportPackPreparationIdentity",
+      "title": "PlayerSupportPackPreparationIdentity.nativeDependencies",
+      "contract": "f908aef39ffc4c4b0c15ce763646a768d9ea9e300394afd7d76f43995c19939c"
     },
     {
       "symbol": "engine:Inno.Build.SupportPacks.Core:P:Inno.Build.SupportPacks.PlayerSupportPackPublication.diagnostics",
@@ -13106,6 +13127,13 @@
       "contract": "d8dd11e7efcdf1ddfd8b538db3656776f3eab0bb4db129b3fd5ea54fd072e9e0"
     },
     {
+      "symbol": "engine:Inno.Build.Tasks:P:Inno.Build.Tasks.CompileShaderTask.NativeDependencyManifestPath",
+      "path": "content/en/api/engine/build/tasks/compileshadertask/compileshadertask.nativedependencymanifestpath-17c671de2983a81c.md",
+      "type": "engine:Inno.Build.Tasks:T:Inno.Build.Tasks.CompileShaderTask",
+      "title": "CompileShaderTask.NativeDependencyManifestPath",
+      "contract": "993d2c7597cfcb244ea941cb93ef7de0b5fdd84fdf05c0a020c24a1c9aa34f51"
+    },
+    {
       "symbol": "engine:Inno.Build.Tasks:P:Inno.Build.Tasks.CompileShaderTask.OutputFile",
       "path": "content/en/api/engine/build/tasks/compileshadertask/compileshadertask.outputfile-975b8cf90a5c4050.md",
       "type": "engine:Inno.Build.Tasks:T:Inno.Build.Tasks.CompileShaderTask",
@@ -13183,6 +13211,13 @@
       "contract": "feedb84291baac8832375107549fc8a51ab77a33055890daac0fbde070fa90d4"
     },
     {
+      "symbol": "engine:Inno.Build.Tasks:P:Inno.Build.Tasks.GenerateBindingsTask.Configuration",
+      "path": "content/en/api/engine/build/tasks/generatebindingstask/generatebindingstask.configuration-cda6ab20ebd85eb9.md",
+      "type": "engine:Inno.Build.Tasks:T:Inno.Build.Tasks.GenerateBindingsTask",
+      "title": "GenerateBindingsTask.Configuration",
+      "contract": "16511466b2b1ffeddd41fe0e3f40d2c0c929cf1f7e9acc976a9a546c37c9fa53"
+    },
+    {
       "symbol": "engine:Inno.Build.Tasks:P:Inno.Build.Tasks.GenerateBindingsTask.DescriptorOutputPath",
       "path": "content/en/api/engine/build/tasks/generatebindingstask/generatebindingstask.descriptoroutputpath-1b21dd961389b77b.md",
       "type": "engine:Inno.Build.Tasks:T:Inno.Build.Tasks.GenerateBindingsTask",
@@ -13225,6 +13260,20 @@
       "contract": "a2b2c629627631fed49f8410392636c91f1ebca87650d579dfd816446305ec5a"
     },
     {
+      "symbol": "engine:Inno.Build.Tasks:P:Inno.Build.Tasks.GenerateBindingsTask.LibraryKind",
+      "path": "content/en/api/engine/build/tasks/generatebindingstask/generatebindingstask.librarykind-13995c67a559f332.md",
+      "type": "engine:Inno.Build.Tasks:T:Inno.Build.Tasks.GenerateBindingsTask",
+      "title": "GenerateBindingsTask.LibraryKind",
+      "contract": "5dc2d828c2fee6295b5ab3b1cf63f054a16444edf33b9ab8f1e44f58b6be1506"
+    },
+    {
+      "symbol": "engine:Inno.Build.Tasks:P:Inno.Build.Tasks.GenerateBindingsTask.NativeDependencyManifestPath",
+      "path": "content/en/api/engine/build/tasks/generatebindingstask/generatebindingstask.nativedependencymanifestpath-3daf0d935ca837d2.md",
+      "type": "engine:Inno.Build.Tasks:T:Inno.Build.Tasks.GenerateBindingsTask",
+      "title": "GenerateBindingsTask.NativeDependencyManifestPath",
+      "contract": "0b76459570554a0b1a95ebd4f1f63f044a91e5954bc237b5b686e1abe6ffb81e"
+    },
+    {
       "symbol": "engine:Inno.Build.Tasks:P:Inno.Build.Tasks.GenerateBindingsTask.NativeDirectory",
       "path": "content/en/api/engine/build/tasks/generatebindingstask/generatebindingstask.nativedirectory-bb8470663c17ec06.md",
       "type": "engine:Inno.Build.Tasks:T:Inno.Build.Tasks.GenerateBindingsTask",
@@ -13237,6 +13286,13 @@
       "type": "engine:Inno.Build.Tasks:T:Inno.Build.Tasks.GenerateBindingsTask",
       "title": "GenerateBindingsTask.OutputMode",
       "contract": "db1ff68497b88e5d74e8b05c76c55572a7443b9f0280f62cf90875a97f348ba2"
+    },
+    {
+      "symbol": "engine:Inno.Build.Tasks:P:Inno.Build.Tasks.GenerateBindingsTask.ProductId",
+      "path": "content/en/api/engine/build/tasks/generatebindingstask/generatebindingstask.productid-810ed1b30c32f19d.md",
+      "type": "engine:Inno.Build.Tasks:T:Inno.Build.Tasks.GenerateBindingsTask",
+      "title": "GenerateBindingsTask.ProductId",
+      "contract": "67264b3e1fdd8ff90b1a4b02227b72cbb379a1fbf6948de94836b3fdfc7c7bb9"
     },
     {
       "symbol": "engine:Inno.Build.Tasks:P:Inno.Build.Tasks.GenerateBindingsTask.TargetId",
@@ -13286,6 +13342,13 @@
       "type": "engine:Inno.Build.Tasks:T:Inno.Build.Tasks.PrepareProductNativeTask",
       "title": "PrepareProductNativeTask.EngineRoot",
       "contract": "ae6b87c5e9a37677eaa38aa2ef7956fa7edcbac3cf97d54018c3316d344fbef8"
+    },
+    {
+      "symbol": "engine:Inno.Build.Tasks:P:Inno.Build.Tasks.PrepareProductNativeTask.NativeDependencyManifestPath",
+      "path": "content/en/api/engine/build/tasks/prepareproductnativetask/prepareproductnativetask.nativedependencymanifestpath-c877ca06c5f0db4b.md",
+      "type": "engine:Inno.Build.Tasks:T:Inno.Build.Tasks.PrepareProductNativeTask",
+      "title": "PrepareProductNativeTask.NativeDependencyManifestPath",
+      "contract": "9e36c6ab12188b0e4817766f4f7cc1cd75407d61bc279d16d0067cc128f086f0"
     },
     {
       "symbol": "engine:Inno.Build.Tasks:P:Inno.Build.Tasks.PrepareProductNativeTask.OutputDirectory",
@@ -13482,6 +13545,20 @@
       "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.ToolchainLayout",
       "title": "ToolchainLayout.C_REPOSITORY_MARKER_FILE",
       "contract": "dd8b2f842bb5046cc72722e510c22a086b55c735c991f37dfe4163ef41a5237e"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BackendPrebuiltArchive.Create(System.String,System.String,System.String,System.Threading.CancellationToken)",
+      "path": "content/en/api/engine/build/toolchains/backendprebuiltarchive/backendprebuiltarchive.create-964a694ad7b9b623.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.BackendPrebuiltArchive",
+      "title": "BackendPrebuiltArchive.Create",
+      "contract": "951f7afcb7866ab5b5c3722ae44990c38388effff7ae442c6643862336ccbdf8"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BackendPrebuiltArchive.ExtractAsync(System.String,System.String,System.String,System.String,System.Threading.CancellationToken)",
+      "path": "content/en/api/engine/build/toolchains/backendprebuiltarchive/backendprebuiltarchive.extractasync-b62484e096c815f9.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.BackendPrebuiltArchive",
+      "title": "BackendPrebuiltArchive.ExtractAsync",
+      "contract": "fa7d059bcf392630339fccab2a0e563937d03e72b6b7b98a1feeac22a847e075"
     },
     {
       "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.BuildArtifactCopier.CopyArtifacts(System.String,System.String,System.String,Inno.Build.Toolchains.BuildArtifactOptions)",
@@ -13883,6 +13960,13 @@
       "contract": "167ab15d6ffc12f46e368b2a0888b92308d1c243ddaec48cdd87ea7e4aba72f4"
     },
     {
+      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ManagedProjectGraphCapture.CaptureSelectedAsync(System.String,Inno.Build.Toolchains.DotNetSdkDescriptor,System.Collections.Generic.IReadOnlyList{System.String},System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.Threading.CancellationToken,System.Boolean)",
+      "path": "content/en/api/engine/build/toolchains/managedprojectgraphcapture/managedprojectgraphcapture.captureselectedasync-41588dad0e8823db.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.ManagedProjectGraphCapture",
+      "title": "ManagedProjectGraphCapture.CaptureSelectedAsync",
+      "contract": "46c3cce7767ff7789ef1bcbc31dea43f3c709d6d7edd9b9dc791b094b725c192"
+    },
+    {
       "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeArtifact.#ctor(System.String,System.String,Inno.Build.Toolchains.NativeArtifactRole)",
       "path": "content/en/api/engine/build/toolchains/nativeartifact/nativeartifact.constructor-2ec2e476ed88df96.md",
       "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeArtifact",
@@ -13939,11 +14023,11 @@
       "contract": "c0eba0335162aff69fa283d50532d517acf942c1470176f7c1ee039a9f1ab944"
     },
     {
-      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeArtifactTransfer.ExportAsync(System.String,System.String,System.Threading.CancellationToken)",
-      "path": "content/en/api/engine/build/toolchains/nativeartifacttransfer/nativeartifacttransfer.exportasync-6f750ab4bb575c91.md",
+      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeArtifactTransfer.ExportAsync(System.String,System.String,System.Threading.CancellationToken,System.Collections.Generic.IReadOnlySet{System.String})",
+      "path": "content/en/api/engine/build/toolchains/nativeartifacttransfer/nativeartifacttransfer.exportasync-dbe0d177288d44b3.md",
       "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeArtifactTransfer",
       "title": "NativeArtifactTransfer.ExportAsync",
-      "contract": "835b23ffe3a5f9a26fb8243a7d503538cce44bad0ad7524e9dec0762fb8635c0"
+      "contract": "7217b1ae815cb5262e0e8ee74bb3268547df3c9b1cfd323ce201895288eff57e"
     },
     {
       "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeArtifactTransfer.ImportAsync(System.String,System.String,System.Threading.CancellationToken)",
@@ -14618,6 +14702,83 @@
       "contract": "c22c2941ae993d81b1876692e3a26cdcd5d8f11d669ae5983771d81273424302"
     },
     {
+      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeDependencyAsset.#ctor(System.String,System.String)",
+      "path": "content/en/api/engine/build/toolchains/nativedependencyasset/nativedependencyasset.constructor-acacdf76941e8ebc.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyAsset",
+      "title": "NativeDependencyAsset.Constructor",
+      "contract": "a06f3f33e59881e064101917a3fd1b5a5f59be9556f4e612a10322d88e550c8a"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeDependencyAsset.Deconstruct(System.String@,System.String@)",
+      "path": "content/en/api/engine/build/toolchains/nativedependencyasset/nativedependencyasset.deconstruct-f790ab7de46893c6.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyAsset",
+      "title": "NativeDependencyAsset.Deconstruct",
+      "contract": "b32ed4135151bdc90c2dbf999319ff0a3ddcbc5535a9cc20823dd72a6c882688"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeDependencyAsset.Equals(Inno.Build.Toolchains.NativeDependencyAsset)",
+      "path": "content/en/api/engine/build/toolchains/nativedependencyasset/nativedependencyasset.equals-89752f613ade52e9.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyAsset",
+      "title": "NativeDependencyAsset.Equals",
+      "contract": "7ef35641ee92f6cafc86082d9884fa013d47381a15fbe0bda480cb6798f831c3"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeDependencyAsset.Equals(System.Object)",
+      "path": "content/en/api/engine/build/toolchains/nativedependencyasset/nativedependencyasset.equals-a82219c5d5b8862e.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyAsset",
+      "title": "NativeDependencyAsset.Equals",
+      "contract": "daec5ed99dc22e58805016565647ed0fb97b7e525bff0dd97986e3d33e8aa4b9"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeDependencyAsset.GetHashCode",
+      "path": "content/en/api/engine/build/toolchains/nativedependencyasset/nativedependencyasset.gethashcode-1e12d4bd82f303f7.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyAsset",
+      "title": "NativeDependencyAsset.GetHashCode",
+      "contract": "5e45c83430a4c15731be940ef92ac154f17b0476d017d6b72627ea49bcf08cf2"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeDependencyAsset.ToString",
+      "path": "content/en/api/engine/build/toolchains/nativedependencyasset/nativedependencyasset.tostring-4068306b40103920.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyAsset",
+      "title": "NativeDependencyAsset.ToString",
+      "contract": "2c9353d44c7278f6824642df59d3732781b09ea0f80805c4c6d8567ef2a5976f"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeDependencyAsset.op_Equality(Inno.Build.Toolchains.NativeDependencyAsset,Inno.Build.Toolchains.NativeDependencyAsset)",
+      "path": "content/en/api/engine/build/toolchains/nativedependencyasset/nativedependencyasset.op-equality-16ed7576dc5bd367.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyAsset",
+      "title": "NativeDependencyAsset.op_Equality",
+      "contract": "2aec82abe84a2a82693bb49ea14c4a6b6b8844cf6855dd44940a02c2b845ddf2"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeDependencyAsset.op_Inequality(Inno.Build.Toolchains.NativeDependencyAsset,Inno.Build.Toolchains.NativeDependencyAsset)",
+      "path": "content/en/api/engine/build/toolchains/nativedependencyasset/nativedependencyasset.op-inequality-42b38ce539dfd087.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyAsset",
+      "title": "NativeDependencyAsset.op_Inequality",
+      "contract": "38c92318a0d1b89a49d705ab1c6f45242b2ceff1bccbc716ec68e97207f09e50"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeDependencyManifest.AcquireAsync(System.String,System.String,System.String,System.String,Inno.Build.Toolchains.ProductNativeBuildPlan,System.Threading.CancellationToken)",
+      "path": "content/en/api/engine/build/toolchains/nativedependencymanifest/nativedependencymanifest.acquireasync-7e95912ade19c076.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyManifest",
+      "title": "NativeDependencyManifest.AcquireAsync",
+      "contract": "9aa1ab8c935f2e0b0bc489e4d79e717b7c1315b74ffb118705f5df27dfe7184e"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeDependencyManifest.ExportAsync(Inno.Build.Toolchains.NativeBuildContext,Inno.Build.Toolchains.ProductNativeBuildPlan,Inno.Build.Toolchains.ProductNativeBuildResult,System.String,System.Threading.CancellationToken)",
+      "path": "content/en/api/engine/build/toolchains/nativedependencymanifest/nativedependencymanifest.exportasync-67e777c654fefd5d.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyManifest",
+      "title": "NativeDependencyManifest.ExportAsync",
+      "contract": "3dc409be187746a0988bca8affeea1f78efd066d8528702a2205798b85c74e00"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeDependencyManifest.SelectAsync(System.String,System.String,System.String,System.String,Inno.Build.Toolchains.ProductNativeBuildPlan,System.Threading.CancellationToken)",
+      "path": "content/en/api/engine/build/toolchains/nativedependencymanifest/nativedependencymanifest.selectasync-dee2edf62e40098e.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyManifest",
+      "title": "NativeDependencyManifest.SelectAsync",
+      "contract": "aaa71f5613a7df6e13b6676307e67b723c14e9c9315911ec2a46c56b5bf5b233"
+    },
+    {
       "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeDeploymentMetadataFactory.#ctor(System.Object,System.IntPtr)",
       "path": "content/en/api/engine/build/toolchains/nativedeploymentmetadatafactory/nativedeploymentmetadatafactory.constructor-8bee9e51427449e4.md",
       "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDeploymentMetadataFactory",
@@ -14692,7 +14853,7 @@
       "path": "content/en/api/engine/build/toolchains/nativetoolchainpreparation/nativetoolchainpreparation.freeze-a77397cfd37d1213.md",
       "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeToolchainPreparation",
       "title": "NativeToolchainPreparation.Freeze",
-      "contract": "883c38a965f98bc5c5041dd1e9a629087fdf95008ea8957d8a841a3ad3bf0de8"
+      "contract": "fd3ec7f3fceb2a2f8987cd3568489799239b71b2dd595d2e98bd5f5ac98fe695"
     },
     {
       "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeToolchainSelection.#ctor(System.String,Inno.Build.Toolchains.BuildHostDescriptor,System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.Collections.Generic.IReadOnlyDictionary{System.String,System.String},System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},Inno.Build.Toolchains.NativeLinkPlan,System.Boolean,Inno.Build.Toolchains.NativeCompilerInputs)",
@@ -14758,11 +14919,11 @@
       "contract": "f3c1d1b322dc9b1b922019f74bc68115e3297712261b124630ec4073f3933374"
     },
     {
-      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativeBuildResult.#ctor(System.Collections.Generic.IEnumerable{Inno.Build.Toolchains.NativeBuildProduct},Inno.Build.Toolchains.NativeBindingGenerationResult,System.String)",
-      "path": "content/en/api/engine/build/toolchains/productnativebuildresult/productnativebuildresult.constructor-1b79393a1d056998.md",
+      "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativeBuildResult.#ctor(System.Collections.Generic.IEnumerable{Inno.Build.Toolchains.NativeBuildProduct},Inno.Build.Toolchains.NativeBindingGenerationResult,System.String,Inno.Build.Toolchains.NativeBuildRecipe)",
+      "path": "content/en/api/engine/build/toolchains/productnativebuildresult/productnativebuildresult.constructor-d7d470e79196cb9d.md",
       "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.ProductNativeBuildResult",
       "title": "ProductNativeBuildResult.Constructor",
-      "contract": "c50e91b68f021c3b6e868d1ecd2e4abc710c52e398d0c127a80e6dc0f1351c1f"
+      "contract": "1b3c947987817f77a7cb07bec462ba7c05fcfc43ca8d62ed3c8fca5291dd7f35"
     },
     {
       "symbol": "engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.ProductNativeBuildResult.Dispose",
@@ -15892,6 +16053,20 @@
       "contract": "095341c3c310d9381af6a2e7bfb2edd67dab581677064b151f39d0f6c763659f"
     },
     {
+      "symbol": "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeDependencyAsset.asset",
+      "path": "content/en/api/engine/build/toolchains/nativedependencyasset/nativedependencyasset.asset-f6ed5e9d77771c99.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyAsset",
+      "title": "NativeDependencyAsset.asset",
+      "contract": "f6180bcb3b2f650789e36aa15b623aac4de469a6d6851cf31ec22dd039917c1a"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeDependencyAsset.sha256",
+      "path": "content/en/api/engine/build/toolchains/nativedependencyasset/nativedependencyasset.sha256-867313f3f05a2f39.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyAsset",
+      "title": "NativeDependencyAsset.sha256",
+      "contract": "5184f1a87962b0a5f0a6d5763fba0992ef50730d0a34e94cbcf4f5b160d9c673"
+    },
+    {
       "symbol": "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.NativeLinkPlan.cmakeArguments",
       "path": "content/en/api/engine/build/toolchains/nativelinkplan/nativelinkplan.cmakearguments-2730cfce944f12b9.md",
       "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeLinkPlan",
@@ -16067,6 +16242,20 @@
       "contract": "21a845db58c95ee4b974b5db6337e6526e809148f108b66114fcae3d417a986a"
     },
     {
+      "symbol": "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.ProductNativeBuildResult.aggregateRecipe",
+      "path": "content/en/api/engine/build/toolchains/productnativebuildresult/productnativebuildresult.aggregaterecipe-7af67439a32fa4bc.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.ProductNativeBuildResult",
+      "title": "ProductNativeBuildResult.aggregateRecipe",
+      "contract": "6bc9923327b7ae2d04ee1b0f74fc0b24813bcdde2fb569292fb6aecf9a66268c"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.ProductNativeBuildResult.bindingGenerations",
+      "path": "content/en/api/engine/build/toolchains/productnativebuildresult/productnativebuildresult.bindinggenerations-342b9e975681c994.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.ProductNativeBuildResult",
+      "title": "ProductNativeBuildResult.bindingGenerations",
+      "contract": "d031b7b3f18f0d88efb56ac7b519169190ea6105e33d67e7d9639c90c6e7f0ba"
+    },
+    {
       "symbol": "engine:Inno.Build.Toolchains:P:Inno.Build.Toolchains.ProductNativeBuildStep.bindDependencies",
       "path": "content/en/api/engine/build/toolchains/productnativebuildstep/productnativebuildstep.binddependencies-1f857d7f960b8c9d.md",
       "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.ProductNativeBuildStep",
@@ -16135,6 +16324,13 @@
       "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.ToolchainWorkingDirectory",
       "title": "ToolchainWorkingDirectory.toolPath",
       "contract": "19c17beeb15ae0a5a94f61196d2798cf8e62aa1064989c0f05fd27ff3acb12c3"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.BackendPrebuiltArchive",
+      "path": "content/en/api/engine/build/toolchains/backendprebuiltarchive/index.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.BackendPrebuiltArchive",
+      "title": "BackendPrebuiltArchive",
+      "contract": "9bc99c39a57c61cbec84d23c5c65d1fee67819ee8b8720a14ae5ca0b66a55f93"
     },
     {
       "symbol": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.BuildArtifactCopier",
@@ -16506,6 +16702,20 @@
       "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeComponentDescriptor",
       "title": "NativeComponentDescriptor",
       "contract": "06ca3914dd8bd53de5021aa25706e1748f713481511020985f466ce6855f6c5a"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyAsset",
+      "path": "content/en/api/engine/build/toolchains/nativedependencyasset/index.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyAsset",
+      "title": "NativeDependencyAsset",
+      "contract": "b65d36f55f2dfba313c7031a38bc7815c7e04f3315930861b3e10442e6aeacea"
+    },
+    {
+      "symbol": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyManifest",
+      "path": "content/en/api/engine/build/toolchains/nativedependencymanifest/index.md",
+      "type": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDependencyManifest",
+      "title": "NativeDependencyManifest",
+      "contract": "2131052c7a1956147937e042e90abe177a4cae25ffe7f0f872686527668f02c2"
     },
     {
       "symbol": "engine:Inno.Build.Toolchains:T:Inno.Build.Toolchains.NativeDeploymentMetadataFactory",
@@ -32816,6 +33026,13 @@
       "type": "engine:Inno.Editor.Hosting:T:Inno.Editor.Hosting.EditorCommandLineOptions",
       "title": "EditorCommandLineOptions.graphicsApi",
       "contract": "d7e980d68cbf8a39adcb3ac46067d837790bc49ddd31af7d7b371afb3512d1cc"
+    },
+    {
+      "symbol": "engine:Inno.Editor.Hosting:P:Inno.Editor.Hosting.EditorCommandLineOptions.nativeDependencies",
+      "path": "content/en/api/engine/editor/hosting/editorcommandlineoptions/editorcommandlineoptions.nativedependencies-77b064f19d9244e4.md",
+      "type": "engine:Inno.Editor.Hosting:T:Inno.Editor.Hosting.EditorCommandLineOptions",
+      "title": "EditorCommandLineOptions.nativeDependencies",
+      "contract": "8d3023cb9e688218a10a671dbd3df0fb54c01756920c4b6112a038dbc921e001"
     },
     {
       "symbol": "engine:Inno.Editor.Hosting:P:Inno.Editor.Hosting.EditorCommandLineOptions.projectDirectory",

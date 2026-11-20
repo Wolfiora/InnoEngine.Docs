@@ -6,8 +6,9 @@ title: Inno.Build.SupportPacks.Core
 kind: project
 owners:
 - Inno.Build.SupportPacks.Core
-sourceFingerprint: 62f15f964ee98b689d95bb2a541e6813835de6d8f4f1cdc780378753144ebce8
+sourceFingerprint: cae02766d12e4473ca571252f1682262507aa1425a99275684dabcf1e1501cf7
 contracts: []
+outdatedFor: a686ec2cea47f01eb21b2d6d26564a1f4ba50f589de9af7861c734d37d2c8200
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

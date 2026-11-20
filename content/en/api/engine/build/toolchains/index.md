@@ -13,6 +13,7 @@ Find types in this project category. Each type links to its exact declarations a
 
 | Type | Purpose |
 | --- | --- |
+| [BackendPrebuiltArchive](backendprebuiltarchive/index.md) | Transfers the certified files for one backend target. Each archive contains exactly one current inventory. |
 | [BuildArtifactCopier](buildartifactcopier/index.md) | Copies filtered native outputs into the engine&#39;s rebuildable dependency store. |
 | [BuildArtifactManifest](buildartifactmanifest/index.md) | Validates complete build outputs against their input identity and recorded file hashes. |
 | [BuildArtifactOptions](buildartifactoptions/index.md) | Defines the deterministic filter and naming policy used to collect one native product. |
@@ -66,6 +67,8 @@ Find types in this project category. Each type links to its exact declarations a
 | [NativeCompilerInputs](nativecompilerinputs/index.md) | Freezes SDK-resolved native compiler and header inputs without interpreting environment conventions. |
 | [NativeComponentBuildOptions](nativecomponentbuildoptions/index.md) | Freezes product-owned linkage, ordered component definitions and their configuration inputs. |
 | [NativeComponentDescriptor](nativecomponentdescriptor/index.md) | Declares the unique source and build owners of a reusable native component. |
+| [NativeDependencyAsset](nativedependencyasset/index.md) | Identifies one immutable native archive selected for a backend product closure. |
+| [NativeDependencyManifest](nativedependencymanifest/index.md) | Transfers aggregate native products and their exact binding generations through the dependency selection protocol. |
 | [NativeDeploymentMetadataFactory](nativedeploymentmetadatafactory/index.md) | Creates explicitly selected deployment metadata from a frozen Native closure. |
 | [NativeInputMaterializer](nativeinputmaterializer/index.md) | Materializes frozen native inputs without rewriting identical intermediate files. |
 | [NativeLibraryKind](nativelibrarykind/index.md) | Specifies the linkage required by a product&#39;s native component operation. |

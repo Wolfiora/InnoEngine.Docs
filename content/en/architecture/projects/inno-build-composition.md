@@ -6,8 +6,9 @@ title: Inno.Build.Composition
 kind: project
 owners:
 - Inno.Build.Composition
-sourceFingerprint: e5e0f806a65780021682ddbd5b333e7b0871ef4455a34d0ac831ec254c3e21c3
+sourceFingerprint: e74c7f7a166123f59e2110a358fc2f576ab741d1eac63dcb5fc2bed34fb99e60
 contracts: []
+outdatedFor: e5c39487aa33bbf227581a30202ad79fadfdc748c02a4d95453fa8ff5f06ac74
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

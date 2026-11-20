@@ -6,8 +6,9 @@ title: Inno.Build.Tasks
 kind: project
 owners:
 - Inno.Build.Tasks
-sourceFingerprint: f80e23c3d2c6cb6ba3fea6eacb969eb756807e886082296140e509d910102b10
+sourceFingerprint: c0e2f3a4dd46f2ac9382b92677d76b38c46ce3763e296faecb88c55fc4092742
 contracts: []
+outdatedFor: 708d5d3956b6e1f392195115569da9d6294a037d9e14618a6bac3763d030c5ac
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

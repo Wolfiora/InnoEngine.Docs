@@ -1,13 +1,13 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.49acf6298844409395dd0029cdf563f74aa75430d7150c589b6edbed3e5a7ef6
-symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.SourcePlayerSupportPackProvisioner.#ctor(System.String,Inno.Build.SupportPacks.PlayerSupportPackPublisher,System.String,System.Action{System.String})
+uid: api.7756335af163ea5aa5d98061c09b23e5298146f8340014a95844ff9dd035a3df
+symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.SourcePlayerSupportPackProvisioner.#ctor(System.String,Inno.Build.SupportPacks.PlayerSupportPackPublisher,System.String,System.Action{System.String},System.String)
 title: SourcePlayerSupportPackProvisioner.Constructor
 kind: api
 owners:
 - Inno.Build.SupportPacks.Core
 apiSurface: source-clr
-sourceFingerprint: 7569ba7af20056945654bc8a0b0df7b03d8a247c9f3f57acf75586c8117f1607
+sourceFingerprint: 9d44f5beed42c58de3107eaebd0e1db8f976471eff63fd6120920e826baf417f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -25,6 +25,8 @@ outdated: false
 **Parameter `dotnetHost`:** The SDK executable explicitly selected by the host.
 
 **Parameter `reportDiagnostic`:** The borrowed host reporter for successful-publication indexing and cleanup diagnostics.
+
+**Parameter `nativeDependencies`:** An absolute dependency selection disabling third-party production, or null for local source preparation.
 
 ## Exceptions
 

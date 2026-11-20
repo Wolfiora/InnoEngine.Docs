@@ -1,13 +1,13 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.0e6f709577c8cd1d86ead6dc0b0913eae4de81e290f91df322479ea860ed93dc
-symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.SourcePlayerSupportPackProvisioner.TryCreateForHost(System.String,Inno.Build.SupportPacks.PlayerSupportPackPublisher,System.String,System.Action{System.String})
+uid: api.abd598cd2208395f5f6ef18f9b17910d373eef9b5918f1f3e7de24e35ffac3cc
+symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.SourcePlayerSupportPackProvisioner.TryCreateForHost(System.String,Inno.Build.SupportPacks.PlayerSupportPackPublisher,System.String,System.Action{System.String},System.String)
 title: SourcePlayerSupportPackProvisioner.TryCreateForHost
 kind: api
 owners:
 - Inno.Build.SupportPacks.Core
 apiSurface: source-clr
-sourceFingerprint: ab8e6c795266e5a6cf4786ea34255e608fd5d91d622cef6d03df2f3221bd47f0
+sourceFingerprint: c1d6e0dff524216f211512016674c9ce6d9007530b09eec54edde4924f2a9d8f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -25,6 +25,8 @@ outdated: false
 **Parameter `dotnetHost`:** The SDK executable explicitly selected by the host.
 
 **Parameter `reportDiagnostic`:** The borrowed host reporter, retained only by the returned provisioner.
+
+**Parameter `nativeDependencies`:** The explicit consume-only selection retained by the returned provisioner, or null for local source preparation.
 
 ## Returns
 
