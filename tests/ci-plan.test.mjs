@@ -1,7 +1,12 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import { execFileSync } from 'node:child_process';
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs';
+import { tmpdir } from 'node:os';
+import path from 'node:path';
+import { pathToFileURL } from 'node:url';
 import { bootstrapPlan, selectPages, modeFor, reconcile, renderingInput, controlInput } from '../scripts/ci-plan.mjs';
-import { inputIdentity, eligible, passedJob, trustedProducer, controlsIdentity, pageReceipts } from '../scripts/ci-evidence.mjs';
+import { localInputs, inputIdentity, eligible, passedJob, trustedProducer, controlsIdentity, pageReceipts } from '../scripts/ci-evidence.mjs';
 const page = (id, extra = {}) => ({ id, path: `content/en/${id}.md`, title: id, kind: 'explanation', links: [], includes: [], contracts: [], codeBlocks: [], symbols: {}, sections: {}, markdown: id, contentIdentity: id, ...extra });
 const catalog = { snapshot: 'snapshot', sourceFiles: {}, pages: [page('index'), page('a'), page('b', { links: ['a.md#heading'] }), page('c')] };
 const plan = changed => bootstrapPlan({ mode: 'Incremental', changed, baseline: 'old', candidate: 'new' });
@@ -92,15 +97,40 @@ test('API binding revisions do not invalidate an unchanged canonical tool', () =
   assert.equal(selectPages(plan(['reference/engine.lock.json']),{...current,documentationToolIdentity:'changed'},{previous}).pages.length,4);
 });
 
-test('publication cannot promote new control code from a draft run or a control-changing PR', async t => {
-  const current = [['scripts/build-site.mjs','new-control']];
-  const old = [['scripts/build-site.mjs','old-control']];
-  const originalFetch = globalThis.fetch;
-  t.after(()=>{globalThis.fetch=originalFetch;});
-  globalThis.fetch = async url => ({ok:true,json:async()=>({truncated:false,tree:(String(url).includes('b'.repeat(40))?old:current).map(([path,sha])=>({path,sha,type:'blob'}))})});
-  const run = {repository:{full_name:'Wolfiora/InnoEngine.Docs'},head_repository:{full_name:'Wolfiora/InnoEngine.Docs'},path:'.github/workflows/documentation.yml',head_sha:'a'.repeat(40),head_branch:'draft',event:'push'};
-  assert.equal(await trustedProducer(run,controlsIdentity(current)),true);
-  assert.equal(await trustedProducer(run,controlsIdentity(current),true),false);
-  assert.equal(await trustedProducer({...run,event:'pull_request',pull_requests:[{base:{sha:'b'.repeat(40)}}]},controlsIdentity(current),true),false);
-  assert.equal(await trustedProducer({...run,event:'pull_request',pull_requests:[{base:{sha:'a'.repeat(40)}}]},controlsIdentity(current),true),true);
+test('publication checks exact Git trees from shallow checkouts and rejects control-changing PRs', async t => {
+  const original = process.cwd();
+  const root = mkdtempSync(path.join(tmpdir(), 'docs-trust-'));
+  const source = path.join(root, 'source');
+  const checkout = path.join(root, 'checkout');
+  const git = (cwd, ...args) => execFileSync('git', args, { cwd, encoding: 'utf8' }).trim();
+  t.after(() => { process.chdir(original); rmSync(root, { recursive: true, force: true }); });
+  git(root, 'init', '--quiet', '--initial-branch=main', source);
+  git(source, 'config', 'user.name', 'CI test');
+  git(source, 'config', 'user.email', 'ci@example.org');
+  mkdirSync(path.join(source, 'scripts'));
+  function commitControl(value) {
+    writeFileSync(path.join(source, 'scripts/build-site.mjs'), value);
+    git(source, 'add', '.');
+    git(source, '-c', 'commit.gpgsign=false', 'commit', '-qm', value);
+    return git(source, 'rev-parse', 'HEAD');
+  }
+  const old = commitControl('old');
+  const head = commitControl('new');
+  const origin = pathToFileURL(source).href;
+  git(source, 'config', 'uploadpack.allowFilter', 'true');
+  git(root, 'clone', '--quiet', '--depth=1', origin, checkout);
+  git(checkout, 'config', 'url.' + origin + '.insteadOf', 'https://github.com/Wolfiora/InnoEngine.Docs.git');
+  process.chdir(checkout);
+  t.mock.method(globalThis, 'fetch', async url => {
+    assert.equal(String(url), 'https://api.github.com/repos/Wolfiora/InnoEngine.Docs/git/ref/heads/main');
+    return { ok: true, json: async () => ({ object: { sha: head } }) };
+  });
+  const controls = controlsIdentity(localInputs());
+  const run = {repository:{full_name:'Wolfiora/InnoEngine.Docs'},head_repository:{full_name:'Wolfiora/InnoEngine.Docs'},path:'.github/workflows/documentation.yml',head_sha:head,head_branch:'draft',event:'push'};
+  assert.equal(await trustedProducer(run, controls), true);
+  assert.equal(await trustedProducer(run, controls, true), false);
+  const pull = base => ({ ...run, event: 'pull_request', pull_requests: [{ base: { sha: base } }] });
+  assert.equal(await trustedProducer(pull(old), controls, true), false);
+  assert.equal(await trustedProducer(pull(head), controls, true), true);
+  assert.equal(git(checkout, 'rev-parse', 'HEAD'), head);
 });
