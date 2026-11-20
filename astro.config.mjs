@@ -1,4 +1,5 @@
 import { readFileSync } from 'node:fs';
+import { logoUrl } from './src/branding.mjs';
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import { unified } from '@astrojs/markdown-remark';
@@ -30,15 +31,14 @@ export default defineConfig({
       pagefind: !plan || plan.search,
       title: 'InnoEngine',
       description: 'The InnoEngine manual, architecture, extension guides, and API reference.',
-      logo: { src: './public/branding/logo.svg', replacesTitle: false },
-      favicon: '/branding/logo.svg',
+      favicon: logoUrl,
       defaultLocale: 'en',
       locales: { root: { label: 'English', lang: 'en' } },
       social: [{ icon: 'github', label: 'InnoEngine on GitHub', href: 'https://github.com/Wolfiora/InnoEngine' }],
       editLink: { baseUrl: 'https://github.com/Wolfiora/InnoEngine.Docs/edit/draft/' },
       sidebar: navigation,
       customCss: ['./src/styles/documentation.css'],
-      components: { Head: './src/components/Head.astro', Pagination: './src/components/Pagination.astro', Footer: './src/components/Footer.astro', Header: './src/components/Header.astro', MarkdownContent: './src/components/MarkdownContent.astro', PageTitle: './src/components/PageTitle.astro', PageSidebar: './src/components/PageSidebar.astro', EditLink: './src/components/EditLink.astro', Sidebar: './src/components/Sidebar.astro' },
+      components: { SiteTitle: './src/components/SiteTitle.astro', Head: './src/components/Head.astro', Pagination: './src/components/Pagination.astro', Footer: './src/components/Footer.astro', Header: './src/components/Header.astro', MarkdownContent: './src/components/MarkdownContent.astro', PageTitle: './src/components/PageTitle.astro', PageSidebar: './src/components/PageSidebar.astro', EditLink: './src/components/EditLink.astro', Sidebar: './src/components/Sidebar.astro' },
       tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },
       markdown: { processedDirs: ['content/en'] },
       lastUpdated: false,

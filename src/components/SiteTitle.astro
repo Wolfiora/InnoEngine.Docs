@@ -1,0 +1,24 @@
+---
+import { logoUrl } from '../branding.mjs';
+const { siteTitle, siteTitleHref } = Astro.locals.starlightRoute;
+---
+<a href={siteTitleHref} class="site-title sl-flex">
+  <img src={logoUrl} alt="" width="512" height="512" />
+  <span translate="no">{siteTitle}</span>
+</a>
+
+<style>
+  @layer starlight.core {
+    .site-title {
+      align-items: center;
+      gap: var(--sl-nav-gap);
+      font-size: var(--sl-text-h4);
+      color: var(--sl-color-text-accent);
+      text-decoration: none;
+      white-space: nowrap;
+      min-width: 0;
+    }
+    span { overflow: hidden; }
+    img { max-width: 100%; object-fit: contain; object-position: 0 50%; }
+  }
+</style>

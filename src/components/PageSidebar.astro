@@ -1,7 +1,8 @@
 ---
+import { logoUrl } from '../branding.mjs';
 import DefaultPageSidebar from '@astrojs/starlight/components/PageSidebar.astro';
 ---
-<div class="toc-art" aria-hidden="true" inert><svg viewBox="39.32 21.04 433.36 469.92"><image href="/InnoEngine.Docs/branding/logo.svg" width="512" height="512" /></svg></div>
+<div class="toc-art" aria-hidden="true" inert><svg viewBox="39.32 21.04 433.36 469.92"><image href={logoUrl} width="512" height="512" /></svg></div>
 <DefaultPageSidebar />
 <inno-toc-resizer class="toc-resizer" role="separator" tabindex="0" aria-label="Resize table of contents" aria-orientation="vertical" aria-controls="starlight__on-this-page" aria-valuemin="0" aria-valuemax="50" aria-valuenow="25" aria-valuetext="One quarter of the viewport" title="Drag to resize; arrow keys adjust; double-click resets" />
 <script src="../scripts/toc-resizer.ts"></script>
