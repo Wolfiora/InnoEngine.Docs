@@ -1,4 +1,4 @@
-import { execFileSync } from 'node:child_process';
+import { execFileSync, spawnSync } from 'node:child_process';
 import { readFile, writeFile, mkdir, appendFile, copyFile } from 'node:fs/promises';
 import { pathToFileURL } from 'node:url';
 import path from 'node:path';
@@ -10,8 +10,8 @@ const workflow = '.github/workflows/documentation.yml';
 export function inputIdentity(entries, origin = siteOrigin(), node = process.version) {
   return identity({ schema: 'inno-docs-evidence/2', inputs: entries.filter(([file]) => publicationInput(file)).sort(), origin, node, base: '/InnoEngine.Docs/' });
 }
-export function localInputs() {
-  return execFileSync('git', ['ls-tree', '-rz', 'HEAD'], { encoding: 'utf8', maxBuffer:128*1024*1024 }).split('\0').filter(Boolean).map(line => {
+export function localInputs(revision = 'HEAD') {
+  return execFileSync('git', ['--no-replace-objects', 'ls-tree', '-rz', revision], { encoding: 'utf8', maxBuffer:128*1024*1024 }).split('\0').filter(Boolean).map(line => {
     const [metadata, file] = line.split('\t'); return [file, metadata.split(' ')[2]];
   });
 }
@@ -24,9 +24,17 @@ export async function api(endpoint) {
   return response.json();
 }
 async function remoteInputs(revision) {
-  const result = await api(`git/trees/${revision}?recursive=1`);
-  if (result.truncated) throw new Error('Trusted input discovery was truncated.');
-  return result.tree.filter(item => item.type !== 'tree').map(item => [item.path, item.sha]);
+  // Resolve the live branch through GitHub, then compare immutable Git objects.
+  // Large documentation trees need no recursive REST listing or blob downloads.
+  const sha = revision === 'main' ? (await api('git/ref/heads/main')).object?.sha : revision;
+  if (!/^[a-f0-9]{40}$/.test(sha ?? '')) throw new Error('Evidence discovery requires an exact commit SHA.');
+  const probe = spawnSync('git', ['--no-replace-objects', 'cat-file', '-e', sha + '^{commit}'], { stdio: 'ignore' });
+  if (probe.error) throw probe.error;
+  if (probe.status !== 0) {
+    execFileSync('git', ['fetch', '--no-tags', '--no-write-fetch-head', '--depth=1', '--filter=blob:none',
+      'https://github.com/Wolfiora/InnoEngine.Docs.git', sha], { stdio: ['ignore', 'ignore', 'inherit'] });
+  }
+  return localInputs(sha);
 }
 export function eligible(run) {
   return run.repository?.full_name === repository && run.head_repository?.full_name === repository
