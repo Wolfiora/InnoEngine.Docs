@@ -1628,6 +1628,13 @@
     "isTest": true
   },
   {
+    "name": "Inno.Build.ProductProfiles.Integration.Tests",
+    "path": "tests/build/Inno.Build.ProductProfiles.Integration.Tests/Inno.Build.ProductProfiles.Integration.Tests.csproj",
+    "entry": null,
+    "surfaces": [],
+    "isTest": true
+  },
+  {
     "name": "Inno.Build.Products.Tests",
     "path": "tests/build/Inno.Build.Products.Tests/Inno.Build.Products.Tests.csproj",
     "entry": null,
