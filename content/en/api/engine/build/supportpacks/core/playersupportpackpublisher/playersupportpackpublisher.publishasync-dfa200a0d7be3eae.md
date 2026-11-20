@@ -1,13 +1,13 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.7c3bc24a8506f541138e25575058fb2024307381e64d532e6b7119019024e862
-symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPublisher.PublishAsync(System.String,System.String,Inno.Build.BuildTargetId,System.String,System.Threading.CancellationToken)
+uid: api.dfa200a0d7be3eae59fb1119638b09cb3561f0d9a29615598670c7d4dcd80d40
+symbol: engine:Inno.Build.SupportPacks.Core:M:Inno.Build.SupportPacks.PlayerSupportPackPublisher.PublishAsync(System.String,System.String,Inno.Build.BuildTargetId,System.String,System.Threading.CancellationToken,System.String)
 title: PlayerSupportPackPublisher.PublishAsync
 kind: api
 owners:
 - Inno.Build.SupportPacks.Core
 apiSurface: source-clr
-sourceFingerprint: fd9d1fa23cb48b4be0168c0b1a7c0aefa8cf63b7f72a10d5c3f274ca35be7bb5
+sourceFingerprint: c0757d51443d7e70b875d3be442cdd130d00da0e81eafb45fa9aa31fe7bb0394
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -27,6 +27,8 @@ outdated: false
 **Parameter `dotnetHost`:** The SDK executable selected by the host.
 
 **Parameter `cancellationToken`:** Cancels preparation before directory installation begins.
+
+**Parameter `nativeDependencies`:** An explicit native selection disabling third-party production, or null for local source preparation.
 
 ## Returns
 

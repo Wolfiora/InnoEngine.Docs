@@ -1,13 +1,13 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.023b074154c7b5d99d95bb379551494ff3141874418abb34f54af7a4b689d6bb
-symbol: engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildEnvironment.Capture(System.String,Inno.Build.BuildTargetId,System.String)
+uid: api.26e5bcfe111126e5df9f6a64d6b8eb38aa0bd51a01a0ce7b41b20641ebaa501f
+symbol: engine:Inno.Build.Distribution.Standard:M:Inno.Build.Distribution.Standard.StandardBuildEnvironment.Capture(System.String,Inno.Build.BuildTargetId,System.String,System.String)
 title: StandardBuildEnvironment.Capture
 kind: api
 owners:
 - Inno.Build.Distribution.Standard
 apiSurface: source-clr
-sourceFingerprint: a2897227c08bc9d3887ae9cbc39927307b7127b90fe3b23fc53aa7425a626fd3
+sourceFingerprint: 08c9dbcddf163814df140d4fb3a7aa38a8d1435e19b6eb28e9b8df0f8f79c580
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -23,6 +23,8 @@ outdated: false
 **Parameter `toolsTarget`:** The native target explicitly selected for executable build tools, independently of exported games.
 
 **Parameter `dotnetHost`:** An explicit SDK executable, or null to use DOTNET\_HOST\_PATH, the loaded shared runtime's muxer, then normal executable discovery when this process has no shared runtime installation.
+
+**Parameter `nativeDependencies`:** An absolute consume-only dependency selection, or null for local source preparation.
 
 ## Returns
 

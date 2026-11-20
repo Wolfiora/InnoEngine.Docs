@@ -31,6 +31,16 @@ Find verification owners, fixture lifetimes and prerequisites. These are contrib
 - [Native preparation cost tests](inno-build-nativeperformance-tests.md)
 - [Product build and publication tests](inno-build-tests.md)
 - [Build input and cache protocol tests](inno-build-toolchains-tests.md)
+- [SDK build integration tests](inno-build-integration-tests.md)
+- [Product composition tests](inno-build-products-tests.md)
+- [Support pack workflow tests](inno-build-supportpacks-tests.md)
+- [Build pipeline fixture](inno-testing-build.md)
+- [Player support pack fixture](inno-testing-supportpacks.md)
+- [Browser dependency integration tests](inno-build-browserwasm32-integration-tests.md)
+- [Browser toolchain and support pack tests](inno-build-browserwasm32-tests.md)
+- [macOS Arm64 support pack tests](inno-build-macosarm64-tests.md)
+- [Windows x64 build integration tests](inno-build-windowsx64-integration-tests.md)
+- [Windows x64 toolchain tests](inno-build-windowsx64-tests.md)
 
 ## Content
 
@@ -53,6 +63,7 @@ Find verification owners, fixture lifetimes and prerequisites. These are contrib
 - [Log delivery and file sink tests](inno-core-logging-tests.md)
 - [Vector and matrix tests](inno-core-mathematics-tests.md)
 - [Serialization and generation tests](inno-core-serialization-tests.md)
+- [Job system performance tests](inno-core-jobs-performance-tests.md)
 
 ## Editor
 
@@ -66,6 +77,8 @@ Find verification owners, fixture lifetimes and prerequisites. These are contrib
 - [Play Mode and Console behavior tests](inno-editor-playmode-tests.md)
 - [Editor panel and presentation tests](inno-editor-presentation-tests.md)
 - [Editor scripting and authoring workflow tests](inno-editor-scripting-tests.md)
+- [Native export presentation tests](inno-editor-exporting-native-tests.md)
+- [Editor export workflow tests](inno-editor-exporting-tests.md)
 
 ## Extensibility
 
@@ -99,6 +112,9 @@ Find verification owners, fixture lifetimes and prerequisites. These are contrib
 - [Rendering runtime publication tests](inno-rendering-runtime-tests.md)
 - [Shader language and native compiler tests](inno-rendering-shaders-tests.md)
 - [Render graph and portable artifact tests](inno-rendering-tests.md)
+- [BGFX toolchain integration tests](inno-build-toolchains-bgfx-integration-tests.md)
+- [BGFX target and profile tests](inno-build-toolchains-bgfx-tests.md)
+- [BGFX shader profile fixture](inno-testing-bgfx.md)
 
 ## Runtime
 
@@ -124,6 +140,7 @@ Find verification owners, fixture lifetimes and prerequisites. These are contrib
 - [Child-process execution tests](inno-testing-processes-tests.md)
 - [Isolated contract process host](inno-testing-processes.md)
 - [Explicit test source and output inputs](inno-testing-source.md)
+- [Test discovery logger](inno-testing-discovery-testlogger.md)
 
 ## Text
 
@@ -134,6 +151,8 @@ Find verification owners, fixture lifetimes and prerequisites. These are contrib
 - [Architecture and API boundary tests](inno-tooling-architecture-tests.md)
 - [Documentation snapshot and query tests](inno-tooling-documentation-tests.md)
 - [Validation planning and evidence tests](inno-tooling-validation-tests.md)
+- [Validation tooling integration tests](inno-tooling-validation-integration-tests.md)
+- [Validation repository fixture](inno-testing-validation.md)
 
 ## UI
 

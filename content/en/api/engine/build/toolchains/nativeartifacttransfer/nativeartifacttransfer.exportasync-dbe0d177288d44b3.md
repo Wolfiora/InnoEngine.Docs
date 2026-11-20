@@ -1,13 +1,13 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.6f750ab4bb575c915848c3e5a34f0392e103e147340e7bd4cf15ee9f6d0f0d79
-symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeArtifactTransfer.ExportAsync(System.String,System.String,System.Threading.CancellationToken)
+uid: api.dbe0d177288d44b3a79266cced7779c663a948e36ac655d90caa0bc818a32402
+symbol: engine:Inno.Build.Toolchains:M:Inno.Build.Toolchains.NativeArtifactTransfer.ExportAsync(System.String,System.String,System.Threading.CancellationToken,System.Collections.Generic.IReadOnlySet{System.String})
 title: NativeArtifactTransfer.ExportAsync
 kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 65d16f00ac2713c39fb6f1bef50893bd3042600613c21d634a6c3a09ae9ccf88
+sourceFingerprint: e6397e67279298189ed5dc60b0f6e7448f3668a6f88468c338c8019e8967f541
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -23,6 +23,8 @@ outdated: false
 **Parameter `archivePath`:** The explicit transport file, atomically replaced after complete export.
 
 **Parameter `cancellationToken`:** Cancels copying before the completed archive replaces its previous version.
+
+**Parameter `selectedArtifacts`:** Optional exact artifact paths relative to the artifacts root. Every selected generation must be exported.
 
 ## Returns
 

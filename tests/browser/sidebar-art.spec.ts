@@ -1,6 +1,10 @@
 import {test,expect} from '@playwright/test';
 test('TOC logo follows heading center and resize opacity bounds',async({page})=>{
  await page.setViewportSize({width:1600,height:1000});await page.goto('api/engine/animation/animation/');
+ const url=await page.locator('.site-title img').getAttribute('src');
+ expect(url).toMatch(/^https:\/\/raw\.githubusercontent\.com\/Wolfiora\/InnoEngine\/[^/]+\/assets\/branding\/logo\.svg$/);
+ await expect(page.locator('.toc-art image')).toHaveAttribute('href',url!);
+ await expect(page.locator('link[rel~="icon"]')).toHaveAttribute('href',url!);
  const divider=page.getByRole('separator',{name:'Resize table of contents'}),logo=page.locator('.toc-art svg');await divider.focus();
  for(const [key,opacity]of [['Home','0.05'],['End','0.8']]){
   await page.keyboard.press(key);await expect(logo).toHaveCSS('opacity',opacity);

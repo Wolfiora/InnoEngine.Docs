@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 3783fab8f55b81b9bd3aa978808281905e3a24b63c13a7b9e99c2348349fa2d3
+sourceFingerprint: 969a3d0fa7db4871f7233449fd4fe911801554cae27a15162466627e1875220a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -43,3 +43,5 @@ An immutable selection with validated physical tool and SDK inputs.
 ## Exceptions
 
 **Exception `T:System.IO.FileNotFoundException`:** A selected SDK input or executable is absent.
+
+**Exception `T:System.IO.IOException`:** A selected CMake executable alias cannot be resolved to its installation.
