@@ -1,3 +1,6 @@
+---
+tags: [delivery]
+---
 # Delivery requirements
 
 Use English `type(scope): description` titles and English PR bodies. Describe final behavior, source identities, actual evidence, and unexecuted checks. Use `Aaron Liao <hsuankailiao@gmail.com>` as Git author and committer; do not add co-author trailers.
