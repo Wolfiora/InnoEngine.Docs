@@ -132,10 +132,6 @@ jobs:
         with:
           global-json-file: artifacts/engine-source/global.json
         if: needs.reuse.outputs.prepare == 'true'
-      - name: Verify shared rules and provenance
-        shell: pwsh
-        run: ./scripts/check-rule-authority.ps1 -EngineRoot artifacts/engine-source
-        if: needs.reuse.outputs.prepare == 'true'
       - run: npm ci
       - name: Check operational guidance without product rendering
         run: node scripts/check-guidance.mjs

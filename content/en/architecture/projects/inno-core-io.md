@@ -6,8 +6,9 @@ title: Inno.Core.IO
 kind: project
 owners:
 - Inno.Core.IO
-sourceFingerprint: 6ffe923e9afe864523d7689a24e4c8d147c8990dad615b611d8d36c6fc695693
+sourceFingerprint: 1994479db1d8dc882ce461142a1d7a7ebc42fdc3c21be904e460610b25c183a4
 contracts: []
+outdatedFor: 732a05e1d66964e5806b767cdcaf271b71cdbaad5d287ce0bd053da195aa1756
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

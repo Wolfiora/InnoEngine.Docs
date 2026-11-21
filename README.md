@@ -63,17 +63,17 @@ Every API type and member has its own explanation and stable symbol identity:
 | API prose marker | Synchronization behavior |
 | --- | --- |
 | `source: xml`, or no marker in a registered API file | Refreshes the explanation from source XML; removes the generated file when the API is removed |
-| `source: FLwolfy` | Preserves authored prose while source declarations and relationships continue to update |
+| `source: <author name>` | Preserves authored prose while source declarations and relationships continue to update |
 | Unknown marker | Fails rather than guessing ownership |
 
-Set `source` to your name (for example, `source: FLwolfy`) before taking over an API explanation. Preserve its `uid` and `symbol`. A change to a source contract can mark the preserved explanation Outdated. Removed APIs with manual prose retain their files for review outside current navigation and default search. These rules never authorize overwriting ordinary Manual pages. See the [API authoring guide](content/en/contributing/api-documentation.md) for frontmatter, stable addresses and review identities.
+Set `source` to your name before taking over an API explanation. Preserve its `uid` and `symbol`. A change to a source contract can mark the preserved explanation Outdated. Removed APIs with manual prose retain their files for review outside current navigation and default search. These rules never authorize overwriting ordinary Manual pages. See the [API authoring guide](content/en/contributing/api-documentation.md) for frontmatter, stable addresses and review identities.
 
 ### When publishing
 
 1. Open a **`draft → main`** PR when the documentation is ready to publish. Multiple documentation updates may be released together.
 2. If GitHub requires **Update branch**, merge main's ancestry into draft and resolve any real conflicts. Do not force-push or reset draft.
 3. Wait for required **Documentation validation**. API editorial reminders are advisory.
-4. Merge manually using **Create a merge commit**. Keep the persistent `draft` branch.
+4. Merge manually using **Create a merge commit**. Keep the persistent `draft` branch; **Synchronize draft** then fast-forwards it to main without creating a commit.
 5. In [Actions → Documentation](https://github.com/Wolfiora/InnoEngine.Docs/actions/workflows/documentation.yml), open the **main push** run. Confirm both validation and **Deploy GitHub Pages** succeed.
 6. Open the [published site](https://wolfiora.github.io/InnoEngine.Docs/), check an API deep link and search, and confirm the expected API version. A merged PR alone does not prove deployment succeeded.
 
@@ -113,6 +113,7 @@ Diagnostics are retained for 30 days; site artifacts and reusable evidence for 9
 | --- | --- |
 | Engine export → Docs draft | Restricted GitHub App installation token with Docs Contents write |
 | Documentation validation | Repository-scoped GitHub Actions token |
+| Main → draft fast-forward | Repository-scoped GitHub Actions token with Contents write; pushes only `draft`, never forces |
 | Editorial report | Protected reporting workflow with Checks write |
 | GitHub Pages publication | Deploy job's Pages write permission and short-lived OIDC identity; main-only environment |
 | Release decision | Human merge into main |

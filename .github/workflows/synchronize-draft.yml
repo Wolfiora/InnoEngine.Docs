@@ -1,0 +1,35 @@
+name: Synchronize draft
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: synchronize-draft
+  cancel-in-progress: false
+
+jobs:
+  fast-forward:
+    name: Fast-forward draft to main
+    if: github.repository == 'Wolfiora/InnoEngine.Docs'
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+      - name: Move draft to main without creating a commit
+        run: |
+          git fetch --no-tags origin +refs/heads/draft:refs/remotes/origin/draft
+          if git merge-base --is-ancestor HEAD origin/draft; then
+            echo "draft already contains main." >> "$GITHUB_STEP_SUMMARY"
+          elif git merge-base --is-ancestor origin/draft HEAD; then
+            # An ordinary push is the compare-and-swap; a concurrent draft update rejects it.
+            git push origin HEAD:refs/heads/draft
+            echo "Fast-forwarded draft to main $GITHUB_SHA." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "::notice::draft has newer commits. The next API synchronization merges main; no commit was created here."
+          fi
