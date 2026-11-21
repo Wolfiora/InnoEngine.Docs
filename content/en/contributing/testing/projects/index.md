@@ -33,6 +33,7 @@ Find verification owners, fixture lifetimes and prerequisites. These are contrib
 - [Build input and cache protocol tests](inno-build-toolchains-tests.md)
 - [SDK build integration tests](inno-build-integration-tests.md)
 - [Product composition tests](inno-build-products-tests.md)
+- [Product profile integration tests](inno-build-productprofiles-integration-tests.md)
 - [Support pack workflow tests](inno-build-supportpacks-tests.md)
 - [Build pipeline fixture](inno-testing-build.md)
 - [Player support pack fixture](inno-testing-supportpacks.md)
