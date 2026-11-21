@@ -73,7 +73,7 @@ Set `source` to your name before taking over an API explanation. Preserve its `u
 1. Open a **`draft → main`** PR when the documentation is ready to publish. Multiple documentation updates may be released together.
 2. If GitHub requires **Update branch**, merge main's ancestry into draft and resolve any real conflicts. Do not force-push or reset draft.
 3. Wait for required **Documentation validation**. API editorial reminders are advisory.
-4. Merge manually using **Create a merge commit**. Keep the persistent `draft` branch.
+4. Merge manually using **Create a merge commit**. Keep the persistent `draft` branch; **Synchronize draft** then fast-forwards it to main without creating a commit.
 5. In [Actions → Documentation](https://github.com/Wolfiora/InnoEngine.Docs/actions/workflows/documentation.yml), open the **main push** run. Confirm both validation and **Deploy GitHub Pages** succeed.
 6. Open the [published site](https://wolfiora.github.io/InnoEngine.Docs/), check an API deep link and search, and confirm the expected API version. A merged PR alone does not prove deployment succeeded.
 
@@ -113,6 +113,7 @@ Diagnostics are retained for 30 days; site artifacts and reusable evidence for 9
 | --- | --- |
 | Engine export → Docs draft | Restricted GitHub App installation token with Docs Contents write |
 | Documentation validation | Repository-scoped GitHub Actions token |
+| Main → draft fast-forward | Repository-scoped GitHub Actions token with Contents write; pushes only `draft`, never forces |
 | Editorial report | Protected reporting workflow with Checks write |
 | GitHub Pages publication | Deploy job's Pages write permission and short-lived OIDC identity; main-only environment |
 | Release decision | Human merge into main |
