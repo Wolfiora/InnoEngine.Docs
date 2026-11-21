@@ -142,6 +142,9 @@ Documentation follows the engine's Apache-2.0 license unless an individual asset
 
 Engine project guides use the same editorial ownership policy as API explanations. The linked Engine project guides row opens the index, and its square toggle reveals the flat list of project pages. Their registration is maintained in `reference/projects/content.json`.
 
+- Synchronization follows the API page policy for additions and removals. A new engine project that no project page owns receives a registered **Synced** guide: `tests/` projects under `contributing/testing/projects/`, `backends/` projects under `backends/projects/`, all others under `architecture/projects/`. When a project is removed, its Synced guide is deleted and an Authored guide is kept with an editorial warning.
+- A project page that is not in the registry is hand-authored. Synchronization never registers, rewrites or deletes it.
+
 - Generated metadata: `uid`, `symbol`, `title`, `kind`, `owners`, `sourceFingerprint`, optional `outdatedFor`, and `contracts`. Do not edit these fields to change source facts.
 - Authoring metadata: `source`, `description`, `outdated`, and optional aliases. `source: xml` (or an absent source field in a registered guide) permits synchronization to regenerate the body from the selected project source/XML facts. A nonempty author name protects the body.
 - `description: null` leaves the default description to the source/content pipeline. A nonempty list supplies the project introduction and the Purpose text in category tables. For example, `description: ["Select audio providers for a host composition."]` changes the Audio category explanation without editing a generated category page.
