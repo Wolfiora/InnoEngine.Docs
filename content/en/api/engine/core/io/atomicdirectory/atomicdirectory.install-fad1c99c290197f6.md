@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-sourceFingerprint: d2daa0c0e30039f248657bea349332a76505f056dc17e0a94c94e0fa009a52ad
+sourceFingerprint: bd12a74b54662e5179ab1fbdcc2f9d7c22227c65f8bbb3d2ecbeda0dbc50d2a4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -26,7 +26,7 @@ outdated: false
 
 ## Remarks
 
-The caller must serialize readers and writers while the two directory moves run. Cancellation before commit restores the previous destination without canceling rollback. A committed candidate is not canceled afterward. Backup cleanup runs after commit; its failure preserves the installed candidate and remaining backup.
+The caller must serialize readers and writers while the two directory moves run. Cancellation before commit restores the previous destination without canceling rollback. Cancellation observed after a blocked rename takes precedence over its timeout error. A committed candidate is not canceled afterward. Backup cleanup runs after commit; its failure preserves the installed candidate and remaining backup.
 
 ## Exceptions
 
@@ -42,4 +42,4 @@ The caller must serialize readers and writers while the two directory moves run.
 
 **Exception `T:System.AggregateException`:** Installation and restoration both fail; neither tree is deleted to force a rollback.
 
-**Exception `T:System.OperationCanceledException`:** Cancellation is requested before the candidate commits; any moved previous tree is restored.
+**Exception `T:System.OperationCanceledException`:** Cancellation is observed before the candidate commits, including while handling a failed rename. Any moved previous tree is restored.
