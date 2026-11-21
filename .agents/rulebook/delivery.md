@@ -3,7 +3,7 @@ tags: [delivery]
 ---
 # Delivery requirements
 
-Use English `type(scope): description` titles and English PR bodies. Describe final behavior, source identities, actual evidence, and unexecuted checks. Use `Aaron Liao <hsuankailiao@gmail.com>` as Git author and committer; do not add co-author trailers.
+Use English `type(scope): description` titles and English PR bodies. Describe final behavior, source identities, actual evidence, and unexecuted checks. A human vouches for every commit: its Git author and committer are the human contributor responsible for it. No agent, bot or application identity may appear as author, committer, `Co-authored-by` or any other attribution. The protected API synchronization is the only automated committer.
 
 Engine master exports complete API facts independently of unrelated functional matrices. Protected automation imports them into this repository's persistent draft branch. API prose ownership is per type/member; independent Manual content is not part of synchronization. No paired PR metadata, latest-engine-head match or full-engine source certificate is a website publication prerequisite.
 
