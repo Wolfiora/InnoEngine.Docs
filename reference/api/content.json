@@ -21104,14 +21104,14 @@
       "path": "content/en/api/engine/core/io/atomicdirectory/atomicdirectory.install-fad1c99c290197f6.md",
       "type": "engine:Inno.Core.IO:T:Inno.Core.IO.AtomicDirectory",
       "title": "AtomicDirectory.Install",
-      "contract": "093a53694a817440ecaef9d119a5a4234735d15b7f414ccdd4c9b906cf9c3a3e"
+      "contract": "ff62bb7a3eab8fa99b819f7592c748a9712582fea53babd72332f8428f49a8fc"
     },
     {
       "symbol": "engine:Inno.Core.IO:M:Inno.Core.IO.AtomicDirectory.Publish(System.String,System.String,System.Threading.CancellationToken)",
       "path": "content/en/api/engine/core/io/atomicdirectory/atomicdirectory.publish-16f283cae26877a1.md",
       "type": "engine:Inno.Core.IO:T:Inno.Core.IO.AtomicDirectory",
       "title": "AtomicDirectory.Publish",
-      "contract": "826868e5fb911ec693038f3a5d57012c5f1933a59b64ce5e1433243170b64bcd"
+      "contract": "215e6386126f1a38018499c3e7b7145950e7c7a6faee3924a7c157578b09be96"
     },
     {
       "symbol": "engine:Inno.Core.IO:M:Inno.Core.IO.AtomicFile.Install(System.String,System.String,System.Boolean)",

@@ -57,6 +57,19 @@ test('candidate validation has no App, deployment or cross-repository mutation p
   }
 });
 
+test('draft follows main by fast-forward only, with no commit, force or other branch', async () => {
+  const value = await workflow('synchronize-draft');
+  assert.deepEqual(value.on, { push: { branches: ['main'] } });
+  assert.deepEqual(value.permissions, { contents: 'write' });
+  assert.deepEqual(Object.keys(value.jobs), ['fast-forward']);
+  const steps = value.jobs['fast-forward'].steps;
+  for (const step of steps) if (step.uses) assert.match(step.uses, /@[a-f0-9]{40}$/);
+  const text = JSON.stringify(steps);
+  assert.match(text, /git push origin HEAD:refs\/heads\/draft/);
+  assert.equal(text.match(/git push/g).length, 1);
+  assert.doesNotMatch(text, /--force|push[^"]*\+|git (commit|merge |rebase|reset)|secrets\.|create-github-app-token|refs\/heads\/main/);
+});
+
 test('only validated main inputs can deploy the single Pages artifact', async () => {
   const value = await workflow('documentation');
   const deploy = value.jobs.deploy;

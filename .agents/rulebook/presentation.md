@@ -1,3 +1,7 @@
+---
+paths: ["src/**", "public/**", "astro.config.mjs"]
+tags: [presentation]
+---
 # Presentation requirements
 
 Use Astro/Starlight with readable Markdown content loaded directly from `content/en/`. The website is a presentation of the canonical content, not a separate source of API facts.

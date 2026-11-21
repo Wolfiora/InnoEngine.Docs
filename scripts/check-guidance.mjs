@@ -32,6 +32,11 @@ for (const file of guidance) {
   if (!doc.text.trim()) errors.push(`Empty guidance: ${file}`);
   if (file === 'AGENTS.md' && Buffer.byteLength(doc.text)>8192) errors.push('Root instructions exceed 8 KiB.');
   if (file.endsWith('/SKILL.md') && !doc.text.startsWith('---')) errors.push(`Skill metadata is missing: ${file}`);
+  if (/^\.agents\/rulebook\/(?!README\.md$).+\.md$/.test(file)) {
+    // The engine rule script reads these files from an explicit Docs checkout; keep its front matter contract valid here.
+    if (!/^---\n(?:(?:paths|tags): \[[^\]\n]+\]\n)+---\n/.test(doc.text)) errors.push(`Rule front matter needs one-line paths or tags lists: ${file}`);
+    if (Buffer.byteLength(doc.text) > 16384) errors.push(`Rule file exceeds 16 KiB: ${file}`);
+  }
   for (const link of doc.links) {
     if (/^[a-z][a-z0-9+.-]*:|^\/\//i.test(link)) continue;
     const [filePart,anchor] = link.split('#');

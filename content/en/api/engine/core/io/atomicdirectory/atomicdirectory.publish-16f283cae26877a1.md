@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-sourceFingerprint: e7fb550c1c22ce01343e414d15fb70692c42f1adde6345f692abe08e6ce02a0e
+sourceFingerprint: 5f49d14bc8d786dc2b68c5291d968ef0650e5e913c3c6cf8cca5f32d4c3dcb64
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -26,7 +26,7 @@ outdated: false
 
 ## Remarks
 
-Windows access and sharing failures are retried for at most two seconds to tolerate temporary readers. Failure preserves the candidate and any existing destination. A committed rename is not canceled afterward.
+Windows access and sharing failures are retried for at most two seconds to tolerate temporary readers. Cancellation observed after a blocked rename takes precedence over its timeout error. Failure preserves the candidate and any existing destination. A committed rename is not canceled afterward.
 
 ## Exceptions
 
@@ -38,4 +38,4 @@ Windows access and sharing failures are retried for at most two seconds to toler
 
 **Exception `T:System.UnauthorizedAccessException`:** The operating system continues denying access after the bounded retry window.
 
-**Exception `T:System.OperationCanceledException`:** Cancellation is requested before the directory is published.
+**Exception `T:System.OperationCanceledException`:** Cancellation is observed before publication, including while handling a failed rename.
