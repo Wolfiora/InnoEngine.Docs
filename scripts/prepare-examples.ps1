@@ -33,7 +33,7 @@ if ($LASTEXITCODE -ne 0 -or $tree -cne $binding.sourceTree) { throw 'Example sou
 if (![IO.File]::ReadAllText((Join-Path $engine 'Directory.Build.props')).Contains("'ApiReferences'")) {
     throw 'The selected engine revision predates isolated API-reference preparation. Synchronize an approved current API export before compiling changed examples.'
 }
-$transport = @(& (Join-Path $tooling 'tests/ci/Initialize-ValidationEntry.ps1') -Dotnet $Dotnet -LogPath (Join-Path $output 'bootstrap.log'))
+$transport = @(& (Join-Path $tooling 'tools/ci/Initialize-ValidationEntry.ps1') -Dotnet $Dotnet -LogPath (Join-Path $output 'bootstrap.log'))
 if ($transport.Count -ne 1) { throw 'Cannot identify the pinned example compiler transport.' }
 $catalog = Get-Content -LiteralPath (Join-Path $root 'artifacts/canonical-catalog.json') -Raw | ConvertFrom-Json -Depth 100
 $entry = Join-Path $engine 'entry/InnoEngine.Build/InnoEngine.Build.csproj'
@@ -52,7 +52,7 @@ $projects = @($plan.projects | ForEach-Object { [IO.Path]::GetFullPath($_, $engi
 if ($plan.needsScriptProjection) { $projects += $entry }
 $solutionPath = Join-Path $output 'managed-union.slnx'
 $managed = Join-Path $engine "artifacts/documentation-examples/managed/$configuration/$($hostTarget[0])"
-& (Join-Path $tooling 'tests/ci/Invoke-ManagedApiPreparation.ps1') -EngineRoot $engine -Dotnet $Dotnet `
+& (Join-Path $tooling 'tools/ci/Invoke-ManagedApiPreparation.ps1') -EngineRoot $engine -Dotnet $Dotnet `
     -Configuration $configuration -Projects $projects -Output $solutionPath -ArtifactsPath $managed `
     -Log (Join-Path $output 'managed-references.log')
 $arguments += @('--artifacts-path', $managed)
@@ -63,7 +63,7 @@ if ($plan.needsScriptProjection) {
     [IO.Directory]::CreateDirectory((Join-Path $scripts 'Assets')) | Out-Null
     Invoke-Managed @($cli[0], 'scripts', '--engine-root', $engine, '--dotnet', $Dotnet, '--project', $scripts,
         '--output', (Join-Path $scripts 'Export'), '--ide') 'logical-projections'
-    $logical = & (Join-Path $tooling 'tests/ci/Get-DocumentationScriptReferences.ps1') -Project (Join-Path $scripts 'Inno.EditorScripts.csproj')
+    $logical = & (Join-Path $tooling 'tools/ci/Get-DocumentationScriptReferences.ps1') -Project (Join-Path $scripts 'Inno.EditorScripts.csproj')
     $arguments += @('--runtime-reference', $logical.runtime, '--editor-reference', $logical.editor)
 }
 Invoke-Managed (@($transport[0], 'docs', 'validate-examples') + $arguments + @('--output', (Join-Path $output 'compiled.json'))) 'compile'
