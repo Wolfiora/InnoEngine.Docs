@@ -1,10 +1,15 @@
 ---
-title: Inno.Adapter.Storage.FileSystem
-description: Complete-value application storage under an explicitly owned filesystem root.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-adapter-storage-filesystem
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Storage.FileSystem
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Adapter.Storage.FileSystem
+description: Complete-value application storage under an explicitly owned filesystem root.
 ---
 # Inno.Adapter.Storage.FileSystem
 

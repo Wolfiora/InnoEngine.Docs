@@ -10,7 +10,7 @@ sourceFingerprint: 2e8df6ffefc31628dc36de1a53ee917e994bfc0fb82d55c7ce14b88ad2009
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Session ownership and frame-scoped access for a selected input backend.
 outdated: false

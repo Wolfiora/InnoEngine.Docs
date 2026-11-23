@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: source-clr
-sourceFingerprint: b2e3d9656dd2d8ec4f59272ddac3f0196fbd52e4e204f15eb1b9461caf61ba5b
+sourceFingerprint: da839db98bd670e4a62d22792416e2c3d6de6a6bb57d879f32fac7f911c0a593
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,6 +18,6 @@ outdated: false
 
 ## Parameters
 
-**Parameter `propertyId`:** Stable property identifier.
+**Parameter `propertyID`:** Stable property identifier.
 
 **Parameter `value`:** Serialized value.

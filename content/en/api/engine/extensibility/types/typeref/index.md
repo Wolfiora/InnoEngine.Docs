@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-sourceFingerprint: 009d5c03b1d89b729b43e37d60f4a174b94bc33c85a6e31129de16bd352ac858
+sourceFingerprint: 1211624bf45d13ac170b72cf8cbdb1000451cffab6abd853b9a5636041907854
 contracts:
 - project.inno-extensibility-types
 
@@ -20,4 +20,4 @@ aliases: []
 
 ## Remarks
 
-Equality and persistence use `P:Inno.Extensibility.Types.TypeRef.stableId`. The `P:Inno.Extensibility.Types.TypeRef.runtimeId` is only a generation-local resolution hint and can become stale after an assembly reload.
+Equality and persistence use `P:Inno.Extensibility.Types.TypeRef.stableID`. The `P:Inno.Extensibility.Types.TypeRef.runtimeID` is only a generation-local resolution hint and can become stale after an assembly reload.

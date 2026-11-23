@@ -6,11 +6,12 @@ title: Inno.Rendering.Assets
 kind: project
 owners:
 - Inno.Rendering.Assets
-sourceFingerprint: 022cbb363ac286cc27aa5b2c4f4cc990206700fc95c313923ee7968231df203e
+sourceFingerprint: 61a280787ec83418e5155019016dae24cdeded1ff986e51c2eff536c48258a1f
 contracts: []
+outdatedFor: 71a00c075c3b2ea6cd5a9ea72f1c40c6755e0a15e7741b56739c87cae24c134f
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Persistent neutral shader, material, texture, geometry and pipeline assets.
 outdated: false
@@ -30,7 +31,7 @@ This assembly owns runtime asset protocols, open IDs, serialization and target a
 
 ShaderDefinition is an editable declaration. ShaderAsset.SetDefinition captures and validates the complete nested state before replacing it; failure preserves the old definition and getters return independent copies. Material defaults and texture Asset references belong here. Pure compiled binding-interface facts belong to Rendering Core.
 
-Material technique selection uses open ShaderContractId, ShaderPassRoleId and actual device capabilities. The resolver has no built-in sprite/PBR or fixed-pass-tag worldview. Pipeline assets save an extension's Stable Type ID and neutral settings rather than a live provider.
+Material technique selection uses open ShaderContractID, ShaderPassRoleID and actual device capabilities. The resolver has no built-in sprite/PBR or fixed-pass-tag worldview. Pipeline assets save an extension's Stable Type ID and neutral settings rather than a live provider.
 
 ## Content and resource ownership
 
@@ -50,8 +51,8 @@ static MaterialPassResolution? SelectPass(
     MaterialAsset material,
     GraphicsCapabilities capabilities
 ) {
-    return MaterialPassResolver.Resolve(material, new ShaderContractId("sample.surface"),
-        new ShaderPassRoleId("sample.draw"), capabilities);
+    return MaterialPassResolver.Resolve(material, new ShaderContractID("sample.surface"),
+        new ShaderPassRoleID("sample.draw"), capabilities);
 }
 ```
 

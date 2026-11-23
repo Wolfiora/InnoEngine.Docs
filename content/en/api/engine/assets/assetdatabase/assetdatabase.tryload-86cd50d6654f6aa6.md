@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-sourceFingerprint: c36eda931f8a7714c89a544170dba46204a442125db1cfee41733f3390f64074
+sourceFingerprint: b86b8eba06033e5c0700e443b580b5a54a160d4fd01763e0b39019e53d8ddedf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,7 +22,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** The non-empty persistent asset identity.
+**Parameter `persistentID`:** The non-empty persistent asset identity.
 
 **Parameter `asset`:** Receives the canonical compatible asset when available.
 

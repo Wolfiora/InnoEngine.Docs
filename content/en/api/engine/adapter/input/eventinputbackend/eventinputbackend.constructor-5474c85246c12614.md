@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Input
 apiSurface: source-clr
-sourceFingerprint: faf70d03c67d1a5f0d72f404c2103c246dca0741423beae62f1d2437c4b52945
+sourceFingerprint: 7fe18d11e9a4aded90a5e4115301ba740429820613d20566ff9bace4764b3d67
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,4 +18,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `windowId`:** The translated event window identifier, or zero to accept input from every window.
+**Parameter `windowID`:** The translated event window identifier, or zero to accept input from every window.

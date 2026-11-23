@@ -37,7 +37,7 @@ Find types in this project category. Each type links to its exact declarations a
 | [BuildResult](buildresult/index.md) | Reports the immutable outcome, diagnostics, and optional durable output of one build. |
 | [BuildSettings](buildsettings/index.md) | Defines project-owned defaults copied into each temporary game or Plugin export request. |
 | [BuildSettingsStore](buildsettingsstore/index.md) | Persists project-owned export defaults independently from temporary export requests. |
-| [BuildTargetId](buildtargetid/index.md) | Identifies one stable platform and architecture combination supported by the game build pipeline. |
+| [BuildTargetID](buildtargetid/index.md) | Identifies one stable platform and architecture combination supported by the game build pipeline. |
 | [GameBuildContentContext](gamebuildcontentcontext/index.md) | Supplies isolated staging and profile data for target-specific offline artifact generation. |
 | [GameBuildPackageContext](gamebuildpackagecontext/index.md) | Supplies an isolated staging layout to a replaceable platform packager. |
 | [GameBuildRequest](gamebuildrequest/index.md) | Requests one game build from the current validated authoring generation. |

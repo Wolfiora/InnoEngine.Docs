@@ -1,10 +1,15 @@
 ---
-title: Product profile integration tests
-description: Follow these cases when changing product profile properties, shader profile selection, binding selection or product restore.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-productprofiles-integration-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.ProductProfiles.Integration.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Product profile integration tests
+description: Follow these cases when changing product profile properties, shader profile selection, binding selection or product restore.
 ---
 # Product profile integration tests
 

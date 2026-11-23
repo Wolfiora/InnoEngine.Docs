@@ -10,7 +10,7 @@ sourceFingerprint: a9f468381c2d2541d91630902faf5d97d82b0cb61677d8dc767e32cffa634
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - The ordinary SDK executable for build, validation and documentation commands.
 outdated: false
@@ -27,7 +27,7 @@ Use the task linked below before inspecting this implementation entry.
 
 ## Direct composition
 
-This .NET executable calls BuildApplication.Run through a normal project reference. Program adds the selected development target and appropriate configuration defaults only to the commands that need them. An empty invocation selects support; game publication still uses explicit caller targets. It does not prepare and reflectively load another CLI assembly at startup.
+This .NET executable calls BuildApplication.RunAsync through a normal project reference. Program adds the selected development target and appropriate configuration defaults only to the commands that need them. An empty invocation selects support; game publication still uses explicit caller targets. It does not prepare and reflectively load another CLI assembly at startup.
 
 The entry owns its CancellationTokenSource and Ctrl+C subscription, removes the handler on exit, and maps cancellation/unhandled failure to nonzero exit codes. It holds support-artifact reading protection until consumers finish. The CLI and standard distribution own actual command implementation.
 

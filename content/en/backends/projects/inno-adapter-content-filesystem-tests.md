@@ -1,10 +1,15 @@
 ---
-title: Filesystem content-cache tests
-description: Verify complete generations, cross-process readers and failure-safe publication.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-adapter-content-filesystem-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Content.FileSystem.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Filesystem content-cache tests
+description: Verify complete generations, cross-process readers and failure-safe publication.
 ---
 # Filesystem content-cache tests
 
@@ -27,7 +32,7 @@ Unknown ownership of an old generation is reported after the new content commits
 Use [the validation plan](../../contributing/validate-change.md). A focused filesystem diagnostic is:
 
 ```powershell
-dotnet test backends/FileSystem/tests/Inno.Adapter.Content.FileSystem.Tests/Inno.Adapter.Content.FileSystem.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/backends/FileSystem/runtime/Inno.Adapter.Content.FileSystem.Tests/Inno.Adapter.Content.FileSystem.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 The contract suite requires actual filesystem and child-process facilities. Fixtures own their temporary roots and release stream pins before cleanup. A cache pass is not platform packaging or device execution evidence.

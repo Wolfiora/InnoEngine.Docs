@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-sourceFingerprint: 06de9a1f599b9061f38605c8df10363f77e4e1658a850b0ac6d9e9e956113dae
+sourceFingerprint: cf70b820fb52b52981222b6e56bdce1ae28253abe032c2c46f55d4d50a32f950
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,10 +20,6 @@ outdated: false
 
 **Parameter `entry`:** The immutable entry to persist.
 
-## Remarks
-
-The router owns scheduling and backpressure. Write failures propagate to its sink quarantine. Retention cannot remove files locked by another active writer and retries them on later rotation.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** The sink has been disposed.
@@ -33,3 +29,7 @@ The router owns scheduling and backpressure. Write failures propagate to its sin
 **Exception `T:System.UnauthorizedAccessException`:** The caller cannot create the next log file or access the directory.
 
 **Exception `T:System.InvalidOperationException`:** A previous failed rotation left no writable file.
+
+## Remarks
+
+The router owns scheduling and backpressure. Write failures propagate to its sink quarantine. Retention cannot remove files locked by another active writer and retries them on later rotation.

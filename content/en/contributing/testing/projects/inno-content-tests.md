@@ -1,10 +1,15 @@
 ---
-title: Content-pack admission and reader tests
-description: Verify portable keys, immutable indexes and independently retained readers.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-content-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Content.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Content-pack admission and reader tests
+description: Verify portable keys, immutable indexes and independently retained readers.
 ---
 # Content-pack admission and reader tests
 
@@ -21,7 +26,7 @@ The project declares the `contract` validation layer. Use [the shared validation
 A focused diagnostic from the engine root is:
 
 ```powershell
-dotnet test tests/content/Inno.Content.Tests/Inno.Content.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/content/deployment/Inno.Content.Tests/Inno.Content.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 Use `--filter FullyQualifiedName~MethodName` to investigate one case. A filtered run does not replace the obligations in the validation plan. Restore the declared SDK, packages and any tool/process prerequisites before executing; preserve cancellation, thread and cleanup requirements.

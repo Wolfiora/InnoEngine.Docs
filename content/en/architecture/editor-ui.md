@@ -1,9 +1,9 @@
 ---
-title: How Editor interactions reach engine state
-description: Follow one command, gesture or frame through feature, History,
-  presentation and host ownership.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.editor-ui
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Core
   - Inno.Editor.Interactions
@@ -11,6 +11,11 @@ owners:
 contracts:
   - architecture.editor-generations
   - architecture.ownership
+
+# Authoring metadata. Edit these fields and the text below.
+title: How Editor interactions reach engine state
+description: Follow one command, gesture or frame through feature, History,
+  presentation and host ownership.
 ---
 # How Editor interactions reach engine state
 
@@ -50,7 +55,7 @@ Multi-object property edits identify the root member and optional scalar compone
 
 ## Keep presentation state with its owner
 
-Each interaction host owns an `EditorUiSession`; `current` is a synchronous scope accessor, not a global lifetime owner. Frame, window, context and owner-thread borrows cannot escape their scopes. A failed extension unwinds its own Begin/End and push/pop state; it cannot reset another owner's native stack to recover.
+Each interaction host owns an `EditorUISession`; `current` is a synchronous scope accessor, not a global lifetime owner. Frame, window, context and owner-thread borrows cannot escape their scopes. A failed extension unwinds its own Begin/End and push/pop state; it cannot reset another owner's native stack to recover.
 
 The backend selects the context, refreshes display metrics and runs preparation before native NewFrame. Preparation/drawing/publication reject reentry and retirement. Preparation failure opens no frame; drawing failure closes only its owned frame and publishes no partial draw data. Callers still balance the scopes they opened.
 

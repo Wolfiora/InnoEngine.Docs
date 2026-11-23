@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-sourceFingerprint: a1861b8c216e5b61a3cdc0cd1038cbd75f3957e00d4490ae562b2441c60aebe8
+sourceFingerprint: 15a8039e7424faaaf5da5c04154a88216d0984fa27d90b1edffc1a999a2dee22
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,6 +18,6 @@ outdated: false
 
 ## Parameters
 
-**Parameter `windowId`:** The window id used to initialize this instance.
+**Parameter `windowID`:** The window id used to initialize this instance.
 
 **Parameter `button`:** The button used to initialize this instance.

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: source-clr
-sourceFingerprint: fee754d0c5a162095dce7730838c0d7100f34de17aae88eb541225a278b11bdc
+sourceFingerprint: 58aadf7a97f2dd21dd5919382bffaafcb90a1e8a9f01668886275446ee7dc156
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `bindingId`:** Stable target binding identifier.
+**Parameter `bindingID`:** Stable target binding identifier.
 
 **Parameter `interpolation`:** Sampling rule between adjacent keyframes.
 

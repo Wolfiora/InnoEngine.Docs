@@ -1,9 +1,9 @@
 ---
-title: Read project settings
-description: Read isolated settings snapshots, qualify project names, and
-  refresh caches after a generation change.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.projects.read-settings
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Settings
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.Core.Settings
+
+# Authoring metadata. Edit these fields and the text below.
+title: Read project settings
+description: Read isolated settings snapshots, qualify project names, and
+  refresh caches after a generation change.
 ---
 # Read project settings
 
@@ -25,15 +30,15 @@ using InnoEngine.Settings;
 
 public static class ProjectNames
 {
-    public static ProjectScopedId MainMenu() => Settings.QualifyId("main-menu");
+    public static ProjectScopedID MainMenu() => Settings.QualifyID("main-menu");
 
-    public static ProjectId CurrentProject() => Settings.projectId;
+    public static ProjectID CurrentProject() => Settings.projectID;
 }
 ```
 
 Call the facade only during execution with an active project settings scope. No active scope is an error, not a request to use global defaults. Host and Editor infrastructure should receive an explicit `IProjectSettingsLookup` instead of resolving the static facade.
 
-For a declared setting, use `Settings.Get<TSetting>(settingId)` or `TryGet<TSetting>`. The standard owner returns an independently reconstructed value. Changing that value does **not** update effective settings or save the project. Authoring requires the host's explicit override operation.
+For a declared setting, use `Settings.Get<TSetting>(settingID)` or `TryGet<TSetting>`. The standard owner returns an independently reconstructed value. Changing that value does **not** update effective settings or save the project. Authoring requires the host's explicit override operation.
 
 ## Handle unavailable settings
 
@@ -43,7 +48,7 @@ A temporarily Missing definition does not require deleting its authored contribu
 
 ## Refresh cached values
 
-Pair `Settings.ownerId` with `Settings.revision` when retaining a snapshot. Revisions from two owners are not interchangeable. A successful effective-state update advances the revision; a failed generation transaction can restore its previous revision together with its previous values.
+Pair `Settings.ownerID` with `Settings.revision` when retaining a snapshot. Revisions from two owners are not interchangeable. A successful effective-state update advances the revision; a failed generation transaction can restore its previous revision together with its previous values.
 
 Acquire the value at a host-coordinated point where settings cannot change between reading the identity and reading the value. Separate facade property calls are not a multi-call transaction. Do not retain old-generation setting objects across retirement, and do not register a static reload callback merely to observe revisions.
 

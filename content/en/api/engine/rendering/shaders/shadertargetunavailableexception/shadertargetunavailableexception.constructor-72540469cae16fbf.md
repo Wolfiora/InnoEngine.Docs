@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-sourceFingerprint: c6bb1241dcbc31fc7fc6d661c8323fb504620859599884157c6c047053379657
+sourceFingerprint: da0005d92cd9ca72180328a6e8f266feb15001cbcc89fbf1bd7db1152376137f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,4 +18,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `targetId`:** The stable authored target identity.
+**Parameter `targetID`:** The stable authored target identity.

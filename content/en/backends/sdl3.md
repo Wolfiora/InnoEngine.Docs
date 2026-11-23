@@ -1,9 +1,9 @@
 ---
-title: SDL3 platform backend
-description: Understand SDL window ownership, host integration, event routing
-  and generated native bindings.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: backends.sdl3
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Platform.Sdl3
   - Inno.Build.Toolchains.Sdl3
@@ -11,6 +11,11 @@ owners:
 contracts:
   - architecture.ownership
   - architecture.build-artifacts
+
+# Authoring metadata. Edit these fields and the text below.
+title: SDL3 platform backend
+description: Understand SDL window ownership, host integration, event routing
+  and generated native bindings.
 ---
 # SDL3 platform backend
 

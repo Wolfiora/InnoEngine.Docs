@@ -1,13 +1,18 @@
 ---
-title: Recover missing scene scripts
-description: Keep logical component and system state intact while a type is
-  temporarily unavailable.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.scenes.missing
 kind: troubleshooting
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Scene
 contracts:
   - project.inno-scene#lifecycle-and-recovery-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: Recover missing scene scripts
+description: Keep logical component and system state intact while a type is
+  temporarily unavailable.
 ---
 # Recover missing scene scripts
 

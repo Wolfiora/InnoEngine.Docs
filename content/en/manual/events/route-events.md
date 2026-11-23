@@ -1,9 +1,9 @@
 ---
-title: Route and consume events
-description: Order event handlers, apply bounded admission, and release
-  subscriptions with their owner.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.events.route-events
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Events
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.Core.Events
+
+# Authoring metadata. Edit these fields and the text below.
+title: Route and consume events
+description: Order event handlers, apply bounded admission, and release
+  subscriptions with their owner.
 ---
 # Route and consume events
 

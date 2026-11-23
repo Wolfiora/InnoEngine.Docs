@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Hosting
 apiSurface: source-clr
-sourceFingerprint: 428ad974fbd256858c1573e70234cd94094b17a905e191853bac1051f0a78c3f
+sourceFingerprint: fa26dbf6a565669366736d597fc13134746d23519522c9b0bfb87f28048f4b8d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-sourceFingerprint: 909c3e18dbd21100dfeee8ed30cb212d6619ff7e97c839d3ea92033fd4bfd110
+sourceFingerprint: 1b928719395479c361198bc00c22b1fa2e159106fe13ec77924ebe84ae95a71e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-This does not route through the dispatcher hub chain. Only listeners registered on this hub are invoked.
-
 ## Parameters
 
 **Parameter `e`:** The event instance to dispatch locally.
+
+## Remarks
+
+This does not route through the dispatcher hub chain. Only listeners registered on this hub are invoked.

@@ -1,13 +1,18 @@
 ---
-title: Typed shader IR and frozen inputs
-description: Understand shader input identity, structured execution and exact
-  type semantics.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.shader-ir
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Rendering.Shaders
 contracts:
   - project.inno-rendering-shaders
+
+# Authoring metadata. Edit these fields and the text below.
+title: Typed shader IR and frozen inputs
+description: Understand shader input identity, structured execution and exact
+  type semantics.
 ---
 # Typed shader IR and frozen inputs
 
@@ -59,7 +64,7 @@ Source-function calls are conservatively treated as ordered side effects. An unu
 
 Ports use stable identities: `input.<name>`, `output.<name>` and `return`. An `inout` parameter has both input and output ports. Void return handling does not introduce a synthetic value port or bypass array/type validation.
 
-Required inputs need graph connections. Constants are graph nodes, not hidden Inspector overrides. An optional unconnected input receives a typed zero only when its type supports that operation. Storage resources, opaque textures and effect tokens do not acquire implicit optional/zero values. Legacy `input-default.<portId>` data is ignored.
+Required inputs need graph connections. Constants are graph nodes, not hidden Inspector overrides. An optional unconnected input receives a typed zero only when its type supports that operation. Storage resources, opaque textures and effect tokens do not acquire implicit optional/zero values. Legacy `input-default.<portID>` data is ignored.
 
 `ShaderGraphLiteral.Zero` supports scalars, vectors, floating-point matrices, structures and fixed arrays. Literals retain the full type and scalar bits in declared member/matrix-column order. Shape validation and emission require the exact expected type.
 

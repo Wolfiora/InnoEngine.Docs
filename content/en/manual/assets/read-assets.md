@@ -1,9 +1,9 @@
 ---
-title: Load and retain an asset
-description: Choose a logical asset identity and preserve the correct owner
-  while using its resources.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.assets.read
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Assets
   - Inno.Assets.Pipeline
@@ -14,6 +14,11 @@ exampleMode: host
 exampleProjects:
   - Inno.Assets
   - Inno.Assets.Pipeline
+
+# Authoring metadata. Edit these fields and the text below.
+title: Load and retain an asset
+description: Choose a logical asset identity and preserve the correct owner
+  while using its resources.
 ---
 # Load and retain an asset
 

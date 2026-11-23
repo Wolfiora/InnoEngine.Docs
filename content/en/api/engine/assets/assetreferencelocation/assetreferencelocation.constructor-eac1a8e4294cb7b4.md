@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-sourceFingerprint: c3c2f82af9af6a78a9ce2f6faadba2ae8b58343f1c691648cc7d3cf4ef48782c
+sourceFingerprint: a04844e9f41773193dfe67e3a4c5a07c49ff5208602fe868e500c733cec7764e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,7 +20,7 @@ outdated: false
 
 **Parameter `kind`:** The category of reference owner.
 
-**Parameter `ownerId`:** The owner's persistent identity.
+**Parameter `ownerID`:** The owner's persistent identity.
 
 **Parameter `ownerName`:** The display name captured for diagnostics.
 

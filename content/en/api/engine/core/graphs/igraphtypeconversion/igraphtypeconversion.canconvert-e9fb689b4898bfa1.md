@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: source-clr
-sourceFingerprint: 6baed40157715f4c3e8173caac589eccbf79cda57ce53eb828f030ace1690d28
+sourceFingerprint: 74bc123fc358f64b114a0b29d242d38b48ba50bac048c1c6da1c87172b667234
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,9 +18,9 @@ outdated: false
 
 ## Parameters
 
-**Parameter `sourceTypeId`:** Source value type identifier.
+**Parameter `sourceTypeID`:** Source value type identifier.
 
-**Parameter `destinationTypeId`:** Destination value type identifier.
+**Parameter `destinationTypeID`:** Destination value type identifier.
 
 ## Returns
 

@@ -6,13 +6,13 @@ title: Inno.Editor.Interactions
 kind: project
 owners:
 - Inno.Editor.Interactions
-sourceFingerprint: 8689705cd28c768b38504511ad673b3eea2ea31e0bdf628ac1818a6ac9d9d879
+sourceFingerprint: 1a5b5f9e5da3d48a2a7f682ef0494a1098d039309b2b3175377692f05e17719a
 contracts:
 - architecture.editor-generations
 - manual.identity-and-missing
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Presentation-independent actions, menus, selection, drag and drop, history and extension activation.
 outdated: false

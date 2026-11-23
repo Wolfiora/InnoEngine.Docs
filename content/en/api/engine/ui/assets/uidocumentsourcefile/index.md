@@ -1,21 +1,19 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.ui.assets.ad728b8164c50f97
-symbol: engine:Inno.UI.Assets:T:Inno.UI.Assets.UiDocumentSourceFile
-title: UiDocumentSourceFile
+uid: api.33772eaf5583a69fc4670dbaf5429a881863196a25f753e5f2de773f806553db
+symbol: engine:Inno.UI.Assets:T:Inno.UI.Assets.UIDocumentSourceFile
+title: UIDocumentSourceFile
 kind: api
 owners:
 - Inno.UI.Assets
 apiSurface: source-clr
-sourceFingerprint: 1dc8d520d9f04ccade0842e0af284dcb525645271d9ec4fdfe5a64152e47a826
-contracts:
-- project.inno-ui-assets#import-and-generation-contract
+sourceFingerprint: 26ecd8c6035699d4f55e8caa1a443d474a36b36f0d9d75d3bdf8980b28a28973
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---
 
 ## Parameters

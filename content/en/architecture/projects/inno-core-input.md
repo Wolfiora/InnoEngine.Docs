@@ -10,7 +10,7 @@ sourceFingerprint: 9d4c57503ae07f8a9d50b858cda41b10a5612a802d477e6a80f0c7cfa6a10
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Cross-platform key, modifier, mouse-button and cursor values without polling or frame-state ownership.
 outdated: false

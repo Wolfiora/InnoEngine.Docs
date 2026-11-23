@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: editor-script
-sourceFingerprint: d6393478d8fee6f8c1ee20faf67b41a60f80cfe93331b2b9167771063708b644
+sourceFingerprint: ebc13f11e8fcbb13b7533dcdb84134a12d96039edf81fb3561bfefba36c4ec38
 apiScope: Runtime
 contracts: []
 
@@ -19,4 +19,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `settingId`:** The setting protocol composed by the attributed type.
+**Parameter `settingID`:** The setting protocol composed by the attributed type.

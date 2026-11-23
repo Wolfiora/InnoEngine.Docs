@@ -1,11 +1,16 @@
 ---
-title: Inno.Build.Toolchains.Bgfx.Shaders
-description: "Offline shader-graph compilation through the engine's shared assets, typed IR and atomic artifact pipeline."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-toolchains-bgfx-shaders
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Build.Toolchains.Bgfx.Shaders]
 exampleMode: host
 exampleProjects: [Inno.Build.Toolchains.Bgfx.Shaders]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Build.Toolchains.Bgfx.Shaders
+description: "Offline shader-graph compilation through the engine's shared assets, typed IR and atomic artifact pipeline."
 ---
 # Inno.Build.Toolchains.Bgfx.Shaders
 

@@ -10,7 +10,7 @@ sourceFingerprint: c11fb8d246beb70861333aa8552f8a95814b006a695346ec026c73ae915ae
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Import encoded audio into runtime metadata and immutable audio-data artifacts.
 outdated: false

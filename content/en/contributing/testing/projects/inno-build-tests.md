@@ -1,10 +1,15 @@
 ---
-title: Product build and publication tests
-description: Verify real SDK composition, native publication, support packs and output ownership.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Product build and publication tests
+description: Verify real SDK composition, native publication, support packs and output ownership.
 ---
 # Product build and publication tests
 
@@ -16,11 +21,10 @@ The suite references the export feature and its presentation dependencies, rathe
 
 | Change | Relevant integration boundary |
 | --- | --- |
-| CLI admission or managed script command | [Command tests](inno-build-cli-tests.md) |
-| Frozen inputs, neutral graphs or cache protocol | [Toolchain tests](inno-build-toolchains-tests.md) |
-| Binding SDK generation and selection | [Binding tests](inno-build-bindings-tests.md) |
+| CLI admission or managed script command | [Command tests](inno-build-cli-integration-tests.md) |
+| Frozen inputs, neutral graphs or cache protocol | [Toolchain tests](inno-build-toolchains-integration-tests.md) |
+| Binding SDK generation and selection | [Binding tests](inno-build-bindings-integration-tests.md) |
 | Actual build, deployment or support-pack composition | This suite |
-| Real warm native cost comparison | [Native cost tests](inno-build-nativeperformance-tests.md) |
 
 Complete Editor script projections belong to the Editor Hosting test owner. This suite retains only the Editor Core, Interactions, Exporting and ImGui contracts its export workflows actually consume. A private Panel edit must not pull in all build tests merely through an unrelated complete Editor projection. Global architecture and documentation checks remain obligations of the plan, not repeated full-repository audits inside this suite.
 

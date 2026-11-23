@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-sourceFingerprint: 6434d566a10ebe5235387998f18c9ecece6f9678718542ba8259645086ef8979
+sourceFingerprint: 7b215dcf9d909095506a082a758b0bc4daf82d22d394db760662b3544065de4f
 apiScope: Runtime
 contracts: []
 
@@ -19,9 +19,9 @@ outdated: false
 
 ## Parameters
 
-**Parameter `sourceTypeId`:** Source value type identifier.
+**Parameter `sourceTypeID`:** Source value type identifier.
 
-**Parameter `destinationTypeId`:** Destination value type identifier.
+**Parameter `destinationTypeID`:** Destination value type identifier.
 
 ## Returns
 

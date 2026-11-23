@@ -6,11 +6,11 @@ title: Inno.Animation
 kind: project
 owners:
 - Inno.Animation
-sourceFingerprint: 5acf0882c8a02152279d759c20a3174d3344ffac1448589504162983c3217582
+sourceFingerprint: a370cc880329da3f9cfa572bab64a6450bc35276485e2010056599ee1b9dfe13
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Neutral clip sampling, explicit targets, value bindings and generation-checked playback.
 outdated: false

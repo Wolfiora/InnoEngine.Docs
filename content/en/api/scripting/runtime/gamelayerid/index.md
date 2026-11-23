@@ -1,21 +1,18 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.scene.runtime-script.07d96f69b9e113ba
-symbol: scripting:Inno.Scene:T:InnoEngine.Scene.GameLayerId
-title: GameLayerId
+uid: api.d0e24f93c38a1d9833c5ba3566fb1e480428cd6deff8a38bed2f5cdb2e030cb5
+symbol: scripting:Inno.Scene:T:InnoEngine.Scene.GameLayerID
+title: GameLayerID
 kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-sourceFingerprint: 49c624a06fd83c56cebef2eb3f15a7a35f42433784d47c906e67065a7ffefb31
+sourceFingerprint: 9957a8b33b3ade9bf434b7261e3409db663568468a37ef67b94fba21b70c588d
 apiScope: Runtime
-contracts:
-- manual.scripting.use-script-api
-- project.inno-scene#scene-ownership-contract
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

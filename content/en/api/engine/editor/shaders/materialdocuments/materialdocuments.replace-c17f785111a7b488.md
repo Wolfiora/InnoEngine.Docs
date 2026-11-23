@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders
 apiSurface: source-clr
-sourceFingerprint: a925dcc20fafcd3d95262b404eec0a7048de1da51dae78aa03872a8be980ec1b
+sourceFingerprint: 3068d1326a07ea1364e9abfdf5b15e55a4b8719252331bb061e8e2137a45e528
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `assetId`:** Open Material source identity.
+**Parameter `assetID`:** Open Material source identity.
 
 **Parameter `candidate`:** Detached edited Material.
 

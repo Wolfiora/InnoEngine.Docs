@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-sourceFingerprint: 560a72397b6daa6e902f2649928ad8d6e28b8a4908d4b4b52832c79629e18bb0
+sourceFingerprint: 494ecfa578bde1ce286abae9355b271c30c71bb66ee52658d80291c74778330d
 apiScope: Editor
 contracts: []
 
@@ -19,6 +19,6 @@ outdated: false
 
 ## Parameters
 
-**Parameter `documentId`:** Stable tab identity.
+**Parameter `documentID`:** Stable tab identity.
 
 **Parameter `isDirty`:** Whether the provider's current draft differs from its saved baseline.

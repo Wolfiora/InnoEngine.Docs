@@ -6,11 +6,11 @@ title: Inno.Plugins.Authoring
 kind: project
 owners:
 - Inno.Plugins.Authoring
-sourceFingerprint: 76f856080a7ab15d1f8684f8fdfee8fabe7e6942e1db6b737d80a3f247900d36
+sourceFingerprint: faef55d21bfe4d1c767f20bbb2af9dc76a0ae217624f2ca883b7d4700f1f45d2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Validated plugin packages, immutable asset mounts and coordinated availability changes.
 outdated: false

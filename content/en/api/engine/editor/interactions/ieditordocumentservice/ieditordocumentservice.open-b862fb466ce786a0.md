@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-sourceFingerprint: 3e21d54ba5560b38c425da9d137500d3375f00638f9cc5308bf3abd397032b00
+sourceFingerprint: 63812e429afe50e9099b631219c50bb2e423022dc03fa0b2ae536d0f19b04f17
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,7 +20,7 @@ outdated: false
 
 **Parameter `assetPath`:** Project asset path.
 
-**Parameter `assetId`:** Persistent asset identity when available.
+**Parameter `assetID`:** Persistent asset identity when available.
 
 ## Returns
 

@@ -6,11 +6,11 @@ title: Inno.Core.Collections
 kind: project
 owners:
 - Inno.Core.Collections
-sourceFingerprint: c06d0cf4fd856c0728e9b8cab61edf0bcbad2b8ccbd741ffd702fca434f658d1
+sourceFingerprint: babb84d6be2dbb0110fd7b2bd3e4baae80898dd724b945cd3b277e7b105b6ae0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Deterministic dependency relationships and reference-identity object indexes without resource lifecycle ownership.
 outdated: false

@@ -1,9 +1,9 @@
 ---
-title: Dynamic .NET serialization metadata
-description: Supply reflection-backed declaration access for authoring without
-  moving reflection into Core or retaining retired types globally.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: backends.dotnet-serialization
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Serialization.DotNet
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Adapter.Serialization.DotNet
+
+# Authoring metadata. Edit these fields and the text below.
+title: Dynamic .NET serialization metadata
+description: Supply reflection-backed declaration access for authoring without
+  moving reflection into Core or retaining retired types globally.
 ---
 # Dynamic .NET serialization metadata
 

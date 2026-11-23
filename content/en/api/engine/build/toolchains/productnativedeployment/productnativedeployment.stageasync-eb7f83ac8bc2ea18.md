@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 8cbbc00b0736dc320f67dc0cb6d7b7216f6a8e4200330026adc19d15b825d775
+sourceFingerprint: ea7c14927dcd1a140438b835b0cfea65f3d00dda1409ca37cb01660536e4c85e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -30,10 +30,6 @@ outdated: false
 
 Completion after copying and verifying payload, without creating transaction metadata in the candidate.
 
-## Remarks
-
-The caller must retain exclusive ownership and discard the entire candidate on failure or cancellation. This operation neither selects a publication nor replaces an existing native tree.
-
 ## Exceptions
 
 **Exception `T:System.ArgumentException`:** The product closure or candidate path is invalid.
@@ -43,3 +39,7 @@ The caller must retain exclusive ownership and discard the entire candidate on f
 **Exception `T:System.IO.IOException`:** The native tree already exists, or an input cannot be verified or copied.
 
 **Exception `T:System.OperationCanceledException`:** Cancellation prevents completing the unpublished candidate.
+
+## Remarks
+
+The caller must retain exclusive ownership and discard the entire candidate on failure or cancellation. This operation neither selects a publication nor replaces an existing native tree.

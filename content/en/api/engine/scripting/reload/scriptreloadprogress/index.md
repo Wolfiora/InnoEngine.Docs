@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Reload
 apiSurface: source-clr
-sourceFingerprint: 923df4040e8841e6424a6ee06058470d9c64756fe75913a458904ae6c9b892db
+sourceFingerprint: 2c17ff184517153f3d6e44a138a73337c82aa87bc061445c235ae5cdb7cb111b
 contracts:
 - project.inno-scripting-reload
 
@@ -20,7 +20,7 @@ aliases: []
 
 ## Parameters
 
-**Parameter `operationId`:** The host-local reload request sequence; zero precedes the first request.
+**Parameter `operationID`:** The host-local reload request sequence; zero precedes the first request.
 
 **Parameter `fraction`:** The fraction through compilation, activation and verified retirement.
 

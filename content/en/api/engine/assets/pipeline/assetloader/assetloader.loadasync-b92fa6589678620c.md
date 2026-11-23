@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-sourceFingerprint: 8158c673122de09a235524b6a5e590872c686683046041c2da7284d1f7040ad7
+sourceFingerprint: b7a95cad3af48cbede218aa69b6224594881889023aa1cdb45b2a8ee66c17165
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** The persistent asset identity.
+**Parameter `persistentID`:** The persistent asset identity.
 
 **Parameter `requestedAssetType`:** The required assignable asset type.
 

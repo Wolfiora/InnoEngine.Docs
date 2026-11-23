@@ -1,13 +1,18 @@
 ---
-title: Preview audio without sharing a Play generation
-description: Keep Editor previews, Play voices and completion events in their
-  owning runtime sessions.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.editor.audio-preview
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Audio
 contracts:
   - project.inno-editor-audio
+
+# Authoring metadata. Edit these fields and the text below.
+title: Preview audio without sharing a Play generation
+description: Keep Editor previews, Play voices and completion events in their
+  owning runtime sessions.
 ---
 # Preview audio without sharing a Play generation
 

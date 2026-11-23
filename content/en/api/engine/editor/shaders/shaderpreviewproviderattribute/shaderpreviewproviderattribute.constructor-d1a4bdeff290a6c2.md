@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders
 apiSurface: source-clr
-sourceFingerprint: acf05d4228422e5f53db7cf90ba1ec9d13131da13ef87859b7c55394a6e4d0bb
+sourceFingerprint: 42df8b84f416ff5115be95059ea68fabd4efdeedb07b3d0ef466ee0877633192
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,4 +18,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `contractId`:** Non-empty domain-owned contract identity.
+**Parameter `contractID`:** Non-empty domain-owned contract identity.

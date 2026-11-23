@@ -1,10 +1,15 @@
 ---
-title: "Editor history and navigation tests"
-description: "Verify atomic undo, retryable transitions and pointer ownership."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-editor-interactions-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Interactions.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Editor history and navigation tests"
+description: "Verify atomic undo, retryable transitions and pointer ownership."
 ---
 # Editor history and navigation tests
 
@@ -16,7 +21,7 @@ History cases move neutral changes between stacks, retain failed transitions for
 
 Planar navigation retains pan capture outside the canvas, releases it without relying on a local release event, and prevents orbit from stealing it. Zoom preserves the pointer anchor independently of display density.
 
-This domain owner excludes native preparation from transitive dependencies. Panel, Workbench, asset-browser and Console settings-discovery lifetimes remain with [presentation tests](inno-editor-presentation-tests.md).
+This domain owner excludes native preparation from transitive dependencies. Panel, Workbench, asset-browser and Console settings-discovery lifetimes remain with [presentation tests](inno-editor-core-tests.md).
 
 ## Environment and execution
 

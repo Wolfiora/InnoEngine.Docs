@@ -6,11 +6,11 @@ title: Inno.Scripting.Compiler
 kind: project
 owners:
 - Inno.Scripting.Compiler
-sourceFingerprint: 8eee3c68b78bd8c70760b7a48c8a189d5a477110b2cfe8f8ec9e2a72d97c839d
+sourceFingerprint: a7d221fb32b969fd1bf00f435742b13f5f6aeedc74e8b176aba9eaef53be7655
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - SDK-bound script compilation, logical API projection and immutable candidate artifacts.
 outdated: false

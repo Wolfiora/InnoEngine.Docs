@@ -6,11 +6,11 @@ title: Inno.Text.Runtime
 kind: project
 owners:
 - Inno.Text.Runtime
-sourceFingerprint: d607a19fdee72ace214b6b9f40be04231d8dc724283958f2b909699bf4354a68
+sourceFingerprint: b4a7c9d9750f02058064b217f95d9b7b3d06850e4a3eb3577b4420430317b76c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Session-owned font faces, immutable artifact leases and text execution scopes.
 outdated: false

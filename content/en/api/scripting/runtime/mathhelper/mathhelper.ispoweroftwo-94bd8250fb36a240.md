@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-sourceFingerprint: 19502fba97c91bdf5490bc5dd29380323f978ca961e6448fde631e264b0d7bbb
+sourceFingerprint: 8c0afb5725606af3e54f56d467c81f30372f50b276d3aafd1f44a42ff3dae11f
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` if `value` is powered by two; otherwise `false`.
-
 ## Parameters
 
 **Parameter `value`:** The concrete value read or transformed by this operation.
+
+## Returns
+
+`true` if `value` is powered by two; otherwise `false`.

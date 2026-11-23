@@ -6,11 +6,11 @@ title: Inno.Core.Serialization
 kind: project
 owners:
 - Inno.Core.Serialization
-sourceFingerprint: 4a5c8a216822e3e16bd03bbb5ade8c2852ad95ab8653566dbd23727d7dbd61b2
+sourceFingerprint: d8a5fafb7826be8f8d1961914bb6e48703b621a2afe940422fb41df2ae903f5c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Deterministic current-format values, explicit metadata, converter generations and neutral captures.
 outdated: false

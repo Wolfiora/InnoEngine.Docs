@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-sourceFingerprint: 738d2c315ead82733b1957a6c5f15fc4f1faacfc8bb1907b242b625533bc413f
+sourceFingerprint: d3cef134c3a644811ad57b4d0f6aa089f13f31e1cb97e781ae6c8c04c33c2948
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-A scale matrix.
-
 ## Parameters
 
 **Parameter `scale`:** The scale consumed by create scale; ownership remains with the caller unless explicitly stated otherwise.
+
+## Returns
+
+A scale matrix.

@@ -6,11 +6,11 @@ title: Inno.Player.Runtime
 kind: project
 owners:
 - Inno.Player.Runtime
-sourceFingerprint: 692ece461d286b03302ec1a659f266707e45643654cd7a4f8dae040d27cbd365
+sourceFingerprint: db5baccb4aaec4310c9d38fb45849cb9db8978132b037787f4d202d6384c237a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Shared desktop and Browser Player launch, content validation and application lifetime.
 outdated: false

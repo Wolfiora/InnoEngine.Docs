@@ -1,10 +1,15 @@
 ---
-title: Collection indexes and dependency tests
-description: Verify mutable indexes and deterministic dependency snapshots.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-collections-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Collections.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Collection indexes and dependency tests
+description: Verify mutable indexes and deterministic dependency snapshots.
 ---
 # Collection indexes and dependency tests
 
@@ -21,7 +26,7 @@ The project declares the `domain` validation layer. Use [the shared validation w
 A focused diagnostic from the engine root is:
 
 ```powershell
-dotnet test tests/core/Inno.Core.Collections.Tests/Inno.Core.Collections.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/foundation/core/Inno.Core.Collections.Tests/Inno.Core.Collections.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 Use `--filter FullyQualifiedName~MethodName` to investigate one case. A filtered run does not replace the obligations in the validation plan. Restore the declared SDK, packages and any tool/process prerequisites before executing; preserve cancellation, thread and cleanup requirements.
@@ -34,19 +39,19 @@ These representative methods are preserved from the original reference and check
 
 [Read the assertions](https://github.com/Wolfiora/InnoEngine/blob/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/tests/core/Inno.Core.Collections.Tests/DependencyGraphTests.cs). Representative entry points:
 
-- `NodesAndEdges_AreIdempotentAndVersionOnlyTracksChanges`
-- `ReplaceDependencies_UpdatesForwardAndReverseEdgesAtomically`
-- `RemoveNode_RemovesAllIncomingAndOutgoingEdges`
-- `RecursiveQueries_ReturnDeterministicTransitiveSnapshots`
+- `NodesAndEdgesAreIdempotentAndVersionOnlyTracksChanges`
+- `ReplaceDependenciesUpdatesForwardAndReverseEdgesAtomically`
+- `RemoveNodeRemovesAllIncomingAndOutgoingEdges`
+- `RecursiveQueriesReturnDeterministicTransitiveSnapshots`
 
 ### Indexed Object Store
 
 [Read the assertions](https://github.com/Wolfiora/InnoEngine/blob/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/tests/core/Inno.Core.Collections.Tests/IndexedObjectStoreTests.cs). Representative entry points:
 
-- `Add_Remove_Count_Clear`
-- `DefineKey_UniqueAndLookup`
-- `DefineKey_Unique_ThrowsOnDuplicateValueFromDifferentItems`
-- `DefineKey_Unique_AllowsResettingSameValueOnSameItem`
+- `AddRemoveCountClear`
+- `DefineKeyUniqueAndLookup`
+- `DefineKeyUniqueThrowsOnDuplicateValueFromDifferentItems`
+- `DefineKeyUniqueAllowsResettingSameValueOnSameItem`
 
 ## Extend safely
 

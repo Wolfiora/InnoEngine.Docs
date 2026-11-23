@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-sourceFingerprint: 9ffb28c3445c215119609b33fb96d7ec6af812066e3d2d13f0d75b3a608c26da
+sourceFingerprint: e4f57f5d99c2a64ea82c676922d63ee9bd9f1bae344f64ede7a87f2ccb6bd617
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,9 +22,9 @@ outdated: false
 
 **Parameter `serialization`:** The immutable converter generation pinned by the owning runtime session.
 
-**Parameter `identities`:** The session-owned allocator used for canonical runtime asset identities.
-
 **Parameter `types`:** The immutable type generation pinned by this runtime session, without refreshing authoring registries.
+
+**Parameter `identities`:** The session-owned allocator used for canonical runtime asset identities.
 
 **Parameter `residencyBudgetBytes`:** Maximum unpinned runtime payload bytes retained after lease release.
 

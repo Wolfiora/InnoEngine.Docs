@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-sourceFingerprint: 0e5ea4f0a5edcf25a367d4860c451c8dd3f56b0bef19a0b07aa41808b3cd8a1a
+sourceFingerprint: 149e473708f548377b3623c7d2493fc326e2be2721a01b7af6f3ddf66c7845bc
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-A scale matrix.
-
 ## Parameters
 
 **Parameter `v`:** The concrete value read or transformed by this operation.
+
+## Returns
+
+A scale matrix.

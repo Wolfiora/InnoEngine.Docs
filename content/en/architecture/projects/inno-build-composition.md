@@ -6,12 +6,12 @@ title: Inno.Build.Composition
 kind: project
 owners:
 - Inno.Build.Composition
-sourceFingerprint: e74c7f7a166123f59e2110a358fc2f576ab741d1eac63dcb5fc2bed34fb99e60
+sourceFingerprint: 3b767d838debdb3e70b14f437db4b14f8fac090fc290c7032ab3d167049850b0
 contracts: []
 outdatedFor: e5c39487aa33bbf227581a30202ad79fadfdc748c02a4d95453fa8ff5f06ac74
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Explicit platform, content and deployment contributions for an owned build pipeline.
 outdated: false

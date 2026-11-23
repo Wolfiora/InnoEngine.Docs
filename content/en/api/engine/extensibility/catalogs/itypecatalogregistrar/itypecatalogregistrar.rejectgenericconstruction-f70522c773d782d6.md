@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Catalogs
 apiSurface: source-clr
-sourceFingerprint: 27c06b7c540fc7ec238a4fd40564b74bf0098637852c05e3e23cecfddc283f87
+sourceFingerprint: 87f90e0853acdeee281ca5c0dc6fde321448736d9f02fa2d75ee6cce10039d0b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,10 +22,6 @@ outdated: false
 
 **Parameter `arguments`:** The complete closed argument set. The registrar copies this collection during registration.
 
-## Remarks
-
-This fact lets static resolution skip an inapplicable converter without attempting dynamic generic creation. Unknown constructions remain explicit deployment errors. Repeated rejections are idempotent.
-
 ## Exceptions
 
 **Exception `T:System.ArgumentException`:** The declaration or argument set is incomplete, open, or conflicts with a registered factory.
@@ -33,3 +29,7 @@ This fact lets static resolution skip an inapplicable converter without attempti
 **Exception `T:System.ArgumentNullException`:** The declaration or argument collection is null.
 
 **Exception `T:System.InvalidOperationException`:** The caller runs on another thread or retained this registrar after catalog composition completed.
+
+## Remarks
+
+This fact lets static resolution skip an inapplicable converter without attempting dynamic generic creation. Unknown constructions remain explicit deployment errors. Repeated rejections are idempotent.

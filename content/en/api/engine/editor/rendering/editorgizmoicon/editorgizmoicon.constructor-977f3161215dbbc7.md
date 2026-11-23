@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-sourceFingerprint: e2a768c78361b6b6bc67f64ad053894b2e2a290619b70acb9ddd59e6c2dfed44
+sourceFingerprint: ae9629947aa49cc48c5de4054e060e83042ca75cd9fb4292ee531a70e6461ff3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,4 +22,4 @@ outdated: false
 
 **Parameter `position`:** The vector3 value used to initialize this instance.
 
-**Parameter `iconId`:** The stable visual identity resolved by the Scene View presentation.
+**Parameter `iconID`:** The stable visual identity resolved by the Scene View presentation.

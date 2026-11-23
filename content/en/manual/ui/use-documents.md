@@ -1,9 +1,9 @@
 ---
-title: Display and update a UI document
-description: Load an imported document, manage its context, route input, and
-  hand resource deltas to a renderer.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.ui.use-documents
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.UI
   - Inno.UI.Runtime
@@ -13,6 +13,11 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.UI
+
+# Authoring metadata. Edit these fields and the text below.
+title: Display and update a UI document
+description: Load an imported document, manage its context, route input, and
+  hand resource deltas to a renderer.
 ---
 # Display and update a UI document
 
@@ -24,25 +29,25 @@ This service is separate from the Editor's host-driven panel framework. To add a
 
 The host must compose Input and UI runtime subsystems, select a backend, and provide an asset artifact lookup. The document must already be imported for that backend. The caller must hold the document asset through its normal asset lifetime; a handle returned by UI is not a new persistent asset identity.
 
-Use the script facade only inside an active UI execution scope. Host infrastructure should receive an explicit `IUiService`. The facade does not search for a backend, construct a global runtime, or marshal execution to its owning thread.
+Use the script facade only inside an active UI execution scope. Host infrastructure should receive an explicit `IUIService`. The facade does not search for a backend, construct a global runtime, or marshal execution to its owning thread.
 
 ## Load an imported document
 
-This Runtime script helper borrows a live `UiDocumentAsset`. It returns an owned context and its document. Keep the pair together and destroy the context when the screen closes. Context destruction also closes its documents.
+This Runtime script helper borrows a live `UIDocumentAsset`. It returns an owned context and its document. Keep the pair together and destroy the context when the screen closes. Context destruction also closes its documents.
 
 ```csharp
 using InnoEngine.UI;
 
 public static class DocumentScreen
 {
-    public static (UiContextHandle Context, UiDocumentHandle Document) Open(
-        UiDocumentAsset asset, int width, int height)
+    public static (UIContextHandle Context, UIDocumentHandle Document) Open(
+        UIDocumentAsset asset, int width, int height)
     {
-        UiContextHandle context = UI.CreateContext(
-            new UiContextOptions("main-screen", width, height));
+        UIContextHandle context = UI.CreateContext(
+            new UIContextOptions("main-screen", width, height));
         try
         {
-            UiDocumentHandle document = UI.LoadDocument(context, asset);
+            UIDocumentHandle document = UI.LoadDocument(context, asset);
             UI.ShowDocument(context, document);
             return (context, document);
         }
@@ -53,7 +58,7 @@ public static class DocumentScreen
         }
     }
 
-    public static void Close(UiContextHandle context) => UI.DestroyContext(context);
+    public static void Close(UIContextHandle context) => UI.DestroyContext(context);
 }
 ```
 
@@ -63,7 +68,7 @@ Use positive physical pixel dimensions and a finite positive density. Call `SetV
 
 ## Change content deliberately
 
-`SetText` takes plain Unicode text; the backend performs source-language escaping. Do not pre-escape user text. `SetContent` instead accepts a language-tagged `UiDocumentFragment` and intentionally replaces children with markup understood by the selected backend.
+`SetText` takes plain Unicode text; the backend performs source-language escaping. Do not pre-escape user text. `SetContent` instead accepts a language-tagged `UIDocumentFragment` and intentionally replaces children with markup understood by the selected backend.
 
 For `SetText`, `SetContent`, `SetAttribute` and `SetClass`, true means that the target element exists and the operation was applied. It does **not** mean that the new value differs from the old one. False means that the element was not found. Invalid context/document handles and backend errors still fail explicitly.
 
@@ -76,7 +81,7 @@ For `SetText`, `SetContent`, `SetAttribute` and `SetClass`, true means that the 
 3. Call `Render` and pass the result to the product's UI renderer.
 4. Keep the renderer's resource state across frames, applying resource updates and retirements as described in [consuming UI frames](../../extending/ui-render-frames.md).
 
-The ordinary `Update(context)` uses the runtime's captured input snapshot. It does not convert a whole-window pointer position into a sub-viewport coordinate system. Hosts embedding a UI surface must supply a correctly mapped `UiInputSnapshot` through the explicit overload.
+The ordinary `Update(context)` uses the runtime's captured input snapshot. It does not convert a whole-window pointer position into a sub-viewport coordinate system. Hosts embedding a UI surface must supply a correctly mapped `UIInputSnapshot` through the explicit overload.
 
 Event delivery is backend-specific. The current RmlUi adapter clears its queued events in a `finally` block, including when copying an event fails. A failed drain is not a promise that the same events can be replayed.
 
@@ -86,7 +91,7 @@ Event delivery is backend-specific. The current RmlUi adapter clears its queued 
 | --- | --- |
 | No active UI scope | Run inside the composed runtime frame or use an explicitly owned service. |
 | Document load rejected | Check Missing state, imported payload, language and exact backend implementation identity. |
-| Layout updates but nothing appears | Confirm the product consumes `UiRenderFrame` and submits its own rendering work. |
+| Layout updates but nothing appears | Confirm the product consumes `UIRenderFrame` and submits its own rendering work. |
 | Text does not render | Verify imported font declarations, artifact dependencies and supported face selection. |
 | Pointer input is offset | Map the input into the context's physical pixel coordinates. |
 | A setter returns false | Check the element ID in the loaded document, not an old document generation. |

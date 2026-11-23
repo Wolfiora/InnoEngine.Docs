@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: source-clr
-sourceFingerprint: 161ad44446fa17fec355c7934454250f7c969eeb432b44e858ee989e28544a9f
+sourceFingerprint: 77c192637b439c6bc1efa92c505214dfddacbfef2344bcf6a0e3de6161c36a09
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when every requested feature is available.
-
 ## Parameters
 
 **Parameter `required`:** The required consumed by supports; ownership remains with the caller unless explicitly stated otherwise.
+
+## Returns
+
+`true` when every requested feature is available.

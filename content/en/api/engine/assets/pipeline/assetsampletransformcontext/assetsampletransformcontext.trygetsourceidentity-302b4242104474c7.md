@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-sourceFingerprint: d641a330f7252569e136f39fbf54aca24b0120bc2f41fe7460c35722759b5b5c
+sourceFingerprint: 5d2d45ff4b2145ee8c4c637f8d171359d8c311863dd6b7902f4830a63c55ac04
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,9 +20,9 @@ outdated: false
 
 **Parameter `relativePath`:** Slash-separated source-local file path below the sample directory.
 
-**Parameter `oldId`:** Receives the installed source identity.
+**Parameter `oldID`:** Receives the installed source identity.
 
-**Parameter `newId`:** Receives the writable clone identity.
+**Parameter `newID`:** Receives the writable clone identity.
 
 ## Returns
 

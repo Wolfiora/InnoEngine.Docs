@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-sourceFingerprint: 828f6888cb876a14d0fc5ba2071b62bf7a714b7707c2e1792a91ea7bc8daa320
+sourceFingerprint: e8cda94c3264bb3d60fe67c09d68b9f4aee45a1c1f50966dfa2a5ba92808d2d9
 apiScope: Editor
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-The measured width and height.
-
 ## Parameters
 
 **Parameter `text`:** The text text validated by the measure text operation.
+
+## Returns
+
+The measured width and height.

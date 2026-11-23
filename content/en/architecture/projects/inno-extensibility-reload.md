@@ -6,11 +6,11 @@ title: Inno.Extensibility.Reload
 kind: project
 owners:
 - Inno.Extensibility.Reload
-sourceFingerprint: e84524c7898d7415b7964020197cb9ac40e8c934d9904d8cce00e3d9c2125180
+sourceFingerprint: 140a6ed46f12d880c2bd3ac2f0f9d2ae043df68294460186c36acfb1aedf9ccf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Shared generation admission, ordered domain publication and weak collectible-unload verification.
 outdated: false

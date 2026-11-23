@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-sourceFingerprint: 5f0a297c5dffc224514b9a73b92d53550ca607737c2fadf55c72ef365c3b9be1
+sourceFingerprint: 053745fb9bb30d247f357a584c70e85a5c82b754a02a5e98e77fc29907e1bbea
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-An unfinished release may throw RetirementPendingException. The owner retains the asset and retries this hook; completed steps must not be repeated. Other failures are terminal and are reported by the owner.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Owned work has not quiesced; runtime payload and ownership must remain intact until a later attempt.
+
+## Remarks
+
+An unfinished release may throw RetirementPendingException. The owner retains the asset and retries this hook; completed steps must not be repeated. Other failures are terminal and are reported by the owner.

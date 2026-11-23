@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: f070994210a9358b96b4b84f5b8f1443daf4b2b7f4160e84137cd23e8930781b
+sourceFingerprint: fba93c4b053fd22bdacd4388d5a9e5844a59c4ea8ea3e9ef3394c3b82ac9b87f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `logicalId`:** The unique producer-owned output identity.
+**Parameter `logicalID`:** The unique producer-owned output identity.
 
 **Parameter `file`:** The absolute output path retained by the product's reading ownership.
 

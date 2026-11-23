@@ -1,9 +1,9 @@
 ---
-title: Frozen Native preparation and deployment
-description: Follow source, generated input and artifact ownership through cold
-  and warm product preparation.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.native-preparation
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.Toolchains
   - Inno.Build.Bindings
@@ -12,6 +12,11 @@ contracts:
   - project.inno-build-toolchains
   - project.inno-build-bindings
   - project.inno-build-tasks
+
+# Authoring metadata. Edit these fields and the text below.
+title: Frozen Native preparation and deployment
+description: Follow source, generated input and artifact ownership through cold
+  and warm product preparation.
 ---
 # Frozen Native preparation and deployment
 

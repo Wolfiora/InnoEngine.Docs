@@ -4,6 +4,8 @@ Choose the reader's task before choosing a page. Use the pinned engine source an
 
 Read the [documentation rulebook](.agents/rulebook/README.md). It is the same authority used by agent contributors.
 
+To add a hand-written page, follow [Create a documentation page](content/en/contributing/create-a-page.md) for its metadata groups, navigation entry and checks. Hand-written pages are independent of API synchronization.
+
 Use the Node version in `.node-version`, install with `npm ci`, then run `npm run docs:prepare` before `npm run dev` or `npm run check`. `npm run build` prepares missing or stale content automatically, renders the website and validates the resulting projection. It can fetch the exact public engine tooling revision and install its SHA-512-verified SDK locally; only the managed documentation dependency closure builds. Optional `INNO_DOCS_ENGINE_ROOT` selects an existing clean checkout at the bound tooling revision, and `INNO_DOCS_DOTNET` selects its exact SDK. Ordinary prepared-snapshot queries remain read-only and offline. Preview output is not a certification of engine behavior.
 
 Start from the persistent `draft` branch. Feature PRs into draft validate and provide previews. A maintainer manually merges draft into main using a merge commit. After current Documentation validation passes, GitHub Pages publishes the existing verified archive without rebuilding. Keep draft for subsequent work. Only main can deploy. See [publication setup](content/en/contributing/publish-documentation.md).

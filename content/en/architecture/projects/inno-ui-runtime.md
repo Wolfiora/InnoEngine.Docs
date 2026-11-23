@@ -6,18 +6,19 @@ title: Inno.UI.Runtime
 kind: project
 owners:
 - Inno.UI.Runtime
-sourceFingerprint: 173d0b80e305756d673ebd935181cf411076e09143c01f6a711fcfea8fbbb3cd
+sourceFingerprint: 0e14f7babc307132e6a920e4d33b31d20a2b332b87f2013b177691dcc9b314e5
 contracts: []
+outdatedFor: e18fdae798a4e64a387dfea5d329d503111380706d10da3ef55b2683714a8daf
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Session-owned UI service, input capture, imported document loading and retained font artifacts.
 outdated: false
 ---
 # Inno.UI.Runtime
 
-`UiRuntime` connects the neutral UI contract to one selected backend and an asset artifact lookup. `UiRuntimeFactory` creates a new instance for each runtime session. Product composition supplies the actual backend and its prerequisites.
+`UIRuntime` connects the neutral UI contract to one selected backend and an asset artifact lookup. `UIRuntimeFactory` creates a new instance for each runtime session. Product composition supplies the actual backend and its prerequisites.
 
 ## Session and font ownership
 
@@ -29,7 +30,7 @@ Closing a document or destroying its context releases corresponding font referen
 
 ## Input and presentation
 
-The implicit update overload uses captured input without converting whole-window coordinates to an embedded viewport. Use the explicit `UiInputSnapshot` overload when the host must map input. The runtime returns backend-produced events and frames; a separate rendering integration owns GPU submission and retirement.
+The implicit update overload uses captured input without converting whole-window coordinates to an embedded viewport. Use the explicit `UIInputSnapshot` overload when the host must map input. The runtime returns backend-produced events and frames; a separate rendering integration owns GPU submission and retirement.
 
 ## Use and extension
 

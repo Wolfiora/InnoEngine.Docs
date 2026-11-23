@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-sourceFingerprint: 5fd06f5c486482136d268c7a8a4d92ebe204a4684c5187c88fcb17691a2bf6cc
+sourceFingerprint: b92545656908fd3f851518b5d196c5af3b9f078da686f347b2eec4c3577d5da1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `panelId`:** The stable panel identifier to resolve.
+**Parameter `panelID`:** The stable panel identifier to resolve.
 
 ## Returns
 
@@ -26,4 +26,4 @@ outdated: false
 
 ## Exceptions
 
-**Exception `T:System.ArgumentException`:** Thrown when `panelId` is empty.
+**Exception `T:System.ArgumentException`:** Thrown when `panelID` is empty.

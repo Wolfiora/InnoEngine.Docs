@@ -1,11 +1,16 @@
 ---
-title: Logs and diagnostics
-description: Use the Editor Console to distinguish historical events from problems that remain active.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.editor.console
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Panel.Logging
   - Inno.Editor.Diagnostics
+
+# Authoring metadata. Edit these fields and the text below.
+title: Logs and diagnostics
+description: Use the Editor Console to distinguish historical events from problems that remain active.
 aliases:
   - console
   - logging

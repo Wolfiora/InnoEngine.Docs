@@ -1,14 +1,19 @@
 ---
-title: Export a game or plugin
-description: Prepare a target Support Pack, run one owned export and diagnose
-  cancellation or publication failures.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.editor.export
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Exporting
 contracts:
   - project.inno-editor-exporting
   - project.inno-build
+
+# Authoring metadata. Edit these fields and the text below.
+title: Export a game or plugin
+description: Prepare a target Support Pack, run one owned export and diagnose
+  cancellation or publication failures.
 ---
 # Export a game or plugin
 

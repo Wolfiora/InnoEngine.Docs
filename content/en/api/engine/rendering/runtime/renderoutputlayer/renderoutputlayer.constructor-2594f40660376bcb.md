@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-sourceFingerprint: 02424bf5d230b8ba0d16690bf205dcdf328cb0c2df2894711d1618400123b96f
+sourceFingerprint: 1c2ec44759bda0f7478ccc916d070dbcb7c04ab8cfb6837f5a94360a2e63c989
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,6 +18,6 @@ outdated: false
 
 ## Parameters
 
-**Parameter `modelId`:** Stable render-model or Editor contributor ID.
+**Parameter `modelID`:** Stable render-model or Editor contributor ID.
 
-**Parameter `sourceIds`:** World-content sources exclusively owned by this layer.
+**Parameter `sourceIDs`:** World-content sources exclusively owned by this layer.

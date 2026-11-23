@@ -1,9 +1,9 @@
 ---
-title: Schedule bounded frame jobs
-description: Choose a scheduler strategy, express dependencies, complete a frame
-  and drain owner-thread callbacks.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.execution.schedule-frame-jobs
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Jobs
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.Jobs
+
+# Authoring metadata. Edit these fields and the text below.
+title: Schedule bounded frame jobs
+description: Choose a scheduler strategy, express dependencies, complete a frame
+  and drain owner-thread callbacks.
 ---
 # Schedule bounded frame jobs
 

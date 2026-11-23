@@ -1,9 +1,14 @@
 ---
-title: Shared native Editor test fixtures
-description: Exercise real panels, input and authoring composition without copying lifecycle code.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-testing-editor-native
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Testing.Editor.Native]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Shared native Editor test fixtures
+description: Exercise real panels, input and authoring composition without copying lifecycle code.
 ---
 # Shared native Editor test fixtures
 
@@ -33,7 +38,7 @@ Retirement preserves the established order for interaction, native UI, Console, 
 
 ## Infrastructure boundary
 
-This library declares `IsTestProject=false` and uses `xunit.assert` without the `xunit.core` build configuration. It has no independently discovered cases or execution layer. [Play Mode](inno-editor-playmode-tests.md), [Editor scale](inno-editor-performance-tests.md) and other actual consumers declare their own execution and native prerequisites.
+This library declares `IsTestProject=false` and uses `xunit.assert` without the `xunit.core` build configuration. It has no independently discovered cases or execution layer. [Play Mode](inno-editor-playmode-native-tests.md) and other actual consumers declare their own execution and native prerequisites.
 
 Its public support API remains documented, including overloads and ownership. Being under `tests/` does not exempt it from signature coverage; test discovery classes and reusable infrastructure have different responsibilities.
 

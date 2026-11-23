@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: source-clr
-sourceFingerprint: 0bcd36c958f011568097773e8a80466e9a033862fa9844b59b1db12028d87413
+sourceFingerprint: d35d6de1839e488f5c5afd22d30d99c6c2d789b40078e26c946c3e1ed274e8df
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,6 +20,6 @@ outdated: false
 
 **Parameter `code`:** The stable issue code.
 
-**Parameter `semanticId`:** The optional protocol identifier used at publication.
+**Parameter `semanticID`:** The optional protocol identifier used at publication.
 
-**Parameter `objectId`:** The optional persistent object identity used at publication.
+**Parameter `objectID`:** The optional persistent object identity used at publication.

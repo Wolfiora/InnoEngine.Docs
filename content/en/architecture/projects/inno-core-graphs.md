@@ -6,11 +6,11 @@ title: Inno.Core.Graphs
 kind: project
 owners:
 - Inno.Core.Graphs
-sourceFingerprint: 4da32a258c826d2ab4d38f7412e4584a1d5eb5aa88102c9ea438ed59d2b31408
+sourceFingerprint: 77df69585e24dc0172e074cbe09223f67ca5dadcea24c010cd5cd89ce4a5f7ce
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Neutral editable graph documents, generation-scoped definitions, topology validation and current-format serialization.
 outdated: false

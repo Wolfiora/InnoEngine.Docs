@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Panel.Inspector
 apiSurface: editor-script
-sourceFingerprint: b79b5d8be724d3a5e890db5ecb4fdc16efcaf7b0f6304551a5a4655139f28372
+sourceFingerprint: 3a9e3cec10b478cbdb6a8341ed4d7808870c4b2a6b5ed64063950a8208899c8b
 apiScope: Editor
 contracts: []
 
@@ -19,4 +19,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** The stable persistent identity used for lookup.
+**Parameter `persistentID`:** The stable persistent identity used for lookup.

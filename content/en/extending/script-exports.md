@@ -1,9 +1,9 @@
 ---
-title: Declare a script export
-description: Expose a deliberate feature-owned type surface without a central
-  module list or runtime identity alias.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.script-exports
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Scripting.Api
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Scripting.Api
+
+# Authoring metadata. Edit these fields and the text below.
+title: Declare a script export
+description: Expose a deliberate feature-owned type surface without a central
+  module list or runtime identity alias.
 ---
 # Declare a script export
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-sourceFingerprint: 718bf4618f42dc245d208ebedfe71aaca0653059a4323e94f49923af26e368eb
+sourceFingerprint: bd5c6ec3072bd4c1dd17f44ecb5f21f96717909b3d614b740dc46f8207c57b97
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-Runs on a worker with a pinned extension generation. Access only transaction-owned files and context data, observe cancellation, and do not access live Assets or Editor state.
-
 ## Parameters
 
 **Parameter `context`:** The transaction-owned staged clone.
+
+## Remarks
+
+Runs on a worker with a pinned extension generation. Access only transaction-owned files and context data, observe cancellation, and do not access live Assets or Editor state.

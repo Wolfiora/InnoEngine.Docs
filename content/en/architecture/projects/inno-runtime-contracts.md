@@ -6,11 +6,12 @@ title: Inno.Runtime.Contracts
 kind: project
 owners:
 - Inno.Runtime.Contracts
-sourceFingerprint: fafce43d0a97f6e40c6f936d343dfb40c11072dd6ce3f98471f0c803fe689abf
+sourceFingerprint: 667291e1379629d92d74398f72218919f4b0405ecab27a12927616ab176d378a
 contracts: []
+outdatedFor: 5fce8c9cdfa729cf2849a5647cffbbdac712b32e63058d3961d9b304e57fc545
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Neutral subsystem lifecycle, finite frame phases and owned retirement protocols.
 outdated: false
@@ -73,10 +74,10 @@ public sealed class CounterRuntime : RuntimeSubsystem
 using Inno.Runtime.Contracts;
 
 var descriptor = new RuntimeSubsystemDescriptor(
-    new RuntimeSubsystemId("sample.capture"),
+    new RuntimeSubsystemID("sample.capture"),
     lifetime: RuntimeSubsystemLifetime.Host,
     requirement: RuntimeSubsystemRequirement.Optional,
-    requiredCapabilities: [new RuntimeCapabilityId("sample.frame-capture")]);
+    requiredCapabilities: [new RuntimeCapabilityID("sample.frame-capture")]);
 ```
 
 ## Source boundary

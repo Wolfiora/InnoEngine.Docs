@@ -1,9 +1,14 @@
 ---
-title: Maintain API documentation
-description: Maintain source XML, enrich individual API explanations, and publish documentation through draft and main.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.api-documentation
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Tooling.Documentation]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Maintain API documentation
+description: Maintain source XML, enrich individual API explanations, and publish documentation through draft and main.
 ---
 # Maintain API documentation
 

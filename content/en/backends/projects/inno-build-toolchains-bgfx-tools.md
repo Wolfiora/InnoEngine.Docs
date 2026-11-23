@@ -1,11 +1,16 @@
 ---
-title: Inno.Build.Toolchains.Bgfx.Tools
-description: "Engine shader/texture compilation adapters, typed source analysis and explicit offline tool execution for BGFX."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-toolchains-bgfx-tools
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Build.Toolchains.Bgfx.Tools]
 exampleMode: host
 exampleProjects: [Inno.Build.Toolchains.Bgfx.Tools]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Build.Toolchains.Bgfx.Tools
+description: "Engine shader/texture compilation adapters, typed source analysis and explicit offline tool execution for BGFX."
 ---
 # Inno.Build.Toolchains.Bgfx.Tools
 

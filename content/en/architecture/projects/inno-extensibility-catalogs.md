@@ -6,11 +6,11 @@ title: Inno.Extensibility.Catalogs
 kind: project
 owners:
 - Inno.Extensibility.Catalogs
-sourceFingerprint: d193c7c93fc41f9146baa50003e86a3eab5228cb8b89a580b73732c29f753841
+sourceFingerprint: 6a089327289e1f30ae2a828e8ce1a058d00e9b134556d20719eb5fd386179e20
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Dependency-light discovery facts and static registration contracts owned by each contributing assembly.
 outdated: false

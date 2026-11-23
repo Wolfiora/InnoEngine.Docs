@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Composition
 apiSurface: source-clr
-sourceFingerprint: 8163627b76a8e4873778bb849f0d6656c5d37f26cce324a045ecc65812e5c76c
+sourceFingerprint: 3d7985576168b3a72af1828d316bbfed3967f0fc990a9d324482430c28a23b13
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `targetId`:** The exact target identity; no host-derived target is substituted.
+**Parameter `targetID`:** The exact target identity; no host-derived target is substituted.
 
 **Parameter `provider`:** The borrowed SDK provider when registered, or null when the distribution has no such contribution.
 

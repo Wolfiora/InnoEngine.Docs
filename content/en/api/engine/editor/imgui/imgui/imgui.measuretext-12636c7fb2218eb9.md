@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-sourceFingerprint: acd4f9c5a00bb7c218138306089912232f2527dd34ecbfed79ed0eabda2d953a
+sourceFingerprint: e42c1fcebb93c113e7e94af8f31028c62c1ddbe63a91756921089e0b42e92bc3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-The measured width and height.
-
 ## Parameters
 
 **Parameter `text`:** The text text validated by the measure text operation.
+
+## Returns
+
+The measured width and height.

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-sourceFingerprint: 2e43ecb71c0122d485b30f4ac0c270dd4c2e2aa0427c792ab5cc362a4c7c13c4
+sourceFingerprint: 5a3979494e35247c624de7ed52a860da3396cec21f4547b6d0f97f3e6a28ae2a
 apiScope: Runtime
 contracts: []
 
@@ -21,4 +21,4 @@ outdated: false
 
 **Parameter `inner`:** Active generation's source collector.
 
-**Parameter `sourceIds`:** Source IDs exclusively assigned to this layer.
+**Parameter `sourceIDs`:** Source IDs exclusively assigned to this layer.

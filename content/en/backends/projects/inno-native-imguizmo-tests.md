@@ -1,16 +1,21 @@
 ---
-title: ImGuizmo loading and borrowed-state tests
-description: Verify loading, owned style retirement and parent-state restoration.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-native-imguizmo-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Native.ImGuizmo.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: ImGuizmo loading and borrowed-state tests
+description: Verify loading, owned style retirement and parent-state restoration.
 ---
 # ImGuizmo loading and borrowed-state tests
 
 `Inno.Native.ImGuizmo.Tests` validates the engine's integration lifetime rather than publishing a generated native API manual.
 
-`Init_ShouldLoad` checks actual loading. `OwnedStyleCanRetireWithoutReleasingTheGlobalBorrow` distinguishes an owned style from borrowed global state. `IntegerScopeAndSingleStringIdRestoreTheirParentState` preserves the parent state after scoped selection.
+`InitShouldLoad` checks actual loading. `OwnedStyleCanRetireWithoutReleasingTheGlobalBorrow` distinguishes an owned style from borrowed global state. `IntegerScopeAndSingleStringIdRestoreTheirParentState` preserves the parent state after scoped selection.
 
 ## Required product and execution
 

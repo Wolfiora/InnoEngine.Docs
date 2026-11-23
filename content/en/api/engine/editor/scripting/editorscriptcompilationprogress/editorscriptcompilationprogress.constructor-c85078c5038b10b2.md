@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scripting
 apiSurface: source-clr
-sourceFingerprint: 1c1b08ab6c9020859df24f7624c984e1afd574013d3ccc4c184f3999cf1d080b
+sourceFingerprint: 3b7248f046669d30a30e248a077e2fc88a126bbeea93e6e09b435c5f9b7b51df
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `operationId`:** The request identity within the owning script host.
+**Parameter `operationID`:** The request identity within the owning script host.
 
 **Parameter `fraction`:** The completed fraction of the complete reload workflow.
 

@@ -6,11 +6,11 @@ title: Inno.Core.Diagnostics
 kind: project
 owners:
 - Inno.Core.Diagnostics
-sourceFingerprint: 5cfe7a7e9054df91a596e072b57c148700cc7265d3ecc04a9e364023cfe28cda
+sourceFingerprint: 7d3fdab952d2887b1f4a97071f1f4a96ea5c7aae1f45a3108046cec6aaba683a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Host-owned current issue state, revocable producers and complete-report presentation.
 outdated: false

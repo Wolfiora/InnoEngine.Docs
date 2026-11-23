@@ -6,12 +6,12 @@ title: Inno.Audio
 kind: project
 owners:
 - Inno.Audio
-sourceFingerprint: 82bffd19b0d278b02b979aa4d53387a9058290226752edbeaf5d76c9cf8cff03
+sourceFingerprint: 3f763e7c9061b8ecfc5c16dd89079c34d913bf10f8e075850cfa57ae1e27f776
 contracts:
 - architecture.audio-lifetime#ownership-and-generation-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Backend-neutral playback, mixer, content-provider and device contracts.
 outdated: false

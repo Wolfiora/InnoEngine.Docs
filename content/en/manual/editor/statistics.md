@@ -1,17 +1,22 @@
 ---
-exampleMode: host
-exampleProjects:
-  - Inno.Editor.Core
-title: Read and publish Editor statistics
-description: Inspect frame timing and contribute stable feature values without
-  coupling a feature to the Stats panel.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.editor-statistics
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Core
   - Inno.Editor.Panel.Stats
 contracts:
   - architecture.ownership
+exampleMode: host
+exampleProjects:
+  - Inno.Editor.Core
+
+# Authoring metadata. Edit these fields and the text below.
+title: Read and publish Editor statistics
+description: Inspect frame timing and contribute stable feature values without
+  coupling a feature to the Stats panel.
 ---
 # Read and publish Editor statistics
 
@@ -37,8 +42,8 @@ internal static class StreamingStatistics
         int pendingCount
     ) {
         context.statistics.Publish(new EditorStatistic(
-            new EditorStatisticId("sample.streaming.pending"),
-            new EditorStatisticGroupId("sample.streaming"),
+            new EditorStatisticID("sample.streaming.pending"),
+            new EditorStatisticGroupID("sample.streaming"),
             "Streaming", "Pending Requests", pendingCount.ToString()));
     }
 }

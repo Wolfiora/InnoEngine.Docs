@@ -1,9 +1,9 @@
 ---
-title: Find extension types without retaining old generations
-description: Query the current type catalog, persist stable references and scope
-  access to live CLR declarations.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.extensions.find-types
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Types
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Extensibility.Types
+
+# Authoring metadata. Edit these fields and the text below.
+title: Find extension types without retaining old generations
+description: Query the current type catalog, persist stable references and scope
+  access to live CLR declarations.
 ---
 # Find extension types without retaining old generations
 
@@ -41,7 +46,7 @@ Do not scan all loaded process assemblies to supplement a missing result. A decl
 
 ## Keep logical identity distinct from a live type
 
-`TypeRef.stableId` identifies the logical type. Equality and hashing use that value. `runtimeId` is a nonpersistent resolution hint for a particular CLR declaration; resolution verifies that any runtime hit still matches the stable identity and otherwise uses stable lookup.
+`TypeRef.stableID` identifies the logical type. Equality and hashing use that value. `runtimeID` is a nonpersistent resolution hint for a particular CLR declaration; resolution verifies that any runtime hit still matches the stable identity and otherwise uses stable lookup.
 
 The public constructor accepts a Guid and creates an unresolved reference. Empty Guid/default references are invalid. `IsValid(catalog)` checks current resolvability; it does not pin that result indefinitely. `TryResolve` reports absence, while `Resolve` throws for an unavailable reference.
 
@@ -73,12 +78,12 @@ For a consistent set of queries, use one `TypeCacheSnapshot` inside the protecte
 
 ## Assign a durable semantic type identity
 
-Without an explicit identity, ordinary host/plugin declarations derive deterministic UUIDv5 identity from assembly simple name and full type name. Compiler-supplied source identities can override that convention for scripts. A type-level `StableTypeId` takes precedence over compiler mappings.
+Without an explicit identity, ordinary host/plugin declarations derive deterministic UUIDv5 identity from assembly simple name and full type name. Compiler-supplied source identities can override that convention for scripts. A type-level `StableTypeID` takes precedence over compiler mappings.
 
 ```csharp
 using Inno.Extensibility.Types;
 
-[StableTypeId("c5db9123-9768-4e34-a346-22981ee4b4da")]
+[StableTypeID("c5db9123-9768-4e34-a346-22981ee4b4da")]
 public sealed class ToolConfiguration
 {
 }

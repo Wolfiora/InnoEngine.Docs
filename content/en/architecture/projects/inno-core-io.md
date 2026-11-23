@@ -6,12 +6,12 @@ title: Inno.Core.IO
 kind: project
 owners:
 - Inno.Core.IO
-sourceFingerprint: 1994479db1d8dc882ce461142a1d7a7ebc42fdc3c21be904e460610b25c183a4
+sourceFingerprint: a1ecd194d77974bb9bea49519cea5c84d36c1c21eb3da4d66bd7f97151cb629f
 contracts: []
 outdatedFor: 732a05e1d66964e5806b767cdcaf271b71cdbaad5d287ce0bd053da195aa1756
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Explicit filesystem boundaries, atomic publication, shared leases, byte documents and process-owned output.
 outdated: false

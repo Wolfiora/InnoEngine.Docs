@@ -1,8 +1,9 @@
 ---
-title: Package a source plugin
-description: Create a validated plugin manifest and the supported portable archive layout.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.plugin-packages
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Plugins
   - Inno.Plugins.Authoring
@@ -12,6 +13,10 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Plugins
+
+# Authoring metadata. Edit these fields and the text below.
+title: Package a source plugin
+description: Create a validated plugin manifest and the supported portable archive layout.
 ---
 # Package a source plugin
 

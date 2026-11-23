@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-sourceFingerprint: 7ec67c00a3720ce0669cdd24faa9ae10c948cae10158f07ff15d4f6e773a1d1a
+sourceFingerprint: 13a5c197b5dd04006d27fb5230910fc0cd265a0e5174bebfcc714d56e2d8371b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,9 +18,9 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** The persistent asset identity encoded in the reference.
+**Parameter `persistentID`:** The persistent asset identity encoded in the reference.
 
-**Parameter `stableTypeId`:** The stable concrete asset type identity encoded in the reference.
+**Parameter `stableTypeID`:** The stable concrete asset type identity encoded in the reference.
 
 **Parameter `lastKnownPath`:** The optional logical path retained for diagnostics and authoring recovery.
 

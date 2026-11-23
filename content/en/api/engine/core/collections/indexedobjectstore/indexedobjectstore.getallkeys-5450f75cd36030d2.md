@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Collections
 apiSurface: source-clr
-sourceFingerprint: 0efc8d66b21fe490ff4e8ea13e7868b212af09e0933a24b27d24b6bd6bcfd371
+sourceFingerprint: 88827b89972514b586e4fbcb4b7c9057676f3eb1883e2c3a678813c9f6ff7c3f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-Enumeration is fail-fast and throws if the store is modified during iteration.
-
 ## Returns
 
 Lazy enumerable of key names.
+
+## Remarks
+
+Enumeration is fail-fast and throws if the store is modified during iteration.

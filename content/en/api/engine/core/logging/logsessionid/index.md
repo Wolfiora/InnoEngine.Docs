@@ -1,19 +1,17 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.core.logging.c169673038288000
-symbol: engine:Inno.Core.Logging:T:Inno.Core.Logging.LogSessionId
-title: LogSessionId
+uid: api.8ada39c1ddef70068b199f7eab067dd4a29b2cef5e1aac39c0cf88f947651c04
+symbol: engine:Inno.Core.Logging:T:Inno.Core.Logging.LogSessionID
+title: LogSessionID
 kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-sourceFingerprint: 9701f8b56de5420931eeea5e1d569d6da365fc69db840c020ea34dac10e394e8
-contracts:
-- project.inno-core-logging#delivery-and-ownership-contract
+sourceFingerprint: 7ee7246d852bccaa13c7ae963a86e03bd780acbc2df588dba69f34a0e7f4de4f
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

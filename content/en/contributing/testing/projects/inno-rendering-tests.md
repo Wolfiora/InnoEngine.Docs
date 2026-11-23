@@ -1,10 +1,15 @@
 ---
-title: "Render graph and portable artifact tests"
-description: "Verify immutable declarations, transactional graph edits and deterministic scheduling."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-rendering-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Rendering.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Render graph and portable artifact tests"
+description: "Verify immutable declarations, transactional graph edits and deterministic scheduling."
 ---
 # Render graph and portable artifact tests
 
@@ -48,17 +53,17 @@ Representative entry points are checked against the pinned source. The linked fi
 
 - `PipelineBindingSnapshotsRejectMutationOfPublishedStorage`
 - `VertexLayoutAcceptsAllPortableSemanticChannels`
-- `VertexLayout_RejectsDuplicateSemantic`
-- `VertexLayout_PreservesExplicitOffsetsAndTrailingPadding`
+- `VertexLayoutRejectsDuplicateSemantic`
+- `VertexLayoutPreservesExplicitOffsetsAndTrailingPadding`
 
 ### Render Graph Compiler
 
 [Read the complete assertions](https://github.com/Wolfiora/InnoEngine/blob/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/tests/rendering/Inno.Rendering.Tests/RenderGraphCompilerTests.cs). Representative entry points:
 
 - `NameScopesIsolateRepeatedProducerNamesInsideOneFrameGraph`
-- `MutationScope_Uncommitted_RollsBackPassesResourcesAndOutputs`
-- `Compile_SchedulesProducerBeforeConsumer`
-- `Compile_CullsUnconsumedPass`
+- `MutationScopeUncommittedRollsBackPassesResourcesAndOutputs`
+- `CompileSchedulesProducerBeforeConsumer`
+- `CompileCullsUnconsumedPass`
 
 ### Render Graph Mutation
 

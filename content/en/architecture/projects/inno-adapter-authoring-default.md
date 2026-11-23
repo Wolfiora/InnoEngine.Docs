@@ -6,11 +6,12 @@ title: Inno.Adapter.Authoring.Default
 kind: project
 owners:
 - Inno.Adapter.Authoring.Default
-sourceFingerprint: 759dd950e71f36ecf60e77b232f3005ab66daebbdcb9766915ee455269fad034
+sourceFingerprint: 475a250d0ba4a02b24b5c45346281a82eae625e88efaae451af9654fed88b3e8
 contracts: []
+outdatedFor: c0b1914df1d072f65494c2c5fc55c027c0685a1da2d372b0e0619abdb8271c4a
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Editor authoring and presentation providers composed over the neutral runtime catalog.
 outdated: false
@@ -34,7 +35,7 @@ Platform, Rendering and Storage factories remain required in the runtime options
 
 Before allocating a GPU device, rendering-authoring registration validates exact runtime/authoring Backend ID pairing. Duplicate, missing and null registrations fail explicitly. Standard products select BGFX and ImGui; a custom product may select other compatible implementations.
 
-Presentation uses the open `PresentationBackendId`, a frozen `supportedBackends` set and explicit context options. Unknown IDs, unassigned or duplicate providers and null results are errors. If shader, renderer or context creation fails, release all previously acquired resources and fail startup; never publish a half-initialized context.
+Presentation uses the open `PresentationBackendID`, a frozen `supportedBackends` set and explicit context options. Unknown IDs, unassigned or duplicate providers and null results are errors. If shader, renderer or context creation fails, release all previously acquired resources and fail startup; never publish a half-initialized context.
 
 Runtime integration belongs to the platform product; shader/native build integration belongs to distribution. Neither selection becomes an implicit OS check in the shared host.
 

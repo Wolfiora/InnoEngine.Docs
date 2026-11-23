@@ -1,10 +1,15 @@
 ---
-title: File ownership and publication tests
-description: Verify protected readers, atomic replacement, path boundaries and rollback.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-io-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.IO.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: File ownership and publication tests
+description: Verify protected readers, atomic replacement, path boundaries and rollback.
 ---
 # File ownership and publication tests
 
@@ -23,7 +28,7 @@ Windows directory-sharing, cancellation and rollback cases carry `SupportedOSPla
 A focused diagnostic from the engine root is:
 
 ```powershell
-dotnet test tests/core/Inno.Core.IO.Tests/Inno.Core.IO.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/foundation/core/Inno.Core.IO.Tests/Inno.Core.IO.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 Use `--filter FullyQualifiedName~MethodName` to investigate one case. A filtered run does not replace the obligations in the validation plan. Restore the declared SDK, packages and any tool/process prerequisites before executing; preserve cancellation, thread and cleanup requirements.

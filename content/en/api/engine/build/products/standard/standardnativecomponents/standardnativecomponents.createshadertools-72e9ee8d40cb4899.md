@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Products.Standard
 apiSurface: source-clr
-sourceFingerprint: 1e0bb5aa10d5f8c2911434a94371f57dfad461f442ca267eedccc5518f8249ac
+sourceFingerprint: 7db3793f862f9a8eaf0ce1b7aff8e4dae9b57b2aa7dd8e02cc3e7877a667545c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,6 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-An immutable tool product without runtime or Editor presentation dependencies.
-
 ## Parameters
 
 **Parameter `profile`:** The selected integration-owned BGFX SDK invocation for standalone component builds.
@@ -27,3 +23,7 @@ An immutable tool product without runtime or Editor presentation dependencies.
 **Parameter `options`:** The platform-owned configuration for each named component.
 
 **Parameter `layout`:** The platform-owned destination of each component output, or null to exclude it.
+
+## Returns
+
+An immutable tool product without runtime or Editor presentation dependencies.

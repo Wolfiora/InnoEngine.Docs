@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-sourceFingerprint: a42d1b1b2b89484018ecbdc4557a2e1c7abff4ae066716c3da49a249c736ddc3
+sourceFingerprint: 40dce93545d76fcc79b480a552a1e254c27836bc3ae84b0ccbdbcaeec77b3433
 apiScope: Editor
 contracts:
 - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
@@ -19,3 +19,7 @@ description: null
 outdated: false
 aliases: []
 ---
+
+## Remarks
+
+The typed action contexts derive from this class to add a strongly typed target or argument. It has no overridable members.

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-sourceFingerprint: 418139d6c81e6322677d769eb736dfbb789d76f10a058ddd8e4ce8906749f57d
+sourceFingerprint: 205a2a5bce41266e724baeb933fcb32e97311b1efaf3e250a10f298e1f6b0b3f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** Persistent identity of the artifact owner.
+**Parameter `persistentID`:** Persistent identity of the artifact owner.
 
 **Parameter `outputName`:** Stable artifact output name.
 

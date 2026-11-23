@@ -1,8 +1,11 @@
 ---
-title: About InnoEngine
-description: Understand InnoEngine's modular design and how to use this documentation.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: about.introduction
 kind: explanation
+
+# Authoring metadata. Edit these fields and the text below.
+title: About InnoEngine
+description: Understand InnoEngine's modular design and how to use this documentation.
 ---
 # About InnoEngine
 

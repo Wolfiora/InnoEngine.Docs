@@ -1,23 +1,20 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.ui.runtime-script.1078398e849ecdd1
-symbol: scripting:Inno.UI:T:InnoEngine.UI.UiDrawCommand
-title: UiDrawCommand
+uid: api.f2692f8dc36ea200ab7339aedb614ed77c4a8ed40fa4883992c88e1ab086aede
+symbol: scripting:Inno.UI:T:InnoEngine.UI.UIDrawCommand
+title: UIDrawCommand
 kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-sourceFingerprint: fd6514a33ba0ce46c52b87d730943216b14eaf81e5cb93e4f98f0370aace6c66
+sourceFingerprint: 5f3db8d599864f288ae19301cc6794dbaf0765ae73a79b8802842ea08767dd8a
 apiScope: Runtime
-contracts:
-- manual.scripting.use-script-api
-- project.inno-ui#document-and-frame-contract
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---
 
 ## Parameters

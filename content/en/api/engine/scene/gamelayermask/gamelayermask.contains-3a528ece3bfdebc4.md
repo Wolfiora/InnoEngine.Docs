@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-sourceFingerprint: 562142af9259e9bbeba61772a7c203cb04edd9612a10e627aa4d1961f4c4a816
+sourceFingerprint: 186bb0e634a96286f339e8777664a162eb73014c46fa06b8b91006abc1a84fa1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when the layer bit is enabled.
-
 ## Parameters
 
 **Parameter `layer`:** The layer consumed by contains; ownership remains with the caller unless explicitly stated otherwise.
+
+## Returns
+
+`true` when the layer bit is enabled.

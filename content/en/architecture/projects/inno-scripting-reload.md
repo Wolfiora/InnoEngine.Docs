@@ -6,11 +6,12 @@ title: Inno.Scripting.Reload
 kind: project
 owners:
 - Inno.Scripting.Reload
-sourceFingerprint: 0b89301e0e6f3b6a3b63e2187f533395500d12aaafb7ccd7b2464e59ee2e1f67
+sourceFingerprint: 626ea8f7d980966204a634fc73124fcd8f95684ab6e006017856b72d6d43249c
 contracts: []
+outdatedFor: 343d0a223349a54a125b9507705607f9c26a03212677a29b3e0629287bc0b910
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Compile, prepare, activate and retire one project's complete authoring generation.
 outdated: false
@@ -39,7 +40,7 @@ The caller disposes the reload host to remove observations, cancel and drain com
 
 `progress` is an immutable, atomically published `ScriptReloadProgress` snapshot. Queueing, background compilation, candidate application and retirement retain the same operation identity. Delayed callbacks from older work cannot overwrite a newer request's progress.
 
-`CancelCompilation(operationId)` checks that identity under the owner lock and publishes cancellation state before signaling cancellation. `canCancel` reflects the actual compilation stage and resource ownership; do not infer it from a displayed percentage. Cancellation still requires owned work to drain.
+`CancelCompilation(operationID)` checks that identity under the owner lock and publishes cancellation state before signaling cancellation. `canCancel` reflects the actual compilation stage and resource ownership; do not infer it from a displayed percentage. Cancellation still requires owned work to drain.
 
 Progress contains no plugin instance, `Type` or delegate. Observing it does not weaken candidate publication, Missing recovery, GC/finalizer/weak-reference verification or the Faulted gate.
 

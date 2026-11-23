@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-sourceFingerprint: 817d25c061f624d765b325f5680c0e2f6f69f779f15accc470802b09e70a6897
+sourceFingerprint: 801a297329cb56f86b10bdfc586976dd32c11782bc34193b4e0c7fe4092b37a7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,7 +20,7 @@ outdated: false
 
 **Parameter `module`:** A module whose selected implementations and variants share the same interface.
 
-**Parameter `implementationId`:** The exact implementation/configuration selected by the target.
+**Parameter `implementationID`:** The exact implementation/configuration selected by the target.
 
 **Parameter `inputs`:** Exactly the input/inout parameters by public name; output-only parameters are not supplied.
 

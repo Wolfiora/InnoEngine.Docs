@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-sourceFingerprint: 4f849b013548b43f3d6d0fe5d90f80745c0f9af7763fc27521ea935e600139d1
+sourceFingerprint: 3cef7a4f7a4e8437cb2bf357ba0a558ec587028f5596faa33af5aa5170b4bbe5
 apiScope: Editor
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.
+
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

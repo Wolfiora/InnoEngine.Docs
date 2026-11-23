@@ -1,12 +1,17 @@
 ---
-title: ImGui implementation boundary
-description: Editor presentation context, frame borrowing and shutdown responsibilities.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: api.projects.inno-native-imgui
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Native.ImGui
 contracts:
   - architecture.ownership
+
+# Authoring metadata. Edit these fields and the text below.
+title: ImGui implementation boundary
+description: Editor presentation context, frame borrowing and shutdown responsibilities.
 ---
 # ImGui implementation boundary
 

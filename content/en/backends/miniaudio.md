@@ -1,12 +1,17 @@
 ---
-title: MiniAudio backend
-description: Choose audible or hardwareless native audio and understand its preparation and deployment boundaries.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: backends.miniaudio
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Audio.MiniAudio
   - Inno.Native.MiniAudio
   - Inno.Build.Toolchains.MiniAudio
+
+# Authoring metadata. Edit these fields and the text below.
+title: MiniAudio backend
+description: Choose audible or hardwareless native audio and understand its preparation and deployment boundaries.
 ---
 # MiniAudio backend
 

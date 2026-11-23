@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-sourceFingerprint: 13599d2376a2e3df464f291b6161aa945ceeae3ab45f33aa2fed8761ec4477ad
+sourceFingerprint: f04e591125ff140315344dc3d3832d2738d4aba103d9cb69896c54ca969636b8
 apiScope: Editor
 contracts: []
 
@@ -16,10 +16,6 @@ source: xml
 description: null
 outdated: false
 ---
-
-## Remarks
-
-Escape clears a nonempty query before leaving text input on a subsequent press.
 
 ## Parameters
 
@@ -36,3 +32,7 @@ Escape clears a nonempty query before leaving text input on a subsequent press.
 ## Returns
 
 `true` when the query changed; otherwise, `false`.
+
+## Remarks
+
+Escape clears a nonempty query before leaving text input on a subsequent press.

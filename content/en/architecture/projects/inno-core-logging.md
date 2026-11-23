@@ -6,11 +6,12 @@ title: Inno.Core.Logging
 kind: project
 owners:
 - Inno.Core.Logging
-sourceFingerprint: bc8adabee7e1b981ace33f91495be0406e22d81b406cc3b806c92badb812f640
+sourceFingerprint: 70a721c877d70e6b814fd0e2f4c0c4032b77bccb504f0a7282fffbf48832b7df
 contracts: []
+outdatedFor: 06dec4eaad59302c5b3e091ecd2c37d86176fe7b54d85d59c514336e16d25afa
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Bounded append-only logging, explicit delivery policy, failure quarantine and host-owned sinks.
 outdated: false
@@ -29,9 +30,9 @@ Registering a sink avoids duplicate registration. Unregistration and quarantine 
 
 ## Context and surfaces
 
-`LogRouter.EnterScope` supplies the current asynchronous execution flow with a borrowed router; dispose scopes in reverse order. `LogSessionContext.Enter` separately binds a nonempty `LogSessionId`, restoring the previous session on disposal. `none` represents process-level work, not an assigned session.
+`LogRouter.EnterScope` supplies the current asynchronous execution flow with a borrowed router; dispose scopes in reverse order. `LogSessionContext.Enter` separately binds a nonempty `LogSessionID`, restoring the previous session on disposal. `none` represents process-level work, not an assigned session.
 
-`Log` and `LogSessionId` are actual Runtime script exports. Router construction, sinks, delivery policy and host session-context binding are not script exports. `Log` resolves source assembly classification from an explicit caller type; emitted entries retain neutral values rather than that type or assembly. `Logger` provides a host category-bound writer.
+`Log` and `LogSessionID` are actual Runtime script exports. Router construction, sinks, delivery policy and host session-context binding are not script exports. `Log` resolves source assembly classification from an explicit caller type; emitted entries retain neutral values rather than that type or assembly. `Logger` provides a host category-bound writer.
 
 ## Sinks and diagnostics
 

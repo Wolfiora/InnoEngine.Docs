@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: source-clr
-sourceFingerprint: 1eebcf9af119a73b307cff8f2e83c14d14e6f9f8288710dcc010a81f7fd9ff19
+sourceFingerprint: b14ee4fe99650a4ffab79b82b746bb6d17efd72a436100c359a5f4a4d44ec1ef
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when both values represent the same logical state; otherwise, `false`.
-
 ## Parameters
 
 **Parameter `other`:** The value to compare with this instance.
+
+## Returns
+
+`true` when both values represent the same logical state; otherwise, `false`.

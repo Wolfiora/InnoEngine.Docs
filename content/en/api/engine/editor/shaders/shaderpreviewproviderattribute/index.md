@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders
 apiSurface: source-clr
-sourceFingerprint: c9eaba5ebb057227ba61686aa9636418b78e8a4b0ccd6c57bba415abe6daa139
+sourceFingerprint: 3e2840138c5abd307b1035cb85c0654c07fa16fa27db1cc9b12b43e13283002b
 contracts:
 - project.inno-editor-shaders
 
@@ -20,4 +20,4 @@ aliases: []
 
 ## Parameters
 
-**Parameter `contractId`:** Non-empty domain-owned contract identity.
+**Parameter `contractID`:** Non-empty domain-owned contract identity.

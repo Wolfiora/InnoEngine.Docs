@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: source-clr
-sourceFingerprint: bc889f608dfdf76af262a533b2089e6f922039ebcf6aa94b8422cec6a6422586
+sourceFingerprint: 3045a8445ef79e9a377bb133bec1a3ce155b682ce70f1955a3122b29ba14e001
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-Overriding this method opts the panel into project-state IO. Panels that keep the base implementation are never registered with the persistence coordinator and therefore perform no state reads or writes. Panel visibility is persisted separately for every registered panel.
-
 ## Parameters
 
 **Parameter `state`:** The writable parameter that receives the complete readable state for this panel.
+
+## Remarks
+
+Overriding this method opts the panel into project-state IO. Panels that keep the base implementation are never registered with the persistence coordinator and therefore perform no state reads or writes. Panel visibility is persisted separately for every registered panel.

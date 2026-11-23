@@ -6,11 +6,11 @@ title: Inno.Assets.Pipeline
 kind: project
 owners:
 - Inno.Assets.Pipeline
-sourceFingerprint: 95d1a26e324cc5390196d58c1c33e2b5063a5a26deafc2d582cac7250ac4d80c
+sourceFingerprint: 5d19ef5ded485450bd9beb3b290b9e8fc659703d51ebec4bc8b201a013b23390
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Authoring imports, source identities, settings, immutable artifacts and runtime export.
 outdated: false

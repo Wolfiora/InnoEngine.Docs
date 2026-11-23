@@ -1,13 +1,18 @@
 ---
-title: Define and compose project settings
-description: Register stable setting protocols, order contributions, and
-  preserve project state across reload.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.project-settings
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Settings
 contracts:
   - project.inno-core-settings#settings-ownership-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: Define and compose project settings
+description: Register stable setting protocols, order contributions, and
+  preserve project state across reload.
 ---
 # Define and compose project settings
 
@@ -15,7 +20,7 @@ Use a project setting when a feature needs a named, serializable protocol shared
 
 ## Declare the protocol
 
-1. Choose a stable `ProjectSettingId` independent of display text and runtime type names.
+1. Choose a stable `ProjectSettingID` independent of display text and runtime type names.
 2. Declare a non-abstract `ISerializable` class with `ProjectSettingDefinitionAttribute` and a stable type identity. Register its factory in the active type catalog.
 3. Decide whether Plugins may contribute defaults through `allowPluginContributions`.
 4. Make the host's complete `SerializationContext` available when constructing the settings owner. The settings subsystem must not invent a partial reference resolver.

@@ -1,10 +1,15 @@
 ---
-title: Coroutine scheduling tests
-description: Verify tick-based waits, predicates and explicit cancellation.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-coroutines-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Coroutines.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Coroutine scheduling tests
+description: Verify tick-based waits, predicates and explicit cancellation.
 ---
 # Coroutine scheduling tests
 
@@ -21,7 +26,7 @@ The project declares the `domain` validation layer. Use [the shared validation w
 A focused diagnostic from the engine root is:
 
 ```powershell
-dotnet test tests/core/Inno.Core.Coroutines.Tests/Inno.Core.Coroutines.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/foundation/core/Inno.Core.Coroutines.Tests/Inno.Core.Coroutines.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 Use `--filter FullyQualifiedName~MethodName` to investigate one case. A filtered run does not replace the obligations in the validation plan. Restore the declared SDK, packages and any tool/process prerequisites before executing; preserve cancellation, thread and cleanup requirements.
@@ -34,10 +39,10 @@ These representative methods are preserved from the original reference and check
 
 [Read the assertions](https://github.com/Wolfiora/InnoEngine/blob/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/tests/core/Inno.Core.Coroutines.Tests/CoroutineSchedulerTests.cs). Representative entry points:
 
-- `StartCoroutine_NullYield_RunsOnNextTick`
-- `WaitForSeconds_WaitsByTime`
-- `WaitUntil_And_WaitWhile_Work`
-- `StopCoroutine_StopsTarget`
+- `StartCoroutineNullYieldRunsOnNextTick`
+- `WaitForSecondsWaitsByTime`
+- `WaitUntilAndWaitWhileWork`
+- `StopCoroutineStopsTarget`
 
 ## Extend safely
 

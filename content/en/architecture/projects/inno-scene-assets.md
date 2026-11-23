@@ -10,7 +10,7 @@ sourceFingerprint: 37ab9175b272ba1206241121dc88ef0cc0a8d6b7ffb844a3cb6bda2283ece
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Import and export scene and prefab source through the engine asset pipeline.
 outdated: false

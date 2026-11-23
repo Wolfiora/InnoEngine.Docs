@@ -1,19 +1,17 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.ui.e196be1e59e1d740
-symbol: engine:Inno.UI:T:Inno.UI.UiFontRegistration
-title: UiFontRegistration
+uid: api.910d46e66b0ceeaa6639cf67b71f2741c7684d7d7447c56276c4b4e026af0e26
+symbol: engine:Inno.UI:T:Inno.UI.UIFontRegistration
+title: UIFontRegistration
 kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-sourceFingerprint: 959a9ab9fc3738a50847282e40622a92ff7ca4a1c4a42f7f77df72187a165a4a
-contracts:
-- project.inno-ui#document-and-frame-contract
+sourceFingerprint: a69084e7d887817399efc12ae66e5566b790c2f10461ab04e5e5a7fb1b3b858f
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

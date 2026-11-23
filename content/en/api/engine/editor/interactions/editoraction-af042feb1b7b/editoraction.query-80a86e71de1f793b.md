@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-sourceFingerprint: 4354631f8a7c4867502d32daf37bc06030edcf9c46858f9d91d2c80bada64522
+sourceFingerprint: cc24e8707c3771f24777bd6d6f879d6c75974e78e7d2b4c9ff85c56769040c22
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-The validated editor action state that represents the completed operation.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.
+
+## Returns
+
+The validated editor action state that represents the completed operation.

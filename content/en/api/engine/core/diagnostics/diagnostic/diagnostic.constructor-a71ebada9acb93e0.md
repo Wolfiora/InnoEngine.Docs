@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: source-clr
-sourceFingerprint: 54a761456c71e9a7a3d9ef8218adf5930233dbe141b7e4981d4058c01a0c1ae7
+sourceFingerprint: 1d4973bf3412ece3038f0216a8ef3ff956193e95b1e8d0ad80834e022a770ee0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -24,9 +24,9 @@ outdated: false
 
 **Parameter `severity`:** The common engine impact classification.
 
-**Parameter `semanticId`:** An optional extension or protocol identifier, never interpreted as a file path.
+**Parameter `semanticID`:** An optional extension or protocol identifier, never interpreted as a file path.
 
-**Parameter `objectId`:** An optional persistent object identity, never a runtime handle.
+**Parameter `objectID`:** An optional persistent object identity, never a runtime handle.
 
 **Parameter `location`:** An optional actual source file location.
 

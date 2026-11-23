@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-sourceFingerprint: ee2d3de73d04ba61ee8e8ef64f60a2f68c0d00263ecec5987737cfbf5db67517
+sourceFingerprint: 0a8f191968c03fbd2beb4822f7e8bec0a39839857cc760101f65b000e3fe9fc6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-This operation is idempotent. After it succeeds, later disposal cannot recapture transient teardown state such as an empty scene workspace.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown after this runtime has been disposed.
+
+## Remarks
+
+This operation is idempotent. After it succeeds, later disposal cannot recapture transient teardown state such as an empty scene workspace.

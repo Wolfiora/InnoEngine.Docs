@@ -285,6 +285,7 @@
             - slug: contributing/testing/support
     - label: Documentation workflow
       items:
+        - slug: contributing/create-a-page
         - slug: contributing/api-documentation
         - slug: contributing/documentation-queries
         - slug: contributing/publish-documentation

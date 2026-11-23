@@ -6,11 +6,11 @@ title: Inno.Rendering
 kind: project
 owners:
 - Inno.Rendering
-sourceFingerprint: 43a3f40a6e0f08ceb1fe9f0b15e60dda90c9c04c72d3a02e3e5f4cd26629afa2
+sourceFingerprint: 984c545574d3684e008fa7a94ba310536c9f533825f909937ab88bed934db3c0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Neutral devices, resources, commands and transactional render graphs.
 outdated: false

@@ -1,10 +1,15 @@
 ---
-title: BGFX shader profile fixture
-description: Use the shared fixture to arrange shader profile inputs for BGFX toolchain tests.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-testing-bgfx
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Testing.Bgfx
+
+# Authoring metadata. Edit these fields and the text below.
+title: BGFX shader profile fixture
+description: Use the shared fixture to arrange shader profile inputs for BGFX toolchain tests.
 ---
 # BGFX shader profile fixture
 

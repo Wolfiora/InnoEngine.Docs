@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-sourceFingerprint: ad65f7e425f70e79bfaa3d53a0d0dc8742045f09c2255b78e534fb0b0f9f8371
+sourceFingerprint: 0d2b690183737dc3e8290801508e29564e88c485cf998465f8ce8dbb2463936f
 apiScope: Editor
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `contributorId`:** Stable identity of the rendering-model contributor that produced the layer.
+**Parameter `contributorID`:** Stable identity of the rendering-model contributor that produced the layer.
 
 **Parameter `pipeline`:** Contributor-selected pipeline, or null for the project default.
 

@@ -1,13 +1,9 @@
 ---
-title: Compose plugin discovery with a host
-description: Initialize shared asset mounts, stage candidates and retire owned
-  background work.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.plugin-host
 kind: how-to
-aliases:
-  - plugin lifecycle
-  - plugin activation
-  - plugin shutdown
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Plugins.Authoring
 contracts:
@@ -15,6 +11,15 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Plugins.Authoring
+
+# Authoring metadata. Edit these fields and the text below.
+title: Compose plugin discovery with a host
+description: Initialize shared asset mounts, stage candidates and retire owned
+  background work.
+aliases:
+  - plugin lifecycle
+  - plugin activation
+  - plugin shutdown
 ---
 # Compose plugin discovery with a host
 

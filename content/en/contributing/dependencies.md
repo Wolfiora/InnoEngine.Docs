@@ -1,9 +1,14 @@
 ---
-title: Restore and verify managed dependencies
-description: Use standard NuGet inputs while keeping product, tool and dependency-submission responsibilities separate.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.dependencies
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Build.Bindings, Inno.Build.Toolchains]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Restore and verify managed dependencies
+description: Use standard NuGet inputs while keeping product, tool and dependency-submission responsibilities separate.
 ---
 # Restore and verify managed dependencies
 

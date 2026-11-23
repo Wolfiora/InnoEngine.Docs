@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-sourceFingerprint: 4cb93acd1cfd674c55345a48269940fd2d255f45db48ede01c053627c0524917
+sourceFingerprint: 2212c9bb993da9cb8ea8067d40702d1641936a822f51ce774f5d038fc536a2d1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `documentId`:** Preview owner identity, independent of canonical artifact lookup.
+**Parameter `documentID`:** Preview owner identity, independent of canonical artifact lookup.
 
 **Parameter `graph`:** Current draft, never modified or retained.
 

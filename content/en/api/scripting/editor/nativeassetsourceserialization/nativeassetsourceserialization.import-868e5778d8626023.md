@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: editor-script
-sourceFingerprint: cf34a9f00c13938c2038c47d90acdcfbec88ff62c68aea5aea41f9b5f984f9d8
+sourceFingerprint: a970892e3514ad8e59faf6059d456b655f9d724ebe5f576a455f79757e86a070
 apiScope: Editor
 contracts: []
 
@@ -25,9 +25,9 @@ outdated: false
 
 **Parameter `bytes`:** Native source bytes.
 
-**Parameter `dependencies`:** Receives persistent dependencies discovered during export.
-
 **Parameter `services`:** The generation-bound serialization and reference services supplied by the import context.
+
+**Parameter `dependencies`:** Receives persistent dependencies discovered during export.
 
 ## Returns
 

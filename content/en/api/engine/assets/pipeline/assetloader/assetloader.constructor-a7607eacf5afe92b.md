@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-sourceFingerprint: f65946406bcc205c74cb92427a87e5873f8f187ae29278c311995045735a8e5b
+sourceFingerprint: bbe514f19db932b51d87d4c8f7784c1a5e9223c86b2c8cbf2b34e03944a22dc9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -24,9 +24,9 @@ outdated: false
 
 **Parameter `identities`:** The identity allocator that owns every canonical asset loaded by this instance.
 
-**Parameter `logs`:** The explicitly owned router receiving importer and catalog diagnostics.
-
 **Parameter `diagnostics`:** The diagnostic hub that owns import, build, catalog, and reference reports.
+
+**Parameter `logs`:** The explicitly owned router receiving importer and catalog diagnostics.
 
 **Parameter `mounts`:** Complete isolated source mount snapshot.
 

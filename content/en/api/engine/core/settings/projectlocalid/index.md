@@ -1,19 +1,17 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.core.settings.9c34f18e543c590b
-symbol: engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectLocalId
-title: ProjectLocalId
+uid: api.31b4b9249d1034b37bbd74909bb340ec3aca8eeb2715432758416a87a891149b
+symbol: engine:Inno.Core.Settings:T:Inno.Core.Settings.ProjectLocalID
+title: ProjectLocalID
 kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: source-clr
-sourceFingerprint: 2fbeafa339aa4ce911a77ce121f6b6a72ab8abd82c6ab0e1558689b0b8038f7e
-contracts:
-- project.inno-core-settings#settings-ownership-contract
+sourceFingerprint: 7317caa21f8335fc74e3e1bf2dc961dd600a5e6522fbfb3983b602cda27f6a44
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

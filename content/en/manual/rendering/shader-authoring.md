@@ -1,9 +1,14 @@
 ---
-title: Choose a shader authoring workflow
-description: Use graphs, local source functions and optional domain expansion in one compilation chain.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.rendering.shader-authoring
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Rendering.Shaders, Inno.Rendering.Assets.Authoring]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Choose a shader authoring workflow
+description: Use graphs, local source functions and optional domain expansion in one compilation chain.
 ---
 # Choose a shader authoring workflow
 

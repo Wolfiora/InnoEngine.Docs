@@ -6,12 +6,12 @@ title: Inno.Build.Distribution.Standard
 kind: project
 owners:
 - Inno.Build.Distribution.Standard
-sourceFingerprint: ae2103d5d4f9dcbd980885defe10718d579dbbd88ec79784948250e82a89050b
+sourceFingerprint: a552b80f0063ced04a2db86f8a2fdb775d6e3e17508e8bede007dfa5b3f70196
 contracts: []
 outdatedFor: 6768bb7157492f58d7c67a813a7713615c20df37d5782941afba00e00645793f
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - The standard engine distribution's platform, tool and product composition.
 outdated: false

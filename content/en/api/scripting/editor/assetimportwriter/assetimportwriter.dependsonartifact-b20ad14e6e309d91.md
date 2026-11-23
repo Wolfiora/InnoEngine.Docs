@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: editor-script
-sourceFingerprint: ece22e86fdca105d30cdfe4fe8dc81ae95029b0c2667e896f48b8147baf4b062
+sourceFingerprint: 71f0fe31710259ae8c4a2d2a5f711a72037b2e30cb7471bc8274f1139a71d90e
 apiScope: Editor
 contracts: []
 
@@ -19,4 +19,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** The stable persistent identity used for lookup.
+**Parameter `persistentID`:** The stable persistent identity used for lookup.

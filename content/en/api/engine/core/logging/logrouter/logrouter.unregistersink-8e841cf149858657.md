@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-sourceFingerprint: ca3ca79f73703b539a9fa3f29618b014ea8c9c1103fbb85b1fd2d675b00ac79c
+sourceFingerprint: cef99ed1974eda7715cd89eceeda22b94d81c192bc2c5d41b779de970979d67a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,6 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-An in-flight batch may still borrow the previous snapshot. This operation does not wait for its callbacks; the host must coordinate quiescence before releasing sink resources. Router disposal releases only sinks that remain registered.
-
 ## Parameters
 
 **Parameter `sink`:** The sink to remove when registered.
@@ -27,3 +23,7 @@ An in-flight batch may still borrow the previous snapshot. This operation does n
 ## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `sink` is null.
+
+## Remarks
+
+An in-flight batch may still borrow the previous snapshot. This operation does not wait for its callbacks; the host must coordinate quiescence before releasing sink resources. Router disposal releases only sinks that remain registered.

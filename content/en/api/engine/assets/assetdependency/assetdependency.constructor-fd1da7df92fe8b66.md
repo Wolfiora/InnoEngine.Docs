@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-sourceFingerprint: 9015a208c1b8aa5422740d1c07ee11fab115e400d2c65c204ad6c75d3d0fc73b
+sourceFingerprint: cdfd48a0a22394d127ef4ef62d8e0fe3993e1dc2048da08142aec15cdf0a184a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** The persistent identity of the referenced asset.
+**Parameter `persistentID`:** The persistent identity of the referenced asset.
 
 **Parameter `type`:** The reload-safe identity of the expected asset type.
 
@@ -26,4 +26,4 @@ outdated: false
 
 ## Exceptions
 
-**Exception `T:System.ArgumentException`:** Thrown when `persistentId` is empty.
+**Exception `T:System.ArgumentException`:** Thrown when `persistentID` is empty.

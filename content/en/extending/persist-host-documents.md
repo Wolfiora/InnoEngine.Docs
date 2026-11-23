@@ -1,9 +1,9 @@
 ---
-title: Persist a host-owned document
-description: Select an explicit document medium, publish complete bytes, and
-  coordinate readers without leaking paths into domain models.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.persist-host-documents
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.IO
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.IO
+
+# Authoring metadata. Edit these fields and the text below.
+title: Persist a host-owned document
+description: Select an explicit document medium, publish complete bytes, and
+  coordinate readers without leaking paths into domain models.
 ---
 # Persist a host-owned document
 

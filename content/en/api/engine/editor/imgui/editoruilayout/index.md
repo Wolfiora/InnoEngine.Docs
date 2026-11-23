@@ -1,19 +1,17 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.editor.imgui.62343a5770d697b8
-symbol: engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.EditorUiLayout
-title: EditorUiLayout
+uid: api.3ac121318bdf77e272b4839ff42f9fb73de562d5410946e7c8eb837ee0edf4a2
+symbol: engine:Inno.Editor.ImGui:T:Inno.Editor.ImGui.EditorUILayout
+title: EditorUILayout
 kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-sourceFingerprint: 7cdb1a7001e8a5de803a3fa81a2ea89d8a05cb6138e45764000eb2e086eb559b
-contracts:
-- project.inno-editor-imgui
+sourceFingerprint: fa5459da94e3e240fa5c67b871ab901f6ac71033373c0613448d7e959774c906
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

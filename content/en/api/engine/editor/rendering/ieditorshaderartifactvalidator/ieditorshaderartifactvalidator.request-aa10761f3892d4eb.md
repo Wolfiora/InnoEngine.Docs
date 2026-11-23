@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-sourceFingerprint: 5f8625001ddea83e644b0c8d6ded0c383727316aa9fb2dade97f7f276b5d949d
+sourceFingerprint: 680a01c639a18afe3658c4f7424a60c63d656066dd9b2f56777ef0e1d58ad270
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `documentId`:** Stable Editor document identity.
+**Parameter `documentID`:** Stable Editor document identity.
 
 **Parameter `revision`:** Exact document revision that produced the artifact.
 

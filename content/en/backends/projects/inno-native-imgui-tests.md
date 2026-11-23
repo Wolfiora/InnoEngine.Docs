@@ -1,10 +1,15 @@
 ---
-title: ImGui deployment and ABI tests
-description: Verify native layouts, context lifetime and selected symbol loading.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-native-imgui-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Native.ImGui.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: ImGui deployment and ABI tests
+description: Verify native layouts, context lifetime and selected symbol loading.
 ---
 # ImGui deployment and ABI tests
 
@@ -13,8 +18,8 @@ owners:
 ## Behavior covered
 
 - `ExplicitManagedLayoutsMatchNativeHeaders` checks the explicitly declared managed layouts against the native header contracts.
-- `CreateAndDestroyContext_ShouldSucceed` exercises an actual native context lifetime.
-- `TextDisabled_UsesTheLoadedCimguiSymbol` verifies dispatch through the loaded native symbol.
+- `CreateAndDestroyContextShouldSucceed` exercises an actual native context lifetime.
+- `TextDisabledUsesTheLoadedCimguiSymbol` verifies dispatch through the loaded native symbol.
 
 ## Required product and execution
 

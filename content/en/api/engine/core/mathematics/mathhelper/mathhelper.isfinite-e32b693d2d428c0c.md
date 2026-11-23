@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-sourceFingerprint: efb88480266c6500cad0ce617b8044f0da9b653e6e1e5534a4d9a1d5450c12ce
+sourceFingerprint: 6b1876fc96e5470cb47262ce445e513efb5ff9a87fa0ba2d6951d1e15c08d529
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
-
 ## Parameters
 
 **Parameter `value`:** The concrete value read or transformed by this operation.
+
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

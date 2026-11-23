@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-sourceFingerprint: 632943840e87b24c76810e1be79dd45672a2a8e7f57b64afadd63f2c4c85faf3
+sourceFingerprint: 682f8435ae1e6dcd57ef043c592d3acdecd2fef6d9cbc49e3c7cec11f1ddb902
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,13 +22,13 @@ outdated: false
 
 **Parameter `data`:** Bytes created by `M:Inno.Scene.SceneSubtreeSerialization.Capture(Inno.Scene.GameObject,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)`.
 
-**Parameter `parent`:** The optional external parent restored after the subtree is created.
-
-**Parameter `siblingIndex`:** The requested sibling index under `parent` or at the scene root.
-
 **Parameter `serialization`:** The serialization registry that owns the active converter generation.
 
 **Parameter `assets`:** The asset-reference resolver used to restore referenced asset identities.
+
+**Parameter `parent`:** The optional external parent restored after the subtree is created.
+
+**Parameter `siblingIndex`:** The requested sibling index under `parent` or at the scene root.
 
 ## Returns
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-sourceFingerprint: 4449e548449a36bea2e6f8c5fa833bed389570732d1a27832c2a7c24ac0ad2be
+sourceFingerprint: c0a90b8ef7e067259213cad17fda9ec420e89c06b4710ebdb0a69167c4f7e8cd
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-Hub dispatch stops when the event is marked globally handled. Completion observers are still notified. A failed hub propagates its exception without reporting successful completion.
-
 ## Parameters
 
 **Parameter `e`:** The event instance to dispatch.
+
+## Remarks
+
+Hub dispatch stops when the event is marked globally handled. Completion observers are still notified. A failed hub propagates its exception without reporting successful completion.

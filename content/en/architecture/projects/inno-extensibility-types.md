@@ -6,11 +6,11 @@ title: Inno.Extensibility.Types
 kind: project
 owners:
 - Inno.Extensibility.Types
-sourceFingerprint: f1667b5046af43a06b88a7a26a32ea193958d9d61863ee03a567f787164be393
+sourceFingerprint: e51866346204ddbb3b572bca247823dce79c2f63f957479a07765dea3b0be79d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Stable type references, immutable discovery snapshots and owned transactional extension registries.
 outdated: false

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: source-clr
-sourceFingerprint: 4fb7bebbd6499fd0520c72791b4f62d551db3323709d6b6a7dce7f2842227601
+sourceFingerprint: d68268271c40b6d90d9cd872e36a895e933a2361e731802c6219b8843bdddfab
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `definitionId`:** Stable definition identifier.
+**Parameter `definitionID`:** Stable definition identifier.
 
 **Parameter `definition`:** Receives the generation-scoped definition.
 

@@ -1,8 +1,11 @@
 ---
-title: Reusable test support and fixtures
-description: Choose explicit content, process, source and generation owners for real contract tests.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.testing.support
 kind: landing
+
+# Authoring metadata. Edit these fields and the text below.
+title: Reusable test support and fixtures
+description: Choose explicit content, process, source and generation owners for real contract tests.
 ---
 # Reusable test support and fixtures
 
@@ -12,7 +15,7 @@ Use a shared public testing boundary when a scenario needs controlled content, a
 
 | Need | Support contract |
 | --- | --- |
-| Frozen content with deliberate payload corruption | [In-memory content store](../projects/inno-content-testing.md) |
+| Frozen content with deliberate payload corruption | [In-memory content store](../projects/inno-testing-content.md) |
 | Prepared contract execution with complete process diagnostics | [Isolated process host](../projects/inno-testing-processes.md) |
 | The calling test's explicit source and SDK output owner | [Repository input resolution](../projects/inno-testing-source.md) |
 | Actual panels, native input and an authoring project | [Native Editor fixtures](../projects/inno-testing-editor-native.md) |

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-sourceFingerprint: 3bb906acfa273264335de90f8b6a9db5b66dd20aacef0d8b78570526615d90f9
+sourceFingerprint: 16b0c2f0caa32b1bc905f970d805e9950b9579c2de1fe513ecdb718979c501c0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,4 +20,4 @@ outdated: false
 
 **Parameter `inner`:** Active generation's source collector.
 
-**Parameter `sourceIds`:** Source IDs exclusively assigned to this layer.
+**Parameter `sourceIDs`:** Source IDs exclusively assigned to this layer.

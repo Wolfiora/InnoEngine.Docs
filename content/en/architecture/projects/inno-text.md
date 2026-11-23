@@ -6,11 +6,11 @@ title: Inno.Text
 kind: project
 owners:
 - Inno.Text
-sourceFingerprint: 746f5f385c215fd949d53fccacda196a5a08f8e573d7a470afa58a33a4f927f0
+sourceFingerprint: 82fedcd16ac970afa29541cca058325774426cd74a5538f38369b6d073c349bd
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Imported fonts, neutral shaping values, text service contracts and the runtime script facade.
 outdated: false

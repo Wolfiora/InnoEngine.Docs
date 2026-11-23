@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-sourceFingerprint: 7d1f1cd3a8c511bd8b216c21d17cd0e8488e546f63c4891006b172407b101b73
+sourceFingerprint: d520e5cf8f70fe87a3d668e6ab36ccb8d405ba87cda81492e2e14f210c5faa96
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `assetId`:** Persistent identity of the asset that owns the named source artifact.
+**Parameter `assetID`:** Persistent identity of the asset that owns the named source artifact.
 
 **Parameter `contentRevision`:** Current committed content revision of the owning asset.
 
@@ -26,4 +26,4 @@ outdated: false
 
 ## Exceptions
 
-**Exception `T:System.ArgumentException`:** Thrown when `assetId` is empty or `contentRevision` is negative.
+**Exception `T:System.ArgumentException`:** Thrown when `assetID` is empty or `contentRevision` is negative.

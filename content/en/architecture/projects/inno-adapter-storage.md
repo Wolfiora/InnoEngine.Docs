@@ -6,11 +6,12 @@ title: Inno.Adapter.Storage
 kind: project
 owners:
 - Inno.Adapter.Storage
-sourceFingerprint: e980c83bf58ccc5cf1e6038c67c4792d917c06e4faf75b4cf7c21435714a2315
+sourceFingerprint: 8f771d121a5559f2f946e29f92209f6229177b731985ca53d7aa50efc649b2a5
 contracts: []
+outdatedFor: de306280e8a16b79a5e04809bed380232c8ce89e7c281096780cab86689b2f38
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Select application storage through explicit provider registrations and logical scopes.
 outdated: false
@@ -21,7 +22,7 @@ This project defines the storage adapter family without choosing filesystem path
 
 ## Registration model
 
-`StorageBackendId` is an open ordinal string identity without whitespace. The default struct is unassigned. Built-in `fileSystem` and `browser` IDs support standard composition; third-party providers do not need a new enum member or a central branch.
+`StorageBackendID` is an open ordinal string identity without whitespace. The default struct is unassigned. Built-in `fileSystem` and `browser` IDs support standard composition; third-party providers do not need a new enum member or a central branch.
 
 `StorageBackendProvider` is an immutable registration descriptor with a protected construction boundary and a `CreateStorage` extension point. It does not scan assemblies. If another extension mechanism discovers source types, that mechanism owns its attributes and discovery protocol.
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-sourceFingerprint: 953921f87178bfbec2ec5b75dcc9e72589ff0221dc331c3745ba50c46f0811b0
+sourceFingerprint: 66d0775ed87b702afbdf62b882e88b7b262b934be03025296105403a6c763106
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,7 +20,7 @@ outdated: false
 
 **Parameter `kind`:** Committed change kind.
 
-**Parameter `persistentId`:** Persistent identity affected by the change, or empty for a catalog-wide change.
+**Parameter `persistentID`:** Persistent identity affected by the change, or empty for a catalog-wide change.
 
 **Parameter `assetPath`:** Current isolated path, or an invalid path for a catalog-wide change.
 

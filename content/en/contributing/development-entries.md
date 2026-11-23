@@ -1,15 +1,20 @@
 ---
-title: Build and run development entries
-description: Use the ordinary SDK Build and Editor entries while preserving
-  output ownership.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.development-entries
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - InnoEngine.Build
   - InnoEngine.Editor
 contracts:
   - project.innoengine-build
   - project.innoengine-editor
+
+# Authoring metadata. Edit these fields and the text below.
+title: Build and run development entries
+description: Use the ordinary SDK Build and Editor entries while preserving
+  output ownership.
 ---
 # Build and run development entries
 

@@ -6,11 +6,12 @@ title: Inno.Editor.Exporting
 kind: project
 owners:
 - Inno.Editor.Exporting
-sourceFingerprint: d0bc3c4354aa5651ac02d492c8ee12222898d93d8c0ef168a7c7148a83a317cf
+sourceFingerprint: 96026e995e57d4c5d5bd8269c69e8e68796557d967e1de64dcfbfcbf9c8a0726
 contracts: []
+outdatedFor: 26a215bd4bbf1601574f005333755504d00c78035cba691ef5c3c2f6fc73ab93
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Presentation-independent export service, operation-scoped progress, cancellation and retirement.
 outdated: false
@@ -29,7 +30,7 @@ Workbench owns the UI. The service owns its tasks, queued progress and cancellat
 
 ## Observe the operation you can cancel
 
-The progress snapshot contains operation ID, optional fraction, status, error, busy and cancellation state. Unknown totals display activity rather than a fabricated percentage. Late records cannot replace another operation, and Cancel(operationId) acts only on the current owner.
+The progress snapshot contains operation ID, optional fraction, status, error, busy and cancellation state. Unknown totals display activity rather than a fabricated percentage. Late records cannot replace another operation, and Cancel(operationID) acts only on the current owner.
 
 Shutdown cancels preparation/build and waits for their cleanup before disposing state. Completed preparation during shutdown cannot launch a new build. Precommit failures preserve old installed output; postcommit backup cleanup failures preserve the valid new product and report the residual path.
 

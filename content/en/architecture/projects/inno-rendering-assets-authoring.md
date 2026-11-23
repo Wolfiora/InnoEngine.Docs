@@ -6,11 +6,12 @@ title: Inno.Rendering.Assets.Authoring
 kind: project
 owners:
 - Inno.Rendering.Assets.Authoring
-sourceFingerprint: 299059cf09ed918640e0bb30fdc6b66bb061aa44108b4ec3fcc087fa0a44ea15
+sourceFingerprint: 58facc859bb46fc320012b27f9b1565ce559f9ba9076cebac369ddf94b80f5ef
 contracts: []
+outdatedFor: 9f7b5e3a73835d74257edd1caeb9b1fec0b4565e7c032f8189f263741452636c
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Frozen rendering imports, graph editing, target compilation and last-good publication.
 outdated: false
@@ -50,7 +51,7 @@ using Inno.Rendering.Assets.Authoring;
 
 static byte[] FreezeGraph(
     GraphDocument graph,
-    IReadOnlyDictionary<GraphNodeId, byte[]> functions,
+    IReadOnlyDictionary<GraphNodeID, byte[]> functions,
     SerializationRegistry serialization
 ) {
     return ShaderGraphArtifact.Encode(graph, functions, serialization);

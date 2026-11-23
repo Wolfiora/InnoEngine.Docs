@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-sourceFingerprint: d08d58d5376f0128eb995f5cb29270b14edb0a126d7a72a0400a0cb1f88bc405
+sourceFingerprint: a6b975746951cd47e1a44973198d01a13a4d7c1bc933eb58e8e85fdbd31ee728
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -28,4 +28,4 @@ outdated: false
 
 ## Returns
 
-A resolved material pass ready for automatic material binding. Calls to `M:Inno.Rendering.Runtime.RenderMaterialPass.UsesBinding(Inno.Rendering.RenderBindingId,Inno.Rendering.RenderShaderBindingKind)` require the overload carrying the compiled interface.
+A resolved material pass ready for automatic material binding. Calls to `M:Inno.Rendering.Runtime.RenderMaterialPass.UsesBinding(Inno.Rendering.RenderBindingID,Inno.Rendering.RenderShaderBindingKind)` require the overload carrying the compiled interface.

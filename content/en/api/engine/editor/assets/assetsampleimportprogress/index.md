@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
-sourceFingerprint: f289a7f075ae494fe049adbb2ef98f3ae22b3e282b570e6b053d09947234589c
+sourceFingerprint: b50e1f4310f66f7d6cf36f7efcdb6e1a0f4ad34abbd9cfe8fd87badc874a4d15
 contracts:
 - project.inno-editor-assets
 
@@ -20,7 +20,7 @@ aliases: []
 
 ## Parameters
 
-**Parameter `operationId`:** The import identity within its owner.
+**Parameter `operationID`:** The import identity within its owner.
 
 **Parameter `fraction`:** The completed validation and publication fraction.
 

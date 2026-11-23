@@ -6,11 +6,12 @@ title: Inno.UI.Assets
 kind: project
 owners:
 - Inno.UI.Assets
-sourceFingerprint: df867db9ada0371fce8bec8a7c4bfc2bd3d2a9f90d24d884001ae1ac7562bffe
+sourceFingerprint: 7c02f1696351cd62aa656ef2ab157570b4bb066ceec795a728989cb8189e3c65
 contracts: []
+outdatedFor: a5fc105e0b020a059222a87d1be517b850992b4d70fedd336bbf12cef60c986c
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Neutral UI import settings, language frontends, dependency analysis and runtime payload production.
 outdated: false
@@ -21,11 +22,11 @@ This project imports neutral `.iuidocument` sources through an explicitly select
 
 ## Import and generation contract
 
-`UiDocumentImportSettings` requires nonempty `languageId` and `implementationId`. Empty defaults are not an automatic selection. The importer reads strict UTF-8, analyzes the source through the active frontend registry, resolves declared font assets and produces an implementation-qualified runtime payload.
+`UIDocumentImportSettings` requires nonempty `languageId` and `implementationId`. Empty defaults are not an automatic selection. The importer reads strict UTF-8, analyzes the source through the active frontend registry, resolves declared font assets and produces an implementation-qualified runtime payload.
 
 Failed analysis produces diagnostics and stops import. Missing fonts and fonts without a usable face fail explicitly. Current imported registrations select face zero. Declared font artifacts become asset dependencies, and the payload retains neutral source and font descriptions rather than live frontend or native objects.
 
-The registry discovers `IUiDocumentFrontend` implementations from the shared type catalog, owns their extension lifetime, and acquires a type operation while analyzing. Provider retirement cannot race an active analysis. Detached analysis results must not retain provider objects or generation-bound delegates.
+The registry discovers `IUIDocumentFrontend` implementations from the shared type catalog, owns their extension lifetime, and acquires a type operation while analyzing. Provider retirement cannot race an active analysis. Detached analysis results must not retain provider objects or generation-bound delegates.
 
 ## Frontend boundaries
 

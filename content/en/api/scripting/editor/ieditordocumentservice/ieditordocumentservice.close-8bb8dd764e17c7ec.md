@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-sourceFingerprint: af16ad659d5261a08355b56a34c1ff483bfac9f7d2f05fed4cdd492d251c0ba6
+sourceFingerprint: dbce937735aba9118d43955f391db6cecfedbffb5efc004034af4648456ae449
 apiScope: Editor
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `documentId`:** Stable tab identity.
+**Parameter `documentID`:** Stable tab identity.
 
 **Parameter `mode`:** Explicit close behavior.
 

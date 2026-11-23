@@ -6,11 +6,11 @@ title: Inno.Core.Layers
 kind: project
 owners:
 - Inno.Core.Layers
-sourceFingerprint: dd91a6cc7dddf06ad8f42507f8d0582670f2e2b79ecd54d10a2de3bf1f9b6fd8
+sourceFingerprint: 56ba1885adf5b827fcfd7a03267028506b891f0d00398730c63d14d61f3132ce
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Ordered host lifecycle participants with independent event scopes and deterministic render unwind.
 outdated: false

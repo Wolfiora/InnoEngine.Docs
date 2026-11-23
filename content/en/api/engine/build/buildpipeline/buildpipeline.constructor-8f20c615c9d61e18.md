@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-sourceFingerprint: f892dfa604076354d07e8f515189f83c11fe3c64dffd6bf521ddeb8f64db97b9
+sourceFingerprint: 4b1b0e83ca243ed6c85e57766ca38786bea9f1d97ed7813d91f7665d3c364f9c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,11 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `supportPackRoot`:** The directory containing one child directory per `T:Inno.Build.BuildTargetId`.
-
 **Parameter `assets`:** The active authoring asset pipeline captured by builds.
-
-**Parameter `generations`:** The host-wide admission gate that remains pinned until the build snapshot is released.
 
 **Parameter `plugins`:** The active Plugin environment captured by builds.
 
@@ -30,7 +26,11 @@ outdated: false
 
 **Parameter `serialization`:** The serialization registry used to pin and encode the build snapshot.
 
+**Parameter `generations`:** The host-wide admission gate that remains pinned until the build snapshot is released.
+
 **Parameter `compiler`:** The project compiler used to produce a fresh runtime-only assembly generation for each game build.
+
+**Parameter `supportPackRoot`:** The directory containing one child directory per `T:Inno.Build.BuildTargetID`.
 
 **Parameter `gameTargets`:** The complete set of replaceable platform package implementations available to this host.
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Identity
 apiSurface: editor-script
-sourceFingerprint: 8783861b51ef9c829bec5c3ecf3ca58659072050a86986ba7ab28be46f855efd
+sourceFingerprint: 8d7561be3ed57e75feafb70d680113de8abb0dc95a2dfd82076734fce7d3a73d
 apiScope: Runtime
 contracts: []
 
@@ -19,4 +19,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** The stable identifier to preserve across serialization boundaries.
+**Parameter `persistentID`:** The stable identifier to preserve across serialization boundaries.

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-sourceFingerprint: 79c3a6072d8345b3cecc4a9b5e115827083933008d2e00321f726b6827a7e9de
+sourceFingerprint: 2885070e8a12b8e63db706756a3bbb65204cb781c37431b8f3bd0f845ced6d0e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when both values represent the same logical state; otherwise, `false`.
-
 ## Parameters
 
 **Parameter `obj`:** The object to compare with this instance.
+
+## Returns
+
+`true` when both values represent the same logical state; otherwise, `false`.

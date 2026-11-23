@@ -10,7 +10,7 @@ sourceFingerprint: bafa3c7732b1de745d6ec1ca5a4668c6f8105e906398387012478433e3262
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - The internal shader graph canvas coordinating shared documents, graph edits, compilation and presentation.
 outdated: false

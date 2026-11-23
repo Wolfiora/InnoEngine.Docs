@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-sourceFingerprint: 5c7d6737b1df71522a637b1e60fb783f9623b4b90f9d0d8ada848666f8a15599
+sourceFingerprint: 8c793bd3d1bbe5d2e954ef53fec581fb9bc3628c077eab05d172945a3c00009c
 apiScope: Runtime
 contracts: []
 
@@ -21,7 +21,7 @@ outdated: false
 
 **Parameter `id`:** Globally unique stable extension identifier.
 
-**Parameter `bindingId`:** Stable track binding protocol, independent of CLR type names.
+**Parameter `bindingID`:** Stable track binding protocol, independent of CLR type names.
 
 **Parameter `kind`:** The accepted value representation.
 

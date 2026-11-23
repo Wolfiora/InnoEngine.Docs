@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Identity
 apiSurface: source-clr
-sourceFingerprint: 49626ab97d635b68dff5b6833ca81ea288b71806f42bedf1e05bb1f0d6db5998
+sourceFingerprint: a87b9e961dd4f0932c4bc9c4ddc68fe97310a6f4d82377a325bff2142772f325
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,12 +20,12 @@ outdated: false
 
 **Parameter `obj`:** The detached identity object to initialize.
 
-**Parameter `persistentId`:** The non-empty persistent identity to assign.
+**Parameter `persistentID`:** The non-empty persistent identity to assign.
 
 ## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when `obj` is null.
 
-**Exception `T:System.ArgumentException`:** Thrown when `persistentId` is empty.
+**Exception `T:System.ArgumentException`:** Thrown when `persistentID` is empty.
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the object already has a live runtime identity.

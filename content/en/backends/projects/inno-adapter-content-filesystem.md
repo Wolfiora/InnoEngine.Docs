@@ -1,11 +1,16 @@
 ---
-title: Inno.Adapter.Content.FileSystem
-description: "Verified file-backed content generations with explicit cache roots and independent reader protection."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-adapter-content-filesystem
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Adapter.Content.FileSystem]
 exampleMode: host
 exampleProjects: [Inno.Adapter.Content.FileSystem]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Adapter.Content.FileSystem
+description: "Verified file-backed content generations with explicit cache roots and independent reader protection."
 ---
 # Inno.Adapter.Content.FileSystem
 

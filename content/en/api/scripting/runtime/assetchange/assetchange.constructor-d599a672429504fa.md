@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-sourceFingerprint: 3f2e0e87c38d5b87bd90d38218af33628f4491e942f56bea83eb1832d976136f
+sourceFingerprint: fc720d0096815f703343c8c7bc9d7a1db7a27f64fe3dca78c43683a838afb3c0
 apiScope: Runtime
 contracts: []
 
@@ -21,7 +21,7 @@ outdated: false
 
 **Parameter `kind`:** Committed change kind.
 
-**Parameter `persistentId`:** Persistent identity affected by the change, or empty for a catalog-wide change.
+**Parameter `persistentID`:** Persistent identity affected by the change, or empty for a catalog-wide change.
 
 **Parameter `assetPath`:** Current isolated path, or an invalid path for a catalog-wide change.
 

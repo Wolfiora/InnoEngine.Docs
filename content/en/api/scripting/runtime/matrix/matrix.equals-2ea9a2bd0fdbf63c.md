@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-sourceFingerprint: 180b692709264f1f1f5b3ff007c92d3fdf97ae0611aea6be4caf91f45a99148a
+sourceFingerprint: 327e378313c729d20152ab60e02dad863aeca125c5a253cf891840cdc48ed2d7
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when both values represent the same logical state; otherwise, `false`.
-
 ## Parameters
 
 **Parameter `obj`:** The object to compare with this instance.
+
+## Returns
+
+`true` when both values represent the same logical state; otherwise, `false`.

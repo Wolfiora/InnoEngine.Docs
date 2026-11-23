@@ -8,7 +8,7 @@ test('page footer credits the creator and pagination stays within the current pa
   await expect(page.locator('.page-credit')).toContainText('Website created by FLwolfy');
   await expect(page.locator('.page-credit')).not.toContainText('XML');
   await page.goto('api/engine/core/identity/identityobject/');
-  await expect(page.locator('.page-credit')).toContainText('Page written by InnoEngine contributors.');
+  await expect(page.locator('.page-credit')).toContainText('Page written by FLwolfy.');
   await expect(page.locator('.page-credit')).not.toContainText('Generated automatically');
   await page.goto('api/engine/animation/animation/');
   await expect(page.locator('.page-credit')).toContainText('Generated automatically from engine source facts and XML documentation.');

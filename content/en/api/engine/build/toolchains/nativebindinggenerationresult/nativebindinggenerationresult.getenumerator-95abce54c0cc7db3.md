@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 985c8873769023273c16af4ddfbed44faac7033cb939ec8b70161bf2c606c07f
+sourceFingerprint: a2bcffaf4243c00d242bf35c1c9c53993ab57ab59aff28f5ae114762daf97bc4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,10 +20,10 @@ outdated: false
 
 An enumerator that can be used to iterate through the collection.
 
-## Remarks
-
-Enumeration and all descriptor consumers must finish before the result's reading protection ends.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Reading ownership has ended.
+
+## Remarks
+
+Enumeration and all descriptor consumers must finish before the result's reading protection ends.

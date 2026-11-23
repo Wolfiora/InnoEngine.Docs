@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: source-clr
-sourceFingerprint: 1ee5944dad915724a083936e3ea6efa87510fe712e724ac1f9520b6effb229f7
+sourceFingerprint: de6c0dae12cafe4957573b53af8b615ea0709fbb9435b533ac6cf0c16960f4b5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-This includes failed attachment compensation. Retain unfinished resources when throwing RetirementPendingException and avoid repeating completed cleanup steps on the next attempt.
-
 ## Parameters
 
 **Parameter `context`:** The shared editor context for the runtime being detached.
+
+## Remarks
+
+This includes failed attachment compensation. Retain unfinished resources when throwing RetirementPendingException and avoid repeating completed cleanup steps on the next attempt.

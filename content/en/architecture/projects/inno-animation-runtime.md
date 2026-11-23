@@ -6,12 +6,12 @@ title: Inno.Animation.Runtime
 kind: project
 owners:
 - Inno.Animation.Runtime
-sourceFingerprint: c7092e494d47ef2cffd960932166c837d0a07b72f2e3f2aa5645d251c88aa94d
+sourceFingerprint: fcb61c43396d7d5fe111a22a48798130d6f211d1f5a27c00cd4bfcb6ad112248
 contracts:
 - manual.animation.play-clips#target-and-playback-lifetime
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Session playback, deterministic target-local blending, marker dispatch and binding generations.
 outdated: false

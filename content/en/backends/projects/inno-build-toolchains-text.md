@@ -1,10 +1,15 @@
 ---
-title: Inno.Build.Toolchains.Text
-description: Declare and prepare the Text native component using explicitly selected target tools.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-toolchains-text
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.Toolchains.Text
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Build.Toolchains.Text
+description: Declare and prepare the Text native component using explicitly selected target tools.
 ---
 # Inno.Build.Toolchains.Text
 

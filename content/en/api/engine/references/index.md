@@ -19,7 +19,7 @@ Find types in this project category. Each type links to its exact declarations a
 | [ReferenceCatalog](referencecatalog/index.md) | Owns one complete immutable generation of reference resolvers. |
 | [ReferenceDescriptor](referencedescriptor/index.md) | Preserves the stable intent and diagnostic metadata for one logical object reference. |
 | [ReferenceKey](referencekey/index.md) | Identifies one persistent reference slot owned by a logical object. |
-| [ReferenceKindId](referencekindid/index.md) | Identifies an open reference-resolution protocol independently of its current implementation. |
+| [ReferenceKindID](referencekindid/index.md) | Identifies an open reference-resolution protocol independently of its current implementation. |
 | [ReferenceRecoveryChange](referencerecoverychange/index.md) | Describes one candidate missing-state transition at an owner-thread safe point. |
 | [ReferenceRecoveryTransaction](referencerecoverytransaction/index.md) | Coordinates preserved reference slots using the host generation publication and two-phase rollback protocol. |
 | [ReferenceResolution](referenceresolution/index.md) | Reports how one descriptor resolves in an immutable reference-catalog generation. |

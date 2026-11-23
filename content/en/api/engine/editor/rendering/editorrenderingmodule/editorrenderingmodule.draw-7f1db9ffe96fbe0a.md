@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-sourceFingerprint: 6e4bda2ccbff152232fa0f80d685918d4e2c444c6842b1692a0241b4f1e79dcc
+sourceFingerprint: 15673e4453ab35d26a2b3dde77f8dffad8e1dddc37441689ac218eda876f3e2e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,6 +18,6 @@ outdated: false
 
 ## Parameters
 
-**Parameter `output`:** Opaque output returned by `M:Inno.Editor.Rendering.EditorRenderingModule.TrySubmit(Inno.Editor.Rendering.EditorViewportKindId,System.String,System.Int32,System.Int32,Inno.Editor.Rendering.EditorViewportOutput@)`.
+**Parameter `output`:** Opaque output returned by `M:Inno.Editor.Rendering.EditorRenderingModule.TrySubmit(Inno.Editor.Rendering.EditorViewportKindID,System.String,System.Int32,System.Int32,Inno.Editor.Rendering.EditorViewportOutput@)`.
 
 **Parameter `logicalSize`:** Destination size in logical UI pixels.

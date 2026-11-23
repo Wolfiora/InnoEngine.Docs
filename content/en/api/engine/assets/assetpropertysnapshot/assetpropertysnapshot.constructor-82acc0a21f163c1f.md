@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-sourceFingerprint: 165a2740bf345c274ac0fb7a336c2e8e064d42acae1c3dc3032b36ca7925daac
+sourceFingerprint: 134068590a2ba839baade61fa8f2be6da6767ad9cc06c666fdfa76c944830b1d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `stableTypeId`:** Persistent identity of the exact serialized settings type.
+**Parameter `stableTypeID`:** Persistent identity of the exact serialized settings type.
 
 **Parameter `data`:** Native property payload, copied before returning.
 

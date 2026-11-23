@@ -10,7 +10,7 @@ sourceFingerprint: 0c7e234745429a8b077bb61c8bd478ab1328eb252e5840aae966ce0665199
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Dependency-aware validation planning, owned execution and evidence reconciliation.
 outdated: false

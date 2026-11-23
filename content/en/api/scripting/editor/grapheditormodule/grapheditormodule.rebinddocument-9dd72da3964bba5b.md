@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: editor-script
-sourceFingerprint: abb462fadcc79c6100968db01921f50826d050e28f304afdf57180d1d7092dc3
+sourceFingerprint: af95acaedf8c0d48b9d8f2f781a18c3bf8d9c9c183148ceecf28652e667d99d5
 apiScope: Editor
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `documentId`:** Stable document identity.
+**Parameter `documentID`:** Stable document identity.
 
 **Parameter `document`:** New current-generation document instance.
 

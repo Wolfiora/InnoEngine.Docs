@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-sourceFingerprint: 54d2fa0a8b3ef94ca811b5e1f7dfd38a81d72e786af132dcfd6a1a78d22c5501
+sourceFingerprint: 82e744b74660f0fc79849c1a3b831f832b5b68067be04e7387d554fb6877be68
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when the button is activated.
-
 ## Parameters
 
 **Parameter `label`:** The visible label and optional ImGui identity suffix.
+
+## Returns
+
+`true` when the button is activated.

@@ -1,9 +1,9 @@
 ---
-title: Write and retain logs
-description: Emit script logs, select host delivery, handle backpressure and
-  close owned sinks safely.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.diagnostics.write-logs
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Logging
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.Core.Logging
+
+# Authoring metadata. Edit these fields and the text below.
+title: Write and retain logs
+description: Emit script logs, select host delivery, handle backpressure and
+  close owned sinks safely.
 ---
 # Write and retain logs
 
@@ -18,7 +23,7 @@ Write a log for something that happened: an action, a diagnostic transition or a
 
 ## Emit from a project script
 
-The host must bind its router to the executing session. The real Runtime script projection exposes `Log` and `LogSessionId` under `InnoEngine.Logging`; scripts do not construct the host router or its sinks.
+The host must bind its router to the executing session. The real Runtime script projection exposes `Log` and `LogSessionID` under `InnoEngine.Logging`; scripts do not construct the host router or its sinks.
 
 ```csharp
 using InnoEngine.Logging;

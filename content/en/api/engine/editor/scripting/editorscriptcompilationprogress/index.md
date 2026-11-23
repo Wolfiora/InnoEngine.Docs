@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scripting
 apiSurface: source-clr
-sourceFingerprint: 16ef7c85b0542d0b28f199207342b0f30c84b124a217f7afe657921b4bdb4d6e
+sourceFingerprint: 75fd3c66c45674d4a8aeba91212e0bf58ab15086639f8fe60b3bd9faf50eb56b
 contracts:
 - project.inno-editor-scripting
 
@@ -20,7 +20,7 @@ aliases: []
 
 ## Parameters
 
-**Parameter `operationId`:** The request identity within the owning script host.
+**Parameter `operationID`:** The request identity within the owning script host.
 
 **Parameter `fraction`:** The completed fraction of the complete reload workflow.
 

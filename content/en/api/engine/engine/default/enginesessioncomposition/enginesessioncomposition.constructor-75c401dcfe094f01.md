@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Engine.Default
 apiSurface: source-clr
-sourceFingerprint: 0c5c25f072e3a5c54c5176ff67fda737f469c2beaeee0d6f827eade1151c5f6d
+sourceFingerprint: 8c266decc70f561cca71654d46bdbb1dbbed3fb1e97712f0943e6b36752cedc6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -30,6 +30,6 @@ outdated: false
 
 **Parameter `audioSettings`:** The portable audio defaults, captured during factory activation.
 
-**Parameter `audioOverride`:** An optional product-specific audio owner, such as Editor preview/Play isolation.
-
 **Parameter `createStorage`:** The host factory transferring one isolated storage service to the session.
+
+**Parameter `audioOverride`:** An optional product-specific audio owner, such as Editor preview/Play isolation.

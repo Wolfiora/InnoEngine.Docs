@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
-sourceFingerprint: 7ebf73f6c0f9d40ef2fead28b29c75d2b3ca42b996ef8c8a8491d85bd74f75f2
+sourceFingerprint: 91ae8c97c63eabb2bf86cddf1b563af924737a9b366cdfbbdb15d64594452167
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,7 +20,7 @@ outdated: false
 
 **Parameter `bytes`:** Committed authoring artifact bytes.
 
-**Parameter `implementationId`:** Selected adapter implementation identity.
+**Parameter `implementationID`:** Selected adapter implementation identity.
 
 **Parameter `nodes`:** Shared node compiler registry.
 

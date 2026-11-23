@@ -1,21 +1,18 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.audio.runtime-script.390a1823b35d6767
-symbol: scripting:Inno.Audio:T:InnoEngine.Audio.AudioProcessorId
-title: AudioProcessorId
+uid: api.e882b73f8fa672d7669bd1aff617ea88470f399b45d5304c9e4e722f69ac9778
+symbol: scripting:Inno.Audio:T:InnoEngine.Audio.AudioProcessorID
+title: AudioProcessorID
 kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-sourceFingerprint: dcab65d011d6e543e38ae2bfe791b4cc83289048b1ac7bc7c36a0ca5a950858d
+sourceFingerprint: ab47495762528ad7e94ed544f98f2ed3f4fa2066b2696ae2c8eca5afe03d050f
 apiScope: Runtime
-contracts:
-- manual.scripting.use-script-api
-- project.inno-audio#playback-and-device-contract
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-sourceFingerprint: 7b6d44e865bc9573918fd7a71719004ccfad5d165b085088f934e211a94bf20c
+sourceFingerprint: 0cc394790b8455ac89c2046749d4a3eb3d15a4f6c1081beb4cbeac89923dab25
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -24,10 +24,10 @@ outdated: false
 
 True for a nonempty destination name followed by the reserved marker and a complete hexadecimal operation identity.
 
-## Remarks
-
-Recognition excludes transient payloads from source discovery. It does not establish ownership or authorize deletion.
-
 ## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The path is null.
+
+## Remarks
+
+Recognition excludes transient payloads from source discovery. It does not establish ownership or authorize deletion.

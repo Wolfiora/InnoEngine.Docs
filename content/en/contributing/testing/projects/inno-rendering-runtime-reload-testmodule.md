@@ -1,10 +1,15 @@
 ---
-title: "Collectible rendering contributor fixture"
-description: "Expose frame callback retention and failed-graph rollback across reload."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-rendering-runtime-reload-testmodule
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Rendering.Runtime.Reload.TestModule
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Collectible rendering contributor fixture"
+description: "Expose frame callback retention and failed-graph rollback across reload."
 ---
 # Collectible rendering contributor fixture
 

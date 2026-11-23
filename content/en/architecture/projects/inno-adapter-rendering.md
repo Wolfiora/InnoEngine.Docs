@@ -6,11 +6,12 @@ title: Inno.Adapter.Rendering
 kind: project
 owners:
 - Inno.Adapter.Rendering
-sourceFingerprint: 1c7dc29e25e954666ec63afa4c7bc63b5160a82054ed7dfe9d605212107b6330
+sourceFingerprint: 727e06f8bafc208e6847518996c5716bf570c2291a5b63ed9ef4004e540f8f54
 contracts: []
+outdatedFor: a3e89ae3a5de1bdae08f290aba1e37381737521bb21eb4353f998c625fc5142e
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Explicit runtime rendering providers without backend-native types or compiler dependencies.
 outdated: false
@@ -26,7 +27,7 @@ Start with [rendering tasks](../../manual/rendering/index.md) and [frame ownersh
 
 ## Registration and creation
 
-RenderingBackendId is an open, case-sensitive stable implementation identity. The built-in bgfx value identifies the standard implementation; a default struct is unassigned and rejected before allocation. The protected provider constructor captures its configured ID once. It cannot be overridden or inferred by creating a temporary device.
+RenderingBackendID is an open, case-sensitive stable implementation identity. The built-in bgfx value identifies the standard implementation; a default struct is unassigned and rejected before allocation. The protected provider constructor captures its configured ID once. It cannot be overridden or inferred by creating a temporary device.
 
 RenderingBackendCatalog freezes the provider collection and rejects invalid/duplicate IDs or null providers. It resolves only registered backends, with no silent replacement. IRenderingBackendFactory exposes supportedBackends, CreateDevice and CreateCompositionProgramProvider. Shell validates selection before window initialization, and Editor/Player obtain composition programs from the same registered implementation.
 
@@ -49,7 +50,7 @@ using Inno.Rendering;
 
 static IRenderDevice CreateOwnedDevice(
     IRenderingBackendFactory factory,
-    RenderingBackendId selection,
+    RenderingBackendID selection,
     IPlatformWindow window
 ) {
     return factory.CreateDevice(selection, new RenderingBackendOptions { window = window });

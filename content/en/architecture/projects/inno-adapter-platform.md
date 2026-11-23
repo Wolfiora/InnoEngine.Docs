@@ -6,11 +6,12 @@ title: Inno.Adapter.Platform
 kind: project
 owners:
 - Inno.Adapter.Platform
-sourceFingerprint: 4e6d04df242c3ed372cf8a0ac3132830961036fd35f7b95da3951af35dd0f5bb
+sourceFingerprint: 0e6468078af184d4a34d0e0ecd75ddab84b098839950f2f764286eadd164bd1c
 contracts: []
+outdatedFor: eca741acc52ec5ba9288100550ce3cba34244d4770e4cf17cb0d194399bd7068
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Explicit platform providers and the borrowed surface boundary between native adapters.
 outdated: false
@@ -26,7 +27,7 @@ Start with [owning windows and surfaces](../../platforms/window-lifetime.md) and
 
 ## Register before allocation
 
-PlatformBackendId is an open, ordinal, case-sensitive identity without whitespace. Its default struct is unassigned; sdl3 is a built-in identity, not an exhaustive platform list. PlatformBackendProvider captures the explicitly configured immutable ID and creates a caller-owned application.
+PlatformBackendID is an open, ordinal, case-sensitive identity without whitespace. Its default struct is unassigned; sdl3 is a built-in identity, not an exhaustive platform list. PlatformBackendProvider captures the explicitly configured immutable ID and creates a caller-owned application.
 
 PlatformBackendCatalog freezes the complete provider set and rejects invalid, duplicate or null registrations. Registration does not create a window. Resolve only an exact registered ID; unsupported IDs throw NotSupportedException and a null product throws InvalidOperationException. AdapterSelection validates all selected domains before window/device initialization.
 
@@ -34,7 +35,7 @@ Composition owns providers and their resources; the catalog does not take over t
 
 ## Borrow native surfaces only between adapters
 
-INativeWindowSurface is an optional host-adapter SPI. Its window/display handles are borrowed from the window owner and become invalid on window disposal. PlatformNativeHandleId describes the exact ABI through an open stable identity; built-in values describe Win32, Cocoa and a UTF-8 browser canvas selector. A default ABI identity is unassigned and a display handle may be zero.
+INativeWindowSurface is an optional host-adapter SPI. Its window/display handles are borrowed from the window owner and become invalid on window disposal. PlatformNativeHandleID describes the exact ABI through an open stable identity; built-in values describe Win32, Cocoa and a UTF-8 browser canvas selector. A default ABI identity is unassigned and a display handle may be zero.
 
 The consuming graphics adapter must understand the ABI and reject unsupported windows before acquiring process resources. Borrowing after window disposal throws ObjectDisposedException. These handles are not engine service, script, Identity, History or serialization data. They never transfer window ownership.
 
@@ -49,7 +50,7 @@ using Inno.Platform;
 
 static void RunWithWindow(
     IPlatformBackendFactory factory,
-    PlatformBackendId selection,
+    PlatformBackendID selection,
     PlatformWindowOptions options,
     Action<IPlatformApplication, IPlatformWindow> run
 ) {

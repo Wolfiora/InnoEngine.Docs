@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-sourceFingerprint: fafca0f2956c13bf3adf28afd6bd2030f6d41be3120688804dbab3f5d7f4e31c
+sourceFingerprint: 77c64183622c59caf3b67601e511d5ab034e818fe5776fad9a748c1492f753ba
 contracts:
 - project.inno-core-logging#delivery-and-ownership-contract
 
@@ -36,4 +36,4 @@ aliases: []
 
 **Parameter `stackTrace`:** The captured managed stack trace, or an empty string when no trace is available.
 
-**Parameter `sessionId`:** The isolated runtime session that produced the entry, or `P:Inno.Core.Logging.LogSessionId.none` for process-level work.
+**Parameter `sessionID`:** The isolated runtime session that produced the entry, or `P:Inno.Core.Logging.LogSessionID.none` for process-level work.

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-sourceFingerprint: 158cbf404cb6db4705710a8ad02b3abf8cee017120f64db5cbd42218a07e147a
+sourceFingerprint: 569028c352e2a297a8344050ed1f3475f8ea902c52f15f0878c837cfb85fc729
 apiScope: Runtime
 contracts: []
 
@@ -21,7 +21,7 @@ outdated: false
 
 **Parameter `kind`:** The category of reference owner.
 
-**Parameter `ownerId`:** The owner's persistent identity.
+**Parameter `ownerID`:** The owner's persistent identity.
 
 **Parameter `ownerName`:** The display name captured for diagnostics.
 

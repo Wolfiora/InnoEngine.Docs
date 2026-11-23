@@ -1,10 +1,15 @@
 ---
-title: "Conflicting asset importer fixture"
-description: "Exercise duplicate semantic importer identity without installing a real plugin."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-assets-pipeline-duplicateimporterfixture
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Assets.Pipeline.DuplicateImporterFixture
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Conflicting asset importer fixture"
+description: "Exercise duplicate semantic importer identity without installing a real plugin."
 ---
 # Conflicting asset importer fixture
 

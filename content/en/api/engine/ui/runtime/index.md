@@ -13,6 +13,6 @@ Find types in this project category. Each type links to its exact declarations a
 
 | Type | Purpose |
 | --- | --- |
-| [UiRuntime](uiruntime/index.md) | Owns retained UI contexts, imported font leases, and current-frame input for one runtime session. |
-| [UiRuntimeFactory](uiruntimefactory/index.md) | Creates one UI service for every isolated runtime session. |
+| [UIRuntime](uiruntime/index.md) | Owns retained UI contexts, imported font leases, and current-frame input for one runtime session. |
+| [UIRuntimeFactory](uiruntimefactory/index.md) | Creates one UI service for every isolated runtime session. |
 

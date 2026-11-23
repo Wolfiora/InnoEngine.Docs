@@ -24,5 +24,5 @@ Find types in this project category. Each type links to its exact declarations a
 | [LogLevel](loglevel/index.md) | Represents log severity levels in ascending order. |
 | [LogRouter](logrouter/index.md) | Owns one host&#39;s bounded log queue, filtering policy, and sink collection. |
 | [LogSessionContext](logsessioncontext/index.md) | Associates logs written on one asynchronous execution flow with an isolated runtime session. |
-| [LogSessionId](logsessionid/index.md) | Identifies the isolated runtime session that produced a log entry. |
+| [LogSessionID](logsessionid/index.md) | Identifies the isolated runtime session that produced a log entry. |
 

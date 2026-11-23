@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-sourceFingerprint: 1ddb605250e020625e5dd77ce28029fcd16deca403df86c8cb2031d4ddabd237
+sourceFingerprint: 23bd9144c9828850e1f60eed7da0444668a4529565754ef3681cd5af62eb891b
 apiScope: Runtime
 contracts: []
 
@@ -17,12 +17,12 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-Pending may be wrapped in another exception; classify the complete failure with RetirementPendingException.Find. Ordinary sibling failures remain observable after a later release attempt succeeds. New reads stop when release begins; already opened streams retain their independent provider pins.
-
 ## Exceptions
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Provider retirement is unfinished or a concurrent release is in progress; retain this lease and retry at a safe point.
 
 **Exception `T:System.AggregateException`:** The provider reports a wrapped failure, or release completes with ordinary errors retained from earlier pending attempts.
+
+## Remarks
+
+Pending may be wrapped in another exception; classify the complete failure with RetirementPendingException.Find. Ordinary sibling failures remain observable after a later release attempt succeeds. New reads stop when release begins; already opened streams retain their independent provider pins.

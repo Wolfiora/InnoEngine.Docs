@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Identity
 apiSurface: source-clr
-sourceFingerprint: 913376c67e30bffe0bb99e0f3e788f653e10d7b4027441ccabb2fe970a7890e7
+sourceFingerprint: 3d8fe7d641ee6c410540e480e1df6b62ad5ec5a16b15d538116976d5f48bac08
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,7 +20,7 @@ outdated: false
 
 **Parameter `obj`:** The identity object owned by this runtime session.
 
-**Parameter `persistentId`:** An optional persistent identity override. When omitted, the object's existing persistent identity is retained. An empty resolved identity is replaced with a newly generated identity.
+**Parameter `persistentID`:** An optional persistent identity override. When omitted, the object's existing persistent identity is retained. An empty resolved identity is replaced with a newly generated identity.
 
 ## Returns
 

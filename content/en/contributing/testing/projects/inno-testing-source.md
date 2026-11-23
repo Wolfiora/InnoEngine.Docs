@@ -1,11 +1,16 @@
 ---
-title: Explicit test source and output inputs
-description: Resolve the declaring test assembly's checkout and SDK output owner without guessing paths.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-testing-source
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Testing.Source]
 exampleMode: host
 exampleProjects: [Inno.Testing.Source]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Explicit test source and output inputs
+description: Resolve the declaring test assembly's checkout and SDK output owner without guessing paths.
 ---
 # Explicit test source and output inputs
 
@@ -39,7 +44,7 @@ Supply the calling test's own assembly explicitly. Copying its DLL elsewhere doe
 
 The targets record output ownership after SDK path evaluation and before assembly metadata generation, including explicit `ArtifactsPath` and `UseArtifactsOutput`. Ordinary output is not assigned a fabricated separate owner.
 
-Queries read public metadata and file markers without retaining Assembly, Type, instances or delegates, creating directories or changing environment. [Architecture tests](inno-tooling-architecture-tests.md) exercise ownership and invalid declaration boundaries.
+Queries read public metadata and file markers without retaining Assembly, Type, instances or delegates, creating directories or changing environment. [Architecture tests](inno-tooling-architecture-integration-tests.md) exercise ownership and invalid declaration boundaries.
 
 ## API reference
 

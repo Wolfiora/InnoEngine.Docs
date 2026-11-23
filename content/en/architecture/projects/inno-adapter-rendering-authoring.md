@@ -6,11 +6,12 @@ title: Inno.Adapter.Rendering.Authoring
 kind: project
 owners:
 - Inno.Adapter.Rendering.Authoring
-sourceFingerprint: cfe7fac556cfb80e5ab4548e22f348ed760b0218a7c4a3610e617d379365c94d
+sourceFingerprint: 694a9822fb9f72953bb496d9a266f1dc1bff9d85a2dc938262baa461cd8b6f90
 contracts: []
+outdatedFor: 7669fa693c83a80c48c62c3bf6e7382f466b7dea1e5a708258356ecbb241caeb
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Backend-matched shader and texture compiler factories for authoring hosts.
 outdated: false
@@ -23,7 +24,7 @@ Start with [rendering tasks](../../manual/rendering/index.md) and [frame ownersh
 
 ## Pair with runtime registration
 
-IRenderingAuthoringBackendFactory creates shader and texture target compilers through neutral asset-authoring contracts. It selects by the same open RenderingBackendId used for runtime device creation. Concrete shaderc/texturec tools, process execution and physical paths remain backend implementation details.
+IRenderingAuthoringBackendFactory creates shader and texture target compilers through neutral asset-authoring contracts. It selects by the same open RenderingBackendID used for runtime device creation. Concrete shaderc/texturec tools, process execution and physical paths remain backend implementation details.
 
 RenderingAuthoringBackendProvider captures its immutable ID in the protected constructor and supplies both compiler factories. This is explicit composition registration, not type discovery; it does not override an ID getter or probe a device to discover identity.
 

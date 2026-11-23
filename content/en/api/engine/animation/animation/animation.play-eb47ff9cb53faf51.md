@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: source-clr
-sourceFingerprint: ade4b201f887279a1f82ed9a18078edc07f3593881a7d8840dc5e2258f2893e2
+sourceFingerprint: 2653a2381823fbe4e56d4d7149b60a92f6eaf08737958cc1802fc3079a4480ba
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

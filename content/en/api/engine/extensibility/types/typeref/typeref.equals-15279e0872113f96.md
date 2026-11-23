@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-sourceFingerprint: 626ddc184f188fe1935805fdb9baf44fe82a03a6791745416530aa3416948d95
+sourceFingerprint: 5224f82567dec1b6eae266a5f46009b58b9dec4d04dcc9e02905274803b0ef30
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when both values represent the same logical state; otherwise, `false`.
-
 ## Parameters
 
 **Parameter `obj`:** The object to compare with this instance.
+
+## Returns
+
+`true` when both values represent the same logical state; otherwise, `false`.

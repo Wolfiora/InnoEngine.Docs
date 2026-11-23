@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-sourceFingerprint: 31f2a2e28363592f4392735cc344253b26d78f9467d2bcbfeeb61f81a767478d
+sourceFingerprint: a7de76f71d8545ff9126af42432379820568acb8a5ccc70a81e34931910b6899
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when both values represent the same logical state; otherwise, `false`.
-
 ## Parameters
 
 **Parameter `obj`:** The object to compare with this instance.
+
+## Returns
+
+`true` when both values represent the same logical state; otherwise, `false`.

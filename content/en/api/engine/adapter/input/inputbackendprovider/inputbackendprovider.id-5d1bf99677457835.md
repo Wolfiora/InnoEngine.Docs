@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Input
 apiSurface: source-clr
-sourceFingerprint: b2c64d6d965fd2cb447e93fc69886473dc3833fe7fb724fd3aeb4bfb80c2f28f
+sourceFingerprint: 40b8cfb2bd3bd54ebf692e00c860388c305a57f6ffef217678046199347cef85
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

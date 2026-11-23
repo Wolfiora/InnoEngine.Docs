@@ -13,5 +13,5 @@ Find types in this project category. Each type links to its exact declarations a
 
 | Type | Purpose |
 | --- | --- |
-| [StableTypeIdAttribute](../../../stabletypeidattribute/index.md) | Defines a stable identity for a type, used by persistence and hot-reload remapping. |
+| [StableTypeIDAttribute](../../../stabletypeidattribute/index.md) | Defines a stable identity for a type, used by persistence and hot-reload remapping. |
 

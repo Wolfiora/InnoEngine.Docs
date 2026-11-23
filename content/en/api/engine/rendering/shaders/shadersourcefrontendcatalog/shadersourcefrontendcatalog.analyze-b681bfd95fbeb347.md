@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-sourceFingerprint: 24854a6814c55b11e765e987cffc9462421fc5317bd2062d004b208274fd5702
+sourceFingerprint: cee5e0ebac95104a921300adcd2ab88cab564d437abedf22d422f4615fa976d8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `languageId`:** Registered language identity, never inferred from the active graphics API.
+**Parameter `languageID`:** Registered language identity, never inferred from the active graphics API.
 
 **Parameter `request`:** Immutable source analysis request.
 

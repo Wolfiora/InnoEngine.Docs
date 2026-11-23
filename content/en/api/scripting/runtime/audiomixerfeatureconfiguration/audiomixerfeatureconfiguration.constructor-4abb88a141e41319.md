@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-sourceFingerprint: 8b1849419287a7883e755cae9440c0c00cf5abc00f6f0aa8b03e1482c324ec4f
+sourceFingerprint: 8b13b1060f3561d216f3d5bcd30f389ebd02a699f211977a4ce5e6afa6db117e
 apiScope: Runtime
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `featureTypeId`:** Globally stable feature extension identifier.
+**Parameter `featureTypeID`:** Globally stable feature extension identifier.
 
 **Parameter `state`:** Optional reload-safe feature state.
 

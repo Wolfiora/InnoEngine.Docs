@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-sourceFingerprint: b297191bf47cf3c77281d26875a737005a98f0489c1f38a942e3db6a0787e605
+sourceFingerprint: 196f6baf5f8d2e5beb6f579513bf924c3525c2d5627dc8061e92458a7574bab0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,7 +20,7 @@ outdated: false
 
 **Parameter `content`:** Ordered roots selected by the host.
 
-**Parameter `sessionId`:** Stable identity of the host output session.
+**Parameter `sessionID`:** Stable identity of the host output session.
 
 **Parameter `view`:** Exact view that will consume the content.
 
@@ -32,4 +32,4 @@ outdated: false
 
 **Parameter `views`:** All views in the same model output, used to choose shared content resolution.
 
-**Parameter `sourceIds`:** Optional explicit source allowlist for a routed model layer.
+**Parameter `sourceIDs`:** Optional explicit source allowlist for a routed model layer.

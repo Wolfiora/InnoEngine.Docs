@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Audio
 apiSurface: source-clr
-sourceFingerprint: 30a498ba0fb110f17ab92a781532862c5a84e912dd9dd1de99207b2c25337cfe
+sourceFingerprint: d68328581b29d04f1c3dd89b5376dfd245ba2835513269ad4ef0c1d7992ad9ef
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-A factory whose features are owned and released by their runtime sessions.
-
 ## Parameters
 
 **Parameter `session`:** The explicit session being composed.
+
+## Returns
+
+A factory whose features are owned and released by their runtime sessions.

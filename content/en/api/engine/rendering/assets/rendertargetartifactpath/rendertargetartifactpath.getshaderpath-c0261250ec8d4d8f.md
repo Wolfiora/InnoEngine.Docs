@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-sourceFingerprint: 698ea3bf19a3edc738366ef664468f4a7bc7feff80f2ac31e9ada588ff1c59c6
+sourceFingerprint: 33466d62947bc636e4e8eb5d36c82f05c62d8abd05ace22dc25dc22a5bcaea96
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `shaderId`:** The persistent shader asset identity.
+**Parameter `shaderID`:** The persistent shader asset identity.
 
 **Parameter `backend`:** The graphics backend selected by the target Player.
 
@@ -30,4 +30,4 @@ A platform-neutral path beneath the runtime content root.
 
 ## Exceptions
 
-**Exception `T:System.ArgumentException`:** Thrown when `shaderId` is empty.
+**Exception `T:System.ArgumentException`:** Thrown when `shaderID` is empty.

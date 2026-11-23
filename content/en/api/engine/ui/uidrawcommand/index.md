@@ -1,21 +1,19 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.ui.0d3a9bb5d82163bb
-symbol: engine:Inno.UI:T:Inno.UI.UiDrawCommand
-title: UiDrawCommand
+uid: api.06c769eba9bacf6c229f7cb6197a8f531864247d6ddb3cede6c7830c8656535f
+symbol: engine:Inno.UI:T:Inno.UI.UIDrawCommand
+title: UIDrawCommand
 kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-sourceFingerprint: f2ce3b9d8eb174cf0cb06a7007e2267392ae2b17352ba3957329287c357900df
-contracts:
-- project.inno-ui#document-and-frame-contract
+sourceFingerprint: 6b699c995d32765cfa9bb8d8f5f3a3d3ca7a592141e3f1fa5dfb5274ae8a1018
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---
 
 ## Parameters

@@ -1,8 +1,9 @@
 ---
-title: Inno.Editor.ImGui editor-script examples
-description: Verified logical API use sites with the owning feature lifecycle kept explicit.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: examples.inno-editor-imgui.editor-script
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.ImGui
 contracts:
@@ -10,6 +11,10 @@ contracts:
 exampleMode: editor-script
 exampleProjects:
   - Inno.Editor.ImGui
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Editor.ImGui editor-script examples
+description: Verified logical API use sites with the owning feature lifecycle kept explicit.
 ---
 # Inno.Editor.ImGui editor-script examples
 
@@ -24,7 +29,7 @@ public static class Example0
 {
     static void DrawHelp()
     {
-        EditorUiSession.current.widgets.Hint("Changes use the shared Editor History.");
+        EditorUISession.current.widgets.Hint("Changes use the shared Editor History.");
     }
 }
 ```
@@ -47,12 +52,12 @@ public sealed class MessageModal : EditorModal
         Vector2 availableContentSize
     ) {
         m_content = new("A message that can wrap.", actionLabel: "Close", cancelOnEscape: true);
-        m_layout = EditorUiSession.current.widgets.MeasureDialog(m_content, availableContentSize);
+        m_layout = EditorUISession.current.widgets.MeasureDialog(m_content, availableContentSize);
         return m_layout.size;
     }
     protected override void OnDraw(EditorContext context)
     {
-        if (EditorUiSession.current.widgets.DrawDialog(m_content, m_layout))
+        if (EditorUISession.current.widgets.DrawDialog(m_content, m_layout))
             m_visible = false;
     }
 }

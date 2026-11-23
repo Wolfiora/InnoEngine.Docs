@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-sourceFingerprint: bc89b79d6353670085a2e364e2bdb8b3519f060b6ca651a3e42e5bc43282e015
+sourceFingerprint: 5b904970bdea0a6523151e01cd2ce357ad283c554b4800dd745cc2ab0ff08190
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -24,9 +24,9 @@ outdated: false
 
 **Parameter `bytes`:** Native source bytes.
 
-**Parameter `dependencies`:** Receives persistent dependencies discovered during export.
-
 **Parameter `services`:** The generation-bound serialization and reference services supplied by the import context.
+
+**Parameter `dependencies`:** Receives persistent dependencies discovered during export.
 
 ## Returns
 

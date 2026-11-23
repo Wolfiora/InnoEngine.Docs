@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-sourceFingerprint: 15a7a5a35c0454fb284bcd488569fdd13c8404cc3218f0ac4a898ba5bcc1a1e6
+sourceFingerprint: b482ec33713e1decb8fe8b6e72abd4bd1ad73312879ae90d69647edea31294f2
 apiScope: Runtime
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `featureTypeId`:** Globally stable feature extension identifier.
+**Parameter `featureTypeID`:** Globally stable feature extension identifier.
 
 **Parameter `state`:** Optional reload-safe settings state.
 

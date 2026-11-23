@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-sourceFingerprint: c546bf85c4a4449d45ab900a535e211b70172bccec7cac47696ba966d007ef8f
+sourceFingerprint: 9d68e6a36ef06baee08412673979bcc2f5b457d02f1188acbf810323da2da5a4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,17 +18,17 @@ outdated: false
 
 ## Parameters
 
-**Parameter `shaderCompiler`:** The compiler that turns backend-neutral shader IR into device target programs.
-
 **Parameter `assets`:** The authoring asset pipeline that owns source mounts.
 
 **Parameter `serialization`:** The serialization registry that owns active Shader contracts.
 
+**Parameter `types`:** The shared authoring type generation owner for graph and source extensions.
+
+**Parameter `shaderCompiler`:** The compiler that turns backend-neutral shader IR into device target programs.
+
 **Parameter `textureCompiler`:** The compiler that turns artist texture sources into portable KTX artifacts.
 
 **Parameter `diagnostics`:** The sink that receives compilation and last-good fallback diagnostics.
-
-**Parameter `types`:** The shared authoring type generation owner for graph and source extensions.
 
 ## Exceptions
 

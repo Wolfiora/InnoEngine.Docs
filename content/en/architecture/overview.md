@@ -1,8 +1,11 @@
 ---
-title: Engine architecture
-description: Understand the direction of dependencies from products to reusable mechanisms.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.overview
 kind: explanation
+
+# Authoring metadata. Edit these fields and the text below.
+title: Engine architecture
+description: Understand the direction of dependencies from products to reusable mechanisms.
 ---
 # Engine architecture
 

@@ -1,15 +1,20 @@
 ---
-title: Prepare and check engine native bindings
-description: Use the engine's official generation boundary without modifying
-  generated code or duplicating upstream API documentation.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.native-bindings
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.Bindings
   - Inno.Build.Tasks
 contracts:
   - project.inno-build-bindings
   - architecture.native-preparation
+
+# Authoring metadata. Edit these fields and the text below.
+title: Prepare and check engine native bindings
+description: Use the engine's official generation boundary without modifying
+  generated code or duplicating upstream API documentation.
 ---
 # Prepare and check engine native bindings
 

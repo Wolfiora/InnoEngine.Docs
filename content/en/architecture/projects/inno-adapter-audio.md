@@ -6,11 +6,12 @@ title: Inno.Adapter.Audio
 kind: project
 owners:
 - Inno.Adapter.Audio
-sourceFingerprint: 7bbb24ea77919492b1d7663b688b2565bc5ab7ed0b968e2d3c3203839fca1072
+sourceFingerprint: eade5e44c2dbd57cd5d39acffcd017410642fb25ba7b093d89fcdb16dfa881ee
 contracts: []
+outdatedFor: d0c2f84a247fbb710cae39b055ce8d40e2a59d48101e903426816ab08f11fad2
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Explicit audio backend selection and composition-owned provider catalogs.
 outdated: false
@@ -21,7 +22,7 @@ This project selects backend-neutral audio devices from explicit provider regist
 
 ## Select a backend
 
-Host composition supplies `AudioBackendProvider` instances to an immutable `AudioBackendCatalog`. `AudioBackendId` is an open, ordinal identity; it must be assigned and contain no whitespace. The built-in MiniAudio identity names a registration, not a request to scan the process for an implementation.
+Host composition supplies `AudioBackendProvider` instances to an immutable `AudioBackendCatalog`. `AudioBackendID` is an open, ordinal identity; it must be assigned and contain no whitespace. The built-in MiniAudio identity names a registration, not a request to scan the process for an implementation.
 
 Validate the product's adapter selection before creating services. `CreateDevice` receives a selected backend and `AudioBackendOptions`. The `noDevice` option supports explicitly hardwareless operation and tests; it is not evidence that a physical output device worked.
 

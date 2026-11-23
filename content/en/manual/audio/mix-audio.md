@@ -1,8 +1,9 @@
 ---
-title: Route audio through a mixer
-description: Build a validated bus graph and configure backend-neutral processor chains.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.audio.mix-audio
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Audio
   - Inno.Audio.Runtime
@@ -12,6 +13,10 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.Audio
+
+# Authoring metadata. Edit these fields and the text below.
+title: Route audio through a mixer
+description: Build a validated bus graph and configure backend-neutral processor chains.
 ---
 # Route audio through a mixer
 
@@ -29,11 +34,11 @@ public static class MusicMixer
     public static AudioMixer Create()
     {
         AudioMixerBuilder builder = new();
-        AudioBusId music = new("music");
-        builder.AddBus(music, AudioBusId.master, volume: 0.8f);
+        AudioBusID music = new("music");
+        builder.AddBus(music, AudioBusID.master, volume: 0.8f);
         builder.AddProcessor(music, new AudioProcessorConfiguration(
-            AudioProcessorId.lowPass,
-            new[] { new AudioProcessorParameter(AudioParameterId.frequency, 12000f) }));
+            AudioProcessorID.lowPass,
+            new[] { new AudioProcessorParameter(AudioParameterID.frequency, 12000f) }));
         return builder.Build();
     }
 }

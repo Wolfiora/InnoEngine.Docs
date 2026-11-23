@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-sourceFingerprint: 48989d2fe8a1a9c07d18adf32fe37b8c800676b945dd19125302d3ed3941e90d
+sourceFingerprint: 1f20960fc6c144cdfd813f10a6641f638b8974275438612cec4bf30aa386922f
 apiScope: Editor
 contracts: []
 
@@ -23,4 +23,4 @@ outdated: false
 
 **Parameter `position`:** The icon position in world space.
 
-**Parameter `iconId`:** A stable semantic icon ID. Unknown IDs use the generic scene icon.
+**Parameter `iconID`:** A stable semantic icon ID. Unknown IDs use the generic scene icon.

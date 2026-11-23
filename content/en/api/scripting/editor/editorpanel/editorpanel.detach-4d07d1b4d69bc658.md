@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-sourceFingerprint: 99c509583cda59f84a31c9d8a96b1330745b5ab778b0a146ae1a920718175dce
+sourceFingerprint: 197247d660ee225121ff2f9eb14422b570ecf5e789b7f8e053d5dbc12a1d5948
 apiScope: Editor
 contracts: []
 
@@ -16,10 +16,6 @@ source: xml
 description: null
 outdated: false
 ---
-
-## Remarks
-
-Also compensates partial attachment. Completed detachment is idempotent; a pending panel cannot draw.
 
 ## Parameters
 
@@ -30,3 +26,7 @@ Also compensates partial attachment. Completed detachment is idempotent; a pendi
 **Exception `T:System.ArgumentNullException`:** Thrown when `context` is `null`.
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Panel work is still active. The owner must retain the panel and its dependencies and retry detachment.
+
+## Remarks
+
+Also compensates partial attachment. Completed detachment is idempotent; a pending panel cannot draw.

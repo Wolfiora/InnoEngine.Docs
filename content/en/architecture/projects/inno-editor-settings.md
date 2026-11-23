@@ -6,13 +6,14 @@ title: Inno.Editor.Settings
 kind: project
 owners:
 - Inno.Editor.Settings
-sourceFingerprint: 90eab9c069068ddf36ecc463e3b83f0ada3d12ea7dddc492269df024751738c1
+sourceFingerprint: d1c5f0e8aa80aa5934100d0d12c3f92839d343b9b182239165473bb4bd69db77
 contracts:
 - architecture.editor-generations
 - architecture.ownership
+outdatedFor: 94c5d2f9b8328e536347e3f9ac1ae0682265b28d724735091c2ce802fde2560e
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Editor preferences and Project setting drawers share a frontend while preserving separate persistence owners.
 outdated: false
@@ -41,7 +42,7 @@ The Console's Clear-on-Play preference has one identity: `Editor/Diagnostics/Con
 
 ## Present a Project setting
 
-Project runtime definitions belong to Core Settings. A drawer derives from `ProjectSettingEditor<TSetting>` and declares a `ProjectSettingPath` for placement. The catalog reads the protocol identity from `TSetting`'s `ProjectSettingDefinitionAttribute`; a drawer does not repeat a separate editable `settingId`.
+Project runtime definitions belong to Core Settings. A drawer derives from `ProjectSettingEditor<TSetting>` and declares a `ProjectSettingPath` for placement. The catalog reads the protocol identity from `TSetting`'s `ProjectSettingDefinitionAttribute`; a drawer does not repeat a separate editable `settingID`.
 
 The drawer edits an isolated staging copy for the current generation. Apply compares it against the composed Host + Plugin baseline. A protocol with a composer writes semantic delta; one without a composer writes a complete replacement. Reset removes the project's contribution and recomposes the baseline. Returning to the baseline removes the override instead of retaining an empty record.
 
@@ -49,7 +50,7 @@ One setting protocol can have multiple placements when their `TSetting` is ident
 
 ## Identity and use contracts
 
-Project settings retain their `ProjectSettingId` and stable type identity. Their UI path controls placement. The built-in Project ID drawer accepts a portable lowercase namespace. Project-owned layer/tag/sorting definitions store local keys and resolve as `projectId.name`; game/plugin export identity reads the same Project ID. Build defaults and export drafts do not introduce another editable identity.
+Project settings retain their `ProjectSettingID` and stable type identity. Their UI path controls placement. The built-in Project ID drawer accepts a portable lowercase namespace. Project-owned layer/tag/sorting definitions store local keys and resolve as `projectID.name`; game/plugin export identity reads the same Project ID. Build defaults and export drafts do not introduce another editable identity.
 
 Candidate settings/drawers are constructed under TypeRegistry ownership and validated before publication. Conflicts compensate newly created instances. Retirement errors aggregate and fault the generation; diagnostics do not stand in for cleanup. Definition collections do not expose mutable internal arrays.
 

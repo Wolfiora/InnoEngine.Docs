@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Exporting
 apiSurface: source-clr
-sourceFingerprint: bc6bbd37ce729c84c24a0b41427f20d55c8aa9aadcdd0baf1b6590edbd089749
+sourceFingerprint: 6da533f13d1819c55a41a67bc26b3fbcfb5e00c37703c98f11de3ff162f96a40
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `operationId`:** The export identity within this service.
+**Parameter `operationID`:** The export identity within this service.
 
 **Parameter `fraction`:** The last measured completion fraction, or null while the active phase has no measured total.
 

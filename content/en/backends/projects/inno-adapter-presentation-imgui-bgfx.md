@@ -1,9 +1,14 @@
 ---
-title: Inno.Adapter.Presentation.ImGui.Bgfx
-description: "Editor draw-data rendering, correct output color transfer and protected BGFX viewport retirement."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-adapter-presentation-imgui-bgfx
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Adapter.Presentation.ImGui.Bgfx]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Adapter.Presentation.ImGui.Bgfx
+description: "Editor draw-data rendering, correct output color transfer and protected BGFX viewport retirement."
 ---
 # Inno.Adapter.Presentation.ImGui.Bgfx
 

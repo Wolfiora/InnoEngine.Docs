@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-sourceFingerprint: c95c55a321b94f5dda20385b9265786baee715dc90d74ffb3c4a7edceaf9f2d1
+sourceFingerprint: e0cbf24de75a217e4d3a7c2fb79432d7109f76ace627240edf4bb791834dad76
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,4 +18,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `documentId`:** Closing or invalidated document identity.
+**Parameter `documentID`:** Closing or invalidated document identity.

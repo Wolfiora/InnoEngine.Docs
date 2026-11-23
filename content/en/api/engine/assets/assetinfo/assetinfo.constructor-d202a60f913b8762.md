@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-sourceFingerprint: c390d7054e392d7580b72ec6459c42e35e075006cfb6d074156a44526acc212f
+sourceFingerprint: a23417f5135a9a32d0015a456a307aa13292db821da5d7062d6206106f394dc9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** Persistent identity assigned to the source asset.
+**Parameter `persistentID`:** Persistent identity assigned to the source asset.
 
 **Parameter `assetPath`:** Current isolated source path.
 
@@ -26,9 +26,9 @@ outdated: false
 
 **Parameter `status`:** Current import status.
 
-**Parameter `importerId`:** Stable importer identifier, or an empty value when none applies.
+**Parameter `importerID`:** Stable importer identifier, or an empty value when none applies.
 
-**Parameter `stableAssetTypeId`:** Stable imported asset type identity.
+**Parameter `stableAssetTypeID`:** Stable imported asset type identity.
 
 **Parameter `artifactKey`:** Current committed artifact key.
 

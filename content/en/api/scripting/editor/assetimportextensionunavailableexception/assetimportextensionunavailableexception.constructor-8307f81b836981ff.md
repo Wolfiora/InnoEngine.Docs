@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: editor-script
-sourceFingerprint: 7cfeeb01638c80d5ec678cab706d13be956c847670ccfee2850981387accd2ed
+sourceFingerprint: 4503f00dea50ed85ebe1a7e8e733933201a896e7720a5aca78992560bac00b71
 apiScope: Editor
 contracts: []
 
@@ -21,4 +21,4 @@ outdated: false
 
 **Parameter `extensionKind`:** The stable extension protocol identity.
 
-**Parameter `extensionId`:** The required implementation's stable identity.
+**Parameter `extensionID`:** The required implementation's stable identity.

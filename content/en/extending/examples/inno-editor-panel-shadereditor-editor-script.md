@@ -1,8 +1,9 @@
 ---
-title: Inno.Editor.Panel.ShaderEditor editor-script examples
-description: Verified logical API use sites with the owning feature lifecycle kept explicit.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: examples.inno-editor-panel-shadereditor.editor-script
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Panel.ShaderEditor
 contracts:
@@ -10,6 +11,10 @@ contracts:
 exampleMode: editor-script
 exampleProjects:
   - Inno.Editor.Panel.ShaderEditor
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Editor.Panel.ShaderEditor editor-script examples
+description: Verified logical API use sites with the owning feature lifecycle kept explicit.
 ---
 # Inno.Editor.Panel.ShaderEditor editor-script examples
 

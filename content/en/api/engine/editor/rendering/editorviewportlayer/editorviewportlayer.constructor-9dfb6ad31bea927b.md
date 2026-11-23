@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-sourceFingerprint: 95fd437f8388a8de27bc0462e51b9113fe170e1a1f76a4011bd7ac13065f0c08
+sourceFingerprint: f9f52a029559eb5900b7bd49d6155be8f7a8c9ef3f5d9e1e5bfae8ccc6af522d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `contributorId`:** Stable identity of the rendering-model contributor that produced the layer.
+**Parameter `contributorID`:** Stable identity of the rendering-model contributor that produced the layer.
 
 **Parameter `pipeline`:** Contributor-selected pipeline, or null for the project default.
 

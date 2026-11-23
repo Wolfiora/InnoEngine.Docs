@@ -1,10 +1,15 @@
 ---
-title: Asset ownership and residency tests
-description: Verify canonical ownership, retained resources and pending release.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-assets-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Assets.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Asset ownership and residency tests
+description: Verify canonical ownership, retained resources and pending release.
 ---
 # Asset ownership and residency tests
 
@@ -21,7 +26,7 @@ The project declares the `contract` validation layer. Use [the shared validation
 A focused diagnostic from the engine root is:
 
 ```powershell
-dotnet test tests/assets/Inno.Assets.Tests/Inno.Assets.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/content/assets/Inno.Assets.Tests/Inno.Assets.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 Use `--filter FullyQualifiedName~MethodName` to investigate one case. A filtered run does not replace the obligations in the validation plan. Restore the declared SDK, packages and any tool/process prerequisites before executing; preserve cancellation, thread and cleanup requirements.
@@ -35,18 +40,18 @@ These representative methods are preserved from the original reference and check
 [Read the assertions](https://github.com/Wolfiora/InnoEngine/blob/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/tests/assets/Inno.Assets.Tests/AssetCoreTests.cs). Representative entry points:
 
 - `ReferenceBridgeDoesNotConvertAnUnfinishedRetirementIntoMissing`
-- `AssetDependency_UsesPersistentIdentityForEquality`
-- `AssetObject_DefaultRuntimeState_IsDetachedAndEmpty`
-- `AssetDependency_IsAnImmutableValueContract`
+- `AssetDependencyUsesPersistentIdentityForEquality`
+- `AssetObjectDefaultRuntimeStateIsDetachedAndEmpty`
+- `AssetDependencyIsAnImmutableValueContract`
 
 ### Asset Execution Context
 
 [Read the assertions](https://github.com/Wolfiora/InnoEngine/blob/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/tests/assets/Inno.Assets.Tests/AssetExecutionContextTests.cs). Representative entry points:
 
-- `Assets_WithoutAnExecutionScope_FailsExplicitly`
-- `NestedScopes_RestoreThePreviousLookup`
-- `Scopes_DisposedOutOfOrder_AreRejectedWithoutLosingTheActiveLookup`
-- `ParallelAsyncFlows_ResolveTheirOwnLookups`
+- `AssetsWithoutAnExecutionScopeFailsExplicitly`
+- `NestedScopesRestoreThePreviousLookup`
+- `ScopesDisposedOutOfOrderAreRejectedWithoutLosingTheActiveLookup`
+- `ParallelAsyncFlowsResolveTheirOwnLookups`
 
 ### Asset Residency
 
@@ -68,8 +73,8 @@ These representative methods are preserved from the original reference and check
 
 [Read the assertions](https://github.com/Wolfiora/InnoEngine/blob/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/tests/assets/Inno.Assets.Tests/AssetTypesTests.cs). Representative entry points:
 
-- `TextAsset_Ctor_AssignsValues`
-- `BinaryAsset_Ctor_AssignsValues`
+- `TextAssetCtorAssignsValues`
+- `BinaryAssetCtorAssignsValues`
 
 ### Residency Retirement
 

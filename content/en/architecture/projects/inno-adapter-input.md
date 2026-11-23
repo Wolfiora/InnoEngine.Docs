@@ -6,11 +6,11 @@ title: Inno.Adapter.Input
 kind: project
 owners:
 - Inno.Adapter.Input
-sourceFingerprint: 7fa451dd651bafff2e46ecc9bae6b552d56a3fcaf7d0cfc1a8aaca0f19be2f1c
+sourceFingerprint: de6bde8a77b59580ed3681d109c626978f5230c0f1e66869853257cd3b31fdc4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Compose input providers and route neutral events to isolated session backends.
 outdated: false

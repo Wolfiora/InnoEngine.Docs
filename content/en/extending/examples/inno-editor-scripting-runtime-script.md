@@ -1,8 +1,9 @@
 ---
-title: Inno.Editor.Scripting runtime-script examples
-description: Verified logical API use sites with the owning feature lifecycle kept explicit.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: examples.inno-editor-scripting.runtime-script
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Scripting
 contracts:
@@ -10,6 +11,10 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.Editor.Scripting
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Editor.Scripting runtime-script examples
+description: Verified logical API use sites with the owning feature lifecycle kept explicit.
 ---
 # Inno.Editor.Scripting runtime-script examples
 
@@ -23,7 +28,7 @@ using InnoEngine.Reflection;
 using InnoEngine.Scene;
 using InnoEngine.Serialization;
 
-[StableTypeId("c14f7138-0c5c-4e69-8376-cec8edc3056c")]
+[StableTypeID("c14f7138-0c5c-4e69-8376-cec8edc3056c")]
 public sealed class PlayerController : GameBehavior
 {
     [SerializableProperty]

@@ -6,13 +6,14 @@ title: Inno.Editor.Diagnostics
 kind: project
 owners:
 - Inno.Editor.Diagnostics
-sourceFingerprint: a1c66c7adfdf166eb011eb1db8e52105ab5cefb54c6ee23b69803748dca1bb67
+sourceFingerprint: b734f8ff9646d070850b4987c4f00bd37b70cad4d3c31cdc576b0f4ad105c93e
 contracts:
 - manual.editor.console
 - architecture.ownership
+outdatedFor: dec14e329341ced68f2785d420d585b8e97fcf143baeccc1be14fb3ae8439e31
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - The bounded Console backend, immutable occurrences and current diagnostic lifetime.
 outdated: false
@@ -31,7 +32,7 @@ The timeline and collapsed groups are ordered by occurrence sequence, oldest fir
 
 Ordinary logs retain past occurrences. Diagnostics belong to the reporting producer until it replaces or clears its report. `Clear()` removes historical logs; it does not claim ownership of producer diagnostics. Re-publishing an unchanged issue does not move it to a new timeline position. Recoverable rendering issues reconcile after a successful frame rather than accumulating as permanent logs.
 
-Grouping includes entry kind, severity, source, code, message, location, stack identity and `LogSessionId`. Equivalent nonadjacent occurrences can group within one session. Matching text from different Edit/Play sessions remains distinct.
+Grouping includes entry kind, severity, source, code, message, location, stack identity and `LogSessionID`. Equivalent nonadjacent occurrences can group within one session. Matching text from different Edit/Play sessions remains distinct.
 
 ## Lifetime and policy
 

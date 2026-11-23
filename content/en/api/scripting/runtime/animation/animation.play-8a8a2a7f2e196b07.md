@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-sourceFingerprint: c942f6375694a1efdf6f2a6757e5bdfe422cc1bd598a2d9ad0894097e586b3f3
+sourceFingerprint: 9a485783f936275854c96bf9504b302a641cbe4175a225118bb170cbe941c36f
 apiScope: Runtime
 contracts: []
 
@@ -21,9 +21,9 @@ outdated: false
 
 **Parameter `clip`:** Valid imported animation clip.
 
-**Parameter `options`:** Playback and blend options.
-
 **Parameter `target`:** The weak destination or explicit sampling-only policy.
+
+**Parameter `options`:** Playback and blend options.
 
 ## Returns
 

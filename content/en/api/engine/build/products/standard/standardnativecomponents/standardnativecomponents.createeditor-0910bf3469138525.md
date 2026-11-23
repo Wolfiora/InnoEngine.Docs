@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Products.Standard
 apiSurface: source-clr
-sourceFingerprint: 5caa4f798bc9d317e195ad10491476e512f4a482b5d660c62d8750d558b9f659
+sourceFingerprint: 16090db66c7c0923c81c9bcd3729ef60cb7dc0a7a16ddbbbaa1451a11539d075
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,6 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-A fresh immutable Editor plan with the ImGuizmo dependency declared explicitly.
-
 ## Parameters
 
 **Parameter `profile`:** The selected integration-owned BGFX SDK invocation for standalone component builds.
@@ -27,3 +23,7 @@ A fresh immutable Editor plan with the ImGuizmo dependency declared explicitly.
 **Parameter `options`:** The platform-owned configuration for each named component.
 
 **Parameter `layout`:** The platform-owned destination of each component output, or null to exclude it.
+
+## Returns
+
+A fresh immutable Editor plan with the ImGuizmo dependency declared explicitly.

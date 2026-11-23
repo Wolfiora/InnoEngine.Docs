@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
-sourceFingerprint: 9f93369f3e2fd9a729cc984d5de4df0a0682ea5ed3715ca3226b21e04abf256b
+sourceFingerprint: 6d0bc3cd0b74a6828184ce3ded5a177092fc6b2748fa18a6993718d739817c95
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -24,7 +24,7 @@ outdated: false
 
 **Parameter `interactions`:** Shared documents and History services.
 
-**Parameter `providerId`:** Stable unique document provider identifier.
+**Parameter `providerID`:** Stable unique document provider identifier.
 
 **Parameter `historyKind`:** Stable protocol handled by the feature's registered History handler.
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-sourceFingerprint: 90c3212e317764876a946e8b3b4255d157827386d92bd5996be80f4cc3636ba0
+sourceFingerprint: ac28a87bd2d1476d70f4cd5345020779da100765c906e266b2dc5857abdccbd4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-A project-owned asset path.
-
 ## Parameters
 
 **Parameter `localPath`:** The local path text validated by the project operation.
+
+## Returns
+
+A project-owned asset path.

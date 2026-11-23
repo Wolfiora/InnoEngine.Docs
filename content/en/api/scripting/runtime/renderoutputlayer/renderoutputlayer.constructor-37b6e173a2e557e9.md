@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-sourceFingerprint: c3272912232034320ac7f944558da929a9bf486b164c3c4787a6b991e700e156
+sourceFingerprint: 9f6f125a766534922133af7665b66168d761bd0a3e092479ab5dfc61780270ce
 apiScope: Runtime
 contracts: []
 
@@ -19,6 +19,6 @@ outdated: false
 
 ## Parameters
 
-**Parameter `modelId`:** Stable render-model or Editor contributor ID.
+**Parameter `modelID`:** Stable render-model or Editor contributor ID.
 
-**Parameter `sourceIds`:** World-content sources exclusively owned by this layer.
+**Parameter `sourceIDs`:** World-content sources exclusively owned by this layer.

@@ -1,10 +1,15 @@
 ---
-title: Validation planning and evidence tests
-description: Verify change selection, real builds, prerequisite handling and trustworthy completion.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-tooling-validation-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Tooling.Validation.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Validation planning and evidence tests
+description: Verify change selection, real builds, prerequisite handling and trustworthy completion.
 ---
 # Validation planning and evidence tests
 
@@ -51,7 +56,7 @@ Source-policy inputs include test C#, documentation C# templates and root MSBuil
 The suite requires Git, .NET 10 and local process communication. Missing prerequisites fail explicitly. Use the validation plan for affected behavior; a focused diagnostic is:
 
 ```powershell
-dotnet test tests/tooling/Inno.Tooling.Validation.Tests/Inno.Tooling.Validation.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/tools/Inno.Tooling.Validation.Tests/Inno.Tooling.Validation.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 Fixtures drain child processes before removing their owned temporary sources, outputs and Git metadata. Follow [suite maintenance](../../validate-change.md#extend-a-suite-safely); no private reflection, IVT or production backdoor is needed.

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-sourceFingerprint: a7b9582bc6f34edc9148c7b429781bc70fba103185c2dedcd5b2ccf55b0f9ae1
+sourceFingerprint: 9727a8ec446df67e09a5c4a306ae86374bde8890a5a35cd8fabcbdfb70ea02cf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.
+
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

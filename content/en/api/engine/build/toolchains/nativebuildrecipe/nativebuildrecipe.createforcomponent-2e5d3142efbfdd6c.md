@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: a67072632a5004d9062aa378fa2d5998e90b29b894897fc7f385aa3abe69fd5d
+sourceFingerprint: 1ffff3794f5b674bf3d726072697d9ccbbacbc8112a90865720976b5c08fda98
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -24,7 +24,7 @@ outdated: false
 
 **Parameter `component`:** The native component artifact segment.
 
-**Parameter `targetId`:** The selected target ABI.
+**Parameter `targetID`:** The selected target ABI.
 
 **Parameter `inputPaths`:** All handwritten native sources, component tools and build definitions. Selected managed bindings and generated bridges are attached by the publisher.
 

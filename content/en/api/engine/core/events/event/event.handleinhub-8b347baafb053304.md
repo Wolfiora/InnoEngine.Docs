@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-sourceFingerprint: 0b905b286e41d291bd883c0d5d85e1d805b9e2d7601af88bf6c7a7d8f69050cf
+sourceFingerprint: aee26c2e70f545688934d7d72cfc211aeadf1cc957ddd91db0dbab68c927aeb2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-Hub handling stops remaining listeners in the current hub but does not affect following hubs.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown when called outside a valid hub dispatch context for this event.
+
+## Remarks
+
+Hub handling stops remaining listeners in the current hub but does not affect following hubs.

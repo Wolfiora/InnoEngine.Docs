@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Reload
 apiSurface: source-clr
-sourceFingerprint: e6990d0a5fa136c391aa9d2183fc47c4b83b3d93005557443e796510d82956e6
+sourceFingerprint: 90868970a0c2d351687dbda4f30c028216261973ceb6672565fd3ec58181135b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,6 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-The initial automatic request is immediately ready and does not observe the debounce duration.
-
 ## Parameters
 
 **Parameter `compilation`:** The started compilation task, or `null` when none was ready.
@@ -27,3 +23,7 @@ The initial automatic request is immediately ready and does not observe the debo
 ## Returns
 
 `true` when a pending compilation was started.
+
+## Remarks
+
+The initial automatic request is immediately ready and does not observe the debounce duration.

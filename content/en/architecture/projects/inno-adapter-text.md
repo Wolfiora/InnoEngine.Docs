@@ -6,11 +6,12 @@ title: Inno.Adapter.Text
 kind: project
 owners:
 - Inno.Adapter.Text
-sourceFingerprint: a7e3955564b7a751959f1f39200d1dae894e90077470ead05ce5137854835151
+sourceFingerprint: e1971f612a726a88044d4e5d49af7dd3c7f4bb06f967805fb9a0a5fa2b42464a
 contracts: []
+outdatedFor: d5aac9f531f27e70608980b152433a1aa47eee3344c3ab70f334602947b7d4e1
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Explicit host selection and provider snapshots for text backends.
 outdated: false
@@ -21,7 +22,7 @@ This project lets composition choose a text backend without changing neutral Tex
 
 ## Provider and ownership contract
 
-`TextBackendId` is an open ordinal string identity without whitespace; its default struct value is unassigned. The built-in `freeTypeHarfBuzz` identity is one registration, not an exhaustive enum of allowed implementations.
+`TextBackendID` is an open ordinal string identity without whitespace; its default struct value is unassigned. The built-in `freeTypeHarfBuzz` identity is one registration, not an exhaustive enum of allowed implementations.
 
 `TextBackendCatalog` captures an explicit provider snapshot and rejects null entries or duplicate IDs. Its supported list is read-only. Creation resolves an exact registered ID, reports an unsupported selection with `NotSupportedException` and rejects a null product with `InvalidOperationException`.
 

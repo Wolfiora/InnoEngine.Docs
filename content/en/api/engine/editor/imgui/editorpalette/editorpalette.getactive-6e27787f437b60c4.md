@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-sourceFingerprint: 97726338ad887f491543a7150f416d3a972fe672441bf1010bf022a7e217687e
+sourceFingerprint: eca34d5d4d5a3e75c169eebdfe359d7702c932b14ab5ae8d0be682144e0f8f2b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-The base color blended toward the palette text color using the standard active amount.
-
 ## Parameters
 
 **Parameter `color`:** The color consumed by get active; ownership remains with the caller unless explicitly stated otherwise.
+
+## Returns
+
+The base color blended toward the palette text color using the standard active amount.

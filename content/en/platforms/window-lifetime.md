@@ -1,8 +1,11 @@
 ---
-title: Own windows and rendering surfaces
-description: Preserve borrowed window handles and rendering retirement across host implementations.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: platforms.window-lifetime
 kind: how-to
+
+# Authoring metadata. Edit these fields and the text below.
+title: Own windows and rendering surfaces
+description: Preserve borrowed window handles and rendering retirement across host implementations.
 ---
 # Own windows and rendering surfaces
 

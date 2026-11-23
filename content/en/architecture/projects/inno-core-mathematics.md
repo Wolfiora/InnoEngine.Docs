@@ -6,11 +6,11 @@ title: Inno.Core.Mathematics
 kind: project
 owners:
 - Inno.Core.Mathematics
-sourceFingerprint: 6e8bd315a70dfca0e2a98f06177d2ba07480c6aa7b02d15e4c59ffed74c42e9f
+sourceFingerprint: 0347b7d400e5b89f85a5adc2cf989f603b8976b9d9c807e564fe730b5ab9f232
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Engine vector, matrix, quaternion, rectangle and color values with explicit numeric and interoperability conventions.
 outdated: false

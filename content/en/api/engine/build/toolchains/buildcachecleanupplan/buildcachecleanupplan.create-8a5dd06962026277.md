@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 6577c599ef89a1a819d4897365ece2792c7da666bd9ae359d67292c3843bd921
+sourceFingerprint: 46f03d0b7f8a36ab26c874042acd3a77be00898a251708425c68a72a2f472a28
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -26,9 +26,9 @@ outdated: false
 
 **Parameter `retireAll`:** Whether to propose all unreferenced generations regardless of size pressure.
 
-**Parameter `cancellationToken`:** Cancels planning before any directory is removed.
+**Parameter `targetID`:** An exact producer-declared target filter, or null to manage all registered scopes. Outside-scope generations and their dependencies remain protected.
 
-**Parameter `targetId`:** An exact producer-declared target filter, or null to manage all registered scopes. Outside-scope generations and their dependencies remain protected.
+**Parameter `cancellationToken`:** Cancels planning before any directory is removed.
 
 ## Returns
 

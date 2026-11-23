@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: editor-script
-sourceFingerprint: cb2a6bf79505e8a97b150908a305865b51c43be8199ef575b03f83a890a98ac9
+sourceFingerprint: 4f502dbbf695e92fafe2a5f19de91d6ba4f4abbd93ea04ab4a12d5a3b16e1308
 apiScope: Runtime
 contracts: []
 
@@ -19,6 +19,6 @@ outdated: false
 
 ## Parameters
 
-**Parameter `stableTypeId`:** Stable settings type identity, or empty when no typed settings exist.
+**Parameter `stableTypeID`:** Stable settings type identity, or empty when no typed settings exist.
 
 **Parameter `propertyData`:** Neutral serialized property bytes.

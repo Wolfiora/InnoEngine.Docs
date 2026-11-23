@@ -19,6 +19,6 @@ Find types in this project category. Each type links to its exact declarations a
 | [IInputBackendFactory](iinputbackendfactory/index.md) | Creates host-level input event sources from explicit backend selections. |
 | [IInputEventSource](iinputeventsource/index.md) | Routes backend-neutral platform events into isolated runtime input backends. |
 | [InputBackendCatalog](inputbackendcatalog/index.md) | Resolves input providers from one immutable, composition-owned registration snapshot. |
-| [InputBackendId](inputbackendid/index.md) | Identifies a input implementation without closing the set of supported backends. |
+| [InputBackendID](inputbackendid/index.md) | Identifies a input implementation without closing the set of supported backends. |
 | [InputBackendProvider](inputbackendprovider/index.md) | Describes one explicitly composed input implementation and its creation boundary. |
 

@@ -6,11 +6,11 @@ title: Inno.Core.Events
 kind: project
 owners:
 - Inno.Core.Events
-sourceFingerprint: 12006234fa2de1df47d59f85f524980058983ff36c8305675591a7891f2cbd7d
+sourceFingerprint: b03a1e3a63539709d72e8bc71782297dda98058edf7bfa144d88b68d365de3c8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Ordered event hubs, routed consumption and bounded event admission.
 outdated: false

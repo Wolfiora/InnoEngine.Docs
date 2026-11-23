@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-sourceFingerprint: 2527be51b32a2c26da590a4ecbb1b0025e3dd52d269cbb0843b99ffe136f657f
+sourceFingerprint: 8080a85a4e70ea6c3a93819af7457b575694787def9a32b5e033027d6da75557
 apiScope: Editor
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `viewportId`:** Stable panel viewport identity.
+**Parameter `viewportID`:** Stable panel viewport identity.
 
 **Parameter `pixelWidth`:** Positive target width.
 

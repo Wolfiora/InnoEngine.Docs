@@ -6,13 +6,13 @@ title: Inno.Audio.Runtime
 kind: project
 owners:
 - Inno.Audio.Runtime
-sourceFingerprint: 66bb6e145d4487491c3133ff10332bb890000fc2f67d1ac9b89165fdfddced9a
+sourceFingerprint: a32f623a2d30a5b75141ce6a7beb4cfbf6c5d0d51194460f7226cf59aeb4a120
 contracts:
 - architecture.audio-lifetime#ownership-and-generation-contract
 - architecture.audio-lifetime#retirement-and-failure-contract
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Session audio composition, bounded preparation, completion and device recovery.
 outdated: false

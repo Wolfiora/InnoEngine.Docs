@@ -1,21 +1,19 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.ui.53981e37451785a0
-symbol: engine:Inno.UI:T:Inno.UI.UiVertex
-title: UiVertex
+uid: api.fac2078d1e0e26ab52b379ac8f0fba30d5c628f91348f392a3a9425a48c9216e
+symbol: engine:Inno.UI:T:Inno.UI.UIVertex
+title: UIVertex
 kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-sourceFingerprint: 3458d1bd23a5131aec195787285a68c1457c72db8d195aed6a715ba388f8b7cf
-contracts:
-- project.inno-ui#document-and-frame-contract
+sourceFingerprint: efbee3d546fb56add25b6954a0b30fc55d8e28520abfee1dfca1b1fc9030027f
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---
 
 ## Parameters

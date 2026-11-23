@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation.Runtime
 apiSurface: source-clr
-sourceFingerprint: 7164a8e381aa9fad955d8310a5d7540637b4b0a5e81436f8948547fd7fb84d99
+sourceFingerprint: 43372d0e1f2e73b9fb659a1658eedc5cf7f902022822324781b47c4d35627f37
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,9 +20,9 @@ outdated: false
 
 **Parameter `clip`:** Valid clip to sample until completion or explicit stop.
 
-**Parameter `options`:** Playback options validated before a runtime slot is allocated.
-
 **Parameter `target`:** The weak destination or explicit sampling-only policy.
+
+**Parameter `options`:** Playback options validated before a runtime slot is allocated.
 
 ## Returns
 

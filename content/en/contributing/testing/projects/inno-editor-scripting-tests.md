@@ -1,10 +1,15 @@
 ---
-title: Editor scripting and authoring workflow tests
-description: Verify script projection, Inspector layout, viewport composition and shader editing.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-editor-scripting-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Scripting.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Editor scripting and authoring workflow tests
+description: Verify script projection, Inspector layout, viewport composition and shader editing.
 ---
 # Editor scripting and authoring workflow tests
 

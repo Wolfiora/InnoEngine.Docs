@@ -6,11 +6,11 @@ title: Inno.Platform
 kind: project
 owners:
 - Inno.Platform
-sourceFingerprint: d54d505d253b0279b2fa81c2fd792fa9274c0ad123a94219697fbd1bcee309a8
+sourceFingerprint: 7e8f72ede93320c60d9f16c22d2ff39ea80094b0b7f71cea16c5f6c968a43289
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Neutral application, window and frame-pacing contracts without native handles.
 outdated: false

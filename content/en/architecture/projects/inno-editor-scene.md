@@ -10,7 +10,7 @@ sourceFingerprint: dfe43459a8f474d354ab33e138e5b4c3df089d1b838820170e879f9a12235
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Scene document ownership, persistent-ID edits, minimal reversible History and atomic Edit/Play presentation.
 outdated: false

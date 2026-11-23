@@ -1,13 +1,9 @@
 ---
-exampleMode: host
-exampleProjects:
-  - Inno.Editor.Core
-  - Inno.Editor.ImGui
-title: Add an Editor panel
-description: Register a dockable panel and participate in the Editor's
-  activation, drawing, state and retirement lifecycle.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.editor-panels
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Core
   - Inno.Editor.Interactions
@@ -15,6 +11,15 @@ owners:
 contracts:
   - architecture.ownership
   - manual.identity-and-missing
+exampleMode: host
+exampleProjects:
+  - Inno.Editor.Core
+  - Inno.Editor.ImGui
+
+# Authoring metadata. Edit these fields and the text below.
+title: Add an Editor panel
+description: Register a dockable panel and participate in the Editor's
+  activation, drawing, state and retirement lifecycle.
 ---
 # Add an Editor panel
 
@@ -43,7 +48,7 @@ internal sealed class ResourceNotesPanel : EditorPanel
 {
     protected override void OnDraw(EditorContext context)
     {
-        EditorUiSession.current.widgets.Hint("Select a resource to inspect its owner.");
+        EditorUISession.current.widgets.Hint("Select a resource to inspect its owner.");
     }
 }
 ```
@@ -68,7 +73,7 @@ An ordinary draw failure closes and quarantines the failing instance for that ge
 
 ## Keep frame resources borrowed
 
-Read `EditorUiSession.current` inside the active draw scope. Do not retain its frame-scoped UI resources, borrowed objects or plugin instances for later frames or generations. Keep persistent identifiers for state that must survive replacement and resolve them through the owning service when needed.
+Read `EditorUISession.current` inside the active draw scope. Do not retain its frame-scoped UI resources, borrowed objects or plugin instances for later frames or generations. Keep persistent identifiers for state that must survive replacement and resolve them through the owning service when needed.
 
 For asynchronous work, use the owning operation's cancellation and retirement protocol. Completion of an ordinary `await` does not establish that execution resumed on the UI owner thread.
 

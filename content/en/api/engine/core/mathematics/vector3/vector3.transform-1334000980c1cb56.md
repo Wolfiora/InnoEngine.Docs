@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-sourceFingerprint: 78704ab841acbe4a357b70eb0e65d44f75fd99a02345225f4e8a0c8c7d0a30bc
+sourceFingerprint: d23dfca9a1fb6c736ede15cc07c9fec443270972dcd20757ce3079b46beeeaf7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,12 +16,12 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-The transformed XYZ components, including translation. No perspective divide is performed.
-
 ## Parameters
 
 **Parameter `position`:** The input position.
 
 **Parameter `matrix`:** The transformation matrix applied to the supplied value.
+
+## Returns
+
+The transformed XYZ components, including translation. No perspective divide is performed.

@@ -17,7 +17,7 @@ test('project guides keep authored prose and share a flat linked sidebar group',
   await expect(page.getByRole('heading', { name: 'Provider ownership contract', exact: true })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'Source project facts', exact: true })).toBeVisible();
   await expect(page.locator('.source-actions a').first()).toHaveAttribute('href', /\/blob\/[a-f0-9]{40}\/src\/.+\.csproj$/);
-  await expect(page.locator('.page-credit')).toContainText('Page written by InnoEngine contributors.');
+  await expect(page.locator('.page-credit')).toContainText('Page written by FLwolfy.');
   if (await menu.isVisible()) await menu.click();
   await group.locator(':scope > .nav-row > a').click();
   await expect(page).toHaveURL(/\/architecture\/projects\/$/);
@@ -34,7 +34,7 @@ test('nested task categories reveal direct pages without API-style controls', as
 });
 
 test('unregistered authored project pages are not labelled as synchronized', async ({ page }) => {
-  await page.goto('backends/projects/inno-adapter-audio-miniaudio-tests/');
+  await page.goto('backends/projects/inno-native-imgui-tests/');
   await expect(page.locator('.api-status')).toHaveCount(0);
   await expect(page.locator('.page-credit')).toContainText('Documentation maintained by the InnoEngine contributors.');
   await expect(page.locator('.page-credit')).not.toContainText('Generated automatically');

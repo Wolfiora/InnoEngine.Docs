@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-sourceFingerprint: eb2afeb5972026943dc9407aaf89fdc7a809811d2eeb42690c881695fc8f09c4
+sourceFingerprint: 95da57bb4cacb5e13e6ce8e752aad6b52fa11c456e269a237ba77f90e2ddd39d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `featureTypeId`:** Globally stable feature extension identifier.
+**Parameter `featureTypeID`:** Globally stable feature extension identifier.
 
 **Parameter `state`:** Optional reload-safe feature state.
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-sourceFingerprint: c7239ba3ab8e679e4fc0aa11a66e6092f3bc2a7870f85afd6bb523d02b0f1316
+sourceFingerprint: 0e9fef2a09cfdb4a1ae6505e172cb4c30c9837ead43d14333183a3acd694510b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,9 +18,9 @@ outdated: false
 
 ## Parameters
 
-**Parameter `oldId`:** The type identity stored in installed sample assets.
+**Parameter `oldID`:** The type identity stored in installed sample assets.
 
-**Parameter `newId`:** The type identity declared by the cloned source.
+**Parameter `newID`:** The type identity declared by the cloned source.
 
 ## Exceptions
 

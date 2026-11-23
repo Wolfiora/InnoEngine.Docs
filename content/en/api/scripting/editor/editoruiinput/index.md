@@ -1,21 +1,18 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.editor.imgui.editor-script.14e46505d59a9ff5
-symbol: scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.EditorUiInput
-title: EditorUiInput
+uid: api.efdf0f920775f33ec4699e64668213d8d911971c5930f3f064b631b7ede25a75
+symbol: scripting:Inno.Editor.ImGui:T:InnoEditor.ImGui.EditorUIInput
+title: EditorUIInput
 kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-sourceFingerprint: 3c8e8636a37fc482154443ad032d9b7a9d0faa934fea55270e409df8bccbf0e1
+sourceFingerprint: 71a0a229c4433976652b0cecd8130c3ed68555a5e16a9f1147cebed538cef006
 apiScope: Editor
-contracts:
-- manual.scripting.use-script-api
-- project.inno-editor-imgui
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

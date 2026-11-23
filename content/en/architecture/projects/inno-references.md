@@ -6,11 +6,12 @@ title: Inno.References
 kind: project
 owners:
 - Inno.References
-sourceFingerprint: c1966ba006e772e5cbe9f515fd75bd424c6b27b5d67a9ad1887f893322ac1bee
+sourceFingerprint: ad798e10dea24e425cce6d5f4fd285dc8c604bea3f407972fd3afee2e1f3a694
 contracts: []
+outdatedFor: 7199744aac8a0143a158c74e9c51de8cf0971ca4b8240579b1fd65c4ae453426
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Persistent reference intent, neutral Missing slots and coordinated recovery.
 outdated: false
@@ -23,7 +24,7 @@ Start with [handling an unresolved reference](../../manual/references/resolve-mi
 
 ## Reference and recovery contract
 
-A `ReferenceKindId` identifies a resolution protocol, not an object. A `ReferenceKey` identifies a persistent owner's stable slot. A descriptor preserves target persistent identity, an optional stable type constraint and diagnostic name/path. Neither the name nor the path is resolution authority. An empty target is explicitly Unassigned, not Missing.
+A `ReferenceKindID` identifies a resolution protocol, not an object. A `ReferenceKey` identifies a persistent owner's stable slot. A descriptor preserves target persistent identity, an optional stable type constraint and diagnostic name/path. Neither the name nor the path is resolution authority. An empty target is explicitly Unassigned, not Missing.
 
 The catalog freezes the resolver collection for one generation; it does not make resolver instances independent of their owner. Each resolver must return the exact descriptor instance passed to it and resolve against its current canonical domain. Only a Resolved result carries a runtime identity. The result constructor checks this pairing, not the continued existence of the target. Never persist that runtime result in Scene data, settings or History.
 

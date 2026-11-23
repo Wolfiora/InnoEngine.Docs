@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-sourceFingerprint: 82237e06cbf7cd738816a0f9555a052808d0309ae397ee6a2a9aecc6a334762b
+sourceFingerprint: c1ea570b143969fd4ac78856291c2b137c6eec158ab63ffe4e06bfe1b6658b72
 apiScope: Runtime
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** The persistent asset identity.
+**Parameter `persistentID`:** The persistent asset identity.
 
 **Parameter `assetPath`:** The mount-qualified source location.
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-sourceFingerprint: aa6032379964d16366fcb2a048ce3ac56ced1cd2466d91ddc2ac007a09f82a01
+sourceFingerprint: 034c66447461516484a2b4fde338c8fa68c648893b3699fc9f92c4a0749c6691
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,7 +22,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `assetId`:** Open Pipeline identity.
+**Parameter `assetID`:** Open Pipeline identity.
 
 **Parameter `settings`:** Detached edited settings.
 

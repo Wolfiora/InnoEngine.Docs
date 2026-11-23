@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-sourceFingerprint: 27b90b06427c44c5490cd9443396917265830f7431e9d5a02491eeb5a6e47354
+sourceFingerprint: 99889580d70db8a798ab43baaf118fc3c39f3d477a3e85b3d1077d4ac504872f
 apiScope: Editor
 contracts: []
 
@@ -21,7 +21,7 @@ outdated: false
 
 **Parameter `graph`:** Document being authored.
 
-**Parameter `targetId`:** Stable target identity; empty selects explicit generic stage authoring.
+**Parameter `targetID`:** Stable target identity; empty selects explicit generic stage authoring.
 
 **Parameter `serialization`:** Current owner converters.
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Input
 apiSurface: source-clr
-sourceFingerprint: e531536518fe1eeb3967b5a64c5776802ee2421a4d0cd4a90fc56d421a7bfded
+sourceFingerprint: 649905482d57f4cec910dccd990b9778f6ea1f7a32f3e404e16841bd6469d2d1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,4 +18,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `windowId`:** The platform window identifier accepted by this source; zero accepts events from every window.
+**Parameter `windowID`:** The platform window identifier accepted by this source; zero accepts events from every window.

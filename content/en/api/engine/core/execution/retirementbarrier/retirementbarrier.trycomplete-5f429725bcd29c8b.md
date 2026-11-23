@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Execution
 apiSurface: source-clr
-sourceFingerprint: dcf63829fe7d6d2e4f27eeff9050e59dab45a8fe8d8e2afb05ed760ff509ec18
+sourceFingerprint: b709b5ff29c4a74976b9bae33a9823ac1f63f6e537788775f3aebadc4013eec5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -24,10 +24,6 @@ outdated: false
 
 True after retirement completes, or false while work remains within its deadline.
 
-## Remarks
-
-Wrapped pending failures retain their ownership semantics. A nested timeout is rethrown in its original exception tree. Ordinary sibling failures survive retries and are reported once retirement completes.
-
 ## Exceptions
 
 **Exception `T:System.AggregateException`:** Retirement completed after earlier ordinary failures, or the owner reported a wrapped terminal timeout.
@@ -35,3 +31,7 @@ Wrapped pending failures retain their ownership semantics. A nested timeout is r
 **Exception `T:Inno.Core.Execution.RetirementTimeoutException`:** Work exceeded its deadline. The barrier remains terminally faulted and dependencies must be retained.
 
 **Exception `T:System.InvalidOperationException`:** The caller is not the thread that created this barrier.
+
+## Remarks
+
+Wrapped pending failures retain their ownership semantics. A nested timeout is rethrown in its original exception tree. Ordinary sibling failures survive retries and are reported once retirement completes.

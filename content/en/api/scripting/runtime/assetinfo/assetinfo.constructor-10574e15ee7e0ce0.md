@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-sourceFingerprint: f699f5184f7801864f66e0205d1856fe5c5af5cbea5bf5dfb6393eec6a826756
+sourceFingerprint: f5949705ed5b2b6c08d089c8883c7a0b94bf7d157650e94ed39a14d7d06bf908
 apiScope: Runtime
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** Persistent identity assigned to the source asset.
+**Parameter `persistentID`:** Persistent identity assigned to the source asset.
 
 **Parameter `assetPath`:** Current isolated source path.
 
@@ -27,9 +27,9 @@ outdated: false
 
 **Parameter `status`:** Current import status.
 
-**Parameter `importerId`:** Stable importer identifier, or an empty value when none applies.
+**Parameter `importerID`:** Stable importer identifier, or an empty value when none applies.
 
-**Parameter `stableAssetTypeId`:** Stable imported asset type identity.
+**Parameter `stableAssetTypeID`:** Stable imported asset type identity.
 
 **Parameter `artifactKey`:** Current committed artifact key.
 

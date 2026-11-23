@@ -1,23 +1,20 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.extensibility.types.runtime-script.2536f7efacbf8b7f
-symbol: scripting:Inno.Extensibility.Types:T:InnoEngine.Reflection.StableTypeIdAttribute
-title: StableTypeIdAttribute
+uid: api.6db7952b20aecb1f128460e9a4736fe2b5cbdc0cf925dea1e742f0d52be6fd8b
+symbol: scripting:Inno.Extensibility.Types:T:InnoEngine.Reflection.StableTypeIDAttribute
+title: StableTypeIDAttribute
 kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: editor-script
-sourceFingerprint: d659c6675181c75d6d2b2aae6919b4d950e7b417ffc767bf6a146dd8042f3048
+sourceFingerprint: 3171b92e758457b4fd3d10ed06232b0e88dcbed55f608fe269438d0eb2243a73
 apiScope: Runtime
-contracts:
-- manual.scripting.use-script-api
-- project.inno-extensibility-types
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---
 
 ## Parameters

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-sourceFingerprint: 2e89cc8a62a2b58484e3bc0670d396155571b2e61eacca71bfaca83890fec7f7
+sourceFingerprint: 27587a880028e25bb701c6e105984839ae090571bed60fbed436431d51347dae
 apiScope: Editor
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-Overriding this method opts the module into project-state IO. Modules that keep the base implementation are never registered with the persistence coordinator and therefore perform no state reads or writes.
-
 ## Parameters
 
 **Parameter `state`:** The writable parameter that receives the complete readable state for this module.
+
+## Remarks
+
+Overriding this method opts the module into project-state IO. Modules that keep the base implementation are never registered with the persistence coordinator and therefore perform no state reads or writes.

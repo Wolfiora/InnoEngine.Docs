@@ -1,9 +1,9 @@
 ---
-title: Open a verified deployment content pack
-description: Transfer pack ownership to a verified store and read logical
-  entries through independent leases.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.assets.content-pack
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Content
 contracts:
@@ -12,6 +12,11 @@ exampleMode: host
 exampleProjects:
   - Inno.Content
   - Inno.Core.Serialization
+
+# Authoring metadata. Edit these fields and the text below.
+title: Open a verified deployment content pack
+description: Transfer pack ownership to a verified store and read logical
+  entries through independent leases.
 ---
 # Open a verified deployment content pack
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-sourceFingerprint: 118d3a26f9085cc0f3eb01046dbefb82ab734774751507917670c9039ce4bea1
+sourceFingerprint: b345b012dad227fde84e9f744078c870d95557bb98c77bf1d65ac6cc2b8bb8de
 apiScope: Runtime
 contracts: []
 
@@ -17,12 +17,12 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-The transformed XYZ components, including translation. No perspective divide is performed.
-
 ## Parameters
 
 **Parameter `position`:** The input position.
 
 **Parameter `matrix`:** The transformation matrix applied to the supplied value.
+
+## Returns
+
+The transformed XYZ components, including translation. No perspective divide is performed.

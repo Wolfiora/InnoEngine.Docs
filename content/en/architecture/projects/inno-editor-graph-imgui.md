@@ -6,11 +6,11 @@ title: Inno.Editor.Graph.ImGui
 kind: project
 owners:
 - Inno.Editor.Graph.ImGui
-sourceFingerprint: 90200643a7acd3f3d1d440228d2e90fe032b3ec0b73f55cac5f4bab49ad9b588
+sourceFingerprint: 3a15f09b74d7a7dfb9a242b0ec30813e6dbffe214a4285526c7b2722c22e546f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Neutral graph geometry, pointer intent and borrowed UI drawing independent of shader or panel semantics.
 outdated: false

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-sourceFingerprint: fc7295f55c8d8e1febc459398d6c25ec37794e543217476517ebbd291ca0b660
+sourceFingerprint: 7c4ed5401fba837744fe64b52d293b52774ccb6a95f186819cec47ef3207b294
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-The scalar result calculated from the supplied inputs.
-
 ## Parameters
 
 **Parameter `value`:** The concrete value read or transformed by this operation.
+
+## Returns
+
+The scalar result calculated from the supplied inputs.

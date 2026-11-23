@@ -1,9 +1,9 @@
 ---
-title: Compose module sources and catalog participants
-description: Supply explicit assembly ownership and unpublished candidates to
-  the shared module host.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.module-sources
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Modules
   - Inno.Extensibility.Types
@@ -13,6 +13,11 @@ exampleMode: host
 exampleProjects:
   - Inno.Extensibility.Modules
   - Inno.Extensibility.Types
+
+# Authoring metadata. Edit these fields and the text below.
+title: Compose module sources and catalog participants
+description: Supply explicit assembly ownership and unpublished candidates to
+  the shared module host.
 ---
 # Compose module sources and catalog participants
 

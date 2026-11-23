@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
-sourceFingerprint: 7d112a5058426af6c14f6e363edbb8bda77e2bec60e2bfa0880e9c7c622181de
+sourceFingerprint: a52e3040abf649f1661dae377eb55608e1bf4cdf445756c4ffbf69ef9dc765df
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,4 +18,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `operationId`:** The current import identity captured by the caller.
+**Parameter `operationID`:** The current import identity captured by the caller.

@@ -1,10 +1,15 @@
 ---
-title: Module generation and unload tests
-description: Verify collectible generations, rollback and retained dependencies.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-extensibility-modules-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Modules.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Module generation and unload tests
+description: Verify collectible generations, rollback and retained dependencies.
 ---
 # Module generation and unload tests
 
@@ -21,7 +26,7 @@ The project declares the `contract` validation layer. Use [the shared validation
 A focused diagnostic from the engine root is:
 
 ```powershell
-dotnet test tests/extensibility/Inno.Extensibility.Modules.Tests/Inno.Extensibility.Modules.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/foundation/extensibility/Inno.Extensibility.Modules.Tests/Inno.Extensibility.Modules.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 Use `--filter FullyQualifiedName~MethodName` to investigate one case. A filtered run does not replace the obligations in the validation plan. Restore the declared SDK, packages and any tool/process prerequisites before executing; preserve cancellation, thread and cleanup requirements.

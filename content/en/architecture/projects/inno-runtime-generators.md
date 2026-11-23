@@ -10,7 +10,7 @@ sourceFingerprint: d69d444beb292fa39ca7432048d3d7000ae3c2058a6fde8fa863b9104d71c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Compile-time subsystem, module and factory catalogs with explicit metadata access.
 outdated: false

@@ -6,11 +6,11 @@ title: Inno.Scene
 kind: project
 owners:
 - Inno.Scene
-sourceFingerprint: c810ca9f572c53765460ab0b8bcc550ef2f0d50d74a53ff8de6dc3645918267f
+sourceFingerprint: 39bada953e8cccfc058917fed547c69c90f613b9153d714a8781ea77c5c2bd3c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Scene objects, behaviors, transforms, persistent state and generation recovery.
 outdated: false

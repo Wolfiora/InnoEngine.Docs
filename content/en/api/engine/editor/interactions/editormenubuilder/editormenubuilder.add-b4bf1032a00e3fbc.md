@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-sourceFingerprint: 4b45819b263cfd4b6dc5cbb022964b41b2704da0a76dd8d269d6826b67f4ba02
+sourceFingerprint: c0d3eec8cd60e5ed44b78e04d7fb4163f94e9e8c960ff7a230d509299da598f4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,7 +20,7 @@ outdated: false
 
 **Parameter `path`:** The slash-delimited path used to create parent menus and the leaf label.
 
-**Parameter `actionId`:** The stable action identifier invoked by the leaf.
+**Parameter `actionID`:** The stable action identifier invoked by the leaf.
 
 **Parameter `order`:** The stable ordering value among sibling placements.
 
@@ -30,4 +30,4 @@ outdated: false
 
 ## Exceptions
 
-**Exception `T:System.ArgumentException`:** Thrown when `path` or `actionId` is empty.
+**Exception `T:System.ArgumentException`:** Thrown when `path` or `actionID` is empty.

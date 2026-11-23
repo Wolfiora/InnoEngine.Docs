@@ -1,9 +1,9 @@
 ---
-title: Shape text and rasterize glyphs
-description: Turn an imported font and Unicode text into positioned glyphs and
-  CPU coverage pixels.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.text.shape-text
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Text
   - Inno.Text.Runtime
@@ -13,6 +13,11 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.Text
+
+# Authoring metadata. Edit these fields and the text below.
+title: Shape text and rasterize glyphs
+description: Turn an imported font and Unicode text into positioned glyphs and
+  CPU coverage pixels.
 ---
 # Shape text and rasterize glyphs
 
@@ -42,7 +47,7 @@ public static class CaptionLayout
     ) {
         if (layout.glyphs.Count == 0)
             throw new System.ArgumentException("The layout has no glyphs.", nameof(layout));
-        return Text.Rasterize(font, 0, layout.glyphs[0].glyphId, 24f);
+        return Text.Rasterize(font, 0, layout.glyphs[0].glyphID, 24f);
     }
 }
 ```

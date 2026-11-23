@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders
 apiSurface: editor-script
-sourceFingerprint: dcba0e95dfa9070920503f94d556cc264fe1f8336b8dd61976f1a7fd9c4b3225
+sourceFingerprint: 348b240457e9dc8443c7e56bb462534a46a0101a9c4ac27800eba55f7acf9016
 apiScope: Editor
 contracts: []
 
@@ -19,4 +19,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `contractId`:** Non-empty domain-owned contract identity.
+**Parameter `contractID`:** Non-empty domain-owned contract identity.

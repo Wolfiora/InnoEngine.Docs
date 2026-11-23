@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-sourceFingerprint: ae64d4a48e91a9dabc3f8fe5f6cd9250374850c77099cb7eb04fe2ca77fa2000
+sourceFingerprint: 394f16135bf3ebb340402fa1a73b1fe9f7399ea9088cef3ccb8ee5b9c1cefb42
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -24,12 +24,12 @@ outdated: false
 
 **Parameter `overwrite`:** Whether an existing destination may be replaced; false never overwrites an external creator.
 
-## Remarks
-
-A failed create-only publication preserves the candidate. After successful publication the candidate is removed; a subsequent cleanup failure reports that the complete target exists. Unix create-only publication requires same-directory hard-link support. The caller must own the candidate and parent directory until the operation completes.
-
 ## Exceptions
 
 **Exception `T:System.IO.IOException`:** Publication fails, create-only mode finds an existing destination, or candidate retirement fails after the complete destination has been published.
 
 **Exception `T:System.PlatformNotSupportedException`:** The host does not provide an atomic create-only filesystem primitive.
+
+## Remarks
+
+A failed create-only publication preserves the candidate. After successful publication the candidate is removed; a subsequent cleanup failure reports that the complete target exists. Unix create-only publication requires same-directory hard-link support. The caller must own the candidate and parent directory until the operation completes.

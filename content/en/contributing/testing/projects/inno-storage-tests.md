@@ -1,10 +1,15 @@
 ---
-title: Storage admission and persistence tests
-description: Portable scopes, atomic filesystem writes, cancellation ownership and frame-bound storage access.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-storage-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Storage.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Storage admission and persistence tests
+description: Portable scopes, atomic filesystem writes, cancellation ownership and frame-bound storage access.
 ---
 # Storage admission and persistence tests
 
@@ -28,7 +33,7 @@ Cancellation is not permission to destroy resources still required by accepted w
 Follow [the shared validation workflow](../../validate-change.md). A focused diagnostic is:
 
 ```powershell
-dotnet test tests/storage/Inno.Storage.Tests/Inno.Storage.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/services/storage/Inno.Storage.Tests/Inno.Storage.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 Drain accepted operations before removing fixture-owned directories. Test methods are infrastructure, not product or script exports.

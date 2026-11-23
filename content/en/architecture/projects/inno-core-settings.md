@@ -6,11 +6,11 @@ title: Inno.Core.Settings
 kind: project
 owners:
 - Inno.Core.Settings
-sourceFingerprint: 3f774d93725d6396ad56d81d1843f145e05113493286bc1644a3b84d8019c250
+sourceFingerprint: be12a1fc026dbbecfc616379f58546ef778546fa075d7a53c98dbf3e5375afa0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Byte-backed settings documents, project contribution composition, and generation-scoped lookup.
 outdated: false

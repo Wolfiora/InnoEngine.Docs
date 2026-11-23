@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 398fe39f2d72e702932a2ad3238b70b35d1600818d6996b7947b4710c2e4d256
+sourceFingerprint: b013695cf3afdfc38ad08fabda10a9c5ca21e12bd3c5df6222db39aa1e5abc5c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,9 +18,9 @@ outdated: false
 
 ## Parameters
 
-**Parameter `ownerDirectory`:** The exact publisher root retaining the persistent owner.lock gate.
-
 **Parameter `directory`:** The absolute artifact location controlled by the publisher.
+
+**Parameter `ownerDirectory`:** The exact publisher root retaining the persistent owner.lock gate.
 
 **Parameter `cancellationToken`:** Cancels this waiter without disturbing existing readers.
 

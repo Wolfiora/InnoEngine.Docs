@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: source-clr
-sourceFingerprint: 342cb4c669f1ce23a8f34e3f58a7812196c3d6dbb9b49e5824d37df21e26239b
+sourceFingerprint: 941776c98de13c80d074a15b451ae3b2d8d9974ff4db50f575ac3fd568c0864b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `documentId`:** The persistent document identity.
+**Parameter `documentID`:** The persistent document identity.
 
 **Parameter `history`:** The shared history owner for the returned controller.
 

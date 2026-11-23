@@ -1,9 +1,9 @@
 ---
-title: Own a presentation context
-description: Compose authoring UI without leaking native windows or renderer
-  handles into the host.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.presentation-context
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Presentation
   - Inno.Adapter.Platform
@@ -12,6 +12,11 @@ contracts:
   - project.inno-adapter-presentation
   - project.inno-adapter-platform
   - project.inno-platform
+
+# Authoring metadata. Edit these fields and the text below.
+title: Own a presentation context
+description: Compose authoring UI without leaking native windows or renderer
+  handles into the host.
 ---
 # Own a presentation context
 
@@ -29,7 +34,7 @@ The caller owns the returned presentation context. Creating it does not transfer
 
 Call `RenderFrame` through the host's normal frame lifecycle. Its optional synchronous preparation runs after selecting the owned context and display metrics and before creating the frame. If preparation fails, drawing does not run and no partial frame is published. Reentering a frame operation fails explicitly.
 
-The context implements the neutral frame-contributor contract. Integrate it into the host's graph; do not create a second rendering loop. Use `TryGetWindowId` to relate a live presentation viewport to a platform window rather than assuming every viewport is the primary window.
+The context implements the neutral frame-contributor contract. Integrate it into the host's graph; do not create a second rendering loop. Use `TryGetWindowID` to relate a live presentation viewport to a platform window rather than assuming every viewport is the primary window.
 
 ## Register images without transferring textures
 

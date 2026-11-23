@@ -6,11 +6,12 @@ title: Inno.Build
 kind: project
 owners:
 - Inno.Build
-sourceFingerprint: f9064206909b91a472b84db0b68fe56c7811951bd0a6cc998c7751890e35c875
+sourceFingerprint: 0156df6506662cba557ab92b335b9c7850f66fccbbfdd1808f08dcbb2b8b7704
 contracts: []
+outdatedFor: c72a4a1c33cc3e8fdf637cfa368c7d6d3fa782dfe86121fc2cc430e434076247
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Owned Game/Plugin build transactions, content freezing and final platform publication.
 outdated: false
@@ -38,7 +39,7 @@ SdkScriptCompilationEnvironment captures references and final symbols from the e
 
 ## Settings and identity
 
-BuildTargetId is portable/open; actual support comes from registered immutable GameBuildTargetBinding values. Missing saved targets retain their ID and display Missing instead of being rewritten to the current OS. Settings.Build.inno supplies versioned authoring defaults; absent defaults derive from project name, host target and the first sorted imported deployable scene, excluding ~ sample directories. Only Settings Apply persists them. Each export dialog copies a fresh one-off request.
+BuildTargetID is portable/open; actual support comes from registered immutable GameBuildTargetBinding values. Missing saved targets retain their ID and display Missing instead of being rewritten to the current OS. Settings.Build.inno supplies versioned authoring defaults; absent defaults derive from project name, host target and the first sorted imported deployable scene, excluding ~ sample directories. Only Settings Apply persists them. Each export dialog copies a fresh one-off request.
 
 Game/Plugin identity comes from current Project ID, not a second Build identifier. persistentDataPath is a portable relative Local Application Data subdirectory; empty selects Application ID. Segments allow lowercase letters, digits, dot, underscore and hyphen but reject dot/dot-dot and absolute paths. Only Project settings enter Player runtime, not Editor or Build defaults.
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-sourceFingerprint: 4bbedbd57497b27eb4fe41274319815e1e5e3e238e164fc6b3a71ce8f50b2094
+sourceFingerprint: 7b88d556cc5fb53b7d3d0edd0112e6db2210329617d2ddd78921e8911def3543
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-A signed value describing the relative index ordering.
-
 ## Parameters
 
 **Parameter `other`:** The value to compare with this instance.
+
+## Returns
+
+A signed value describing the relative index ordering.

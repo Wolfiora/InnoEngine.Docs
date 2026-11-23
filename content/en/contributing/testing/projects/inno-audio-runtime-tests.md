@@ -1,10 +1,15 @@
 ---
-title: Audio runtime lifecycle tests
-description: Suspension, rollback, retained mixer roots and artifact admission through managed audio boundaries.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-audio-runtime-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Audio.Runtime.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Audio runtime lifecycle tests
+description: Suspension, rollback, retained mixer roots and artifact admission through managed audio boundaries.
 ---
 # Audio runtime lifecycle tests
 
@@ -12,16 +17,16 @@ owners:
 
 ## Behavior covered
 
-`AudioRuntimeTests` checks that an already-consumed application lifecycle event still suspends audio and that stopping unsubscribes callbacks. Failed suspension rolls back retained mixer roots and remains retryable. Suspension also preserves user pause and replacement-mixer state.
+`AudioSuspensionTests` checks that an already-consumed application lifecycle event still suspends audio and that stopping unsubscribes callbacks. Failed suspension rolls back retained mixer roots and remains retryable. Suspension also preserves user pause and replacement-mixer state.
 
-Invalid playback options must fail before stealing a voice or acquiring an artifact. The source-backed fixtures make retained content and release obligations observable; a successful call without ownership assertions would be insufficient.
+In `AudioPlaybackTests`, invalid playback options must fail before stealing a voice or acquiring an artifact. The source-backed fixtures make retained content and release obligations observable; a successful call without ownership assertions would be insufficient.
 
 ## Run and maintain
 
 Follow [the shared validation workflow](../../validate-change.md). For a focused diagnostic:
 
 ```powershell
-dotnet test tests/audio/Inno.Audio.Runtime.Tests/Inno.Audio.Runtime.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/services/audio/Inno.Audio.Runtime.Tests/Inno.Audio.Runtime.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 Fixtures own their runtime, backend and content sources. Preserve explicit failure/cleanup checks rather than using private access or production test entry points. Public test methods are discovery infrastructure.

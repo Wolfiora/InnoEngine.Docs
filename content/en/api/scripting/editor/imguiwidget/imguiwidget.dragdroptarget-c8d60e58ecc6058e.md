@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-sourceFingerprint: 0bf12dd4b114ebe6fac55a016a42acfc0374ef333fc4fca075efd94c51d1bbb4
+sourceFingerprint: f955bd351fcb201c893184fd622181c676ae1fab1eb65d88b536d60dac038b8f
 apiScope: Editor
 contracts: []
 
@@ -29,7 +29,7 @@ outdated: false
 
 **Parameter `maximum`:** Maximum screen coordinate of the complete target.
 
-**Parameter `targetId`:** ImGui identifier unique within the current window.
+**Parameter `targetID`:** ImGui identifier unique within the current window.
 
 **Parameter `payload`:** Previewed or delivered payload value.
 

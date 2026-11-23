@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Bindings
 apiSurface: source-clr
-sourceFingerprint: e49cf746e30cac67c95bc8be536828c2cc76455923f4940951e1fb8ba472d7c4
+sourceFingerprint: f556cc11bad41bcdbc463adc48ada05e6eacde6f3065758b7d9895a8bdbe9fac
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `targetId`:** The engine target identity that may consume this profile.
+**Parameter `targetID`:** The engine target identity that may consume this profile.
 
 **Parameter `target`:** The official BGCS native target selection.
 

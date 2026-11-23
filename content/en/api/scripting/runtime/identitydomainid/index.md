@@ -1,23 +1,20 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.core.identity.runtime-script.68291c4f0eee33de
-symbol: scripting:Inno.Core.Identity:T:InnoEngine.Core.IdentityDomainId
-title: IdentityDomainId
+uid: api.fd56ceae94a50127f917bdbccc95f0e1ef093c0adfa346c13016853b9344b583
+symbol: scripting:Inno.Core.Identity:T:InnoEngine.Core.IdentityDomainID
+title: IdentityDomainID
 kind: api
 owners:
 - Inno.Core.Identity
 apiSurface: editor-script
-sourceFingerprint: 33c4e9ebb2ee3c37840e6bd7cfe4c8f4ad90a5d4db89e8a0cceed5e0408ff95d
+sourceFingerprint: 289c37147bae53eca343c3fc050ef1b0e8690bc34f4337761e31ff28464c1f19
 apiScope: Runtime
-contracts:
-- api.projects.inno-core-identity#lifecycle-and-failure-contracts
-- manual.scripting.use-script-api
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---
 
 ## Remarks

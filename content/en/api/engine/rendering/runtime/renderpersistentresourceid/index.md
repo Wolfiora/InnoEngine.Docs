@@ -1,19 +1,17 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.rendering.runtime.ddae5a9cb65fa10b
-symbol: engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderPersistentResourceId
-title: RenderPersistentResourceId
+uid: api.0e34412b65fa70ad5da7f2d27361a334a5f1b8c7cb01e301f22c883f76a6fc74
+symbol: engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderPersistentResourceID
+title: RenderPersistentResourceID
 kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-sourceFingerprint: 8f401c3dc7e5c7fa0a6d4ef773f4b9f8f630486525e97617a6417e2fc09f7ca8
-contracts:
-- project.inno-rendering-runtime
+sourceFingerprint: 6304afd75c350a4e22959631076a936f67d33e9625babf4ca8c2ea98afce1e37
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

@@ -1,9 +1,9 @@
 ---
-title: Report and resolve current issues
-description: Publish owner-bound diagnostic state, replace complete reports, and
-  resolve problems without erasing log history.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.diagnostics.report-current-issues
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Diagnostics
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.Diagnostics
+
+# Authoring metadata. Edit these fields and the text below.
+title: Report and resolve current issues
+description: Publish owner-bound diagnostic state, replace complete reports, and
+  resolve problems without erasing log history.
 ---
 # Report and resolve current issues
 
@@ -44,9 +49,9 @@ The example demonstrates publication and explicit resolution; it does not perfor
 
 ## Choose stable issue identity
 
-An issue within one reporter is identified by `code`, optional `semanticId`, and optional persistent `objectId`. Its message, severity and source location are descriptive state. Updating a message replaces the existing issue; it does not create another identity.
+An issue within one reporter is identified by `code`, optional `semanticID`, and optional persistent `objectID`. Its message, severity and source location are descriptive state. Updating a message replaces the existing issue; it does not create another identity.
 
-Use a protocol identifier for `semanticId`, a persistent object GUID for `objectId`, and `DiagnosticLocation` for a file position. Do not substitute a path or runtime hash code for durable object identity. Locations use one-based lines and columns when present.
+Use a protocol identifier for `semanticID`, a persistent object GUID for `objectID`, and `DiagnosticLocation` for a file position. Do not substitute a path or runtime hash code for durable object identity. Locations use one-based lines and columns when present.
 
 `Publish` updates one issue. Identical content does not notify sinks again. `Resolve` removes the corresponding identity. `Replace` freezes and replaces the entire set, rejects duplicate identities, and clears it when the set is empty. Collect all issues from a validation pass before replacing the set; repeated one-item replacements would erase earlier issues.
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: source-clr
-sourceFingerprint: 8ce602bd3f5df0bbb2f5a72f0d815109f8d08bf8ec9435d857c6265a3b554957
+sourceFingerprint: 15fe741a1d8c3c96fb341970eb40a44e8acdbe2d7a98a62f2e6ca317dc99785a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `documentId`:** Persistent document identity; use the Asset identity for asset-backed graphs.
+**Parameter `documentID`:** Persistent document identity; use the Asset identity for asset-backed graphs.
 
 **Parameter `document`:** Mutable neutral document owned by the current asset generation.
 

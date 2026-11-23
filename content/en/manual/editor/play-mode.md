@@ -1,13 +1,18 @@
 ---
-title: Run and stop Play Mode
-description: Simulate isolated scene copies while preserving Edit objects,
-  history and generation safety.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.editor.play-mode
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.PlayMode
 contracts:
   - project.inno-editor-playmode
+
+# Authoring metadata. Edit these fields and the text below.
+title: Run and stop Play Mode
+description: Simulate isolated scene copies while preserving Edit objects,
+  history and generation safety.
 ---
 # Run and stop Play Mode
 

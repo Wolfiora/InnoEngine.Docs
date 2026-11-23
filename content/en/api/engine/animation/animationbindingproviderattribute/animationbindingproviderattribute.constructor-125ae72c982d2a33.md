@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: source-clr
-sourceFingerprint: 1266b5c9b83e3788ddac1940aa55d7dc235b997d0ba3fa277864b77e0982e408
+sourceFingerprint: ffc1dd5b03617f7162e42a7227fbd4290f437f4728a6869d8c722c3c0ad4a707
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,7 +20,7 @@ outdated: false
 
 **Parameter `id`:** Globally unique stable extension identifier.
 
-**Parameter `bindingId`:** Stable track binding protocol, independent of CLR type names.
+**Parameter `bindingID`:** Stable track binding protocol, independent of CLR type names.
 
 **Parameter `kind`:** The accepted value representation.
 

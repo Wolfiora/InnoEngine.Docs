@@ -6,11 +6,12 @@ title: Inno.UI
 kind: project
 owners:
 - Inno.UI
-sourceFingerprint: 7c0fd052c8f4f4182d416cf0d66cf9bf4e6e34abcaee0d0994ea7930a508ba28
+sourceFingerprint: 062cad95f4b68b812ca0951c54a274510ce95b99f766af6136da0ef381d581f3
 contracts: []
+outdatedFor: e43346515dcbcfa8c5bd745e5bf8ee562f1f21a57476db238169938252a3b54b
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Backend-neutral retained documents, execution scopes, input, events and immutable rendering deltas.
 outdated: false
@@ -29,13 +30,13 @@ Document sources and fragments carry an explicit language identity. Imported doc
 
 ## Host and script surfaces
 
-Host infrastructure uses `IUiService` explicitly. Runtime scripts use the projected `InnoEngine.UI` namespace and a host-bound `UI` facade. The current export manifest includes `UiInputSnapshot`, document/font asset data, handles, events and render-frame data. Backend capabilities, `IUiBackend`, font registration and `UiRenderFrameBuilder` remain host/backend contracts.
+Host infrastructure uses `IUIService` explicitly. Runtime scripts use the projected `InnoEngine.UI` namespace and a host-bound `UI` facade. The current export manifest includes `UIInputSnapshot`, document/font asset data, handles, events and render-frame data. Backend capabilities, `IUIBackend`, font registration and `UIRenderFrameBuilder` remain host/backend contracts.
 
 Execution scopes bind an owner and must be released in strict last-in-first-out order. They do not make native operations concurrent or move them to an owner thread. No active scope is an explicit failure.
 
 ## Ownership and validation
 
-`UiTextureData` copies its input pixels. Backend frame builders take exclusive ownership of supplied update arrays; callers must never mutate them after transfer. Retirement frames copy their supplied handle arrays. Immutable managed data does not extend a native handle's valid lifetime.
+`UITextureData` copies its input pixels. Backend frame builders take exclusive ownership of supplied update arrays; callers must never mutate them after transfer. Retirement frames copy their supplied handle arrays. Immutable managed data does not extend a native handle's valid lifetime.
 
 Capability selection is explicit. Unsupported languages or face selection must remain visible failures; a backend must not silently choose another implementation. Default/unassigned handle structs are not valid resources.
 

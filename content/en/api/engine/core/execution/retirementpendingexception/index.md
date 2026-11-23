@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Execution
 apiSurface: source-clr
-sourceFingerprint: ae8d14c6274772b719e04fb4699db81c85d7b906888478b83bd60c19cbfde633
+sourceFingerprint: 3bf85323876bc80aa63841de198642b9d73d49ec1114fb519c31ddfd771292ad
 contracts:
 - project.inno-core-execution#lifetime-and-retirement
 
@@ -17,3 +17,7 @@ description: null
 outdated: false
 aliases: []
 ---
+
+## Remarks
+
+More specific retirement failures derive from this class so that callers can catch every pending retirement with one handler.

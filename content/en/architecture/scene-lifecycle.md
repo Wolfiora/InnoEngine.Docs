@@ -1,14 +1,19 @@
 ---
-title: Scene ownership, indexing and reload
-description: How one Scene owner coordinates structure, lifecycle and neutral
-  state across generations.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.scene-lifecycle
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Scene
 contracts:
   - project.inno-scene#scene-ownership-contract
   - project.inno-scene#lifecycle-and-recovery-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: Scene ownership, indexing and reload
+description: How one Scene owner coordinates structure, lifecycle and neutral
+  state across generations.
 ---
 # Scene ownership, indexing and reload
 

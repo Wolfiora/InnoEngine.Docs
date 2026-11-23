@@ -1,10 +1,15 @@
 ---
-title: Graph document and validation tests
-description: Verify graph lookup, connection compatibility and recoverable missing definitions.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-graphs-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Graphs.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Graph document and validation tests
+description: Verify graph lookup, connection compatibility and recoverable missing definitions.
 ---
 # Graph document and validation tests
 
@@ -21,7 +26,7 @@ The project declares the `domain` validation layer. Use [the shared validation w
 A focused diagnostic from the engine root is:
 
 ```powershell
-dotnet test tests/core/Inno.Core.Graphs.Tests/Inno.Core.Graphs.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/foundation/core/Inno.Core.Graphs.Tests/Inno.Core.Graphs.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 Use `--filter FullyQualifiedName~MethodName` to investigate one case. A filtered run does not replace the obligations in the validation plan. Restore the declared SDK, packages and any tool/process prerequisites before executing; preserve cancellation, thread and cleanup requirements.
@@ -41,10 +46,10 @@ These representative methods are preserved from the original reference and check
 
 [Read the assertions](https://github.com/Wolfiora/InnoEngine/blob/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/tests/core/Inno.Core.Graphs.Tests/GraphValidatorTests.cs). Representative entry points:
 
-- `Validate_WithCompatibleConnection_IsValid`
-- `Validate_WithDirectedConversion_IsValid`
-- `Validate_WithIncompatibleTypes_ReportsError`
-- `Validate_WithMissingNodeDefinition_PreservesDocumentAsWarning`
+- `ValidateWithCompatibleConnectionIsValid`
+- `ValidateWithDirectedConversionIsValid`
+- `ValidateWithIncompatibleTypesReportsError`
+- `ValidateWithMissingNodeDefinitionPreservesDocumentAsWarning`
 
 ## Extend safely
 

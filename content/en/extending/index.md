@@ -1,8 +1,11 @@
 ---
-title: Extending InnoEngine
-description: Choose an extension boundary that matches the behavior you want to add.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.home
 kind: landing
+
+# Authoring metadata. Edit these fields and the text below.
+title: Extending InnoEngine
+description: Choose an extension boundary that matches the behavior you want to add.
 ---
 # Extending InnoEngine
 

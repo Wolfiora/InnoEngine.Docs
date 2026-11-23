@@ -1,9 +1,9 @@
 ---
-title: Implement a serialization converter
-description: Define explicit value or identity semantics through the shared
-  operation-scoped reader and writer.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.serialization-converters
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Serialization
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.Serialization
+
+# Authoring metadata. Edit these fields and the text below.
+title: Implement a serialization converter
+description: Define explicit value or identity semantics through the shared
+  operation-scoped reader and writer.
 ---
 # Implement a serialization converter
 

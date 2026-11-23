@@ -6,11 +6,12 @@ title: Inno.Editor.ImGui
 kind: project
 owners:
 - Inno.Editor.ImGui
-sourceFingerprint: 41f8105ffb19d1b6aebc882a75addb1c8c0fdaae8ef41e5ab69cbcc0becda13e
+sourceFingerprint: f6381d3b127163cef33b687b20f0fd0fd128c9e77041233a6af8beb10eeee5c0
 contracts: []
+outdatedFor: 1e19bace0d17659407ef47ef9ec999a18df81ea01b7bdcad9c8e8726ea3c9f30
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Scoped Editor UI primitives, shared semantic metrics, pointer-free drawing and interaction rendering bridges.
 outdated: false
@@ -45,7 +46,7 @@ public static class Example0
 {
     static void DrawEngineLabel()
     {
-        ImGui.Text(ImGuiIcon.Inno + " InnoEngine");
+        ImGui.Text(ImGuiIcon.C_INNO + " InnoEngine");
     }
 }
 ```
@@ -66,7 +67,7 @@ public static class Example1
         Action drawTrailingControl,
         Action drawContextMenu
     ) {
-        return EditorUiSession.current.widgets.CollapsingCard(id, title,
+        return EditorUISession.current.widgets.CollapsingCard(id, title,
             drawLeadingControl: drawLeadingControl, drawTrailingControl: drawTrailingControl,
             defaultOpen: true, dimmed: !enabled,
             trailingControlWidth: trailingControlWidth,
@@ -93,7 +94,7 @@ public static class Example2
             return;
         try
         {
-            EditorUiSession.current.widgets.CardBody(id, drawContent: drawContent, dimmed: !enabled);
+            EditorUISession.current.widgets.CardBody(id, drawContent: drawContent, dimmed: !enabled);
         }
         finally
         {

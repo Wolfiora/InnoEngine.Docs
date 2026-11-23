@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: b90244226f90870b659e94a2b5790a56ef59d56527a2ed26ba4774abb6c4e844
+sourceFingerprint: 0d20c87fa27d52d71773a10e58114ed24875925bb17e81f3acf1056afd6d40cc
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,10 +20,10 @@ outdated: false
 
 An enumerable collection that contains the keys in the read-only dictionary.
 
-## Remarks
-
-The returned sequence is borrowed and must be consumed before this result is disposed.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Reading ownership has ended.
+
+## Remarks
+
+The returned sequence is borrowed and must be consumed before this result is disposed.

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: source-clr
-sourceFingerprint: 7ee2edfd228675d6866579437abe46ed11a801c7a7cff783df0d75cfbdb3e648
+sourceFingerprint: 15f56593df8cfe24ec469121f177f1b680c9b71f0fdc5dbc48b952a92c0f64c1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,7 +22,7 @@ outdated: false
 
 **Parameter `faceIndex`:** The zero-based collection face index.
 
-**Parameter `glyphId`:** The font-specific glyph identifier.
+**Parameter `glyphID`:** The font-specific glyph identifier.
 
 **Parameter `fontSize`:** The positive logical pixel size.
 

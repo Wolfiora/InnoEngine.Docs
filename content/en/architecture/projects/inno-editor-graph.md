@@ -6,11 +6,11 @@ title: Inno.Editor.Graph
 kind: project
 owners:
 - Inno.Editor.Graph
-sourceFingerprint: a14567dac56879ca2514b3945e5237a6b7ecb528f0e8b1be48ce4a319954526e
+sourceFingerprint: 38cbb14e717b757ba12a950851680516366ec9885afeed50c0442889108e722e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Neutral graph editing sessions, weak controllers, canvas interaction state and recoverable History.
 outdated: false

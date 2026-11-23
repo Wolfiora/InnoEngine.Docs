@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-sourceFingerprint: f746cf373513a7992e09dd05805f7e82a54e23a9e1c4d825eeb8288bbaf41b4b
+sourceFingerprint: d35c33448d476668395d2aa56fbf9e3d7fac370022c984686a91d86ae589e477
 apiScope: Runtime
 contracts: []
 
@@ -19,6 +19,6 @@ outdated: false
 
 ## Parameters
 
-**Parameter `stableTypeId`:** Stable type identity, or empty when the extension has no typed settings.
+**Parameter `stableTypeID`:** Stable type identity, or empty when the extension has no typed settings.
 
 **Parameter `propertyData`:** Neutral native property bytes produced by asset serialization. Use the snapshot constructor when settings reference assets.

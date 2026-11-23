@@ -1,13 +1,18 @@
 ---
-title: Install and update a plugin
-description: Add a complete source package and distinguish discovery from active
-  publication.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.plugins.install
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Plugins.Authoring
 contracts:
   - project.inno-plugins-authoring#installation-and-generation-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: Install and update a plugin
+description: Add a complete source package and distinguish discovery from active
+  publication.
 ---
 # Install and update a plugin
 

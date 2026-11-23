@@ -1,10 +1,15 @@
 ---
-title: "Editor graph transaction tests"
-description: "Verify neutral history, atomic document edits and Missing recovery."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-editor-graph-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Graph.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Editor graph transaction tests"
+description: "Verify neutral history, atomic document edits and Missing recovery."
 ---
 # Editor graph transaction tests
 
@@ -14,7 +19,7 @@ owners:
 
 Document-controller cases preserve a neutral graph across assembly publication, compensate a later participant failure, recover Missing history without losing dirty state or reusing stale controllers, and replace documents atomically without retaining the caller's mutable document. Node edits record neutral history payloads.
 
-This domain owner excludes native preparation from its transitive build dependencies. Actual canvas projection, hit testing and interaction remain with [presentation tests](inno-editor-presentation-tests.md); a filter does not replace that separation.
+This domain owner excludes native preparation from its transitive build dependencies. Actual canvas projection, hit testing and interaction remain with [presentation tests](inno-editor-core-tests.md); a filter does not replace that separation.
 
 ## Environment and execution
 
@@ -32,8 +37,8 @@ Representative entry points are checked against the pinned source. The linked fi
 
 - `AssemblyPublicationPreservesNeutralGraphAndRollsBackLaterParticipantFailure`
 - `MissingGraphHistoryRecoversWithoutLosingDirtyStateOrReusingStaleController`
-- `AddNode_RecordsNeutralHistoryPayload`
-- `ReplaceDocument_IsAtomicUndoableAndDoesNotRetainTheCallerDocument`
+- `AddNodeRecordsNeutralHistoryPayload`
+- `ReplaceDocumentIsAtomicUndoableAndDoesNotRetainTheCallerDocument`
 
 ## Extend safely
 

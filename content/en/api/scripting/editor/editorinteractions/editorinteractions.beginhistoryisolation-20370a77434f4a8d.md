@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-sourceFingerprint: 8b84edc39d1ada906f7eff770fefc913f32102abb36be7685c9d9ba3ff528cf0
+sourceFingerprint: 777efbb51cd16bd84a5f5e116f76391470f92a5b965cc85c9e90cddaaa7e2630
 apiScope: Editor
 contracts: []
 
@@ -17,10 +17,6 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-Disposing the returned scope releases every temporary operation and restores the retained branch. This host-level boundary is intended for transient editor sessions such as Play Mode.
-
 ## Returns
 
 A scope that restores the retained history branch when disposed.
@@ -28,3 +24,7 @@ A scope that restores the retained history branch when disposed.
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Thrown during an Undo, Redo, transaction, or another isolated branch.
+
+## Remarks
+
+Disposing the returned scope releases every temporary operation and restores the retained branch. This host-level boundary is intended for transient editor sessions such as Play Mode.

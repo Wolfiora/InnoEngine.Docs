@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-sourceFingerprint: 29cdde6d41f3b11f12eddd1624b04fe7ca7150d71320381218c954310f8986d4
+sourceFingerprint: e9eb018dce610332330a4acd0b1317998c35a71de916cb054c70453419c570e8
 apiScope: Editor
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-The base color blended toward the palette text color using the standard hover amount.
-
 ## Parameters
 
 **Parameter `color`:** The color consumed by get hovered; ownership remains with the caller unless explicitly stated otherwise.
+
+## Returns
+
+The base color blended toward the palette text color using the standard hover amount.

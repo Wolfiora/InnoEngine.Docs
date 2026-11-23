@@ -41,7 +41,7 @@ Find types in this project category. Each type links to its exact declarations a
 | [RenderOutputLayer](renderoutputlayer/index.md) | Assigns exactly one rendering model and its world-content sources to an output layer. |
 | [RenderOutputRoute](renderoutputroute/index.md) | States the exact model order and exclusive world-content assignment for one output. |
 | [RenderOutputSession](renderoutputsession/index.md) | Declares a host output without naming a camera or scene model. |
-| [RenderPersistentResourceId](renderpersistentresourceid/index.md) | Identifies one provider-owned persistent GPU resource without exposing a native handle. |
+| [RenderPersistentResourceID](renderpersistentresourceid/index.md) | Identifies one provider-owned persistent GPU resource without exposing a native handle. |
 | [RenderPipeline](renderpipeline/index.md) | Builds frame-local passes without prescribing a rendering model. |
 | [RenderPipelineContext](renderpipelinecontext/index.md) | Supplies one request and frame-scoped services to a render pipeline. |
 | [RenderPipelineExtensionAttribute](renderpipelineextensionattribute/index.md) | Marks a reloadable render pipeline implementation with a stable extension identifier. |

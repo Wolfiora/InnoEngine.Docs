@@ -6,13 +6,13 @@ title: Inno.Editor.Core
 kind: project
 owners:
 - Inno.Editor.Core
-sourceFingerprint: 8832de103be14264e397d044502b81fb23b962db9f9d5b38929e49bae247cf88
+sourceFingerprint: 2681c2e7509150b48265ed96e90b2ffbee43d830df2dc1183adc66dc13bf75be
 contracts:
 - architecture.editor-generations
 - architecture.ownership
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Presentation-independent Editor context, extension lifecycle, frame statistics and reload coordination.
 outdated: false

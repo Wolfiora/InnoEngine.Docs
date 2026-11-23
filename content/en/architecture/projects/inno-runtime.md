@@ -6,11 +6,12 @@ title: Inno.Runtime
 kind: project
 owners:
 - Inno.Runtime
-sourceFingerprint: eed6665391aff153339454aee8d7ae25fce69823d310bc7660c6a5770d75d758
+sourceFingerprint: 776a2627f2f9d736f38905f5fe11035e48c3a1ac3f15e6f8e5c64b9fffcd236d
 contracts: []
+outdatedFor: 2f130cdf723d78242ad7b9aa2972551f5e3d0e77d8d4054e2387152607c17be5
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Explicit engine metadata, isolated Sessions and ordered subsystem execution.
 outdated: false
@@ -53,7 +54,7 @@ static RuntimeSession CreateSession(
     return host.CreateSession(new RuntimeSessionOptions
     {
         kind = RuntimeSessionKind.Player,
-        applicationId = "sample.game",
+        applicationID = "sample.game",
         contentStore = content,
         jobExecutionMode = RuntimeJobExecutionMode.SingleThread
     });

@@ -1,21 +1,18 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.core.graphs.runtime-script.2a136f014533cf93
-symbol: scripting:Inno.Core.Graphs:T:InnoEngine.Graphs.GraphEdgeId
-title: GraphEdgeId
+uid: api.a6438fa97487f5ff699876b813d5cbc8e8624e0dd6c13344367387d39dc5321f
+symbol: scripting:Inno.Core.Graphs:T:InnoEngine.Graphs.GraphEdgeID
+title: GraphEdgeID
 kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-sourceFingerprint: 03622b93242a580297f66d34611c5207317dbbf6c3bd3dc12ba926f6eddc045a
+sourceFingerprint: 07299af3d4bbfa86353e1fee7650c69a515cf6b07bc142d475900cbf9ff74b0e
 apiScope: Runtime
-contracts:
-- manual.scripting.use-script-api
-- project.inno-core-graphs#document-and-definition-contract
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

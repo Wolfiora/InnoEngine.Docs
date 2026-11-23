@@ -1,11 +1,16 @@
 ---
-title: Inno.Build.Toolchains.ImGui
-description: "The engine-owned ImGui component recipe, frozen source preparation and native product publication."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-toolchains-imgui
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Build.Toolchains.ImGui]
 exampleMode: host
 exampleProjects: [Inno.Build.Toolchains.ImGui]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Build.Toolchains.ImGui
+description: "The engine-owned ImGui component recipe, frozen source preparation and native product publication."
 ---
 # Inno.Build.Toolchains.ImGui
 

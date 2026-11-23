@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: source-clr
-sourceFingerprint: b148578dbf4ff4a723234f2c437adf2fef12d4915073f652286c09a1235f2d3f
+sourceFingerprint: 34b6e92beeac5679b7a847865b275a41980490482b7e92f34852ea47a0ccffbf
 contracts:
 - project.inno-text#shaping-and-glyph-contract
 
@@ -20,7 +20,7 @@ aliases: []
 
 ## Parameters
 
-**Parameter `glyphId`:** The glyph identifier in the font face that produced this layout.
+**Parameter `glyphID`:** The glyph identifier in the font face that produced this layout.
 
 **Parameter `cluster`:** The source cluster index reported by the backend. The FreeType/HarfBuzz backend reports a UTF-8 byte offset, not a UTF-16 character index.
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-sourceFingerprint: d18629910c3b471d266d6a27cf76f5eb4181abf58e710ca554ad7d469739558b
+sourceFingerprint: b8eda19e56d66cd1b4a1134030af7b8de4275d58c62fdf8e2db70f01bd85d071
 apiScope: Editor
 contracts: []
 
@@ -21,7 +21,7 @@ outdated: false
 
 **Parameter `module`:** A module whose selected implementations and variants share the same interface.
 
-**Parameter `implementationId`:** The exact implementation/configuration selected by the target.
+**Parameter `implementationID`:** The exact implementation/configuration selected by the target.
 
 **Parameter `inputs`:** Exactly the input/inout parameters by public name; output-only parameters are not supplied.
 

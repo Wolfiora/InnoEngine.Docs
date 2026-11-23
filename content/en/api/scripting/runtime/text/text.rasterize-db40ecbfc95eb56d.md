@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: editor-script
-sourceFingerprint: e4e025914f271883975cbfa603a40dcf5d68e8397d04ee2b97d709f7c892f3cb
+sourceFingerprint: a59a86ad2b832f9a6c006c37460c809c82835ee8581b3d6380539826e8ecfec3
 apiScope: Runtime
 contracts: []
 
@@ -23,7 +23,7 @@ outdated: false
 
 **Parameter `faceIndex`:** The zero-based collection face index.
 
-**Parameter `glyphId`:** The font-specific glyph identifier.
+**Parameter `glyphID`:** The font-specific glyph identifier.
 
 **Parameter `fontSize`:** The positive logical pixel size.
 

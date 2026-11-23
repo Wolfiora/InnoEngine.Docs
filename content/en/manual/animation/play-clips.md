@@ -1,9 +1,9 @@
 ---
-title: Play a clip against an explicit target
-description: Sample animation values using a selected clock, explicit
-  destination and generation-safe playback handle.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.animation.play-clips
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Animation
   - Inno.Animation.Runtime
@@ -12,6 +12,11 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.Animation
+
+# Authoring metadata. Edit these fields and the text below.
+title: Play a clip against an explicit target
+description: Sample animation values using a selected clock, explicit
+  destination and generation-safe playback handle.
 ---
 # Play a clip against an explicit target
 

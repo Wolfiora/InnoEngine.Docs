@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-sourceFingerprint: 6b0f8ca84056fff0f4126844d84f6fec263f4c8da130c2597cf40559ab99c5f2
+sourceFingerprint: b63801e9c15a1ea5dd973af804c0395c037f8cc7c8bc4b4cdf8b80f274949b27
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -24,10 +24,10 @@ outdated: false
 
 **Parameter `drawLeadingControl`:** Optional interactive control drawn before the section title.
 
-## Exceptions
-
-**Exception `T:System.ArgumentNullException`:** Thrown when `title` is `null`.
-
 ## Returns
 
 `true` when the section content should be drawn; otherwise, `false` when the section is collapsed.
+
+## Exceptions
+
+**Exception `T:System.ArgumentNullException`:** Thrown when `title` is `null`.

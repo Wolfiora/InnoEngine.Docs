@@ -6,11 +6,12 @@ title: Inno.Build.Managed
 kind: project
 owners:
 - Inno.Build.Managed
-sourceFingerprint: c2dbf4fe0359d16b863f30cfe16b99fd79a9f1735d025deec9ab1880cafbcd88
+sourceFingerprint: 9c21f5ea736ba30d48c68dbec8c6e82349717074d224976fdf5aaf18dcb6797b
 contracts: []
+outdatedFor: 18765dd67d7d9429e8e770677ea24737d9533d609e3ffa1e6a2affed8f08fa31
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Neutral managed deployment identities, capabilities, requests and results.
 outdated: false
@@ -28,7 +29,7 @@ Start with [distribution composition](../../extending/build-distribution.md) and
 
 [Compose a build distribution](../../extending/build-distribution.md) explains how a host registers a managed publisher. This contract library references no platform packager, Editor, Runtime or concrete SDK publisher. Domain runtime does not need to know which deployment implementation produced it.
 
-ManagedDeploymentId is open and stable. Capability construction defensively copies supported RIDs and records dynamic-code, ahead-of-time and Native static-link support. The catalog rejects null/duplicate providers, reports supported choices in stable order and resolves the selected target before staging. Missing support fails rather than selecting an approximate runtime.
+ManagedDeploymentID is open and stable. Capability construction defensively copies supported RIDs and records dynamic-code, ahead-of-time and Native static-link support. The catalog rejects null/duplicate providers, reports supported choices in stable order and resolves the selected target before staging. Missing support fails rather than selecting an approximate runtime.
 
 ## Requests and results
 
@@ -47,7 +48,7 @@ using Inno.Build.Managed;
 
 static ValueTask<ManagedDeploymentResult> CompileAsync(
     ManagedDeploymentCatalog publishers,
-    ManagedDeploymentId deployment,
+    ManagedDeploymentID deployment,
     ManagedDeploymentRequest request,
     CancellationToken cancellationToken
 ) {

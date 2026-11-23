@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-sourceFingerprint: 0deeb15d79975ab2d6e2c3d788dd8babbaab9d7c634533d05d85a252c798dcd6
+sourceFingerprint: bb9259ef8ba0fdae107026df6d2ec406647e312c3d30699e8315b02e327ecc26
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `viewportId`:** The presentation viewport containing the Game View.
+**Parameter `viewportID`:** The presentation viewport containing the Game View.
 
 **Parameter `origin`:** The image's upper-left corner relative to that window.
 

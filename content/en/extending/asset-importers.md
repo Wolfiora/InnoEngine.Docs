@@ -1,14 +1,19 @@
 ---
-title: Add an asset importer or build processor
-description: Participate in discovery, dependency tracking, named output
-  publication and settings without owning the whole pipeline.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.asset-importers
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Assets.Pipeline
 contracts:
   - project.inno-assets-pipeline#authoring-ownership-contract
   - project.inno-assets-pipeline#artifact-and-export-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: Add an asset importer or build processor
+description: Participate in discovery, dependency tracking, named output
+  publication and settings without owning the whole pipeline.
 ---
 # Add an asset importer or build processor
 

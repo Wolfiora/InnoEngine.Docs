@@ -6,11 +6,12 @@ title: Inno.Adapter.Default
 kind: project
 owners:
 - Inno.Adapter.Default
-sourceFingerprint: d83aeaba9e62f269ddb6c1407b3a724542d70f159f399b3deac56ae524407210
+sourceFingerprint: eabf80b392e2bbfcc6832a791901485c26ca9555aa6115c708e928fd7c5df77e
 contracts: []
+outdatedFor: c6ce21e51c8765322b978ee1b0484d89386ff0a6eced7ef2d0320ddbf1a53fba
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Standard runtime provider snapshots with explicitly injected platform, rendering and storage factories.
 outdated: false
@@ -36,7 +37,7 @@ Factories expose read-only `supportedBackends`. Invalid, duplicate or null provi
 
 Composition owns provider lifetime; the catalog does not dispose providers. Each created service belongs to its caller. Do not retain providers containing generation state in a cross-generation global cache. Validate complete selection before creating native services.
 
-Browser composition injects Browser storage and selects `StorageBackendId.browser`; desktop composition selects its explicit filesystem factory and `StorageBackendId.fileSystem`. Domain APIs and the Player lifecycle remain shared.
+Browser composition injects Browser storage and selects `StorageBackendID.browser`; desktop composition selects its explicit filesystem factory and `StorageBackendID.fileSystem`. Domain APIs and the Player lifecycle remain shared.
 
 This runtime catalog excludes Editor, Presentation, compiler, AssetPipeline and Build toolchain responsibilities.
 
@@ -62,7 +63,7 @@ static IAdapterCatalog Compose(
         rendering = rendering,
         storage = storage
     });
-    AdapterSelection selection = StandardAdapterSelection.Create(StorageBackendId.fileSystem);
+    AdapterSelection selection = StandardAdapterSelection.Create(StorageBackendID.fileSystem);
     selection.Validate(catalog);
     return catalog;
 }

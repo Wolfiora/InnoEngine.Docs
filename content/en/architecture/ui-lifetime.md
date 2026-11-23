@@ -1,9 +1,9 @@
 ---
-title: UI lifetimes and data flow
-description: Separate authoring, runtime sessions, native layout, and
-  renderer-owned resources.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.ui-lifetime
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.UI
   - Inno.UI.Runtime
@@ -12,6 +12,11 @@ owners:
 contracts:
   - project.inno-ui#document-and-frame-contract
   - project.inno-ui-runtime#session-and-font-ownership
+
+# Authoring metadata. Edit these fields and the text below.
+title: UI lifetimes and data flow
+description: Separate authoring, runtime sessions, native layout, and
+  renderer-owned resources.
 ---
 # UI lifetimes and data flow
 
@@ -22,16 +27,16 @@ UI separates the document contract from the implementation that performs layout 
 | Stage | Responsibility | Output |
 | --- | --- | --- |
 | Authoring frontend | Analyze a selected language and declare source/font dependencies | Neutral canonical text and diagnostics |
-| Asset importer | Resolve fonts and build an implementation-qualified document payload | `UiDocumentAsset` runtime payload |
+| Asset importer | Resolve fonts and build an implementation-qualified document payload | `UIDocumentAsset` runtime payload |
 | Runtime session | Own a backend, retain required font artifacts, bind the UI service | Context and document operations |
-| Backend | Own layout state, interaction and retained native resources | Events and `UiRenderFrame` deltas |
+| Backend | Own layout state, interaction and retained native resources | Events and `UIRenderFrame` deltas |
 | Rendering consumer | Own GPU resources and submission/retirement | Product-specific visible output |
 
 The neutral contract does not depend on the Editor, scene implementation or GPU renderer. An authoring frontend need not load the native runtime just to declare dependencies. A runtime document cannot silently switch to a backend with an incompatible implementation identity.
 
 ## Scope services to the runtime
 
-`UiRuntimeFactory` creates a runtime per isolated session. Its declared frame dependency is Input; its current ordering value is -700. The UI runtime captures the current input snapshot and owns a UI binding scope for that frame. It does not declare a separate Text runtime dependency merely because native RmlUi renders text.
+`UIRuntimeFactory` creates a runtime per isolated session. Its declared frame dependency is Input; its current ordering value is -700. The UI runtime captures the current input snapshot and owns a UI binding scope for that frame. It does not declare a separate Text runtime dependency merely because native RmlUi renders text.
 
 The execution slot selects a service; it does not make that service thread-safe. Calls still obey the backend's owner-thread rules. An asynchronous continuation is not permission to use a native owner on another thread.
 

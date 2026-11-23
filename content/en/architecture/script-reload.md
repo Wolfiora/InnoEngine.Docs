@@ -1,13 +1,18 @@
 ---
-title: Script reload and recovery
-description: Treat project scripts as one authoring generation while preserving
-  last-good state and explicit plugin retirement.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.script-reload
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Scripting.Reload
 contracts:
   - project.inno-scripting-reload
+
+# Authoring metadata. Edit these fields and the text below.
+title: Script reload and recovery
+description: Treat project scripts as one authoring generation while preserving
+  last-good state and explicit plugin retirement.
 ---
 # Script reload and recovery
 

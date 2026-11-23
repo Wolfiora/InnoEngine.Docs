@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-sourceFingerprint: e7c2658cc54c0b553bb4d0c9fccc5e18a75c84e0cef9139cce9fbf9a26504436
+sourceFingerprint: 0dd2a4605ea25e10791cd4b9bf75da80a65b8df0e4371279a1d471ae32bcb786
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,12 +16,12 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-A newly allocated scene.
-
 ## Parameters
 
 **Parameter `serialization`:** The serialization registry that owns the active scene converter generation.
 
 **Parameter `assets`:** The runtime asset generation used to resolve persistent references in the scene graph.
+
+## Returns
+
+A newly allocated scene.

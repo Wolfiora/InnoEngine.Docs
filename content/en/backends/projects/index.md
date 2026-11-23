@@ -1,7 +1,10 @@
 ---
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: backends.projects
-title: Backend integration guides
 kind: landing
+
+# Authoring metadata. Edit these fields and the text below.
+title: Backend integration guides
 ---
 
 # Backend integration guides
@@ -10,22 +13,22 @@ Understand how native and managed integrations fit into InnoEngine. These guides
 
 ## Adapter
 
-- [MiniAudio adapter tests](inno-adapter-audio-miniaudio-tests.md)
+- [MiniAudio adapter tests](../../contributing/testing/projects/inno-adapter-audio-miniaudio-native-tests.md)
 - [Inno.Adapter.Audio.MiniAudio](inno-adapter-audio-miniaudio.md)
 - [Filesystem content-cache tests](inno-adapter-content-filesystem-tests.md)
 - [Inno.Adapter.Content.FileSystem](inno-adapter-content-filesystem.md)
 - [Inno.Adapter.Modules.DotNet](inno-adapter-modules-dotnet.md)
-- [SDL window and surface tests](inno-adapter-platform-sdl3-tests.md)
+- [SDL window and surface tests](../../contributing/testing/projects/inno-adapter-platform-sdl3-native-tests.md)
 - [Inno.Adapter.Platform.Sdl3](inno-adapter-platform-sdl3.md)
 - [Inno.Adapter.Presentation.ImGui.Bgfx](inno-adapter-presentation-imgui-bgfx.md)
 - [Inno.Adapter.Presentation.ImGui.Sdl3](inno-adapter-presentation-imgui-sdl3.md)
-- [Rendering backend and surface tests](inno-adapter-rendering-bgfx-tests.md)
+- [Rendering backend, surface and deployment smoke tests](../../contributing/testing/projects/inno-adapter-rendering-bgfx-native-tests.md)
 - [Inno.Adapter.Rendering.Bgfx](inno-adapter-rendering-bgfx.md)
 - [Inno.Adapter.Serialization.DotNet](inno-adapter-serialization-dotnet.md)
 - [Inno.Adapter.Storage.FileSystem](inno-adapter-storage-filesystem.md)
 - [Inno.Adapter.Text.FreeTypeHarfBuzz](inno-adapter-text-freetypeharfbuzz.md)
 - [Inno.Adapter.UI.RmlUi.Authoring](inno-adapter-ui-rmlui-authoring.md)
-- [RmlUi document and native lifecycle tests](inno-adapter-ui-rmlui-tests.md)
+- [RmlUi document and native lifecycle tests](../../contributing/testing/projects/inno-adapter-ui-rmlui-native-tests.md)
 - [Inno.Adapter.UI.RmlUi](inno-adapter-ui-rmlui.md)
 
 ## Build
@@ -43,7 +46,6 @@ Understand how native and managed integrations fit into InnoEngine. These guides
 
 ## Native
 
-- [BGFX deployment smoke tests](inno-native-bgfx-tests.md)
 - [BGFX implementation boundary](inno-native-bgfx.md)
 - [ImGui deployment and ABI tests](inno-native-imgui-tests.md)
 - [ImGui implementation boundary](inno-native-imgui.md)

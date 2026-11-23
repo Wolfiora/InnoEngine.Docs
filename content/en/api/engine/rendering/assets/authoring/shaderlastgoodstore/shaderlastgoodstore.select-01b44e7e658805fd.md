@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets.Authoring
 apiSurface: source-clr
-sourceFingerprint: fa8d633b59d65b5d67765a46d166e68fa35f22e71d9938445e0c9dd7d2154195
+sourceFingerprint: b1bb0a691ac5c6cb2ee0c094bb28b964ffac186b8946d4f866cbc911c10057bd
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `shaderId`:** Persistent shader asset identity.
+**Parameter `shaderID`:** Persistent shader asset identity.
 
 **Parameter `targetKey`:** Stable target cache key.
 

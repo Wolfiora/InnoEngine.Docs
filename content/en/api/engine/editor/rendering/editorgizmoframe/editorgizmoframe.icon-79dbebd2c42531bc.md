@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-sourceFingerprint: dc70ac927e39a48131e407c21308a7083f48046fec825fe7e5173963972ed005
+sourceFingerprint: dbb728b4a8090fd5cbbf6cc6f4d1e31b2da18d47b9270bff29bea6b4d95fcce9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,4 +22,4 @@ outdated: false
 
 **Parameter `position`:** The position consumed by icon; ownership remains with the caller unless explicitly stated otherwise.
 
-**Parameter `iconId`:** The stable icon identity resolved by the Scene View.
+**Parameter `iconID`:** The stable icon identity resolved by the Scene View.

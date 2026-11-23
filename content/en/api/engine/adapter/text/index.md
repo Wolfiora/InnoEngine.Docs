@@ -15,6 +15,6 @@ Find types in this project category. Each type links to its exact declarations a
 | --- | --- |
 | [ITextBackendFactory](itextbackendfactory/index.md) | Creates isolated text backends without exposing implementation assemblies to composition code. |
 | [TextBackendCatalog](textbackendcatalog/index.md) | Resolves text providers from one immutable, composition-owned registration snapshot. |
-| [TextBackendId](textbackendid/index.md) | Identifies a text implementation without closing the set of supported backends. |
+| [TextBackendID](textbackendid/index.md) | Identifies a text implementation without closing the set of supported backends. |
 | [TextBackendProvider](textbackendprovider/index.md) | Describes one explicitly composed text implementation and its creation boundary. |
 

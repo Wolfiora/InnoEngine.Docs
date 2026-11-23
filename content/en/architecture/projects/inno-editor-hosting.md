@@ -6,12 +6,12 @@ title: Inno.Editor.Hosting
 kind: project
 owners:
 - Inno.Editor.Hosting
-sourceFingerprint: 052c53dd6d3135a93de9e9fa80440c1ea8e0539cf47450657013c6fb13dab14c
+sourceFingerprint: 7105ee23f9aa1f353c7158267ce9c3fcd8afe94079f7b32d6bdbbc53e1f813cb
 contracts: []
 outdatedFor: 175453981304e690be6a4508f3430199506e8e256a0c5361437b366150470a77
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Explicit Editor product composition, preflight, default layout and complete host retirement.
 outdated: false

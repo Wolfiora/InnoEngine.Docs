@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: source-clr
-sourceFingerprint: be3af6cfdce903558c0b786ed5610aaacd3d85b6e146679609853bdbc018b185
+sourceFingerprint: 781c541363a2f17af8216a3da874453e09fd50d32374a295c071e62d0eaf5a8c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,10 +18,10 @@ outdated: false
 
 ## Parameters
 
-**Parameter `targetId`:** The stable identity of the asset, scene element, or other dynamic target.
+**Parameter `targetID`:** The stable identity of the asset, scene element, or other dynamic target.
 
 **Parameter `group`:** The non-empty responsibility name scoped to the calling type and target.
 
 ## Exceptions
 
-**Exception `T:System.ArgumentException`:** Thrown when `targetId` is empty or `group` is empty.
+**Exception `T:System.ArgumentException`:** Thrown when `targetID` is empty or `group` is empty.

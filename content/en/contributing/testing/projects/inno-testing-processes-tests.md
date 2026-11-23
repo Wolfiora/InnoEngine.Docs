@@ -1,10 +1,15 @@
 ---
-title: Child-process execution tests
-description: Verify complete output capture, failure diagnostics and descendant termination.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-testing-processes-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Testing.Processes.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Child-process execution tests
+description: Verify complete output capture, failure diagnostics and descendant termination.
 ---
 # Child-process execution tests
 
@@ -22,7 +27,7 @@ owners:
 Use [the shared validation plan](../../validate-change.md). A focused process-host diagnostic is:
 
 ```powershell
-dotnet test tests/process/Inno.Testing.Processes.Tests/Inno.Testing.Processes.Tests.csproj --configuration Release --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/support/Inno.Testing.Processes.Tests/Inno.Testing.Processes.Tests.csproj --configuration Release --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 The machine must permit local process creation and testhost communication. Fixtures own and drain their child processes; cancellation must not leave descendants running. Follow [suite maintenance](../../validate-change.md#extend-a-suite-safely). The reusable process-host library retains its own public API obligations even though these discovery classes are not product APIs.

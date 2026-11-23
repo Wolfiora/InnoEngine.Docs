@@ -6,11 +6,11 @@ title: Inno.Adapter
 kind: project
 owners:
 - Inno.Adapter
-sourceFingerprint: 71a4d05758699163dab865ed0c4fa6e2dbd6550cb10bf2565c9b67cc4e223992
+sourceFingerprint: ee3f2acddadc1a9a3e7f93592f1bfb80223e871a10d453167c92c8983b5d7495
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Explicit selection and preflight for seven neutral runtime backend families.
 outdated: false
