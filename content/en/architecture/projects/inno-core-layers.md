@@ -8,10 +8,9 @@ owners:
 - Inno.Core.Layers
 sourceFingerprint: 56ba1885adf5b827fcfd7a03267028506b891f0d00398730c63d14d61f3132ce
 contracts: []
-outdatedFor: 6c78ffad18541f6d0ed1b3e6ae5bc3a10f81f711b7c2af0bc83e2587d627acf3
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Ordered host lifecycle participants with independent event scopes and deterministic render unwind.
 outdated: false

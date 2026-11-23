@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: eca741acc52ec5ba9288100550ce3cba34244d4770e4cf17cb0d194399bd7068
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Explicit platform providers and the borrowed surface boundary between native adapters.
 outdated: false

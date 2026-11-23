@@ -8,10 +8,9 @@ owners:
 - Inno.Editor.Shaders.ImGui
 sourceFingerprint: 74288e07c34cb2bbe073265b42632841e76d24530e641c8212da8328eceaeb0d
 contracts: []
-outdatedFor: 711e055a98c058c06612ff9274400abc5865b1e9810086614d00c7ce67acaa71
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Reusable shader-node, material and parameter inspection presentation over shared authoring services.
 outdated: false

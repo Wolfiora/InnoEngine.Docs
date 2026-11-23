@@ -10,7 +10,7 @@ sourceFingerprint: aa6536b3b12e5a3fc3081c960d76feb927c1ae92d005ce9945d7df35675c1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Verify native Console layout, popup placement and panel presentation against the real Editor ImGui context.
 outdated: false

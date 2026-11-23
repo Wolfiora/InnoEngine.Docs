@@ -10,7 +10,7 @@ sourceFingerprint: 1029bbfb984201310c7d6a130e451827e49531db54b0ff5e9bc98f7cfdca2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Verify immutable publication, exact queries and explicit contract continuations.
 outdated: false

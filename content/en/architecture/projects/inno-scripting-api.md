@@ -10,7 +10,7 @@ sourceFingerprint: 203b500c5d9e1b0fde1bf19b95fb6ba1af0cfd2db9e24bcc7b0fe0f6b08a3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Explicit script exports, logical namespaces and domain-owned attachable-type metadata.
 outdated: false

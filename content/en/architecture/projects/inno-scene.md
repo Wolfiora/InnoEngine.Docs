@@ -8,10 +8,9 @@ owners:
 - Inno.Scene
 sourceFingerprint: 39bada953e8cccfc058917fed547c69c90f613b9153d714a8781ea77c5c2bd3c
 contracts: []
-outdatedFor: ac57544fc0a77578bb3c54c004cf532489565f87fc086edb7e773d8f458ca78c
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Scene objects, behaviors, transforms, persistent state and generation recovery.
 outdated: false

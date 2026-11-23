@@ -10,7 +10,7 @@ sourceFingerprint: 18e8c87ee0221bddaa07d634021a765f89e4c3c22f408ca839854fce2251e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - The internal File Browser window consuming shared asset editing, browser presentation and interaction services.
 outdated: false

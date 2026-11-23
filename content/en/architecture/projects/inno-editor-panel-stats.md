@@ -12,7 +12,7 @@ contracts:
 - architecture.editor-generations
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - The discovered Stats panel and its bounded frame-timing presentation.
 outdated: false

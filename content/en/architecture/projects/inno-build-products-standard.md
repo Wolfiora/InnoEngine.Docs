@@ -8,10 +8,9 @@ owners:
 - Inno.Build.Products.Standard
 sourceFingerprint: 7c6bf0b23f0411268eafe5955b598690ebb419f6a0152d9efced63076626c2c3
 contracts: []
-outdatedFor: 30001105ac431120f53d895f381cdd459da75adce438f78fbc51ce29a652db48
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Standard Native component closures and deployment manifests without SDK selection.
 outdated: false

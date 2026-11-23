@@ -11,7 +11,7 @@ contracts:
 - contributing.documentation-queries
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Immutable documentation publication and transport-independent queries for engine development tools.
 outdated: false

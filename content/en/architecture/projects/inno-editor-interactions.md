@@ -10,10 +10,9 @@ sourceFingerprint: 1a5b5f9e5da3d48a2a7f682ef0494a1098d039309b2b3175377692f05e177
 contracts:
 - architecture.editor-generations
 - manual.identity-and-missing
-outdatedFor: 67dbb9f16bf9b7abc8bbb66ddc6306b795169397f9e6b96b499870e2b0fc7f3a
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Presentation-independent actions, menus, selection, drag and drop, history and extension activation.
 outdated: false

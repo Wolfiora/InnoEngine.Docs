@@ -10,7 +10,7 @@ sourceFingerprint: fd2338dc99326df8867463507d445d9b5efd662e657ab1f05914b1013fefd
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - The development executable that directly starts the SDK-selected Editor product.
 outdated: false

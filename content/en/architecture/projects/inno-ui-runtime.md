@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: e18fdae798a4e64a387dfea5d329d503111380706d10da3ef55b2683714a8daf
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Session-owned UI service, input capture, imported document loading and retained font artifacts.
 outdated: false

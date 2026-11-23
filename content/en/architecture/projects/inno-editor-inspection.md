@@ -10,7 +10,7 @@ sourceFingerprint: 93a3163d68b9a03552276d37c47bb8d69ab76fcc34d474066a920b46978e9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Generation-scoped target/property/attribute drawers and feature-owned reversible mutation, independent of Inspector Panel.
 outdated: false

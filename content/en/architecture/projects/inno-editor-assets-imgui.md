@@ -10,7 +10,7 @@ sourceFingerprint: 140bd3a0fccf887ac4982c6100779ed7086d55837b53b00acd08764ffebdc
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Reusable asset browsing state, icon discovery, styles and inspection presentation.
 outdated: false

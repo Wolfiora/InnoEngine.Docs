@@ -10,7 +10,7 @@ sourceFingerprint: af2bb0e8d42320956e4fa98ca86a3d1d8c4e965d4341c55f9809c65249f3a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Verify source contracts, typed IR, graph lowering and real offline Metal compilation.
 outdated: false

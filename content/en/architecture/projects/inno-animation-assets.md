@@ -10,7 +10,7 @@ sourceFingerprint: 9d57c6d243508f5354fda1ad2acc08ec346c38f7a321df7828e4e2586c28f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Import and export validated structured animation sources through shared serialization.
 outdated: false

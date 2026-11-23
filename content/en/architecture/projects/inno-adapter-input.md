@@ -8,10 +8,9 @@ owners:
 - Inno.Adapter.Input
 sourceFingerprint: de6bde8a77b59580ed3681d109c626978f5230c0f1e66869853257cd3b31fdc4
 contracts: []
-outdatedFor: 3004f9830fe463c5a8615180fbfc20aae2990a21e1ec37454a52a0e95e544a83
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Compose input providers and route neutral events to isolated session backends.
 outdated: false

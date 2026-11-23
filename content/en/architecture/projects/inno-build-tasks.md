@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: 708d5d3956b6e1f392195115569da9d6294a037d9e14618a6bac3763d030c5ac
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Thin MSBuild adapters for the engine's existing generation, shader and product preparation libraries.
 outdated: false

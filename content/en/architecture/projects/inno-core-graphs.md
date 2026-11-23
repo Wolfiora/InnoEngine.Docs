@@ -8,10 +8,9 @@ owners:
 - Inno.Core.Graphs
 sourceFingerprint: 77df69585e24dc0172e074cbe09223f67ca5dadcea24c010cd5cd89ce4a5f7ce
 contracts: []
-outdatedFor: e295ce5ca3a9a5669d6ed1f000d354a454d520cf6aec729c3057056127516fe1
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Neutral editable graph documents, generation-scoped definitions, topology validation and current-format serialization.
 outdated: false

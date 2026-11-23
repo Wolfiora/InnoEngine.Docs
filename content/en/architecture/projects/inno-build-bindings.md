@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: 1c0fd5d1f88271d08cfca6e72246fe2125d4b7948bea8b05a6b811544296294a
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - The engine's replaceable BGCS integration behind neutral generation contracts.
 outdated: false

@@ -10,7 +10,7 @@ sourceFingerprint: 6d5fe8f26a89f46b02764f0907c34c87925a9afdf55614a9cda98b9147204
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Test the real content-provider contract with frozen metadata and explicit corruption.
 outdated: false

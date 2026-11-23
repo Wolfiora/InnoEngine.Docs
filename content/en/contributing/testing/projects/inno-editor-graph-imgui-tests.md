@@ -10,7 +10,7 @@ sourceFingerprint: 8b3318803b38254f8ea8cbeb01df075d10ea999a8deb14bef8d0111ad95ac
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Verify graph canvas projection, hit testing, selection, navigation and port geometry.
 outdated: false

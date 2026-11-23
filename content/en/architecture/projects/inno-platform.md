@@ -8,10 +8,9 @@ owners:
 - Inno.Platform
 sourceFingerprint: 7e8f72ede93320c60d9f16c22d2ff39ea80094b0b7f71cea16c5f6c968a43289
 contracts: []
-outdatedFor: 2b7cd544d161543e6bd24c5a52454bcff42e827da1aae3738961388d90afce65
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Neutral application, window and frame-pacing contracts without native handles.
 outdated: false

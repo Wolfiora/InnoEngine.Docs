@@ -11,7 +11,7 @@ contracts:
 - architecture.ownership
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Stateless Inspector presentation metadata with an explicit authoring-only script surface.
 outdated: false

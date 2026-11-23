@@ -8,10 +8,9 @@ owners:
 - Inno.Assets.Pipeline
 sourceFingerprint: 5d19ef5ded485450bd9beb3b290b9e8fc659703d51ebec4bc8b201a013b23390
 contracts: []
-outdatedFor: 4b36bc430568d9f453fb562575b81d803a45668bf470d13686d5d13531acabea
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Authoring imports, source identities, settings, immutable artifacts and runtime export.
 outdated: false

@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: a686ec2cea47f01eb21b2d6d26564a1f4ba50f589de9af7861c734d37d2c8200
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Verified Support Pack preparation, publication and protected consumption.
 outdated: false

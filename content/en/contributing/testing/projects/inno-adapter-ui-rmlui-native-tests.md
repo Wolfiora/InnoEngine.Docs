@@ -10,7 +10,7 @@ sourceFingerprint: b424100d42995b2abd5e05e4c0a248273363b6c559f4c94dda21532cab5f9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Verify real imports, fonts, DOM interaction and stale-handle rejection.
 outdated: false

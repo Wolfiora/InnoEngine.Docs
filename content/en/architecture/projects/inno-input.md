@@ -10,7 +10,7 @@ sourceFingerprint: b80a280b5c95d579c0b655a2483486a70c2803d1b09bb035a132c606931f0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Backend-neutral keyboard, pointer and committed-text snapshots at runtime frame boundaries.
 outdated: false
