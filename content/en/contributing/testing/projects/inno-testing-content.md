@@ -14,6 +14,10 @@ source: FLwolfy
 description:
 - Test the real content-provider contract with frozen metadata and explicit corruption.
 outdated: false
+exampleMode: host
+exampleProjects:
+- Inno.Testing.Content
+- Inno.Content
 ---
 # Inno.Testing.Content
 
