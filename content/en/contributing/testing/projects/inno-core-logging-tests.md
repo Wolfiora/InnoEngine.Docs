@@ -1,10 +1,15 @@
 ---
-title: Log delivery and file sink tests
-description: Verify delivery ordering, fault quarantine, flush barriers and file rotation.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-logging-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Logging.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Log delivery and file sink tests
+description: Verify delivery ordering, fault quarantine, flush barriers and file rotation.
 ---
 # Log delivery and file sink tests
 

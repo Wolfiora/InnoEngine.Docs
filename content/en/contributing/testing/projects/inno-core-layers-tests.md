@@ -1,10 +1,15 @@
 ---
-title: Layer ordering and rollback tests
-description: Verify stack ordering, event precedence and reverse-order frame cleanup.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-layers-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Layers.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Layer ordering and rollback tests
+description: Verify stack ordering, event precedence and reverse-order frame cleanup.
 ---
 # Layer ordering and rollback tests
 

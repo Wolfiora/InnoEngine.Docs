@@ -1,10 +1,15 @@
 ---
-title: SDL loading and ABI tests
-description: Native library owner, resolver publication, generated ABI imports and SDL initialization contracts.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-native-sdl3-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Native.Sdl3.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: SDL loading and ABI tests
+description: Native library owner, resolver publication, generated ABI imports and SDL initialization contracts.
 ---
 # SDL loading and ABI tests
 

@@ -1,10 +1,15 @@
 ---
-title: "Rendering asset contract, import and shader authoring tests"
-description: "Verify material contracts, candidate includes and runtime export boundaries."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-rendering-assets-authoring-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Rendering.Assets.Authoring.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Rendering asset contract, import and shader authoring tests"
+description: "Verify material contracts, candidate includes and runtime export boundaries."
 ---
 # Rendering asset contract, import and shader authoring tests
 

@@ -1,8 +1,11 @@
 ---
-title: InnoEngine Documentation
-description: Learn InnoEngine, find a workflow, understand its architecture, and extend its capabilities.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: docs.home
 kind: landing
+
+# Authoring metadata. Edit these fields and the text below.
+title: InnoEngine Documentation
+description: Learn InnoEngine, find a workflow, understand its architecture, and extend its capabilities.
 ---
 # InnoEngine Documentation
 

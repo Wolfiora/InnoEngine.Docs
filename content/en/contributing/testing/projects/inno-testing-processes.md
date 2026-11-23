@@ -1,11 +1,16 @@
 ---
-title: Isolated contract process host
-description: Run a prepared test contract with complete diagnostics and owned process cleanup.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-testing-processes
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Testing.Processes]
 exampleMode: host
 exampleProjects: [Inno.Testing.Processes]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Isolated contract process host
+description: Run a prepared test contract with complete diagnostics and owned process cleanup.
 ---
 # Isolated contract process host
 

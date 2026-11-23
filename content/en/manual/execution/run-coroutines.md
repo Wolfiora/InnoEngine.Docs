@@ -1,9 +1,9 @@
 ---
-title: Run and stop frame-driven coroutines
-description: Advance enumerators from a host loop and release their stacks
-  before an owner or generation retires.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.execution.run-coroutines
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Coroutines
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.Coroutines
+
+# Authoring metadata. Edit these fields and the text below.
+title: Run and stop frame-driven coroutines
+description: Advance enumerators from a host loop and release their stacks
+  before an owner or generation retires.
 ---
 # Run and stop frame-driven coroutines
 

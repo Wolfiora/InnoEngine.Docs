@@ -1,13 +1,18 @@
 ---
-title: Compare API references with current source
-description: Check a selected reference batch against evaluated source without
-  repeating SDK discovery for each project.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.reference-validation
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Tooling.Architecture
 contracts:
   - contributing.example-validation
+
+# Authoring metadata. Edit these fields and the text below.
+title: Compare API references with current source
+description: Check a selected reference batch against evaluated source without
+  repeating SDK discovery for each project.
 ---
 # Compare API references with current source
 

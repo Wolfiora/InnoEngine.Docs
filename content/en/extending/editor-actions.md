@@ -1,16 +1,21 @@
 ---
-exampleMode: host
-exampleProjects:
-  - Inno.Editor.Interactions
-title: Register an action and menu
-description: Contribute a typed Editor operation through the shared menu,
-  shortcut and toolbar resolver.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.editor-actions
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Interactions
 contracts:
   - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
+exampleMode: host
+exampleProjects:
+  - Inno.Editor.Interactions
+
+# Authoring metadata. Edit these fields and the text below.
+title: Register an action and menu
+description: Contribute a typed Editor operation through the shared menu,
+  shortcut and toolbar resolver.
 ---
 # Register an action and menu
 

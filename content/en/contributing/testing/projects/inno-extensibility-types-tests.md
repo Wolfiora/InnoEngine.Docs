@@ -1,10 +1,15 @@
 ---
-title: Type discovery and registry retirement tests
-description: Verify classification, candidate rollback and generation-bound resources.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-extensibility-types-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Types.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Type discovery and registry retirement tests
+description: Verify classification, candidate rollback and generation-bound resources.
 ---
 # Type discovery and registry retirement tests
 

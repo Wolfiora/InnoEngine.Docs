@@ -1,10 +1,15 @@
 ---
-title: "Editor startup and script projection tests"
-description: "Verify early host rejection and the complete product's real script surfaces."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-editor-hosting-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Hosting.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Editor startup and script projection tests"
+description: "Verify early host rejection and the complete product's real script surfaces."
 ---
 # Editor startup and script projection tests
 

@@ -1,7 +1,10 @@
 ---
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: backends.projects
-title: Backend integration guides
 kind: landing
+
+# Authoring metadata. Edit these fields and the text below.
+title: Backend integration guides
 ---
 
 # Backend integration guides

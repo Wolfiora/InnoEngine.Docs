@@ -1,11 +1,16 @@
 ---
-title: Explicit test source and output inputs
-description: Resolve the declaring test assembly's checkout and SDK output owner without guessing paths.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-testing-source
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Testing.Source]
 exampleMode: host
 exampleProjects: [Inno.Testing.Source]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Explicit test source and output inputs
+description: Resolve the declaring test assembly's checkout and SDK output owner without guessing paths.
 ---
 # Explicit test source and output inputs
 

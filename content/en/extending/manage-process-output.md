@@ -1,9 +1,9 @@
 ---
-title: Manage temporary process output
-description: Claim temporary directories, register subprocess consumers, and
-  distinguish publication from cleanup.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.manage-process-output
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.IO
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.IO
+
+# Authoring metadata. Edit these fields and the text below.
+title: Manage temporary process output
+description: Claim temporary directories, register subprocess consumers, and
+  distinguish publication from cleanup.
 ---
 # Manage temporary process output
 

@@ -1,10 +1,15 @@
 ---
-title: Storage admission and persistence tests
-description: Portable scopes, atomic filesystem writes, cancellation ownership and frame-bound storage access.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-storage-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Storage.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Storage admission and persistence tests
+description: Portable scopes, atomic filesystem writes, cancellation ownership and frame-bound storage access.
 ---
 # Storage admission and persistence tests
 

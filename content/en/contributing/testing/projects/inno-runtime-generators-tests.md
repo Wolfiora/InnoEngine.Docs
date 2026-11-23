@@ -1,10 +1,15 @@
 ---
-title: "Runtime and serialization generator tests"
-description: "Verify compiled catalogs, factory boundaries and generated accessors."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-runtime-generators-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Runtime.Generators.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Runtime and serialization generator tests"
+description: "Verify compiled catalogs, factory boundaries and generated accessors."
 ---
 # Runtime and serialization generator tests
 

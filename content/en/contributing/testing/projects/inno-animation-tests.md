@@ -1,10 +1,15 @@
 ---
-title: Animation playback and binding tests
-description: Managed animation admission, sampling, blending, markers and recoverable bindings.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-animation-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Animation.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Animation playback and binding tests
+description: Managed animation admission, sampling, blending, markers and recoverable bindings.
 ---
 # Animation playback and binding tests
 

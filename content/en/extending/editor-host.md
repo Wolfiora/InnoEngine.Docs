@@ -1,13 +1,18 @@
 ---
-title: Compose and retire an Editor host
-description: Supply product capabilities explicitly, preflight before creating
-  resources and preserve complete shutdown evidence.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.editor-host
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Hosting
 contracts:
   - project.inno-editor-hosting
+
+# Authoring metadata. Edit these fields and the text below.
+title: Compose and retire an Editor host
+description: Supply product capabilities explicitly, preflight before creating
+  resources and preserve complete shutdown evidence.
 ---
 # Compose and retire an Editor host
 

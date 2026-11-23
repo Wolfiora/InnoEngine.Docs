@@ -1,8 +1,11 @@
 ---
-title: Backend boundaries
-description: Understand how third-party implementations fit behind InnoEngine's neutral contracts.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: backends.home
 kind: explanation
+
+# Authoring metadata. Edit these fields and the text below.
+title: Backend boundaries
+description: Understand how third-party implementations fit behind InnoEngine's neutral contracts.
 ---
 # Backend boundaries
 

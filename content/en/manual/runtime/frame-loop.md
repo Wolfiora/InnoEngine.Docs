@@ -1,13 +1,18 @@
 ---
-title: Understand frames, suspension and shutdown
-description: Distinguish completed frames, native redraw, background suspension
-  and safe product retirement.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.runtime.frame-loop
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Shell
 contracts:
   - project.inno-shell
+
+# Authoring metadata. Edit these fields and the text below.
+title: Understand frames, suspension and shutdown
+description: Distinguish completed frames, native redraw, background suspension
+  and safe product retirement.
 ---
 # Understand frames, suspension and shutdown
 

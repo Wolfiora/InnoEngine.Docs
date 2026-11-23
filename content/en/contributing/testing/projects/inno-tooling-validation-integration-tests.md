@@ -1,10 +1,15 @@
 ---
-title: Validation tooling integration tests
-description: Check validation completion, consumer inputs, documentation compilation and failure reporting.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-tooling-validation-integration-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Tooling.Validation.Integration.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Validation tooling integration tests
+description: Check validation completion, consumer inputs, documentation compilation and failure reporting.
 ---
 # Validation tooling integration tests
 

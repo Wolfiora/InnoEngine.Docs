@@ -1,11 +1,16 @@
 ---
-title: Inno.Build.Toolchains.Bgfx
-description: "Frozen native-library and offline-tool recipes with explicit platform integration and protected products."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-toolchains-bgfx
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Build.Toolchains.Bgfx]
 exampleMode: host
 exampleProjects: [Inno.Build.Toolchains.Bgfx]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Build.Toolchains.Bgfx
+description: "Frozen native-library and offline-tool recipes with explicit platform integration and protected products."
 ---
 # Inno.Build.Toolchains.Bgfx
 

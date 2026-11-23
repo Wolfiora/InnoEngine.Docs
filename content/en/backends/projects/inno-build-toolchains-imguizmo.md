@@ -1,11 +1,16 @@
 ---
-title: Inno.Build.Toolchains.ImGuizmo
-description: "An isolated ImGuizmo recipe consuming an explicitly published and protected ImGui dependency."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-toolchains-imguizmo
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Build.Toolchains.ImGuizmo]
 exampleMode: host
 exampleProjects: [Inno.Build.Toolchains.ImGuizmo]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Build.Toolchains.ImGuizmo
+description: "An isolated ImGuizmo recipe consuming an explicitly published and protected ImGui dependency."
 ---
 # Inno.Build.Toolchains.ImGuizmo
 

@@ -1,13 +1,18 @@
 ---
-title: Use the Game View
-description: Inspect routed game output and understand Play input, aspect ratio
-  and temporary state.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.editor.game-view
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Panel.GameView
 contracts:
   - project.inno-editor-panel-gameview
+
+# Authoring metadata. Edit these fields and the text below.
+title: Use the Game View
+description: Inspect routed game output and understand Play input, aspect ratio
+  and temporary state.
 ---
 # Use the Game View
 

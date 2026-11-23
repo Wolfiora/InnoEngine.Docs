@@ -1,7 +1,10 @@
 ---
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.testing.projects
-title: Test and fixture guides
 kind: landing
+
+# Authoring metadata. Edit these fields and the text below.
+title: Test and fixture guides
 ---
 
 # Test and fixture guides

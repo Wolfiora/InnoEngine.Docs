@@ -1,15 +1,20 @@
 ---
-title: Diagnose a blocked or failed reload
-description: Distinguish candidate rejection, active readers, pending cleanup
-  and retained collectible generations.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.extensions.diagnose-reload
 kind: troubleshooting
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Reload
   - Inno.Extensibility.Modules
   - Inno.Extensibility.Types
 contracts:
   - project.inno-extensibility-reload#shared-admission-and-retirement-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: Diagnose a blocked or failed reload
+description: Distinguish candidate rejection, active readers, pending cleanup
+  and retained collectible generations.
 ---
 # Diagnose a blocked or failed reload
 

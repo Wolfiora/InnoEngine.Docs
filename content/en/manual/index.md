@@ -1,8 +1,11 @@
 ---
-title: InnoEngine Manual
-description: Find a workflow by what you want to accomplish in the engine.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.home
 kind: landing
+
+# Authoring metadata. Edit these fields and the text below.
+title: InnoEngine Manual
+description: Find a workflow by what you want to accomplish in the engine.
 ---
 # InnoEngine Manual
 

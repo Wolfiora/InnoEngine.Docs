@@ -1,15 +1,20 @@
 ---
-title: Diagnose Missing assets and failed imports
-description: Separate source identity, import status, last-good content and
-  export integrity before retrying.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.assets.troubleshooting
 kind: troubleshooting
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Assets
   - Inno.Assets.Pipeline
   - Inno.Content
 contracts:
   - project.inno-assets-pipeline#publication-and-failure-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: Diagnose Missing assets and failed imports
+description: Separate source identity, import status, last-good content and
+  export integrity before retrying.
 ---
 # Diagnose Missing assets and failed imports
 

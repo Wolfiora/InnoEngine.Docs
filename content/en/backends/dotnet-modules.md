@@ -1,13 +1,18 @@
 ---
-title: Load dynamic code in an authoring host
-description: Use explicit .NET assembly closures, collectible module candidates
-  and verified retirement.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: backends.dotnet-modules
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Modules.DotNet
 contracts:
   - project.inno-adapter-modules-dotnet
+
+# Authoring metadata. Edit these fields and the text below.
+title: Load dynamic code in an authoring host
+description: Use explicit .NET assembly closures, collectible module candidates
+  and verified retirement.
 ---
 # Load dynamic code in an authoring host
 

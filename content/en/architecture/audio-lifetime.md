@@ -1,12 +1,17 @@
 ---
-title: Audio ownership, retirement and recovery
-description: How clips, voices, mixer generations and device candidates retain resources until safe release.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.audio-lifetime
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Audio
   - Inno.Audio.Runtime
   - Inno.Audio.Assets
+
+# Authoring metadata. Edit these fields and the text below.
+title: Audio ownership, retirement and recovery
+description: How clips, voices, mixer generations and device candidates retain resources until safe release.
 ---
 # Audio ownership, retirement and recovery
 

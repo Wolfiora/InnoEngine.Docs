@@ -1,13 +1,18 @@
 ---
-title: Adjust Editor scale, icons and pacing
-description: Distinguish applied preferences from temporary project zoom and
-  device presentation limits.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.editor.appearance
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Workbench
 contracts:
   - project.inno-editor-workbench
+
+# Authoring metadata. Edit these fields and the text below.
+title: Adjust Editor scale, icons and pacing
+description: Distinguish applied preferences from temporary project zoom and
+  device presentation limits.
 ---
 # Adjust Editor scale, icons and pacing
 

@@ -1,9 +1,9 @@
 ---
-title: Capture and reuse immutable serialized state
-description: Reuse neutral snapshot nodes while preserving complete change
-  detection and generation ownership.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.serialization.capture-snapshots
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Serialization
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.Serialization
+
+# Authoring metadata. Edit these fields and the text below.
+title: Capture and reuse immutable serialized state
+description: Reuse neutral snapshot nodes while preserving complete change
+  detection and generation ownership.
 ---
 # Capture and reuse immutable serialized state
 

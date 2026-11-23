@@ -1,9 +1,9 @@
 ---
-title: Read current content for one operation
-description: Resolve a bounded identity snapshot without keeping live roots
-  across frames or reloads.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.references.read-content
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.References
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.References
+
+# Authoring metadata. Edit these fields and the text below.
+title: Read current content for one operation
+description: Resolve a bounded identity snapshot without keeping live roots
+  across frames or reloads.
 ---
 # Read current content for one operation
 

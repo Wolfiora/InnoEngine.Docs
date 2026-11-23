@@ -1,8 +1,11 @@
 ---
-title: Prepare your environment
-description: Prepare the SDK and native toolchain needed to build the desktop Editor.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: getting-started.prerequisites
 kind: tutorial
+
+# Authoring metadata. Edit these fields and the text below.
+title: Prepare your environment
+description: Prepare the SDK and native toolchain needed to build the desktop Editor.
 ---
 # Prepare your environment
 

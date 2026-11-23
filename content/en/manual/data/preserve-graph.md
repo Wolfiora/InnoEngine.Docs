@@ -1,9 +1,9 @@
 ---
-title: Preserve an editable graph across extension changes
-description: Store neutral nodes, ports and values while resolving current
-  definitions without deleting Missing content.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.data.preserve-graph
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Graphs
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.Graphs
+
+# Authoring metadata. Edit these fields and the text below.
+title: Preserve an editable graph across extension changes
+description: Store neutral nodes, ports and values while resolving current
+  definitions without deleting Missing content.
 ---
 # Preserve an editable graph across extension changes
 

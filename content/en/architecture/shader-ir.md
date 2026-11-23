@@ -1,13 +1,18 @@
 ---
-title: Typed shader IR and frozen inputs
-description: Understand shader input identity, structured execution and exact
-  type semantics.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.shader-ir
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Rendering.Shaders
 contracts:
   - project.inno-rendering-shaders
+
+# Authoring metadata. Edit these fields and the text below.
+title: Typed shader IR and frozen inputs
+description: Understand shader input identity, structured execution and exact
+  type semantics.
 ---
 # Typed shader IR and frozen inputs
 

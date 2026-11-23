@@ -1,10 +1,15 @@
 ---
-title: Asset import and settings tests
-description: Verify source changes, importer discovery, sidecars and last-good artifacts.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-assets-pipeline-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Assets.Pipeline.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Asset import and settings tests
+description: Verify source changes, importer discovery, sidecars and last-good artifacts.
 ---
 # Asset import and settings tests
 

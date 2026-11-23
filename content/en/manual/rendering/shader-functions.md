@@ -1,9 +1,14 @@
 ---
-title: Define a shader source function
-description: Expose local algorithms as typed graph calls with explicit dependencies and consistent implementations.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.rendering.shader-functions
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Rendering.Shaders]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Define a shader source function
+description: Expose local algorithms as typed graph calls with explicit dependencies and consistent implementations.
 ---
 # Define a shader source function
 

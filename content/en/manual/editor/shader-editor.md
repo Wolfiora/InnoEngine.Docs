@@ -1,15 +1,20 @@
 ---
-title: Edit and check a shader graph
-description: Separate graph drafts, explicit source saving, isolated compilation
-  and the current preview revision.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.editor.shader-editor
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Panel.ShaderEditor
   - Inno.Editor.Shaders.ImGui
 contracts:
   - project.inno-editor-panel-shadereditor
   - project.inno-editor-shaders-imgui
+
+# Authoring metadata. Edit these fields and the text below.
+title: Edit and check a shader graph
+description: Separate graph drafts, explicit source saving, isolated compilation
+  and the current preview revision.
 ---
 # Edit and check a shader graph
 

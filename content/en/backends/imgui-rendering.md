@@ -1,13 +1,18 @@
 ---
-title: Present Editor UI through ImGui and BGFX
-description: Keep linear composition, product shader identity and viewport
-  retirement in the presentation adapter.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: backends.imgui-rendering
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Presentation.ImGui.Bgfx
 contracts:
   - project.inno-adapter-presentation-imgui-bgfx
+
+# Authoring metadata. Edit these fields and the text below.
+title: Present Editor UI through ImGui and BGFX
+description: Keep linear composition, product shader identity and viewport
+  retirement in the presentation adapter.
 ---
 # Present Editor UI through ImGui and BGFX
 

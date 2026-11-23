@@ -1,9 +1,14 @@
 ---
-title: Render graph validation and frame ownership
-description: Freeze contributions, reuse revision-scoped analysis and retire device resources without retaining extension generations.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.render-frame
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Rendering, Inno.Rendering.Runtime]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Render graph validation and frame ownership
+description: Freeze contributions, reuse revision-scoped analysis and retire device resources without retaining extension generations.
 ---
 # Render graph validation and frame ownership
 

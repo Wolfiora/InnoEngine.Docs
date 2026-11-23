@@ -1,15 +1,20 @@
 ---
-title: Isolate MSBuild Task hosts
-description: Separate bootstrap compilation, immutable runtime publication and
-  process-private loading.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.task-hosts
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.TaskHosting
   - Inno.Build.Tasks
 contracts:
   - project.inno-build-taskhosting
   - project.inno-build-tasks
+
+# Authoring metadata. Edit these fields and the text below.
+title: Isolate MSBuild Task hosts
+description: Separate bootstrap compilation, immutable runtime publication and
+  process-private loading.
 ---
 # Isolate MSBuild Task hosts
 

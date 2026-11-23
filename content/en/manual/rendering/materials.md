@@ -1,13 +1,18 @@
 ---
-title: Use materials and compiled rendering assets
-description: Resolve explicit shader contracts and consume retained artifacts
-  without serializing device state.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.rendering.materials
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Rendering.Assets
 contracts:
   - project.inno-rendering-assets
+
+# Authoring metadata. Edit these fields and the text below.
+title: Use materials and compiled rendering assets
+description: Resolve explicit shader contracts and consume retained artifacts
+  without serializing device state.
 ---
 # Use materials and compiled rendering assets
 

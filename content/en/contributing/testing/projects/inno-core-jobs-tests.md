@@ -1,10 +1,15 @@
 ---
-title: Job admission and scheduling tests
-description: Verify bounded scheduling, callbacks, determinism and measured worker behavior.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-jobs-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Jobs.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Job admission and scheduling tests
+description: Verify bounded scheduling, callbacks, determinism and measured worker behavior.
 ---
 # Job admission and scheduling tests
 

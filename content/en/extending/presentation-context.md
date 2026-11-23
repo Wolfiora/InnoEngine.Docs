@@ -1,9 +1,9 @@
 ---
-title: Own a presentation context
-description: Compose authoring UI without leaking native windows or renderer
-  handles into the host.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.presentation-context
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Presentation
   - Inno.Adapter.Platform
@@ -12,6 +12,11 @@ contracts:
   - project.inno-adapter-presentation
   - project.inno-adapter-platform
   - project.inno-platform
+
+# Authoring metadata. Edit these fields and the text below.
+title: Own a presentation context
+description: Compose authoring UI without leaking native windows or renderer
+  handles into the host.
 ---
 # Own a presentation context
 

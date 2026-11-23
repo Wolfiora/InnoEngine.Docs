@@ -1,8 +1,11 @@
 ---
-title: Contributing to InnoEngine
-description: Find the authoritative development rules and preserve evidence while changing the engine or docs.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.home
 kind: landing
+
+# Authoring metadata. Edit these fields and the text below.
+title: Contributing to InnoEngine
+description: Find the authoritative development rules and preserve evidence while changing the engine or docs.
 ---
 # Contributing to InnoEngine
 

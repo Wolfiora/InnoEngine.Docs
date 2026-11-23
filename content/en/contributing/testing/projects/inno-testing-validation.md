@@ -1,10 +1,15 @@
 ---
-title: Validation repository fixture
-description: Use the shared repository and documentation fixtures when arranging validation tooling tests.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-testing-validation
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Testing.Validation
+
+# Authoring metadata. Edit these fields and the text below.
+title: Validation repository fixture
+description: Use the shared repository and documentation fixtures when arranging validation tooling tests.
 ---
 # Validation repository fixture
 

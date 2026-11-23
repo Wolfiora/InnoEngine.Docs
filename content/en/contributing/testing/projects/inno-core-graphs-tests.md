@@ -1,10 +1,15 @@
 ---
-title: Graph document and validation tests
-description: Verify graph lookup, connection compatibility and recoverable missing definitions.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-graphs-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Graphs.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Graph document and validation tests
+description: Verify graph lookup, connection compatibility and recoverable missing definitions.
 ---
 # Graph document and validation tests
 

@@ -1,9 +1,9 @@
 ---
-title: Asset publication, recovery and deployment
-description: How authoring identity, isolated candidates, immutable artifacts
-  and runtime content fit together.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.asset-publication
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Assets
   - Inno.Assets.Pipeline
@@ -11,6 +11,11 @@ owners:
 contracts:
   - project.inno-assets-pipeline#publication-and-failure-contract
   - architecture.ownership
+
+# Authoring metadata. Edit these fields and the text below.
+title: Asset publication, recovery and deployment
+description: How authoring identity, isolated candidates, immutable artifacts
+  and runtime content fit together.
 ---
 # Asset publication, recovery and deployment
 

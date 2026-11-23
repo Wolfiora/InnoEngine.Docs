@@ -1,10 +1,15 @@
 ---
-title: "Editor graph transaction tests"
-description: "Verify neutral history, atomic document edits and Missing recovery."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-editor-graph-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Graph.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Editor graph transaction tests"
+description: "Verify neutral history, atomic document edits and Missing recovery."
 ---
 # Editor graph transaction tests
 

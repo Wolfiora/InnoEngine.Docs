@@ -1,10 +1,15 @@
 ---
-title: MiniAudio implementation boundary
-description: The native implementation behind the engine's managed audio services.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-native-miniaudio
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Native.MiniAudio
+
+# Authoring metadata. Edit these fields and the text below.
+title: MiniAudio implementation boundary
+description: The native implementation behind the engine's managed audio services.
 ---
 # MiniAudio implementation boundary
 

@@ -1,10 +1,15 @@
 ---
-title: Content-pack admission and reader tests
-description: Verify portable keys, immutable indexes and independently retained readers.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-content-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Content.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Content-pack admission and reader tests
+description: Verify portable keys, immutable indexes and independently retained readers.
 ---
 # Content-pack admission and reader tests
 

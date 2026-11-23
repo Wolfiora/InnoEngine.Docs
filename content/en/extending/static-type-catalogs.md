@@ -1,9 +1,9 @@
 ---
-title: Contribute static type facts and factories
-description: Register exact discovery metadata and linked generic constructions
-  without runtime scanning or hidden fallback.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.static-type-catalogs
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Catalogs
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Extensibility.Catalogs
+
+# Authoring metadata. Edit these fields and the text below.
+title: Contribute static type facts and factories
+description: Register exact discovery metadata and linked generic constructions
+  without runtime scanning or hidden fallback.
 ---
 # Contribute static type facts and factories
 

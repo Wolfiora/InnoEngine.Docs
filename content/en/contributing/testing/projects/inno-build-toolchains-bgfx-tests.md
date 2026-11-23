@@ -1,10 +1,15 @@
 ---
-title: BGFX target and profile tests
-description: Check native profiles, shader profiles and shader target selection.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-toolchains-bgfx-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.Toolchains.Bgfx.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: BGFX target and profile tests
+description: Check native profiles, shader profiles and shader target selection.
 ---
 # BGFX target and profile tests
 

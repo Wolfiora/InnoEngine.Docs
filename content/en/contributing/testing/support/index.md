@@ -1,8 +1,11 @@
 ---
-title: Reusable test support and fixtures
-description: Choose explicit content, process, source and generation owners for real contract tests.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.testing.support
 kind: landing
+
+# Authoring metadata. Edit these fields and the text below.
+title: Reusable test support and fixtures
+description: Choose explicit content, process, source and generation owners for real contract tests.
 ---
 # Reusable test support and fixtures
 

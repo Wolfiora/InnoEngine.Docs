@@ -1,10 +1,15 @@
 ---
-title: File ownership and publication tests
-description: Verify protected readers, atomic replacement, path boundaries and rollback.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-io-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.IO.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: File ownership and publication tests
+description: Verify protected readers, atomic replacement, path boundaries and rollback.
 ---
 # File ownership and publication tests
 

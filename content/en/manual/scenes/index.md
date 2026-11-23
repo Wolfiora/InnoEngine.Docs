@@ -1,10 +1,15 @@
 ---
-title: Scenes, objects and behaviors
-description: Choose the Scene workflow for loading content, arranging objects or adding behavior.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.scenes.home
 kind: landing
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Scene
+
+# Authoring metadata. Edit these fields and the text below.
+title: Scenes, objects and behaviors
+description: Choose the Scene workflow for loading content, arranging objects or adding behavior.
 ---
 # Scenes, objects and behaviors
 

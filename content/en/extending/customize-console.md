@@ -1,13 +1,18 @@
 ---
-title: Customize Console presentation
-description: Locate Console-specific styles and preserve the panel's behavior and lifecycle.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.console-style
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Panel.Logging
 contracts:
   - architecture.ownership
   - manual.editor.console
+
+# Authoring metadata. Edit these fields and the text below.
+title: Customize Console presentation
+description: Locate Console-specific styles and preserve the panel's behavior and lifecycle.
 ---
 # Customize Console presentation
 

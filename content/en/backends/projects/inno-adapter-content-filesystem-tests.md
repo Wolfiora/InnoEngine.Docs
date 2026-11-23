@@ -1,10 +1,15 @@
 ---
-title: Filesystem content-cache tests
-description: Verify complete generations, cross-process readers and failure-safe publication.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-adapter-content-filesystem-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Content.FileSystem.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Filesystem content-cache tests
+description: Verify complete generations, cross-process readers and failure-safe publication.
 ---
 # Filesystem content-cache tests
 

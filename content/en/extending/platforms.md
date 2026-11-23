@@ -1,8 +1,9 @@
 ---
-title: Compose portable product contributions
-description: Bind shared engine contracts to explicit product capabilities without duplicating domain behavior.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.platforms
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.Composition
   - Inno.Build.Toolchains
@@ -10,6 +11,10 @@ owners:
 contracts:
   - extending.build-distribution
   - architecture.ownership
+
+# Authoring metadata. Edit these fields and the text below.
+title: Compose portable product contributions
+description: Bind shared engine contracts to explicit product capabilities without duplicating domain behavior.
 ---
 # Compose portable product contributions
 

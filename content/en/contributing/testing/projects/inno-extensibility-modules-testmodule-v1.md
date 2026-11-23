@@ -1,10 +1,15 @@
 ---
-title: "First collectible module generation"
-description: "Provide the original implementation of a stable reloadable type identity."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-extensibility-modules-testmodule-v1
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Modules.TestModule.V1
+
+# Authoring metadata. Edit these fields and the text below.
+title: "First collectible module generation"
+description: "Provide the original implementation of a stable reloadable type identity."
 ---
 # First collectible module generation
 

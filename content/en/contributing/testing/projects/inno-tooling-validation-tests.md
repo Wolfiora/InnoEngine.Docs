@@ -1,10 +1,15 @@
 ---
-title: Validation planning and evidence tests
-description: Verify change selection, real builds, prerequisite handling and trustworthy completion.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-tooling-validation-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Tooling.Validation.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Validation planning and evidence tests
+description: Verify change selection, real builds, prerequisite handling and trustworthy completion.
 ---
 # Validation planning and evidence tests
 

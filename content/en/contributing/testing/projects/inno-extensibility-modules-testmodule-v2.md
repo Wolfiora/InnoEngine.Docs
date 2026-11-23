@@ -1,10 +1,15 @@
 ---
-title: "Replacement collectible module generation"
-description: "Change an implementation while retaining the first generation's stable identity."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-extensibility-modules-testmodule-v2
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Modules.TestModule.V2
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Replacement collectible module generation"
+description: "Change an implementation while retaining the first generation's stable identity."
 ---
 # Replacement collectible module generation
 

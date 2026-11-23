@@ -1,9 +1,9 @@
 ---
-title: Join a reference recovery transaction
-description: Restore domain structure and values with the shared generation
-  publication order.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.reference-recovery
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.References
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.References
+
+# Authoring metadata. Edit these fields and the text below.
+title: Join a reference recovery transaction
+description: Restore domain structure and values with the shared generation
+  publication order.
 ---
 # Join a reference recovery transaction
 

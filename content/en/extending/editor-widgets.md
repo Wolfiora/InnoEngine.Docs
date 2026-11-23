@@ -1,13 +1,18 @@
 ---
-title: Build consistent Editor controls
-description: Use a scoped UI session, shared metrics and one interaction owner
-  for readable panels, forms, trees and dialogs.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.editor-widgets
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.ImGui
 contracts:
   - project.inno-editor-imgui
+
+# Authoring metadata. Edit these fields and the text below.
+title: Build consistent Editor controls
+description: Use a scoped UI session, shared metrics and one interaction owner
+  for readable panels, forms, trees and dialogs.
 ---
 # Build consistent Editor controls
 

@@ -1,8 +1,9 @@
 ---
-title: Read keyboard, pointer and text input
-description: Read an immutable runtime frame without consuming another system's input.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.input.read-input
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Input
   - Inno.Input.Runtime
@@ -13,6 +14,10 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.Input
+
+# Authoring metadata. Edit these fields and the text below.
+title: Read keyboard, pointer and text input
+description: Read an immutable runtime frame without consuming another system's input.
 ---
 # Read keyboard, pointer and text input
 

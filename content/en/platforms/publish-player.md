@@ -1,8 +1,11 @@
 ---
-title: Build and run a Player
-description: Prepare a matching Support Pack, publish game content and run the resulting desktop application or Browser site.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: platforms.publish-player
 kind: how-to
+
+# Authoring metadata. Edit these fields and the text below.
+title: Build and run a Player
+description: Prepare a matching Support Pack, publish game content and run the resulting desktop application or Browser site.
 ---
 # Build and run a Player
 

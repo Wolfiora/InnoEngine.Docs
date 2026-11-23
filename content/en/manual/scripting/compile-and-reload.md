@@ -1,13 +1,18 @@
 ---
-title: Compile and reload project scripts
-description: Follow one source snapshot and compilation ticket through
-  activation, recovery and verified retirement.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.scripting.compile-and-reload
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Scripting
 contracts:
   - project.inno-editor-scripting
+
+# Authoring metadata. Edit these fields and the text below.
+title: Compile and reload project scripts
+description: Follow one source snapshot and compilation ticket through
+  activation, recovery and verified retirement.
 ---
 # Compile and reload project scripts
 

@@ -1,10 +1,15 @@
 ---
-title: Asset ownership and residency tests
-description: Verify canonical ownership, retained resources and pending release.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-assets-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Assets.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Asset ownership and residency tests
+description: Verify canonical ownership, retained resources and pending release.
 ---
 # Asset ownership and residency tests
 

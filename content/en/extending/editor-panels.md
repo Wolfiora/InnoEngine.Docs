@@ -1,13 +1,9 @@
 ---
-exampleMode: host
-exampleProjects:
-  - Inno.Editor.Core
-  - Inno.Editor.ImGui
-title: Add an Editor panel
-description: Register a dockable panel and participate in the Editor's
-  activation, drawing, state and retirement lifecycle.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.editor-panels
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Core
   - Inno.Editor.Interactions
@@ -15,6 +11,15 @@ owners:
 contracts:
   - architecture.ownership
   - manual.identity-and-missing
+exampleMode: host
+exampleProjects:
+  - Inno.Editor.Core
+  - Inno.Editor.ImGui
+
+# Authoring metadata. Edit these fields and the text below.
+title: Add an Editor panel
+description: Register a dockable panel and participate in the Editor's
+  activation, drawing, state and retirement lifecycle.
 ---
 # Add an Editor panel
 

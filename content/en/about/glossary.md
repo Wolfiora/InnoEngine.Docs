@@ -1,8 +1,11 @@
 ---
-title: Glossary
-description: The terms used throughout InnoEngine's manuals and API contracts.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: about.glossary
 kind: explanation
+
+# Authoring metadata. Edit these fields and the text below.
+title: Glossary
+description: The terms used throughout InnoEngine's manuals and API contracts.
 ---
 # Glossary
 

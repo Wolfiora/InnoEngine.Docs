@@ -1,18 +1,23 @@
 ---
-exampleMode: host
-exampleProjects:
-  - Inno.Editor.Core
-title: Preserve Editor extension state
-description: Persist neutral Module and Panel state without saving live objects
-  or bypassing host-owned layout storage.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.editor-state
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Core
   - Inno.Editor.Interactions
 contracts:
   - architecture.editor-generations
   - manual.identity-and-missing
+exampleMode: host
+exampleProjects:
+  - Inno.Editor.Core
+
+# Authoring metadata. Edit these fields and the text below.
+title: Preserve Editor extension state
+description: Persist neutral Module and Panel state without saving live objects
+  or bypassing host-owned layout storage.
 ---
 # Preserve Editor extension state
 

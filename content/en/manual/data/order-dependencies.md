@@ -1,9 +1,9 @@
 ---
-title: Order dependencies and inspect cycles
-description: Model explicit dependency direction, find affected consumers and
-  produce deterministic dependency-first order.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.data.order-dependencies
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Collections
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.Collections
+
+# Authoring metadata. Edit these fields and the text below.
+title: Order dependencies and inspect cycles
+description: Model explicit dependency direction, find affected consumers and
+  produce deterministic dependency-first order.
 ---
 # Order dependencies and inspect cycles
 

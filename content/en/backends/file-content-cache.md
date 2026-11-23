@@ -1,13 +1,18 @@
 ---
-title: Prepare a verified file content cache
-description: Materialize a deployed content pack while preserving concurrent
-  readers and the previous committed generation.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: backends.file-content-cache
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Content.FileSystem
 contracts:
   - project.inno-adapter-content-filesystem
+
+# Authoring metadata. Edit these fields and the text below.
+title: Prepare a verified file content cache
+description: Materialize a deployed content pack while preserving concurrent
+  readers and the previous committed generation.
 ---
 # Prepare a verified file content cache
 

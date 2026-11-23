@@ -1,9 +1,9 @@
 ---
-title: Read retained artifact bytes
-description: Open immutable asset output with a lease instead of borrowing a
-  physical cache path.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.assets.artifacts
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Assets
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Assets
+
+# Authoring metadata. Edit these fields and the text below.
+title: Read retained artifact bytes
+description: Open immutable asset output with a lease instead of borrowing a
+  physical cache path.
 ---
 # Read retained artifact bytes
 

@@ -1,15 +1,20 @@
 ---
-title: Generation publication and unload verification
-description: Understand shared admission, reversible publication, irreversible
-  cleanup and weak unload evidence.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.generation-publication
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Modules
   - Inno.Extensibility.Types
   - Inno.Extensibility.Reload
 contracts:
   - project.inno-extensibility-reload#shared-admission-and-retirement-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: Generation publication and unload verification
+description: Understand shared admission, reversible publication, irreversible
+  cleanup and weak unload evidence.
 ---
 # Generation publication and unload verification
 

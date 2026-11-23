@@ -1,10 +1,15 @@
 ---
-title: Audio runtime lifecycle tests
-description: Suspension, rollback, retained mixer roots and artifact admission through managed audio boundaries.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-audio-runtime-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Audio.Runtime.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Audio runtime lifecycle tests
+description: Suspension, rollback, retained mixer roots and artifact admission through managed audio boundaries.
 ---
 # Audio runtime lifecycle tests
 

@@ -1,10 +1,15 @@
 ---
-title: Serialization and generation tests
-description: Verify identity rewriting, registry lifetime and retained generation snapshots.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-serialization-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Serialization.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Serialization and generation tests
+description: Verify identity rewriting, registry lifetime and retained generation snapshots.
 ---
 # Serialization and generation tests
 

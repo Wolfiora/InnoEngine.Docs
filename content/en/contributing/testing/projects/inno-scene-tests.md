@@ -1,10 +1,15 @@
 ---
-title: Scene, prefab and transform tests
-description: Verify scene identity, deterministic ordering and recoverable plugin state.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-scene-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Scene.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Scene, prefab and transform tests
+description: Verify scene identity, deterministic ordering and recoverable plugin state.
 ---
 # Scene, prefab and transform tests
 

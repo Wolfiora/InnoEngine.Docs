@@ -1,9 +1,9 @@
 ---
-title: Arrange objects and transform points
-description: Preserve hierarchy ownership and use complete matrices when world
-  TRS is insufficient.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.scenes.transforms
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Scene
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.Scene
+
+# Authoring metadata. Edit these fields and the text below.
+title: Arrange objects and transform points
+description: Preserve hierarchy ownership and use complete matrices when world
+  TRS is insufficient.
 ---
 # Arrange objects and transform points
 

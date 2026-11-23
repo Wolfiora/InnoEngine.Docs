@@ -1,10 +1,15 @@
 ---
-title: Audio contracts and script API tests
-description: Audio value validation, mixer topology, content admission, encoded clip import and real runtime script compilation.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-audio-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Audio.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Audio contracts and script API tests
+description: Audio value validation, mixer topology, content admission, encoded clip import and real runtime script compilation.
 ---
 # Audio contracts and script API tests
 

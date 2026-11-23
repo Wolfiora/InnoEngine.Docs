@@ -1,13 +1,18 @@
 ---
-title: Add an Inspector drawer
-description: Reuse shared property presentation, feature-owned mutations and
-  generation-scoped discovery.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.inspectors
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Inspection
 contracts:
   - project.inno-editor-inspection
+
+# Authoring metadata. Edit these fields and the text below.
+title: Add an Inspector drawer
+description: Reuse shared property presentation, feature-owned mutations and
+  generation-scoped discovery.
 ---
 # Add an Inspector drawer
 

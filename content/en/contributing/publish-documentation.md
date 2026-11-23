@@ -1,8 +1,11 @@
 ---
-title: Publish documentation from draft
-description: Validate documentation, manually merge draft into main, and publish the checked artifact with GitHub Pages.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.publish-documentation
 kind: how-to
+
+# Authoring metadata. Edit these fields and the text below.
+title: Publish documentation from draft
+description: Validate documentation, manually merge draft into main, and publish the checked artifact with GitHub Pages.
 ---
 # Publish documentation from draft
 

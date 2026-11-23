@@ -1,11 +1,16 @@
 ---
-title: Inno.Build.Toolchains.Sdl3
-description: "SDL component source declaration and protected native publication for an explicitly frozen target."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-toolchains-sdl3
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Build.Toolchains.Sdl3]
 exampleMode: host
 exampleProjects: [Inno.Build.Toolchains.Sdl3]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Build.Toolchains.Sdl3
+description: "SDL component source declaration and protected native publication for an explicitly frozen target."
 ---
 # Inno.Build.Toolchains.Sdl3
 

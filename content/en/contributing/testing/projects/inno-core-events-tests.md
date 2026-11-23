@@ -1,10 +1,15 @@
 ---
-title: Event routing and observation tests
-description: Verify consumption scopes, delivery order and observation boundaries.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-events-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Events.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Event routing and observation tests
+description: Verify consumption scopes, delivery order and observation boundaries.
 ---
 # Event routing and observation tests
 

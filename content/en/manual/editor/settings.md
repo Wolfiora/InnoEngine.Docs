@@ -1,14 +1,19 @@
 ---
-title: Change Editor and project settings
-description: Choose the correct settings scope and understand Apply, Reset and
-  persistence boundaries.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.editor-settings
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Settings
   - Inno.Editor.Panel.Settings
 contracts:
   - api.projects.inno-editor-settings#identity-and-use-contracts
+
+# Authoring metadata. Edit these fields and the text below.
+title: Change Editor and project settings
+description: Choose the correct settings scope and understand Apply, Reset and
+  persistence boundaries.
 ---
 # Change Editor and project settings
 

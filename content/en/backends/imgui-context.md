@@ -1,13 +1,18 @@
 ---
-title: Own an ImGui presentation context
-description: Bind a context to its SDL application, borrow frames and retire
-  viewports before releasing callbacks or fonts.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: backends.imgui-context
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Presentation.ImGui.Sdl3
 contracts:
   - project.inno-adapter-presentation-imgui-sdl3
+
+# Authoring metadata. Edit these fields and the text below.
+title: Own an ImGui presentation context
+description: Bind a context to its SDL application, borrow frames and retire
+  viewports before releasing callbacks or fonts.
 ---
 # Own an ImGui presentation context
 

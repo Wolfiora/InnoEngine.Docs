@@ -1,10 +1,15 @@
 ---
-title: Text backend implementation boundary
-description: The native bridge used by the engine's managed font and shaping adapter.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-native-text
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Native.Text
+
+# Authoring metadata. Edit these fields and the text below.
+title: Text backend implementation boundary
+description: The native bridge used by the engine's managed font and shaping adapter.
 ---
 # Text backend implementation boundary
 

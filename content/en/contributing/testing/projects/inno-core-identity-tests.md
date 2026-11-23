@@ -1,10 +1,15 @@
 ---
-title: Persistent and runtime identity tests
-description: Verify detached identities, explicit registration and runtime domain isolation.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-identity-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Identity.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Persistent and runtime identity tests
+description: Verify detached identities, explicit registration and runtime domain isolation.
 ---
 # Persistent and runtime identity tests
 

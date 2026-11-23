@@ -1,8 +1,11 @@
 ---
-title: Open your first project
-description: Choose a project directory and understand what the first Editor session creates.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: getting-started.project
 kind: tutorial
+
+# Authoring metadata. Edit these fields and the text below.
+title: Open your first project
+description: Choose a project directory and understand what the first Editor session creates.
 ---
 # Open your first project
 

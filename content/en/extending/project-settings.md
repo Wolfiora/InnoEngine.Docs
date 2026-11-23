@@ -1,13 +1,18 @@
 ---
-title: Define and compose project settings
-description: Register stable setting protocols, order contributions, and
-  preserve project state across reload.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.project-settings
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Settings
 contracts:
   - project.inno-core-settings#settings-ownership-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: Define and compose project settings
+description: Register stable setting protocols, order contributions, and
+  preserve project state across reload.
 ---
 # Define and compose project settings
 

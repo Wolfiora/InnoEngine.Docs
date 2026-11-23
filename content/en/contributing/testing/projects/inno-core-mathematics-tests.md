@@ -1,10 +1,15 @@
 ---
-title: Vector and matrix tests
-description: Verify geometric identities and compound rotation conventions.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-mathematics-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Mathematics.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Vector and matrix tests
+description: Verify geometric identities and compound rotation conventions.
 ---
 # Vector and matrix tests
 

@@ -1,12 +1,17 @@
 ---
-title: Native deployment lookup boundary
-description: How engine consumers locate explicitly deployed native dependencies.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: api.projects.inno-native-libraryloading
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Native.LibraryLoading
 contracts:
   - architecture.build-artifacts
+
+# Authoring metadata. Edit these fields and the text below.
+title: Native deployment lookup boundary
+description: How engine consumers locate explicitly deployed native dependencies.
 ---
 # Native deployment lookup boundary
 

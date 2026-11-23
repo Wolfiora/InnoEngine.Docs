@@ -1,9 +1,14 @@
 ---
-title: Contribute to a rendered frame
-description: Choose a render model, pipeline feature, graph contributor or artifact provider with explicit ownership.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.render-frame
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Rendering.Runtime, Inno.Rendering]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Contribute to a rendered frame
+description: Choose a render model, pipeline feature, graph contributor or artifact provider with explicit ownership.
 ---
 # Contribute to a rendered frame
 

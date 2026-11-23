@@ -1,17 +1,22 @@
 ---
-title: Identity and Missing states
-description: Keep persistent references stable while runtime objects and generations change.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.identity-and-missing
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Identity
+contracts:
+  - architecture.ownership
+
+# Authoring metadata. Edit these fields and the text below.
+title: Identity and Missing states
+description: Keep persistent references stable while runtime objects and generations change.
 aliases:
   - persistent identity
   - missing reference
   - 跨代身份
   - 缺失恢复
-contracts:
-  - architecture.ownership
 ---
 # Identity and Missing states
 

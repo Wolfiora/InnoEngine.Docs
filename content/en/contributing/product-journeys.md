@@ -1,13 +1,18 @@
 ---
-title: Interpret product and lifetime acceptance
-description: Distinguish completed behavior, orderly process exit and
-  retained-memory evidence.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.product-journeys
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Tooling.Validation
 contracts:
   - project.inno-tooling-validation
+
+# Authoring metadata. Edit these fields and the text below.
+title: Interpret product and lifetime acceptance
+description: Distinguish completed behavior, orderly process exit and
+  retained-memory evidence.
 ---
 # Interpret product and lifetime acceptance
 

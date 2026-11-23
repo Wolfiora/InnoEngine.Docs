@@ -1,13 +1,18 @@
 ---
-title: Execution scopes and retirement
-description: Separate revocable service access, task ownership, owner-thread
-  pumping and dependency-safe retirement.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.execution-and-retirement
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Execution
 contracts:
   - project.inno-core-execution#lifetime-and-retirement
+
+# Authoring metadata. Edit these fields and the text below.
+title: Execution scopes and retirement
+description: Separate revocable service access, task ownership, owner-thread
+  pumping and dependency-safe retirement.
 ---
 # Execution scopes and retirement
 

@@ -1,9 +1,9 @@
 ---
-title: Add a shader compiler primitive
-description: Implement an Editor-scoped lowering extension only when reusable
-  graphs and public IR cannot express the operation.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.shader-nodes
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Rendering.Shaders
   - Inno.Core.Graphs
@@ -13,6 +13,11 @@ exampleMode: editor-script
 exampleProjects:
   - Inno.Rendering.Shaders
   - Inno.Core.Graphs
+
+# Authoring metadata. Edit these fields and the text below.
+title: Add a shader compiler primitive
+description: Implement an Editor-scoped lowering extension only when reusable
+  graphs and public IR cannot express the operation.
 ---
 # Add a shader compiler primitive
 

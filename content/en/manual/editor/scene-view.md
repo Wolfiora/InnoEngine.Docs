@@ -1,13 +1,18 @@
 ---
-title: Navigate and edit in Scene View
-description: Use contributor-defined navigation and transactional transforms in
-  the currently presented world.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.editor.scene-view
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Panel.SceneView
 contracts:
   - project.inno-editor-panel-sceneview
+
+# Authoring metadata. Edit these fields and the text below.
+title: Navigate and edit in Scene View
+description: Use contributor-defined navigation and transactional transforms in
+  the currently presented world.
 ---
 # Navigate and edit in Scene View
 

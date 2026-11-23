@@ -1,9 +1,14 @@
 ---
-title: Reuse a shader graph node
-description: Publish ordinary graph functions, retain stable ports and bridge supported shader stages.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.rendering.reusable-shader-nodes
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Rendering.Shaders]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Reuse a shader graph node
+description: Publish ordinary graph functions, retain stable ports and bridge supported shader stages.
 ---
 # Reuse a shader graph node
 

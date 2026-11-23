@@ -1,17 +1,22 @@
 ---
-title: Build artifacts, caches and consumer protection
-description: Understand frozen requests, immutable publication, independent
-  consumers and safe cache retirement.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.build-artifacts
 kind: explanation
-aliases:
-  - native cache
-  - build cache
-  - diagnose repeated native builds
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.Toolchains
 contracts:
   - architecture.ownership
+
+# Authoring metadata. Edit these fields and the text below.
+title: Build artifacts, caches and consumer protection
+description: Understand frozen requests, immutable publication, independent
+  consumers and safe cache retirement.
+aliases:
+  - native cache
+  - build cache
+  - diagnose repeated native builds
 ---
 # Build artifacts, caches and consumer protection
 

@@ -1,10 +1,15 @@
 ---
-title: "Content-cache process probe"
-description: "Coordinate actual cross-process content readers and generation retirement."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-content-cacheprobe
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Content.CacheProbe
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Content-cache process probe"
+description: "Coordinate actual cross-process content readers and generation retirement."
 ---
 # Content-cache process probe
 

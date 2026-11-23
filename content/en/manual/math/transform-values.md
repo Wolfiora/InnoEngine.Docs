@@ -1,9 +1,9 @@
 ---
-title: Transform positions, directions and colors
-description: Use InnoEngine matrix conventions and numeric boundaries without
-  assuming another library's layout or equality rules.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.math.transform-values
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Mathematics
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.Mathematics
+
+# Authoring metadata. Edit these fields and the text below.
+title: Transform positions, directions and colors
+description: Use InnoEngine matrix conventions and numeric boundaries without
+  assuming another library's layout or equality rules.
 ---
 # Transform positions, directions and colors
 

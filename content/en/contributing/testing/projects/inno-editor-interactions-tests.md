@@ -1,10 +1,15 @@
 ---
-title: "Editor history and navigation tests"
-description: "Verify atomic undo, retryable transitions and pointer ownership."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-editor-interactions-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Interactions.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Editor history and navigation tests"
+description: "Verify atomic undo, retryable transitions and pointer ownership."
 ---
 # Editor history and navigation tests
 

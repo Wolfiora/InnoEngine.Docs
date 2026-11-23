@@ -1,9 +1,9 @@
 ---
-title: RmlUi backend
-description: Native retained UI integration, authoring boundaries, owner-thread
-  rules and rendering requirements.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: backend.rmlui
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.UI.RmlUi
   - Inno.Adapter.UI.RmlUi.Authoring
@@ -12,6 +12,11 @@ owners:
 contracts:
   - project.inno-adapter-ui-rmlui#native-session-and-transfer-contract
   - project.inno-native-ui#abi-and-ownership-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: RmlUi backend
+description: Native retained UI integration, authoring boundaries, owner-thread
+  rules and rendering requirements.
 ---
 # RmlUi backend
 

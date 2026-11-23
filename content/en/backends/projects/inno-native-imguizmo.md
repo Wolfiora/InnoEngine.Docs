@@ -1,12 +1,17 @@
 ---
-title: ImGuizmo implementation boundary
-description: Scene gizmo presentation and its dependency on the host-owned ImGui context.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: api.projects.inno-native-imguizmo
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Native.ImGuizmo
 contracts:
   - api.projects.inno-native-imgui
+
+# Authoring metadata. Edit these fields and the text below.
+title: ImGuizmo implementation boundary
+description: Scene gizmo presentation and its dependency on the host-owned ImGui context.
 ---
 # ImGuizmo implementation boundary
 

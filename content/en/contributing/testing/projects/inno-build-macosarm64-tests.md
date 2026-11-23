@@ -1,10 +1,15 @@
 ---
-title: macOS Arm64 support pack tests
-description: Check target-specific validation of macOS Arm64 support packs.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-macosarm64-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.MacOSArm64.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: macOS Arm64 support pack tests
+description: Check target-specific validation of macOS Arm64 support packs.
 ---
 # macOS Arm64 support pack tests
 

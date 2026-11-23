@@ -1,10 +1,15 @@
 ---
-title: Player support pack fixture
-description: Use the player support pack fixture when arranging pack preparation and consumption tests.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-testing-supportpacks
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Testing.SupportPacks
+
+# Authoring metadata. Edit these fields and the text below.
+title: Player support pack fixture
+description: Use the player support pack fixture when arranging pack preparation and consumption tests.
 ---
 # Player support pack fixture
 

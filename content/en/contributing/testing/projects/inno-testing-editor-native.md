@@ -1,9 +1,14 @@
 ---
-title: Shared native Editor test fixtures
-description: Exercise real panels, input and authoring composition without copying lifecycle code.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-testing-editor-native
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Testing.Editor.Native]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Shared native Editor test fixtures
+description: Exercise real panels, input and authoring composition without copying lifecycle code.
 ---
 # Shared native Editor test fixtures
 

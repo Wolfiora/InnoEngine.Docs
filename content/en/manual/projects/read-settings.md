@@ -1,9 +1,9 @@
 ---
-title: Read project settings
-description: Read isolated settings snapshots, qualify project names, and
-  refresh caches after a generation change.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.projects.read-settings
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Settings
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.Core.Settings
+
+# Authoring metadata. Edit these fields and the text below.
+title: Read project settings
+description: Read isolated settings snapshots, qualify project names, and
+  refresh caches after a generation change.
 ---
 # Read project settings
 

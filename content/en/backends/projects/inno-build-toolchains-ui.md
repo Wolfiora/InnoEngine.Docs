@@ -1,10 +1,15 @@
 ---
-title: Inno.Build.Toolchains.UI
-description: RmlUi native component inputs, toolchain recipes and immutable product artifacts.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-toolchains-ui
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.Toolchains.UI
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Build.Toolchains.UI
+description: RmlUi native component inputs, toolchain recipes and immutable product artifacts.
 ---
 # Inno.Build.Toolchains.UI
 

@@ -1,8 +1,9 @@
 ---
-title: Assign tags and layers
-description: Separate object assignments from project definitions and stable layer identity.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.scenes.tags-layers
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Scene
 contracts:
@@ -10,6 +11,10 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.Scene
+
+# Authoring metadata. Edit these fields and the text below.
+title: Assign tags and layers
+description: Separate object assignments from project definitions and stable layer identity.
 ---
 # Assign tags and layers
 

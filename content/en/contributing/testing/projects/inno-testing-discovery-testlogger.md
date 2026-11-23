@@ -1,10 +1,15 @@
 ---
-title: Test discovery logger
-description: Consult the VSTest logger implementation when changing how the validation tooling collects test results.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-testing-discovery-testlogger
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Testing.Discovery.TestLogger
+
+# Authoring metadata. Edit these fields and the text below.
+title: Test discovery logger
+description: Consult the VSTest logger implementation when changing how the validation tooling collects test results.
 ---
 # Test discovery logger
 

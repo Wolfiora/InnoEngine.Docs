@@ -1,9 +1,9 @@
 ---
-title: Build an owned extension registry
-description: Construct immutable candidates with transactional activation and
-  explicit retirement ownership.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.type-registries
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Types
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Extensibility.Types
+
+# Authoring metadata. Edit these fields and the text below.
+title: Build an owned extension registry
+description: Construct immutable candidates with transactional activation and
+  explicit retirement ownership.
 ---
 # Build an owned extension registry
 

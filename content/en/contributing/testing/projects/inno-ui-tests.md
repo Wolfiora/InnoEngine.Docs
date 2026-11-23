@@ -1,10 +1,15 @@
 ---
-title: UI frame-context tests
-description: Backend-neutral UI runtime input and script-facade binding without native preparation.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-ui-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.UI.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: UI frame-context tests
+description: Backend-neutral UI runtime input and script-facade binding without native preparation.
 ---
 # UI frame-context tests
 

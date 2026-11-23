@@ -1,10 +1,15 @@
 ---
-title: Diagnostic ownership tests
-description: Verify replacement, clearing, severity and independent report owners.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-diagnostics-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Diagnostics.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Diagnostic ownership tests
+description: Verify replacement, clearing, severity and independent report owners.
 ---
 # Diagnostic ownership tests
 
