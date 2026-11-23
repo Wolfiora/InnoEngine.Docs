@@ -1,19 +1,17 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.rendering.assets.62d1b9229ee2dc65
-symbol: engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.ShaderPassRoleId
-title: ShaderPassRoleId
+uid: api.5773be527bff526692b973da283ea3cfdff7d503415c0df08641323d2c6ee4a0
+symbol: engine:Inno.Rendering.Assets:T:Inno.Rendering.Assets.ShaderPassRoleID
+title: ShaderPassRoleID
 kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-sourceFingerprint: a7e8b5ea0a5839a6825c74eb3c9cd8491612bf2df968eaf2248f7af0ddf2323b
-contracts:
-- project.inno-rendering-assets
+sourceFingerprint: 1a863b748273bea105b8b67be3154b49d0567d3f8761b6c81db05342b826eee6
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

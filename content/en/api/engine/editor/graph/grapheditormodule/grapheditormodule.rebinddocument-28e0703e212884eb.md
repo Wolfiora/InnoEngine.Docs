@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: source-clr
-sourceFingerprint: 39dc806790d61f2fcbeaf37921f6236954d65010ef1a25f5d9d1b8ce1540e5b4
+sourceFingerprint: ec144ac792257e2ab2a6e9801b85f0bc2d220fecea46bc113460a31cf92ea24b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `documentId`:** Stable document identity.
+**Parameter `documentID`:** Stable document identity.
 
 **Parameter `document`:** New current-generation document instance.
 

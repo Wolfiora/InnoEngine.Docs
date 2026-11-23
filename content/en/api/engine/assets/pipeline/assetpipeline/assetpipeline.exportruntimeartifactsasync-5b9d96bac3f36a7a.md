@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-sourceFingerprint: b40a5bb58dc6da2f938eb2ca5d6345dcd9a4e088bfcccc3bdb597ba526d0967a
+sourceFingerprint: 6754efa82fbfc30dbf5301aaea9b688a7709d660b21333b2de160246a4e0cb84
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -15,10 +15,6 @@ source: xml
 description: null
 outdated: false
 ---
-
-## Remarks
-
-Keeps generation admission and serialization pinned until the worker completes, fails or cancels. A pending or faulted generation cannot start a new export.
 
 ## Parameters
 
@@ -35,3 +31,7 @@ A task that completes with counts and source identities for the captured runtime
 **Exception `T:System.InvalidOperationException`:** Thrown when runtime artifacts are incomplete, transitive authoring inputs have failed or become stale, or the asset service is not available.
 
 **Exception `T:System.OperationCanceledException`:** Thrown when cancellation is requested before export completes.
+
+## Remarks
+
+Keeps generation admission and serialization pinned until the worker completes, fails or cancels. A pending or faulted generation cannot start a new export.

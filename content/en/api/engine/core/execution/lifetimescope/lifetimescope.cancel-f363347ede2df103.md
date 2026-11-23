@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Execution
 apiSurface: source-clr
-sourceFingerprint: 6a36dad7941a99501d2d2e0c8cddd44ebc4a3aa3b5e05b79e4659b9c59868958
+sourceFingerprint: 480d6e241d3efe54b2c947819805551efe5c5f328817b8f2c60fed8ffd04a12b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-Callbacks must return promptly. Dependent resources remain owned while cancellation callbacks execute, including when another thread attempts disposal. A callback reporting pending work permanently blocks release.
-
 ## Exceptions
 
 **Exception `T:System.AggregateException`:** One or more cancellation callbacks fail.
+
+## Remarks
+
+Callbacks must return promptly. Dependent resources remain owned while cancellation callbacks execute, including when another thread attempts disposal. A callback reporting pending work permanently blocks release.

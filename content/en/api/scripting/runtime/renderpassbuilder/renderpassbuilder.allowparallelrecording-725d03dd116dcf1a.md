@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-sourceFingerprint: fe979a80033e770b69ab968d0d2f0995a67edf3d2a3cd0f1e073cf45e0b9c448
+sourceFingerprint: 65bcf4bbe26a9fbc77312411827f9ed1e62795807c9fe46265d181b781f1a42c
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-Pass data and code reached by the callback must be safe for worker-thread access. GPU execution and backend view order remain identical to the compiled graph order.
-
 ## Returns
 
 This builder for fluent declarations.
+
+## Remarks
+
+Pass data and code reached by the callback must be safe for worker-thread access. GPU execution and backend view order remain identical to the compiled graph order.

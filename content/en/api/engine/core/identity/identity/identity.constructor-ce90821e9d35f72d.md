@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Identity
 apiSurface: source-clr
-sourceFingerprint: 5f4385bb9370be23c5a393fa06b6dcbe067ef0e04d1858d588b92d335432637d
+sourceFingerprint: 82ab02ccc34b9bcdf033568c3fb400f189c6ad758d57f045bc984bf006f3386c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,4 +18,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** The stable identifier to preserve across serialization boundaries.
+**Parameter `persistentID`:** The stable identifier to preserve across serialization boundaries.

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: source-clr
-sourceFingerprint: 5c3e25ca8530a4681ce4e7d3b29dbae86738c0432a25b196b0e0b40897b35a60
+sourceFingerprint: c5dd094d1504020c16506bee0862db679f46b3d165b3e983e09890a00a7d39e1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

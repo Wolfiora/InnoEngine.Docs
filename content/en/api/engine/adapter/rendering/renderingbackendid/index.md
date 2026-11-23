@@ -1,19 +1,17 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.adapter.rendering.5bdd65f0b8886bb4
-symbol: engine:Inno.Adapter.Rendering:T:Inno.Adapter.Rendering.RenderingBackendId
-title: RenderingBackendId
+uid: api.9ce5721aa6eedcdeb62de2cddbe9510842d2d053cbad76603434652b68f59d69
+symbol: engine:Inno.Adapter.Rendering:T:Inno.Adapter.Rendering.RenderingBackendID
+title: RenderingBackendID
 kind: api
 owners:
 - Inno.Adapter.Rendering
 apiSurface: source-clr
-sourceFingerprint: 6dcda4f7f803b05d4babe53cd930680817d040b76b0557386bd4b764e05f8cda
-contracts:
-- project.inno-adapter-rendering
+sourceFingerprint: 91eee410e7f5c3bb542460296b98b621bff9476383e17f1918b46f7edee0a13b
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

@@ -6,8 +6,9 @@ title: Inno.Core.Settings
 kind: project
 owners:
 - Inno.Core.Settings
-sourceFingerprint: 3f774d93725d6396ad56d81d1843f145e05113493286bc1644a3b84d8019c250
+sourceFingerprint: be12a1fc026dbbecfc616379f58546ef778546fa075d7a53c98dbf3e5375afa0
 contracts: []
+outdatedFor: 178b6fd540c4a8bcdb9cb2d93e619f18ef94930854f1bcdd43f353ddc625234d
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

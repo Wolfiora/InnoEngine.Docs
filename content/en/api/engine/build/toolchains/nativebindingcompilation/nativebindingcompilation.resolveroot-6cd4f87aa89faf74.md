@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: c59c74a948aa7109ae716f3681eaaf52e768f28c75f7fa677deda92e59c4e3e1
+sourceFingerprint: fc185945154218a18b292585baf57ae80f5e6a166bfdc3fcffa9dd8c97ad7a29
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,7 +22,7 @@ outdated: false
 
 **Parameter `nativeDirectory`:** The selected generation's absolute native output.
 
-**Parameter `rootId`:** An ordinal root identity from this description.
+**Parameter `rootID`:** An ordinal root identity from this description.
 
 ## Returns
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: editor-script
-sourceFingerprint: f72319b5714f7e6f75848d40dc8e41ac7102b63b0b1372ce65870e729765537b
+sourceFingerprint: d4b1ffbc8c2a585bb9729186670c55525d059c901be2d96f1f43ed7e351ea56a
 apiScope: Editor
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `assetId`:** Persistent dependency identity.
+**Parameter `assetID`:** Persistent dependency identity.
 
 **Parameter `outputName`:** Stable named output protocol.
 

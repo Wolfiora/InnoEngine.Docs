@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: source-clr
-sourceFingerprint: 9d023bdc3befad66990453fedecc134091cf1425ab27a002ec507de472abb5ee
+sourceFingerprint: 883115e37357e355864e5e802fa8951586b7cf7accfd75446024f125d34f3c93
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `definitionId`:** Stable node definition ID.
+**Parameter `definitionID`:** Stable node definition ID.
 
 **Parameter `position`:** Initial graph-space position.
 

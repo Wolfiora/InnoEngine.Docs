@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-sourceFingerprint: 9d5829aec7177b7a881f1a659e6e81faaa1b2362a0e9a05d37c780425ea6949e
+sourceFingerprint: 2da6ed6e5e239284c434728c15636cf18de1d5a843958896446b8c8a1324e36e
 apiScope: Runtime
 contracts: []
 
@@ -23,7 +23,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** The non-empty persistent asset identity.
+**Parameter `persistentID`:** The non-empty persistent asset identity.
 
 **Parameter `asset`:** Receives the canonical compatible asset when available.
 

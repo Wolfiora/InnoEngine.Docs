@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-sourceFingerprint: ddff04b5d60fcfd37ffd3cc8eb1d6def6d9870f75f51df19249533616674232e
+sourceFingerprint: a26f049c92316094af08789ca29f801af0020f2f7ff1721ff7fa6f3630f0d40b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `panelId`:** The stable panel identity.
+**Parameter `panelID`:** The stable panel identity.
 
 **Parameter `isOpen`:** Receives the open state, or false when the panel is unavailable.
 

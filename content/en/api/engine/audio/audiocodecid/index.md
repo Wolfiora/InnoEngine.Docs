@@ -1,19 +1,17 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.audio.2ad16f6c5b70077f
-symbol: engine:Inno.Audio:T:Inno.Audio.AudioCodecId
-title: AudioCodecId
+uid: api.8d935359716dc537d81fc79c3d13ff3c2244e52bd4f4fa16bf22d4debe2c5e44
+symbol: engine:Inno.Audio:T:Inno.Audio.AudioCodecID
+title: AudioCodecID
 kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-sourceFingerprint: c97e70a1fadb1dcf2389842a123ec3c6221344460c4d2f100f8fdebaa5fa38c9
-contracts:
-- project.inno-audio#playback-and-device-contract
+sourceFingerprint: 6dd5d8956b617fdd107bc07ec3f06f31c381b28a29970956f60ec6913df233b7
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

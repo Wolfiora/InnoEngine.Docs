@@ -1,21 +1,18 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.rendering.assets.runtime-script.2b38472fbfffbbdb
-symbol: scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.ShaderContractId
-title: ShaderContractId
+uid: api.c9ba3dd40aabec5f7ad0c2c1321237b696a538ac3ae45bd7e65bb45429ef7db1
+symbol: scripting:Inno.Rendering.Assets:T:InnoEngine.Rendering.ShaderContractID
+title: ShaderContractID
 kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-sourceFingerprint: 2f715a2453c223e020ef0887f0ac79076d7f0e8cb7cb77e91b0014a888a30275
+sourceFingerprint: 16e37b3c53340d426891261efc275a9555c79e2fbb301c4cf584877ad31b8b34
 apiScope: Runtime
-contracts:
-- manual.scripting.use-script-api
-- project.inno-rendering-assets
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

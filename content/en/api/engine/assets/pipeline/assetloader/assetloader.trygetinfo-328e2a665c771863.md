@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-sourceFingerprint: c04fbeb4388c41bf6f3073c9482ef61b495279a9787e09068da2b67da57c22e2
+sourceFingerprint: ad384bad7a4a1dad78a6c3f29b4b8df8f3c763730187cc3657e05c104910dcc0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** The stable persistent identity used for lookup.
+**Parameter `persistentID`:** The stable persistent identity used for lookup.
 
 **Parameter `info`:** The resolved immutable metadata returned to the caller.
 

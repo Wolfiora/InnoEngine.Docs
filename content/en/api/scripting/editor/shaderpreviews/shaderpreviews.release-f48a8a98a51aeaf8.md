@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders.ImGui
 apiSurface: editor-script
-sourceFingerprint: a5e8598eb3e7a1937c978e35f96430872a73e734b5787229be78b4ce5fd7b733
+sourceFingerprint: e405fa2669b4ae77b327d2783811969cdced575ddd513c62d90b320514be1713
 apiScope: Editor
 contracts: []
 
@@ -19,4 +19,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `ownerId`:** Closing or disabled preview owner.
+**Parameter `ownerID`:** Closing or disabled preview owner.

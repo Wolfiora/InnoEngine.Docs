@@ -6,8 +6,9 @@ title: Inno.Editor.ImGui
 kind: project
 owners:
 - Inno.Editor.ImGui
-sourceFingerprint: 41f8105ffb19d1b6aebc882a75addb1c8c0fdaae8ef41e5ab69cbcc0becda13e
+sourceFingerprint: f6381d3b127163cef33b687b20f0fd0fd128c9e77041233a6af8beb10eeee5c0
 contracts: []
+outdatedFor: 1e19bace0d17659407ef47ef9ec999a18df81ea01b7bdcad9c8e8726ea3c9f30
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

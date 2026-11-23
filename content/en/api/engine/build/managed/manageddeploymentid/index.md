@@ -1,19 +1,17 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.build.managed.dda51a2f21105456
-symbol: engine:Inno.Build.Managed:T:Inno.Build.Managed.ManagedDeploymentId
-title: ManagedDeploymentId
+uid: api.8200568adeb13c6a39155b6f3322e0b2cb3607019d8cac29d4eded1e6ae5efa2
+symbol: engine:Inno.Build.Managed:T:Inno.Build.Managed.ManagedDeploymentID
+title: ManagedDeploymentID
 kind: api
 owners:
 - Inno.Build.Managed
 apiSurface: source-clr
-sourceFingerprint: fe23939e596bb63d9400d141d5e46b6b7e27d314a3dee17cf27bde5dd42a6f4e
-contracts:
-- project.inno-build-managed
+sourceFingerprint: d2a63ca21bdab076c3e3151378d90a5602ce337b80cc1ec03a7090f8b3246362
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

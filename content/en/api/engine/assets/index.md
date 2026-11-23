@@ -47,7 +47,7 @@ Find types in this project category. Each type links to its exact declarations a
 | [AssetRuntimeOwner](assetruntimeowner/index.md) | Grants one database exclusive mutation authority over the asset instances it initializes. |
 | [Assets](assets/index.md) | Provides script-facing asset queries through the lookup bound to the current runtime session. |
 | [AssetSerializationContext](assetserializationcontext/index.md) | Creates complete asset-aware converter contexts from an owner-provided reference generation. |
-| [AssetSourceId](assetsourceid/index.md) | Identifies one isolated asset source mount. |
+| [AssetSourceID](assetsourceid/index.md) | Identifies one isolated asset source mount. |
 | [AssetSourceKind](assetsourcekind/index.md) | Identifies the durable source role recorded by an asset metadata sidecar. |
 | [BinaryAsset](binaryasset/index.md) | Describes an imported opaque binary payload. |
 | [IAssetArtifactLookup](iassetartifactlookup/index.md) | Resolves verified named outputs from immutable asset artifact bundles. |

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-sourceFingerprint: b13987c2470eeaefb9d4e4a3f29ca36ce4064182a0f234b32626df0e8cf6ab99
+sourceFingerprint: bba6def53640a6ac14ae302b257074e0561240d42bc341fc703a611834a5e4bd
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.
-
 ## Parameters
 
 **Parameter `value`:** The concrete value read or transformed by this operation.
+
+## Returns
+
+`true` when the operation succeeds or its condition is satisfied; otherwise, `false`.

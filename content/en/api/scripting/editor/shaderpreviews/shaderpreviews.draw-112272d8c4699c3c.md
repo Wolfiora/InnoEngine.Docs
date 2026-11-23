@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders.ImGui
 apiSurface: editor-script
-sourceFingerprint: 73651b3ca1b6ba073ab8e8d3ea4af532185599d7714952787896ba98294ab5d0
+sourceFingerprint: 7f05aa5782e5e1c8257b2a3f522f0c722745ef895915a072b5fd9e2dd7afd187
 apiScope: Editor
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `ownerId`:** Persistent document identity, independent of the canonical Shader publication.
+**Parameter `ownerID`:** Persistent document identity, independent of the canonical Shader publication.
 
 **Parameter `material`:** Detached defaults or overrides with the current Shader reference.
 

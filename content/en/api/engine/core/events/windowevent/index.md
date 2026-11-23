@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-sourceFingerprint: 425703477afe25c7d18dfc3ac2cbf66b0f166022b48afa72853ff7f98685131f
+sourceFingerprint: cb2d2cacf36c78d152530e671e2e9092a4bd67a68c6cf72b12eee0aa3278d7c1
 contracts:
 - project.inno-core-events#dispatch-and-lifetime-contract
 
@@ -20,4 +20,4 @@ aliases: []
 
 ## Parameters
 
-**Parameter `windowId`:** The window id used to initialize this instance.
+**Parameter `windowID`:** The window id used to initialize this instance.

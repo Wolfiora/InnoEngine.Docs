@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-sourceFingerprint: 669345ce2e6f6ff0c17902abc7d16e292ee9dd073fb6bf8e64685625e4f5c675
+sourceFingerprint: 2abc64ab932e68d4e15ba1e5d8523d41d942b09eae36ad84bc5c002487d02c83
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,6 +18,6 @@ outdated: false
 
 ## Parameters
 
-**Parameter `viewportId`:** Stable output identity.
+**Parameter `viewportID`:** Stable output identity.
 
 **Parameter `route`:** Explicit contributor route, or null for single-model selection.

@@ -1,23 +1,20 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.ui.runtime-script.a78f65dc5357e256
-symbol: scripting:Inno.UI:T:InnoEngine.UI.UiVertex
-title: UiVertex
+uid: api.d5837be378c650f9f12159b466e40444087ce8a2e3f61d7a7459fee86f9ae938
+symbol: scripting:Inno.UI:T:InnoEngine.UI.UIVertex
+title: UIVertex
 kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-sourceFingerprint: 0c37605fd910fe2b8fbf08df10af5680b2a1a298e0d1847c0d10a02f4fb5ce33
+sourceFingerprint: 10583555da000138a6032685a69d5cfe332e0b6203b77ae7cc794c623d144640
 apiScope: Runtime
-contracts:
-- manual.scripting.use-script-api
-- project.inno-ui#document-and-frame-contract
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---
 
 ## Parameters

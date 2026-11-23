@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Exporting
 apiSurface: source-clr
-sourceFingerprint: 6fa5966c11ab893f5829a12d80d6c9a1ba2bc557c9a6a24f49ca4e2b204ce762
+sourceFingerprint: 234a5701d486468bbe025deb31cacd590244c5d931527200bb49f93b7cdd9c11
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,4 +18,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `operationId`:** The operation observed by the caller.
+**Parameter `operationID`:** The operation observed by the caller.

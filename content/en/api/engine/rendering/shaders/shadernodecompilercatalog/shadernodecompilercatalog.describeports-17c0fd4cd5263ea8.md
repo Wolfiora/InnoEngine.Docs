@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-sourceFingerprint: a1a76bf01214769248f60c9bc80d8489e71042a5d35116122ce1e30b344e59bd
+sourceFingerprint: f04d3730ecaf96eeed5846316bb7f0f102a22a5004df98f9a30a6b343d856762
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -26,7 +26,7 @@ outdated: false
 
 **Parameter `source`:** Resolved frozen function module, or null.
 
-**Parameter `implementationId`:** Selected source implementation.
+**Parameter `implementationID`:** Selected source implementation.
 
 **Parameter `input`:** Resolved stage input interface, or null.
 

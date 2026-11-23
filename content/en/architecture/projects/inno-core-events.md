@@ -6,8 +6,9 @@ title: Inno.Core.Events
 kind: project
 owners:
 - Inno.Core.Events
-sourceFingerprint: 12006234fa2de1df47d59f85f524980058983ff36c8305675591a7891f2cbd7d
+sourceFingerprint: b03a1e3a63539709d72e8bc71782297dda98058edf7bfa144d88b68d365de3c8
 contracts: []
+outdatedFor: 706c2d18cc8eb0c338fc63f4fbd01f73cd5c5549c66e577c1aa67893f65030ca
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

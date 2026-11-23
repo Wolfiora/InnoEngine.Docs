@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-sourceFingerprint: d5d684f88ed383cffe45715f570b4a8eebca7a836e281c69378019acd56b3bd4
+sourceFingerprint: 59ce643835a019b0d80a927f6aaa0b004fbdced09fa5743cdb8f5a1152a880e4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-This operation is idempotent and prevents module teardown from overwriting the saved module sections with transient empty state.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Thrown after this runtime has been disposed.
+
+## Remarks
+
+This operation is idempotent and prevents module teardown from overwriting the saved module sections with transient empty state.

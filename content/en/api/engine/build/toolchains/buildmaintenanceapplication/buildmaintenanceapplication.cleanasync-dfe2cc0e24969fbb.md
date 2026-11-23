@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 864a9293d5ac47f53bfdef0f487fb546a7e0331f9f20237427c893cdf605522c
+sourceFingerprint: 95d15f2906eee161832f0c2b63060e3a3e5e083a29cdb25584e5b30b304f6c56
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -26,7 +26,7 @@ outdated: false
 
 **Parameter `dryRun`:** Whether to report the plan without retiring it.
 
-**Parameter `targetId`:** An optional exact producer target filter; shared dependencies remain protected.
+**Parameter `targetID`:** An optional exact producer target filter; shared dependencies remain protected.
 
 **Parameter `cancellationToken`:** Cancels inventory and retirement.
 

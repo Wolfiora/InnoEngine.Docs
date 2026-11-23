@@ -6,8 +6,9 @@ title: Inno.Adapter.Text
 kind: project
 owners:
 - Inno.Adapter.Text
-sourceFingerprint: a7e3955564b7a751959f1f39200d1dae894e90077470ead05ce5137854835151
+sourceFingerprint: e1971f612a726a88044d4e5d49af7dd3c7f4bb06f967805fb9a0a5fa2b42464a
 contracts: []
+outdatedFor: d5aac9f531f27e70608980b152433a1aa47eee3344c3ab70f334602947b7d4e1
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-sourceFingerprint: cb8970ecdf9a87ad51f91389f9436d168bff6116232d241e1f1898d3acae5c3c
+sourceFingerprint: 9aa58c2251b247487f806d718ebe2ee80e5d19b73c9f11eda59a52e62f738f56
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,4 +18,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `pointerId`:** Platform pointer identity.
+**Parameter `pointerID`:** Platform pointer identity.

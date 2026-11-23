@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-sourceFingerprint: 7a6cb035641d997faaa786e3d8a796b205962463e1feaed7e4247c21592a3bcb
+sourceFingerprint: 764093994a6c06dd6e226cd8f6b5c31d46b70e73f32940880817bdbd5cf5bd3d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,6 +18,6 @@ outdated: false
 
 ## Parameters
 
-**Parameter `viewportId`:** Stable panel viewport identity.
+**Parameter `viewportID`:** Stable panel viewport identity.
 
 **Parameter `content`:** Current frame-safe content scope.

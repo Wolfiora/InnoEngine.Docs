@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-sourceFingerprint: bda019fb31c46313bf49a572655f3159590c7f5763a5fd7a57aee0fdffc30a85
+sourceFingerprint: 6f54c5681d3908199ae5c14ec3636f8ba620ffce888fb1da3dad5d4c58097ec0
 apiScope: Runtime
 contracts: []
 
@@ -21,7 +21,7 @@ outdated: false
 
 **Parameter `content`:** Ordered roots selected by the host.
 
-**Parameter `sessionId`:** Stable identity of the host output session.
+**Parameter `sessionID`:** Stable identity of the host output session.
 
 **Parameter `view`:** Exact view that will consume the content.
 
@@ -33,4 +33,4 @@ outdated: false
 
 **Parameter `views`:** All views in the same model output, used to choose shared content resolution.
 
-**Parameter `sourceIds`:** Optional explicit source allowlist for a routed model layer.
+**Parameter `sourceIDs`:** Optional explicit source allowlist for a routed model layer.

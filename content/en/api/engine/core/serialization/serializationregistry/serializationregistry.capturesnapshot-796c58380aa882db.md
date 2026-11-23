@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: source-clr
-sourceFingerprint: 6dd19d83813869f8a5c3073717acf427b8f6ce91c4986df8a049c4449a5b58c7
+sourceFingerprint: 1e5359db186218a792534685748bcc62d138d22a089c0d36a9f78d10d3a21033
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -32,10 +32,6 @@ outdated: false
 
 The previous instance when all captured values can be reused, otherwise a new immutable snapshot. Reference equality proves unchanged bytes; different instances may still encode identically. Ordinary serialization and snapshot encoding produce identical bytes. Capture failure publishes no snapshot.
 
-## Remarks
-
-Writers borrowed by a snapshot converter belong to its synchronous callback and must not be used after it returns. Default capture evaluates getters and converters in full. An explicitly opted-in converter may reuse its prior node only after every current capture-key input has been verified. Ordinary serialization never uses these keys; incomplete or unavailable declarations retain complete capture.
-
 ## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The source value is null.
@@ -43,3 +39,7 @@ Writers borrowed by a snapshot converter belong to its synchronous callback and 
 **Exception `T:System.ObjectDisposedException`:** The registry has been disposed.
 
 **Exception `T:System.InvalidOperationException`:** A converter, unsupported value or reference context prevents capture.
+
+## Remarks
+
+Writers borrowed by a snapshot converter belong to its synchronous callback and must not be used after it returns. Default capture evaluates getters and converters in full. An explicitly opted-in converter may reuse its prior node only after every current capture-key input has been verified. Ordinary serialization never uses these keys; incomplete or unavailable declarations retain complete capture.

@@ -34,20 +34,20 @@ Find types in this project category. Each type links to its exact declarations a
 | [SerializedRenderExtensionState](../../../serializedrenderextensionstate/index.md) | Stores reload-safe configuration for one pipeline or feature extension generation. |
 | [ShaderAsset](../../../shaderasset/index.md) | Represents the runtime contract imported from a shader graph. |
 | [ShaderCompareFunction](../../../shadercomparefunction/index.md) | Selects the comparison used by depth testing. |
-| [ShaderContractId](../../../shadercontractid/index.md) | Identifies an open shader and pipeline compatibility contract. |
+| [ShaderContractID](../../../shadercontractid/index.md) | Identifies an open shader and pipeline compatibility contract. |
 | [ShaderCullMode](../../../shadercullmode/index.md) | Selects the triangle face rejected by a raster pass. |
 | [ShaderDefinition](../../../shaderdefinition/index.md) | Contains the source-of-truth definition shared by shader import and material tooling. |
 | [ShaderDiagnostic](../../../shaderdiagnostic/index.md) | Reports one structured shader validation or compilation issue. |
 | [ShaderKeywordDefinition](../../../shaderkeyworddefinition/index.md) | Declares one static shader keyword that may produce compiled variants. |
 | [ShaderMetadataEntry](../../../shadermetadataentry/index.md) | Stores one open metadata key and value. |
 | [ShaderPassDefinition](../../../shaderpassdefinition/index.md) | Defines one backend-neutral raster or compute shader pass. |
-| [ShaderPassRoleId](../../../shaderpassroleid/index.md) | Identifies an open pass purpose defined by a rendering provider. |
+| [ShaderPassRoleID](../../../shaderpassroleid/index.md) | Identifies an open pass purpose defined by a rendering provider. |
 | [ShaderPropertyBindingOwner](../../../shaderpropertybindingowner/index.md) | Identifies which layer supplies a declared shader property&#39;s value for each dispatch or draw. |
 | [ShaderPropertyDefinition](../../../shaderpropertydefinition/index.md) | Declares one shader property and its reflected stage visibility. |
 | [ShaderRenderState](../../../shaderrenderstate/index.md) | Declares backend-neutral fixed-function state for one shader pass. |
 | [ShaderSourceLocation](../../../shadersourcelocation/index.md) | Maps a shader diagnostic back to an asset, pass, stage, and source position. |
 | [ShaderTechniqueDefinition](../../../shadertechniquedefinition/index.md) | Declares one contract-compatible pass mapping selectable by materials. |
-| [ShaderTechniqueId](../../../shadertechniqueid/index.md) | Identifies one material-selectable technique in a shader. |
+| [ShaderTechniqueID](../../../shadertechniqueid/index.md) | Identifies one material-selectable technique in a shader. |
 | [ShaderTechniquePass](../../../shadertechniquepass/index.md) | Maps one provider-defined role to one concrete shader pass. |
 | [TextureAsset](../../../textureasset/index.md) | Represents imported texture content without owning a GPU handle. |
 | [TextureColorSpace](../../../texturecolorspace/index.md) | Selects how texture samples are decoded for shader use. |

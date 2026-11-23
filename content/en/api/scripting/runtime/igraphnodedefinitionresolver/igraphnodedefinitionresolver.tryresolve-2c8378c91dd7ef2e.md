@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-sourceFingerprint: 2fa9211fce8e6701444fd5f64f38fd77dc37e78ba5a5f4cd9a6fdfb188553ec9
+sourceFingerprint: 762e047619f5b23c9f109150ba777a14d8e253e78ecfddfed4b861c444b63301
 apiScope: Runtime
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `definitionId`:** Stable definition identifier.
+**Parameter `definitionID`:** Stable definition identifier.
 
 **Parameter `definition`:** Receives the generation-scoped definition.
 

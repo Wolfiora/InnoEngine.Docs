@@ -6,8 +6,9 @@ title: Inno.Adapter.Platform
 kind: project
 owners:
 - Inno.Adapter.Platform
-sourceFingerprint: 4e6d04df242c3ed372cf8a0ac3132830961036fd35f7b95da3951af35dd0f5bb
+sourceFingerprint: 0e6468078af184d4a34d0e0ecd75ddab84b098839950f2f764286eadd164bd1c
 contracts: []
+outdatedFor: eca741acc52ec5ba9288100550ce3cba34244d4770e4cf17cb0d194399bd7068
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

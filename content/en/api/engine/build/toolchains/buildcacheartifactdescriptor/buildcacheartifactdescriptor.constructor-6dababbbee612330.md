@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 312d5ae50f005939781321e8640ca6a81e93ffc3a2aa934c7a6e9d8189f33284
+sourceFingerprint: 3ac8c2ada6eda23b7adc681488978f563288f1596d533d0a410e852ccd90a1be
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,9 +22,9 @@ outdated: false
 
 **Parameter `leasePath`:** The absolute persistent file used by this entry's actual producer and readers for Core.IO coordination.
 
-**Parameter `bytes`:** The publisher-recorded sum of owned file lengths, captured under writing ownership for cache budgeting. It does not measure allocated disk blocks or count shared hardlinks as recovered volume space.
+**Parameter `targetID`:** The explicit product target, or null for a shared host artifact that target-scoped cleanup must preserve.
 
-**Parameter `targetId`:** The explicit product target, or null for a shared host artifact that target-scoped cleanup must preserve.
+**Parameter `bytes`:** The publisher-recorded sum of owned file lengths, captured under writing ownership for cache budgeting. It does not measure allocated disk blocks or count shared hardlinks as recovered volume space.
 
 **Parameter `lastUseUtc`:** The publisher's last recorded use, used only to order retirement.
 

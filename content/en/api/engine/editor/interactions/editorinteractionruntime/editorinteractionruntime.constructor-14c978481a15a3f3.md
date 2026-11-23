@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-sourceFingerprint: ab1891222f34ccb1f095a7f832d700324d6b067d3cf90836c6d132db6765b80c
+sourceFingerprint: ebbc1f4d27918a3216779f448563f6cfb7c07b4ce0cd388a6471143b31cae0a7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,11 +20,11 @@ outdated: false
 
 **Parameter `context`:** The passive editor context shared with the presentation backend.
 
-**Parameter `hostServices`:** Stable host-owned services that editor extension constructors may request by assignable contract.
+**Parameter `types`:** The type catalog that owns editor extension generations.
 
 **Parameter `logs`:** The host-owned logging router used by editor infrastructure.
 
-**Parameter `types`:** The type catalog that owns editor extension generations.
+**Parameter `hostServices`:** Stable host-owned services that editor extension constructors may request by assignable contract.
 
 ## Exceptions
 

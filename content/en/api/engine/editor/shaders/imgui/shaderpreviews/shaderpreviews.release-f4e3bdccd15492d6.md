@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders.ImGui
 apiSurface: source-clr
-sourceFingerprint: b25b12b88855d926bd692aad3a52b6b1858cf19b62bd642ad0749ab19628d0b9
+sourceFingerprint: 10c663d29e92af0fd7f0e6bf23617a195faa4f96a7a14a63ff7b5d0cdc9f4274
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,4 +18,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `ownerId`:** Closing or disabled preview owner.
+**Parameter `ownerID`:** Closing or disabled preview owner.

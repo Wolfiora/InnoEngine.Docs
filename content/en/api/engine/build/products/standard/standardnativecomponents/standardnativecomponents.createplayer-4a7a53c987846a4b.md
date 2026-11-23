@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Products.Standard
 apiSurface: source-clr
-sourceFingerprint: 504e365962e673fe3f0b020a9cf47237ee99bcaec730dadfb95979fb15ac13fd
+sourceFingerprint: 2a1f8a61756a38a2f01de86f33f42a7cda6fa01b466ea380801b53bfd72d07c8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,6 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-A fresh immutable Player plan without resolving tools or touching source files.
-
 ## Parameters
 
 **Parameter `profile`:** The selected integration-owned BGFX SDK invocation for standalone component builds.
@@ -27,3 +23,7 @@ A fresh immutable Player plan without resolving tools or touching source files.
 **Parameter `options`:** The platform-owned configuration for each named component.
 
 **Parameter `layout`:** The platform-owned destination of each component output, or null to exclude it.
+
+## Returns
+
+A fresh immutable Player plan without resolving tools or touching source files.

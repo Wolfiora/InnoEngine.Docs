@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: editor-script
-sourceFingerprint: 622725b4df52b2b4c0fb295ca78169155b8953b793f3683d86b8fd3983d5009c
+sourceFingerprint: 60d792ea4f7af3a9fb86152a62d4dba3ebdcfdd664a3aecdd38c514137745dc7
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when both values represent the same logical state; otherwise, `false`.
-
 ## Parameters
 
 **Parameter `obj`:** The object to compare with this instance.
+
+## Returns
+
+`true` when both values represent the same logical state; otherwise, `false`.

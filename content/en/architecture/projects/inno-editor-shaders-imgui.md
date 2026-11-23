@@ -6,8 +6,9 @@ title: Inno.Editor.Shaders.ImGui
 kind: project
 owners:
 - Inno.Editor.Shaders.ImGui
-sourceFingerprint: 8f056d32463a04a13ff9b1dc6d68735fbef5b677e412ce17d2741de05c569945
+sourceFingerprint: 74288e07c34cb2bbe073265b42632841e76d24530e641c8212da8328eceaeb0d
 contracts: []
+outdatedFor: 711e055a98c058c06612ff9274400abc5865b1e9810086614d00c7ce67acaa71
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

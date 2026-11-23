@@ -6,8 +6,9 @@ title: Inno.Core.Logging
 kind: project
 owners:
 - Inno.Core.Logging
-sourceFingerprint: bc8adabee7e1b981ace33f91495be0406e22d81b406cc3b806c92badb812f640
+sourceFingerprint: 70a721c877d70e6b814fd0e2f4c0c4032b77bccb504f0a7282fffbf48832b7df
 contracts: []
+outdatedFor: 06dec4eaad59302c5b3e091ecd2c37d86176fe7b54d85d59c514336e16d25afa
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

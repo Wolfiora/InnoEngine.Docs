@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: source-clr
-sourceFingerprint: 759adc096e61d812e081fe3e33f5897085c57332ca40fce83df150057db1ea1e
+sourceFingerprint: 8d24c379385d858b2a85e2577d2aceb1959f3997d227bf7b69bbb8e9c9df3359
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-This includes partial startup compensation. Pending retirement must throw RetirementPendingException and preserve unfinished ownership; completed steps must be idempotent across retries.
-
 ## Parameters
 
 **Parameter `context`:** The shared editor context for the runtime being stopped.
+
+## Remarks
+
+This includes partial startup compensation. Pending retirement must throw RetirementPendingException and preserve unfinished ownership; completed steps must be idempotent across retries.

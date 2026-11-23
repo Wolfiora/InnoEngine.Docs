@@ -6,8 +6,9 @@ title: Inno.Build.Managed
 kind: project
 owners:
 - Inno.Build.Managed
-sourceFingerprint: c2dbf4fe0359d16b863f30cfe16b99fd79a9f1735d025deec9ab1880cafbcd88
+sourceFingerprint: 9c21f5ea736ba30d48c68dbec8c6e82349717074d224976fdf5aaf18dcb6797b
 contracts: []
+outdatedFor: 18765dd67d7d9429e8e770677ea24737d9533d609e3ffa1e6a2affed8f08fa31
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

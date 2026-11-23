@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: editor-script
-sourceFingerprint: 1334559e00b6334d672473c06b4ef248e7869b6f237a0f52280e2e5fa354160f
+sourceFingerprint: 5fc0a0bacd45209e94d881fe23172b0119d8801ffe00960760e93ee186363c2d
 apiScope: Editor
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `definitionId`:** Stable node definition ID.
+**Parameter `definitionID`:** Stable node definition ID.
 
 **Parameter `position`:** Initial graph-space position.
 

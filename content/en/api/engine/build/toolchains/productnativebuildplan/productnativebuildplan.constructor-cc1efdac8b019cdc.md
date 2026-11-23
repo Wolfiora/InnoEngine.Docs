@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: c0d0c01cbb59b1e65a194ad1187ab05d52225a7217f06b134ce3d33d508beac8
+sourceFingerprint: 55e3cdefa64a0121e07c6d4833e49ea93e5f731071543e18f5dd96c9efe5ba7a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `productId`:** The product identity whose native closure is selected.
+**Parameter `productID`:** The product identity whose native closure is selected.
 
 **Parameter `steps`:** Unique, dependency-ordered component operations.
 

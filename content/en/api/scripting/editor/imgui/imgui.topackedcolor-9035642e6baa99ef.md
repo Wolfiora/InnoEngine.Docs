@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-sourceFingerprint: 64cebd638538c427b210e40873d80880b87fca81dea70e6ef5926c2c7eca67be
+sourceFingerprint: 66ecfa55a9a07f0818f34722ffe35f8b4ad97cfada8a75e048855c2ebe5c7628
 apiScope: Editor
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-The packed color value.
-
 ## Parameters
 
 **Parameter `color`:** The color consumed by to packed color; ownership remains with the caller unless explicitly stated otherwise.
+
+## Returns
+
+The packed color value.

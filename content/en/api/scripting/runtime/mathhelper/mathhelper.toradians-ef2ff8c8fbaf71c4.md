@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-sourceFingerprint: 6b5ef6ca79c374e8c82153e27e8146d000d83e382e25211ccbc0042cc52d2ce6
+sourceFingerprint: bbeb8b61155477560869789627618d6dfcb7f03f1e5f1b7667f305539142fc25
 apiScope: Runtime
 contracts: []
 
@@ -17,6 +17,10 @@ description: null
 outdated: false
 ---
 
+## Parameters
+
+**Parameter `degrees`:** The degrees consumed by to radians; ownership remains with the caller unless explicitly stated otherwise.
+
 ## Returns
 
 The angle in radians.
@@ -24,7 +28,3 @@ The angle in radians.
 ## Remarks
 
 This method uses double precision internally, though it returns single float Factor = pi / 180
-
-## Parameters
-
-**Parameter `degrees`:** The degrees consumed by to radians; ownership remains with the caller unless explicitly stated otherwise.

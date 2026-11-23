@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: source-clr
-sourceFingerprint: 95292568c24baeb93a254ac4fddcb2f1a8332257e66fe4bbe25a23e141921c0d
+sourceFingerprint: bf24e1e68623fa451e8c0b0b6246083a755dada4d9158ebdc211c3e2d2557198
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-This method is called only when `M:Inno.Editor.Core.EditorPanel.Capture(Inno.Editor.Core.EditorState)` is overridden. It runs once after the panel is attached and before the panel is allowed to capture replacement state.
-
 ## Parameters
 
 **Parameter `state`:** The read-only state parameter for this panel. Missing or incompatible values return the fallback supplied to ```M:Inno.Editor.Core.EditorState.Get``1(System.String,``0)```.
+
+## Remarks
+
+This method is called only when `M:Inno.Editor.Core.EditorPanel.Capture(Inno.Editor.Core.EditorState)` is overridden. It runs once after the panel is attached and before the panel is allowed to capture replacement state.

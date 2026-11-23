@@ -1,21 +1,18 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.ui.runtime-script.cb663d65cbe60598
-symbol: scripting:Inno.UI:T:InnoEngine.UI.UiTextureUpdate
-title: UiTextureUpdate
+uid: api.e183d2102d60197fe6a3b236b60dee741241ce963415b8365f2acada7064a699
+symbol: scripting:Inno.UI:T:InnoEngine.UI.UITextureUpdate
+title: UITextureUpdate
 kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-sourceFingerprint: c32d1a54fc6807359bef6c0e9ee2ad734560ef744b02541890f90238cb9b3e53
+sourceFingerprint: be8ac9d80d6477b28415e90085b2dcdbd3cf12fb87619dbb8f8a577d72869c02
 apiScope: Runtime
-contracts:
-- manual.scripting.use-script-api
-- project.inno-ui#document-and-frame-contract
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-sourceFingerprint: 2f665ef0d8f31a748b4554a79df15da17447385615b74e05a411eaff2bb8438d
+sourceFingerprint: 30ca7b925815368fe61dc46887be27a7502f817b9d22a3ca85e508a721e38e59
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,14 +16,14 @@ description: null
 outdated: false
 ---
 
+## Type parameters
+
+**Type parameter `TValue`:** Serialized asset object type receiving restored properties.
+
 ## Parameters
 
-**Parameter `stableTypeId`:** The stable type id consumed by restore properties; ownership remains with the caller unless explicitly stated otherwise.
+**Parameter `stableTypeID`:** The stable type id consumed by restore properties; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `propertyData`:** The property data consumed by restore properties; ownership remains with the caller unless explicitly stated otherwise.
 
 **Parameter `target`:** The existing target that receives the validated result.
-
-## Type parameters
-
-**Type parameter `TValue`:** Serialized asset object type receiving restored properties.

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Collections
 apiSurface: source-clr
-sourceFingerprint: 4b14ffad997a2f3e7020824f4af467dbe355efe7737895de5a6bf0089eedb062
+sourceFingerprint: 60838e9a10fc8f19fa8dde93dd469023fe988c772de38d04731a97f11f9cbbe9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -15,10 +15,6 @@ source: xml
 description: null
 outdated: false
 ---
-
-## Remarks
-
-Enumeration throws if the store is modified during iteration.
 
 ## Type parameters
 
@@ -33,3 +29,7 @@ Enumeration throws if the store is modified during iteration.
 ## Returns
 
 Lazy fail-fast enumerable of matching items.
+
+## Remarks
+
+Enumeration throws if the store is modified during iteration.

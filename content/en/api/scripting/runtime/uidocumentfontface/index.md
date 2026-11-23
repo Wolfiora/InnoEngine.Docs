@@ -1,21 +1,18 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.ui.runtime-script.0e989392d00bc083
-symbol: scripting:Inno.UI:T:InnoEngine.UI.UiDocumentFontFace
-title: UiDocumentFontFace
+uid: api.bbd78d9fd9f1af6d96d64bbd66e8b1afb730157652a936baa33d7244f5a99e1b
+symbol: scripting:Inno.UI:T:InnoEngine.UI.UIDocumentFontFace
+title: UIDocumentFontFace
 kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-sourceFingerprint: f44db1a72f60bae253206344a1f0a9be52564aec90825634d4d10d524602587d
+sourceFingerprint: f3a53b57e911a7140abc332b5154dd26c4f4da1e5421b3964a386b594e798c93
 apiScope: Runtime
-contracts:
-- manual.scripting.use-script-api
-- project.inno-ui#document-and-frame-contract
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

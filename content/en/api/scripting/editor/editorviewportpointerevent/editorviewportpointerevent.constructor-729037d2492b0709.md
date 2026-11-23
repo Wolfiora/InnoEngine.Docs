@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-sourceFingerprint: 8b68ee4c47ccde78247434715329fa832185a5e5ae478b6ec9da1dfb68f9979c
+sourceFingerprint: d74ec469592b7af7e877ded79305cebf1fc34c0e6190e477daf53857d68a26e0
 apiScope: Editor
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `pointerId`:** Platform pointer identity.
+**Parameter `pointerID`:** Platform pointer identity.
 
 **Parameter `phase`:** Gesture lifecycle phase.
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-sourceFingerprint: 6a5525a80e91bcc13d4792674c065485228c4a3682a7150ee0fb50a905f5b1db
+sourceFingerprint: 3e6717f64c14a260ae5cf4afdd60fec6629dfbb346c18806de597d5b850ba6c9
 apiScope: Runtime
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `bindingId`:** Stable target binding identifier.
+**Parameter `bindingID`:** Stable target binding identifier.
 
 **Parameter `interpolation`:** Sampling rule between adjacent keyframes.
 

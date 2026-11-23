@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-sourceFingerprint: 36def31a3172f866b570a2d1edaac49108d700175cc30064d51bca6c5885c0aa
+sourceFingerprint: 50702f83f080d2bfad3b061bca39ce9e809e9dd43fe3495e107cc0626f12178d
 apiScope: Runtime
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `stableTypeId`:** Persistent identity of the exact serialized settings type.
+**Parameter `stableTypeID`:** Persistent identity of the exact serialized settings type.
 
 **Parameter `data`:** Native property payload, copied before returning.
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-sourceFingerprint: 3e34eee49c39a8234969ecafe4bf4b35d1fe1dfa1acbc93c52bb5c21548e71e7
+sourceFingerprint: 9b4a04c3cf43e6d56d12b76a9de6895346771afa3069cc834deec9c1709a3a27
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when both values represent the same logical state; otherwise, `false`.
-
 ## Parameters
 
 **Parameter `obj`:** The object to compare with this instance.
+
+## Returns
+
+`true` when both values represent the same logical state; otherwise, `false`.

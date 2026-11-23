@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-sourceFingerprint: 5ec7a15a4651d847ce9223c4f99a17bacd3618fef8146d1cfb905abae1a662be
+sourceFingerprint: b034698b0183b8735317ade627c4db9b2d3e33364b8c2fdde486dec0c74336c9
 apiScope: Editor
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `panelId`:** The stable panel identity.
+**Parameter `panelID`:** The stable panel identity.
 
 **Parameter `isOpen`:** Receives the open state, or false when the panel is unavailable.
 

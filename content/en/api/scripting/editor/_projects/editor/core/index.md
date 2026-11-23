@@ -26,8 +26,8 @@ Find types in this project category. Each type links to its exact declarations a
 | [EditorRuntime](../../../editorruntime/index.md) | Defines the presentation-independent lifecycle of an editor runtime. |
 | [EditorState](../../../editorstate/index.md) | Provides the serialization-neutral parameter used to capture or restore one editor extension&#39;s project state. |
 | [EditorStatistic](../../../editorstatistic/index.md) | Describes one immutable, presentation-ready statistic without retaining provider instances or types. |
-| [EditorStatisticGroupId](../../../editorstatisticgroupid/index.md) | Identifies one visual group in the editor statistics presentation. |
-| [EditorStatisticId](../../../editorstatisticid/index.md) | Identifies one editor statistic across panels, modules, and reloadable extensions. |
+| [EditorStatisticGroupID](../../../editorstatisticgroupid/index.md) | Identifies one visual group in the editor statistics presentation. |
+| [EditorStatisticID](../../../editorstatisticid/index.md) | Identifies one editor statistic across panels, modules, and reloadable extensions. |
 | [EditorStatistics](../../../editorstatistics/index.md) | Exchanges frame-scoped, reload-safe statistics between independent editor features and viewers. |
 | [IEditorPanelReloadState](../../../ieditorpanelreloadstate/index.md) | Optionally migrates presentation-neutral panel state across assembly reloads. |
 

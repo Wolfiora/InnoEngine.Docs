@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-sourceFingerprint: f696bbfaa2e4700f3e8a543169a8ab8a187decb6acc32ca87d976422da4ea317
+sourceFingerprint: 2fb02f08bc535405df8e71bb301ae629da1120e59e8732f13fd1623e854640aa
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,11 +22,11 @@ outdated: false
 
 **Parameter `data`:** Bytes produced by `M:Inno.Scene.ScenePropertySerialization.CaptureProperty(Inno.Scene.EngineObject,System.String,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)` or `M:Inno.Scene.ScenePropertySerialization.CaptureProperties(Inno.Scene.EngineObject,Inno.Core.Serialization.SerializationRegistry,Inno.Assets.IAssetReferenceResolver)`.
 
-**Parameter `mode`:** The policy applied to unavailable or mismatched current properties.
-
 **Parameter `serialization`:** The serialization registry that owns the active converter generation.
 
 **Parameter `assets`:** The resolver used to materialize canonical asset references in restored values.
+
+**Parameter `mode`:** The policy applied to unavailable or mismatched current properties.
 
 ## Returns
 

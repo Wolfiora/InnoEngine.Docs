@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-sourceFingerprint: 09d66b66e777a391adbd5bd11420686b1fc040e79ea9360639cd4e9e97db5eef
+sourceFingerprint: 5a7d8c3c6de20e4896d4ea2d10f2b2913ce49c74ef9584018d6813331dede501
 apiScope: Runtime
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `propertyId`:** Stable property identifier.
+**Parameter `propertyID`:** Stable property identifier.
 
 ## Returns
 

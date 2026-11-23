@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: editor-script
-sourceFingerprint: 85c15f5de36385d992b0dd2736897aedce2183a71c2cd1f47cf50bb3a06f3ef1
+sourceFingerprint: ba0e1d3a8c33d95fff19209f30da1f1f706ffd5e7b883b09c3609d25e7cf1111
 apiScope: Editor
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `documentId`:** The persistent document identity to release.
+**Parameter `documentID`:** The persistent document identity to release.
 
 ## Returns
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: source-clr
-sourceFingerprint: 35ceef32bb39318f369d0c6589b4d23d2547b4ce50838aedc4da4d97c5f976b6
+sourceFingerprint: f43f043c369637943558b7dcb6cc615691d2ab4756fd047911c21edaa5e9efe9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `documentId`:** Stable tab identity.
+**Parameter `documentID`:** Stable tab identity.
 
 ## Returns
 

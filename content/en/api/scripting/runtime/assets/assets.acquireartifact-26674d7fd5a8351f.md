@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-sourceFingerprint: 46026d2b65d026b3d4f3475720858977596ded4c162c927cc2332f1da2ffc0bc
+sourceFingerprint: da7b0bcd6315453f912dda11e894aa8590939cdaf1bcc79e6c1914f4a3632a82
 apiScope: Runtime
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** Persistent identity of the artifact owner.
+**Parameter `persistentID`:** Persistent identity of the artifact owner.
 
 **Parameter `outputName`:** Stable artifact output name.
 

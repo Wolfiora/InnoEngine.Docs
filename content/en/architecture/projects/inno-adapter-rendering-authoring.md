@@ -6,8 +6,9 @@ title: Inno.Adapter.Rendering.Authoring
 kind: project
 owners:
 - Inno.Adapter.Rendering.Authoring
-sourceFingerprint: cfe7fac556cfb80e5ab4548e22f348ed760b0218a7c4a3610e617d379365c94d
+sourceFingerprint: 694a9822fb9f72953bb496d9a266f1dc1bff9d85a2dc938262baa461cd8b6f90
 contracts: []
+outdatedFor: 7669fa693c83a80c48c62c3bf6e7382f466b7dea1e5a708258356ecbb241caeb
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

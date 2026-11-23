@@ -585,6 +585,146 @@
       "path": "content/en/architecture/projects/innoengine-editor.md",
       "uid": "project.innoengine-editor",
       "project": "InnoEngine.Editor"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-adapter-audio-miniaudio-native-tests.md",
+      "uid": "project.inno-adapter-audio-miniaudio-native-tests",
+      "project": "Inno.Adapter.Audio.MiniAudio.Native.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-adapter-platform-sdl3-native-tests.md",
+      "uid": "project.inno-adapter-platform-sdl3-native-tests",
+      "project": "Inno.Adapter.Platform.Sdl3.Native.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-adapter-rendering-bgfx-native-tests.md",
+      "uid": "project.inno-adapter-rendering-bgfx-native-tests",
+      "project": "Inno.Adapter.Rendering.Bgfx.Native.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-adapter-ui-rmlui-native-tests.md",
+      "uid": "project.inno-adapter-ui-rmlui-native-tests",
+      "project": "Inno.Adapter.UI.RmlUi.Native.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-build-bindings-integration-tests.md",
+      "uid": "project.inno-build-bindings-integration-tests",
+      "project": "Inno.Build.Bindings.Integration.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-build-browserwasm32-product-tests.md",
+      "uid": "project.inno-build-browserwasm32-product-tests",
+      "project": "Inno.Build.BrowserWasm32.Product.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-build-cli-integration-tests.md",
+      "uid": "project.inno-build-cli-integration-tests",
+      "project": "Inno.Build.Cli.Integration.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-build-nativeproducer-integration-tests.md",
+      "uid": "project.inno-build-nativeproducer-integration-tests",
+      "project": "Inno.Build.NativeProducer.Integration.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-build-toolchains-bgfx-native-tests.md",
+      "uid": "project.inno-build-toolchains-bgfx-native-tests",
+      "project": "Inno.Build.Toolchains.Bgfx.Native.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-build-toolchains-integration-tests.md",
+      "uid": "project.inno-build-toolchains-integration-tests",
+      "project": "Inno.Build.Toolchains.Integration.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-editor-core-tests.md",
+      "uid": "project.inno-editor-core-tests",
+      "project": "Inno.Editor.Core.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-editor-features-tests.md",
+      "uid": "project.inno-editor-features-tests",
+      "project": "Inno.Editor.Features.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-editor-graph-imgui-tests.md",
+      "uid": "project.inno-editor-graph-imgui-tests",
+      "project": "Inno.Editor.Graph.ImGui.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-editor-imgui-native-tests.md",
+      "uid": "project.inno-editor-imgui-native-tests",
+      "project": "Inno.Editor.ImGui.Native.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-editor-inspection-native-tests.md",
+      "uid": "project.inno-editor-inspection-native-tests",
+      "project": "Inno.Editor.Inspection.Native.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-editor-panels-native-tests.md",
+      "uid": "project.inno-editor-panels-native-tests",
+      "project": "Inno.Editor.Panels.Native.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-editor-playmode-native-tests.md",
+      "uid": "project.inno-editor-playmode-native-tests",
+      "project": "Inno.Editor.PlayMode.Native.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-editor-settings-tests.md",
+      "uid": "project.inno-editor-settings-tests",
+      "project": "Inno.Editor.Settings.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-editor-shaders-native-tests.md",
+      "uid": "project.inno-editor-shaders-native-tests",
+      "project": "Inno.Editor.Shaders.Native.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-rendering-shaders-native-tests.md",
+      "uid": "project.inno-rendering-shaders-native-tests",
+      "project": "Inno.Rendering.Shaders.Native.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-shell-tests.md",
+      "uid": "project.inno-shell-tests",
+      "project": "Inno.Shell.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-testing-content.md",
+      "uid": "project.inno-testing-content",
+      "project": "Inno.Testing.Content"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-testing-diagnostics.md",
+      "uid": "project.inno-testing-diagnostics",
+      "project": "Inno.Testing.Diagnostics"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-testing-scripting.md",
+      "uid": "project.inno-testing-scripting",
+      "project": "Inno.Testing.Scripting"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-testing-sdl3.md",
+      "uid": "project.inno-testing-sdl3",
+      "project": "Inno.Testing.Sdl3"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-text-native-tests.md",
+      "uid": "project.inno-text-native-tests",
+      "project": "Inno.Text.Native.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-tooling-architecture-integration-tests.md",
+      "uid": "project.inno-tooling-architecture-integration-tests",
+      "project": "Inno.Tooling.Architecture.Integration.Tests"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-tooling-documentation-integration-tests.md",
+      "uid": "project.inno-tooling-documentation-integration-tests",
+      "project": "Inno.Tooling.Documentation.Integration.Tests"
     }
   ]
 }

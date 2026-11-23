@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Composition
 apiSurface: source-clr
-sourceFingerprint: e5733d8352d245cf1af5a79b3223e5e3603f1c9848f1f5604ce6003141162cd3
+sourceFingerprint: 2486b71f44395d66bf549a21493f4b02bba6f39f6cb91c89b2f8e12d9b1fbc95
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `targetId`:** The requested native target.
+**Parameter `targetID`:** The requested native target.
 
 ## Returns
 

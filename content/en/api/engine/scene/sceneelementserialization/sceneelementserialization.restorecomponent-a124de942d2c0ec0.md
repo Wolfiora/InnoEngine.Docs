@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-sourceFingerprint: 35be521648d36172061fc1c04e8d1ec561602618c47d30279b6ce83ad4421880
+sourceFingerprint: d91d1687073abe582fc178e40424db623295e252ab48fea49585794f0c2a212e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,7 +22,7 @@ outdated: false
 
 **Parameter `type`:** The reload-safe identity of the current component implementation.
 
-**Parameter `persistentId`:** The component instance identity to preserve.
+**Parameter `persistentID`:** The component instance identity to preserve.
 
 **Parameter `componentIndex`:** The requested attachment index.
 

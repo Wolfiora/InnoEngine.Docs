@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-sourceFingerprint: 6fc4d11fd012b7caedac1e6edb5bf947b548bc0cb2e61a183be37251c8e1360a
+sourceFingerprint: fa41fada979fe0cdc0d1effefbcf387b54ddbb3426d955af2d4e02be060365b0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,10 +18,10 @@ outdated: false
 
 ## Parameters
 
-**Parameter `stableTypeId`:** The stable identity stored by the serialized scene element.
+**Parameter `stableTypeID`:** The stable identity stored by the serialized scene element.
 
 **Parameter `elementKind`:** The human-readable scene element kind, such as component or system.
 
 ## Exceptions
 
-**Exception `T:System.ArgumentException`:** Thrown when `stableTypeId` is empty or `elementKind` is empty.
+**Exception `T:System.ArgumentException`:** Thrown when `stableTypeID` is empty or `elementKind` is empty.

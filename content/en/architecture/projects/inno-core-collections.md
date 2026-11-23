@@ -6,8 +6,9 @@ title: Inno.Core.Collections
 kind: project
 owners:
 - Inno.Core.Collections
-sourceFingerprint: c06d0cf4fd856c0728e9b8cab61edf0bcbad2b8ccbd741ffd702fca434f658d1
+sourceFingerprint: babb84d6be2dbb0110fd7b2bd3e4baae80898dd724b945cd3b277e7b105b6ae0
 contracts: []
+outdatedFor: 3c3f8be49fc9519df7c1591ba62c5455b738c961d1c2380e6c03031f6625bac2
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

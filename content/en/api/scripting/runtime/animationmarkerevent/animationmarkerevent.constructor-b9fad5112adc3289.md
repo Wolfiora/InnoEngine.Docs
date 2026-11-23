@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-sourceFingerprint: 88aa330e2f8e9ae142b34da9de7dab8bc02beb6205881ed592278b9ff70e13fc
+sourceFingerprint: d97fc0079adef5b8e921d238f2d60d8ccabfd1aec2bb3b3a174bb276533521de
 apiScope: Runtime
 contracts: []
 
@@ -21,6 +21,6 @@ outdated: false
 
 **Parameter `playback`:** Playback that crossed the marker.
 
-**Parameter `eventId`:** Stable marker protocol identifier.
+**Parameter `eventID`:** Stable marker protocol identifier.
 
 **Parameter `payload`:** Opaque reload-safe marker payload bytes.

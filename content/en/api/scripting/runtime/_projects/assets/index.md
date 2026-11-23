@@ -31,7 +31,7 @@ Find types in this project category. Each type links to its exact declarations a
 | [AssetReferenceLocation](../../assetreferencelocation/index.md) | Describes one engine-known reference location for an asset. |
 | [AssetResidencyStatistics](../../assetresidencystatistics/index.md) | Reports current explicit runtime asset residency accounting. |
 | [Assets](../../assets/index.md) | Provides script-facing asset queries through the lookup bound to the current runtime session. |
-| [AssetSourceId](../../assetsourceid/index.md) | Identifies one isolated asset source mount. |
+| [AssetSourceID](../../assetsourceid/index.md) | Identifies one isolated asset source mount. |
 | [AssetSourceKind](../../assetsourcekind/index.md) | Identifies the durable source role recorded by an asset metadata sidecar. |
 | [BinaryAsset](../../binaryasset/index.md) | Describes an imported opaque binary payload. |
 | [RetentionScope](../../retentionscope/index.md) | Owns multiple asset, artifact, or subsystem leases as one reverse-order lifetime. |

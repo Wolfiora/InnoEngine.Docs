@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 3dfc02b05b224c5462cb7e87e092bde96c72caa6a1ffa4379fdf1d0fb5d4d0a3
+sourceFingerprint: 05ad4decec856559f63e94fdfc1aed77b991bebc5114ca6f50ecc975f32e442f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -32,10 +32,6 @@ outdated: false
 
 A snapshot that can be freshly verified after waiting or executing; no Player compilation is performed.
 
-## Remarks
-
-Restore and evaluation use an owned SDK output layout, independently of ordinary IDE outputs. An explicit ArtifactsPath remains the caller's responsibility, including its concurrency protection.
-
 ## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** A required operation, SDK or property collection is null.
@@ -47,3 +43,7 @@ Restore and evaluation use an owned SDK output layout, independently of ordinary
 **Exception `T:System.InvalidOperationException`:** The selected SDK cannot evaluate the declared graph.
 
 **Exception `T:System.OperationCanceledException`:** Evaluation or hashing was canceled.
+
+## Remarks
+
+Restore and evaluation use an owned SDK output layout, independently of ordinary IDE outputs. An explicit ArtifactsPath remains the caller's responsibility, including its concurrency protection.

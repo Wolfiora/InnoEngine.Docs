@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Layers
 apiSurface: source-clr
-sourceFingerprint: 765da685da262fcb2b9031861d9dc91f072d418e619e72d3586734741123247f
+sourceFingerprint: ca072c98714c62349223d29c25d605e72b83b5eb4eb3bf4810f4dd0908668984
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-A `T:Inno.Core.Layers.LayerStack` invokes this callback in reverse order for every layer whose `M:Inno.Core.Layers.Layer.OnBeforeRender(System.Single)` callback completed successfully, including when later work fails.
-
 ## Parameters
 
 **Parameter `deltaTime`:** The elapsed frame time in seconds.
+
+## Remarks
+
+A `T:Inno.Core.Layers.LayerStack` invokes this callback in reverse order for every layer whose `M:Inno.Core.Layers.Layer.OnBeforeRender(System.Single)` callback completed successfully, including when later work fails.

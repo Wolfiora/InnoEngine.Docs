@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-sourceFingerprint: a657bc1f29fd220098600e8c031ec466c030ddf5b81e1dfc00abb6c868c34914
+sourceFingerprint: 5b78e048df1004db53e6b56f21118b541e6e4b845cc69a2bb809743af21d70c9
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when the format can be attached.
-
 ## Parameters
 
 **Parameter `format`:** The format consumed by supports render target; ownership remains with the caller unless explicitly stated otherwise.
+
+## Returns
+
+`true` when the format can be attached.

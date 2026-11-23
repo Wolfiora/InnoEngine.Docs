@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-sourceFingerprint: b85cac5a8b7d387a6e827acabed024237dc1d44fd6777d797f45a0aa83b7a608
+sourceFingerprint: 4521d5494419fadcb430371a7d98f12cd16fbe96acb8a82f7f1c081c7c7128ed
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

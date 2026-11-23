@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: editor-script
-sourceFingerprint: 89e2df2cf257f48a8c8bc6943a65d85af99dc7f6504c74682c40e75135f66705
+sourceFingerprint: 7270f906b8acecb2feaa4cb0f79e93e33a5aea57aea87d1b73319b1be587ed52
 apiScope: Editor
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `documentId`:** The persistent document identity.
+**Parameter `documentID`:** The persistent document identity.
 
 **Parameter `history`:** The shared history owner for the returned controller.
 

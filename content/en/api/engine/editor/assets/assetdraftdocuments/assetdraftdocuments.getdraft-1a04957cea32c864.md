@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
-sourceFingerprint: 78f8c601e886edb528b09299cacca5f4a372fff94f49a71ac3ba9797534ec2ec
+sourceFingerprint: a5a100f39da55f650207088cda077cf238a47a52ea635c3419195d9793d1a7aa
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `assetId`:** Persistent source identity.
+**Parameter `assetID`:** Persistent source identity.
 
 ## Returns
 

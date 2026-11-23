@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-sourceFingerprint: 5fc04853218c5eea86791e90f1f1e04ba3535dec428785ccfc06975b597f3934
+sourceFingerprint: da5d696b6087c2c185e6025ac37534cc25fb15518fe1b3a1764ebe4e0fe44ea0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -28,7 +28,7 @@ outdated: false
 
 **Parameter `maximum`:** Maximum screen coordinate of the complete target.
 
-**Parameter `targetId`:** ImGui identifier unique within the current window.
+**Parameter `targetID`:** ImGui identifier unique within the current window.
 
 **Parameter `payload`:** Previewed or delivered payload value.
 

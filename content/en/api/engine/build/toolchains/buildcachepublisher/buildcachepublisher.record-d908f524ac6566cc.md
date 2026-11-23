@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 7658989ab8d1b20689924cce59f7760a595a31e38e3b7930a4b35441c9db5098
+sourceFingerprint: 2d3dc0e84b649b12b4be089a9b52d57ec9d36d45703ca6ccd0676e50f576a9a1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -26,9 +26,9 @@ outdated: false
 
 **Parameter `currentKey`:** A product/target/configuration root identity, or null for an unselected generation.
 
-**Parameter `cancellationToken`:** Cancels before metadata selection.
+**Parameter `targetID`:** The producer's product target, or null for a shared host generation.
 
-**Parameter `targetId`:** The producer's product target, or null for a shared host generation.
+**Parameter `cancellationToken`:** Cancels before metadata selection.
 
 ## Exceptions
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-sourceFingerprint: fb4e885566ce9269c16421c3097a27d27b0be3e51a2156f79951176d883a9b9c
+sourceFingerprint: 76587ae234ca8abdc55035b9ff5b6e49e45c0e2e0b708d27c109417ca0d8f8ce
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-The packed color value.
-
 ## Parameters
 
 **Parameter `color`:** The color consumed by to packed color; ownership remains with the caller unless explicitly stated otherwise.
+
+## Returns
+
+The packed color value.

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-sourceFingerprint: c5a28e654ac920fc6c9c4edc31416e0aeaa2e50acb86c9dfe86ed7c867cc9134
+sourceFingerprint: e80036fce29ed9441ec75e2950fc4df14011246f1c22ba5759e5d63cc812d103
 contracts:
 - project.inno-core-events#dispatch-and-lifetime-contract
 
@@ -20,6 +20,6 @@ aliases: []
 
 ## Parameters
 
-**Parameter `windowId`:** The application-local identity of the affected window.
+**Parameter `windowID`:** The application-local identity of the affected window.
 
 **Parameter `isVisible`:** Whether the window is shown and not minimized.

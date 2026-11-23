@@ -1,19 +1,17 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.adapter.platform.970b5b95c9bb2ab4
-symbol: engine:Inno.Adapter.Platform:T:Inno.Adapter.Platform.PlatformNativeHandleId
-title: PlatformNativeHandleId
+uid: api.efc40ff6d7be2cd716ef8267d003ff2af0c7c1ec5691988bd4b83a74962323f8
+symbol: engine:Inno.Adapter.Platform:T:Inno.Adapter.Platform.PlatformNativeHandleID
+title: PlatformNativeHandleID
 kind: api
 owners:
 - Inno.Adapter.Platform
 apiSurface: source-clr
-sourceFingerprint: ea42620a0cc50efe01328044562f65919482493ce4a76f29acfa9df4a9d15481
-contracts:
-- project.inno-adapter-platform
+sourceFingerprint: 442fc45a76cdf024bce378ad8b770e19952315edc6e608adf82280300934c64f
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

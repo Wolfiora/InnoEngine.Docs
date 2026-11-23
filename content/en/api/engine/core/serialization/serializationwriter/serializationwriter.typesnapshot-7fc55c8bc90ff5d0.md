@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: source-clr
-sourceFingerprint: 5ec3562b77859656dca7bae8cafb7f81418fc7779a7705a2550ac181cc1540a9
+sourceFingerprint: af3927784f3fb91726c0755287dd1feb4a90d72157b0f6af8493609f653e9447
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-Use this snapshot for consistent type identities during a complete capture. It must not be retained beyond the writer's operation; keeping it would retain its collectible types after the converter lease is released.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** The writer no longer belongs to an active capture.
+
+## Remarks
+
+Use this snapshot for consistent type identities during a complete capture. It must not be retained beyond the writer's operation; keeping it would retain its collectible types after the converter lease is released.

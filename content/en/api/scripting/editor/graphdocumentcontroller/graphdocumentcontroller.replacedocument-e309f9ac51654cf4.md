@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: editor-script
-sourceFingerprint: a66a628803ada7259037c4840fecf85869486e59c6173238ef01490e67cb896d
+sourceFingerprint: 19551334a263cbc74142cabbe7b7b4ff6237fb5ebff8456add12b3a063a9e158
 apiScope: Editor
 contracts: []
 
@@ -23,4 +23,4 @@ outdated: false
 
 **Parameter `historyName`:** Concise artist-facing history entry name.
 
-**Parameter `gestureId`:** Unique active gesture identity for continuous samples, or null for an independent edit.
+**Parameter `gestureID`:** Unique active gesture identity for continuous samples, or null for an independent edit.

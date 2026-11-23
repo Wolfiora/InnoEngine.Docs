@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Adapter.Platform
 apiSurface: source-clr
-sourceFingerprint: dca0cdb16bee525e54c9b3b37659788ef371a53dd4e2fe15ef54de1e01bb6603
+sourceFingerprint: dad8476e3680bc316c46beb922eb457012c2b7ffda4c6cc5aac0aa31394a515c
 contracts:
 - project.inno-adapter-platform
 
@@ -17,10 +17,6 @@ description: null
 outdated: false
 aliases: []
 ---
-
-## Remarks
-
-Handles remain valid only while their window is alive. Consumers must not release them. The handle identifier selects the ABI; this value is not a runtime or scripting contract.
 
 ## Parameters
 
@@ -33,3 +29,7 @@ Handles remain valid only while their window is alive. Consumers must not releas
 ## Returns
 
 A borrowed adapter-level surface description.
+
+## Remarks
+
+Handles remain valid only while their window is alive. Consumers must not release them. The handle identifier selects the ABI; this value is not a runtime or scripting contract.

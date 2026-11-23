@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Logging
 apiSurface: source-clr
-sourceFingerprint: 47496ee39bc57c61db15f546c127a41a95871356ff601ea8aaed54491805154e
+sourceFingerprint: 638857e7a0a05dc1c4e3c8b66e77711e1ebe1a8e1f8a9fc858be428c1684ec43
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -24,10 +24,10 @@ outdated: false
 
 True when accepted or filtered by policy; false when bounded queue capacity is exhausted.
 
-## Remarks
-
-Inline callers serialize delivery. Entries written by a sink callback are queued until every sink has received the current entry, without recursively invoking callbacks.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** The router has stopped accepting work.
+
+## Remarks
+
+Inline callers serialize delivery. Entries written by a sink callback are queued until every sink has received the current entry, without recursively invoking callbacks.

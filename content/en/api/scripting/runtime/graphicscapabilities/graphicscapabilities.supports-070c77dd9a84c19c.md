@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-sourceFingerprint: 44486c39e3eb84202a872160b99a846fcfecacbc4443193402cf31b6e92a0e6b
+sourceFingerprint: 7eb4ca5b695d93702a61736284dc4cffdce9e309ce1337c54698b7d0c9aafeff
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when every requested feature is available.
-
 ## Parameters
 
 **Parameter `required`:** The required consumed by supports; ownership remains with the caller unless explicitly stated otherwise.
+
+## Returns
+
+`true` when every requested feature is available.

@@ -46,7 +46,7 @@ Find types in this project category. Each type links to its exact declarations a
 | [PersistentBufferHandle](persistentbufferhandle/index.md) | Identifies a persistent device buffer without exposing a backend-native handle. |
 | [PersistentTextureHandle](persistenttexturehandle/index.md) | Identifies a persistent device texture without exposing a backend-native handle. |
 | [RasterPassBuilder](rasterpassbuilder/index.md) | Declares raster attachments and resource access. |
-| [RenderBindingId](renderbindingid/index.md) | Identifies a shader binding by stable manifest name. |
+| [RenderBindingID](renderbindingid/index.md) | Identifies a shader binding by stable manifest name. |
 | [RenderBlendEquation](renderblendequation/index.md) | Selects the arithmetic operation combining source and destination blend terms. |
 | [RenderBlendFactor](renderblendfactor/index.md) | Selects one source or destination blend multiplier. |
 | [RenderBlendState](renderblendstate/index.md) | Describes independent color and alpha blending without backend-native flags. |
@@ -58,7 +58,7 @@ Find types in this project category. Each type links to its exact declarations a
 | [RenderClearColor](renderclearcolor/index.md) | Stores a linear clear color without depending on an engine math assembly. |
 | [RenderCommandEncoder](rendercommandencoder/index.md) | Provides backend-neutral draw, dispatch and copy commands for one compiled pass. |
 | [RenderCullMode](rendercullmode/index.md) | Selects triangle culling for a backend-neutral raster pipeline. |
-| [RenderDataChannelId](renderdatachannelid/index.md) | Identifies one pipeline-owned frame-data channel without constraining its payload model. |
+| [RenderDataChannelID](renderdatachannelid/index.md) | Identifies one pipeline-owned frame-data channel without constraining its payload model. |
 | [RenderDepthCompare](renderdepthcompare/index.md) | Selects depth comparison for a backend-neutral raster pipeline. |
 | [RenderDevice](renderdevice/index.md) | Provides the protected opaque-handle boundary required by replaceable render-device backends. |
 | [RenderDevice.DeviceHandleIdentity](devicehandleidentity/index.md) | Stores one decoded persistent device identity for use inside a concrete backend. |
@@ -80,11 +80,11 @@ Find types in this project category. Each type links to its exact declarations a
 | [RenderPassExecute&lt;TPassData&gt;](renderpassexecute/index.md) | Executes one frame-scoped pass payload. |
 | [RenderPassKind](renderpasskind/index.md) | Distinguishes pass command domains for validation and backend execution. |
 | [RenderPassRecordingMode](renderpassrecordingmode/index.md) | Controls where a frame-local pass callback records backend-neutral commands. |
-| [RenderPhaseId](renderphaseid/index.md) | Identifies an open render phase protocol value. |
+| [RenderPhaseID](renderphaseid/index.md) | Identifies an open render phase protocol value. |
 | [RenderPresentationSize](renderpresentationsize/index.md) | Stores one backend-neutral presentation extent in physical pixels. |
 | [RenderPrimitiveTopology](renderprimitivetopology/index.md) | Selects the primitive assembly used by raster draw commands. |
 | [RenderRasterState](renderrasterstate/index.md) | Stores backend-neutral fixed-function raster state. |
-| [RenderResourceId](renderresourceid/index.md) | Identifies a pipeline-defined semantic resource without imposing a central resource catalog. |
+| [RenderResourceID](renderresourceid/index.md) | Identifies a pipeline-defined semantic resource without imposing a central resource catalog. |
 | [RenderSamplerAddressMode](rendersampleraddressmode/index.md) | Selects texture addressing independently for each coordinate axis. |
 | [RenderSamplerFilter](rendersamplerfilter/index.md) | Selects texture filtering independently from a graphics backend. |
 | [RenderSamplerState](rendersamplerstate/index.md) | Describes one native-serializable backend-neutral sampler binding. |
@@ -120,7 +120,7 @@ Find types in this project category. Each type links to its exact declarations a
 | [ShaderInterfaceBinding](shaderinterfacebinding/index.md) | Describes one reflected material binding expected by compiled programs. |
 | [ShaderProgramKind](shaderprogramkind/index.md) | Selects the programmable stage combination of a pass. |
 | [ShaderPropertyBindingKind](shaderpropertybindingkind/index.md) | Defines how one shader property enters the backend-neutral resource interface. |
-| [ShaderPropertyId](shaderpropertyid/index.md) | Identifies a material property using a stable serialized string. |
+| [ShaderPropertyID](shaderpropertyid/index.md) | Identifies a material property using a stable serialized string. |
 | [ShaderPropertyType](shaderpropertytype/index.md) | Identifies an artist-facing shader property type. |
 | [ShaderStage](shaderstage/index.md) | Identifies a programmable shader stage. |
 

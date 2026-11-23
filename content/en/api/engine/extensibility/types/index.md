@@ -14,7 +14,7 @@ Find types in this project category. Each type links to its exact declarations a
 | Type | Purpose |
 | --- | --- |
 | [ITypeCatalogSource](itypecatalogsource/index.md) | Provides type metadata for an explicit assembly in a candidate module generation. |
-| [StableTypeIdAttribute](stabletypeidattribute/index.md) | Defines a stable identity for a type, used by persistence and hot-reload remapping. |
+| [StableTypeIDAttribute](stabletypeidattribute/index.md) | Defines a stable identity for a type, used by persistence and hot-reload remapping. |
 | [TypeCacheBuildException](typecachebuildexception/index.md) | Reports one or more failures encountered while building a type-cache snapshot. |
 | [TypeCacheReloadContext](typecachereloadcontext/index.md) | Provides the previous and candidate type catalogs during an assembly reload transaction. |
 | [TypeCacheSnapshot](typecachesnapshot/index.md) | Represents an immutable, internally consistent view of discoverable runtime types. |

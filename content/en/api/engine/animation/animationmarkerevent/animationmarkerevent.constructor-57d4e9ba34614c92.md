@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: source-clr
-sourceFingerprint: 36d8cf03e104886886e7cb9762bf21eac7b9a22f65b68894984dbdc9b08abfbf
+sourceFingerprint: e2db6f68716a86123c367bec0e8d43763aac21fee3b3bf3ee2f1a4658cad0726
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,6 +20,6 @@ outdated: false
 
 **Parameter `playback`:** Playback that crossed the marker.
 
-**Parameter `eventId`:** Stable marker protocol identifier.
+**Parameter `eventID`:** Stable marker protocol identifier.
 
 **Parameter `payload`:** Opaque reload-safe marker payload bytes.

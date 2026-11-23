@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: editor-script
-sourceFingerprint: 1d979fc68e03f6609debc048904e3226077ac705daa3316e72f66c00a99bc4dc
+sourceFingerprint: e5c69d27c4691cd2b6969bd4bbfe28ac2f8d1e13c3590a2901669172209d0021
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-A translation matrix.
-
 ## Parameters
 
 **Parameter `v`:** The concrete value read or transformed by this operation.
+
+## Returns
+
+A translation matrix.

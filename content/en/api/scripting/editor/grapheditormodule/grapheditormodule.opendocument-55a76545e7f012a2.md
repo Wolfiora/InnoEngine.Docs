@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: editor-script
-sourceFingerprint: e0d1c5709c33ef2ae5a5d2deb857973e4620c3fbdb5ddda626fea2c6e68a1875
+sourceFingerprint: 6f698c25b4759340a9f8389042e86bdde545053d27f19366954a07a18b8192b6
 apiScope: Editor
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `documentId`:** Persistent document identity; use the Asset identity for asset-backed graphs.
+**Parameter `documentID`:** Persistent document identity; use the Asset identity for asset-backed graphs.
 
 **Parameter `document`:** Mutable neutral document owned by the current asset generation.
 

@@ -1,21 +1,18 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.ui.runtime-script.51f20d53c3de35f8
-symbol: scripting:Inno.UI:T:InnoEngine.UI.UiDocumentFragment
-title: UiDocumentFragment
+uid: api.cddd4eacce8a35644e77d59ed0061e7c8fc4da3614ec7dcbb2ee85c154b69b9f
+symbol: scripting:Inno.UI:T:InnoEngine.UI.UIDocumentFragment
+title: UIDocumentFragment
 kind: api
 owners:
 - Inno.UI
 apiSurface: editor-script
-sourceFingerprint: f2580d4447d3ede1175a01236ff08c930aaa386522d3c6bb64480b83e4a27370
+sourceFingerprint: 260635c95723e3bfcb0a9618a539633d04bcf9c1b7b77a3611a4e816275ab5f4
 apiScope: Runtime
-contracts:
-- manual.scripting.use-script-api
-- project.inno-ui#document-and-frame-contract
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

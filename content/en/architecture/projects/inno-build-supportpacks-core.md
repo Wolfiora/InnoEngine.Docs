@@ -6,7 +6,7 @@ title: Inno.Build.SupportPacks.Core
 kind: project
 owners:
 - Inno.Build.SupportPacks.Core
-sourceFingerprint: cae02766d12e4473ca571252f1682262507aa1425a99275684dabcf1e1501cf7
+sourceFingerprint: 57ca897ed6476ea398f44ac3d80d1cb82aeb72b4a39dfdf5c989f717d8fe41cf
 contracts: []
 outdatedFor: a686ec2cea47f01eb21b2d6d26564a1f4ba50f589de9af7861c734d37d2c8200
 

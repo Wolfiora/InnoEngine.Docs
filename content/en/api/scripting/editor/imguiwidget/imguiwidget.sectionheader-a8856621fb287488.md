@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: editor-script
-sourceFingerprint: 5588e81ae799ce93536a2dc4145a215eb268d222ad54bee9949b50fd038c6582
+sourceFingerprint: 6373c4577ef711a5e381e6112786219388c4594ff36cbb3a7625b5059a1a8bf9
 apiScope: Editor
 contracts: []
 
@@ -25,10 +25,10 @@ outdated: false
 
 **Parameter `drawLeadingControl`:** Optional interactive control drawn before the section title.
 
-## Exceptions
-
-**Exception `T:System.ArgumentNullException`:** Thrown when `title` is `null`.
-
 ## Returns
 
 `true` when the section content should be drawn; otherwise, `false` when the section is collapsed.
+
+## Exceptions
+
+**Exception `T:System.ArgumentNullException`:** Thrown when `title` is `null`.

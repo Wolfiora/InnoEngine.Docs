@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders
 apiSurface: editor-script
-sourceFingerprint: 9b81eb72bb87d888a2dbfa8affc2fbb48f92352e0c50d87806828fe19e628a0e
+sourceFingerprint: f9b5c531c04c20c4c2f1e31a6d5ecc015b7941918bce5e898794dc9b9c0336f7
 apiScope: Editor
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `assetId`:** Open Material source identity.
+**Parameter `assetID`:** Open Material source identity.
 
 ## Returns
 

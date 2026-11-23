@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-sourceFingerprint: c3331c40882075b2a55756e61b61f6b67f3f215413e75c786865f0de731a17e0
+sourceFingerprint: c9b02c6275bf81f9374560c5b55d665d5000d4435df48474b98b1fdb03296bc3
 apiScope: Editor
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-The validated editor action state that represents the completed operation.
-
 ## Parameters
 
 **Parameter `context`:** The context that supplies state and services for this operation.
+
+## Returns
+
+The validated editor action state that represents the completed operation.

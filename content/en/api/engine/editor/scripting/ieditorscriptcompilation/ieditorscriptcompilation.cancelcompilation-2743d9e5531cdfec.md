@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Scripting
 apiSurface: source-clr
-sourceFingerprint: 8245e5fdb2477d4978d7223d7e7415761a25618ad2a954fbbb7e8ce6ae57a319
+sourceFingerprint: 3877d66f602d35d62655bfc08b8f8400eacf6f3a5cd7b5b92ad1b1c594031836
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,4 +18,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `operationId`:** The request observed by the presentation; stale requests have no effect.
+**Parameter `operationID`:** The request observed by the presentation; stale requests have no effect.

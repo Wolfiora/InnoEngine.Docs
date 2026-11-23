@@ -6,8 +6,9 @@ title: Inno.Build.Cli
 kind: project
 owners:
 - Inno.Build.Cli
-sourceFingerprint: 0db5f771079d531e6485ca863345954addcc606033ee94f948771a7af0c09db4
+sourceFingerprint: 544e27310d1fcf72dca9808bb3ce8b8e12f21b927643b8d13f93caf23c4fbd82
 contracts: []
+outdatedFor: b47e214ac89e8e25ddbecb297c84103657da23912ebdee2bc98311286debe560
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

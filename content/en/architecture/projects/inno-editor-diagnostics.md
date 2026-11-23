@@ -6,10 +6,11 @@ title: Inno.Editor.Diagnostics
 kind: project
 owners:
 - Inno.Editor.Diagnostics
-sourceFingerprint: a1c66c7adfdf166eb011eb1db8e52105ab5cefb54c6ee23b69803748dca1bb67
+sourceFingerprint: b734f8ff9646d070850b4987c4f00bd37b70cad4d3c31cdc576b0f4ad105c93e
 contracts:
 - manual.editor.console
 - architecture.ownership
+outdatedFor: dec14e329341ced68f2785d420d585b8e97fcf143baeccc1be14fb3ae8439e31
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

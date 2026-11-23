@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: source-clr
-sourceFingerprint: be257c8786c29fd5f0e21eb8671531f9d0d4b690b4e4f4bce00ed4b112dab695
+sourceFingerprint: 37eaef0360af7c2f4c47bc7cd5d5e77bc6e430e0907a69ae6df2dbf4a35c0dff
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,6 +18,6 @@ outdated: false
 
 ## Parameters
 
-**Parameter `documentId`:** The persistent identity of an open document.
+**Parameter `documentID`:** The persistent identity of an open document.
 
 **Parameter `available`:** Whether its source can be resolved in the current generation.

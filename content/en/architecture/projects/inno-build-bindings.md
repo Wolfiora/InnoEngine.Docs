@@ -6,8 +6,9 @@ title: Inno.Build.Bindings
 kind: project
 owners:
 - Inno.Build.Bindings
-sourceFingerprint: ab1991a50339483573c21683f1ece5850506f9ac86bdc12fac5c0d5e189b76e7
+sourceFingerprint: 68b4e2cd44a9a9408994bc269432bcdeded1539aa8d3c30549ad07b28038c2c2
 contracts: []
+outdatedFor: 1c0fd5d1f88271d08cfca6e72246fe2125d4b7948bea8b05a6b811544296294a
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

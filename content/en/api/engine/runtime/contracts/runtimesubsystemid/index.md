@@ -1,19 +1,17 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.runtime.contracts.09c418cf26add3c2
-symbol: engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemId
-title: RuntimeSubsystemId
+uid: api.aefb6dabb3714be6622603fe3a1d33b76c7bec357c2cad255fa17a366f913cc3
+symbol: engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemID
+title: RuntimeSubsystemID
 kind: api
 owners:
 - Inno.Runtime.Contracts
 apiSurface: source-clr
-sourceFingerprint: a5ddb6e59f88465fe4f3718b936c1e61da37e5cf51bd40fd79e1d4e9d3e5982b
-contracts:
-- project.inno-runtime-contracts
+sourceFingerprint: 0c51f09f742904d2356578fb0342dc93746e36b9c8effb691e0ef22f3c5318bc
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

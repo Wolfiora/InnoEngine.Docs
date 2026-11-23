@@ -21,7 +21,7 @@ Find types in this project category. Each type links to its exact declarations a
 | [GameLayer](../../gamelayer/index.md) | Identifies one of the thirty-two runtime layers available to scene objects. |
 | [GameLayerCatalog](../../gamelayercatalog/index.md) | Stores the named layer catalog and symmetric layer-interaction matrix used by a project. |
 | [GameLayerDefinition](../../gamelayerdefinition/index.md) | Describes one named layer slot in a T:InnoEngine.Scene.GameLayerCatalog snapshot. |
-| [GameLayerId](../../gamelayerid/index.md) | Identifies one project-scoped game layer independently from its compact runtime slot. |
+| [GameLayerID](../../gamelayerid/index.md) | Identifies one project-scoped game layer independently from its compact runtime slot. |
 | [GameLayerMask](../../gamelayermask/index.md) | Stores a compact set of scene layers for rendering, physics, and query filtering. |
 | [GameObject](../../gameobject/index.md) | Represents a scene-owned object and exposes its component-oriented API. |
 | [GameScene](../../gamescene/index.md) | Owns a runtime scene, including its objects, components, hierarchy, and systems. |

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: source-clr
-sourceFingerprint: e61fc815730dc415ae5ff73ff1ec45c368149b776e7d4eeaa9fd314ecc9ecb18
+sourceFingerprint: 6f5543e432d25c85cea6ea156cd85901ec886e1fabbab536d7f260062d975267
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,9 +18,9 @@ outdated: false
 
 ## Parameters
 
-**Parameter `device`:** Active backend-neutral device.
-
 **Parameter `types`:** The type catalog that owns render extension generations.
+
+**Parameter `device`:** Active backend-neutral device.
 
 **Parameter `diagnostics`:** Owner-bound structured diagnostic producer.
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-sourceFingerprint: 047fefc49af838fd80f006d4384cf490f8c91fd885ad4334b232fb2c3c2f0c72
+sourceFingerprint: eb91defc5829fd7a323be6dde409a1a4214c19a80d3d80f993e7a7a30b8df2b7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,7 +20,7 @@ outdated: false
 
 **Parameter `graph`:** Document being authored.
 
-**Parameter `targetId`:** Stable target identity; empty selects explicit generic stage authoring.
+**Parameter `targetID`:** Stable target identity; empty selects explicit generic stage authoring.
 
 **Parameter `serialization`:** Current owner converters.
 

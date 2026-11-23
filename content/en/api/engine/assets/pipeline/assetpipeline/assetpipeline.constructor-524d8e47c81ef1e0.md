@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-sourceFingerprint: 5da8b0dc75e9b89b3293193a6713dad8618f00588ea767cb60483886ba063834
+sourceFingerprint: 3f34d6316dd6b226b9d0cbb7cdfeb064613ed2e3c03a565f44fc2cebfab9fbcf
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -26,9 +26,9 @@ outdated: false
 
 **Parameter `identities`:** The identity allocator that owns every canonical asset in this pipeline.
 
-**Parameter `logs`:** The explicitly owned router receiving asset pipeline diagnostics.
-
 **Parameter `diagnostics`:** The diagnostic hub that owns source database and asset processing reports.
+
+**Parameter `logs`:** The explicitly owned router receiving asset pipeline diagnostics.
 
 **Parameter `options`:** The asset source, artifact and watcher configuration.
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.IO
 apiSurface: source-clr
-sourceFingerprint: 47696951e46a1251acae2b5f91c1e96f4df4f84ea2d1c58fd00fd380cd0a317e
+sourceFingerprint: ac71e4cb3017c5b07f41bf3c24b0eac0ce51b5b9caa1b4d3759ef5f7936b6aec
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -28,10 +28,6 @@ outdated: false
 
 The exclusive lease whose disposal permits the next participant to acquire ownership.
 
-## Remarks
-
-Lease files remain after disposal. Removing them would let Unix processes lock different inodes for the same path while an earlier participant still owns the original inode.
-
 ## Exceptions
 
 **Exception `T:System.ArgumentException`:** The path is empty or relative, or the timeout is negative and not infinite.
@@ -43,3 +39,7 @@ Lease files remain after disposal. Removing them would let Unix processes lock d
 **Exception `T:System.IO.IOException`:** The lease cannot be opened for a reason other than competing ownership.
 
 **Exception `T:System.UnauthorizedAccessException`:** The operating system denies access to the lease path.
+
+## Remarks
+
+Lease files remain after disposal. Removing them would let Unix processes lock different inodes for the same path while an earlier participant still owns the original inode.

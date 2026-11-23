@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-sourceFingerprint: 07d5297ca7614123c7c127402c1ccefcd9f30ad25762ab89e5d573164ab4144b
+sourceFingerprint: 7f78a1f38fa10d988cc966a1b922092ef090df8c1334e432c89d78a283c09f6f
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,6 +18,6 @@ outdated: false
 
 ## Parameters
 
-**Parameter `windowId`:** The application-local identity of the affected window.
+**Parameter `windowID`:** The application-local identity of the affected window.
 
 **Parameter `isVisible`:** Whether the window is shown and not minimized.

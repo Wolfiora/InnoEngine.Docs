@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Animation
 apiSurface: source-clr
-sourceFingerprint: d36d29762450cb1c953355b2a57beadd3749317ba7001e70dcac836e73760cba
+sourceFingerprint: df7011f3b481af0293529aac286e138a2ceb6044e181e8b11537190df22c1197
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,9 +20,9 @@ outdated: false
 
 **Parameter `clip`:** Valid imported animation clip.
 
-**Parameter `options`:** Playback and blend options.
-
 **Parameter `target`:** The weak destination or explicit sampling-only policy.
+
+**Parameter `options`:** Playback and blend options.
 
 ## Returns
 

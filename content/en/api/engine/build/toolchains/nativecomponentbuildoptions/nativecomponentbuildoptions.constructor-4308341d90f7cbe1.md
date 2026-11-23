@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 015f0deb631329b455db95b057924010fc95ab9de8cf11490a4a3c620b4b1e7c
+sourceFingerprint: 1cf6c5239d3f8b4b537311d10c8cceb26b6f49f7cbf510d4f1d072fea7b9be30
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -24,11 +24,11 @@ outdated: false
 
 **Parameter `inputPaths`:** Portable checkout-relative configuration files included in content hashing and stability checks.
 
-**Parameter `linkPlan`:** Component-specific platform link settings, or null for the selected SDK plan.
-
 **Parameter `bindingLibraryName`:** The explicit native import identity, or null to retain the component identity.
 
 **Parameter `bindingIncludeDirectories`:** Additional checkout-relative binding headers owned by an integration.
+
+**Parameter `linkPlan`:** Component-specific platform link settings, or null for the selected SDK plan.
 
 ## Exceptions
 

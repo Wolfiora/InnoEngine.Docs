@@ -6,8 +6,9 @@ title: Inno.Adapter.Authoring.Default
 kind: project
 owners:
 - Inno.Adapter.Authoring.Default
-sourceFingerprint: 759dd950e71f36ecf60e77b232f3005ab66daebbdcb9766915ee455269fad034
+sourceFingerprint: 475a250d0ba4a02b24b5c45346281a82eae625e88efaae451af9654fed88b3e8
 contracts: []
+outdatedFor: c0b1914df1d072f65494c2c5fc55c027c0685a1da2d372b0e0619abdb8271c4a
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

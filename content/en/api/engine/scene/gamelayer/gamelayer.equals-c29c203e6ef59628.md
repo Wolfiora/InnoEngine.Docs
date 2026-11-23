@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-sourceFingerprint: c660f1a8e02efb82a8aeaf7b6871b87e9fef106724984e420a2ff709c92bdcb0
+sourceFingerprint: f86bbcaae367132e510acc7e9f07f2fb7d834d01ffc5024ec1bce08764b3f0d6
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when both values represent the same logical state; otherwise, `false`.
-
 ## Parameters
 
 **Parameter `obj`:** The object to compare with this instance.
+
+## Returns
+
+`true` when both values represent the same logical state; otherwise, `false`.

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 4827cc956de7e74cb1deb7151a261e63230529265770119082f319e7589d3ce7
+sourceFingerprint: 61be5423462f0d951faaf04dead9cedf43bfa15f83171acefc1448034f17a4e8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,10 +20,10 @@ outdated: false
 
 An enumerable collection that contains the values in the read-only dictionary.
 
-## Remarks
-
-Neither the returned sequence nor its descriptors extend the lifetime of reading protection.
-
 ## Exceptions
 
 **Exception `T:System.ObjectDisposedException`:** Reading ownership has ended.
+
+## Remarks
+
+Neither the returned sequence nor its descriptors extend the lifetime of reading protection.

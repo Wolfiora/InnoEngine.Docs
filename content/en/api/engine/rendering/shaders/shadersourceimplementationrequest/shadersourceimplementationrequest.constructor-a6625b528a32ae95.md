@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-sourceFingerprint: 9077b55ca214cd63833c9759d01c5d9f4848d8c3f815d0ac6c35ef301f87b9c2
+sourceFingerprint: 8649bfa79a16ee48c0f32ddc1240e33e6872235dc7d92d2b3806250920601dc1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,8 +18,8 @@ outdated: false
 
 ## Parameters
 
-**Parameter `implementationId`:** Unique owner-defined key, including the target or variant when applicable.
+**Parameter `implementationID`:** Unique owner-defined key, including the target or variant when applicable.
 
-**Parameter `languageId`:** Registered source language identity.
+**Parameter `languageID`:** Registered source language identity.
 
 **Parameter `source`:** Source function and candidate-scoped dependency resolver.

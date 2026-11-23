@@ -6,8 +6,9 @@ title: Inno.Animation
 kind: project
 owners:
 - Inno.Animation
-sourceFingerprint: 5acf0882c8a02152279d759c20a3174d3344ffac1448589504162983c3217582
+sourceFingerprint: a370cc880329da3f9cfa572bab64a6450bc35276485e2010056599ee1b9dfe13
 contracts: []
+outdatedFor: 8c21e5b5e723110d742893c0338dda18e06c02493cfdfe7f72f139d819d63c39
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

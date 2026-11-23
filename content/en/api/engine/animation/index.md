@@ -21,7 +21,7 @@ Find types in this project category. Each type links to its exact declarations a
 | Type | Purpose |
 | --- | --- |
 | [Animation](animation/index.md) | Provides script-friendly animation control through the current runtime context. |
-| [AnimationBindingId](animationbindingid/index.md) | Identifies one backend-neutral value destination inside an animation binding scope. |
+| [AnimationBindingID](animationbindingid/index.md) | Identifies one backend-neutral value destination inside an animation binding scope. |
 | [AnimationBindingProvider](animationbindingprovider/index.md) | Applies one declared binding protocol on the owner thread; implementations never run in native callbacks. |
 | [AnimationBindingProviderAttribute](animationbindingproviderattribute/index.md) | Declares a stable, automatically discovered animation destination protocol. |
 | [AnimationClipAsset](animationclipasset/index.md) | Represents one imported backend-neutral collection of tracks and event markers. |

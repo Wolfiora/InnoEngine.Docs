@@ -6,8 +6,9 @@ title: Inno.Core.Serialization
 kind: project
 owners:
 - Inno.Core.Serialization
-sourceFingerprint: 4a5c8a216822e3e16bd03bbb5ade8c2852ad95ab8653566dbd23727d7dbd61b2
+sourceFingerprint: d8a5fafb7826be8f8d1961914bb6e48703b621a2afe940422fb41df2ae903f5c
 contracts: []
+outdatedFor: 02b00792dac83a67d360ee7a06c9a1fa46eb19a7089bf71c04373a66f373d988
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

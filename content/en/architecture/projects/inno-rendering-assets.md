@@ -6,8 +6,9 @@ title: Inno.Rendering.Assets
 kind: project
 owners:
 - Inno.Rendering.Assets
-sourceFingerprint: 022cbb363ac286cc27aa5b2c4f4cc990206700fc95c313923ee7968231df203e
+sourceFingerprint: 61a280787ec83418e5155019016dae24cdeded1ff986e51c2eff536c48258a1f
 contracts: []
+outdatedFor: 71a00c075c3b2ea6cd5a9ea72f1c40c6755e0a15e7741b56739c87cae24c134f
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

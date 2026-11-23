@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 9904738f085cc12d92dc3517257928eb47a4234a999e897a2043b65c8194b8c3
+sourceFingerprint: c86b0f758c6684f59b6cc6c1bf0a4e2feea8048a5a33011ce34bb9d96ffc8ff5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,7 +22,7 @@ outdated: false
 
 **Parameter `component`:** The component's portable artifact path segment.
 
-**Parameter `targetId`:** The ABI's portable artifact path segment.
+**Parameter `targetID`:** The ABI's portable artifact path segment.
 
 **Parameter `inputs`:** The complete source, generator, executor and SDK input closure.
 

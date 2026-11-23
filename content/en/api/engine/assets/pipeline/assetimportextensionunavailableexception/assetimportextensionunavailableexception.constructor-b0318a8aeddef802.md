@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-sourceFingerprint: 360511d8ea8d711582ba52fd97edc3d990baaa8edeb3a96fe27008832c0a7739
+sourceFingerprint: 6ada48be32ff652a84b481eb1e40d2bf4aba6c1ca16638f3900e9ae895203c8e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,4 +20,4 @@ outdated: false
 
 **Parameter `extensionKind`:** The stable extension protocol identity.
 
-**Parameter `extensionId`:** The required implementation's stable identity.
+**Parameter `extensionID`:** The required implementation's stable identity.

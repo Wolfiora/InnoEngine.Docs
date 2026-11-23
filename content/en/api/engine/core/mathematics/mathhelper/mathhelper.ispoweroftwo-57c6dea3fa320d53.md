@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-sourceFingerprint: 973ff7b5956e6729896e2efe506d3bdd92e39cedbc1f94d32af9e2f94cb74e80
+sourceFingerprint: 1e2089aafa69af1f6ee62e30d41b34b8f5968849dbbd3ed703d8963c9479da4e
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` if `value` is powered by two; otherwise `false`.
-
 ## Parameters
 
 **Parameter `value`:** The concrete value read or transformed by this operation.
+
+## Returns
+
+`true` if `value` is powered by two; otherwise `false`.

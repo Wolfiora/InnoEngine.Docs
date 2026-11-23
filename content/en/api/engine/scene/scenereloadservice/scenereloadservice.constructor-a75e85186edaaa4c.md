@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-sourceFingerprint: ecb5fba4354d0549bb455f7d1e9954a029987e77bc6534d084decf9edbbf7651
+sourceFingerprint: 20f8546a111f195db4dc9f7713f0678eed36ca5f9e85ee51c9e3767cc1eda528
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,9 +18,9 @@ outdated: false
 
 ## Parameters
 
-**Parameter `serialization`:** The serialization registry used to capture and restore scene state.
-
 **Parameter `world`:** The isolated scene world whose active generation is captured.
+
+**Parameter `serialization`:** The serialization registry used to capture and restore scene state.
 
 **Parameter `assets`:** The asset reference generation used throughout capture, activation, and rollback.
 

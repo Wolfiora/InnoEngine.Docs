@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-sourceFingerprint: 08fa41e71b9d7f74526e34011f65105e67e3613140ce99ed03114a9a0d24cf09
+sourceFingerprint: 8391a0118050637bc4b254e6b45ff84209989efa558a897f95784a616df0e20c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `windowId`:** The window id used to initialize this instance.
+**Parameter `windowID`:** The window id used to initialize this instance.
 
 **Parameter `width`:** The width in logical units or pixels required by this operation.
 

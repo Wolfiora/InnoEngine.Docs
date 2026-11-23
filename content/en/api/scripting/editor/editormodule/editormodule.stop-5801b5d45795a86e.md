@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-sourceFingerprint: 4de6fd7717855e3a5487f4d6c502163e54bed027229893794e409a9b814d92e3
+sourceFingerprint: c0afe1a0b28935a85e306b27a289913ea6f8d1b4d3994ae46e12820d67ee2c6e
 apiScope: Editor
 contracts: []
 
@@ -16,10 +16,6 @@ source: xml
 description: null
 outdated: false
 ---
-
-## Remarks
-
-Also compensates a partially failed Start. Completed stops are idempotent; pending stops may be retried.
 
 ## Parameters
 
@@ -32,3 +28,7 @@ Also compensates a partially failed Start. Completed stops are idempotent; pendi
 **Exception `T:System.ObjectDisposedException`:** Thrown after the module has been disposed.
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Live work still depends on this module. Its owner must retain it and retry Stop before disposal.
+
+## Remarks
+
+Also compensates a partially failed Start. Completed stops are idempotent; pending stops may be retried.

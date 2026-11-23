@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph.ImGui
 apiSurface: editor-script
-sourceFingerprint: e23c5102bd79f82108cc78a0d4323b047af5186e5a3c1e74bc3c4357f4d0a0cc
+sourceFingerprint: 735e41c78560c9cd7b03d809eea5e6e13588a6880a8294b68c96cca300869053
 apiScope: Editor
 contracts: []
 

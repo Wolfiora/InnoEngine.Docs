@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-sourceFingerprint: 4e1648866ffbb27d91683d57c0350bc4b58d94ed874c5e430956e000843c3a1f
+sourceFingerprint: 21eea55627e44608f2785e901344530f607527496bb0dd03175d7f8eccf5c284
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `featureTypeId`:** Globally stable feature extension identifier.
+**Parameter `featureTypeID`:** Globally stable feature extension identifier.
 
 **Parameter `state`:** Optional reload-safe settings state.
 

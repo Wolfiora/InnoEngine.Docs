@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Identity
 apiSurface: source-clr
-sourceFingerprint: bddf9d1b16b056520971840f06afd6ffe342c72e97d75d06078ec36b6a964b64
+sourceFingerprint: 0b2ea2f678416dc1f9f6843f681d94767587bdfc964eaa034d6043d5e1b2c1c8
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,7 +22,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `runtimeId`:** The packed runtime identity allocated by this instance.
+**Parameter `runtimeID`:** The packed runtime identity allocated by this instance.
 
 ## Returns
 

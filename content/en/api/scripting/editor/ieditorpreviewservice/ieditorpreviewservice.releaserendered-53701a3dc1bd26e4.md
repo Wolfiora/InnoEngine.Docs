@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-sourceFingerprint: a9c4dd5937a51ba7a50df8bc640d873f6f63ac46bfd450fe7b8f7151907b3bde
+sourceFingerprint: 7e8f037c4dd1298d6bc25412214711ae5610da24d84aeab1ca44662d7f54dfec
 apiScope: Editor
 contracts: []
 
@@ -19,4 +19,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `viewportId`:** The same consumer-qualified identity submitted in the composition.
+**Parameter `viewportID`:** The same consumer-qualified identity submitted in the composition.

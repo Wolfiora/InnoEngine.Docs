@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.References
 apiSurface: source-clr
-sourceFingerprint: dc0f0ce8d3c651b0f1db32de5008088d2529380ef753875ed8c1bab35a243ba9
+sourceFingerprint: cb91c3425ab7b2070da7b2beb003f1f12d3863bde4a510de3c642e004c54e118
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `ownerPersistentId`:** The persistent identity of the object that owns the slot.
+**Parameter `ownerPersistentID`:** The persistent identity of the object that owns the slot.
 
 **Parameter `path`:** The stable property or structural path inside the owner.
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders.ImGui
 apiSurface: editor-script
-sourceFingerprint: 2281a54210a5cffb11388c2fa81cf1cb554b134027deb4d4860aabb5ec98ac91
+sourceFingerprint: dc6c65260ac267d0721fd52f67a53031d1c580d3241fda06bde9a40199cfc0b1
 apiScope: Editor
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `definitionId`:** The compiler-independent graph node identity.
+**Parameter `definitionID`:** The compiler-independent graph node identity.
 
 **Parameter `displayName`:** Optional artist-facing name used in node headers and creation menus.
 

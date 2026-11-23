@@ -6,8 +6,9 @@ title: Inno.Adapter.Storage
 kind: project
 owners:
 - Inno.Adapter.Storage
-sourceFingerprint: e980c83bf58ccc5cf1e6038c67c4792d917c06e4faf75b4cf7c21435714a2315
+sourceFingerprint: 8f771d121a5559f2f946e29f92209f6229177b731985ca53d7aa50efc649b2a5
 contracts: []
+outdatedFor: de306280e8a16b79a5e04809bed380232c8ce89e7c281096780cab86689b2f38
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

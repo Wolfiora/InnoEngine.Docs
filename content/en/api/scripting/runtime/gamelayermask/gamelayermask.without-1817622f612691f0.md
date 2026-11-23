@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-sourceFingerprint: f29047756571321f635b269f62283162ed7f2d35df3efe7a53987d5522f7f848
+sourceFingerprint: 9318d4d039338f86fb09d5fd7864ab7e836ef806e3f77b02be63dbbef48b5d6f
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-The updated immutable mask.
-
 ## Parameters
 
 **Parameter `layer`:** The layer consumed by without; ownership remains with the caller unless explicitly stated otherwise.
+
+## Returns
+
+The updated immutable mask.

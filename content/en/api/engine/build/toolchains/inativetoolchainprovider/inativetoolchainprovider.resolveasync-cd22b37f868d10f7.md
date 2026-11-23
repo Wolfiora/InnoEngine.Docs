@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: b8825dc51669c62bbfdc994ab3c69afbb468d5209b2cfa63783352424d43401d
+sourceFingerprint: 2c0f15faed6770b23f434ace73dcb48737f4758bb8f1550fda1b34402a16b561
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,7 +22,7 @@ outdated: false
 
 **Parameter `host`:** The explicitly declared execution host, independent of the target.
 
-**Parameter `targetId`:** The exact requested target; unsupported combinations must fail.
+**Parameter `targetID`:** The exact requested target; unsupported combinations must fail.
 
 **Parameter `cancellationToken`:** Cancels SDK discovery before any product staging.
 

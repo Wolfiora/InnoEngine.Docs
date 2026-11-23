@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: editor-script
-sourceFingerprint: 162e5191a12f34030a42d959adfd0384f76ede71bdbd3f7bffc76560485a116c
+sourceFingerprint: bc18835300fdb21250d267792e8214b48f1c48eee4c9bab966a958ba8af45497
 apiScope: Runtime
 contracts: []
 
@@ -21,6 +21,6 @@ outdated: false
 
 **Parameter `code`:** The stable issue code.
 
-**Parameter `semanticId`:** The optional protocol identifier used at publication.
+**Parameter `semanticID`:** The optional protocol identifier used at publication.
 
-**Parameter `objectId`:** The optional persistent object identity used at publication.
+**Parameter `objectID`:** The optional persistent object identity used at publication.

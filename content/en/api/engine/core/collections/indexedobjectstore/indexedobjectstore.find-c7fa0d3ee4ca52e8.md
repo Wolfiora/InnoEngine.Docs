@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Collections
 apiSurface: source-clr
-sourceFingerprint: 43edf652beab46c6f76586b9bed317246de2647990f47cd1e2e1f0061092c8d1
+sourceFingerprint: 609622884429066bcf5ad38610286a68fb3dc3dab34f6bb474ea2e64a2bcefd7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -15,10 +15,6 @@ source: xml
 description: null
 outdated: false
 ---
-
-## Remarks
-
-The returned list is detached from subsequent store mutations.
 
 ## Type parameters
 
@@ -33,3 +29,7 @@ The returned list is detached from subsequent store mutations.
 ## Returns
 
 A stable snapshot list of matching items.
+
+## Remarks
+
+The returned list is detached from subsequent store mutations.

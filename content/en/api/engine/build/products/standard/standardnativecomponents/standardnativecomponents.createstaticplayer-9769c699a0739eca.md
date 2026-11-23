@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Products.Standard
 apiSurface: source-clr
-sourceFingerprint: 297113320f742ece1d26f9fa51b172588b25ab5685036362de438efec9715b6f
+sourceFingerprint: 744a4064cf1ddfc927a4ab9e60007415b2cc8cdd52ef961ab8af6802dc49bdff
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,12 +16,12 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-A Player closure with static recipes and no unused standalone producers.
-
 ## Parameters
 
 **Parameter `options`:** The platform-owned configuration for each named component.
 
 **Parameter `layout`:** The platform-owned destination of each component output, or null to exclude it.
+
+## Returns
+
+A Player closure with static recipes and no unused standalone producers.

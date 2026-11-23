@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-sourceFingerprint: 34f354b1636d635f3f30d7ff47104cbb8784c4034834f0fea935bec22c44e4d1
+sourceFingerprint: 9f411fcd632ee800b90274cece1b29c6890aba2df3e0a6535689e39b100a6652
 apiScope: Editor
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `panelId`:** The stable panel identifier to resolve.
+**Parameter `panelID`:** The stable panel identifier to resolve.
 
 ## Returns
 
@@ -27,4 +27,4 @@ outdated: false
 
 ## Exceptions
 
-**Exception `T:System.ArgumentException`:** Thrown when `panelId` is empty.
+**Exception `T:System.ArgumentException`:** Thrown when `panelID` is empty.

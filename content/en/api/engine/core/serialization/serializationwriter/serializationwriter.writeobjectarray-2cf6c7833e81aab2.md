@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: source-clr
-sourceFingerprint: 0e4a5c7365c36ce42b231ab2ba0a8ccdaff88b9043a443956445c8df8dc5bb15
+sourceFingerprint: 460be44257d52308548c46c016cc63db7f7448634ef5cf6b4a051adf79a97d3c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -30,10 +30,6 @@ outdated: false
 
 **Parameter `captureKey`:** An optional pure callback covering every element output and contextual input. It must declare a current Core identity owner and return true only for a complete proof. Snapshot capture alone can reuse a matching element; ordinary serialization always executes writeElement.
 
-## Remarks
-
-The key builder belongs only to its synchronous callback. Uncertified rows and rows that invoke nested converters execute the ordinary element writer on every capture. Callback failures and changed declared inputs abort publication without modifying a previous snapshot.
-
 ## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Values or writeElement is null.
@@ -41,3 +37,7 @@ The key builder belongs only to its synchronous callback. Uncertified rows and r
 **Exception `T:System.ArgumentException`:** The member name is null, empty or whitespace.
 
 **Exception `T:System.InvalidOperationException`:** The writer has retired, a member is duplicated, or declared capture inputs change during writing.
+
+## Remarks
+
+The key builder belongs only to its synchronous callback. Uncertified rows and rows that invoke nested converters execute the ordinary element writer on every capture. Callback failures and changed declared inputs abort publication without modifying a previous snapshot.

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Reload
 apiSurface: source-clr
-sourceFingerprint: e0753df4b19552612de2540b137e0681cdbec9f43b2e73d51c9142c5fa19e1cb
+sourceFingerprint: 4397a45eed2bd9a8f60c428b5a53abdc0c8af0216709417159624df1c6134873
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -24,12 +24,12 @@ outdated: false
 
 A scope for the entire operation, or a borrowed scope inside publication on its own control thread.
 
-## Remarks
-
-Published data remains readable while old contexts await collection. This scope does not authorize Play, Build, Export or a new generation transaction; those owners must still use their strict admission boundary.
-
 ## Exceptions
 
 **Exception `T:System.InvalidOperationException`:** Another thread is publishing or the owner is Faulted.
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Retirement has failed without releasing its dependent owners.
+
+## Remarks
+
+Published data remains readable while old contexts await collection. This scope does not authorize Play, Build, Export or a new generation transaction; those owners must still use their strict admission boundary.

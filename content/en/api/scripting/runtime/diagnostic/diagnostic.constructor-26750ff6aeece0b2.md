@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Diagnostics
 apiSurface: editor-script
-sourceFingerprint: f3369cfca4587e5ce0ed098a4b45989342cd6e88d43aca7557b5a4a83a7945a1
+sourceFingerprint: cbeffec700d56a2e85dd85870953d8000dc6517451d6af4a9f073e2062aa767a
 apiScope: Runtime
 contracts: []
 
@@ -25,9 +25,9 @@ outdated: false
 
 **Parameter `severity`:** The common engine impact classification.
 
-**Parameter `semanticId`:** An optional extension or protocol identifier, never interpreted as a file path.
+**Parameter `semanticID`:** An optional extension or protocol identifier, never interpreted as a file path.
 
-**Parameter `objectId`:** An optional persistent object identity, never a runtime handle.
+**Parameter `objectID`:** An optional persistent object identity, never a runtime handle.
 
 **Parameter `location`:** An optional actual source file location.
 

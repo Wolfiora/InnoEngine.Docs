@@ -6,8 +6,9 @@ title: Inno.Editor.Shaders
 kind: project
 owners:
 - Inno.Editor.Shaders
-sourceFingerprint: f05446b360350e34aa50ba1ba444e10871e12a6fc0465b70af9eabd7acbabda6
+sourceFingerprint: 1afbf23c5135d4f2ff90e67a6ac2e09fad20443ce33fbba6bc4af7106b5178f0
 contracts: []
+outdatedFor: 0cc99bd98967b8d4ab3f2a5539ef16d08022669ff3ec87afa23077c64443d398
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

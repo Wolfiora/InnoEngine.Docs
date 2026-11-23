@@ -6,8 +6,9 @@ title: Inno.Editor.Scripting
 kind: project
 owners:
 - Inno.Editor.Scripting
-sourceFingerprint: d7ad7519cf4faedfd2d3514f17fd39bdc962d3465b4c1c2d03c2edf93eac970a
+sourceFingerprint: 1aec0de1db38231c301b5078951f0eb300073ecd1517529271148754626c601d
 contracts: []
+outdatedFor: ef801a0ed3b7785f4c3421933804a5d688a1db960325ea69395cbdef9f93d127
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

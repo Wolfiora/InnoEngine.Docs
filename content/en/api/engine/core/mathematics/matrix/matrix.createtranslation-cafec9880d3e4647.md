@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Mathematics
 apiSurface: source-clr
-sourceFingerprint: a932a8429e87f76823933762ec45b42dbe257d392cee1dd87d22c8d01e0184de
+sourceFingerprint: afa75e0f8be50e3c39c24c0a2d0a0b17c4231321ebf2f81b8289635a4a75920b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-A translation matrix.
-
 ## Parameters
 
 **Parameter `v`:** The concrete value read or transformed by this operation.
+
+## Returns
+
+A translation matrix.

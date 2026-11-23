@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Panel.Inspector
 apiSurface: source-clr
-sourceFingerprint: 2bfb9e4028a180da42bf71510605f7c6e44ec7ee772bca00a38560915654c9b4
+sourceFingerprint: 060431f9b2da75e76d3bdceb8fb1c1ac59e50ab34bfc27b52d10366c6a0c6b0d
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,4 +18,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** The stable persistent identity used for lookup.
+**Parameter `persistentID`:** The stable persistent identity used for lookup.

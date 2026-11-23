@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 3d3c5c0cda1bf412806241805c9737b62556ca4db39e12179871f48f571ad9e5
+sourceFingerprint: 06c25f49563c008f300bc7767276bb1c4add371a40d05584dd51b3897d9b7634
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,7 +22,7 @@ outdated: false
 
 **Parameter `leasePath`:** The caller's persistent exclusive producer lease outside the workspace.
 
-**Parameter `targetId`:** The explicit product target, or null for shared host work.
+**Parameter `targetID`:** The explicit product target, or null for shared host work.
 
 **Parameter `cancellationToken`:** Cancels registration before payload writes.
 

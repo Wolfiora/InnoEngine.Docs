@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Graph
 apiSurface: editor-script
-sourceFingerprint: 4fa1db170dd0172e9543580da507fad5ed70fd4e426824b1e181e55d2bd6d31c
+sourceFingerprint: 81e5b3b12e2de58392c014d9d35c0a5ec089b4db4e27c0737189b887aadfe2cf
 apiScope: Editor
 contracts: []
 
@@ -19,6 +19,6 @@ outdated: false
 
 ## Parameters
 
-**Parameter `documentId`:** The persistent identity of an open document.
+**Parameter `documentID`:** The persistent identity of an open document.
 
 **Parameter `available`:** Whether its source can be resolved in the current generation.

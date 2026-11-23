@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders.ImGui
 apiSurface: source-clr
-sourceFingerprint: 192c50b7002ce6a69aad40c936f968515248c607c6b80c63a7718f1bffab1de1
+sourceFingerprint: 984ab4227a487011a5f38a503e509d78c687aa54905604561f74a07566c6bf92
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `ownerId`:** Persistent document identity, independent of the canonical Shader publication.
+**Parameter `ownerID`:** Persistent document identity, independent of the canonical Shader publication.
 
 **Parameter `material`:** Detached defaults or overrides with the current Shader reference.
 

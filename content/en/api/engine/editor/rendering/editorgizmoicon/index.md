@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-sourceFingerprint: 50ded2a04dbb806e45011b1aa23294c5665bbb499a1e84b1257f7eafa7e88012
+sourceFingerprint: 5d1a5d39842b7aabc05c9fb47e9fe74435e8aa6638d578d647ce92e28c09016d
 contracts:
 - project.inno-editor-rendering
 
@@ -24,4 +24,4 @@ aliases: []
 
 **Parameter `position`:** The vector3 value used to initialize this instance.
 
-**Parameter `iconId`:** The stable visual identity resolved by the Scene View presentation.
+**Parameter `iconID`:** The stable visual identity resolved by the Scene View presentation.

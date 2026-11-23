@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: editor-script
-sourceFingerprint: 99fe2f4bfac517d78c8957daab01d2ab05f7be55a2c7832266fff86d2c1cb37e
+sourceFingerprint: 6851d2c31c2327c1d742c7a3f4472075344bfb3093ee03e1f6ecd02da70042c2
 apiScope: Runtime
 contracts: []
 
@@ -19,8 +19,8 @@ outdated: false
 
 ## Parameters
 
-**Parameter `ownerId`:** The stable owner whose data would be replaced.
+**Parameter `ownerID`:** The stable owner whose data would be replaced.
 
 ## Returns
 
-`true` for project data, or when the Plugin both depends on and explicitly overrides `ownerId`.
+`true` for project data, or when the Plugin both depends on and explicitly overrides `ownerID`.

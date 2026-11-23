@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 4045a134aae2982839e0127343acc17c10760b070ad14d7091e6cfac9fe52398
+sourceFingerprint: eef7454fd502855c09bdb179eaf0e60f67009ccb24b92154333c82e10cd493b5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `targetId`:** The exact native target identity.
+**Parameter `targetID`:** The exact native target identity.
 
 **Parameter `host`:** The machine on which the selected tools execute.
 
@@ -30,9 +30,9 @@ outdated: false
 
 **Parameter `cmakeArguments`:** Ordered configuration arguments pinning compiler, generator and SDK.
 
-**Parameter `multiConfiguration`:** Whether configuration is selected during build rather than configure.
-
 **Parameter `linkPlan`:** The sole source of target library formats and linker capabilities.
+
+**Parameter `multiConfiguration`:** Whether configuration is selected during build rather than configure.
 
 **Parameter `compilerInputs`:** Explicit SDK parser inputs, or null when no native parser is provided.
 

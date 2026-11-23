@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: editor-script
-sourceFingerprint: c5c4d5bad9cca7f384549d3392188b3f3afbde44faef79108b60027dbc60046d
+sourceFingerprint: 98a858f73e5573d6f75e93bc21a5ef293ef03c04d983db813c7be28e497f4864
 apiScope: Editor
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `assetId`:** Open Pipeline identity.
+**Parameter `assetID`:** Open Pipeline identity.
 
 ## Returns
 

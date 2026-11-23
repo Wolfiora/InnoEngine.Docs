@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 3f34eebd0d19e2cd687b00f9d332cdee1f7d908ad68b928a90b5866a71c0f536
+sourceFingerprint: 087bcaeb9fc202f1c8749d4df7ff91b99ce73b3d596fbda911e00d424baef613
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,7 +20,7 @@ outdated: false
 
 **Parameter `components`:** The component owners, each declaring one binding definition.
 
-**Parameter `targetId`:** The target identity selecting a declared configuration; host output uses the host definition.
+**Parameter `targetID`:** The target identity selecting a declared configuration; host output uses the host definition.
 
 **Parameter `outputMode`:** Whether to write authored host sources or isolated target artifacts.
 

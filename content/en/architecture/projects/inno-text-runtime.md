@@ -6,8 +6,9 @@ title: Inno.Text.Runtime
 kind: project
 owners:
 - Inno.Text.Runtime
-sourceFingerprint: d607a19fdee72ace214b6b9f40be04231d8dc724283958f2b909699bf4354a68
+sourceFingerprint: b4a7c9d9750f02058064b217f95d9b7b3d06850e4a3eb3577b4420430317b76c
 contracts: []
+outdatedFor: b34fe9cb2bc87c9ba43f2fe8455062f7d3aa76e91fe6212566c328af7bc383c4
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Extensibility.Types
 apiSurface: source-clr
-sourceFingerprint: ddb99b78d39a1e146fe9aee7cdd8a16c7ac7854d8c660639b9db7227fb9226d2
+sourceFingerprint: 9ebe467c06c8bcdf6816e85f5bbcd4c722ffbff6c4ac67b9c2193fd1128e32f5
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -15,6 +15,10 @@ source: xml
 description: null
 outdated: false
 ---
+
+## Parameters
+
+**Parameter `type`:** The type consumed by get type ref; ownership remains with the caller unless explicitly stated otherwise.
 
 ## Returns
 
@@ -25,7 +29,3 @@ The logical and generation-local identity of `type`.
 **Exception `T:System.ArgumentNullException`:** Thrown when `type` is `null`.
 
 **Exception `T:System.InvalidOperationException`:** Thrown when the type does not belong to this snapshot.
-
-## Parameters
-
-**Parameter `type`:** The type consumed by get type ref; ownership remains with the caller unless explicitly stated otherwise.

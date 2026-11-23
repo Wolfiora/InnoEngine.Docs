@@ -6,8 +6,9 @@ title: Inno.Adapter.UI
 kind: project
 owners:
 - Inno.Adapter.UI
-sourceFingerprint: 6284a3ba8869d9b23bdd3333b6c4cecd293a0ccfdb365d8fe479b91628cd0133
+sourceFingerprint: 1cbbdc19a0d1272d1cd12ff92f2d05de93b332adc6f6566ee0725b5d956deaa3
 contracts: []
+outdatedFor: 4e4fac99390a1bd39ab8652cd5c700a0ade5ec35a4c927bfb2e1fe5efb9d635b
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

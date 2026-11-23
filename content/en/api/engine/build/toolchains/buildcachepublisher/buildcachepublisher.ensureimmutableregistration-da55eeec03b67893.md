@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 9a2fec457aa818c41c72cc54e56bb46ff6e67a5848dc381590373084d7033f03
+sourceFingerprint: 8c378f758a54c96c6aa34f108fba101638bdb8c9fe72191dc90f80ed09597c97
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -24,13 +24,9 @@ outdated: false
 
 **Parameter `dependencies`:** The exact dependency closure, in its original publication order.
 
-**Parameter `targetId`:** The producer's explicit target, or null for shared host work.
+**Parameter `targetID`:** The producer's explicit target, or null for shared host work.
 
 **Parameter `cancellationToken`:** Cancels inspection or initial registration before publication.
-
-## Remarks
-
-This confirms ownership, not content integrity. The producer must verify the immutable payload itself. Existing registration age is retained; use an active lease or a current generation dependency to protect consumers. This operation neither selects a current root nor records a new use time.
 
 ## Exceptions
 
@@ -41,3 +37,7 @@ This confirms ownership, not content integrity. The producer must verify the imm
 **Exception `T:System.IO.InvalidDataException`:** Existing ownership metadata disagrees with the immutable publication.
 
 **Exception `T:System.OperationCanceledException`:** Inspection or registration was canceled.
+
+## Remarks
+
+This confirms ownership, not content integrity. The producer must verify the immutable payload itself. Existing registration age is retained; use an active lease or a current generation dependency to protect consumers. This operation neither selects a current root nor records a new use time.

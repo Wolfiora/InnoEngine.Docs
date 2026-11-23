@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-sourceFingerprint: c814ae9f27dfe42183c1c0b15e4d632a05b8d12954d03f38ace610367f6f9b7d
+sourceFingerprint: d85e5f7572d7c70476db731f3452cc9116d4d9e1af149d724534d70fdd846538
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when the layer bit is enabled.
-
 ## Parameters
 
 **Parameter `layer`:** The layer consumed by contains; ownership remains with the caller unless explicitly stated otherwise.
+
+## Returns
+
+`true` when the layer bit is enabled.

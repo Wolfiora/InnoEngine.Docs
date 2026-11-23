@@ -6,8 +6,9 @@ title: Inno.Editor.Panel.Inspector
 kind: project
 owners:
 - Inno.Editor.Panel.Inspector
-sourceFingerprint: 27468e9eb6a2271dc086fb52c6346668feabb2668148b5899d366d52da0a255e
+sourceFingerprint: d1902c779a5b2931e489eba78251d81850ca85f26c7cb71e7ad2f4557130a384
 contracts: []
+outdatedFor: 3cc9fa78d0cff4c6d8015ea97f75f098a8e02d991335fa490c801f035d0b9248
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

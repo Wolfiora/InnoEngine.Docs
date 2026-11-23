@@ -6,8 +6,9 @@ title: Inno.Editor.Graph
 kind: project
 owners:
 - Inno.Editor.Graph
-sourceFingerprint: a14567dac56879ca2514b3945e5237a6b7ecb528f0e8b1be48ce4a319954526e
+sourceFingerprint: 38cbb14e717b757ba12a950851680516366ec9885afeed50c0442889108e722e
 contracts: []
+outdatedFor: 3afd32f015179205b95fc942ab3b2be81d4ef290c940dbb0f73472d6ad3cc15b
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

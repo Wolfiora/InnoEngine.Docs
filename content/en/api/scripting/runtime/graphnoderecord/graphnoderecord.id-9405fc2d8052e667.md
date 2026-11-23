@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Graphs
 apiSurface: editor-script
-sourceFingerprint: 25d9ef177e2ca13595b2ba30f7ef87982c62916fb0929fa79c81d95777ebed87
+sourceFingerprint: 16e3916f43b6aed1e07995bc43e16d162f97ac26225e22a224c9386ece15eca7
 apiScope: Runtime
 contracts: []
 

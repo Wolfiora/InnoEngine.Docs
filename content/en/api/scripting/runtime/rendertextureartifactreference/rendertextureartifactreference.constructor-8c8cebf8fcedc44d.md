@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: editor-script
-sourceFingerprint: 0f5172ecf27d29a3e7bd71a77a463c1467cef345cbd5dbb7f0d22b60c891ded5
+sourceFingerprint: ea5bb675caf0d7420d8c0d3d4cf46c8164b5b8ce2f8a27eecee1b379085ddc32
 apiScope: Runtime
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `assetId`:** Persistent identity of the asset that owns the named source artifact.
+**Parameter `assetID`:** Persistent identity of the asset that owns the named source artifact.
 
 **Parameter `contentRevision`:** Current committed content revision of the owning asset.
 
@@ -27,4 +27,4 @@ outdated: false
 
 ## Exceptions
 
-**Exception `T:System.ArgumentException`:** Thrown when `assetId` is empty or `contentRevision` is negative.
+**Exception `T:System.ArgumentException`:** Thrown when `assetID` is empty or `contentRevision` is negative.

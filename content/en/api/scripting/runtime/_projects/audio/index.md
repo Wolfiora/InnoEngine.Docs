@@ -16,13 +16,13 @@ Find types in this project category. Each type links to its exact declarations a
 | [Audio](../../audio/index.md) | Provides script-friendly access to the audio service in the current execution context. |
 | [AudioBusDefinition](../../audiobusdefinition/index.md) | Describes one bus and its ordered processor chain in a compiled mixer graph. |
 | [AudioBusHandle](../../audiobushandle/index.md) | Identifies one backend mixer bus within a device generation. |
-| [AudioBusId](../../audiobusid/index.md) | Identifies a mixer bus without imposing a closed bus catalog. |
+| [AudioBusID](../../audiobusid/index.md) | Identifies a mixer bus without imposing a closed bus catalog. |
 | [AudioCapabilities](../../audiocapabilities/index.md) | Describes backend-neutral features and limits for one device generation. |
 | [AudioClipAsset](../../audioclipasset/index.md) | Represents one imported audio source and its compact runtime metadata. |
 | [AudioClipHandle](../../audiocliphandle/index.md) | Identifies one backend clip allocation within a device generation. |
 | [AudioClipLoadMode](../../audiocliploadmode/index.md) | Selects how encoded clip data is prepared for playback. |
 | [AudioClipMetadata](../../audioclipmetadata/index.md) | Describes imported encoded audio independently from its runtime storage path. |
-| [AudioCodecId](../../audiocodecid/index.md) | Identifies encoded audio data without constraining codec providers to a closed enum. |
+| [AudioCodecID](../../audiocodecid/index.md) | Identifies encoded audio data without constraining codec providers to a closed enum. |
 | [AudioCompletionReason](../../audiocompletionreason/index.md) | Explains why a voice stopped accepting playback commands. |
 | [AudioContentProvider](../../audiocontentprovider/index.md) | Converts arbitrary host-owned content into backend-neutral emitter and listener snapshots. |
 | [AudioContentProviderContext](../../audiocontentprovidercontext/index.md) | Collects one bounded, atomic provider contribution on the owning control thread. |
@@ -41,11 +41,11 @@ Find types in this project category. Each type links to its exact declarations a
 | [AudioMixerFeature](../../audiomixerfeature/index.md) | Contributes optional buses and processors to a candidate mixer graph. |
 | [AudioMixerFeatureConfiguration](../../audiomixerfeatureconfiguration/index.md) | Stores one ordered mixer feature selection using only stable data. |
 | [AudioMixerFeatureExtensionAttribute](../../audiomixerfeatureextensionattribute/index.md) | Marks a reloadable extension that contributes to an audio mixer graph. |
-| [AudioParameterId](../../audioparameterid/index.md) | Identifies one processor parameter without imposing a processor-specific enum. |
+| [AudioParameterID](../../audioparameterid/index.md) | Identifies one processor parameter without imposing a processor-specific enum. |
 | [AudioPlaybackState](../../audioplaybackstate/index.md) | Describes the observable lifecycle of one playback voice. |
 | [AudioPlayOptions](../../audioplayoptions/index.md) | Contains immutable parameters used to create one playback voice. |
 | [AudioProcessorConfiguration](../../audioprocessorconfiguration/index.md) | Describes one ordered processor instance attached to a mixer bus. |
-| [AudioProcessorId](../../audioprocessorid/index.md) | Identifies an audio processor implementation without imposing a closed effect catalog. |
+| [AudioProcessorID](../../audioprocessorid/index.md) | Identifies an audio processor implementation without imposing a closed effect catalog. |
 | [AudioProcessorParameter](../../audioprocessorparameter/index.md) | Stores one neutral numeric parameter assigned to an audio processor. |
 | [AudioProjectSettings](../../audioprojectsettings/index.md) | Stores portable project-wide defaults for audio playback and caching. |
 | [AudioSpatialOptions](../../audiospatialoptions/index.md) | Contains listener-relative positioning and attenuation parameters for one voice. |

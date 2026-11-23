@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-sourceFingerprint: 1ac8a9681d91d7c1a10730a667202c1b23117b0e41c49100f0439078f9c7a322
+sourceFingerprint: ae3b2cf5034d7d2eae666059e48f2196069eeeddf9c0418f387c499665beea07
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,7 +22,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** The persistent identity to resolve.
+**Parameter `persistentID`:** The persistent identity to resolve.
 
 ## Returns
 

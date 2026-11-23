@@ -6,9 +6,10 @@ title: Inno.Core.Identity
 kind: project
 owners:
 - Inno.Core.Identity
-sourceFingerprint: 4dafa83581695e900c805c4fd9c7bcd9c2b727ccefe766f50ac29b79dcab92ed
+sourceFingerprint: 01b7fd15702ae6a7ba041941df38d0dd025ef4eb0a16a3187cef604e7678d90e
 contracts:
 - manual.identity-and-missing
+outdatedFor: 97c1aaf7175701ae7297c0dd75a358e8490e4f40700c1a39457fffd530ff7903
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

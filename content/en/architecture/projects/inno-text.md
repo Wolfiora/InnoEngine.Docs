@@ -6,8 +6,9 @@ title: Inno.Text
 kind: project
 owners:
 - Inno.Text
-sourceFingerprint: 746f5f385c215fd949d53fccacda196a5a08f8e573d7a470afa58a33a4f927f0
+sourceFingerprint: 82fedcd16ac970afa29541cca058325774426cd74a5538f38369b6d073c349bd
 contracts: []
+outdatedFor: e430ab64696b5d2f5dd343ad053b8f9a7be2ce2779f1b870a711c5598f686c9d
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: source-clr
-sourceFingerprint: 2bae001a53fed74b0f2a0ef7cf4c927e6ce07acc4642461a49c19c70fa915757
+sourceFingerprint: 4b3ba84f6a3447b0400a5561a6cadaa9cc818fb81411dbe14da1b18a4fbfd4b1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when both values represent the same logical state; otherwise, `false`.
-
 ## Parameters
 
 **Parameter `obj`:** The object to compare with this instance.
+
+## Returns
+
+`true` when both values represent the same logical state; otherwise, `false`.

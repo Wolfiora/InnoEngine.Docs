@@ -1,19 +1,17 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.ui.88856152b18fc320
-symbol: engine:Inno.UI:T:Inno.UI.UiMeshUpdate
-title: UiMeshUpdate
+uid: api.d0346411b1fe9ff4f92c1a8bf8c4337945ce505d09ee190ac483d59806618ffa
+symbol: engine:Inno.UI:T:Inno.UI.UIMeshUpdate
+title: UIMeshUpdate
 kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-sourceFingerprint: dec875ae0514ca5837e7bca48b97703727b317b47d631be2f44f57dc271f0bc5
-contracts:
-- project.inno-ui#document-and-frame-contract
+sourceFingerprint: d44bdd90779a894b9d5178a56bcebaa7032b504e58460e70d2fb72de506dea14
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Toolchains
 apiSurface: source-clr
-sourceFingerprint: 32c47dde5a9aa496d3a57dad541579023e8cb65a62de6d38869969a988fc43ea
+sourceFingerprint: 16d425ecbe6bf00785a21464707d2a849d77046eadd8727cc35cab44016d7558
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,11 +20,11 @@ outdated: false
 
 **Parameter `products`:** Validated runtime and optional authoring products returned by the declared product plan. All products must use the same target; each component can appear once.
 
-**Parameter `cancellationToken`:** Cancels ownership acquisition or staging before the atomic installation starts.
-
 **Parameter `plan`:** The explicit component closure and deployment mapping used to produce these products.
 
 **Parameter `applicationDirectory`:** The managed output directory receiving the complete native tree.
+
+**Parameter `cancellationToken`:** Cancels ownership acquisition or staging before the atomic installation starts.
 
 ## Returns
 

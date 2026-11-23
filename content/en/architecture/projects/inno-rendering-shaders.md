@@ -6,8 +6,9 @@ title: Inno.Rendering.Shaders
 kind: project
 owners:
 - Inno.Rendering.Shaders
-sourceFingerprint: f3f002cccaba08605ab9db3e062b4fb2740795662719e27e33bc904365919548
+sourceFingerprint: 811fd2854e654d1799c6e8d89650dd8b0e10ef2a2dbaff7ab10b10dcaaca4ef1
 contracts: []
+outdatedFor: 8ca6cdfb26680a1cf9bf8789a70fcc0a4f0f21b26300debdff2fdcde787e306a
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

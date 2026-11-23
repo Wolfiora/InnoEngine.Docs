@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: source-clr
-sourceFingerprint: 0ee033905c34c15a0a888c710942b2b148423d352f403e4136b098ea9cc8ef56
+sourceFingerprint: 73cf10f2a1fa377b1902d7a191fcdf8fb8362c2ed6e31ba34e1ed419c795b7ae
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `windowId`:** The platform window that produced the movement.
+**Parameter `windowID`:** The platform window that produced the movement.
 
 **Parameter `x`:** The horizontal pointer coordinate in logical pixels.
 

@@ -6,8 +6,9 @@ title: Inno.Extensibility.Catalogs
 kind: project
 owners:
 - Inno.Extensibility.Catalogs
-sourceFingerprint: d193c7c93fc41f9146baa50003e86a3eab5228cb8b89a580b73732c29f753841
+sourceFingerprint: 6a089327289e1f30ae2a828e8ce1a058d00e9b134556d20719eb5fd386179e20
 contracts: []
+outdatedFor: 3c9e926fbb6d49bf94121f2a95b5109f68c86705ca249cf9961075b527d8c2aa
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: editor-script
-sourceFingerprint: d884e1ca9a908cf2ad0fb56962a694b8c8638df593f6809c4d19a8e544b1006e
+sourceFingerprint: be65a5ae22545ccd1d4e4330b8f1e744a7e8f7ed2bd8392970a5bbe65d0f6945
 apiScope: Editor
 contracts: []
 
@@ -19,4 +19,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `targetId`:** The stable authored target identity.
+**Parameter `targetID`:** The stable authored target identity.

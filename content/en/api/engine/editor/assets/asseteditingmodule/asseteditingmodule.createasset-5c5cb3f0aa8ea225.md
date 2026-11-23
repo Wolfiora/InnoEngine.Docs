@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Assets
 apiSurface: source-clr
-sourceFingerprint: 8d066963115cb6852bc15b8be1bb8066074cb4376b6a6f5d582086059d46b336
+sourceFingerprint: c1dc55d5956b2bbcb36bb203e01dfcd06aa3708820476cb9a968902d8bf57108
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,7 +20,7 @@ outdated: false
 
 **Parameter `directory`:** The source-relative writable destination directory.
 
-**Parameter `templateId`:** The stable identity of a discovered creation template.
+**Parameter `templateID`:** The stable identity of a discovered creation template.
 
 ## Returns
 

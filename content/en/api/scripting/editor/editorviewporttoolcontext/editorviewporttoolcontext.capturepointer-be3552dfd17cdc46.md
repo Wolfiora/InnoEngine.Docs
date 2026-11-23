@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-sourceFingerprint: a033e38dc2321d9f1e0c67effe04eec6d258aa44aef671a640efe58dc5ee9786
+sourceFingerprint: e431118803e25ee0268ec2c6f5a5a42a575ab2edf370d9140e12c79853efa82c
 apiScope: Editor
 contracts: []
 
@@ -19,4 +19,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `pointerId`:** Platform pointer identity.
+**Parameter `pointerID`:** Platform pointer identity.

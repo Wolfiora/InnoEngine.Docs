@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Compiler
 apiSurface: source-clr
-sourceFingerprint: 7fd8ef3a0f47bdc18f506c7adeb2fedb69f595a9db31892a12e953ad665f065a
+sourceFingerprint: f1dd9369c283abe7379accf6ea57c58b5eb3e50cfb06bf0a5ce51a1bfe64f372
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -15,10 +15,6 @@ source: xml
 description: null
 outdated: false
 ---
-
-## Remarks
-
-Complete cache trees use Core IO atomic publication and replacement. Cancellation before commit preserves the previous tree; cancellation does not undo a committed cache. Cleanup failure after commit preserves the installed tree and remaining backup without activating a generation.
 
 ## Parameters
 
@@ -47,3 +43,7 @@ The immutable diagnostics and runtime-only artifacts produced by the compilation
 **Exception `T:System.UnauthorizedAccessException`:** The filesystem continues denying artifact access after the bounded Core IO wait.
 
 **Exception `T:System.AggregateException`:** Cache replacement and restoration both fail; the exception identifies the preserved previous tree.
+
+## Remarks
+
+Complete cache trees use Core IO atomic publication and replacement. Cancellation before commit preserves the previous tree; cancellation does not undo a committed cache. Cleanup failure after commit preserves the installed tree and remaining backup without activating a generation.

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: source-clr
-sourceFingerprint: 558c8747f6bbaedfbff9625560b8dcd755db87b93679ea57175f6087350b773f
+sourceFingerprint: 573c9ebcff18d952e2e57ce4df2c63d7cae398b4586f9ba28eb57032914978c9
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,4 +18,4 @@ outdated: false
 
 ## Parameters
 
-**Parameter `settingId`:** The setting protocol composed by the attributed type.
+**Parameter `settingID`:** The setting protocol composed by the attributed type.

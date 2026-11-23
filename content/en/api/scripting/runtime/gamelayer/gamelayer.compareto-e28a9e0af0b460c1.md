@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-sourceFingerprint: 479cbf6dcf0a7d761ad7e7f27f3b779d0479518a3e58489da29eb732d586ff04
+sourceFingerprint: 46b39d00400c08157347541d54e9d976739ac2b427dd25729d056d170a7a5b8e
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-A signed value describing the relative index ordering.
-
 ## Parameters
 
 **Parameter `other`:** The value to compare with this instance.
+
+## Returns
+
+A signed value describing the relative index ordering.

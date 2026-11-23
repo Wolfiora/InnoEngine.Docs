@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Execution
 apiSurface: source-clr
-sourceFingerprint: a787afcf532453584e5ac5ea1e7cb3d3856828e6a0811fa94f5ddffdff9fe807
+sourceFingerprint: 925bf4ad806f1307d441a8450c1fe8fedf0c2c454e2480d45f37984811a2d7e1
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,6 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-Only use asynchronous disposal for thread-neutral resources. Control-thread owners must await their work and call synchronous disposal at their own safe point; this method does not marshal to an owner thread.
-
 ## Returns
 
 A task that completes only after work and resource retirement finish.
@@ -27,3 +23,7 @@ A task that completes only after work and resource retirement finish.
 ## Exceptions
 
 **Exception `T:System.AggregateException`:** Cancellation, work or resource retirement fails.
+
+## Remarks
+
+Only use asynchronous disposal for thread-neutral resources. Control-thread owners must await their work and call synchronous disposal at their own safe point; this method does not marshal to an owner thread.

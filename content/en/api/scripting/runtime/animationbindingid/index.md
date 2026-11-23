@@ -1,21 +1,18 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.animation.runtime-script.24c09296858b17d8
-symbol: scripting:Inno.Animation:T:InnoEngine.Animation.AnimationBindingId
-title: AnimationBindingId
+uid: api.97a471f85a2a34c18058f70c7299be9ae9ad0f08c222dc907f5e010399514d0c
+symbol: scripting:Inno.Animation:T:InnoEngine.Animation.AnimationBindingID
+title: AnimationBindingID
 kind: api
 owners:
 - Inno.Animation
 apiSurface: editor-script
-sourceFingerprint: 2cecf5ee831fe0f916311b2d29fa390f50369d933db760e1bc62c6a58e35f936
+sourceFingerprint: 9c6d1a1523f5ffe05dec24b9f04699699df009b2153f8773343f6febd4c2893a
 apiScope: Runtime
-contracts:
-- manual.scripting.use-script-api
-- project.inno-animation#target-and-service-contract
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

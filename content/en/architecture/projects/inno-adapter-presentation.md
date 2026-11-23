@@ -6,8 +6,9 @@ title: Inno.Adapter.Presentation
 kind: project
 owners:
 - Inno.Adapter.Presentation
-sourceFingerprint: 4c1ca964f2a3ac3bf9a58cc08bf7c9badc9594a092ab28f6e90b6d4940b71da4
+sourceFingerprint: a52b304e27766af3745d1020f135ea2ffea36100409928f2134c5d374e6ea396
 contracts: []
+outdatedFor: 6dcc53c46f6612d0825b9bb707cdeaa1e52e43cf8b2857f4127808b98e00ce5a
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

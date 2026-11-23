@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders.ImGui
 apiSurface: source-clr
-sourceFingerprint: 6a72834a27933316506c4ba34305c05f8a6bf80a4ec852ced21ebd042ab7996f
+sourceFingerprint: 178c242d6204cc5730827fd300658ef6a1e96330a7340843a61a37d435b6a1fb
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `ownerId`:** Persistent document identity; no Material is retained under this identity.
+**Parameter `ownerID`:** Persistent document identity; no Material is retained under this identity.
 
 **Parameter `material`:** Invocation-local Material values.
 

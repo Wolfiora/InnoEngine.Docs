@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Shaders.ImGui
 apiSurface: source-clr
-sourceFingerprint: 5792e61b5c7ed21f374157a670fb5023d6c05e1b100b3e6eec881d1c534cae0f
+sourceFingerprint: 4d1c4ee8330fc151cdf1864506a156bee7bc45bfc902ad58eca4974e704eb341
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `definitionId`:** The compiler-independent graph node identity.
+**Parameter `definitionID`:** The compiler-independent graph node identity.
 
 **Parameter `displayName`:** Optional artist-facing name used in node headers and creation menus.
 

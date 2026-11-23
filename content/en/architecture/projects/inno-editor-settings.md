@@ -6,10 +6,11 @@ title: Inno.Editor.Settings
 kind: project
 owners:
 - Inno.Editor.Settings
-sourceFingerprint: 90eab9c069068ddf36ecc463e3b83f0ada3d12ea7dddc492269df024751738c1
+sourceFingerprint: d1c5f0e8aa80aa5934100d0d12c3f92839d343b9b182239165473bb4bd69db77
 contracts:
 - architecture.editor-generations
 - architecture.ownership
+outdatedFor: 94c5d2f9b8328e536347e3f9ac1ae0682265b28d724735091c2ce802fde2560e
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

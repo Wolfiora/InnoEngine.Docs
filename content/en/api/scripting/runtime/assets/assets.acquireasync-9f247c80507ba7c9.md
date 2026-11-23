@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-sourceFingerprint: 1365508de7ad7f4d67253ccef8504a3120885415a04c46b34ba67bf5dc1887e5
+sourceFingerprint: e7754c1b6821ccd2e406872b18108a1ca7d45eb54a4214ce98b67ddfadb06075
 apiScope: Runtime
 contracts: []
 
@@ -23,7 +23,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** Persistent asset identity.
+**Parameter `persistentID`:** Persistent asset identity.
 
 **Parameter `cancellationToken`:** Cancellation for this caller's asynchronous wait.
 

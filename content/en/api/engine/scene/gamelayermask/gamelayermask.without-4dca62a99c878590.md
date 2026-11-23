@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: source-clr
-sourceFingerprint: fce6df6b78f9e2c2c776ca84f0db64c372fcdbdb4f042b7a40597d497c75ca29
+sourceFingerprint: 771c7771836eccd2667ff1fdeacafdaf14c39c72b9be80102eff4b85094a8c33
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-The updated immutable mask.
-
 ## Parameters
 
 **Parameter `layer`:** The layer consumed by without; ownership remains with the caller unless explicitly stated otherwise.
+
+## Returns
+
+The updated immutable mask.

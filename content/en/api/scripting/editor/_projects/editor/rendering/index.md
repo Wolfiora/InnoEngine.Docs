@@ -25,14 +25,14 @@ Find types in this project category. Each type links to its exact declarations a
 | [EditorViewportContributor](../../../editorviewportcontributor/index.md) | Contributes one rendering model while the host owns viewport composition, targets, and presentation. |
 | [EditorViewportContributorExtensionAttribute](../../../editorviewportcontributorextensionattribute/index.md) | Marks a reloadable rendering-model contributor for one Editor viewport purpose. |
 | [EditorViewportFocusBounds](../../../editorviewportfocusbounds/index.md) | Describes a world-space sphere that can be framed by host navigation. |
-| [EditorViewportKindId](../../../editorviewportkindid/index.md) | Identifies one open Editor viewport purpose without prescribing rendering semantics. |
+| [EditorViewportKindID](../../../editorviewportkindid/index.md) | Identifies one open Editor viewport purpose without prescribing rendering semantics. |
 | [EditorViewportLayer](../../../editorviewportlayer/index.md) | Describes one model-neutral layer in an Editor viewport composition. |
 | [EditorViewportManipulationPlane](../../../editorviewportmanipulationplane/index.md) | Selects whether transform handles use all axes or a contributor-declared planar orientation. |
 | [EditorViewportManipulationSpace](../../../editorviewportmanipulationspace/index.md) | Describes the exact backend-neutral view and projection used to draw a viewport so host tools can manipulate selected scene transforms without knowing the controller&#39;s camera model. |
 | [EditorViewportNavigationCapabilities](../../../editorviewportnavigationcapabilities/index.md) | Declares navigation operations supported by one viewport interaction controller. |
 | [EditorViewportNavigationMode](../../../editorviewportnavigationmode/index.md) | Identifies the active interaction model without prescribing a rendering camera type. |
 | [EditorViewportNavigationProfile](../../../editorviewportnavigationprofile/index.md) | Describes how the host may navigate one provider-owned viewport without exposing the provider&#39;s camera model. |
-| [EditorViewportNavigationProfileId](../../../editorviewportnavigationprofileid/index.md) | Identifies a provider-defined navigation profile across reload generations. |
+| [EditorViewportNavigationProfileID](../../../editorviewportnavigationprofileid/index.md) | Identifies a provider-defined navigation profile across reload generations. |
 | [EditorViewportNavigationState](../../../editorviewportnavigationstate/index.md) | Stores rendering-model-neutral navigation state for one Editor viewport across provider reloads. |
 | [EditorViewportPointerContext](../../../editorviewportpointercontext/index.md) | Supplies normalized pointer interaction over one rendered viewport. |
 | [EditorViewportPresentation](../../../editorviewportpresentation/index.md) | Describes host-selected presentation preferences without prescribing rendering behavior. |

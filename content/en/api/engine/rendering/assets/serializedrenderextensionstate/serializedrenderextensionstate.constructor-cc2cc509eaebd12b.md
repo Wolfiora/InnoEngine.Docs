@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Assets
 apiSurface: source-clr
-sourceFingerprint: 714277f02a055f5a2a5749d40a951de584d8d6a87d889cdefff1cc335395c2d8
+sourceFingerprint: 74a712879ab1690984be9a2e605f3974cfbdf9866615f9385efb5164c27ce457
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,6 +18,6 @@ outdated: false
 
 ## Parameters
 
-**Parameter `stableTypeId`:** Stable type identity, or empty when the extension has no typed settings.
+**Parameter `stableTypeID`:** Stable type identity, or empty when the extension has no typed settings.
 
 **Parameter `propertyData`:** Neutral native property bytes produced by asset serialization. Use the snapshot constructor when settings reference assets.

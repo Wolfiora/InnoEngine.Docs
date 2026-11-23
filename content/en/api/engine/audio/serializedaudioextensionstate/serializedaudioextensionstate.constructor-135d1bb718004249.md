@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Audio
 apiSurface: source-clr
-sourceFingerprint: bca43ca1c46e3b26e0ec9034edbc9fb85f39ec7fc36dcecfc392d2f20a8b6987
+sourceFingerprint: 4acf24c81f16218bb9213ca24c6b942449f583efa6cb3b9c0a8cc9f6e035f087
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,6 +18,6 @@ outdated: false
 
 ## Parameters
 
-**Parameter `stableTypeId`:** Stable settings type identity, or empty when no typed settings exist.
+**Parameter `stableTypeID`:** Stable settings type identity, or empty when no typed settings exist.
 
 **Parameter `propertyData`:** Neutral serialized property bytes.

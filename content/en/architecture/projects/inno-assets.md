@@ -6,8 +6,9 @@ title: Inno.Assets
 kind: project
 owners:
 - Inno.Assets
-sourceFingerprint: 36259ecab76068e0c80d94c9e9c0fc4004ec2468c126e8be4784c7df2305b123
+sourceFingerprint: 037c0ca83a817eb1d04893cd538c1ed07c08645b02e0f4bfeaa9dbfc601fced6
 contracts: []
+outdatedFor: 8b35b570c731d53f5297c9ef3e9d0008d823945f542ec0ca8377b7e046642187
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

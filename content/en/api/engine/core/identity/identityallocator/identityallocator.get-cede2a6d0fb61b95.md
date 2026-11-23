@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Identity
 apiSurface: source-clr
-sourceFingerprint: 75ff406da758963d7d2277948d9016cf3c56b7278575e4b43abf5dd20d2f0000
+sourceFingerprint: 4a8fe95e94f1dd305d3e181ed1254ff855d06082fffb782037297c64a894a259
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,7 +22,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** The non-empty persistent identity to resolve.
+**Parameter `persistentID`:** The non-empty persistent identity to resolve.
 
 ## Returns
 

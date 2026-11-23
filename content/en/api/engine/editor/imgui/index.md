@@ -23,9 +23,9 @@ Find types in this project category. Each type links to its exact declarations a
 | [EditorMenuRenderer](editormenurenderer/index.md) | Renders immutable editor menu models through ImGui. |
 | [EditorPalette](editorpalette/index.md) | Defines the complete editor color palette in one theme surface. |
 | [EditorStyleMetrics](editorstylemetrics/index.md) | Defines reusable layout metrics and separates owned frame values from requested style changes. |
-| [EditorUiInput](editoruiinput/index.md) | Copies frame input facts used by presentation without exposing native input storage. |
-| [EditorUiLayout](editoruilayout/index.md) | Copies the presentation metrics needed by custom layouts without retaining native style memory. |
-| [EditorUiSession](editoruisession/index.md) | Owns editor controls and transient presentation state for one host, independently from other ImGui contexts. |
+| [EditorUIInput](editoruiinput/index.md) | Copies frame input facts used by presentation without exposing native input storage. |
+| [EditorUILayout](editoruilayout/index.md) | Copies the presentation metrics needed by custom layouts without retaining native style memory. |
+| [EditorUISession](editoruisession/index.md) | Owns editor controls and transient presentation state for one host, independently from other ImGui contexts. |
 | [ImGui](imgui/index.md) | Provides pointer-free controls within the active Editor UI session. |
 | [ImGuiButtonFlags](imguibuttonflags/index.md) | Defines the supported button flags choices at the Editor presentation boundary. |
 | [ImGuiChildFlags](imguichildflags/index.md) | Defines the supported child flags choices at the Editor presentation boundary. |

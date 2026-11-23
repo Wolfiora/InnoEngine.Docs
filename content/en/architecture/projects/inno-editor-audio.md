@@ -6,8 +6,9 @@ title: Inno.Editor.Audio
 kind: project
 owners:
 - Inno.Editor.Audio
-sourceFingerprint: e787922106d90f65b0c83b4b8f5b591ec36c713237de76f4e32686429e4fea74
+sourceFingerprint: 73572fc85253480b61ee486fb336acd89e0cba06b00695dc5c9cfb6f7304fdc6
 contracts: []
+outdatedFor: b415d60ab5067b0c74c4eacb95fe29e0c39cbc7ab1b5a1a243bdd443eb26ef56
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.References
 apiSurface: source-clr
-sourceFingerprint: 50f722309772ccfbf2fb519c0d8c9c66f3cb0177846568641bf42295b2578dc7
+sourceFingerprint: b6ec4f1d8efd33c15eef12376730560c78dd0b62c0de8baf6dceb4953fcdefbe
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `descriptor`:** The descriptor whose `P:Inno.References.ReferenceDescriptor.kindId` matches this resolver.
+**Parameter `descriptor`:** The descriptor whose `P:Inno.References.ReferenceDescriptor.kindID` matches this resolver.
 
 ## Returns
 

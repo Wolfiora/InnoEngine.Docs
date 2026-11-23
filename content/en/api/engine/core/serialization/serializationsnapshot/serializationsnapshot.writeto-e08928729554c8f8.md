@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Serialization
 apiSurface: source-clr
-sourceFingerprint: 32b17f27fa24883c13b0fdb1bea9e78642784a1db7fdc0e5ccee724daa07b1f4
+sourceFingerprint: fcdea0c3d5435c3e74c0d1228f37536683a09efaba444c0510b4a0f720f3d4b7
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -20,10 +20,6 @@ outdated: false
 
 **Parameter `destination`:** The writable caller-owned stream, which remains open.
 
-## Remarks
-
-Immutable keyed objects may retain canonical encoded blocks of at most 64 KiB each. Larger objects remain streamed, and cached bytes never contain source objects or generation references.
-
 ## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** The destination is null.
@@ -31,3 +27,7 @@ Immutable keyed objects may retain canonical encoded blocks of at most 64 KiB ea
 **Exception `T:System.ArgumentException`:** The destination cannot be written.
 
 **Exception `T:System.IO.IOException`:** The destination rejects a write; its partial bytes remain the caller's responsibility.
+
+## Remarks
+
+Immutable keyed objects may retain canonical encoded blocks of at most 64 KiB each. Larger objects remain streamed, and cached bytes never contain source objects or generation references.

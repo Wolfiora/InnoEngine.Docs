@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-sourceFingerprint: 4a05f5c7fea5d8df4013b9ba8b347025e722927eb915c75dce36fba2815c3c57
+sourceFingerprint: 717e34ca881bd070bbbf58f52c5798e7e3e242c1840cf9664cc37e36d1fbff49
 contracts:
 - project.inno-rendering-shaders
 
@@ -26,6 +26,6 @@ aliases: []
 
 **Parameter `message`:** Human-readable explanation.
 
-**Parameter `nodeId`:** Affected node identity when known.
+**Parameter `nodeID`:** Affected node identity when known.
 
-**Parameter `portId`:** Affected semantic port when known.
+**Parameter `portID`:** Affected semantic port when known.

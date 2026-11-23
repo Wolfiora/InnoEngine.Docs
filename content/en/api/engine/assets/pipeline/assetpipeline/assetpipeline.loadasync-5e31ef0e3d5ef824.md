@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-sourceFingerprint: 0333cd421f68ceb83da46a4d90dc63760a4e8644e20d31aaff600554df57d382
+sourceFingerprint: f6e0f73ef610e8b217ef72490a1b0d58a41c6405b7ba0717523d7c8c9acaafe0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -22,7 +22,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `persistentId`:** The persistent asset identity.
+**Parameter `persistentID`:** The persistent asset identity.
 
 **Parameter `cancellationToken`:** Cancellation for the current caller's wait.
 

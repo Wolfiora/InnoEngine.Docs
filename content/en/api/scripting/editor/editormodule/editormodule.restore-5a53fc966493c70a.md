@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-sourceFingerprint: f0ec5a627c3804e6316785c6f6b5ca98918205677768d37487d9fc5bb14c9811
+sourceFingerprint: 99bb94fdc909b99de9299ec095a5190ac267fd138bb44ad6e3afd2f236716a3b
 apiScope: Editor
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-This method is called only when `M:InnoEditor.Core.EditorModule.Capture(InnoEditor.Core.EditorState)` is overridden. It runs once after the module is started and before the module is allowed to capture replacement state.
-
 ## Parameters
 
 **Parameter `state`:** The read-only state parameter for this module. Missing or incompatible values return the fallback supplied to ```M:InnoEditor.Core.EditorState.Get``1(System.String,``0)```.
+
+## Remarks
+
+This method is called only when `M:InnoEditor.Core.EditorModule.Capture(InnoEditor.Core.EditorState)` is overridden. It runs once after the module is started and before the module is allowed to capture replacement state.

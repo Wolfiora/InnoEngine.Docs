@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Collections
 apiSurface: source-clr
-sourceFingerprint: 5fb7a52bba7c14d8945004d0dbf619dafda6d0b3cb7f5428b7853374025a0abb
+sourceFingerprint: 39b6f18ef2a48077a702b45e19d0c2199d9dd7cecf800de4d2222698ecbb8401
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -16,10 +16,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-The validated hash sett? that represents the completed operation.
-
 ## Parameters
 
 **Parameter `store`:** The store consumed by get set; ownership remains with the caller unless explicitly stated otherwise.
+
+## Returns
+
+The validated hash sett? that represents the completed operation.

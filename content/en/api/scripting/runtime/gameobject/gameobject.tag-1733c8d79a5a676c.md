@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scene
 apiSurface: editor-script
-sourceFingerprint: 6993609fa18c6070ce6d6ef2bde6d776b3c8ab83820d6b9d7674ee89107858a3
+sourceFingerprint: dee169f1c264f975ea5ef3c1d805247b4d2f86ba55bdf027947cf4a3c2851219
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-Tag definitions are project configuration stored separately from scene data. Scene and prefab serialization persist the assigned ordinal value even when its current project definition is absent.
-
 ## Exceptions
 
 **Exception `T:System.ArgumentException`:** Thrown when the assigned tag is empty or contains only white-space characters.
+
+## Remarks
+
+Tag definitions are project configuration stored separately from scene data. Scene and prefab serialization persist the assigned ordinal value even when its current project definition is absent.

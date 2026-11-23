@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering
 apiSurface: editor-script
-sourceFingerprint: b39fa04f146502a217a36cdb34f7f32d8479448af1ccdbbf320a28c09cb236e1
+sourceFingerprint: b70c93fb9d6b2ff75d638aa7e50a4d13620bd66d1e94efd0f136ca91f89ebbae
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-`true` when both values represent the same logical state; otherwise, `false`.
-
 ## Parameters
 
 **Parameter `obj`:** The object to compare with this instance.
+
+## Returns
+
+`true` when both values represent the same logical state; otherwise, `false`.

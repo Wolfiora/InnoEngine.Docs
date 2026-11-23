@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Settings
 apiSurface: source-clr
-sourceFingerprint: 95e4f304ab12ad539d445bcaf9bf67fecece06f5e132de1478fbc6bf406d679b
+sourceFingerprint: 34c41289b0b0fc66c2c9a4eaed71a6fe6147d037faaa13835fbd17aba848ad7c
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,8 +18,8 @@ outdated: false
 
 ## Parameters
 
-**Parameter `ownerId`:** The stable owner whose data would be replaced.
+**Parameter `ownerID`:** The stable owner whose data would be replaced.
 
 ## Returns
 
-`true` for project data, or when the Plugin both depends on and explicitly overrides `ownerId`.
+`true` for project data, or when the Plugin both depends on and explicitly overrides `ownerID`.

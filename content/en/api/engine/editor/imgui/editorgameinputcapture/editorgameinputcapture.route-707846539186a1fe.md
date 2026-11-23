@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.ImGui
 apiSurface: source-clr
-sourceFingerprint: 091600edcea8115164fe23095b0e706260a9a37322ae206b08ea04fe649105be
+sourceFingerprint: 049b209bb35b521f5f3ef2ffadf3f4b26cb405ea9e7b510e1d03041585340a7a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -24,10 +24,10 @@ outdated: false
 
 A routed event or a synthetic focus reset, or null when the Game View must not receive input.
 
-## Remarks
-
-A globally consumed key, button, focus or close release is not replayed to the game. It returns a new focus-reset event so previously held input is released before simulation. Consumed pointer movement still updates hit-test bounds without reaching the game backend.
-
 ## Exceptions
 
 **Exception `T:System.ArgumentNullException`:** Thrown when the event is null.
+
+## Remarks
+
+A globally consumed key, button, focus or close release is not replayed to the game. It returns a new focus-reset event so previously held input is released before simulation. Consumed pointer movement still updates hit-test bounds without reaching the game backend.

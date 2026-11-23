@@ -6,8 +6,9 @@ title: Inno.Editor.Assets
 kind: project
 owners:
 - Inno.Editor.Assets
-sourceFingerprint: e9841c0b321e99bed626f50e3a46a18756a2685293662420760945fea38089cd
+sourceFingerprint: 207e5f157f946bc8e2dccac98bbc785382a6835c384f109e93e50795fa277e8f
 contracts: []
+outdatedFor: 8d5dbe6cb8c441282e64c262fe88abc6f8eda6073832d7cb28a90b080f84a7b1
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

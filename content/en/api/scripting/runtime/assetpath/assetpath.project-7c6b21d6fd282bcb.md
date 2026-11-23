@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets
 apiSurface: editor-script
-sourceFingerprint: d64464639e457a5a826084bad903af6603647126be11e3fd1763c84de0841a55
+sourceFingerprint: 3a5f394471311593d32b6aafb6d4cd7b81e9618c9bcea64e1e2889cad70c077d
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Returns
-
-A project-owned asset path.
-
 ## Parameters
 
 **Parameter `localPath`:** The local path text validated by the project operation.
+
+## Returns
+
+A project-owned asset path.

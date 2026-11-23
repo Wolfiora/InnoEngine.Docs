@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: editor-script
-sourceFingerprint: b010df85ec961f822f801f4fd92b9b26fe5da299d80172f00b390c4c36a66b59
+sourceFingerprint: 5d6ff914ed7e87fe31eac69193432ebbf7effcce0bf31fe2743d661dc3c4cca7
 apiScope: Editor
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-This includes failed attachment compensation. Retain unfinished resources when throwing RetirementPendingException and avoid repeating completed cleanup steps on the next attempt.
-
 ## Parameters
 
 **Parameter `context`:** The shared editor context for the runtime being detached.
+
+## Remarks
+
+This includes failed attachment compensation. Retain unfinished resources when throwing RetirementPendingException and avoid repeating completed cleanup steps on the next attempt.

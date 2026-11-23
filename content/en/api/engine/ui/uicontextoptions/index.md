@@ -1,19 +1,17 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.inno.ui.78676f2e0ae8a192
-symbol: engine:Inno.UI:T:Inno.UI.UiContextOptions
-title: UiContextOptions
+uid: api.a567d4fd97347cb01ca7ef4ab9c8046e77a66072a5ee956d86c1ae7be26ef165
+symbol: engine:Inno.UI:T:Inno.UI.UIContextOptions
+title: UIContextOptions
 kind: api
 owners:
 - Inno.UI
 apiSurface: source-clr
-sourceFingerprint: a3bcc1106e9c94f11840e357237c13a7b19d61165ac69eeca2810d272df7fcd3
-contracts:
-- project.inno-ui#document-and-frame-contract
+sourceFingerprint: a72b739eb5e1c5d49e5e91b47038e777c6fbce53d75fc9597fc7252ea5b788ed
+contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: xml
 description: null
 outdated: false
-aliases: []
 ---

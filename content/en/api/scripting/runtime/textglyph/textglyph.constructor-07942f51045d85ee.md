@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Text
 apiSurface: editor-script
-sourceFingerprint: 7158ea0d4eb1d357cf29e2c70cb821d480b2e9a9fc994398e1ef1da9196baa77
+sourceFingerprint: db7cfe91d6cde2640de47b91367ccc182e7810c094381f5be43790350d47a04c
 apiScope: Runtime
 contracts: []
 
@@ -19,7 +19,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `glyphId`:** The glyph identifier in the font face that produced this layout.
+**Parameter `glyphID`:** The glyph identifier in the font face that produced this layout.
 
 **Parameter `cluster`:** The source cluster index reported by the backend. The FreeType/HarfBuzz backend reports a UTF-8 byte offset, not a UTF-16 character index.
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Core
 apiSurface: source-clr
-sourceFingerprint: e088186c404d6642f5574dd08dcbbea130b6bad35769201715d8709968e22310
+sourceFingerprint: 9d85dec49168069a2ac40be6f026c35057698250dcca2e6fdc1c291f9ced5657
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -15,10 +15,6 @@ source: xml
 description: null
 outdated: false
 ---
-
-## Remarks
-
-Also compensates partial attachment. Completed detachment is idempotent; a pending panel cannot draw.
 
 ## Parameters
 
@@ -29,3 +25,7 @@ Also compensates partial attachment. Completed detachment is idempotent; a pendi
 **Exception `T:System.ArgumentNullException`:** Thrown when `context` is `null`.
 
 **Exception `T:Inno.Core.Execution.RetirementPendingException`:** Panel work is still active. The owner must retain the panel and its dependencies and retry detachment.
+
+## Remarks
+
+Also compensates partial attachment. Completed detachment is idempotent; a pending panel cannot draw.

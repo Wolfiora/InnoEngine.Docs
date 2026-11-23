@@ -6,8 +6,9 @@ title: Inno.Core.Mathematics
 kind: project
 owners:
 - Inno.Core.Mathematics
-sourceFingerprint: 6e8bd315a70dfca0e2a98f06177d2ba07480c6aa7b02d15e4c59ffed74c42e9f
+sourceFingerprint: 0347b7d400e5b89f85a5adc2cf989f603b8976b9d9c807e564fe730b5ab9f232
 contracts: []
+outdatedFor: 4e22e9a22323ee4d7935e3a4f6a8068b59305bea6559b58e173edaaeb7a3565e
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

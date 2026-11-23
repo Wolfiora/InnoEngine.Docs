@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build
 apiSurface: source-clr
-sourceFingerprint: b7d5299592913742cda8ffddc35c30ac4f2add6205ad04b1b056fc0f9c40f8ef
+sourceFingerprint: f41553eef710b14935dfaf3dd28a059cafad98b4dea835cb804ad9a084b8e861
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -15,10 +15,6 @@ source: xml
 description: null
 outdated: false
 ---
-
-## Remarks
-
-Prepare current packs with EnsurePlayerSupportPackAsync before invoking this method on the authoring owner's thread. The synchronous snapshot phase never waits for asynchronous provisioning. Coordinate readers and writers of the output directory during its two installation moves. Post-commit backup, staging and progress observer failures are warnings on the successful result.
 
 ## Parameters
 
@@ -43,3 +39,7 @@ The durable output identity and deployment metrics.
 **Exception `T:System.IO.IOException`:** Output installation fails before a complete candidate is committed.
 
 **Exception `T:System.AggregateException`:** Output installation and restoration both fail; the previous tree remains at the reported backup path.
+
+## Remarks
+
+Prepare current packs with EnsurePlayerSupportPackAsync before invoking this method on the authoring owner's thread. The synchronous snapshot phase never waits for asynchronous provisioning. Coordinate readers and writers of the output directory during its two installation moves. Post-commit backup, staging and progress observer failures are warnings on the successful result.

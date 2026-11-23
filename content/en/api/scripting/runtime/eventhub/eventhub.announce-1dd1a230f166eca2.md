@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Events
 apiSurface: editor-script
-sourceFingerprint: 4dca9b9837b4b60a2395f4cc91732613b1222e8aa3e7567d2b437d0284fc04e9
+sourceFingerprint: df7f6c689a657c7900c3fcaa1bc0850da1a77a328c24c4a90b4f458118d0629b
 apiScope: Runtime
 contracts: []
 
@@ -17,10 +17,10 @@ description: null
 outdated: false
 ---
 
-## Remarks
-
-This does not route through the dispatcher hub chain. Only listeners registered on this hub are invoked.
-
 ## Parameters
 
 **Parameter `e`:** The event instance to dispatch locally.
+
+## Remarks
+
+This does not route through the dispatcher hub chain. Only listeners registered on this hub are invoked.

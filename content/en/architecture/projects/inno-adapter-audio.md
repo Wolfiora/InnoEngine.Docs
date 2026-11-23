@@ -6,8 +6,9 @@ title: Inno.Adapter.Audio
 kind: project
 owners:
 - Inno.Adapter.Audio
-sourceFingerprint: 7bbb24ea77919492b1d7663b688b2565bc5ab7ed0b968e2d3c3203839fca1072
+sourceFingerprint: eade5e44c2dbd57cd5d39acffcd017410642fb25ba7b093d89fcdb16dfa881ee
 contracts: []
+outdatedFor: d0c2f84a247fbb710cae39b055ce8d40e2a59d48101e903426816ab08f11fad2
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: InnoEngine contributors

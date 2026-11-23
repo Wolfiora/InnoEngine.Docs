@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Rendering
 apiSurface: source-clr
-sourceFingerprint: 45c6547ddeacd852382055927e61893e8d13448d7acd251311186cf9e585937f
+sourceFingerprint: ac069ac6bf3619c0b066aceb33188cf74e9904d1bff78aea2abc3a71cd74bf2b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
@@ -18,7 +18,7 @@ outdated: false
 
 ## Parameters
 
-**Parameter `viewportId`:** The Scene viewport identity.
+**Parameter `viewportID`:** The Scene viewport identity.
 
 **Parameter `pixelWidth`:** The viewport width.
 

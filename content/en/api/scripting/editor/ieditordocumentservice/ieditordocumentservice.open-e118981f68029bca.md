@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Editor.Interactions
 apiSurface: editor-script
-sourceFingerprint: 148b4a84bfa6d2ffef994ef1ea23c7de1aebdbdfb989aba7391a7ea066b0989a
+sourceFingerprint: a2a8f9186b3b58e2c0052c584a0bb459a03dd973b0fe7d5b2f8ac7c43a155432
 apiScope: Editor
 contracts: []
 
@@ -21,7 +21,7 @@ outdated: false
 
 **Parameter `assetPath`:** Project asset path.
 
-**Parameter `assetId`:** Persistent asset identity when available.
+**Parameter `assetID`:** Persistent asset identity when available.
 
 ## Returns
 
