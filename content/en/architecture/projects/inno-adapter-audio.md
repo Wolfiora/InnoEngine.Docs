@@ -22,7 +22,7 @@ This project selects backend-neutral audio devices from explicit provider regist
 
 ## Select a backend
 
-Host composition supplies `AudioBackendProvider` instances to an immutable `AudioBackendCatalog`. `AudioBackendId` is an open, ordinal identity; it must be assigned and contain no whitespace. The built-in MiniAudio identity names a registration, not a request to scan the process for an implementation.
+Host composition supplies `AudioBackendProvider` instances to an immutable `AudioBackendCatalog`. `AudioBackendID` is an open, ordinal identity; it must be assigned and contain no whitespace. The built-in MiniAudio identity names a registration, not a request to scan the process for an implementation.
 
 Validate the product's adapter selection before creating services. `CreateDevice` receives a selected backend and `AudioBackendOptions`. The `noDevice` option supports explicitly hardwareless operation and tests; it is not evidence that a physical output device worked.
 

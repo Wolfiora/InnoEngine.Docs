@@ -28,7 +28,7 @@ Cancellation is not permission to destroy resources still required by accepted w
 Follow [the shared validation workflow](../../validate-change.md). A focused diagnostic is:
 
 ```powershell
-dotnet test tests/storage/Inno.Storage.Tests/Inno.Storage.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/services/storage/Inno.Storage.Tests/Inno.Storage.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 Drain accepted operations before removing fixture-owned directories. Test methods are infrastructure, not product or script exports.

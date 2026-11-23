@@ -58,7 +58,7 @@ public sealed class ViewportExtentContributor : EditorViewportContributor
     public override EditorViewportContribution Build(EditorViewportContext context)
     {
         var data = new RenderFrameData();
-        data.Set(new RenderDataChannelId("sample.viewport-extent"),
+        data.Set(new RenderDataChannelID("sample.viewport-extent"),
             new ViewportExtent(context.pixelWidth, context.pixelHeight));
         return new EditorViewportContribution(data);
     }

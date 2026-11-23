@@ -11,7 +11,7 @@ contracts:
 ---
 # Build consistent Editor controls
 
-Use `EditorUiSession.current.widgets` and the pointer-free ImGui facade inside an active Panel, Modal or Drawer callback. These provide reusable presentation primitives, not Scene, Selection or business-state ownership. Script callers use the explicitly projected logical API, not native pointers, userdata or backend texture IDs.
+Use `EditorUISession.current.widgets` and the pointer-free ImGui facade inside an active Panel, Modal or Drawer callback. These provide reusable presentation primitives, not Scene, Selection or business-state ownership. Script callers use the explicitly projected logical API, not native pointers, userdata or backend texture IDs.
 
 ## Respect the synchronous UI scope
 

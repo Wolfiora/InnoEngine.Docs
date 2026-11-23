@@ -21,7 +21,7 @@ The project declares the `contract` validation layer. Use [the shared validation
 A focused diagnostic from the engine root is:
 
 ```powershell
-dotnet test tests/references/Inno.References.Tests/Inno.References.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/content/references/Inno.References.Tests/Inno.References.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 Use `--filter FullyQualifiedName~MethodName` to investigate one case. A filtered run does not replace the obligations in the validation plan. Restore the declared SDK, packages and any tool/process prerequisites before executing; preserve cancellation, thread and cleanup requirements.
@@ -42,9 +42,9 @@ These representative methods are preserved from the original reference and check
 
 [Read the assertions](https://github.com/Wolfiora/InnoEngine/blob/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/tests/references/Inno.References.Tests/ReferenceCatalogTests.cs). Representative entry points:
 
-- `Resolve_PreservesUnassignedAndMissingIntent`
-- `Create_RejectsDuplicateReferenceKinds`
-- `RecoveryTransaction_RollsBackAppliedParticipantsInReverseOrder`
+- `ResolvePreservesUnassignedAndMissingIntent`
+- `CreateRejectsDuplicateReferenceKinds`
+- `RecoveryTransactionRollsBackAppliedParticipantsInReverseOrder`
 - `RecoveryResolvesOnlyAfterObjectsExistAndRetainsNeutralResultsAfterCommit`
 
 ### Reference Recovery

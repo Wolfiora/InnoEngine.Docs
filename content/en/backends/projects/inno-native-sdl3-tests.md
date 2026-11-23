@@ -14,7 +14,7 @@ owners:
 
 `NativeDllLoaderTests` verifies that an explicit owner can load the same library more than once and that invalid input fails before resolver publication. `Sdl3InitTests` checks that generated imports own their ABI without runtime marshalling and that SDL initialization and shutdown succeed.
 
-These checks do not replace [window and surface lifetime tests](inno-adapter-platform-sdl3-tests.md), which require their own real platform host and execution thread.
+These checks do not replace [window and surface lifetime tests](../../contributing/testing/projects/inno-adapter-platform-sdl3-native-tests.md), which require their own real platform host and execution thread.
 
 ## Prepare and run
 

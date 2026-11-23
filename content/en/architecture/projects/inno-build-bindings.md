@@ -97,7 +97,7 @@ public static class HostExample2
             .WithBindingGenerator(new NativeBindingGenerator(profile));
         using NativeBindingGenerationResult generations =
             await NativeBindingPreparation.PrepareAsync(
-                operation, components, cancellationToken);
+                operation, components, cancellationToken: cancellationToken);
         foreach (NativeBindingGenerationDescriptor generation in generations.Values)
             System.Console.WriteLine(generation.bindingsPath);
     }

@@ -13,8 +13,8 @@ owners:
 ## Behavior covered
 
 - `ExplicitManagedLayoutsMatchNativeHeaders` checks the explicitly declared managed layouts against the native header contracts.
-- `CreateAndDestroyContext_ShouldSucceed` exercises an actual native context lifetime.
-- `TextDisabled_UsesTheLoadedCimguiSymbol` verifies dispatch through the loaded native symbol.
+- `CreateAndDestroyContextShouldSucceed` exercises an actual native context lifetime.
+- `TextDisabledUsesTheLoadedCimguiSymbol` verifies dispatch through the loaded native symbol.
 
 ## Required product and execution
 

@@ -18,7 +18,7 @@ outdated: false
 ---
 # Inno.UI.Runtime
 
-`UiRuntime` connects the neutral UI contract to one selected backend and an asset artifact lookup. `UiRuntimeFactory` creates a new instance for each runtime session. Product composition supplies the actual backend and its prerequisites.
+`UIRuntime` connects the neutral UI contract to one selected backend and an asset artifact lookup. `UIRuntimeFactory` creates a new instance for each runtime session. Product composition supplies the actual backend and its prerequisites.
 
 ## Session and font ownership
 
@@ -30,7 +30,7 @@ Closing a document or destroying its context releases corresponding font referen
 
 ## Input and presentation
 
-The implicit update overload uses captured input without converting whole-window coordinates to an embedded viewport. Use the explicit `UiInputSnapshot` overload when the host must map input. The runtime returns backend-produced events and frames; a separate rendering integration owns GPU submission and retirement.
+The implicit update overload uses captured input without converting whole-window coordinates to an embedded viewport. Use the explicit `UIInputSnapshot` overload when the host must map input. The runtime returns backend-produced events and frames; a separate rendering integration owns GPU submission and retirement.
 
 ## Use and extension
 

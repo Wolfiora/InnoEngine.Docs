@@ -79,10 +79,10 @@ SDK subprocess environments are isolated from the parent IDE. Cancellation termi
 
 `verify-native` requires PowerShell 7 and checks the isolated-test entry before generation. It first compares a separate HostSource candidate with the complete committed managed/native generated source. Formal product preparation follows, then ordinary and process-isolated Native tests, including BGCS. Discovery, TRX and execution reports identify the actual operation directory. CLI compilation alone does not certify any product or device.
 
-The CLI command contract tests have a dedicated `Inno.Build.Cli.Tests` owner. Product, pack, Native and task-host tests retain their own requirements. New commands compose existing services; they do not implement compiler logic or directory retirement in argument parsing.
+The CLI command contract tests have a dedicated `Inno.Build.Cli.Integration.Tests` owner. Product, pack, Native and task-host tests retain their own requirements. New commands compose existing services; they do not implement compiler logic or directory retirement in argument parsing.
 
 ## API reference
 
-`BuildApplication.Run` borrows the caller's cancellation token and returns zero for success, one for command/execution failure or two for cancellation. The caller owns Ctrl+C subscription. A null argument array throws before command execution. See the generated type reference for the exact declaration.
+`BuildApplication.RunAsync` borrows the caller's cancellation token and returns zero for success, one for command/execution failure or two for cancellation. The caller owns Ctrl+C subscription. A null argument array throws before command execution. See the generated type reference for the exact declaration.
 
 [Browse CLI types](../../api/engine/build/cli/index.md).

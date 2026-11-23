@@ -73,7 +73,7 @@ public sealed class AuthoringWeightDrawer : IPropertyDrawer
     public void Draw(PropertyDrawContext context)
     {
         float value = context.GetValue() is AuthoringWeight current ? current.value : 0f;
-        if (EditorUiSession.current.widgets.CompactSliderFloat($"##{context.path}", ref value, 0f, 1f))
+        if (EditorUISession.current.widgets.CompactSliderFloat($"##{context.path}", ref value, 0f, 1f))
             context.SetValue(new AuthoringWeight(value));
     }
 }

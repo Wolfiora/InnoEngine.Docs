@@ -22,7 +22,7 @@ This project defines the storage adapter family without choosing filesystem path
 
 ## Registration model
 
-`StorageBackendId` is an open ordinal string identity without whitespace. The default struct is unassigned. Built-in `fileSystem` and `browser` IDs support standard composition; third-party providers do not need a new enum member or a central branch.
+`StorageBackendID` is an open ordinal string identity without whitespace. The default struct is unassigned. Built-in `fileSystem` and `browser` IDs support standard composition; third-party providers do not need a new enum member or a central branch.
 
 `StorageBackendProvider` is an immutable registration descriptor with a protected construction boundary and a `CreateStorage` extension point. It does not scan assemblies. If another extension mechanism discovers source types, that mechanism owns its attributes and discovery protocol.
 

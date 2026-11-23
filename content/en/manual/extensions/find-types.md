@@ -41,7 +41,7 @@ Do not scan all loaded process assemblies to supplement a missing result. A decl
 
 ## Keep logical identity distinct from a live type
 
-`TypeRef.stableId` identifies the logical type. Equality and hashing use that value. `runtimeId` is a nonpersistent resolution hint for a particular CLR declaration; resolution verifies that any runtime hit still matches the stable identity and otherwise uses stable lookup.
+`TypeRef.stableID` identifies the logical type. Equality and hashing use that value. `runtimeID` is a nonpersistent resolution hint for a particular CLR declaration; resolution verifies that any runtime hit still matches the stable identity and otherwise uses stable lookup.
 
 The public constructor accepts a Guid and creates an unresolved reference. Empty Guid/default references are invalid. `IsValid(catalog)` checks current resolvability; it does not pin that result indefinitely. `TryResolve` reports absence, while `Resolve` throws for an unavailable reference.
 

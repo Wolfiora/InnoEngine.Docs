@@ -27,7 +27,7 @@ Unknown ownership of an old generation is reported after the new content commits
 Use [the validation plan](../../contributing/validate-change.md). A focused filesystem diagnostic is:
 
 ```powershell
-dotnet test backends/FileSystem/tests/Inno.Adapter.Content.FileSystem.Tests/Inno.Adapter.Content.FileSystem.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/backends/FileSystem/runtime/Inno.Adapter.Content.FileSystem.Tests/Inno.Adapter.Content.FileSystem.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 The contract suite requires actual filesystem and child-process facilities. Fixtures own their temporary roots and release stream pins before cleanup. A cache pass is not platform packaging or device execution evidence.

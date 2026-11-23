@@ -62,11 +62,11 @@ public static class FrontendExample
 {
     public static ShaderSourceAnalysis Inspect(
         IShaderSourceFrontend frontend,
-        string languageId,
+        string languageID,
         ShaderSourceRequest request
     ) {
         var frontends = new ShaderSourceFrontendCatalog([frontend]);
-        return frontends.Analyze(languageId, request);
+        return frontends.Analyze(languageID, request);
     }
 }
 ```

@@ -30,9 +30,9 @@ Registering a sink avoids duplicate registration. Unregistration and quarantine 
 
 ## Context and surfaces
 
-`LogRouter.EnterScope` supplies the current asynchronous execution flow with a borrowed router; dispose scopes in reverse order. `LogSessionContext.Enter` separately binds a nonempty `LogSessionId`, restoring the previous session on disposal. `none` represents process-level work, not an assigned session.
+`LogRouter.EnterScope` supplies the current asynchronous execution flow with a borrowed router; dispose scopes in reverse order. `LogSessionContext.Enter` separately binds a nonempty `LogSessionID`, restoring the previous session on disposal. `none` represents process-level work, not an assigned session.
 
-`Log` and `LogSessionId` are actual Runtime script exports. Router construction, sinks, delivery policy and host session-context binding are not script exports. `Log` resolves source assembly classification from an explicit caller type; emitted entries retain neutral values rather than that type or assembly. `Logger` provides a host category-bound writer.
+`Log` and `LogSessionID` are actual Runtime script exports. Router construction, sinks, delivery policy and host session-context binding are not script exports. `Log` resolves source assembly classification from an explicit caller type; emitted entries retain neutral values rather than that type or assembly. `Logger` provides a host category-bound writer.
 
 ## Sinks and diagnostics
 

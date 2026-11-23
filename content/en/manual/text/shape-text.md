@@ -42,7 +42,7 @@ public static class CaptionLayout
     ) {
         if (layout.glyphs.Count == 0)
             throw new System.ArgumentException("The layout has no glyphs.", nameof(layout));
-        return Text.Rasterize(font, 0, layout.glyphs[0].glyphId, 24f);
+        return Text.Rasterize(font, 0, layout.glyphs[0].glyphID, 24f);
     }
 }
 ```

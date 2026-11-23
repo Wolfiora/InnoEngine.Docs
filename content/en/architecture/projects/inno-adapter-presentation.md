@@ -27,7 +27,7 @@ Start with [owning windows and surfaces](../../platforms/window-lifetime.md) and
 
 ## Create one owned context
 
-PresentationBackendId is an open, case-sensitive identity; the default struct is unassigned. Composition explicitly supplies the complete provider set. The catalog freezes it, rejects invalid/duplicate/null providers and reports supportedBackends without creating a native context. Unknown IDs fail with NotSupportedException; null products fail with InvalidOperationException.
+PresentationBackendID is an open, case-sensitive identity; the default struct is unassigned. Composition explicitly supplies the complete provider set. The catalog freezes it, rejects invalid/duplicate/null providers and reports supportedBackends without creating a native context. Unknown IDs fail with NotSupportedException; null products fail with InvalidOperationException.
 
 CreateContext returns a caller-owned IPresentationContext. PresentationBackendOptions borrows the platform application, primary window and render device and requests neutral feature flags. It contains no shader compiler or asset source. The context must retire before its shared device and window owners. DefaultAuthoringAdapterCatalog requires an explicit non-null presentationProviders sequence; an empty sequence registers none. It does not silently select ImGui for null input.
 
@@ -35,7 +35,7 @@ CreateContext returns a caller-owned IPresentationContext. PresentationBackendOp
 
 RenderFrame selects its owned context and display metrics, optionally runs synchronous prepareFrame, then invokes the draw callback. A preparation failure prevents drawing and partial publication. A null draw callback or overlapping operation fails explicitly. The context also contributes draw work through the neutral RenderGraph contract.
 
-TryGetWindowId resolves only a live platform window for a presentation viewport. SetLayoutFile(null) disables backend file persistence when the host saves layout text itself. LoadLayout consumes complete text; TryCaptureLayout returns a complete snapshot when dirty or explicitly forced. Host layout persistence remains separate from frame drawing.
+TryGetWindowID resolves only a live platform window for a presentation viewport. SetLayoutFile(null) disables backend file persistence when the host saves layout text itself. LoadLayout consumes complete text; TryCaptureLayout returns a complete snapshot when dirty or explicitly forced. Host layout persistence remains separate from frame drawing.
 
 ## Texture lifetime
 
@@ -52,7 +52,7 @@ using Inno.Adapter.Presentation;
 
 static IPresentationContext CreateOwnedPresentation(
     IPresentationBackendFactory factory,
-    PresentationBackendId selection,
+    PresentationBackendID selection,
     PresentationBackendOptions options
 ) {
     return factory.CreateContext(selection, options);

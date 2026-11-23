@@ -45,7 +45,7 @@ public static class ReferenceInspection
     public static ReferenceResolution Inspect(Guid savedTarget)
     {
         var descriptor = new ReferenceDescriptor(
-            new ReferenceKindId("example.document"),
+            new ReferenceKindID("example.document"),
             savedTarget,
             lastKnownName: "Selected document");
         return ReferenceCatalog.empty.Resolve(descriptor);

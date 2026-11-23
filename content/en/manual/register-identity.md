@@ -39,7 +39,7 @@ internal static class IdentityExample
         {
             RuntimeIdentity address = resource.identity.runtimeIdentity!.Value;
             RuntimeResource? same = identities.Get<RuntimeResource>(address);
-            return same!.identity.persistentId;
+            return same!.identity.persistentID;
         }
         finally
         {

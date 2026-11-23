@@ -8,11 +8,11 @@ owners:
 ---
 # Inno.Adapter.UI.RmlUi
 
-The RmlUi adapter implements `IUiBackend` for RML documents using InnoEngine's native facade. It owns a native session and converts native layout output into the neutral UI frame model. Read [RmlUi backend requirements](../rmlui.md) before constructing it.
+The RmlUi adapter implements `IUIBackend` for RML documents using InnoEngine's native facade. It owns a native session and converts native layout output into the neutral UI frame model. Read [RmlUi backend requirements](../rmlui.md) before constructing it.
 
 ## Native session and transfer contract
 
-Create, use and destroy the backend on the selected native owner thread. The execution scope does not marshal calls. Capabilities explicitly include RML and exclude arbitrary font collection-face selection; nonzero face selection fails with `UiCapabilityUnavailableException`.
+Create, use and destroy the backend on the selected native owner thread. The execution scope does not marshal calls. Capabilities explicitly include RML and exclude arbitrary font collection-face selection; nonzero face selection fails with `UICapabilityUnavailableException`.
 
 Context and document handles must belong to this active backend. Unassigned handles are rejected before native calls; native invalid/stale-handle and operation failures become labeled managed failures. Setter success indicates an applied operation on an existing element, not a value comparison.
 

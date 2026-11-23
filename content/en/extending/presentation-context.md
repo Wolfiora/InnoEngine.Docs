@@ -29,7 +29,7 @@ The caller owns the returned presentation context. Creating it does not transfer
 
 Call `RenderFrame` through the host's normal frame lifecycle. Its optional synchronous preparation runs after selecting the owned context and display metrics and before creating the frame. If preparation fails, drawing does not run and no partial frame is published. Reentering a frame operation fails explicitly.
 
-The context implements the neutral frame-contributor contract. Integrate it into the host's graph; do not create a second rendering loop. Use `TryGetWindowId` to relate a live presentation viewport to a platform window rather than assuming every viewport is the primary window.
+The context implements the neutral frame-contributor contract. Integrate it into the host's graph; do not create a second rendering loop. Use `TryGetWindowID` to relate a live presentation viewport to a platform window rather than assuming every viewport is the primary window.
 
 ## Register images without transferring textures
 

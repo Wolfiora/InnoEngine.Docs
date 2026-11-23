@@ -22,7 +22,7 @@ This project lets composition choose a text backend without changing neutral Tex
 
 ## Provider and ownership contract
 
-`TextBackendId` is an open ordinal string identity without whitespace; its default struct value is unassigned. The built-in `freeTypeHarfBuzz` identity is one registration, not an exhaustive enum of allowed implementations.
+`TextBackendID` is an open ordinal string identity without whitespace; its default struct value is unassigned. The built-in `freeTypeHarfBuzz` identity is one registration, not an exhaustive enum of allowed implementations.
 
 `TextBackendCatalog` captures an explicit provider snapshot and rejects null entries or duplicate IDs. Its supported list is read-only. Creation resolves an exact registered ID, reports an unsupported selection with `NotSupportedException` and rejects a null product with `InvalidOperationException`.
 

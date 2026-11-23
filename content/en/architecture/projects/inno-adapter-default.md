@@ -37,7 +37,7 @@ Factories expose read-only `supportedBackends`. Invalid, duplicate or null provi
 
 Composition owns provider lifetime; the catalog does not dispose providers. Each created service belongs to its caller. Do not retain providers containing generation state in a cross-generation global cache. Validate complete selection before creating native services.
 
-Browser composition injects Browser storage and selects `StorageBackendId.browser`; desktop composition selects its explicit filesystem factory and `StorageBackendId.fileSystem`. Domain APIs and the Player lifecycle remain shared.
+Browser composition injects Browser storage and selects `StorageBackendID.browser`; desktop composition selects its explicit filesystem factory and `StorageBackendID.fileSystem`. Domain APIs and the Player lifecycle remain shared.
 
 This runtime catalog excludes Editor, Presentation, compiler, AssetPipeline and Build toolchain responsibilities.
 
@@ -63,7 +63,7 @@ static IAdapterCatalog Compose(
         rendering = rendering,
         storage = storage
     });
-    AdapterSelection selection = StandardAdapterSelection.Create(StorageBackendId.fileSystem);
+    AdapterSelection selection = StandardAdapterSelection.Create(StorageBackendID.fileSystem);
     selection.Validate(catalog);
     return catalog;
 }

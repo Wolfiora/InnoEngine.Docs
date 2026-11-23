@@ -54,7 +54,7 @@ static RuntimeSession CreateSession(
     return host.CreateSession(new RuntimeSessionOptions
     {
         kind = RuntimeSessionKind.Player,
-        applicationId = "sample.game",
+        applicationID = "sample.game",
         contentStore = content,
         jobExecutionMode = RuntimeJobExecutionMode.SingleThread
     });

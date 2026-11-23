@@ -29,11 +29,11 @@ public static class MusicMixer
     public static AudioMixer Create()
     {
         AudioMixerBuilder builder = new();
-        AudioBusId music = new("music");
-        builder.AddBus(music, AudioBusId.master, volume: 0.8f);
+        AudioBusID music = new("music");
+        builder.AddBus(music, AudioBusID.master, volume: 0.8f);
         builder.AddProcessor(music, new AudioProcessorConfiguration(
-            AudioProcessorId.lowPass,
-            new[] { new AudioProcessorParameter(AudioParameterId.frequency, 12000f) }));
+            AudioProcessorID.lowPass,
+            new[] { new AudioProcessorParameter(AudioParameterID.frequency, 12000f) }));
         return builder.Build();
     }
 }

@@ -39,7 +39,7 @@ SdkScriptCompilationEnvironment captures references and final symbols from the e
 
 ## Settings and identity
 
-BuildTargetId is portable/open; actual support comes from registered immutable GameBuildTargetBinding values. Missing saved targets retain their ID and display Missing instead of being rewritten to the current OS. Settings.Build.inno supplies versioned authoring defaults; absent defaults derive from project name, host target and the first sorted imported deployable scene, excluding ~ sample directories. Only Settings Apply persists them. Each export dialog copies a fresh one-off request.
+BuildTargetID is portable/open; actual support comes from registered immutable GameBuildTargetBinding values. Missing saved targets retain their ID and display Missing instead of being rewritten to the current OS. Settings.Build.inno supplies versioned authoring defaults; absent defaults derive from project name, host target and the first sorted imported deployable scene, excluding ~ sample directories. Only Settings Apply persists them. Each export dialog copies a fresh one-off request.
 
 Game/Plugin identity comes from current Project ID, not a second Build identifier. persistentDataPath is a portable relative Local Application Data subdirectory; empty selects Application ID. Segments allow lowercase letters, digits, dot, underscore and hyphen but reject dot/dot-dot and absolute paths. Only Project settings enter Player runtime, not Editor or Build defaults.
 

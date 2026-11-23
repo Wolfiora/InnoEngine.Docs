@@ -40,7 +40,7 @@ The caller disposes the reload host to remove observations, cancel and drain com
 
 `progress` is an immutable, atomically published `ScriptReloadProgress` snapshot. Queueing, background compilation, candidate application and retirement retain the same operation identity. Delayed callbacks from older work cannot overwrite a newer request's progress.
 
-`CancelCompilation(operationId)` checks that identity under the owner lock and publishes cancellation state before signaling cancellation. `canCancel` reflects the actual compilation stage and resource ownership; do not infer it from a displayed percentage. Cancellation still requires owned work to drain.
+`CancelCompilation(operationID)` checks that identity under the owner lock and publishes cancellation state before signaling cancellation. `canCancel` reflects the actual compilation stage and resource ownership; do not infer it from a displayed percentage. Cancellation still requires owned work to drain.
 
 Progress contains no plugin instance, `Type` or delegate. Observing it does not weaken candidate publication, Missing recovery, GC/finalizer/weak-reference verification or the Faulted gate.
 

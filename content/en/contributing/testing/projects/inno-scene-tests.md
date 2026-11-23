@@ -21,7 +21,7 @@ The project declares the `contract` validation layer. Use [the shared validation
 A focused diagnostic from the engine root is:
 
 ```powershell
-dotnet test tests/scene/Inno.Scene.Tests/Inno.Scene.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/content/scene/Inno.Scene.Tests/Inno.Scene.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 Use `--filter FullyQualifiedName~MethodName` to investigate one case. A filtered run does not replace the obligations in the validation plan. Restore the declared SDK, packages and any tool/process prerequisites before executing; preserve cancellation, thread and cleanup requirements.
@@ -34,19 +34,19 @@ These representative methods are preserved from the original reference and check
 
 [Read the assertions](https://github.com/Wolfiora/InnoEngine/blob/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/tests/scene/Inno.Scene.Tests/EngineAssetIntegrationTests.cs). Representative entry points:
 
-- `SceneAsset_CaptureSaveLoadInstantiate_PreservesCanonicalIdentity`
-- `PrefabAsset_IsSceneIndependentAndRemapsInternalReferences`
-- `LoadedScene_InstantiatesConnectedPrefabsDuringUpdate`
-- `SceneAsset_DirectAssetReferenceUsesCanonicalInstanceAndDependencyMetadata`
+- `SceneAssetCaptureSaveLoadInstantiatePreservesCanonicalIdentity`
+- `PrefabAssetIsSceneIndependentAndRemapsInternalReferences`
+- `LoadedSceneInstantiatesConnectedPrefabsDuringUpdate`
+- `SceneAssetDirectAssetReferenceUsesCanonicalInstanceAndDependencyMetadata`
 
 ### Game Layer
 
 [Read the assertions](https://github.com/Wolfiora/InnoEngine/blob/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/tests/scene/Inno.Scene.Tests/GameLayerTests.cs). Representative entry points:
 
-- `GameLayer_ValidatesSupportedSlotRange`
-- `GameLayerMask_ComposesAndFiltersLayers`
-- `GameLayerCatalog_EnforcesUniqueDefinitionsAndSymmetricInteractions`
-- `ProjectScopedIds_FollowProjectIdentityWithoutRewritingDefinitions`
+- `GameLayerValidatesSupportedSlotRange`
+- `GameLayerMaskComposesAndFiltersLayers`
+- `GameLayerCatalogEnforcesUniqueDefinitionsAndSymmetricInteractions`
+- `ProjectScopedIDsFollowProjectIdentityWithoutRewritingDefinitions`
 
 ### Game System
 
@@ -67,7 +67,7 @@ These representative methods are preserved from the original reference and check
 
 [Read the assertions](https://github.com/Wolfiora/InnoEngine/blob/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/tests/scene/Inno.Scene.Tests/SceneFacadeTests.cs). Representative entry points:
 
-- `CreateObject_StoresDataInSceneStore_AndReturnsFacade`
+- `CreateObjectStoresDataInSceneStoreAndReturnsFacade`
 - `NameAndTagQueriesTrackObjectMetadataChangesInStorageOrder`
 - `OrderedSceneQueriesPreserveCreationOrderAfterDenseStorageRemoval`
 - `TagRejectsEmptyValuesAndTrimsSurroundingWhitespace`
@@ -77,18 +77,18 @@ These representative methods are preserved from the original reference and check
 [Read the assertions](https://github.com/Wolfiora/InnoEngine/blob/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/tests/scene/Inno.Scene.Tests/SceneSerializationTests.cs). Representative entry points:
 
 - `MissingSceneTypeDiagnosticPreservesStableIdentity`
-- `SceneRoundtrip_PreservesHierarchyOrderStateAndDirectReferences`
-- `PrefabInstantiation_RemapsIdentitiesAndIsolatesInternalReferences`
+- `SceneRoundtripPreservesHierarchyOrderStateAndDirectReferences`
+- `PrefabInstantiationRemapsIdentitiesAndIsolatesInternalReferences`
 - `SceneRoundtripPreservesManualComponentAndSystemOrder`
 
 ### Transform
 
 [Read the assertions](https://github.com/Wolfiora/InnoEngine/blob/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/tests/scene/Inno.Scene.Tests/TransformTests.cs). Representative entry points:
 
-- `SetParent_PreservesWorldTransform_AndComputesLocalWithNonUniformScale`
-- `SetParent_WithRotation_PreservesWorldRotation_WithLocalRotationByInverseParent`
-- `SetParent_UnparentPreservesWorldTransform`
-- `SetParent_RejectsSelfAndDescendantCycle`
+- `SetParentPreservesWorldTransformAndComputesLocalWithNonUniformScale`
+- `SetParentWithRotationPreservesWorldRotationWithLocalRotationByInverseParent`
+- `SetParentUnparentPreservesWorldTransform`
+- `SetParentRejectsSelfAndDescendantCycle`
 
 ## Extend safely
 

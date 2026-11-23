@@ -15,7 +15,7 @@ Rendering assets preserve neutral intent: shader declarations, material values a
 
 ## Select the contract you need
 
-A material resolves a technique using an explicit `ShaderContractId`, `ShaderPassRoleId` and actual device capabilities. Choose identities owned by your rendering domain. The resolver does not assume sprite, PBR or a fixed set of pass tags.
+A material resolves a technique using an explicit `ShaderContractID`, `ShaderPassRoleID` and actual device capabilities. Choose identities owned by your rendering domain. The resolver does not assume sprite, PBR or a fixed set of pass tags.
 
 A pipeline asset stores its extension Stable Type ID and neutral configuration. It does not serialize a live Pipeline instance or a GPU handle. Preserve Missing state and stable identities when an extension becomes unavailable.
 
