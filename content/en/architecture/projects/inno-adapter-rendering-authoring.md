@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: 7669fa693c83a80c48c62c3bf6e7382f466b7dea1e5a708258356ecbb241caeb
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Backend-matched shader and texture compiler factories for authoring hosts.
 outdated: false

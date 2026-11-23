@@ -10,7 +10,7 @@ sourceFingerprint: 51613ccc145968d557134c77264975b05048592049254b4dae8b3012934d4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - The Player-safe manifest contract for a local plugin package.
 outdated: false

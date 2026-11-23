@@ -8,10 +8,9 @@ owners:
 - Inno.Rendering.Runtime
 sourceFingerprint: 676c9f046f00e5ae9c88786a3177969239140a1b0774326af6ea9a7a96c6daef
 contracts: []
-outdatedFor: cfa4b9e8d8b41c56ad185089e79ccc3616fc3126e42fcd62619908e5f6be40fa
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Output requests, render-model generations and owned GPU resource caches.
 outdated: false

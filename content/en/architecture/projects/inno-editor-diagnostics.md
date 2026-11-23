@@ -13,7 +13,7 @@ contracts:
 outdatedFor: dec14e329341ced68f2785d420d585b8e97fcf143baeccc1be14fb3ae8439e31
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - The bounded Console backend, immutable occurrences and current diagnostic lifetime.
 outdated: false

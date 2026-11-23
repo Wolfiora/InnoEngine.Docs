@@ -8,10 +8,9 @@ owners:
 - Inno.Editor.Scripting
 sourceFingerprint: 1aec0de1db38231c301b5078951f0eb300073ecd1517529271148754626c601d
 contracts: []
-outdatedFor: ef801a0ed3b7785f4c3421933804a5d688a1db960325ea69395cbdef9f93d127
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Asset-backed script scheduling, request-bound readiness, neutral reload coordination and progress observation.
 outdated: false

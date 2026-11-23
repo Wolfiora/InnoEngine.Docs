@@ -13,7 +13,7 @@ contracts:
 - api.projects.inno-core-identity#lifecycle-and-failure-contracts
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description: null
 outdated: false
 aliases: []

@@ -10,7 +10,7 @@ sourceFingerprint: 270396ef1dbdc216206df8ddb0797cb74c295272c349f721e24078859e1d4
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Font metadata, encoded artifacts, and actual FreeType/HarfBuzz shaping and rasterization.
 outdated: false

@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: bc520ab8393f113450de9eeb8cd70d95ae4f51037f60900a3b7ca42a0e7bc5b7
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Default subsystem composition without a global service locator or duplicated product lists.
 outdated: false

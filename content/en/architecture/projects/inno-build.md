@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: c72a4a1c33cc3e8fdf637cfa368c7d6d3fa782dfe86121fc2cc430e434076247
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Owned Game/Plugin build transactions, content freezing and final platform publication.
 outdated: false

@@ -8,10 +8,9 @@ owners:
 - Inno.Core.Diagnostics
 sourceFingerprint: 7d3fdab952d2887b1f4a97071f1f4a96ea5c7aae1f45a3108046cec6aaba683a
 contracts: []
-outdatedFor: e2b7e78dcea53935130093c340688b3212c3c5b49696584c806a4e46cf559280
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Host-owned current issue state, revocable producers and complete-report presentation.
 outdated: false

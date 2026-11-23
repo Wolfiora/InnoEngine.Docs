@@ -8,10 +8,9 @@ owners:
 - Inno.Extensibility.Reload
 sourceFingerprint: 140a6ed46f12d880c2bd3ac2f0f9d2ae043df68294460186c36acfb1aedf9ccf
 contracts: []
-outdatedFor: 9ec09cf56a17df2831d1ece3a75f77635e7744e346149945ac7bd6ff8fd67a05
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Shared generation admission, ordered domain publication and weak collectible-unload verification.
 outdated: false

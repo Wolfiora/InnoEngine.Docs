@@ -10,7 +10,7 @@ sourceFingerprint: abaece37b3facf1bcfa362018ce7b4189b5f2a8f50704c65cdcfb9aecdcc0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Verify early rejection, explicit SDK selection and managed authoring commands.
 outdated: false

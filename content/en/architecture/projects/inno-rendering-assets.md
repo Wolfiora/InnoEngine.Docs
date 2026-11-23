@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: 71a00c075c3b2ea6cd5a9ea72f1c40c6755e0a15e7741b56739c87cae24c134f
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Persistent neutral shader, material, texture, geometry and pipeline assets.
 outdated: false

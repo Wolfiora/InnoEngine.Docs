@@ -8,10 +8,9 @@ owners:
 - Inno.Core.Events
 sourceFingerprint: b03a1e3a63539709d72e8bc71782297dda98058edf7bfa144d88b68d365de3c8
 contracts: []
-outdatedFor: 706c2d18cc8eb0c338fc63f4fbd01f73cd5c5549c66e577c1aa67893f65030ca
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Ordered event hubs, routed consumption and bounded event admission.
 outdated: false

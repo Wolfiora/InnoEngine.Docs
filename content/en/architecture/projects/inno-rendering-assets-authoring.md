@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: 9f7b5e3a73835d74257edd1caeb9b1fec0b4565e7c032f8189f263741452636c
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Frozen rendering imports, graph editing, target compilation and last-good publication.
 outdated: false

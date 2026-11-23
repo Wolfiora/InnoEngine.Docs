@@ -19,7 +19,7 @@ The Editor treats C# and assembly definitions as authoring assets and builds col
 
 The nearest parent definition selects the assembly. Without one, `.editor.cs` belongs to Inno.EditorScripts and other C# belongs to Inno.GameScripts. Explicit definitions win. Runtime-to-Editor references, cycles, unknown assemblies and reserved-name conflicts fail before candidate publication. Built-in names do not depend on the project directory name.
 
-Attachable type identity derives from the canonical source's persistent ID unless an explicit StableTypeId takes precedence. A matching file/type name is canonical; one uniquely attachable type can retain source identity with a naming warning. Partial declarations share the canonical source. Multiple unmatched attachable types require separate files or explicit IDs and otherwise produce INNO2001. Moving a source is not permission to invent legacy type aliases.
+Attachable type identity derives from the canonical source's persistent ID unless an explicit StableTypeID takes precedence. A matching file/type name is canonical; one uniquely attachable type can retain source identity with a naming warning. Partial declarations share the canonical source. Multiple unmatched attachable types require separate files or explicit IDs and otherwise produce INNO2001. Moving a source is not permission to invent legacy type aliases.
 
 ## Understand project and plugin visibility
 

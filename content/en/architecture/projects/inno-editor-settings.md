@@ -13,7 +13,7 @@ contracts:
 outdatedFor: 94c5d2f9b8328e536347e3f9ac1ae0682265b28d724735091c2ce802fde2560e
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Editor preferences and Project setting drawers share a frontend while preserving separate persistence owners.
 outdated: false

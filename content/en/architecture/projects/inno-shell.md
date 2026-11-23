@@ -10,7 +10,7 @@ sourceFingerprint: 0ff87f3fe59606b71471cea717949c5b67caeca9380671b535c728bd2f257
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - One owner-thread application loop for platform, input, rendering and product retirement.
 outdated: false

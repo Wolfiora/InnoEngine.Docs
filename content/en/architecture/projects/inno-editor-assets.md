@@ -8,10 +8,9 @@ owners:
 - Inno.Editor.Assets
 sourceFingerprint: 207e5f157f946bc8e2dccac98bbc785382a6835c384f109e93e50795fa277e8f
 contracts: []
-outdatedFor: 8d5dbe6cb8c441282e64c262fe88abc6f8eda6073832d7cb28a90b080f84a7b1
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Reusable source asset drafts, creation templates, file edits and operation-scoped sample progress.
 outdated: false

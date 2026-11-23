@@ -10,7 +10,7 @@ sourceFingerprint: da56ed4dfa130ce7184cd5d95fccf55825eefbbbbf4593e0ce4cab4b7377a
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Compiler-owned converters and closed metadata access without runtime reflection fallback.
 outdated: false

@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: 06dec4eaad59302c5b3e091ecd2c37d86176fe7b54d85d59c514336e16d25afa
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Bounded append-only logging, explicit delivery policy, failure quarantine and host-owned sinks.
 outdated: false

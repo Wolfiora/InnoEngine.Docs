@@ -8,10 +8,9 @@ owners:
 - Inno.Editor.Panel.Inspector
 sourceFingerprint: d1902c779a5b2931e489eba78251d81850ca85f26c7cb71e7ad2f4557130a384
 contracts: []
-outdatedFor: 3cc9fa78d0cff4c6d8015ea97f75f098a8e02d991335fa490c801f035d0b9248
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Target inspection, generation-safe locking, scene element operations and typed reference drops.
 outdated: false

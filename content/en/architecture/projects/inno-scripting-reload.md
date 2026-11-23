@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: 343d0a223349a54a125b9507705607f9c26a03212677a29b3e0629287bc0b910
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Compile, prepare, activate and retire one project's complete authoring generation.
 outdated: false

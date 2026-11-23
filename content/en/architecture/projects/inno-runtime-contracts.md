@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: 5fce8c9cdfa729cf2849a5647cffbbdac712b32e63058d3961d9b304e57fc545
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Neutral subsystem lifecycle, finite frame phases and owned retirement protocols.
 outdated: false

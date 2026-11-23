@@ -8,10 +8,9 @@ owners:
 - Inno.Rendering
 sourceFingerprint: 984c545574d3684e008fa7a94ba310536c9f533825f909937ab88bed934db3c0
 contracts: []
-outdatedFor: a3ab26776c2ec51ebff02fbde405b821bf17da124e2b243df36afca3821076ee
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Neutral devices, resources, commands and transactional render graphs.
 outdated: false

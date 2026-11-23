@@ -12,7 +12,7 @@ contracts:
 outdatedFor: 97c1aaf7175701ae7297c0dd75a358e8490e4f40700c1a39457fffd530ff7903
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Persistent object identity and generation-safe lookup within an explicitly owned runtime domain.
 outdated: false

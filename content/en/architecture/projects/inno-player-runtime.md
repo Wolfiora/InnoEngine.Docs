@@ -8,10 +8,9 @@ owners:
 - Inno.Player.Runtime
 sourceFingerprint: db5baccb4aaec4310c9d38fb45849cb9db8978132b037787f4d202d6384c237a
 contracts: []
-outdatedFor: cf5d044ca5cb6ff8cfd02743c9ebe6b2f25e3043d37626d210fd13fcdcd4be0b
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Shared desktop and Browser Player launch, content validation and application lifetime.
 outdated: false

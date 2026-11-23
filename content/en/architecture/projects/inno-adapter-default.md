@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: c6ce21e51c8765322b978ee1b0484d89386ff0a6eced7ef2d0320ddbf1a53fba
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Standard runtime provider snapshots with explicitly injected platform, rendering and storage factories.
 outdated: false

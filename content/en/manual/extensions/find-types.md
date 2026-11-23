@@ -73,12 +73,12 @@ For a consistent set of queries, use one `TypeCacheSnapshot` inside the protecte
 
 ## Assign a durable semantic type identity
 
-Without an explicit identity, ordinary host/plugin declarations derive deterministic UUIDv5 identity from assembly simple name and full type name. Compiler-supplied source identities can override that convention for scripts. A type-level `StableTypeId` takes precedence over compiler mappings.
+Without an explicit identity, ordinary host/plugin declarations derive deterministic UUIDv5 identity from assembly simple name and full type name. Compiler-supplied source identities can override that convention for scripts. A type-level `StableTypeID` takes precedence over compiler mappings.
 
 ```csharp
 using Inno.Extensibility.Types;
 
-[StableTypeId("c5db9123-9768-4e34-a346-22981ee4b4da")]
+[StableTypeID("c5db9123-9768-4e34-a346-22981ee4b4da")]
 public sealed class ToolConfiguration
 {
 }

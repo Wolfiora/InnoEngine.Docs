@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: 2f130cdf723d78242ad7b9aa2972551f5e3d0e77d8d4054e2387152607c17be5
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Explicit engine metadata, isolated Sessions and ordered subsystem execution.
 outdated: false

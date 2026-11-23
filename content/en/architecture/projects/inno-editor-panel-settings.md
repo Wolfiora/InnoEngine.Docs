@@ -10,7 +10,7 @@ sourceFingerprint: da97fbd2ee085800ea30b225a32ac57e0b56da5f6cacdeb84930d45f15a04
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Internal staged Settings frontend coordinating Editor, Project and Build scopes.
 outdated: false

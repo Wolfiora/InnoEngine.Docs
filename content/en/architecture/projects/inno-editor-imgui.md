@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: 1e19bace0d17659407ef47ef9ec999a18df81ea01b7bdcad9c8e8726ea3c9f30
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Scoped Editor UI primitives, shared semantic metrics, pointer-free drawing and interaction rendering bridges.
 outdated: false

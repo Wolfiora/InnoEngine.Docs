@@ -23,7 +23,7 @@ using InnoEngine.Reflection;
 using InnoEngine.Scene;
 using InnoEngine.Serialization;
 
-[StableTypeId("c14f7138-0c5c-4e69-8376-cec8edc3056c")]
+[StableTypeID("c14f7138-0c5c-4e69-8376-cec8edc3056c")]
 public sealed class PlayerController : GameBehavior
 {
     [SerializableProperty]

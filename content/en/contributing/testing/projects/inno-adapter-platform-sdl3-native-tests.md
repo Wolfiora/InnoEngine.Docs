@@ -10,7 +10,7 @@ sourceFingerprint: 4e1cfcd5be3f42a984634ae697f6722e258f5d90814deea52e3bbeaf80ac3
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Real platform hosts, owned and borrowed windows, native-surface lifetime and Cocoa main-thread execution.
 outdated: false

@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: 4e4fac99390a1bd39ab8652cd5c700a0ade5ec35a4c927bfb2e1fe5efb9d635b
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Explicit UI backend identities, providers and deterministic product composition.
 outdated: false

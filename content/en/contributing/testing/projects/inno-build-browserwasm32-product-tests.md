@@ -10,7 +10,7 @@ sourceFingerprint: 4b1fbbf5b30b866c9347b5df4511196f991e130b2231706da4a63caaaf5d2
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Check how a browser build consumes its dependencies at the integration boundary.
 outdated: false

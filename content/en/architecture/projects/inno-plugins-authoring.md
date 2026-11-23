@@ -8,10 +8,9 @@ owners:
 - Inno.Plugins.Authoring
 sourceFingerprint: faef55d21bfe4d1c767f20bbb2af9dc76a0ae217624f2ca883b7d4700f1f45d2
 contracts: []
-outdatedFor: 3ea258855488d4873b0a409c4521858b07584cf8aefa5522f0d3e9a2c3355fe4
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Validated plugin packages, immutable asset mounts and coordinated availability changes.
 outdated: false

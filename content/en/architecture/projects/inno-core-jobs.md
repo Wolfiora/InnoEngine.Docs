@@ -10,7 +10,7 @@ sourceFingerprint: 8dda89dcdba006bc1ebf7a2c99868bc8ce0c07378b588a81134b11294c01b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Session-owned frame job scheduling with finite admission and an explicit owner-thread callback queue.
 outdated: false

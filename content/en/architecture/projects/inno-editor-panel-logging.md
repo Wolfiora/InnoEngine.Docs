@@ -12,7 +12,7 @@ contracts:
 - architecture.ownership
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - The host-driven Console panel that presents historical logs and current diagnostics.
 outdated: false

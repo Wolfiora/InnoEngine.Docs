@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: 8ca6cdfb26680a1cf9bf8789a70fcc0a4f0f21b26300debdff2fdcde787e306a
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Language-neutral shader functions, graph lowering, typed stages and structured regions.
 outdated: false

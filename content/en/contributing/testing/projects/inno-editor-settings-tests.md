@@ -10,7 +10,7 @@ sourceFingerprint: e92fb782b7c9595daa6279c0113d92f71b66ff5a604a821b36b040588d8f0
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Verify Console module discovery, persistent Editor settings, shared history and failure events.
 outdated: false

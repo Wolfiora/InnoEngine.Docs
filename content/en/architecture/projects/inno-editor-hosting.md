@@ -11,7 +11,7 @@ contracts: []
 outdatedFor: 175453981304e690be6a4508f3430199506e8e256a0c5361437b366150470a77
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: InnoEngine contributors
+source: FLwolfy
 description:
 - Explicit Editor product composition, preflight, default layout and complete host retirement.
 outdated: false
