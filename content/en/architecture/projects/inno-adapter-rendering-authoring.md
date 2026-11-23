@@ -24,7 +24,7 @@ Start with [rendering tasks](../../manual/rendering/index.md) and [frame ownersh
 
 ## Pair with runtime registration
 
-IRenderingAuthoringBackendFactory creates shader and texture target compilers through neutral asset-authoring contracts. It selects by the same open RenderingBackendId used for runtime device creation. Concrete shaderc/texturec tools, process execution and physical paths remain backend implementation details.
+IRenderingAuthoringBackendFactory creates shader and texture target compilers through neutral asset-authoring contracts. It selects by the same open RenderingBackendID used for runtime device creation. Concrete shaderc/texturec tools, process execution and physical paths remain backend implementation details.
 
 RenderingAuthoringBackendProvider captures its immutable ID in the protected constructor and supplies both compiler factories. This is explicit composition registration, not type discovery; it does not override an ID getter or probe a device to discover identity.
 

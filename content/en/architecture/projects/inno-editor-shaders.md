@@ -47,9 +47,9 @@ using InnoEditor.Shaders;
 
 static void ReadCurrentDraft(
     MaterialDocuments documents,
-    Guid assetId
+    Guid assetID
 ) {
-    _ = documents.Read(assetId);
+    _ = documents.Read(assetID);
 }
 ```
 

@@ -43,45 +43,45 @@ When writing a new case, start with [reusable test support and fixtures](support
 
 - [Graph transactions](projects/inno-editor-graph-tests.md): managed document history and Missing recovery.
 - [History and navigation](projects/inno-editor-interactions-tests.md): managed undo/redo and pointer capture.
-- [Conditional inspection](projects/inno-editor-inspection-tests.md): predicate selection and ambiguity.
-- [Panel and presentation](projects/inno-editor-presentation-tests.md): canvas geometry, Workbench lifecycle, asset history and Console discovery.
-- [Viewport and native context](projects/inno-editor-imgui-tests.md): window metrics, fonts and acknowledged retirement.
-- [Play Mode and Console](projects/inno-editor-playmode-tests.md): compilation transitions, game input, retained diagnostics and native layout.
-- [Audio preview](projects/inno-editor-audio-tests.md): independent Edit/Play lifetimes.
+- [Conditional inspection](projects/inno-editor-inspection-native-tests.md): predicate selection and ambiguity.
+- [Editor runtime](projects/inno-editor-core-tests.md): Workbench lifecycle, commands, selection and panel retirement.
+- [Graph canvas](projects/inno-editor-graph-imgui-tests.md): projection, hit testing, selection and port geometry.
+- [Editor settings](projects/inno-editor-settings-tests.md): Console discovery, persistent settings and shared history.
+- [Viewport and native context](projects/inno-editor-imgui-native-tests.md): window metrics, fonts and acknowledged retirement.
+- [Play Mode](projects/inno-editor-playmode-native-tests.md): compilation transitions, game input and retained diagnostics.
+- [Native panels](projects/inno-editor-panels-native-tests.md): Console card layout and popup placement.
+- [Asset history and audio preview](projects/inno-editor-features-tests.md): file undo/redo and independent Edit/Play lifetimes.
 - [Startup and script projection](projects/inno-editor-hosting-tests.md): early rejection and the actual product API surfaces.
 - [Scripting and authoring](projects/inno-editor-scripting-tests.md): Inspector, viewport and Shader Editor workflows.
-- [Scale and interaction performance](projects/inno-editor-performance-tests.md): large scene/asset workloads with real input and retained samples.
 
 Managed domain success does not stand in for native presentation or scale evidence. Each page states the relevant distinction.
 
 ## Rendering and shaders
 
 - [Render graph and portable artifacts](projects/inno-rendering-tests.md): transactional edits, immutable values and scheduling.
-- [Rendering asset contracts](projects/inno-rendering-assets-tests.md): logical material values and persistent identities.
-- [Import and shader authoring](projects/inno-rendering-assets-authoring-tests.md): candidate includes and runtime export boundaries.
+- [Rendering assets, import and shader authoring](projects/inno-rendering-assets-authoring-tests.md): logical material values, persistent identities, candidate includes and runtime export boundaries.
 - [Rendering runtime publication](projects/inno-rendering-runtime-tests.md): frame owners, artifact scopes and complete shader replacement.
-- [Shader languages and native compiler](projects/inno-rendering-shaders-tests.md): typed IR, lowering and actual offline Metal compilation.
-- [BGFX backend and surfaces](../../backends/projects/inno-adapter-rendering-bgfx-tests.md): device commands, target shaders and real window lifetimes.
-- [BGFX deployment smoke test](../../backends/projects/inno-native-bgfx-tests.md): deployed Noop initialization and shutdown.
+- [Shader languages and native compiler](projects/inno-rendering-shaders-native-tests.md): typed IR, lowering and actual offline Metal compilation.
+- [BGFX backend and surfaces](projects/inno-adapter-rendering-bgfx-native-tests.md): device commands, target shaders, real window lifetimes and deployed Noop initialization.
 
 ## Input and UI boundaries
 
-- [Input and shell lifecycle](projects/inno-input-tests.md): managed routing, frame scheduling and suspension.
+- [Input runtime](projects/inno-input-tests.md): managed routing, window isolation and suspension.
+- [Shell lifecycle](projects/inno-shell-tests.md): frame scheduling, suspension reasons and native-surface identifiers.
 - [UI frame context](projects/inno-ui-tests.md): backend-neutral input and script-facade binding.
-- [SDL windows and native surfaces](../../backends/projects/inno-adapter-platform-sdl3-tests.md): real host integration and lifetime rules.
+- [SDL windows and native surfaces](projects/inno-adapter-platform-sdl3-native-tests.md): real host integration and lifetime rules.
 - [SDL loading and ABI](../../backends/projects/inno-native-sdl3-tests.md): generated import and library-owner behavior.
-- [RmlUi documents and native lifecycle](../../backends/projects/inno-adapter-ui-rmlui-tests.md): actual imports, fonts, events and stale-handle rejection.
+- [RmlUi documents and native lifecycle](projects/inno-adapter-ui-rmlui-native-tests.md): actual imports, fonts, events and stale-handle rejection.
 - [ImGui deployment and ABI](../../backends/projects/inno-native-imgui-tests.md): context lifetime, symbol loading and layouts.
 - [ImGuizmo borrowed state](../../backends/projects/inno-native-imguizmo-tests.md): owned style retirement and parent-state restoration.
 
 ## Content and runtime services
 
 - [Animation playback and binding](projects/inno-animation-tests.md): admission, sampling, markers and Missing recovery.
-- [Audio contracts and script API](projects/inno-audio-tests.md): values, mixer topology and actual script compilation.
+- [Audio contracts, importing and script API](projects/inno-audio-tests.md): values, mixer topology, encoded formats, failed publication and actual script compilation.
 - [Audio runtime lifecycle](projects/inno-audio-runtime-tests.md): suspension, rollback and retained resources.
-- [Audio importing](projects/inno-audio-assets-tests.md): encoded formats and failed publication.
 - [Storage admission and persistence](projects/inno-storage-tests.md): portable keys, writes and cancellation ownership.
-- [Text importing and native shaping](projects/inno-text-tests.md): font metadata, encoded artifacts and real glyph output.
+- [Text importing and native shaping](projects/inno-text-native-tests.md): font metadata, encoded artifacts and real glyph output.
 - [Runtime startup and sessions](projects/inno-runtime-tests.md): capability admission, memory content, static deployment and retirement.
 - [Runtime and serialization generators](projects/inno-runtime-generators-tests.md): compiled metadata, factories and accessors.
 - [Script compiler and cache](projects/inno-scripting-compiler-tests.md): language/IDE parity and protected publication.
@@ -90,21 +90,20 @@ Managed domain success does not stand in for native presentation or scale eviden
 
 See the [native and process requirements](../validate-change.md#native-and-process-requirements) before selecting a local diagnostic.
 
-- [MiniAudio adapter behavior](../../backends/projects/inno-adapter-audio-miniaudio-tests.md): native graph execution, content preparation and voice completion.
+- [MiniAudio adapter behavior](projects/inno-adapter-audio-miniaudio-native-tests.md): native graph execution, content preparation and voice completion.
 - [MiniAudio loading and initialization](../../backends/projects/inno-native-miniaudio-tests.md): function-table loading and headless engine initialization.
 
 Native preparation remains required even when a suite uses a headless backend. These pages describe specific tests; they do not claim hardware, platform or current-run certification.
 
 ## Development tools and execution protocols
 
-- [Command boundaries](projects/inno-build-cli-tests.md): early rejection and managed authoring without product preparation.
-- [Build inputs and cache protocols](projects/inno-build-toolchains-tests.md): neutral SDK graphs, exact identities and retirement.
-- [Binding generation integration](projects/inno-build-bindings-tests.md): real SDK generation with independent product requirements.
+- [Command boundaries](projects/inno-build-cli-integration-tests.md): early rejection and managed authoring without product preparation.
+- [Build inputs and cache protocols](projects/inno-build-toolchains-integration-tests.md): neutral SDK graphs, exact identities and retirement.
+- [Binding generation integration](projects/inno-build-bindings-integration-tests.md): real SDK generation with independent product requirements.
 - [Product build and publication](projects/inno-build-tests.md): actual composition, native deployment and support packs.
-- [Native preparation costs](projects/inno-build-nativeperformance-tests.md): Windows product measurements with cold/warm separation.
 - [Validation planning and evidence](projects/inno-tooling-validation-tests.md): scope, real builds, immutable inputs and explicit completion.
-- [Architecture and API boundaries](projects/inno-tooling-architecture-tests.md): source rules, compiled symbols, project references and examples.
-- [Documentation snapshots and queries](projects/inno-tooling-documentation-tests.md): publication, exact reads, ambiguity, freshness and concurrency.
+- [Architecture and API boundaries](projects/inno-tooling-architecture-integration-tests.md): source rules, compiled symbols, project references and examples.
+- [Documentation snapshots and queries](projects/inno-tooling-documentation-integration-tests.md): publication, exact reads, ambiguity, freshness and concurrency.
 - [Child-process execution](projects/inno-testing-processes-tests.md): output draining, failure diagnostics and descendant termination.
 
 ## All test and fixture owners

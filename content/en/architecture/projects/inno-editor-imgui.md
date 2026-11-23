@@ -46,7 +46,7 @@ public static class Example0
 {
     static void DrawEngineLabel()
     {
-        ImGui.Text(ImGuiIcon.Inno + " InnoEngine");
+        ImGui.Text(ImGuiIcon.C_INNO + " InnoEngine");
     }
 }
 ```
@@ -67,7 +67,7 @@ public static class Example1
         Action drawTrailingControl,
         Action drawContextMenu
     ) {
-        return EditorUiSession.current.widgets.CollapsingCard(id, title,
+        return EditorUISession.current.widgets.CollapsingCard(id, title,
             drawLeadingControl: drawLeadingControl, drawTrailingControl: drawTrailingControl,
             defaultOpen: true, dimmed: !enabled,
             trailingControlWidth: trailingControlWidth,
@@ -94,7 +94,7 @@ public static class Example2
             return;
         try
         {
-            EditorUiSession.current.widgets.CardBody(id, drawContent: drawContent, dimmed: !enabled);
+            EditorUISession.current.widgets.CardBody(id, drawContent: drawContent, dimmed: !enabled);
         }
         finally
         {

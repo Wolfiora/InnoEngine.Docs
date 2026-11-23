@@ -27,7 +27,7 @@ public static class SceneLabels
 {
     public static bool AssignPlayer(GameObject player)
     {
-        GameTagCatalog tags = Settings.Get<GameTagCatalog>(GameTagCatalog.settingId);
+        GameTagCatalog tags = Settings.Get<GameTagCatalog>(GameTagCatalog.settingID);
         if (!tags.IsDefined("Player"))
             return false;
         player.tag = "Player";
@@ -36,7 +36,7 @@ public static class SceneLabels
 
     public static GameLayerMask AssignPlayerLayer(GameObject player)
     {
-        GameLayerCatalog layers = Settings.Get<GameLayerCatalog>(GameLayerCatalog.settingId);
+        GameLayerCatalog layers = Settings.Get<GameLayerCatalog>(GameLayerCatalog.settingID);
         player.layer = layers.GetLayer("Player");
         return layers.GetMask(["Player", "Enemy"]);
     }
@@ -53,7 +53,7 @@ Deleting a tag definition does not rewrite stored object strings. Reintroducing 
 | --- | --- |
 | GameLayer | One runtime slot from 0 through 31; stored in scenes/prefabs |
 | GameLayerMask | A 32-bit selection of slots |
-| GameLayerId | Current project identity plus a stable local layer key |
+| GameLayerID | Current project identity plus a stable local layer key |
 | GameLayerDefinition | Snapshot of local key, slot and display name |
 | GameLayerCatalog | Named slots and a symmetric interaction matrix |
 

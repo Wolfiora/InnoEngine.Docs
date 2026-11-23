@@ -24,7 +24,7 @@ Start with [handling an unresolved reference](../../manual/references/resolve-mi
 
 ## Reference and recovery contract
 
-A `ReferenceKindId` identifies a resolution protocol, not an object. A `ReferenceKey` identifies a persistent owner's stable slot. A descriptor preserves target persistent identity, an optional stable type constraint and diagnostic name/path. Neither the name nor the path is resolution authority. An empty target is explicitly Unassigned, not Missing.
+A `ReferenceKindID` identifies a resolution protocol, not an object. A `ReferenceKey` identifies a persistent owner's stable slot. A descriptor preserves target persistent identity, an optional stable type constraint and diagnostic name/path. Neither the name nor the path is resolution authority. An empty target is explicitly Unassigned, not Missing.
 
 The catalog freezes the resolver collection for one generation; it does not make resolver instances independent of their owner. Each resolver must return the exact descriptor instance passed to it and resolve against its current canonical domain. Only a Resolved result carries a runtime identity. The result constructor checks this pairing, not the continued existence of the target. Never persist that runtime result in Scene data, settings or History.
 

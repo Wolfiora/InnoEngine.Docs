@@ -59,7 +59,7 @@ Source-function calls are conservatively treated as ordered side effects. An unu
 
 Ports use stable identities: `input.<name>`, `output.<name>` and `return`. An `inout` parameter has both input and output ports. Void return handling does not introduce a synthetic value port or bypass array/type validation.
 
-Required inputs need graph connections. Constants are graph nodes, not hidden Inspector overrides. An optional unconnected input receives a typed zero only when its type supports that operation. Storage resources, opaque textures and effect tokens do not acquire implicit optional/zero values. Legacy `input-default.<portId>` data is ignored.
+Required inputs need graph connections. Constants are graph nodes, not hidden Inspector overrides. An optional unconnected input receives a typed zero only when its type supports that operation. Storage resources, opaque textures and effect tokens do not acquire implicit optional/zero values. Legacy `input-default.<portID>` data is ignored.
 
 `ShaderGraphLiteral.Zero` supports scalars, vectors, floating-point matrices, structures and fixed arrays. Literals retain the full type and scalar bits in declared member/matrix-column order. Shape validation and emission require the exact expected type.
 

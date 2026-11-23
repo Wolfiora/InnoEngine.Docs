@@ -50,7 +50,7 @@ Multi-object property edits identify the root member and optional scalar compone
 
 ## Keep presentation state with its owner
 
-Each interaction host owns an `EditorUiSession`; `current` is a synchronous scope accessor, not a global lifetime owner. Frame, window, context and owner-thread borrows cannot escape their scopes. A failed extension unwinds its own Begin/End and push/pop state; it cannot reset another owner's native stack to recover.
+Each interaction host owns an `EditorUISession`; `current` is a synchronous scope accessor, not a global lifetime owner. Frame, window, context and owner-thread borrows cannot escape their scopes. A failed extension unwinds its own Begin/End and push/pop state; it cannot reset another owner's native stack to recover.
 
 The backend selects the context, refreshes display metrics and runs preparation before native NewFrame. Preparation/drawing/publication reject reentry and retirement. Preparation failure opens no frame; drawing failure closes only its owned frame and publishes no partial draw data. Callers still balance the scopes they opened.
 

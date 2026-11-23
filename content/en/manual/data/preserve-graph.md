@@ -31,7 +31,7 @@ static GraphValidationResult CreateAndValidate(
     IGraphNodeDefinitionResolver definitions
 ) {
     var document = new GraphDocument();
-    var node = new GraphNodeRecord(new GraphNodeId("constant-1"), "math.float");
+    var node = new GraphNodeRecord(new GraphNodeID("constant-1"), "math.float");
     node.position = new GraphPosition(120f, 80f);
     node.SetValue("value", GraphSerializedValue.From(0.5f, serialization));
     document.AddNode(node);

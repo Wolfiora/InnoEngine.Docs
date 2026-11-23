@@ -18,7 +18,7 @@ Write a log for something that happened: an action, a diagnostic transition or a
 
 ## Emit from a project script
 
-The host must bind its router to the executing session. The real Runtime script projection exposes `Log` and `LogSessionId` under `InnoEngine.Logging`; scripts do not construct the host router or its sinks.
+The host must bind its router to the executing session. The real Runtime script projection exposes `Log` and `LogSessionID` under `InnoEngine.Logging`; scripts do not construct the host router or its sinks.
 
 ```csharp
 using InnoEngine.Logging;

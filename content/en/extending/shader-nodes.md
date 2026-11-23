@@ -29,7 +29,7 @@ using InnoEditor.Rendering.Shaders;
 
 public sealed class HalfNodeCompiler : IShaderNodeCompiler
 {
-    public string definitionId => "project.shader.half";
+    public string definitionID => "project.shader.half";
     public IReadOnlyList<ShaderNodePort> GetPorts(ShaderNodeDescriptionContext context)
         => [new("value", ShaderSourceType.Atomic("float"), GraphPortDirection.Output)];
     public IReadOnlyDictionary<string, ShaderIrValue> Lower(ShaderNodeLoweringContext context)

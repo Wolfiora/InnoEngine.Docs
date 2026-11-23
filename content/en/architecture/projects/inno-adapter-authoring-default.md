@@ -35,7 +35,7 @@ Platform, Rendering and Storage factories remain required in the runtime options
 
 Before allocating a GPU device, rendering-authoring registration validates exact runtime/authoring Backend ID pairing. Duplicate, missing and null registrations fail explicitly. Standard products select BGFX and ImGui; a custom product may select other compatible implementations.
 
-Presentation uses the open `PresentationBackendId`, a frozen `supportedBackends` set and explicit context options. Unknown IDs, unassigned or duplicate providers and null results are errors. If shader, renderer or context creation fails, release all previously acquired resources and fail startup; never publish a half-initialized context.
+Presentation uses the open `PresentationBackendID`, a frozen `supportedBackends` set and explicit context options. Unknown IDs, unassigned or duplicate providers and null results are errors. If shader, renderer or context creation fails, release all previously acquired resources and fail startup; never publish a half-initialized context.
 
 Runtime integration belongs to the platform product; shader/native build integration belongs to distribution. Neither selection becomes an implicit OS check in the shared host.
 

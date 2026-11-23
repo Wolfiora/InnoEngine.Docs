@@ -54,7 +54,7 @@ The registry's internal synchronization does not establish thread safety for an 
 | [Identity](../../api/engine/core/identity/identity/index.md) | Copyable persistent/runtime snapshot that resolves through its original weak registry association. |
 | [IdentityObject](../../api/engine/core/identity/identityobject/index.md) | Base class with instance-owned identity state. |
 | [IdentityAllocator](../../api/engine/core/identity/identityallocator/index.md) | Isolated registration, lookup, unregistration and execution scope. |
-| [IdentityDomainId](../../api/engine/core/identity/identitydomainid/index.md) | Process-local runtime namespace identifier. |
+| [IdentityDomainID](../../api/engine/core/identity/identitydomainid/index.md) | Process-local runtime namespace identifier. |
 | [RuntimeIdentity](../../api/engine/core/identity/runtimeidentity/index.md) | Domain-qualified, generation-safe transient object address. |
 
 These references describe the evaluated CLR source contract. They do not certify runtime or Editor script projections, which require their own export manifests and acceptance.

@@ -21,7 +21,7 @@ owners:
 Follow [the shared validation workflow](../../validate-change.md). A focused managed diagnostic is:
 
 ```powershell
-dotnet test tests/animation/Inno.Animation.Tests/Inno.Animation.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/content/animation/Inno.Animation.Tests/Inno.Animation.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 Keep generation, event and provider lifetime assertions with their actual owners. Fixtures release the sessions and providers they create. These discovery methods are not exported product APIs.

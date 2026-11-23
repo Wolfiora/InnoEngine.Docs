@@ -29,7 +29,7 @@ Start with [distribution composition](../../extending/build-distribution.md) and
 
 [Compose a build distribution](../../extending/build-distribution.md) explains how a host registers a managed publisher. This contract library references no platform packager, Editor, Runtime or concrete SDK publisher. Domain runtime does not need to know which deployment implementation produced it.
 
-ManagedDeploymentId is open and stable. Capability construction defensively copies supported RIDs and records dynamic-code, ahead-of-time and Native static-link support. The catalog rejects null/duplicate providers, reports supported choices in stable order and resolves the selected target before staging. Missing support fails rather than selecting an approximate runtime.
+ManagedDeploymentID is open and stable. Capability construction defensively copies supported RIDs and records dynamic-code, ahead-of-time and Native static-link support. The catalog rejects null/duplicate providers, reports supported choices in stable order and resolves the selected target before staging. Missing support fails rather than selecting an approximate runtime.
 
 ## Requests and results
 
@@ -48,7 +48,7 @@ using Inno.Build.Managed;
 
 static ValueTask<ManagedDeploymentResult> CompileAsync(
     ManagedDeploymentCatalog publishers,
-    ManagedDeploymentId deployment,
+    ManagedDeploymentID deployment,
     ManagedDeploymentRequest request,
     CancellationToken cancellationToken
 ) {

@@ -22,11 +22,11 @@ This project imports neutral `.iuidocument` sources through an explicitly select
 
 ## Import and generation contract
 
-`UiDocumentImportSettings` requires nonempty `languageId` and `implementationId`. Empty defaults are not an automatic selection. The importer reads strict UTF-8, analyzes the source through the active frontend registry, resolves declared font assets and produces an implementation-qualified runtime payload.
+`UIDocumentImportSettings` requires nonempty `languageId` and `implementationId`. Empty defaults are not an automatic selection. The importer reads strict UTF-8, analyzes the source through the active frontend registry, resolves declared font assets and produces an implementation-qualified runtime payload.
 
 Failed analysis produces diagnostics and stops import. Missing fonts and fonts without a usable face fail explicitly. Current imported registrations select face zero. Declared font artifacts become asset dependencies, and the payload retains neutral source and font descriptions rather than live frontend or native objects.
 
-The registry discovers `IUiDocumentFrontend` implementations from the shared type catalog, owns their extension lifetime, and acquires a type operation while analyzing. Provider retirement cannot race an active analysis. Detached analysis results must not retain provider objects or generation-bound delegates.
+The registry discovers `IUIDocumentFrontend` implementations from the shared type catalog, owns their extension lifetime, and acquires a type operation while analyzing. Provider retirement cannot race an active analysis. Detached analysis results must not retain provider objects or generation-bound delegates.
 
 ## Frontend boundaries
 

@@ -21,7 +21,7 @@ The project declares the `domain` validation layer. Use [the shared validation w
 A focused diagnostic from the engine root is:
 
 ```powershell
-dotnet test tests/core/Inno.Core.Layers.Tests/Inno.Core.Layers.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
+dotnet test tests/foundation/core/Inno.Core.Layers.Tests/Inno.Core.Layers.Tests.csproj --configuration Debug --disable-build-servers -m:1 -nodeReuse:false
 ```
 
 Use `--filter FullyQualifiedName~MethodName` to investigate one case. A filtered run does not replace the obligations in the validation plan. Restore the declared SDK, packages and any tool/process prerequisites before executing; preserve cancellation, thread and cleanup requirements.
@@ -34,10 +34,10 @@ These representative methods are preserved from the original reference and check
 
 [Read the assertions](https://github.com/Wolfiora/InnoEngine/blob/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/tests/core/Inno.Core.Layers.Tests/LayerStackTests.cs). Representative entry points:
 
-- `PushLayer_InsertsBelowExistingOverlays`
-- `PushLayer_RejectsDuplicateInstance`
-- `EventDispatch_RunsTopmostOverlayFirst`
-- `RenderFrame_UnwindsPreparedLayersInReverseOrderAfterFailure`
+- `PushLayerInsertsBelowExistingOverlays`
+- `PushLayerRejectsDuplicateInstance`
+- `EventDispatchRunsTopmostOverlayFirst`
+- `RenderFrameUnwindsPreparedLayersInReverseOrderAfterFailure`
 
 ## Extend safely
 

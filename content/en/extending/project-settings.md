@@ -15,7 +15,7 @@ Use a project setting when a feature needs a named, serializable protocol shared
 
 ## Declare the protocol
 
-1. Choose a stable `ProjectSettingId` independent of display text and runtime type names.
+1. Choose a stable `ProjectSettingID` independent of display text and runtime type names.
 2. Declare a non-abstract `ISerializable` class with `ProjectSettingDefinitionAttribute` and a stable type identity. Register its factory in the active type catalog.
 3. Decide whether Plugins may contribute defaults through `allowPluginContributions`.
 4. Make the host's complete `SerializationContext` available when constructing the settings owner. The settings subsystem must not invent a partial reference resolver.

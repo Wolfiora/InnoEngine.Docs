@@ -10,7 +10,7 @@ owners:
 
 `Inno.Native.ImGuizmo.Tests` validates the engine's integration lifetime rather than publishing a generated native API manual.
 
-`Init_ShouldLoad` checks actual loading. `OwnedStyleCanRetireWithoutReleasingTheGlobalBorrow` distinguishes an owned style from borrowed global state. `IntegerScopeAndSingleStringIdRestoreTheirParentState` preserves the parent state after scoped selection.
+`InitShouldLoad` checks actual loading. `OwnedStyleCanRetireWithoutReleasingTheGlobalBorrow` distinguishes an owned style from borrowed global state. `IntegerScopeAndSingleStringIdRestoreTheirParentState` preserves the parent state after scoped selection.
 
 ## Required product and execution
 

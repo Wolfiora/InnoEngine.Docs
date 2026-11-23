@@ -37,8 +37,8 @@ internal static class StreamingStatistics
         int pendingCount
     ) {
         context.statistics.Publish(new EditorStatistic(
-            new EditorStatisticId("sample.streaming.pending"),
-            new EditorStatisticGroupId("sample.streaming"),
+            new EditorStatisticID("sample.streaming.pending"),
+            new EditorStatisticGroupID("sample.streaming"),
             "Streaming", "Pending Requests", pendingCount.ToString()));
     }
 }

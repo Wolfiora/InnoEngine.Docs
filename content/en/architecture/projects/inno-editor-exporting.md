@@ -30,7 +30,7 @@ Workbench owns the UI. The service owns its tasks, queued progress and cancellat
 
 ## Observe the operation you can cancel
 
-The progress snapshot contains operation ID, optional fraction, status, error, busy and cancellation state. Unknown totals display activity rather than a fabricated percentage. Late records cannot replace another operation, and Cancel(operationId) acts only on the current owner.
+The progress snapshot contains operation ID, optional fraction, status, error, busy and cancellation state. Unknown totals display activity rather than a fabricated percentage. Late records cannot replace another operation, and Cancel(operationID) acts only on the current owner.
 
 Shutdown cancels preparation/build and waits for their cleanup before disposing state. Completed preparation during shutdown cannot launch a new build. Precommit failures preserve old installed output; postcommit backup cleanup failures preserve the valid new product and report the residual path.
 

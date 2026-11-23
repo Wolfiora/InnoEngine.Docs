@@ -43,7 +43,7 @@ Current producers include Asset Import/Build/Catalog, Asset Source Database, Sce
 
 The derived view updates when snapshot revision, search text or level selection changes. It does not modify source diagnostic records. Case-insensitive substring search covers message, source, file, code, category and an existing stack trace. Level filtering and search both apply before Collapse groups matching occurrences.
 
-The grouping fingerprint includes `LogSessionId`. Nonadjacent matching occurrences within one session can group globally; identical text from different Edit/Play sessions stays separate. Expanded details and copy actions use the same filtered group and retain its individual occurrences.
+The grouping fingerprint includes `LogSessionID`. Nonadjacent matching occurrences within one session can group globally; identical text from different Edit/Play sessions stays separate. Expanded details and copy actions use the same filtered group and retain its individual occurrences.
 
 Copy targets belong to the current view and are released when Clear, filtering or panel retirement removes the target. The panel does not eagerly encode full copy text for every visible row. Keyboard navigation, Enter expansion and primary-modifier copy shortcuts use the same actions as the context menu.
 

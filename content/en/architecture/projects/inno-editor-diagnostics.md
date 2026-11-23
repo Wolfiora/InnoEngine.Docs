@@ -32,7 +32,7 @@ The timeline and collapsed groups are ordered by occurrence sequence, oldest fir
 
 Ordinary logs retain past occurrences. Diagnostics belong to the reporting producer until it replaces or clears its report. `Clear()` removes historical logs; it does not claim ownership of producer diagnostics. Re-publishing an unchanged issue does not move it to a new timeline position. Recoverable rendering issues reconcile after a successful frame rather than accumulating as permanent logs.
 
-Grouping includes entry kind, severity, source, code, message, location, stack identity and `LogSessionId`. Equivalent nonadjacent occurrences can group within one session. Matching text from different Edit/Play sessions remains distinct.
+Grouping includes entry kind, severity, source, code, message, location, stack identity and `LogSessionID`. Equivalent nonadjacent occurrences can group within one session. Matching text from different Edit/Play sessions remains distinct.
 
 ## Lifetime and policy
 

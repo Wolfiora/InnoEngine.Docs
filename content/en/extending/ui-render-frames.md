@@ -11,7 +11,7 @@ contracts:
 ---
 # Consume UI render frames
 
-A UI backend produces layout and rendering data without owning a GPU device. Your product's rendering integration consumes `UiRenderFrame`, owns its graphics resources and submits drawing through its selected renderer. InnoEngine does not implicitly import a separate consumer repository's renderer.
+A UI backend produces layout and rendering data without owning a GPU device. Your product's rendering integration consumes `UIRenderFrame`, owns its graphics resources and submits drawing through its selected renderer. InnoEngine does not implicitly import a separate consumer repository's renderer.
 
 ## Maintain resource state per context lifetime
 
@@ -36,13 +36,13 @@ Mesh updates contain immutable vertices and triangle indices. Commands reference
 
 ## Build frames in a custom backend
 
-`UiRenderFrameBuilder` is a host/backend SPI, not an ordinary script export. `AddMeshUpdate` and `AddTextureUpdate` take exclusive ownership of their arrays. Do not mutate or return those arrays to a pool afterward. `Build` freezes the result and the builder cannot be reused.
+`UIRenderFrameBuilder` is a host/backend SPI, not an ordinary script export. `AddMeshUpdate` and `AddTextureUpdate` take exclusive ownership of their arrays. Do not mutate or return those arrays to a pool afterward. `Build` freezes the result and the builder cannot be reused.
 
 The builder validates assigned handles, positive revisions, nonempty mesh data, index bounds, positive texture dimensions and exact pixel length. It does not validate your complete retained-resource state machine or GPU completion rules.
 
 ## Shut down without leaking GPU resources
 
-Destroying a UI context releases its backend documents and resources; it does not dispose allocations owned by your renderer. Keep enough renderer state to retire all of its resources when the context ends. `UiRenderFrame.CreateRetirement` creates a command-free retirement message from assigned handles and copies the supplied handle arrays.
+Destroying a UI context releases its backend documents and resources; it does not dispose allocations owned by your renderer. Keep enough renderer state to retire all of its resources when the context ends. `UIRenderFrame.CreateRetirement` creates a command-free retirement message from assigned handles and copies the supplied handle arrays.
 
 Stop accepting new frames before retiring the consumer. Preserve necessary reading/in-flight protection until the renderer finishes using old resources. Never infer successful retirement merely from an empty last frame.
 

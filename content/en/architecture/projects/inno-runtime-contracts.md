@@ -74,10 +74,10 @@ public sealed class CounterRuntime : RuntimeSubsystem
 using Inno.Runtime.Contracts;
 
 var descriptor = new RuntimeSubsystemDescriptor(
-    new RuntimeSubsystemId("sample.capture"),
+    new RuntimeSubsystemID("sample.capture"),
     lifetime: RuntimeSubsystemLifetime.Host,
     requirement: RuntimeSubsystemRequirement.Optional,
-    requiredCapabilities: [new RuntimeCapabilityId("sample.frame-capture")]);
+    requiredCapabilities: [new RuntimeCapabilityID("sample.frame-capture")]);
 ```
 
 ## Source boundary

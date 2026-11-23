@@ -1,12 +1,12 @@
 ---
-title: "Rendering import and shader authoring tests"
+title: "Rendering asset contract, import and shader authoring tests"
 description: "Verify material contracts, candidate includes and runtime export boundaries."
 uid: project.inno-rendering-assets-authoring-tests
 kind: project
 owners:
   - Inno.Rendering.Assets.Authoring.Tests
 ---
-# Rendering import and shader authoring tests
+# Rendering asset contract, import and shader authoring tests
 
 `Inno.Rendering.Assets.Authoring.Tests` owns the behavior described below. Use this guide to find relevant assertions and their environment; the scenario list is not a current passing result.
 
@@ -15,6 +15,8 @@ owners:
 Material and raster state round-trip through asset serialization without replacing provider-owned roles, capabilities or choices. Metadata remains an open provider protocol. Import tests use one compilation model across graph shaders, materials and pipeline assets. Includes resolve from the candidate mount snapshot and declared plugin dependencies; a source library exports explicit graph functions.
 
 Runtime export strips authoring graph/function artifacts while preserving shader identity and definition. Compiler failures cannot carry successful binary bytes; successful results copy adapter-owned bytes, bindings and diagnostics instead of retaining mutable producer storage.
+
+Material frame overrides contain logical values and can be cleared. Runtime asset serialization preserves recorded persistent identities when types move and round-trips shader declarations through the common serialization contract. These contract cases do not require embedding authored source graphs in runtime artifacts.
 
 ## Environment and execution
 
@@ -30,9 +32,9 @@ Representative entry points are checked against the pinned source. The linked fi
 
 [Read the complete assertions](https://github.com/Wolfiora/InnoEngine/blob/ec506471b863c3b6e131d13ba78ff3ce9d31e15e/tests/rendering/Inno.Rendering.Assets.Authoring.Tests/MeshAndStateTests.cs). Representative entry points:
 
-- `MaterialAndPipelineState_RoundTripsThroughAssetSerialization`
-- `MaterialResolver_UsesProviderOwnedContractsRolesAndCapabilities`
-- `ShaderRasterState_RoundTripsWithoutLosingProviderChoices`
+- `MaterialAndPipelineStateRoundTripsThroughAssetSerialization`
+- `MaterialResolverUsesProviderOwnedContractsRolesAndCapabilities`
+- `ShaderRasterStateRoundTripsWithoutLosingProviderChoices`
 - `MaterialMetadataRemainsAnOpenProviderProtocol`
 
 ### Rendering Importer Integration
@@ -70,6 +72,25 @@ Representative entry points are checked against the pinned source. The linked fi
 - `FailedShaderCommitPreservesThePreviousDefinitionAndSerializedState`
 - `ShaderGraphRetainsCanonicalInputWhenTheAuthoringDefinitionIsEdited`
 - `MaterialSelectionAndResolvedPassDoNotPublishTheirMetadataArrays`
+
+### Geometry Artifact
+
+[Read the complete assertions](https://github.com/Wolfiora/InnoEngine/blob/baed28a5cf8aa268df22d254c314f3ec86a8eb2f/tests/services/rendering/Inno.Rendering.Assets.Authoring.Tests/GeometryArtifactTests.cs). Representative entry points:
+
+- `RuntimeGeometryDecodesWithoutAnImporterOrRenderDevice`
+
+### Material Contract
+
+[Read the complete assertions](https://github.com/Wolfiora/InnoEngine/blob/baed28a5cf8aa268df22d254c314f3ec86a8eb2f/tests/services/rendering/Inno.Rendering.Assets.Authoring.Tests/MaterialContractTests.cs). Representative entry points:
+
+- `FrameOverridesContainOnlyLogicalValuesAndCanBeCleared`
+
+### Runtime Asset Serialization
+
+[Read the complete assertions](https://github.com/Wolfiora/InnoEngine/blob/baed28a5cf8aa268df22d254c314f3ec86a8eb2f/tests/services/rendering/Inno.Rendering.Assets.Authoring.Tests/RuntimeAssetSerializationTests.cs). Representative entry points:
+
+- `MovedPersistentTypesKeepTheirRecordedIdentity`
+- `ShaderDeclarationsRoundTripThroughTheCommonSerializationContract`
 
 ## Extend safely
 

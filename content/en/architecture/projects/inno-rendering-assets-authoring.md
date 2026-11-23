@@ -51,7 +51,7 @@ using Inno.Rendering.Assets.Authoring;
 
 static byte[] FreezeGraph(
     GraphDocument graph,
-    IReadOnlyDictionary<GraphNodeId, byte[]> functions,
+    IReadOnlyDictionary<GraphNodeID, byte[]> functions,
     SerializationRegistry serialization
 ) {
     return ShaderGraphArtifact.Encode(graph, functions, serialization);

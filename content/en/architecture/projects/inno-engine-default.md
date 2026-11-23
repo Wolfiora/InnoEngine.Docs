@@ -32,7 +32,7 @@ The composition files declare one domain each. UI depends on Input and Text. Aud
 
 ## Keep diagnostics scoped to the actual owner
 
-Session reporters need source identities containing their real runtime scope. Animation uses `RuntimeSubsystemContext.identities.domainId`, so concurrent Edit/Play Sessions sharing one DiagnosticHub do not revoke each other's reporters. This runtime identity is not persisted into assets or History.
+Session reporters need source identities containing their real runtime scope. Animation uses `RuntimeSubsystemContext.identities.domainID`, so concurrent Edit/Play Sessions sharing one DiagnosticHub do not revoke each other's reporters. This runtime identity is not persisted into assets or History.
 
 A newer reporter for the same source still revokes the older generation; stale publication remains an error. Create the reporter before its borrowing binding owner, then release bindings before the reporter. Swallowing errors or disabling generation checks is not a lifetime solution.
 
