@@ -11,25 +11,29 @@ sourceFingerprint: 609622884429066bcf5ad38610286a68fb3dc3dab34f6bb474ea2e64a2bce
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.
-source: xml
-description: null
+source: FLwolfy
+description:
+- "Returns every stored object whose key has the given value, as a list that later store changes do not affect."
 outdated: false
 ---
 
 ## Type parameters
 
-**Type parameter `TKey`:** Key type.
+- `TKey`: The value type of the key. It matches the type you used in [`DefineKey`](indexedobjectstore.definekey-706f9bbc985d3738.md).
 
 ## Parameters
 
-**Parameter `key`:** The key handle to query.
-
-**Parameter `value`:** The key value to look up.
+- `key`: The key to search. Use the handle returned by `DefineKey` or [`TryGetKey`](indexedobjectstore.trygetkey-9934ffbbe6134428.md) on this same store.
+- `value`: The key value to match.
 
 ## Returns
 
-A stable snapshot list of matching items.
+A new read-only list of the matching objects. The list is empty when nothing matches. It is a snapshot: adding or removing items afterwards does not change it.
+
+## Exceptions
+
+- `InvalidOperationException`: `key` was defined on a different store, was removed, or no longer exists because the store was cleared.
 
 ## Remarks
 
-The returned list is detached from subsequent store mutations.
+Use [`FindFast`](indexedobjectstore.findfast-cf853c40377a10d6.md) to avoid the copy when you will not modify the store while reading the results. Use [`First`](indexedobjectstore.first-e5dca9aff8556c1b.md) when you need only one match, for example with a unique key.
