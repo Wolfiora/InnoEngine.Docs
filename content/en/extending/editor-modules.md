@@ -1,17 +1,22 @@
 ---
-exampleMode: host
-exampleProjects:
-  - Inno.Editor.Core
-title: Create an Editor module
-description: Give a shared Editor feature a discovered identity, activation
-  hooks and explicit resource ownership.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.editor-modules
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Core
   - Inno.Editor.Interactions
 contracts:
   - architecture.editor-generations
+exampleMode: host
+exampleProjects:
+  - Inno.Editor.Core
+
+# Authoring metadata. Edit these fields and the text below.
+title: Create an Editor module
+description: Give a shared Editor feature a discovered identity, activation
+  hooks and explicit resource ownership.
 ---
 # Create an Editor module
 

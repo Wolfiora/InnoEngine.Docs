@@ -1,8 +1,9 @@
 ---
-title: Inno.Build.Toolchains.MiniAudio
-description: Frozen MiniAudio source recipes and validated immutable native products.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-toolchains-miniaudio
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.Toolchains.MiniAudio
 contracts:
@@ -10,6 +11,10 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Build.Toolchains.MiniAudio
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Build.Toolchains.MiniAudio
+description: Frozen MiniAudio source recipes and validated immutable native products.
 ---
 # Inno.Build.Toolchains.MiniAudio
 

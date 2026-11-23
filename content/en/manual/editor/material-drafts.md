@@ -1,13 +1,18 @@
 ---
-title: Edit a material source draft
-description: Record detached material edits, preserve recovery and publish only
-  through explicit saving.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.editor.material-drafts
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Shaders
 contracts:
   - project.inno-editor-shaders
+
+# Authoring metadata. Edit these fields and the text below.
+title: Edit a material source draft
+description: Record detached material edits, preserve recovery and publish only
+  through explicit saving.
 ---
 # Edit a material source draft
 

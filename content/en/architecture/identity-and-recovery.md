@@ -1,9 +1,9 @@
 ---
-title: Identity, recovery and generation boundaries
-description: Connect persistent intent, live registration, neutral state and
-  verified retirement across engine domains.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.identity-and-recovery
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Identity
   - Inno.References
@@ -11,6 +11,11 @@ owners:
 contracts:
   - architecture.ownership
   - architecture.generation-publication
+
+# Authoring metadata. Edit these fields and the text below.
+title: Identity, recovery and generation boundaries
+description: Connect persistent intent, live registration, neutral state and
+  verified retirement across engine domains.
 ---
 # Identity, recovery and generation boundaries
 

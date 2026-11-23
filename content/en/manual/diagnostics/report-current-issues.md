@@ -1,9 +1,9 @@
 ---
-title: Report and resolve current issues
-description: Publish owner-bound diagnostic state, replace complete reports, and
-  resolve problems without erasing log history.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.diagnostics.report-current-issues
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Diagnostics
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.Diagnostics
+
+# Authoring metadata. Edit these fields and the text below.
+title: Report and resolve current issues
+description: Publish owner-bound diagnostic state, replace complete reports, and
+  resolve problems without erasing log history.
 ---
 # Report and resolve current issues
 

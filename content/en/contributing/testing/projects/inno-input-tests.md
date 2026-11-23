@@ -1,10 +1,15 @@
 ---
-title: Input runtime tests
-description: Managed input routing, window isolation and suspension contracts.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-input-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Input.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Input runtime tests
+description: Managed input routing, window isolation and suspension contracts.
 ---
 # Input runtime tests
 

@@ -1,15 +1,20 @@
 ---
-title: Extend asset browsing and presentation
-description: Add source actions, type/extension icons and inspection without
-  coupling panels or taking over file transactions.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.asset-browser
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Assets.ImGui
   - Inno.Editor.Panel.FileBrowser
 contracts:
   - project.inno-editor-assets-imgui
   - project.inno-editor-assets
+
+# Authoring metadata. Edit these fields and the text below.
+title: Extend asset browsing and presentation
+description: Add source actions, type/extension icons and inspection without
+  coupling panels or taking over file transactions.
 ---
 # Extend asset browsing and presentation
 

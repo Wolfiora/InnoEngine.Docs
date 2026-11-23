@@ -1,10 +1,15 @@
 ---
-title: Script compiler and cache publication tests
-description: Verify real language support, IDE parity and protected script generations.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-scripting-compiler-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Scripting.Compiler.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Script compiler and cache publication tests
+description: Verify real language support, IDE parity and protected script generations.
 ---
 # Script compiler and cache publication tests
 

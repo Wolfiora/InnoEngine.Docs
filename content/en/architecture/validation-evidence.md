@@ -1,13 +1,18 @@
 ---
-title: Validation inputs, builds and evidence
-description: Understand how a selected change becomes an owned build and a
-  reconciled result.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.validation-evidence
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Tooling.Validation
 contracts:
   - project.inno-tooling-validation
+
+# Authoring metadata. Edit these fields and the text below.
+title: Validation inputs, builds and evidence
+description: Understand how a selected change becomes an owned build and a
+  reconciled result.
 ---
 # Validation inputs, builds and evidence
 

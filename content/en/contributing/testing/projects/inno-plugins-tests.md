@@ -1,10 +1,15 @@
 ---
-title: Plugin source and snapshot tests
-description: Verify immutable plugin publication, cache validation and activation.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-plugins-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Plugins.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Plugin source and snapshot tests
+description: Verify immutable plugin publication, cache validation and activation.
 ---
 # Plugin source and snapshot tests
 

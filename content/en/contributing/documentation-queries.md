@@ -1,10 +1,15 @@
 ---
-title: Query documentation locally
-description: Prepare a documentation snapshot once, then retrieve tasks and contracts without rebuilding the engine.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.documentation-queries
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Tooling.Documentation
+
+# Authoring metadata. Edit these fields and the text below.
+title: Query documentation locally
+description: Prepare a documentation snapshot once, then retrieve tasks and contracts without rebuilding the engine.
 ---
 # Query documentation locally
 

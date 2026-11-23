@@ -1,15 +1,20 @@
 ---
-title: Editor generations and retirement
-description: How Editor extensions activate, roll back, quarantine failures and
-  retain ownership during retirement.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.editor-generations
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Core
   - Inno.Editor.Interactions
 contracts:
   - architecture.ownership
   - manual.identity-and-missing
+
+# Authoring metadata. Edit these fields and the text below.
+title: Editor generations and retirement
+description: How Editor extensions activate, roll back, quarantine failures and
+  retain ownership during retirement.
 ---
 # Editor generations and retirement
 

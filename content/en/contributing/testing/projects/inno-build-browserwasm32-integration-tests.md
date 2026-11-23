@@ -1,10 +1,15 @@
 ---
-title: Browser toolchain and support pack tests
-description: Check browser toolchain behavior, support pack validation and the browser pack ABI.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-browserwasm32-integration-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.BrowserWasm32.Integration.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Browser toolchain and support pack tests
+description: Check browser toolchain behavior, support pack validation and the browser pack ABI.
 ---
 # Browser toolchain and support pack tests
 

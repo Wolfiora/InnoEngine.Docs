@@ -1,10 +1,15 @@
 ---
-title: RmlUi implementation boundary
-description: Native document and frame-transfer ownership behind the managed RmlUi adapter.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-native-ui
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Native.UI
+
+# Authoring metadata. Edit these fields and the text below.
+title: RmlUi implementation boundary
+description: Native document and frame-transfer ownership behind the managed RmlUi adapter.
 ---
 # RmlUi implementation boundary
 

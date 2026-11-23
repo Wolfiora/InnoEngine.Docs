@@ -1,14 +1,19 @@
 ---
-title: Provide audio from host content
-description: Submit bounded emitter and listener snapshots without leaking
-  content or plugin lifetimes.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.audio-content
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Audio
   - Inno.Audio.Runtime
 contracts:
   - architecture.audio-lifetime#retirement-and-failure-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: Provide audio from host content
+description: Submit bounded emitter and listener snapshots without leaking
+  content or plugin lifetimes.
 ---
 # Provide audio from host content
 

@@ -1,10 +1,15 @@
 ---
-title: Module generation and unload tests
-description: Verify collectible generations, rollback and retained dependencies.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-extensibility-modules-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Modules.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Module generation and unload tests
+description: Verify collectible generations, rollback and retained dependencies.
 ---
 # Module generation and unload tests
 

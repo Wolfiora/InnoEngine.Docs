@@ -1,8 +1,11 @@
 ---
-title: Start the Editor
-description: Build and launch the normal InnoEngine Editor entry point.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: getting-started.editor
 kind: tutorial
+
+# Authoring metadata. Edit these fields and the text below.
+title: Start the Editor
+description: Build and launch the normal InnoEngine Editor entry point.
 aliases:
   - launch editor
   - start editor

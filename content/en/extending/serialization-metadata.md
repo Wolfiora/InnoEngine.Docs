@@ -1,9 +1,9 @@
 ---
-title: Supply serialization metadata for a deployment
-description: Choose generated or dynamic declaration access without weakening
-  encapsulation or introducing reflection fallback.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.serialization-metadata
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Serialization
   - Inno.Core.Serialization.Generators
@@ -14,6 +14,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.Serialization
+
+# Authoring metadata. Edit these fields and the text below.
+title: Supply serialization metadata for a deployment
+description: Choose generated or dynamic declaration access without weakening
+  encapsulation or introducing reflection fallback.
 ---
 # Supply serialization metadata for a deployment
 

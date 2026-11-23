@@ -1,8 +1,11 @@
 ---
-title: Understand the Editor and Player compositions
-description: Separate shared hosting from the concrete product that supplies its dependencies.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: platforms.product-composition
 kind: explanation
+
+# Authoring metadata. Edit these fields and the text below.
+title: Understand the Editor and Player compositions
+description: Separate shared hosting from the concrete product that supplies its dependencies.
 ---
 # Understand the Editor and Player compositions
 

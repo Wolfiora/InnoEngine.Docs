@@ -1,10 +1,15 @@
 ---
-title: Product build and publication tests
-description: Verify real SDK composition, native publication, support packs and output ownership.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Product build and publication tests
+description: Verify real SDK composition, native publication, support packs and output ownership.
 ---
 # Product build and publication tests
 

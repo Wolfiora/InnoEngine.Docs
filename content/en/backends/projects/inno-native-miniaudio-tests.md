@@ -1,10 +1,15 @@
 ---
-title: MiniAudio loading and initialization tests
-description: Complete native function-table loading and headless engine initialization for the declared player product.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-native-miniaudio-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Native.MiniAudio.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: MiniAudio loading and initialization tests
+description: Complete native function-table loading and headless engine initialization for the declared player product.
 ---
 # MiniAudio loading and initialization tests
 

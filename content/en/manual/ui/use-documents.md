@@ -1,9 +1,9 @@
 ---
-title: Display and update a UI document
-description: Load an imported document, manage its context, route input, and
-  hand resource deltas to a renderer.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.ui.use-documents
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.UI
   - Inno.UI.Runtime
@@ -13,6 +13,11 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.UI
+
+# Authoring metadata. Edit these fields and the text below.
+title: Display and update a UI document
+description: Load an imported document, manage its context, route input, and
+  hand resource deltas to a renderer.
 ---
 # Display and update a UI document
 

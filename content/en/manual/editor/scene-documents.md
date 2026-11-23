@@ -1,13 +1,18 @@
 ---
-title: Edit, save and recover scene documents
-description: Keep scene mutations reversible and distinguish source
-  availability, runtime copies and real authored changes.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.editor.scene-documents
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Scene
 contracts:
   - project.inno-editor-scene
+
+# Authoring metadata. Edit these fields and the text below.
+title: Edit, save and recover scene documents
+description: Keep scene mutations reversible and distinguish source
+  availability, runtime copies and real authored changes.
 ---
 # Edit, save and recover scene documents
 

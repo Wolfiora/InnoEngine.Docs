@@ -1,9 +1,9 @@
 ---
-title: Import an installed plugin sample
-description: Copy a sample into writable project sources while preserving
-  transaction and deployment boundaries.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.assets.samples
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Assets.Pipeline
 contracts:
@@ -12,6 +12,11 @@ exampleMode: host
 exampleProjects:
   - Inno.Assets
   - Inno.Assets.Pipeline
+
+# Authoring metadata. Edit these fields and the text below.
+title: Import an installed plugin sample
+description: Copy a sample into writable project sources while preserving
+  transaction and deployment boundaries.
 ---
 # Import an installed plugin sample
 

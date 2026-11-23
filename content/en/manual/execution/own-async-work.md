@@ -1,9 +1,9 @@
 ---
-title: Own asynchronous work until it finishes
-description: Admit work before it starts, propagate cancellation, and retain
-  resources until retirement completes.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.execution.own-async-work
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Execution
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.Execution
+
+# Authoring metadata. Edit these fields and the text below.
+title: Own asynchronous work until it finishes
+description: Admit work before it starts, propagate cancellation, and retain
+  resources until retirement completes.
 ---
 # Own asynchronous work until it finishes
 

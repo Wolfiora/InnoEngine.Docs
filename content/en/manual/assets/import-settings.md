@@ -1,9 +1,9 @@
 ---
-title: Edit asset import settings
-description: Modify a detached settings value with source conflict detection and
-  explicit import status.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.assets.import-settings
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Assets.Pipeline
 contracts:
@@ -12,6 +12,11 @@ exampleMode: host
 exampleProjects:
   - Inno.Assets
   - Inno.Assets.Pipeline
+
+# Authoring metadata. Edit these fields and the text below.
+title: Edit asset import settings
+description: Modify a detached settings value with source conflict detection and
+  explicit import status.
 ---
 # Edit asset import settings
 

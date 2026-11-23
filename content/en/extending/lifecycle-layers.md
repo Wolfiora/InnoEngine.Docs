@@ -1,9 +1,9 @@
 ---
-title: Compose lifecycle layers and overlays
-description: Order host callbacks, isolate event subscriptions and unwind
-  successfully prepared rendering state.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.lifecycle-layers
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Layers
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.Layers
+
+# Authoring metadata. Edit these fields and the text below.
+title: Compose lifecycle layers and overlays
+description: Order host callbacks, isolate event subscriptions and unwind
+  successfully prepared rendering state.
 ---
 # Compose lifecycle layers and overlays
 

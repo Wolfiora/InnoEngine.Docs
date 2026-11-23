@@ -1,9 +1,9 @@
 ---
-title: Query objects through typed indexes
-description: Keep one reference-identity collection with explicit keys, snapshot
-  reads and bounded query candidates.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.data.query-objects
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Collections
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.Collections
+
+# Authoring metadata. Edit these fields and the text below.
+title: Query objects through typed indexes
+description: Keep one reference-identity collection with explicit keys, snapshot
+  reads and bounded query candidates.
 ---
 # Query objects through typed indexes
 

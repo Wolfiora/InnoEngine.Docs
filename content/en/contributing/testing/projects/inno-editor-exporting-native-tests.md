@@ -1,10 +1,15 @@
 ---
-title: Editor export workflow and presentation tests
-description: Check Editor export workflows, their outcomes and the native presentation of the export feature.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-editor-exporting-native-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Exporting.Native.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Editor export workflow and presentation tests
+description: Check Editor export workflows, their outcomes and the native presentation of the export feature.
 ---
 # Editor export workflow and presentation tests
 

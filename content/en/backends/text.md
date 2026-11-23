@@ -1,9 +1,9 @@
 ---
-title: FreeType and HarfBuzz text backend
-description: Understand the font backend, native ownership and its current
-  typography boundaries.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: backends.text
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Text.FreeTypeHarfBuzz
   - Inno.Native.Text
@@ -11,6 +11,11 @@ owners:
 contracts:
   - project.inno-adapter-text-freetypeharfbuzz#backend-lifetime-contract
   - project.inno-native-text#native-lifetime-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: FreeType and HarfBuzz text backend
+description: Understand the font backend, native ownership and its current
+  typography boundaries.
 ---
 # FreeType and HarfBuzz text backend
 

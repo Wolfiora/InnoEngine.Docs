@@ -1,14 +1,19 @@
 ---
-title: Add an animation binding
-description: Connect neutral samples to a host-owned target without adding a
-  central property switch.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.animation-bindings
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Animation
   - Inno.Animation.Runtime
 contracts:
   - project.inno-animation-runtime#binding-lifetime-and-diagnostics
+
+# Authoring metadata. Edit these fields and the text below.
+title: Add an animation binding
+description: Connect neutral samples to a host-owned target without adding a
+  central property switch.
 ---
 # Add an animation binding
 

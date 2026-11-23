@@ -1,15 +1,20 @@
 ---
-title: Add a text backend
-description: Implement neutral shaping, register a provider and transfer one
-  backend to each runtime session.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.text-backends
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Text
   - Inno.Text
 contracts:
   - project.inno-adapter-text#provider-and-ownership-contract
   - project.inno-text#shaping-and-glyph-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: Add a text backend
+description: Implement neutral shaping, register a provider and transfer one
+  backend to each runtime session.
 ---
 # Add a text backend
 

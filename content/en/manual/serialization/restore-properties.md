@@ -1,9 +1,9 @@
 ---
-title: Restore properties across a reload
-description: Carry neutral property data across generations and account for
-  rejected or missing members explicitly.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.serialization.restore-properties
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Serialization
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.Serialization
+
+# Authoring metadata. Edit these fields and the text below.
+title: Restore properties across a reload
+description: Carry neutral property data across generations and account for
+  rejected or missing members explicitly.
 ---
 # Restore properties across a reload
 

@@ -1,13 +1,18 @@
 ---
-title: Diagnose an unavailable plugin
-description: Separate invalid installation data, compilation failure, Missing
-  recovery and retirement faults.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.plugins.troubleshoot
 kind: troubleshooting
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Plugins.Authoring
 contracts:
   - project.inno-plugins-authoring#installation-and-generation-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: Diagnose an unavailable plugin
+description: Separate invalid installation data, compilation failure, Missing
+  recovery and retirement faults.
 ---
 # Diagnose an unavailable plugin
 

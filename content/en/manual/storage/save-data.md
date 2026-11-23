@@ -1,8 +1,9 @@
 ---
-title: Save and load application data
-description: Store complete byte values without exposing filesystem paths to game scripts.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.storage.save-data
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Storage
   - Inno.Storage.Runtime
@@ -12,6 +13,10 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.Storage
+
+# Authoring metadata. Edit these fields and the text below.
+title: Save and load application data
+description: Store complete byte values without exposing filesystem paths to game scripts.
 ---
 # Save and load application data
 

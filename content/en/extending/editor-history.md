@@ -1,17 +1,22 @@
 ---
-exampleMode: host
-exampleProjects:
-  - Inno.Editor.Interactions
-title: Record undoable Editor changes
-description: Record neutral domain changes, compensate failed transactions and
-  respect History resource ownership.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.editor-history
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Interactions
 contracts:
   - architecture.editor-generations
   - manual.identity-and-missing
+exampleMode: host
+exampleProjects:
+  - Inno.Editor.Interactions
+
+# Authoring metadata. Edit these fields and the text below.
+title: Record undoable Editor changes
+description: Record neutral domain changes, compensate failed transactions and
+  respect History resource ownership.
 ---
 # Record undoable Editor changes
 

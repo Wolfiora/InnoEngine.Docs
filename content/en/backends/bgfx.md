@@ -1,13 +1,18 @@
 ---
-title: Use the BGFX rendering backend
-description: Create, submit and retire an engine rendering device without losing
-  its window and resource owners.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: backends.bgfx
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Rendering.Bgfx
 contracts:
   - project.inno-adapter-rendering-bgfx
+
+# Authoring metadata. Edit these fields and the text below.
+title: Use the BGFX rendering backend
+description: Create, submit and retire an engine rendering device without losing
+  its window and resource owners.
 ---
 # Use the BGFX rendering backend
 

@@ -1,9 +1,9 @@
 ---
-title: Load scenes and move objects
-description: Manage an additive loaded set without cloning or losing persistent
-  object identity.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.scenes.manage
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Scene
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.Scene
+
+# Authoring metadata. Edit these fields and the text below.
+title: Load scenes and move objects
+description: Manage an additive loaded set without cloning or losing persistent
+  object identity.
 ---
 # Load scenes and move objects
 

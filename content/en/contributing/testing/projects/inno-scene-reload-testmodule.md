@@ -1,10 +1,15 @@
 ---
-title: "Collectible scene restoration fixture"
-description: "Exercise Missing preservation, returning types and failed restoration."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-scene-reload-testmodule
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Scene.Reload.TestModule
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Collectible scene restoration fixture"
+description: "Exercise Missing preservation, returning types and failed restoration."
 ---
 # Collectible scene restoration fixture
 

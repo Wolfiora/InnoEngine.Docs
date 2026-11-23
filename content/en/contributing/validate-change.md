@@ -1,8 +1,11 @@
 ---
-title: Validate an engine change
-description: Select the affected contracts, prepare their actual environment, and reconcile trustworthy results.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.validate-change
 kind: how-to
+
+# Authoring metadata. Edit these fields and the text below.
+title: Validate an engine change
+description: Select the affected contracts, prepare their actual environment, and reconcile trustworthy results.
 ---
 # Validate an engine change
 

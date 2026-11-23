@@ -1,11 +1,16 @@
 ---
-title: Inno.Adapter.Modules.DotNet
-description: "Explicit host assembly catalogs, collectible module sources and reflection facts for dynamic authoring hosts."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-adapter-modules-dotnet
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Adapter.Modules.DotNet]
 exampleMode: host
 exampleProjects: [Inno.Adapter.Modules.DotNet]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Adapter.Modules.DotNet
+description: "Explicit host assembly catalogs, collectible module sources and reflection facts for dynamic authoring hosts."
 ---
 # Inno.Adapter.Modules.DotNet
 

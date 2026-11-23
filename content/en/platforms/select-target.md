@@ -1,8 +1,11 @@
 ---
-title: Choose a platform and product
-description: Separate the execution host, target, product and managed deployment before preparing output.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: platforms.select-target
 kind: how-to
+
+# Authoring metadata. Edit these fields and the text below.
+title: Choose a platform and product
+description: Separate the execution host, target, product and managed deployment before preparing output.
 ---
 # Choose a platform and product
 

@@ -1,10 +1,15 @@
 ---
-title: "Type-discovery source B fixture"
-description: "Distinguish a second assembly in filtered and combined discovery."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-extensibility-types-testassemblyb
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Types.TestAssemblyB
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Type-discovery source B fixture"
+description: "Distinguish a second assembly in filtered and combined discovery."
 ---
 # Type-discovery source B fixture
 

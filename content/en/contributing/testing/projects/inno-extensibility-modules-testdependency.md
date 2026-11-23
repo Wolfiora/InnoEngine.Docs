@@ -1,10 +1,15 @@
 ---
-title: "Private reload dependency fixture"
-description: "Expose the selected module generation's private dependency resolution."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-extensibility-modules-testdependency
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Modules.TestDependency
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Private reload dependency fixture"
+description: "Expose the selected module generation's private dependency resolution."
 ---
 # Private reload dependency fixture
 

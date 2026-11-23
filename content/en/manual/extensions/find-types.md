@@ -1,9 +1,9 @@
 ---
-title: Find extension types without retaining old generations
-description: Query the current type catalog, persist stable references and scope
-  access to live CLR declarations.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.extensions.find-types
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Types
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Extensibility.Types
+
+# Authoring metadata. Edit these fields and the text below.
+title: Find extension types without retaining old generations
+description: Query the current type catalog, persist stable references and scope
+  access to live CLR declarations.
 ---
 # Find extension types without retaining old generations
 

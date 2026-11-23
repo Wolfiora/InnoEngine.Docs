@@ -1,9 +1,9 @@
 ---
-title: Compile shader assets for BGFX
-description: Freeze authored sources, analyze shader functions and publish
-  target-specific engine artifacts.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: backends.bgfx-shaders
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.Toolchains.Bgfx.Shaders
   - Inno.Build.Toolchains.Bgfx.Tools
@@ -12,6 +12,11 @@ contracts:
   - project.inno-build-toolchains-bgfx-shaders
   - project.inno-build-toolchains-bgfx-tools
   - project.inno-build-toolchains-bgfx
+
+# Authoring metadata. Edit these fields and the text below.
+title: Compile shader assets for BGFX
+description: Freeze authored sources, analyze shader functions and publish
+  target-specific engine artifacts.
 ---
 # Compile shader assets for BGFX
 

@@ -1,10 +1,15 @@
 ---
-title: Windows x64 toolchain tests
-description: Check tool runner paths, working directories and support pack validation for Windows x64.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-windowsx64-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.WindowsX64.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Windows x64 toolchain tests
+description: Check tool runner paths, working directories and support pack validation for Windows x64.
 ---
 # Windows x64 toolchain tests
 

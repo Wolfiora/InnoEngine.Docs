@@ -1,13 +1,9 @@
 ---
-title: Preserve and resolve a Missing reference
-description: Keep persistent intent when an object or its resolver is
-  temporarily unavailable.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.references.resolve-missing
 kind: how-to
-aliases:
-  - Missing references
-  - resolve Missing reference
-  - recover Missing reference
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.References
 contracts:
@@ -15,6 +11,15 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.References
+
+# Authoring metadata. Edit these fields and the text below.
+title: Preserve and resolve a Missing reference
+description: Keep persistent intent when an object or its resolver is
+  temporarily unavailable.
+aliases:
+  - Missing references
+  - resolve Missing reference
+  - recover Missing reference
 ---
 # Preserve and resolve a Missing reference
 

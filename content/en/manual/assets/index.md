@@ -1,9 +1,14 @@
 ---
-title: Assets, importing and deployment content
-description: Find the workflow for authoring sources, retaining runtime assets and reading verified content.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.assets.home
 kind: landing
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Assets, Inno.Assets.Pipeline, Inno.Content]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Assets, importing and deployment content
+description: Find the workflow for authoring sources, retaining runtime assets and reading verified content.
 ---
 # Assets, importing and deployment content
 

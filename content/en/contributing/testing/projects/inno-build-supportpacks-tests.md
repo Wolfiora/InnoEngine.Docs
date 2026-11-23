@@ -1,10 +1,15 @@
 ---
-title: Support pack workflow tests
-description: Check closure validation, preparation cache behavior and publication in the support pack workflow.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-supportpacks-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.SupportPacks.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Support pack workflow tests
+description: Check closure validation, preparation cache behavior and publication in the support pack workflow.
 ---
 # Support pack workflow tests
 

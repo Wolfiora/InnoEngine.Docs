@@ -1,15 +1,20 @@
 ---
-title: Author an RmlUi document
-description: Import RML with controlled RCSS dependencies, declared font assets,
-  and an explicit runtime backend.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.ui.author-rml
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.UI.RmlUi.Authoring
   - Inno.UI.Assets
 contracts:
   - project.inno-adapter-ui-rmlui-authoring#source-analysis-contract
   - project.inno-ui-assets#import-and-generation-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: Author an RmlUi document
+description: Import RML with controlled RCSS dependencies, declared font assets,
+  and an explicit runtime backend.
 ---
 # Author an RmlUi document
 

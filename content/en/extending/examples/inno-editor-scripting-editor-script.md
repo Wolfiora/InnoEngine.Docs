@@ -1,8 +1,9 @@
 ---
-title: Inno.Editor.Scripting editor-script examples
-description: Verified logical API use sites with the owning feature lifecycle kept explicit.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: examples.inno-editor-scripting.editor-script
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Scripting
 contracts:
@@ -10,6 +11,10 @@ contracts:
 exampleMode: editor-script
 exampleProjects:
   - Inno.Editor.Scripting
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Editor.Scripting editor-script examples
+description: Verified logical API use sites with the owning feature lifecycle kept explicit.
 ---
 # Inno.Editor.Scripting editor-script examples
 

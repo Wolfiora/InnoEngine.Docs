@@ -1,9 +1,9 @@
 ---
-title: Browse and change project assets
-description: Navigate writable project sources and read-only plugins while
-  preserving source identity and undo.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.editor.files
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Panel.FileBrowser
   - Inno.Editor.Assets
@@ -12,6 +12,11 @@ contracts:
   - project.inno-editor-panel-filebrowser
   - project.inno-editor-assets
   - project.inno-editor-assets-imgui
+
+# Authoring metadata. Edit these fields and the text below.
+title: Browse and change project assets
+description: Navigate writable project sources and read-only plugins while
+  preserving source identity and undo.
 ---
 # Browse and change project assets
 

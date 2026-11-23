@@ -1,9 +1,14 @@
 ---
-title: Inno.Adapter.Platform.Sdl3
-description: "Explicit SDL host integration, owned and adopted windows, native folder selection and neutral event routing."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-adapter-platform-sdl3
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Adapter.Platform.Sdl3]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Adapter.Platform.Sdl3
+description: "Explicit SDL host integration, owned and adopted windows, native folder selection and neutral event routing."
 ---
 # Inno.Adapter.Platform.Sdl3
 

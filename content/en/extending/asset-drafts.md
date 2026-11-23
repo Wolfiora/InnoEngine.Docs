@@ -1,13 +1,18 @@
 ---
-title: Add source asset creation and draft editing
-description: Reuse the asset owner, shared documents and immediate neutral
-  History instead of adding a private editor database.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.asset-drafts
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Assets
 contracts:
   - project.inno-editor-assets
+
+# Authoring metadata. Edit these fields and the text below.
+title: Add source asset creation and draft editing
+description: Reuse the asset owner, shared documents and immediate neutral
+  History instead of adding a private editor database.
 ---
 # Add source asset creation and draft editing
 

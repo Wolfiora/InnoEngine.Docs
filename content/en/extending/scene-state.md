@@ -1,9 +1,9 @@
 ---
-title: Capture the smallest scene state
-description: Choose property, element, subtree or asset persistence without
-  retaining runtime generations.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.scene-state
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Scene
   - Inno.Scene.Assets
@@ -15,6 +15,11 @@ exampleMode: host
 exampleProjects:
   - Inno.Scene
   - Inno.Scene.Assets
+
+# Authoring metadata. Edit these fields and the text below.
+title: Capture the smallest scene state
+description: Choose property, element, subtree or asset persistence without
+  retaining runtime generations.
 ---
 # Capture the smallest scene state
 

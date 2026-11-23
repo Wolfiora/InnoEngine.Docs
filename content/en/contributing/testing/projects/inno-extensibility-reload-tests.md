@@ -1,10 +1,15 @@
 ---
-title: Generation admission and retirement tests
-description: Verify publication ordering, read protection and terminal unload failures.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-extensibility-reload-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Reload.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Generation admission and retirement tests
+description: Verify publication ordering, read protection and terminal unload failures.
 ---
 # Generation admission and retirement tests
 

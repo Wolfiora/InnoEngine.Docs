@@ -1,13 +1,18 @@
 ---
-title: Publish a managed deployment
-description: Select an explicit .NET deployment compiler, retain the native
-  closure and diagnose SDK or process failures.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: backends.dotnet-publishing
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.Managed.DotNet
 contracts:
   - project.inno-build-managed-dotnet
+
+# Authoring metadata. Edit these fields and the text below.
+title: Publish a managed deployment
+description: Select an explicit .NET deployment compiler, retain the native
+  closure and diagnose SDK or process failures.
 ---
 # Publish a managed deployment
 

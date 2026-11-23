@@ -1,10 +1,15 @@
 ---
-title: "Rejected module candidate fixture"
-description: "Preserve a deliberate stable-type collision for atomic candidate admission tests."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-extensibility-modules-testmodule-invalid
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Modules.TestModule.Invalid
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Rejected module candidate fixture"
+description: "Preserve a deliberate stable-type collision for atomic candidate admission tests."
 ---
 # Rejected module candidate fixture
 

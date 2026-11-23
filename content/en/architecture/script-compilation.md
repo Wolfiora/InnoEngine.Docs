@@ -1,15 +1,20 @@
 ---
-title: Script compilation and IDE projection
-description: Keep logical authoring APIs and real CLR emission consistent under
-  explicit SDK and artifact identities.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.script-compilation
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Scripting.Api
   - Inno.Scripting.Compiler
 contracts:
   - project.inno-scripting-api
   - project.inno-scripting-compiler
+
+# Authoring metadata. Edit these fields and the text below.
+title: Script compilation and IDE projection
+description: Keep logical authoring APIs and real CLR emission consistent under
+  explicit SDK and artifact identities.
 ---
 # Script compilation and IDE projection
 

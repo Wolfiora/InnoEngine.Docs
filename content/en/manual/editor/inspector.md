@@ -1,14 +1,19 @@
 ---
-title: Inspect and edit the current target
-description: Use target locking, scene-safe mutations, Transform spaces and
-  typed reference assignment.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.editor.inspector
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Panel.Inspector
 contracts:
   - project.inno-editor-panel-inspector
   - project.inno-editor-inspection
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inspect and edit the current target
+description: Use target locking, scene-safe mutations, Transform spaces and
+  typed reference assignment.
 ---
 # Inspect and edit the current target
 

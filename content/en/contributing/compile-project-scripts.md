@@ -1,13 +1,18 @@
 ---
-title: Compile scripts and generate IDE projects
-description: Use the managed authoring command with the actual Runtime and
-  Editor script projections.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.compile-project-scripts
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.Cli
 contracts:
   - project.inno-build-cli#managed-authoring-boundary
+
+# Authoring metadata. Edit these fields and the text below.
+title: Compile scripts and generate IDE projects
+description: Use the managed authoring command with the actual Runtime and
+  Editor script projections.
 ---
 # Compile scripts and generate IDE projects
 

@@ -1,10 +1,15 @@
 ---
-title: Coroutine scheduling tests
-description: Verify tick-based waits, predicates and explicit cancellation.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-coroutines-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Coroutines.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Coroutine scheduling tests
+description: Verify tick-based waits, predicates and explicit cancellation.
 ---
 # Coroutine scheduling tests
 

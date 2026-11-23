@@ -1,8 +1,11 @@
 ---
-title: Contributing to InnoEngine
-description: Find the authoritative development rules and preserve evidence while changing the engine or docs.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.home
 kind: landing
+
+# Authoring metadata. Edit these fields and the text below.
+title: Contributing to InnoEngine
+description: Find the authoritative development rules and preserve evidence while changing the engine or docs.
 ---
 # Contributing to InnoEngine
 
@@ -30,6 +33,8 @@ Follow [example validation](example-validation.md) to declare host or script con
 ## Coordinate behavior and documentation
 
 Maintain API XML with engine changes. After a human master merge, independent export synchronizes source facts and XML-managed prose into Docs draft. Tutorials and Manual pages are maintained separately. A human draft-to-main merge publishes the validated website; no paired engine PR metadata is required.
+
+[Create a documentation page](create-a-page.md) covers the metadata, navigation entry and checks of a hand-written page.
 
 [Maintain API documentation](api-documentation.md) explains per-type/member XML and manual ownership, script scopes and non-blocking editorial reminders.
 

@@ -1,13 +1,18 @@
 ---
-title: Edit a graph document with undo and recovery
-description: Use persistent document identities, session controllers and neutral
-  history payloads for graph editing.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.graph-documents
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Graph
 contracts:
   - project.inno-editor-graph
+
+# Authoring metadata. Edit these fields and the text below.
+title: Edit a graph document with undo and recovery
+description: Use persistent document identities, session controllers and neutral
+  history payloads for graph editing.
 ---
 # Edit a graph document with undo and recovery
 

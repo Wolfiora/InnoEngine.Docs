@@ -1,14 +1,19 @@
 ---
-title: Validate documentation examples
-description: Compile canonical examples with explicit host or script references
-  and retain precise failure evidence.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.example-validation
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Tooling.Architecture
   - Inno.Tooling.Documentation
 contracts:
   - contributing.documentation-queries
+
+# Authoring metadata. Edit these fields and the text below.
+title: Validate documentation examples
+description: Compile canonical examples with explicit host or script references
+  and retain precise failure evidence.
 ---
 # Validate documentation examples
 

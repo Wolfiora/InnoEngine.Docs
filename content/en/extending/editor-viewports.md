@@ -1,13 +1,18 @@
 ---
-title: Contribute a rendering model to an Editor viewport
-description: Separate render layers, interaction ownership, frame-scoped content
-  and safe preview output.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.editor-viewports
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Rendering
 contracts:
   - project.inno-editor-rendering
+
+# Authoring metadata. Edit these fields and the text below.
+title: Contribute a rendering model to an Editor viewport
+description: Separate render layers, interaction ownership, frame-scoped content
+  and safe preview output.
 ---
 # Contribute a rendering model to an Editor viewport
 

@@ -1,18 +1,23 @@
 ---
-exampleMode: host
-exampleProjects:
-  - Inno.Editor.Core
-title: Add a modal view
-description: Declare a host-owned overlay with explicit visibility, sizing and
-  preparation behavior.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.editor-modals
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Core
   - Inno.Editor.Interactions
   - Inno.Editor.ImGui
 contracts:
   - architecture.editor-generations
+exampleMode: host
+exampleProjects:
+  - Inno.Editor.Core
+
+# Authoring metadata. Edit these fields and the text below.
+title: Add a modal view
+description: Declare a host-owned overlay with explicit visibility, sizing and
+  preparation behavior.
 ---
 # Add a modal view
 

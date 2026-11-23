@@ -1,8 +1,11 @@
 ---
-title: Compose a runtime host
-description: Select explicit backend factories, metadata and subsystem owners without duplicating Editor or Player loops.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.runtime-host
 kind: how-to
+
+# Authoring metadata. Edit these fields and the text below.
+title: Compose a runtime host
+description: Select explicit backend factories, metadata and subsystem owners without duplicating Editor or Player loops.
 ---
 # Compose a runtime host
 

@@ -1,10 +1,15 @@
 ---
-title: Product composition tests
-description: Check product composition, build target selection and cache publication.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-products-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.Products.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Product composition tests
+description: Check product composition, build target selection and cache publication.
 ---
 # Product composition tests
 

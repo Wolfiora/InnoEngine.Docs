@@ -1,8 +1,11 @@
 ---
-title: Rendering and shaders
-description: Work with neutral render graphs, persistent graphics assets and the implemented shader authoring chain.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.rendering.home
 kind: landing
+
+# Authoring metadata. Edit these fields and the text below.
+title: Rendering and shaders
+description: Work with neutral render graphs, persistent graphics assets and the implemented shader authoring chain.
 ---
 # Rendering and shaders
 

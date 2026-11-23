@@ -1,14 +1,19 @@
 ---
-title: Present a neutral graph canvas
-description: Separate geometry, pointer intent and borrowed draw commands from
-  domain edits and History.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.graph-canvas
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Graph.ImGui
 contracts:
   - project.inno-editor-graph-imgui
   - project.inno-editor-graph
+
+# Authoring metadata. Edit these fields and the text below.
+title: Present a neutral graph canvas
+description: Separate geometry, pointer intent and borrowed draw commands from
+  domain edits and History.
 ---
 # Present a neutral graph canvas
 

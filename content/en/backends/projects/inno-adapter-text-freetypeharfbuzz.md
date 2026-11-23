@@ -1,10 +1,15 @@
 ---
-title: Inno.Adapter.Text.FreeTypeHarfBuzz
-description: Convert the narrow native text bridge into neutral shaping and coverage results.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-adapter-text-freetypeharfbuzz
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Text.FreeTypeHarfBuzz
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Adapter.Text.FreeTypeHarfBuzz
+description: Convert the narrow native text bridge into neutral shaping and coverage results.
 ---
 # Inno.Adapter.Text.FreeTypeHarfBuzz
 

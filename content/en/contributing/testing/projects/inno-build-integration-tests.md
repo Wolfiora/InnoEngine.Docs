@@ -1,10 +1,15 @@
 ---
-title: SDK build integration tests
-description: Follow these cases when changing compiler tool scope, binding tasks or development app hosts.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-integration-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.Integration.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: SDK build integration tests
+description: Follow these cases when changing compiler tool scope, binding tasks or development app hosts.
 ---
 # SDK build integration tests
 

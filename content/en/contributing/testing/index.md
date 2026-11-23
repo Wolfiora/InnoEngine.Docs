@@ -1,8 +1,11 @@
 ---
-title: Test-suite reference
-description: Locate domain, contract and native test owners by the behavior you are changing.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.testing.suites
 kind: landing
+
+# Authoring metadata. Edit these fields and the text below.
+title: Test-suite reference
+description: Locate domain, contract and native test owners by the behavior you are changing.
 ---
 # Test-suite reference
 

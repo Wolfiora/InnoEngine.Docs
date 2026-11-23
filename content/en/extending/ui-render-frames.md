@@ -1,13 +1,18 @@
 ---
-title: Consume UI render frames
-description: Apply retained mesh and texture deltas, preserve draw order, and
-  retire renderer-owned resources.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.ui-render-frames
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.UI
 contracts:
   - project.inno-ui#document-and-frame-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: Consume UI render frames
+description: Apply retained mesh and texture deltas, preserve draw order, and
+  retire renderer-owned resources.
 ---
 # Consume UI render frames
 

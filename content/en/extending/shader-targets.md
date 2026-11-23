@@ -1,9 +1,14 @@
 ---
-title: Extend shader Targets and Templates
-description: Expand domain graph structure or create an initial graph without replacing the common shader compiler.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.shader-targets
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Rendering.Shaders]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Extend shader Targets and Templates
+description: Expand domain graph structure or create an initial graph without replacing the common shader compiler.
 ---
 # Extend shader Targets and Templates
 

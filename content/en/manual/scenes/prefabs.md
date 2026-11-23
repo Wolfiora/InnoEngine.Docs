@@ -1,9 +1,9 @@
 ---
-title: Instantiate a prefab in its owning scene
-description: Create a connected instance while preserving scene and asset
-  ownership boundaries.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.scenes.prefabs
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Scene
 contracts:
@@ -12,6 +12,11 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.Scene
+
+# Authoring metadata. Edit these fields and the text below.
+title: Instantiate a prefab in its owning scene
+description: Create a connected instance while preserving scene and asset
+  ownership boundaries.
 ---
 # Instantiate a prefab in its owning scene
 

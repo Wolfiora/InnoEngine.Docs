@@ -1,10 +1,15 @@
 ---
-title: Inno.Adapter.UI.RmlUi.Authoring
-description: RML source analysis, controlled RCSS expansion and font dependency extraction without native layout.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-adapter-ui-rmlui-authoring
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.UI.RmlUi.Authoring
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Adapter.UI.RmlUi.Authoring
+description: RML source analysis, controlled RCSS expansion and font dependency extraction without native layout.
 ---
 # Inno.Adapter.UI.RmlUi.Authoring
 

@@ -1,12 +1,17 @@
 ---
-title: SDL3 implementation boundary
-description: Where SDL3 belongs in the engine and which managed interface to use.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: api.projects.inno-native-sdl3
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Native.Sdl3
 contracts:
   - backends.sdl3
+
+# Authoring metadata. Edit these fields and the text below.
+title: SDL3 implementation boundary
+description: Where SDL3 belongs in the engine and which managed interface to use.
 ---
 # SDL3 implementation boundary
 

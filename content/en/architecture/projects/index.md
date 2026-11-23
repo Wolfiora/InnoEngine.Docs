@@ -1,7 +1,10 @@
 ---
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.projects
-title: Engine project guides
 kind: landing
+
+# Authoring metadata. Edit these fields and the text below.
+title: Engine project guides
 ---
 
 # Engine project guides

@@ -1,9 +1,9 @@
 ---
-title: UI lifetimes and data flow
-description: Separate authoring, runtime sessions, native layout, and
-  renderer-owned resources.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.ui-lifetime
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.UI
   - Inno.UI.Runtime
@@ -12,6 +12,11 @@ owners:
 contracts:
   - project.inno-ui#document-and-frame-contract
   - project.inno-ui-runtime#session-and-font-ownership
+
+# Authoring metadata. Edit these fields and the text below.
+title: UI lifetimes and data flow
+description: Separate authoring, runtime sessions, native layout, and
+  renderer-owned resources.
 ---
 # UI lifetimes and data flow
 

@@ -1,9 +1,9 @@
 ---
-title: Compose a build distribution
-description: Register platform, content and managed deployment contributions
-  without central target switches.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.build-distribution
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.Composition
   - Inno.Build.Managed
@@ -12,6 +12,11 @@ contracts:
   - project.inno-build-composition
   - project.inno-build-managed
   - project.inno-build-products-standard
+
+# Authoring metadata. Edit these fields and the text below.
+title: Compose a build distribution
+description: Register platform, content and managed deployment contributions
+  without central target switches.
 ---
 # Compose a build distribution
 

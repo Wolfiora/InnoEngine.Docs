@@ -1,9 +1,9 @@
 ---
-title: How Editor interactions reach engine state
-description: Follow one command, gesture or frame through feature, History,
-  presentation and host ownership.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.editor-ui
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Core
   - Inno.Editor.Interactions
@@ -11,6 +11,11 @@ owners:
 contracts:
   - architecture.editor-generations
   - architecture.ownership
+
+# Authoring metadata. Edit these fields and the text below.
+title: How Editor interactions reach engine state
+description: Follow one command, gesture or frame through feature, History,
+  presentation and host ownership.
 ---
 # How Editor interactions reach engine state
 

@@ -1,15 +1,20 @@
 ---
-title: Serialization and generation ownership
-description: Follow the shared value pipeline from declared metadata through
-  converter leases, neutral nodes and completion callbacks.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.serialization
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Serialization
   - Inno.Core.Serialization.Generators
   - Inno.Adapter.Serialization.DotNet
 contracts:
   - project.inno-core-serialization#operation-and-generation-contract
+
+# Authoring metadata. Edit these fields and the text below.
+title: Serialization and generation ownership
+description: Follow the shared value pipeline from declared metadata through
+  converter leases, neutral nodes and completion callbacks.
 ---
 # Serialization and generation ownership
 

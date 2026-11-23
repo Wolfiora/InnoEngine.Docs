@@ -1,12 +1,17 @@
 ---
-title: BGFX implementation boundary
-description: The rendering backend's native implementation and deployment boundary.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: api.projects.inno-native-bgfx
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Native.Bgfx
 contracts:
   - architecture.build-artifacts
+
+# Authoring metadata. Edit these fields and the text below.
+title: BGFX implementation boundary
+description: The rendering backend's native implementation and deployment boundary.
 ---
 # BGFX implementation boundary
 

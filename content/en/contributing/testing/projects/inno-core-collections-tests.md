@@ -1,10 +1,15 @@
 ---
-title: Collection indexes and dependency tests
-description: Verify mutable indexes and deterministic dependency snapshots.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-collections-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Collections.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Collection indexes and dependency tests
+description: Verify mutable indexes and deterministic dependency snapshots.
 ---
 # Collection indexes and dependency tests
 

@@ -1,10 +1,15 @@
 ---
-title: ImGuizmo loading and borrowed-state tests
-description: Verify loading, owned style retirement and parent-state restoration.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-native-imguizmo-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Native.ImGuizmo.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: ImGuizmo loading and borrowed-state tests
+description: Verify loading, owned style retirement and parent-state restoration.
 ---
 # ImGuizmo loading and borrowed-state tests
 

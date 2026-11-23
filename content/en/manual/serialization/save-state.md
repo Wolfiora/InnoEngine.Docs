@@ -1,9 +1,9 @@
 ---
-title: Save and restore declared state
-description: Choose persistent members, borrow the owning registry and restore
-  through the current serialization contract.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.serialization.save-state
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Serialization
 contracts:
@@ -11,6 +11,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Core.Serialization
+
+# Authoring metadata. Edit these fields and the text below.
+title: Save and restore declared state
+description: Choose persistent members, borrow the owning registry and restore
+  through the current serialization contract.
 ---
 # Save and restore declared state
 

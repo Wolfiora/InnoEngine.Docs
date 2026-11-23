@@ -1,17 +1,22 @@
 ---
-exampleMode: host
-exampleProjects:
-  - Inno.Core.Identity
-title: Register an identity object
-description: Preserve a saved identity while explicitly owning registration and
-  release in a runtime domain.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.register-identity
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Identity
 contracts:
   - manual.identity-and-missing
   - architecture.ownership
+exampleMode: host
+exampleProjects:
+  - Inno.Core.Identity
+
+# Authoring metadata. Edit these fields and the text below.
+title: Register an identity object
+description: Preserve a saved identity while explicitly owning registration and
+  release in a runtime domain.
 ---
 # Register an identity object
 

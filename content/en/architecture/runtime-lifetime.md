@@ -1,9 +1,14 @@
 ---
-title: Runtime ownership and retirement
-description: Follow host, Session, subsystem and adapter ownership through startup, frames and incomplete shutdown.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.runtime-lifetime
 kind: explanation
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Runtime, Inno.Runtime.Contracts, Inno.Shell, Inno.Player.Runtime]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Runtime ownership and retirement
+description: Follow host, Session, subsystem and adapter ownership through startup, frames and incomplete shutdown.
 ---
 # Runtime ownership and retirement
 

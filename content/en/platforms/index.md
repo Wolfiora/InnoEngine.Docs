@@ -1,8 +1,11 @@
 ---
-title: Platforms and products
-description: Distinguish the build host, target, product, and managed deployment.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: platforms.home
 kind: explanation
+
+# Authoring metadata. Edit these fields and the text below.
+title: Platforms and products
+description: Distinguish the build host, target, product, and managed deployment.
 ---
 # Platforms and products
 

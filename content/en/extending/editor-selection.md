@@ -1,17 +1,22 @@
 ---
-exampleMode: host
-exampleProjects:
-  - Inno.Editor.Interactions
-title: Select targets and move data
-description: Use generation-aware selection, drag/drop and canvas navigation
-  without retaining stale live objects.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: extending.editor-selection
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Interactions
 contracts:
   - manual.identity-and-missing
   - api.projects.inno-editor-interactions#generation-and-lifetime-contracts
+exampleMode: host
+exampleProjects:
+  - Inno.Editor.Interactions
+
+# Authoring metadata. Edit these fields and the text below.
+title: Select targets and move data
+description: Use generation-aware selection, drag/drop and canvas navigation
+  without retaining stale live objects.
 ---
 # Select targets and move data
 

@@ -1,10 +1,15 @@
 ---
-title: Windows x64 build integration tests
-description: Check native binding builds, native workspace handling and cold publication on Windows.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-windowsx64-integration-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.WindowsX64.Integration.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Windows x64 build integration tests
+description: Check native binding builds, native workspace handling and cold publication on Windows.
 ---
 # Windows x64 build integration tests
 

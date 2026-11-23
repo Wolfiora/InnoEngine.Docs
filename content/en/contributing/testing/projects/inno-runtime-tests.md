@@ -1,10 +1,15 @@
 ---
-title: "Runtime startup and session ownership tests"
-description: "Verify admission, content transfer, isolated sessions and static deployment."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-runtime-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Runtime.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Runtime startup and session ownership tests"
+description: "Verify admission, content transfer, isolated sessions and static deployment."
 ---
 # Runtime startup and session ownership tests
 

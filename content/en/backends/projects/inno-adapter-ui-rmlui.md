@@ -1,10 +1,15 @@
 ---
-title: Inno.Adapter.UI.RmlUi
-description: Managed RmlUi backend with native session ownership, document mutation and complete frame transfers.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-adapter-ui-rmlui
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.UI.RmlUi
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Adapter.UI.RmlUi
+description: Managed RmlUi backend with native session ownership, document mutation and complete frame transfers.
 ---
 # Inno.Adapter.UI.RmlUi
 

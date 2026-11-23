@@ -1,9 +1,9 @@
 ---
-title: Choose a behavior or a scene system
-description: Attach per-object behavior or serializable scene-wide coordination
-  with explicit lifecycle rules.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.scenes.behaviors
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Scene
 contracts:
@@ -12,6 +12,11 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.Scene
+
+# Authoring metadata. Edit these fields and the text below.
+title: Choose a behavior or a scene system
+description: Attach per-object behavior or serializable scene-wide coordination
+  with explicit lifecycle rules.
 ---
 # Choose a behavior or a scene system
 

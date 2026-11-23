@@ -1,8 +1,11 @@
 ---
-title: Locate content and application data
-description: Keep installed content, application values and build caches under their distinct owners.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: platforms.application-data
 kind: explanation
+
+# Authoring metadata. Edit these fields and the text below.
+title: Locate content and application data
+description: Keep installed content, application values and build caches under their distinct owners.
 ---
 # Locate content and application data
 

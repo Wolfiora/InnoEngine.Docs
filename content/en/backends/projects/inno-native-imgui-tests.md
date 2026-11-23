@@ -1,10 +1,15 @@
 ---
-title: ImGui deployment and ABI tests
-description: Verify native layouts, context lifetime and selected symbol loading.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-native-imgui-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Native.ImGui.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: ImGui deployment and ABI tests
+description: Verify native layouts, context lifetime and selected symbol loading.
 ---
 # ImGui deployment and ABI tests
 

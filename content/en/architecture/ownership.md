@@ -1,8 +1,11 @@
 ---
-title: Resource ownership and lifetime
-description: Understand creation, borrowing, cancellation, retirement, and release across engine boundaries.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: architecture.ownership
 kind: explanation
+
+# Authoring metadata. Edit these fields and the text below.
+title: Resource ownership and lifetime
+description: Understand creation, borrowing, cancellation, retirement, and release across engine boundaries.
 aliases:
   - ownership
   - resource ownership

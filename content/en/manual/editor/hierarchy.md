@@ -1,14 +1,19 @@
 ---
-title: Organize scenes and objects in Hierarchy
-description: Navigate scene documents, reorder objects and keep display order
-  separate from execution order.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.editor.hierarchy
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Editor.Panel.Hierarchy
 contracts:
   - project.inno-editor-panel-hierarchy
   - project.inno-editor-scene
+
+# Authoring metadata. Edit these fields and the text below.
+title: Organize scenes and objects in Hierarchy
+description: Navigate scene documents, reorder objects and keep display order
+  separate from execution order.
 ---
 # Organize scenes and objects in Hierarchy
 

@@ -1,9 +1,9 @@
 ---
-title: Inno.Adapter.Audio.MiniAudio
-description: Native audio devices behind neutral managed contracts, with
-  explicit preparation and release ownership.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-adapter-audio-miniaudio
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Audio.MiniAudio
 contracts:
@@ -12,6 +12,11 @@ contracts:
 exampleMode: host
 exampleProjects:
   - Inno.Adapter.Audio.MiniAudio
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Adapter.Audio.MiniAudio
+description: Native audio devices behind neutral managed contracts, with
+  explicit preparation and release ownership.
 ---
 # Inno.Adapter.Audio.MiniAudio
 

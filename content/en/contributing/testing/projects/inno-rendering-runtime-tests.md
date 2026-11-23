@@ -1,10 +1,15 @@
 ---
-title: "Rendering runtime publication tests"
-description: "Verify complete frames, artifact scopes and generation-safe shader replacement."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-rendering-runtime-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Rendering.Runtime.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Rendering runtime publication tests"
+description: "Verify complete frames, artifact scopes and generation-safe shader replacement."
 ---
 # Rendering runtime publication tests
 

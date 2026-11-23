@@ -1,10 +1,15 @@
 ---
-title: Execution and retirement tests
-description: Verify owner-thread contexts, admission and retryable resource retirement.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-core-execution-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Core.Execution.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Execution and retirement tests
+description: Verify owner-thread contexts, admission and retryable resource retirement.
 ---
 # Execution and retirement tests
 

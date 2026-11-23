@@ -1,10 +1,15 @@
 ---
-title: "Type-discovery source A fixture"
-description: "Identify declarations from one explicit assembly source."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-extensibility-types-testassemblya
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Extensibility.Types.TestAssemblyA
+
+# Authoring metadata. Edit these fields and the text below.
+title: "Type-discovery source A fixture"
+description: "Identify declarations from one explicit assembly source."
 ---
 # Type-discovery source A fixture
 

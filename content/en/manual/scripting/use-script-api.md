@@ -1,9 +1,9 @@
 ---
-title: Use the script API
-description: Choose logical script namespaces, recognize API scopes and diagnose
-  missing or hidden members.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: manual.scripting.use-script-api
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Scripting.Api
   - Inno.Scene
@@ -13,6 +13,11 @@ contracts:
 exampleMode: runtime-script
 exampleProjects:
   - Inno.Scene
+
+# Authoring metadata. Edit these fields and the text below.
+title: Use the script API
+description: Choose logical script namespaces, recognize API scopes and diagnose
+  missing or hidden members.
 ---
 # Use the script API
 

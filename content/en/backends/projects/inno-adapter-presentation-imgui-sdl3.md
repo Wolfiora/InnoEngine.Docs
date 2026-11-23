@@ -1,9 +1,14 @@
 ---
-title: Inno.Adapter.Presentation.ImGui.Sdl3
-description: "Managed SDL/ImGui context, frame, font and viewport ownership with an explicitly selected renderer."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-adapter-presentation-imgui-sdl3
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Adapter.Presentation.ImGui.Sdl3]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Adapter.Presentation.ImGui.Sdl3
+description: "Managed SDL/ImGui context, frame, font and viewport ownership with an explicitly selected renderer."
 ---
 # Inno.Adapter.Presentation.ImGui.Sdl3
 

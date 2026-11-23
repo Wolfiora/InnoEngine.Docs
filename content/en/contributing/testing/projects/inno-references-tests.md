@@ -1,10 +1,15 @@
 ---
-title: Reference intent and recovery tests
-description: Verify generation capture, Missing intent and compensating recovery.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-references-tests
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.References.Tests
+
+# Authoring metadata. Edit these fields and the text below.
+title: Reference intent and recovery tests
+description: Verify generation capture, Missing intent and compensating recovery.
 ---
 # Reference intent and recovery tests
 

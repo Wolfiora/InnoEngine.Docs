@@ -1,9 +1,14 @@
 ---
-title: Inno.Build.Managed.DotNet
-description: "Explicit CoreCLR, Mono WebAssembly and NativeAOT deployment compilation for prepared engine products."
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-build-managed-dotnet
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners: [Inno.Build.Managed.DotNet]
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Build.Managed.DotNet
+description: "Explicit CoreCLR, Mono WebAssembly and NativeAOT deployment compilation for prepared engine products."
 ---
 # Inno.Build.Managed.DotNet
 

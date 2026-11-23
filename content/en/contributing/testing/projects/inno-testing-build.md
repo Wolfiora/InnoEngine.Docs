@@ -1,10 +1,15 @@
 ---
-title: Build pipeline fixture
-description: Use the shared build pipeline fixture to arrange the inputs consumed by build tests.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-testing-build
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Testing.Build
+
+# Authoring metadata. Edit these fields and the text below.
+title: Build pipeline fixture
+description: Use the shared build pipeline fixture to arrange the inputs consumed by build tests.
 ---
 # Build pipeline fixture
 

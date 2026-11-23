@@ -1,10 +1,15 @@
 ---
-title: Inno.Adapter.Serialization.DotNet
-description: Explicit reflection-backed declaration metadata for desktop authoring and build hosts.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: project.inno-adapter-serialization-dotnet
 kind: project
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Adapter.Serialization.DotNet
+
+# Authoring metadata. Edit these fields and the text below.
+title: Inno.Adapter.Serialization.DotNet
+description: Explicit reflection-backed declaration metadata for desktop authoring and build hosts.
 ---
 # Inno.Adapter.Serialization.DotNet
 

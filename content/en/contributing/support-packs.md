@@ -1,9 +1,9 @@
 ---
-title: Prepare and consume a Player Support Pack
-description: Separate reusable engine link inputs from a game's final content
-  and deployment.
+# Identity metadata. Set once; other pages reference uid through contracts.
 uid: contributing.support-packs
 kind: how-to
+
+# Relation metadata. Name actual engine projects and page identities; validation rejects unknown values.
 owners:
   - Inno.Build.SupportPacks.Core
   - Inno.Build.Managed
@@ -14,6 +14,11 @@ contracts:
   - project.inno-build-managed
   - project.inno-build-products-standard
   - project.inno-build-composition
+
+# Authoring metadata. Edit these fields and the text below.
+title: Prepare and consume a Player Support Pack
+description: Separate reusable engine link inputs from a game's final content
+  and deployment.
 ---
 # Prepare and consume a Player Support Pack
 
