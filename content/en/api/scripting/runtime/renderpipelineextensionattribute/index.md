@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Runtime
 apiSurface: editor-script
-sourceFingerprint: dc4dd7e7182205c4a1b3e783682b2cf22944bce7c1cbcabc5b6bf7b1b39244f8
+sourceFingerprint: 2e12499ea8579de571ec402d54323d79150750edfcb2389204e62389099797e5
 apiScope: Runtime
 contracts:
 - manual.scripting.use-script-api
@@ -19,3 +19,7 @@ description: null
 outdated: false
 aliases: []
 ---
+
+## Remarks
+
+A pipeline contributes passes through the rendering runtime. Texture formats and vertex layouts must still be supported by the selected device and backend.

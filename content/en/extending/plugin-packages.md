@@ -22,6 +22,8 @@ description: Create a validated plugin manifest and the supported portable archi
 
 An InnoEngine plugin is a complete `.iplugin` archive containing a serialized manifest and source assets. It is not a folder plugin, a renamed DLL, or an arbitrary ZIP accepted without validation. Prepare the package with the same engine contracts and asset metadata used by its target host.
 
+The Editor discovers installed source packages. A published Player runs the contributions linked into its build. See [what a source plugin can extend](plugin-capabilities.md) to choose the right runtime, authoring or build contract.
+
 ## Define stable identity and dependencies
 
 This host example creates and validates a minimal manifest. It does not build an archive, generate asset metadata or install the plugin.

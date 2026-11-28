@@ -6,8 +6,9 @@ title: Inno.Shell
 kind: project
 owners:
 - Inno.Shell
-sourceFingerprint: 0ff87f3fe59606b71471cea717949c5b67caeca9380671b535c728bd2f2579a6
+sourceFingerprint: e99866c9e624432583af1d21fdf01f902c2da4228faaa6628e888b0c49071af6
 contracts: []
+outdatedFor: 182f6b0f494a44b25d6c382f1e5e4931782b3e9e8d98b899989623389d995868
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: FLwolfy

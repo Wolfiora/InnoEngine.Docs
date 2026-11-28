@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Scripting.Reload
 apiSurface: source-clr
-sourceFingerprint: 6af33c2e93c5f1d6722f3b1a57401dcd4f7da223028fa2a344bc67e7629e36f7
+sourceFingerprint: 6c9ad940e1b1f3e7eb98e4f999321eb6a74c363ff159de99d701d98760f53e1b
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

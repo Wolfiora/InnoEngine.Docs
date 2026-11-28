@@ -21,6 +21,8 @@ description: Advance enumerators from a host loop and release their stacks
 
 A `CoroutineScheduler` advances `IEnumerator` routines when its host calls `Tick`. It does not create an update thread or turn synchronous code into background work. Use it for explicit frame, time and condition waits within an owned loop.
 
+Game and plugin scripts can [run a coroutine in the current game session](session-coroutines.md). The session already owns its scheduler and frame clock. The example below is for a host that owns a separate loop.
+
 ## Start a routine and advance the loop
 
 The following host example records one message on the first tick and another on the next tick. Successful admission transfers exclusive advancement and disposal of the enumerator to the scheduler. Do not reuse or dispose that enumerator yourself.
@@ -65,7 +67,7 @@ In a real host, call `Tick` once per intended update and provide the elapsed sec
 
 Task waiting does not observe or rethrow the task's result. The task owner must inspect its completion and handle failure. A coroutine waiting on a handle does not acquire ownership of the other scheduler.
 
-An unsupported yielded object ends that routine and releases its stack. Do not use an arbitrary object as a custom wait token. Although `YieldInstruction` is public, its waiter factory is internal; external implementations are not supported. Compose the built-in waits and enumerators instead.
+An unsupported yielded object ends that routine and releases its stack. For an external wait, derive from `YieldInstruction` and override `CreateWaiter`. Each suspension gets its own predicate. See [the reusable custom wait example](session-coroutines.md#give-a-plugin-its-own-wait-condition).
 
 ## Stop an owner before reload
 

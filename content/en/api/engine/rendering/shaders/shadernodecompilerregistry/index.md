@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Rendering.Shaders
 apiSurface: source-clr
-sourceFingerprint: e0dafe09d3e0a51f75e29eea7d10c5f46fab2868ce95628c679ed92e996eacc2
+sourceFingerprint: fa69fb0e7ba44c92834031d159dfe6682f1e3a67a197043ad14bdf87dd2a1208
 contracts:
 - project.inno-rendering-shaders
 
@@ -17,3 +17,7 @@ description: null
 outdated: false
 aliases: []
 ---
+
+## Remarks
+
+Node contributions lower to the shader representation understood by the selected compiler. Adding a node does not add a new GPU instruction or material value representation.

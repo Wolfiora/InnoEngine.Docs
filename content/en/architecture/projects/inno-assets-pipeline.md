@@ -6,8 +6,9 @@ title: Inno.Assets.Pipeline
 kind: project
 owners:
 - Inno.Assets.Pipeline
-sourceFingerprint: 5d19ef5ded485450bd9beb3b290b9e8fc659703d51ebec4bc8b201a013b23390
+sourceFingerprint: 8059122549164329eb2a8b833949e7a21c51236010be118d5b60028bd81c87b0
 contracts: []
+outdatedFor: 4b36bc430568d9f453fb562575b81d803a45668bf470d13686d5d13531acabea
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: FLwolfy

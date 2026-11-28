@@ -6,8 +6,9 @@ title: Inno.Core.Coroutines
 kind: project
 owners:
 - Inno.Core.Coroutines
-sourceFingerprint: 4726348c44d9768d8e664743961373e073a92f4f93f788b93cb2af134e607ad0
+sourceFingerprint: c24caab4cbfe8b18fba9dec82f3691e118e7e636a4fc1509141574a69d4db38e
 contracts: []
+outdatedFor: e9b8f7d1cc68aa347118e66efce664d5491c336b518b3bd1aeafda440f280df9
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: FLwolfy
@@ -27,7 +28,7 @@ This project executes host-owned coroutine enumerators when a caller advances a 
 
 Successful start transfers exclusive advancement and disposal of the enumerator to the scheduler. Owners are matched by reference identity. Individual stop and parameterless stop-all enqueue commands; owner-specific stopping obtains the tick gate and retires eligible matching work before a nonreentrant call returns. Reentrant self-stop invalidates the handle but defers executing-stack cleanup until the callback returns.
 
-The host supplies ticks and elapsed seconds. Negative deltas become zero. Waiting for a task observes completion only; its owner must observe the result or failure. Unsupported yielded objects terminate the routine. `YieldInstruction` exposes built-in instruction identity but its internal waiter factory is not an external extension point.
+The host supplies ticks and elapsed seconds. Negative deltas become zero. Waiting for a task observes completion only; its owner must observe the result or failure. Unsupported yielded objects terminate the routine. An external `YieldInstruction` supplies a fresh wait predicate through `CreateWaiter` for each suspension. It receives elapsed seconds and frames since the yield.
 
 Tick execution is serialized. Recursive ticks and yielding an enumerator already on the current stack are rejected. Stop/disposal cleanup runs on the calling operation's thread, so a host with thread-affine routines must choose that thread explicitly.
 
@@ -35,7 +36,7 @@ Nested disposable enumerators release child-first on completion, stop, failure a
 
 Owners, enumerators and waiters can retain a collectible generation. Stop the original owner at a safe point and wait for its executing callback to return before checking unload. A handle is weakly associated with its scheduler; `isValid` reports current liveness without owning the scheduler.
 
-After disposal, start/tick/owner-stop fail, handle-stop returns false, parameterless stop-all returns, and repeated disposal does nothing. No callback preemption or automatic script-surface availability is promised.
+After disposal, start/tick/owner-stop fail, handle-stop returns false, parameterless stop-all returns, and repeated disposal does nothing. Game and plugin scripts [start and stop routines through the session](../../manual/execution/session-coroutines.md). The session owns its scheduler and retires routines that use retiring code.
 
 ## Type reference
 

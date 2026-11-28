@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Runtime.Contracts
 apiSurface: source-clr
-sourceFingerprint: 1287fb02f1a6a22838008d92b47a72f3f24db2d7d31f1005c20aadc99c699e70
+sourceFingerprint: fc91432071bee1306f953de8880a36fa21e69077416935d3458e580d0c5b49c5
 contracts:
 - project.inno-runtime-contracts
 

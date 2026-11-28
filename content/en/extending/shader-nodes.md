@@ -16,12 +16,11 @@ exampleProjects:
 
 # Authoring metadata. Edit these fields and the text below.
 title: Add a shader compiler primitive
-description: Implement an Editor-scoped lowering extension only when reusable
-  graphs and public IR cannot express the operation.
+description: Lower an Editor graph node with typed ports into operations supported by the selected shader compiler.
 ---
 # Add a shader compiler primitive
 
-Most reusable nodes belong in an ordinary `.ishader` graph. Implement `IShaderNodeCompiler` for a new primitive that existing nodes and public IR cannot represent; it is not the default way to package a convenient subgraph.
+Most reusable nodes belong in an ordinary `.ishader` graph. Implement `IShaderNodeCompiler` when a node needs its own ports or lowering behavior. Its implementation emits operations the public IR and selected target already support. See [shader graph nodes and material values](plugin-capabilities.md#shader-graph-nodes-and-material-values) before proposing a new operation.
 
 ## Define explicit typed ports
 

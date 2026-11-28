@@ -72,6 +72,7 @@
           items:
             - slug: manual/runtime/frame-loop
             - slug: manual/execution/own-async-work
+            - slug: manual/execution/session-coroutines
             - slug: manual/execution/run-coroutines
             - slug: manual/execution/schedule-frame-jobs
         - label: Events and diagnostics
@@ -219,6 +220,7 @@
     - label: Packaging and distribution
       items:
         - slug: extending/build-distribution
+        - slug: extending/plugin-capabilities
         - slug: extending/plugin-packages
         - slug: extending/plugin-host
 - label: Platforms & Backends

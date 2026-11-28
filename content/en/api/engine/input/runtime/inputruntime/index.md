@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Input.Runtime
 apiSurface: source-clr
-sourceFingerprint: 25a10c26766a6fb49941a480a50332e3fa6ceef5e6beffe8a013451c0a67abcb
+sourceFingerprint: 09344f8f77c8390600270fbeff923cc65a86e027f9e43145bb65953144be37de
 contracts:
 - project.inno-input-runtime#frame-and-lifetime-contract
 

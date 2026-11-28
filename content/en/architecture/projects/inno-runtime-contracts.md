@@ -6,9 +6,9 @@ title: Inno.Runtime.Contracts
 kind: project
 owners:
 - Inno.Runtime.Contracts
-sourceFingerprint: 667291e1379629d92d74398f72218919f4b0405ecab27a12927616ab176d378a
+sourceFingerprint: d4b5593af6efdd734384cc7b17713fb01536bfc85d6283ade440cc2243d8a350
 contracts: []
-outdatedFor: 5fce8c9cdfa729cf2849a5647cffbbdac712b32e63058d3961d9b304e57fc545
+outdatedFor: c7dc812db4c57af5d01dfd74f2c0b297f7a0ef100818e569ae2fa11c2199fd5f
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: FLwolfy

@@ -13,6 +13,7 @@ Find types in this project category. Each type links to its exact declarations a
 
 | Category | Purpose |
 | --- | --- |
+| [Coroutines](coroutines/index.md) | Frame-driven enumerators with explicit scheduler ownership, supported waits and reverse-order cleanup. |
 | [Diagnostics](diagnostics/index.md) | Host-owned current issue state, revocable producers and complete-report presentation. |
 | [Events](events/index.md) | Ordered event hubs, routed consumption and bounded event admission. |
 | [Graphs](graphs/index.md) | Neutral editable graph documents, generation-scoped definitions, topology validation and current-format serialization. |

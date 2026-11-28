@@ -552,6 +552,11 @@
       "project": "Inno.Tooling.Architecture"
     },
     {
+      "path": "content/en/architecture/projects/inno-tooling-cli.md",
+      "uid": "project.inno-tooling-cli",
+      "project": "Inno.Tooling.Cli"
+    },
+    {
       "path": "content/en/architecture/projects/inno-tooling-documentation.md",
       "uid": "project.inno-tooling-documentation",
       "project": "Inno.Tooling.Documentation"
@@ -700,6 +705,11 @@
       "path": "content/en/contributing/testing/projects/inno-testing-diagnostics.md",
       "uid": "project.inno-testing-diagnostics",
       "project": "Inno.Testing.Diagnostics"
+    },
+    {
+      "path": "content/en/contributing/testing/projects/inno-testing-editorjourney.md",
+      "uid": "project.inno-testing-editorjourney",
+      "project": "Inno.Testing.EditorJourney"
     },
     {
       "path": "content/en/contributing/testing/projects/inno-testing-scripting.md",

@@ -11,6 +11,8 @@ description: Choose an extension boundary that matches the behavior you want to 
 
 An extension belongs to the layer that owns its behavior. Start by identifying the public contract and lifecycle, then select the appropriate host, script, backend, or product integration.
 
+[What a source plugin can extend](plugin-capabilities.md) traces a pipeline, shader node, file importer and platform target from discovery to the product that uses it.
+
 ## Choose the boundary
 
 [Define project settings](project-settings.md) with stable protocols, explicit contribution ordering and generation recovery.

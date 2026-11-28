@@ -20,5 +20,5 @@ Find types in this project category. Each type links to its exact declarations a
 | [WaitForTask](waitfortask/index.md) | Waits until a task is completed. |
 | [WaitUntil](waituntil/index.md) | Waits until the predicate returns true. |
 | [WaitWhile](waitwhile/index.md) | Waits while the predicate returns true. |
-| [YieldInstruction](yieldinstruction/index.md) | Base type for the scheduler&#39;s built-in coroutine wait instructions. |
+| [YieldInstruction](yieldinstruction/index.md) | Creates a wait condition each time a coroutine yields this instruction. |
 

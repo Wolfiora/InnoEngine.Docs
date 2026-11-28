@@ -33,8 +33,12 @@ if ($LASTEXITCODE -ne 0 -or $tree -cne $binding.sourceTree) { throw 'Example sou
 if (![IO.File]::ReadAllText((Join-Path $engine 'Directory.Build.props')).Contains("'ApiReferences'")) {
     throw 'The selected engine revision predates isolated API-reference preparation. Synchronize an approved current API export before compiling changed examples.'
 }
-$transport = @(& (Join-Path $tooling 'tools/ci/Initialize-ValidationEntry.ps1') -Dotnet $Dotnet -LogPath (Join-Path $output 'bootstrap.log'))
-if ($transport.Count -ne 1) { throw 'Cannot identify the pinned example compiler transport.' }
+$toolProject = Join-Path $tooling 'tools/Inno.Tooling.Cli/Inno.Tooling.Cli.csproj'
+$bootstrap = Join-Path $output 'tooling'
+Invoke-Managed @('build', $toolProject, '-c', 'Debug', '--artifacts-path', $bootstrap,
+    '--disable-build-servers', '-m:4', '-nr:false') 'bootstrap'
+$transport = Join-Path $bootstrap 'bin/Inno.Tooling.Cli/debug/Inno.Tooling.Cli.dll'
+if (!(Test-Path -LiteralPath $transport -PathType Leaf)) { throw 'The pinned documentation CLI was not built.' }
 $catalog = Get-Content -LiteralPath (Join-Path $root 'artifacts/canonical-catalog.json') -Raw | ConvertFrom-Json -Depth 100
 $entry = Join-Path $engine 'entry/InnoEngine.Build/InnoEngine.Build.csproj'
 $hostTarget = @(& $Dotnet msbuild $entry -nologo -getProperty:InnoDevelopmentTarget)
@@ -45,16 +49,15 @@ $arguments = @('--engine-root', $engine, '--dotnet', $Dotnet, '--cache-root', $c
     '--configuration', $configuration, '--target', $hostTarget[0])
 foreach ($page in $work.compile) { $arguments += @('--page', $page) }
 $planPath = Join-Path $output 'prepare.json'
-Invoke-Managed (@($transport[0], 'docs', 'example-plan') + $arguments + @('--output', $planPath)) 'plan'
+Invoke-Managed (@($transport, 'docs', 'example-plan') + $arguments + @('--output', $planPath)) 'plan'
 $plan = Get-Content -LiteralPath $planPath -Raw | ConvertFrom-Json
 if ($plan.schema -cne 'inno-example-plan/1' -or @($plan.projects).Count -eq 0) { throw 'Example preparation did not select actual owners.' }
-$projects = @($plan.projects | ForEach-Object { [IO.Path]::GetFullPath($_, $engine) })
-if ($plan.needsScriptProjection) { $projects += $entry }
+$projects = @($plan.projects)
+if ($plan.needsScriptProjection) { $projects += [IO.Path]::GetRelativePath($engine, $entry) }
 $solutionPath = Join-Path $output 'managed-union.slnx'
 $managed = Join-Path $engine "artifacts/documentation-examples/managed/$configuration/$($hostTarget[0])"
-& (Join-Path $tooling 'tools/ci/Invoke-ManagedApiPreparation.ps1') -EngineRoot $engine -Dotnet $Dotnet `
-    -Configuration $configuration -Projects $projects -Output $solutionPath -ArtifactsPath $managed `
-    -Log (Join-Path $output 'managed-references.log')
+Invoke-Managed (@($transport, 'docs', 'prepare-references', $engine, $Dotnet, $configuration,
+    $managed, $solutionPath, (Join-Path $output 'managed-references.log')) + $projects) 'prepare-references'
 $arguments += @('--artifacts-path', $managed)
 if ($plan.needsScriptProjection) {
     $cli = @(& $Dotnet msbuild $entry -nologo "-p:Configuration=$configuration" "-p:ArtifactsPath=$managed" -getProperty:TargetPath)
@@ -63,10 +66,12 @@ if ($plan.needsScriptProjection) {
     [IO.Directory]::CreateDirectory((Join-Path $scripts 'Assets')) | Out-Null
     Invoke-Managed @($cli[0], 'scripts', '--engine-root', $engine, '--dotnet', $Dotnet, '--project', $scripts,
         '--output', (Join-Path $scripts 'Export'), '--ide') 'logical-projections'
-    $logical = & (Join-Path $tooling 'tools/ci/Get-DocumentationScriptReferences.ps1') -Project (Join-Path $scripts 'Inno.EditorScripts.csproj')
+    $referenceJson = & $Dotnet $transport docs script-references (Join-Path $scripts 'Inno.EditorScripts.csproj')
+    if ($LASTEXITCODE -ne 0) { throw 'Cannot read the prepared logical script references.' }
+    $logical = $referenceJson | ConvertFrom-Json -ErrorAction Stop
     $arguments += @('--runtime-reference', $logical.runtime, '--editor-reference', $logical.editor)
 }
-Invoke-Managed (@($transport[0], 'docs', 'validate-examples') + $arguments + @('--output', (Join-Path $output 'compiled.json'))) 'compile'
+Invoke-Managed (@($transport, 'docs', 'validate-examples') + $arguments + @('--output', (Join-Path $output 'compiled.json'))) 'compile'
 Assert-Checkout $engine $binding.revision
 Assert-Checkout $tooling $binding.toolingRevision
 Write-Host "Compiled $(@($work.compile).Count) changed or uncovered example groups. Unchanged trusted groups were not rebuilt."
