@@ -5599,7 +5599,7 @@
       "path": "content/en/api/engine/assets/pipeline/assetimporterattribute/index.md",
       "type": "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetImporterAttribute",
       "title": "AssetImporterAttribute",
-      "contract": "7cd3e0f68dca4e315e917915dbc12fa994700e5a98247838d7b01bb2b517fd51"
+      "contract": "c6befcf5e5c1cec6d55cbfd4fe41f29d2197f52f6187e0e217a3b02003eed955"
     },
     {
       "symbol": "engine:Inno.Assets.Pipeline:T:Inno.Assets.Pipeline.AssetImporter\u00601",
@@ -8234,6 +8234,34 @@
       "contract": "162dc7dedb148ed18458a0ec9c033d0bbb44cdf089d5741dcaf73ab3848e94d9"
     },
     {
+      "symbol": "engine:Inno.Audio:M:Inno.Audio.AudioBlockProcessor.#ctor",
+      "path": "content/en/api/engine/audio/audioblockprocessor/audioblockprocessor.constructor-c2442f53851d235a.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioBlockProcessor",
+      "title": "AudioBlockProcessor.Constructor",
+      "contract": "60612e19e0394fd1ddc3c27b257ccdca4f0850bdef5a14deaf6b0eea539dd49c"
+    },
+    {
+      "symbol": "engine:Inno.Audio:M:Inno.Audio.AudioBlockProcessor.Dispose",
+      "path": "content/en/api/engine/audio/audioblockprocessor/audioblockprocessor.dispose-45feb63712520c4b.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioBlockProcessor",
+      "title": "AudioBlockProcessor.Dispose",
+      "contract": "ddb08e98945e06ed5e3b6f8bddeea17f11b8d7496482e8b32a36fc5eda60ea6d"
+    },
+    {
+      "symbol": "engine:Inno.Audio:M:Inno.Audio.AudioBlockProcessor.Process(System.Span{System.Single},System.Int32,System.Int32,Inno.Audio.AudioProcessorConfiguration)",
+      "path": "content/en/api/engine/audio/audioblockprocessor/audioblockprocessor.process-3b8e326f9cdb942b.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioBlockProcessor",
+      "title": "AudioBlockProcessor.Process",
+      "contract": "b961f9125e28b4c51c51f48fbff079495a36539320bfbc9e15e97f025790ec08"
+    },
+    {
+      "symbol": "engine:Inno.Audio:M:Inno.Audio.AudioBlockProcessorAttribute.#ctor(System.String)",
+      "path": "content/en/api/engine/audio/audioblockprocessorattribute/audioblockprocessorattribute.constructor-d410e2c55c9f10c5.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioBlockProcessorAttribute",
+      "title": "AudioBlockProcessorAttribute.Constructor",
+      "contract": "898db2783a51a381af7601f00d92d4fae8c4d952dffe11a6a785902ada7270c6"
+    },
+    {
       "symbol": "engine:Inno.Audio:M:Inno.Audio.AudioBusDefinition.#ctor(Inno.Audio.AudioBusID,System.Nullable{Inno.Audio.AudioBusID},System.Single,System.Boolean,System.Collections.Generic.IEnumerable{Inno.Audio.AudioProcessorConfiguration})",
       "path": "content/en/api/engine/audio/audiobusdefinition/audiobusdefinition.constructor-626fbed534ca2312.md",
       "type": "engine:Inno.Audio:T:Inno.Audio.AudioBusDefinition",
@@ -9480,6 +9508,55 @@
       "contract": "913cb9b52e914eea55349fb276150c9de6297d625cfbacda835b0a8d9b99a6fa"
     },
     {
+      "symbol": "engine:Inno.Audio:M:Inno.Audio.AudioStreamDecoder.#ctor",
+      "path": "content/en/api/engine/audio/audiostreamdecoder/audiostreamdecoder.constructor-d58f8b16cd3c4b71.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioStreamDecoder",
+      "title": "AudioStreamDecoder.Constructor",
+      "contract": "a5263a7d4e90a1b4684a9665b70c313c1c9ecf6b704d2d5a388aa05e114f11c7"
+    },
+    {
+      "symbol": "engine:Inno.Audio:M:Inno.Audio.AudioStreamDecoder.Open(System.IO.Stream,Inno.Audio.AudioClipDescriptor)",
+      "path": "content/en/api/engine/audio/audiostreamdecoder/audiostreamdecoder.open-6ca30e4aa5c91dc3.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioStreamDecoder",
+      "title": "AudioStreamDecoder.Open",
+      "contract": "0f05cd2f15f6e1a37bc55bcdd7360eb2e000abae7201639a1cfefec477ab544f"
+    },
+    {
+      "symbol": "engine:Inno.Audio:M:Inno.Audio.AudioStreamDecoderAttribute.#ctor(System.String)",
+      "path": "content/en/api/engine/audio/audiostreamdecoderattribute/audiostreamdecoderattribute.constructor-6b16f8825a3c51c5.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioStreamDecoderAttribute",
+      "title": "AudioStreamDecoderAttribute.Constructor",
+      "contract": "770913e22451f28d2f8b5d4230261690eeb9f536ea3ff968cfdd7382274a8e60"
+    },
+    {
+      "symbol": "engine:Inno.Audio:M:Inno.Audio.AudioStreamReader.#ctor",
+      "path": "content/en/api/engine/audio/audiostreamreader/audiostreamreader.constructor-baab7891ef02e0f4.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioStreamReader",
+      "title": "AudioStreamReader.Constructor",
+      "contract": "6e744c192e72a4229a237c6adda31a66b9433f9fe7abe4949ff5433eff648df6"
+    },
+    {
+      "symbol": "engine:Inno.Audio:M:Inno.Audio.AudioStreamReader.Dispose",
+      "path": "content/en/api/engine/audio/audiostreamreader/audiostreamreader.dispose-1992ec6a16dfce40.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioStreamReader",
+      "title": "AudioStreamReader.Dispose",
+      "contract": "44e48f74f9b8719843f32213c30f9f93e4a3f61c7ca6bff85d210698e7a1a8db"
+    },
+    {
+      "symbol": "engine:Inno.Audio:M:Inno.Audio.AudioStreamReader.ReadAsync(System.Memory{System.Single},System.Threading.CancellationToken)",
+      "path": "content/en/api/engine/audio/audiostreamreader/audiostreamreader.readasync-9b15cb680c62c56b.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioStreamReader",
+      "title": "AudioStreamReader.ReadAsync",
+      "contract": "fabd000af2495c67a011bce12205de88f5bb78e9ec2e38fe913b08b580518eb3"
+    },
+    {
+      "symbol": "engine:Inno.Audio:M:Inno.Audio.AudioStreamReader.Seek(System.Int64)",
+      "path": "content/en/api/engine/audio/audiostreamreader/audiostreamreader.seek-307ab30796824cb2.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioStreamReader",
+      "title": "AudioStreamReader.Seek",
+      "contract": "0e9d37112cb2c7dcc41f991ec474cd7565900dae1ec99d9c483563f0ba6bd7da"
+    },
+    {
       "symbol": "engine:Inno.Audio:M:Inno.Audio.AudioVoiceAllocator.#ctor",
       "path": "content/en/api/engine/audio/audiovoiceallocator/audiovoiceallocator.constructor-7a7093555dca546f.md",
       "type": "engine:Inno.Audio:T:Inno.Audio.AudioVoiceAllocator",
@@ -9590,6 +9667,13 @@
       "type": "engine:Inno.Audio:T:Inno.Audio.AudioVoiceParameters",
       "title": "AudioVoiceParameters.op_Inequality",
       "contract": "b219c68bc5d9e9f7e7e000cb9bbd5573c87dca6f3facefc13cb77a8858f9a3ab"
+    },
+    {
+      "symbol": "engine:Inno.Audio:M:Inno.Audio.IAudioBlockProcessorDevice.AddBlockProcessor(Inno.Audio.AudioBusHandle,Inno.Audio.AudioProcessorConfiguration,Inno.Audio.AudioBlockProcessor)",
+      "path": "content/en/api/engine/audio/iaudioblockprocessordevice/iaudioblockprocessordevice.addblockprocessor-2de3f638e81d389f.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.IAudioBlockProcessorDevice",
+      "title": "IAudioBlockProcessorDevice.AddBlockProcessor",
+      "contract": "eddce529d0fc9a7d93c1fa7c28693f3779c8ee5b99d568a4455a1193ab150d2a"
     },
     {
       "symbol": "engine:Inno.Audio:M:Inno.Audio.IAudioClipSource.OpenRead",
@@ -9844,6 +9928,13 @@
       "contract": "6d5139c12b7f912824c3b43aa5fdc031153b58e43bbd62d1d31b90c6bbf55bd7"
     },
     {
+      "symbol": "engine:Inno.Audio:M:Inno.Audio.IAudioStreamClipDevice.CreateStreamClip(Inno.Audio.AudioClipDescriptor,System.Func{Inno.Audio.AudioStreamReader})",
+      "path": "content/en/api/engine/audio/iaudiostreamclipdevice/iaudiostreamclipdevice.createstreamclip-5c8875aff036a611.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.IAudioStreamClipDevice",
+      "title": "IAudioStreamClipDevice.CreateStreamClip",
+      "contract": "12759d802029550ad64b73b454b9561894b4c80c37125f322ce91dc855c77b43"
+    },
+    {
       "symbol": "engine:Inno.Audio:M:Inno.Audio.SerializedAudioExtensionState.#ctor",
       "path": "content/en/api/engine/audio/serializedaudioextensionstate/serializedaudioextensionstate.constructor-6cc9c4223cbfaf7c.md",
       "type": "engine:Inno.Audio:T:Inno.Audio.SerializedAudioExtensionState",
@@ -9884,6 +9975,13 @@
       "type": "engine:Inno.Audio:T:Inno.Audio.Audio",
       "title": "Audio.statistics",
       "contract": "c0b2eb86e7e45fd7e37ff035744cd6180a71ce417fd770c4926e8cdf75ac62d3"
+    },
+    {
+      "symbol": "engine:Inno.Audio:P:Inno.Audio.AudioBlockProcessorAttribute.id",
+      "path": "content/en/api/engine/audio/audioblockprocessorattribute/audioblockprocessorattribute.id-a517756d806836bb.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioBlockProcessorAttribute",
+      "title": "AudioBlockProcessorAttribute.id",
+      "contract": "81ead4998433bcf8621195f85dc0322d208039ae66a042c19b33c2974b1fe414"
     },
     {
       "symbol": "engine:Inno.Audio:P:Inno.Audio.AudioBusDefinition.id",
@@ -9956,6 +10054,13 @@
       "contract": "cb6af7d9c0371210519ce3cbed9a8d54874370f306689bf010c8318a745f7ec4"
     },
     {
+      "symbol": "engine:Inno.Audio:P:Inno.Audio.AudioCapabilities.externalProcessorBufferFrames",
+      "path": "content/en/api/engine/audio/audiocapabilities/audiocapabilities.externalprocessorbufferframes-d58a9d143af6006d.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioCapabilities",
+      "title": "AudioCapabilities.externalProcessorBufferFrames",
+      "contract": "d9be679d404244b8b88cca432f69a46a1eea8aade97ac6568b5b4ac635f9f6b7"
+    },
+    {
       "symbol": "engine:Inno.Audio:P:Inno.Audio.AudioCapabilities.maxListeners",
       "path": "content/en/api/engine/audio/audiocapabilities/audiocapabilities.maxlisteners-b8df8318acbf91cf.md",
       "type": "engine:Inno.Audio:T:Inno.Audio.AudioCapabilities",
@@ -9968,6 +10073,13 @@
       "type": "engine:Inno.Audio:T:Inno.Audio.AudioCapabilities",
       "title": "AudioCapabilities.sampleRate",
       "contract": "ae73074b08a668870bd6288fcc4200f7a407e7097749023882f6e62af6dd2dc1"
+    },
+    {
+      "symbol": "engine:Inno.Audio:P:Inno.Audio.AudioCapabilities.supportsExternalDecoders",
+      "path": "content/en/api/engine/audio/audiocapabilities/audiocapabilities.supportsexternaldecoders-a481dc3166a713ce.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioCapabilities",
+      "title": "AudioCapabilities.supportsExternalDecoders",
+      "contract": "15b764f4045d9ab4bd17dfa41a43057265034421680ecbcfe0e03d789a7ec633"
     },
     {
       "symbol": "engine:Inno.Audio:P:Inno.Audio.AudioCapabilities.supportsScheduledPlayback",
@@ -10782,6 +10894,13 @@
       "contract": "a6f1b4205b249d13c3e575b67099570868f8b9b1938b430dfb8aa7d52241c537"
     },
     {
+      "symbol": "engine:Inno.Audio:P:Inno.Audio.AudioStatistics.lastProcessorFailure",
+      "path": "content/en/api/engine/audio/audiostatistics/audiostatistics.lastprocessorfailure-d7e73a556e664d71.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioStatistics",
+      "title": "AudioStatistics.lastProcessorFailure",
+      "contract": "46c345b16cfaf20ffae70c721a247fd36592d8df2185aa99c4af23227a6cf907"
+    },
+    {
       "symbol": "engine:Inno.Audio:P:Inno.Audio.AudioStatistics.loadedClips",
       "path": "content/en/api/engine/audio/audiostatistics/audiostatistics.loadedclips-dff0d451722c46a1.md",
       "type": "engine:Inno.Audio:T:Inno.Audio.AudioStatistics",
@@ -10789,11 +10908,32 @@
       "contract": "aae3c23738fe17953c4f5a84f223ab2e2a544333a9cd1d2785352c4040ba1793"
     },
     {
+      "symbol": "engine:Inno.Audio:P:Inno.Audio.AudioStatistics.processorUnderrunFrames",
+      "path": "content/en/api/engine/audio/audiostatistics/audiostatistics.processorunderrunframes-3c3c32d1fa0daccb.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioStatistics",
+      "title": "AudioStatistics.processorUnderrunFrames",
+      "contract": "820619a34235421ac145e0d9eb5cf7c6a261a36883c674f79566befde58b3d63"
+    },
+    {
       "symbol": "engine:Inno.Audio:P:Inno.Audio.AudioStatistics.stolenVoiceCount",
       "path": "content/en/api/engine/audio/audiostatistics/audiostatistics.stolenvoicecount-d9598b35d1745d75.md",
       "type": "engine:Inno.Audio:T:Inno.Audio.AudioStatistics",
       "title": "AudioStatistics.stolenVoiceCount",
       "contract": "31b9e65ff03f8a8ddd3f153da65fc84c23d7038f106e712a96f538412091547d"
+    },
+    {
+      "symbol": "engine:Inno.Audio:P:Inno.Audio.AudioStreamDecoderAttribute.id",
+      "path": "content/en/api/engine/audio/audiostreamdecoderattribute/audiostreamdecoderattribute.id-9795287424d64565.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioStreamDecoderAttribute",
+      "title": "AudioStreamDecoderAttribute.id",
+      "contract": "49e60343ec621c11c98286fe803049e154b0d0a904a715e3525f1212acb3278a"
+    },
+    {
+      "symbol": "engine:Inno.Audio:P:Inno.Audio.AudioStreamReader.canSeek",
+      "path": "content/en/api/engine/audio/audiostreamreader/audiostreamreader.canseek-8b538b72a9531440.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioStreamReader",
+      "title": "AudioStreamReader.canSeek",
+      "contract": "7f2502455db001d598861a884cb2429c0d552a30e577fe0794daf6467ca9786a"
     },
     {
       "symbol": "engine:Inno.Audio:P:Inno.Audio.AudioVoiceAllocator.generation",
@@ -10955,6 +11095,20 @@
       "type": "engine:Inno.Audio:T:Inno.Audio.Audio",
       "title": "Audio",
       "contract": "945e215b2a584fb922de0c1fd38c9868d460f9bc4f806f36f03ecd810a32adaf"
+    },
+    {
+      "symbol": "engine:Inno.Audio:T:Inno.Audio.AudioBlockProcessor",
+      "path": "content/en/api/engine/audio/audioblockprocessor/index.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioBlockProcessor",
+      "title": "AudioBlockProcessor",
+      "contract": "b6365862d6cc9126b0c23b2779cf0964d92b42d9847ca395b01086a85eacd091"
+    },
+    {
+      "symbol": "engine:Inno.Audio:T:Inno.Audio.AudioBlockProcessorAttribute",
+      "path": "content/en/api/engine/audio/audioblockprocessorattribute/index.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioBlockProcessorAttribute",
+      "title": "AudioBlockProcessorAttribute",
+      "contract": "b766e2647af8481fa170041808b98327fa57ee924942b96180a4d8430aa646cd"
     },
     {
       "symbol": "engine:Inno.Audio:T:Inno.Audio.AudioBusDefinition",
@@ -11272,6 +11426,27 @@
       "contract": "b9f19ba7c2ce6d219e1487d1a455e8cf23a77a3e0ed8df93e631dd51d1443e7f"
     },
     {
+      "symbol": "engine:Inno.Audio:T:Inno.Audio.AudioStreamDecoder",
+      "path": "content/en/api/engine/audio/audiostreamdecoder/index.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioStreamDecoder",
+      "title": "AudioStreamDecoder",
+      "contract": "ea83fc38b15a70a3b79b744edd74d23adaab96c9eb2d9b500d1e901ae3dd0b86"
+    },
+    {
+      "symbol": "engine:Inno.Audio:T:Inno.Audio.AudioStreamDecoderAttribute",
+      "path": "content/en/api/engine/audio/audiostreamdecoderattribute/index.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioStreamDecoderAttribute",
+      "title": "AudioStreamDecoderAttribute",
+      "contract": "5076105a31672d1ea09f712b1e35f702ddf07fa1e9192de2c038b67d13321259"
+    },
+    {
+      "symbol": "engine:Inno.Audio:T:Inno.Audio.AudioStreamReader",
+      "path": "content/en/api/engine/audio/audiostreamreader/index.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.AudioStreamReader",
+      "title": "AudioStreamReader",
+      "contract": "3f95155286b21673f2ab9a14b5980e3611a2aea7b56e36935a9f3dbdefb524e0"
+    },
+    {
       "symbol": "engine:Inno.Audio:T:Inno.Audio.AudioVoiceAllocator",
       "path": "content/en/api/engine/audio/audiovoiceallocator/index.md",
       "type": "engine:Inno.Audio:T:Inno.Audio.AudioVoiceAllocator",
@@ -11300,6 +11475,13 @@
       "contract": "f025b74b31d56766f505e9bc96e7bf1955bcfd0d4ddbd89d2cf6c3b679123d58"
     },
     {
+      "symbol": "engine:Inno.Audio:T:Inno.Audio.IAudioBlockProcessorDevice",
+      "path": "content/en/api/engine/audio/iaudioblockprocessordevice/index.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.IAudioBlockProcessorDevice",
+      "title": "IAudioBlockProcessorDevice",
+      "contract": "b184f74a1e9f8cd5f18429b011c6a41799a79122ef101f9ff8d6195ca82ebf61"
+    },
+    {
       "symbol": "engine:Inno.Audio:T:Inno.Audio.IAudioClipSource",
       "path": "content/en/api/engine/audio/iaudioclipsource/index.md",
       "type": "engine:Inno.Audio:T:Inno.Audio.IAudioClipSource",
@@ -11319,6 +11501,13 @@
       "type": "engine:Inno.Audio:T:Inno.Audio.IAudioService",
       "title": "IAudioService",
       "contract": "e0315b08945ea0fd3d5dd85cf761353f968866f3cc69f7e16077865458eac567"
+    },
+    {
+      "symbol": "engine:Inno.Audio:T:Inno.Audio.IAudioStreamClipDevice",
+      "path": "content/en/api/engine/audio/iaudiostreamclipdevice/index.md",
+      "type": "engine:Inno.Audio:T:Inno.Audio.IAudioStreamClipDevice",
+      "title": "IAudioStreamClipDevice",
+      "contract": "a11dceb3085a8b88c9eab949aed94ca2cb1652f54bbe2c7e626109e98c380912"
     },
     {
       "symbol": "engine:Inno.Audio:T:Inno.Audio.SerializedAudioExtensionState",
@@ -11514,7 +11703,7 @@
       "path": "content/en/api/engine/build/composition/buildtargetfactory/buildtargetfactory.invoke-5d45d4c6a45766ea.md",
       "type": "engine:Inno.Build.Composition:T:Inno.Build.Composition.BuildTargetFactory",
       "title": "BuildTargetFactory.Invoke",
-      "contract": "df61a5bb968d5d7475bbfe0ae580040eaf80412b87a51191c773369232c89af2"
+      "contract": "53bb84ff8abf65ad72f30c78b780271c12cbf5c168d8e9d69dd1db298d7843db"
     },
     {
       "symbol": "engine:Inno.Build.Composition:M:Inno.Build.Composition.GameBuildContribution.#ctor(Inno.Build.Composition.BuildPlatformContribution,Inno.Build.Composition.GameContentCompilerFactory)",
@@ -11780,7 +11969,7 @@
       "path": "content/en/api/engine/build/composition/buildtargetfactory/index.md",
       "type": "engine:Inno.Build.Composition:T:Inno.Build.Composition.BuildTargetFactory",
       "title": "BuildTargetFactory",
-      "contract": "75d02af8cde5e25a2d29409a038335b91c5eb3e583d25b1b43cef1e986e97754"
+      "contract": "8d15a89365bf18564d41162de6c787b3d5aee750e0916374e8cc0a4b26846113"
     },
     {
       "symbol": "engine:Inno.Build.Composition:T:Inno.Build.Composition.GameBuildContribution",
@@ -18839,6 +19028,13 @@
       "contract": "21c5a4b5122ef2815069bcf8846ea6c732ef259d6f9569372cfed0e2a1c653e3"
     },
     {
+      "symbol": "engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.CoroutineScheduler.StopCoroutinesUsing(System.Predicate{System.Type})",
+      "path": "content/en/api/engine/core/coroutines/coroutinescheduler/coroutinescheduler.stopcoroutinesusing-196faf0e751a2040.md",
+      "type": "engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.CoroutineScheduler",
+      "title": "CoroutineScheduler.StopCoroutinesUsing",
+      "contract": "5dc26f12d7485c2b64abf67c33e4b2cb29a8d27da85dd712d50b044abbdd605a"
+    },
+    {
       "symbol": "engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.CoroutineScheduler.Tick(System.Single)",
       "path": "content/en/api/engine/core/coroutines/coroutinescheduler/coroutinescheduler.tick-32e14ba9e15ede11.md",
       "type": "engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.CoroutineScheduler",
@@ -18853,11 +19049,25 @@
       "contract": "33682220774e73260704ee115b8f591e80bfbd883d5e78ff140dcd26249f1193"
     },
     {
+      "symbol": "engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.WaitForFrames.CreateWaiter",
+      "path": "content/en/api/engine/core/coroutines/waitforframes/waitforframes.createwaiter-cbf7d1aeb9bf1c20.md",
+      "type": "engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.WaitForFrames",
+      "title": "WaitForFrames.CreateWaiter",
+      "contract": "3d4c143fc2dd08164d14b16eedbce6ab0d31d5a14e6cc10979cb61fba6597289"
+    },
+    {
       "symbol": "engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.WaitForSeconds.#ctor(System.Single)",
       "path": "content/en/api/engine/core/coroutines/waitforseconds/waitforseconds.constructor-5dbaad5eb9c222b3.md",
       "type": "engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.WaitForSeconds",
       "title": "WaitForSeconds.Constructor",
       "contract": "9ea3df666992c02e88f93cb915880d221d33260da5a9e2a78341739507f6ca6f"
+    },
+    {
+      "symbol": "engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.WaitForSeconds.CreateWaiter",
+      "path": "content/en/api/engine/core/coroutines/waitforseconds/waitforseconds.createwaiter-f306eda584411587.md",
+      "type": "engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.WaitForSeconds",
+      "title": "WaitForSeconds.CreateWaiter",
+      "contract": "d6926923b83668273414fa8c0d4eca4171ad9a4dcad05928306edb3155df0fa8"
     },
     {
       "symbol": "engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.WaitForTask.#ctor(System.Threading.Tasks.Task)",
@@ -18867,11 +19077,25 @@
       "contract": "68aaec0084dee0885f3dd34bbb7362faa6893943857cafb27e4a2ec9bc340235"
     },
     {
+      "symbol": "engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.WaitForTask.CreateWaiter",
+      "path": "content/en/api/engine/core/coroutines/waitfortask/waitfortask.createwaiter-45a36dccae89a103.md",
+      "type": "engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.WaitForTask",
+      "title": "WaitForTask.CreateWaiter",
+      "contract": "d5d02fcbd800209685b3906541cdb92519ffece37730c78ade50d9c2bffd686f"
+    },
+    {
       "symbol": "engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.WaitUntil.#ctor(System.Func{System.Boolean})",
       "path": "content/en/api/engine/core/coroutines/waituntil/waituntil.constructor-6d42708a2ab45e4d.md",
       "type": "engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.WaitUntil",
       "title": "WaitUntil.Constructor",
       "contract": "a64f2b74f7581f196adcb2bfeea040cc9e52f546f681bba4bae7f29bcee7e2a4"
+    },
+    {
+      "symbol": "engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.WaitUntil.CreateWaiter",
+      "path": "content/en/api/engine/core/coroutines/waituntil/waituntil.createwaiter-3ffc47c4f510d9aa.md",
+      "type": "engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.WaitUntil",
+      "title": "WaitUntil.CreateWaiter",
+      "contract": "48875db9c4bfa104bb541b77f97858315252fc63014ee0b686484ff35ab60e8a"
     },
     {
       "symbol": "engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.WaitWhile.#ctor(System.Func{System.Boolean})",
@@ -18881,11 +19105,25 @@
       "contract": "1ca582e38f5209249e6f91a7b9179475d8551da1fce0f9b6e14935f69cc863dd"
     },
     {
+      "symbol": "engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.WaitWhile.CreateWaiter",
+      "path": "content/en/api/engine/core/coroutines/waitwhile/waitwhile.createwaiter-6be5b8065f036c19.md",
+      "type": "engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.WaitWhile",
+      "title": "WaitWhile.CreateWaiter",
+      "contract": "0bf407163761fbca0e4680a60dc396d92a20fd394abf36ac5dae872c0f76af7e"
+    },
+    {
       "symbol": "engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.YieldInstruction.#ctor",
       "path": "content/en/api/engine/core/coroutines/yieldinstruction/yieldinstruction.constructor-5db3b189446cecd0.md",
       "type": "engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.YieldInstruction",
       "title": "YieldInstruction.Constructor",
       "contract": "c155a1cfcdb0378b674ed1812249ab8758087106bf315a90c76cc24039e4d161"
+    },
+    {
+      "symbol": "engine:Inno.Core.Coroutines:M:Inno.Core.Coroutines.YieldInstruction.CreateWaiter",
+      "path": "content/en/api/engine/core/coroutines/yieldinstruction/yieldinstruction.createwaiter-894b4ca087ee8176.md",
+      "type": "engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.YieldInstruction",
+      "title": "YieldInstruction.CreateWaiter",
+      "contract": "322394c1e2ed96a566c5eb9881de45e7f4d3c13f50aa57b608433b106341793d"
     },
     {
       "symbol": "engine:Inno.Core.Coroutines:P:Inno.Core.Coroutines.CoroutineHandle.isValid",
@@ -18983,7 +19221,7 @@
       "path": "content/en/api/engine/core/coroutines/yieldinstruction/index.md",
       "type": "engine:Inno.Core.Coroutines:T:Inno.Core.Coroutines.YieldInstruction",
       "title": "YieldInstruction",
-      "contract": "e6ba2e35f0a85f99212c8dc223de5df9d9d0aed1921e17c41ae1898e0374a47a"
+      "contract": "a2958c0d4185f5f010ee7804d8749c7390ba39a53d643a60c660cbabb90098ab"
     },
     {
       "symbol": "engine:Inno.Core.Diagnostics:E:Inno.Core.Diagnostics.DiagnosticHub.sinkFailed",
@@ -30953,7 +31191,21 @@
       "path": "content/en/api/engine/editor/core/editorreloadcoordinator/editorreloadcoordinator.constructor-1e4c7fa35a95544f.md",
       "type": "engine:Inno.Editor.Core:T:Inno.Editor.Core.EditorReloadCoordinator",
       "title": "EditorReloadCoordinator.Constructor",
-      "contract": "283260d7d109e52d33f1bbf518dcc411bd4165f0c8d37cbac5ab8fccf9199334"
+      "contract": "7afcfe39bc29b9f045d53b238c0b08af449d687a4e9356de9edb40f2da0782ac"
+    },
+    {
+      "symbol": "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorReloadCoordinator.#ctor(System.Action{System.Action})",
+      "path": "content/en/api/engine/editor/core/editorreloadcoordinator/editorreloadcoordinator.constructor-bcdacf79e579377a.md",
+      "type": "engine:Inno.Editor.Core:T:Inno.Editor.Core.EditorReloadCoordinator",
+      "title": "EditorReloadCoordinator.Constructor",
+      "contract": "fb18ebdc0383b9442d0cfb6ff6c170e3c38b6385523e57346aa80e0038ba89c6"
+    },
+    {
+      "symbol": "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorReloadCoordinator.AtFrameBoundary(System.Action)",
+      "path": "content/en/api/engine/editor/core/editorreloadcoordinator/editorreloadcoordinator.atframeboundary-bb2d5a0222e39f25.md",
+      "type": "engine:Inno.Editor.Core:T:Inno.Editor.Core.EditorReloadCoordinator",
+      "title": "EditorReloadCoordinator.AtFrameBoundary",
+      "contract": "44065a8d948a997057b73b68ca22896c65a1447ad379512c8954a3e75656ffa2"
     },
     {
       "symbol": "engine:Inno.Editor.Core:M:Inno.Editor.Core.EditorReloadCoordinator.CanActivateReload(System.String@)",
@@ -52495,6 +52747,13 @@
       "contract": "af8b2c051b3b5f3ec5e02c0e2ee95d9d497a2c6e7c17be2424df7f3a421b9d7f"
     },
     {
+      "symbol": "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCacheSnapshot.ContainsAssembly(System.Reflection.Assembly)",
+      "path": "content/en/api/engine/extensibility/types/typecachesnapshot/typecachesnapshot.containsassembly-a3a81fa2f5172c45.md",
+      "type": "engine:Inno.Extensibility.Types:T:Inno.Extensibility.Types.TypeCacheSnapshot",
+      "title": "TypeCacheSnapshot.ContainsAssembly",
+      "contract": "19362409ae9e5d2fb50cc435dd12ce41700bf897f376b66d846dc54f9d1b1c68"
+    },
+    {
       "symbol": "engine:Inno.Extensibility.Types:M:Inno.Extensibility.Types.TypeCacheSnapshot.CreateInstance(System.Type)",
       "path": "content/en/api/engine/extensibility/types/typecachesnapshot/typecachesnapshot.createinstance-70ab3d403f06e815.md",
       "type": "engine:Inno.Extensibility.Types:T:Inno.Extensibility.Types.TypeCacheSnapshot",
@@ -52943,11 +53202,18 @@
       "contract": "8122e10a94494e9482d9396ec3337d62b4fd4dde081f296129a7cab8dc11e452"
     },
     {
-      "symbol": "engine:Inno.Input.Runtime:M:Inno.Input.Runtime.InputRuntime.#ctor(Inno.Input.IInputBackend)",
-      "path": "content/en/api/engine/input/runtime/inputruntime/inputruntime.constructor-422d2d14dcb12799.md",
+      "symbol": "engine:Inno.Input.Runtime:M:Inno.Input.Runtime.InputRuntime.#ctor(Inno.Input.IInputBackend,Inno.Core.Identity.IdentityAllocator,Inno.Core.Events.EventDispatcher)",
+      "path": "content/en/api/engine/input/runtime/inputruntime/inputruntime.constructor-3577e4b971f040f1.md",
       "type": "engine:Inno.Input.Runtime:T:Inno.Input.Runtime.InputRuntime",
       "title": "InputRuntime.Constructor",
-      "contract": "849094c55571e09757e4ef7b53e62034f316dde45a3167e500e8e1c1cc70b72a"
+      "contract": "18345458ce1d3758391929122f5759c2999f4248795e5472c5331d2cc248382d"
+    },
+    {
+      "symbol": "engine:Inno.Input.Runtime:M:Inno.Input.Runtime.InputRuntime.ConnectDevice(System.String)",
+      "path": "content/en/api/engine/input/runtime/inputruntime/inputruntime.connectdevice-fbae948a65f31680.md",
+      "type": "engine:Inno.Input.Runtime:T:Inno.Input.Runtime.InputRuntime",
+      "title": "InputRuntime.ConnectDevice",
+      "contract": "37008e2f4dcca9af5c4e9e5ae4d0efe6c4c7e36947d8aad9bbc65dbc57360fb5"
     },
     {
       "symbol": "engine:Inno.Input.Runtime:M:Inno.Input.Runtime.InputRuntime.OnBeginFrame(Inno.Runtime.Contracts.RuntimeFrame)",
@@ -52996,7 +53262,7 @@
       "path": "content/en/api/engine/input/runtime/inputruntime/index.md",
       "type": "engine:Inno.Input.Runtime:T:Inno.Input.Runtime.InputRuntime",
       "title": "InputRuntime",
-      "contract": "d4ddd5ead3a4a1943ad1123a7698cc7b48aa507e998c0a0a036252621fc8c8aa"
+      "contract": "2aba8cf6cd61ac9e0ea7c512f855105062bc9ae061a294a09f8ce0af60276be3"
     },
     {
       "symbol": "engine:Inno.Input.Runtime:T:Inno.Input.Runtime.InputRuntimeFactory",
@@ -53006,11 +53272,46 @@
       "contract": "5f33c95886369273b60fbfafc14c7f23879b280860a8ec8291f443da7ffd9397"
     },
     {
+      "symbol": "engine:Inno.Input:F:Inno.Input.InputDeviceChangeKind.Connected",
+      "path": "content/en/api/engine/input/inputdevicechangekind/inputdevicechangekind.connected-b2aa6f35510be66b.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChangeKind",
+      "title": "InputDeviceChangeKind.Connected",
+      "contract": "3eace777fab1f5bb8e0be176b9d1af3518c1a847c9c0234d35bc253da90acc6b"
+    },
+    {
+      "symbol": "engine:Inno.Input:F:Inno.Input.InputDeviceChangeKind.Disconnected",
+      "path": "content/en/api/engine/input/inputdevicechangekind/inputdevicechangekind.disconnected-9b565c1ad11560aa.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChangeKind",
+      "title": "InputDeviceChangeKind.Disconnected",
+      "contract": "9efa91d5257da601d0357a80fd111a8592f2cfae109785c5ca54ea165e0afff9"
+    },
+    {
+      "symbol": "engine:Inno.Input:F:Inno.Input.InputDeviceChangeKind.ValueChanged",
+      "path": "content/en/api/engine/input/inputdevicechangekind/inputdevicechangekind.valuechanged-95a495a06c8b74c0.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChangeKind",
+      "title": "InputDeviceChangeKind.ValueChanged",
+      "contract": "4c4f1b930ff02680ab973d23a4ad2d5b57453f48aae838d80574f59da7fec2b8"
+    },
+    {
       "symbol": "engine:Inno.Input:M:Inno.Input.IInputBackend.Capture(System.Int64)",
       "path": "content/en/api/engine/input/iinputbackend/iinputbackend.capture-6dc3849ec4ae305d.md",
       "type": "engine:Inno.Input:T:Inno.Input.IInputBackend",
       "title": "IInputBackend.Capture",
       "contract": "260d878906e4f618a434a8ba89d6ba8a43918f0b632169b01b3b1d3f49fdc863"
+    },
+    {
+      "symbol": "engine:Inno.Input:M:Inno.Input.IInputDeviceSource.ConnectDevice(System.String)",
+      "path": "content/en/api/engine/input/iinputdevicesource/iinputdevicesource.connectdevice-4fa2cdc7f383bdef.md",
+      "type": "engine:Inno.Input:T:Inno.Input.IInputDeviceSource",
+      "title": "IInputDeviceSource.ConnectDevice",
+      "contract": "bd3bcd8b3860dacbe48170a8a212c2204e9427af7245986779a85ea9805ccdc5"
+    },
+    {
+      "symbol": "engine:Inno.Input:M:Inno.Input.Input.ConnectDevice(System.String)",
+      "path": "content/en/api/engine/input/input/input.connectdevice-e9ad2f97f6389895.md",
+      "type": "engine:Inno.Input:T:Inno.Input.Input",
+      "title": "Input.ConnectDevice",
+      "contract": "f095a2e66d1b742a037a1e3c1964a5d203e782a9727c617ad583f97c9a8635e2"
     },
     {
       "symbol": "engine:Inno.Input:M:Inno.Input.Input.IsKeyDown(Inno.Core.Input.KeyCode)",
@@ -53053,6 +53354,97 @@
       "type": "engine:Inno.Input:T:Inno.Input.Input",
       "title": "Input.WasMouseButtonReleased",
       "contract": "046344a55a455402baa8e44fe1b0f9ab7d48f2df270e9c13f4d10d665c3a3d95"
+    },
+    {
+      "symbol": "engine:Inno.Input:M:Inno.Input.InputDeviceChange.#ctor(Inno.Core.Identity.RuntimeIdentity,System.String,Inno.Input.InputDeviceChangeKind,System.String,System.Double)",
+      "path": "content/en/api/engine/input/inputdevicechange/inputdevicechange.constructor-6a79a48010c53c28.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChange",
+      "title": "InputDeviceChange.Constructor",
+      "contract": "070f053278f995a621cdf315351109e8c44ab077e2961a4c585a42128c475bb6"
+    },
+    {
+      "symbol": "engine:Inno.Input:M:Inno.Input.InputDeviceChange.Deconstruct(Inno.Core.Identity.RuntimeIdentity@,System.String@,Inno.Input.InputDeviceChangeKind@,System.String@,System.Double@)",
+      "path": "content/en/api/engine/input/inputdevicechange/inputdevicechange.deconstruct-df416338d5afe6ae.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChange",
+      "title": "InputDeviceChange.Deconstruct",
+      "contract": "325211fdad8206d11b353a2c010c3d8a79e21b8632427d5bfb096c26342a247b"
+    },
+    {
+      "symbol": "engine:Inno.Input:M:Inno.Input.InputDeviceChange.Equals(Inno.Input.InputDeviceChange)",
+      "path": "content/en/api/engine/input/inputdevicechange/inputdevicechange.equals-323b69e90c36ed7b.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChange",
+      "title": "InputDeviceChange.Equals",
+      "contract": "e0c49559606135662c77b8d786d9d84515b16519fb90e28bcfdb7600df8b8977"
+    },
+    {
+      "symbol": "engine:Inno.Input:M:Inno.Input.InputDeviceChange.Equals(System.Object)",
+      "path": "content/en/api/engine/input/inputdevicechange/inputdevicechange.equals-1832ac4fdcb53692.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChange",
+      "title": "InputDeviceChange.Equals",
+      "contract": "d227d80ce1c6f5f619481bbc684bddd65bf277a968b1b6314bf1de0da9da5738"
+    },
+    {
+      "symbol": "engine:Inno.Input:M:Inno.Input.InputDeviceChange.GetHashCode",
+      "path": "content/en/api/engine/input/inputdevicechange/inputdevicechange.gethashcode-01c56648ad5ba188.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChange",
+      "title": "InputDeviceChange.GetHashCode",
+      "contract": "fcf3313409e2b8b40abed457d5cd02cc18706cbc2d47e753813b9c8e9c236f2e"
+    },
+    {
+      "symbol": "engine:Inno.Input:M:Inno.Input.InputDeviceChange.ToString",
+      "path": "content/en/api/engine/input/inputdevicechange/inputdevicechange.tostring-379f36c3caa89246.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChange",
+      "title": "InputDeviceChange.ToString",
+      "contract": "f541cdac62249e7ec0ef4a6dac64ff2dd2595c91018bd5ee45ac499c5bd273f2"
+    },
+    {
+      "symbol": "engine:Inno.Input:M:Inno.Input.InputDeviceChange.op_Equality(Inno.Input.InputDeviceChange,Inno.Input.InputDeviceChange)",
+      "path": "content/en/api/engine/input/inputdevicechange/inputdevicechange.op-equality-5286bbd57d954bc6.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChange",
+      "title": "InputDeviceChange.op_Equality",
+      "contract": "55be78ee3e7e1ad1d8ebaf76c4b8c09a7b48a41e690006364bf8a917a1bd571d"
+    },
+    {
+      "symbol": "engine:Inno.Input:M:Inno.Input.InputDeviceChange.op_Inequality(Inno.Input.InputDeviceChange,Inno.Input.InputDeviceChange)",
+      "path": "content/en/api/engine/input/inputdevicechange/inputdevicechange.op-inequality-063d928bfa477c62.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChange",
+      "title": "InputDeviceChange.op_Inequality",
+      "contract": "2abd8638f8f8294e2305c56c165748490dd03c131af43a6790de062362362515"
+    },
+    {
+      "symbol": "engine:Inno.Input:M:Inno.Input.InputDeviceConnection.#ctor",
+      "path": "content/en/api/engine/input/inputdeviceconnection/inputdeviceconnection.constructor-c9a3fac59ee36913.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceConnection",
+      "title": "InputDeviceConnection.Constructor",
+      "contract": "cc6facb768c465a6ced90a2c234825debe23d7c400ad325320d0198757caa689"
+    },
+    {
+      "symbol": "engine:Inno.Input:M:Inno.Input.InputDeviceConnection.Dispose",
+      "path": "content/en/api/engine/input/inputdeviceconnection/inputdeviceconnection.dispose-6a17a33279f651d5.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceConnection",
+      "title": "InputDeviceConnection.Dispose",
+      "contract": "310df94326eed648da73d895bc398de362b437858c941c026a40ed3bba74c202"
+    },
+    {
+      "symbol": "engine:Inno.Input:M:Inno.Input.InputDeviceConnection.SetValue(System.String,System.Double)",
+      "path": "content/en/api/engine/input/inputdeviceconnection/inputdeviceconnection.setvalue-489c468721c001c8.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceConnection",
+      "title": "InputDeviceConnection.SetValue",
+      "contract": "7cab078daa902ff0b3e06a46f8ae18e46c7019fb412c2a10481a78a07a4c723a"
+    },
+    {
+      "symbol": "engine:Inno.Input:M:Inno.Input.InputDeviceEvent.#ctor(Inno.Input.InputDeviceChange)",
+      "path": "content/en/api/engine/input/inputdeviceevent/inputdeviceevent.constructor-0cbeecd19bd73824.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceEvent",
+      "title": "InputDeviceEvent.Constructor",
+      "contract": "b33e8bd5c40c24c20cdacf076fc050b20208178301eff6d96b823d3a593d529f"
+    },
+    {
+      "symbol": "engine:Inno.Input:M:Inno.Input.InputDeviceState.#ctor(Inno.Core.Identity.RuntimeIdentity,System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,System.Double})",
+      "path": "content/en/api/engine/input/inputdevicestate/inputdevicestate.constructor-5ce6b2faf5e5d444.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceState",
+      "title": "InputDeviceState.Constructor",
+      "contract": "67809e79e527181c129b3526df2ced2a0c7a5cb8e6522bbd6b1c779c7fb76012"
     },
     {
       "symbol": "engine:Inno.Input:M:Inno.Input.InputExecutionContext.EnterScope(Inno.Input.IInputService)",
@@ -53118,6 +53510,13 @@
       "contract": "1c658af2888c2b1b77b333818fbd88e69098060e7ced0cefd24ec1ba04aef01d"
     },
     {
+      "symbol": "engine:Inno.Input:M:Inno.Input.InputSnapshot.WithDevices(System.Collections.Generic.IEnumerable{Inno.Input.InputDeviceState},System.Collections.Generic.IEnumerable{Inno.Input.InputDeviceChange})",
+      "path": "content/en/api/engine/input/inputsnapshot/inputsnapshot.withdevices-e35bfc34094f0da6.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputSnapshot",
+      "title": "InputSnapshot.WithDevices",
+      "contract": "600a9e3a89178966deb7996ad24602cf44be2b18f772e3b447b03f686e83622b"
+    },
+    {
       "symbol": "engine:Inno.Input:P:Inno.Input.IInputService.snapshot",
       "path": "content/en/api/engine/input/iinputservice/iinputservice.snapshot-b61acd3d2244bd13.md",
       "type": "engine:Inno.Input:T:Inno.Input.IInputService",
@@ -53153,11 +53552,88 @@
       "contract": "15176b050b4160f2c51abaee85575471a61fefd7c8b51a8a76555ae4c5cfdf85"
     },
     {
+      "symbol": "engine:Inno.Input:P:Inno.Input.InputDeviceChange.controlID",
+      "path": "content/en/api/engine/input/inputdevicechange/inputdevicechange.controlid-47c5328f2298ebfe.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChange",
+      "title": "InputDeviceChange.controlID",
+      "contract": "cb7c3a4ba15fa92dd9d6b1ce939cb9fa3a417456435f7ae550d516efd0a4defb"
+    },
+    {
+      "symbol": "engine:Inno.Input:P:Inno.Input.InputDeviceChange.instance",
+      "path": "content/en/api/engine/input/inputdevicechange/inputdevicechange.instance-81797c566ecf5e38.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChange",
+      "title": "InputDeviceChange.instance",
+      "contract": "4f64cd0e644ab99770dc5ce52de3bdcede010b585d5e097f64791c7d24bdd0d0"
+    },
+    {
+      "symbol": "engine:Inno.Input:P:Inno.Input.InputDeviceChange.kind",
+      "path": "content/en/api/engine/input/inputdevicechange/inputdevicechange.kind-87fd065dd880c03e.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChange",
+      "title": "InputDeviceChange.kind",
+      "contract": "b4a6317a9d47f6adedcde7da35d199b750ee25a85b3e9587559b70761c07fc3a"
+    },
+    {
+      "symbol": "engine:Inno.Input:P:Inno.Input.InputDeviceChange.typeID",
+      "path": "content/en/api/engine/input/inputdevicechange/inputdevicechange.typeid-d875fa6d493943df.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChange",
+      "title": "InputDeviceChange.typeID",
+      "contract": "672a5602fd3e59b32bfb01272aa11914ce101ac4ed2b6840ed062623f3fb4166"
+    },
+    {
+      "symbol": "engine:Inno.Input:P:Inno.Input.InputDeviceChange.value",
+      "path": "content/en/api/engine/input/inputdevicechange/inputdevicechange.value-8e472743596205de.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChange",
+      "title": "InputDeviceChange.value",
+      "contract": "30db073fa0db67f45302b94935eb34df2d5f90a81c0cf5cacf56a6370632ed36"
+    },
+    {
+      "symbol": "engine:Inno.Input:P:Inno.Input.InputDeviceEvent.change",
+      "path": "content/en/api/engine/input/inputdeviceevent/inputdeviceevent.change-65023f33fd793ab2.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceEvent",
+      "title": "InputDeviceEvent.change",
+      "contract": "f13701d83fb53c9e09773ce0ce2baa7c96dbedcb60c099a4023fcdc0a7acfe63"
+    },
+    {
+      "symbol": "engine:Inno.Input:P:Inno.Input.InputDeviceState.controls",
+      "path": "content/en/api/engine/input/inputdevicestate/inputdevicestate.controls-8c8c628fe2888729.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceState",
+      "title": "InputDeviceState.controls",
+      "contract": "c03d43c5f40c414bd28548a51be89135bcd536a02dfab7a504c84071d681be49"
+    },
+    {
+      "symbol": "engine:Inno.Input:P:Inno.Input.InputDeviceState.instance",
+      "path": "content/en/api/engine/input/inputdevicestate/inputdevicestate.instance-478e4b2ea02867d5.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceState",
+      "title": "InputDeviceState.instance",
+      "contract": "9a8426d871ad0702064f961babfc09ad7bc417de35f7b3b75eab2b696084cacf"
+    },
+    {
+      "symbol": "engine:Inno.Input:P:Inno.Input.InputDeviceState.typeID",
+      "path": "content/en/api/engine/input/inputdevicestate/inputdevicestate.typeid-e5c6dde1043f89fa.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceState",
+      "title": "InputDeviceState.typeID",
+      "contract": "b0391f2a94e50af2462531d710c782b6665ed8411b7a516f2985714815c75c25"
+    },
+    {
       "symbol": "engine:Inno.Input:P:Inno.Input.InputExecutionContext.current",
       "path": "content/en/api/engine/input/inputexecutioncontext/inputexecutioncontext.current-e96a86044485d3db.md",
       "type": "engine:Inno.Input:T:Inno.Input.InputExecutionContext",
       "title": "InputExecutionContext.current",
       "contract": "4ba6d262f746591c7d6526ef9e951dac31c0318be0b4bad5dbb2fedef4794001"
+    },
+    {
+      "symbol": "engine:Inno.Input:P:Inno.Input.InputSnapshot.deviceChanges",
+      "path": "content/en/api/engine/input/inputsnapshot/inputsnapshot.devicechanges-b57c8847044d3bd1.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputSnapshot",
+      "title": "InputSnapshot.deviceChanges",
+      "contract": "00453c896d5a9b8fdfdfa95d39dda1802324ebb0236828d0437947e1a1fde549"
+    },
+    {
+      "symbol": "engine:Inno.Input:P:Inno.Input.InputSnapshot.devices",
+      "path": "content/en/api/engine/input/inputsnapshot/inputsnapshot.devices-6bbe0b595b0e25c8.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputSnapshot",
+      "title": "InputSnapshot.devices",
+      "contract": "35e367cee3dade77bff43e61387eaa95a03fec12ee8b0ba7185769c02a0928f5"
     },
     {
       "symbol": "engine:Inno.Input:P:Inno.Input.InputSnapshot.empty",
@@ -53244,6 +53720,13 @@
       "contract": "a4ac2d0cc7d011175db69b523782ea5916ab0c0ac275300a2e126dcda71bb1ec"
     },
     {
+      "symbol": "engine:Inno.Input:T:Inno.Input.IInputDeviceSource",
+      "path": "content/en/api/engine/input/iinputdevicesource/index.md",
+      "type": "engine:Inno.Input:T:Inno.Input.IInputDeviceSource",
+      "title": "IInputDeviceSource",
+      "contract": "88d6a671415b809470958f5ef3b1a3eb5848e1906a285d07129d40e1e531e2a9"
+    },
+    {
       "symbol": "engine:Inno.Input:T:Inno.Input.IInputService",
       "path": "content/en/api/engine/input/iinputservice/index.md",
       "type": "engine:Inno.Input:T:Inno.Input.IInputService",
@@ -53256,6 +53739,41 @@
       "type": "engine:Inno.Input:T:Inno.Input.Input",
       "title": "Input",
       "contract": "3fe0c73c113d6c222cae4f17b445d642f8cf56a07dae7b5a1451ed1832d7f173"
+    },
+    {
+      "symbol": "engine:Inno.Input:T:Inno.Input.InputDeviceChange",
+      "path": "content/en/api/engine/input/inputdevicechange/index.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChange",
+      "title": "InputDeviceChange",
+      "contract": "0c657d86d7c93fb1103f660abc9e11fa7cb38cf2452d7d030f24a1d81268e8a7"
+    },
+    {
+      "symbol": "engine:Inno.Input:T:Inno.Input.InputDeviceChangeKind",
+      "path": "content/en/api/engine/input/inputdevicechangekind/index.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceChangeKind",
+      "title": "InputDeviceChangeKind",
+      "contract": "8432939a7588f0625406f63c8823a96127a1049ae0d4dd4c99889ec6bb686fa3"
+    },
+    {
+      "symbol": "engine:Inno.Input:T:Inno.Input.InputDeviceConnection",
+      "path": "content/en/api/engine/input/inputdeviceconnection/index.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceConnection",
+      "title": "InputDeviceConnection",
+      "contract": "033386fcb38b3e6ace7bc9a0009f60fc9f19cd71adcc37b5ab525d17502b41d5"
+    },
+    {
+      "symbol": "engine:Inno.Input:T:Inno.Input.InputDeviceEvent",
+      "path": "content/en/api/engine/input/inputdeviceevent/index.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceEvent",
+      "title": "InputDeviceEvent",
+      "contract": "40342b68108785cb8105976314c65c2a03892242d4d07fb6f0822a7143c1ed22"
+    },
+    {
+      "symbol": "engine:Inno.Input:T:Inno.Input.InputDeviceState",
+      "path": "content/en/api/engine/input/inputdevicestate/index.md",
+      "type": "engine:Inno.Input:T:Inno.Input.InputDeviceState",
+      "title": "InputDeviceState",
+      "contract": "c18ddb16cc3c9c3c44528459462d95006b2278ceda917b5ae8775505b06ecd5d"
     },
     {
       "symbol": "engine:Inno.Input:T:Inno.Input.InputExecutionContext",
@@ -60010,7 +60528,7 @@
       "path": "content/en/api/engine/rendering/runtime/renderpipelineextensionattribute/index.md",
       "type": "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderPipelineExtensionAttribute",
       "title": "RenderPipelineExtensionAttribute",
-      "contract": "e84e5468361af881fce58ff4550d115ac94aa5064d6d219e8c801469669b5971"
+      "contract": "6e07749eeabb686f805daa0b1334bfafed14c921fbf0a3598c606d9507db825b"
     },
     {
       "symbol": "engine:Inno.Rendering.Runtime:T:Inno.Rendering.Runtime.RenderPipelineFeature",
@@ -63713,7 +64231,7 @@
       "path": "content/en/api/engine/rendering/shaders/shadernodecompilerregistry/index.md",
       "type": "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderNodeCompilerRegistry",
       "title": "ShaderNodeCompilerRegistry",
-      "contract": "a80a4aecaaa885aec2bf98449d9ad9359e4ac7a616f61bdd46f53e8fa8a12274"
+      "contract": "4b38c74df43be422d193f64ef586931a1460c37af3412dade49f2b75e60ad2e7"
     },
     {
       "symbol": "engine:Inno.Rendering.Shaders:T:Inno.Rendering.Shaders.ShaderNodeDescriptionContext",
@@ -70072,11 +70590,11 @@
       "contract": "9f34917f6267f9462a10284465d645d9339f679cd2e29c72b32942a339349213"
     },
     {
-      "symbol": "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.IRuntimeSubsystemFactory.Create(Inno.Runtime.Contracts.RuntimeSubsystemContext)",
-      "path": "content/en/api/engine/runtime/contracts/iruntimesubsystemfactory/iruntimesubsystemfactory.create-ece2397c3d27372b.md",
-      "type": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.IRuntimeSubsystemFactory",
-      "title": "IRuntimeSubsystemFactory.Create",
-      "contract": "0571d6cd54fe16f58805d3b8f988d07c254f14ee60cdd901847f990b8d77cc97"
+      "symbol": "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.IRuntimeSubsystemActivator.Create(Inno.Runtime.Contracts.RuntimeSubsystemContext)",
+      "path": "content/en/api/engine/runtime/contracts/iruntimesubsystemactivator/iruntimesubsystemactivator.create-fbd45ee7e7243031.md",
+      "type": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.IRuntimeSubsystemActivator",
+      "title": "IRuntimeSubsystemActivator.Create",
+      "contract": "14328a66de22f2f256b30b1530e1e8c0fc1cae6deaaf6d296236b2a72d6ec0af"
     },
     {
       "symbol": "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeCapabilityID.#ctor(System.String)",
@@ -70408,6 +70926,13 @@
       "contract": "1392911875cef07d83fa08da3de12c3cef8fe620c002cccb6fe2bffa4da05be7"
     },
     {
+      "symbol": "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystemExtensionAttribute.#ctor(System.String)",
+      "path": "content/en/api/engine/runtime/contracts/runtimesubsystemextensionattribute/runtimesubsystemextensionattribute.constructor-4ce2d2fd8fd0a0fe.md",
+      "type": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemExtensionAttribute",
+      "title": "RuntimeSubsystemExtensionAttribute.Constructor",
+      "contract": "2cc9e9fddbdfce56be7194b3ca0c9c7b724bdeb27625fe95dae8d7c87c370a72"
+    },
+    {
       "symbol": "engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.RuntimeSubsystemID.#ctor(System.String)",
       "path": "content/en/api/engine/runtime/contracts/runtimesubsystemid/runtimesubsystemid.constructor-3b59d14c6c11ae16.md",
       "type": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemID",
@@ -70667,6 +71192,41 @@
       "contract": "d853f723fbb01a0b4c74263dffb1eb1dcc92b5b8fb30bce31d53182466a1f308"
     },
     {
+      "symbol": "engine:Inno.Runtime.Contracts:P:Inno.Runtime.Contracts.RuntimeSubsystemExtensionAttribute.dependencies",
+      "path": "content/en/api/engine/runtime/contracts/runtimesubsystemextensionattribute/runtimesubsystemextensionattribute.dependencies-e999603cff4ecdd1.md",
+      "type": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemExtensionAttribute",
+      "title": "RuntimeSubsystemExtensionAttribute.dependencies",
+      "contract": "a7f7bb0f141cc0c4af295e4dcb67d1812675374a9f8915f7cb8d838e7f51c257"
+    },
+    {
+      "symbol": "engine:Inno.Runtime.Contracts:P:Inno.Runtime.Contracts.RuntimeSubsystemExtensionAttribute.id",
+      "path": "content/en/api/engine/runtime/contracts/runtimesubsystemextensionattribute/runtimesubsystemextensionattribute.id-e185099e579d191c.md",
+      "type": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemExtensionAttribute",
+      "title": "RuntimeSubsystemExtensionAttribute.id",
+      "contract": "8f9456d249068dcc2449a11f087f1df1bd03c9b5d1d60d3b2ab7b9e42776b5d5"
+    },
+    {
+      "symbol": "engine:Inno.Runtime.Contracts:P:Inno.Runtime.Contracts.RuntimeSubsystemExtensionAttribute.lifetime",
+      "path": "content/en/api/engine/runtime/contracts/runtimesubsystemextensionattribute/runtimesubsystemextensionattribute.lifetime-b3dbd05e54b7bdb4.md",
+      "type": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemExtensionAttribute",
+      "title": "RuntimeSubsystemExtensionAttribute.lifetime",
+      "contract": "aa4bd98bff9fc5be33897b6a9dc1d5056655535e1e9e260cbbd567a3f26e0ccf"
+    },
+    {
+      "symbol": "engine:Inno.Runtime.Contracts:P:Inno.Runtime.Contracts.RuntimeSubsystemExtensionAttribute.requiredCapabilities",
+      "path": "content/en/api/engine/runtime/contracts/runtimesubsystemextensionattribute/runtimesubsystemextensionattribute.requiredcapabilities-bd298d0a45ca03d9.md",
+      "type": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemExtensionAttribute",
+      "title": "RuntimeSubsystemExtensionAttribute.requiredCapabilities",
+      "contract": "5470f2dc281d913d1fcfa863c87430d1333fb164fd0481edcd1cfaf4cd034bb7"
+    },
+    {
+      "symbol": "engine:Inno.Runtime.Contracts:P:Inno.Runtime.Contracts.RuntimeSubsystemExtensionAttribute.requiresRestart",
+      "path": "content/en/api/engine/runtime/contracts/runtimesubsystemextensionattribute/runtimesubsystemextensionattribute.requiresrestart-2956a443067d2e90.md",
+      "type": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemExtensionAttribute",
+      "title": "RuntimeSubsystemExtensionAttribute.requiresRestart",
+      "contract": "5b3a8e0f32e3611cdf9a8d7d5363b44a80de55ebbc4f02f2f1d97725e17ac09d"
+    },
+    {
       "symbol": "engine:Inno.Runtime.Contracts:P:Inno.Runtime.Contracts.RuntimeSubsystemID.isValid",
       "path": "content/en/api/engine/runtime/contracts/runtimesubsystemid/runtimesubsystemid.isvalid-8e3782d7decac1cf.md",
       "type": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemID",
@@ -70695,11 +71255,18 @@
       "contract": "0b594139e90ab6b3deab16038d8571ddd5fc467f13e5a2d271a7110df8c4103c"
     },
     {
+      "symbol": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.IRuntimeSubsystemActivator",
+      "path": "content/en/api/engine/runtime/contracts/iruntimesubsystemactivator/index.md",
+      "type": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.IRuntimeSubsystemActivator",
+      "title": "IRuntimeSubsystemActivator",
+      "contract": "c8a6931eb2c2c9a08d346571f0e38c28ba78d6ed7c3f5ef14d53cc6e6be7f62c"
+    },
+    {
       "symbol": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.IRuntimeSubsystemFactory",
       "path": "content/en/api/engine/runtime/contracts/iruntimesubsystemfactory/index.md",
       "type": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.IRuntimeSubsystemFactory",
       "title": "IRuntimeSubsystemFactory",
-      "contract": "0d14da59abe92d22967fa10c4d3273e0c3946abc4bc95fc14ff0be0c1a143ebf"
+      "contract": "48a3be2eb11ce677f6cb0a4d000f14117d902351e8711e0624396d8b5e52442a"
     },
     {
       "symbol": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeCapabilityID",
@@ -70749,6 +71316,13 @@
       "type": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemDescriptor",
       "title": "RuntimeSubsystemDescriptor",
       "contract": "5e6bd3463733886ba6f5a5188042f6571867587c2c5c1c652dbcbe25f0162d1b"
+    },
+    {
+      "symbol": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemExtensionAttribute",
+      "path": "content/en/api/engine/runtime/contracts/runtimesubsystemextensionattribute/index.md",
+      "type": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemExtensionAttribute",
+      "title": "RuntimeSubsystemExtensionAttribute",
+      "contract": "9947ec29cc667c7ff1fa271e5414a9b7fd881c703d9e4d5d5fb8fb70f0b96967"
     },
     {
       "symbol": "engine:Inno.Runtime.Contracts:T:Inno.Runtime.Contracts.RuntimeSubsystemID",
@@ -71281,6 +71855,27 @@
       "type": "engine:Inno.Runtime:T:Inno.Runtime.RuntimeSubsystemPipeline",
       "title": "RuntimeSubsystemPipeline.Update",
       "contract": "763e608ed9fa83c498dfb70e136e3d4c7217523000675f1eb306c182756b0aa9"
+    },
+    {
+      "symbol": "engine:Inno.Runtime:M:Inno.Runtime.SessionCoroutines.Start(System.Object,System.Collections.IEnumerator)",
+      "path": "content/en/api/engine/runtime/sessioncoroutines/sessioncoroutines.start-d7bebe1c88dded61.md",
+      "type": "engine:Inno.Runtime:T:Inno.Runtime.SessionCoroutines",
+      "title": "SessionCoroutines.Start",
+      "contract": "f4b6a49960bff0a246ff20291b0d451e6b32654063daca313c6326ddd53936cb"
+    },
+    {
+      "symbol": "engine:Inno.Runtime:M:Inno.Runtime.SessionCoroutines.Stop(Inno.Core.Coroutines.CoroutineHandle)",
+      "path": "content/en/api/engine/runtime/sessioncoroutines/sessioncoroutines.stop-c84168e776521c8e.md",
+      "type": "engine:Inno.Runtime:T:Inno.Runtime.SessionCoroutines",
+      "title": "SessionCoroutines.Stop",
+      "contract": "76fbf8e4789d92302c82f57136f932d0a6ef62831c1e799a4aef6a8aef582a82"
+    },
+    {
+      "symbol": "engine:Inno.Runtime:M:Inno.Runtime.SessionCoroutines.StopAll(System.Object)",
+      "path": "content/en/api/engine/runtime/sessioncoroutines/sessioncoroutines.stopall-3f0cfa2716baea01.md",
+      "type": "engine:Inno.Runtime:T:Inno.Runtime.SessionCoroutines",
+      "title": "SessionCoroutines.StopAll",
+      "contract": "51b3644460130ee053f21acd894117cc0f618aadca97dbc981ce4b71d2896ac2"
     },
     {
       "symbol": "engine:Inno.Runtime:M:Inno.Runtime.StaticAssemblyCatalogSource.#ctor(System.Collections.Generic.IReadOnlyList{System.Reflection.Assembly},System.Collections.Generic.IReadOnlyList{System.Reflection.Assembly})",
@@ -72114,6 +72709,13 @@
       "type": "engine:Inno.Runtime:T:Inno.Runtime.RuntimeSubsystemPipeline",
       "title": "RuntimeSubsystemPipeline",
       "contract": "636568a9d6fd8aadc47550e9130256105e6d5d0d6b991df026d4ce9b09e49913"
+    },
+    {
+      "symbol": "engine:Inno.Runtime:T:Inno.Runtime.SessionCoroutines",
+      "path": "content/en/api/engine/runtime/sessioncoroutines/index.md",
+      "type": "engine:Inno.Runtime:T:Inno.Runtime.SessionCoroutines",
+      "title": "SessionCoroutines",
+      "contract": "13016aecc889744d08557d74f9adef22330ee7cf26c1e23dac74aa84cbf4d7d6"
     },
     {
       "symbol": "engine:Inno.Runtime:T:Inno.Runtime.StaticAssemblyCatalogSource",
@@ -75172,7 +75774,7 @@
       "path": "content/en/api/engine/scripting/reload/scriptreloadhost/scriptreloadhost.applypendingreload-1c7112237094cc28.md",
       "type": "engine:Inno.Scripting.Reload:T:Inno.Scripting.Reload.ScriptReloadHost",
       "title": "ScriptReloadHost.ApplyPendingReload",
-      "contract": "22ce04f1299596e1e336934251f63f243e1f0b84eec1143d84147d067b87a1e3"
+      "contract": "5e7f4ea9bcd4ef584bacd60c2c7a41ee9604cf43bcfeb6fb1a0bc76189687ee7"
     },
     {
       "symbol": "engine:Inno.Scripting.Reload:M:Inno.Scripting.Reload.ScriptReloadHost.CancelCompilation(System.Int64)",
@@ -75579,6 +76181,13 @@
       "type": "engine:Inno.Shell:T:Inno.Shell.Shell",
       "title": "Shell.OnFrame",
       "contract": "6f045ce80764719a5eb561af706141be55c03a3d65c094076b7dd2d34b0f5d9d"
+    },
+    {
+      "symbol": "engine:Inno.Shell:M:Inno.Shell.Shell.OnFrameCompleted",
+      "path": "content/en/api/engine/shell/shell/shell.onframecompleted-653370dc2db9f89d.md",
+      "type": "engine:Inno.Shell:T:Inno.Shell.Shell",
+      "title": "Shell.OnFrameCompleted",
+      "contract": "38b05bc1c4afcd61dd989026ac8a784cf55a6af66e38ce4dd422a51b48f821ad"
     },
     {
       "symbol": "engine:Inno.Shell:M:Inno.Shell.Shell.OnPresentation(Inno.Shell.ShellFrame)",
@@ -81325,7 +81934,7 @@
       "path": "content/en/api/scripting/editor/assetimporterattribute/index.md",
       "type": "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetImporterAttribute",
       "title": "AssetImporterAttribute",
-      "contract": "f6f63cbc4a0f9c1b87aad9ca0e5c6e1c743132c5ad6297b159f115cb9489196c"
+      "contract": "28f4453e9135fb78973d233ce0a9a328711af61a008b98ca2169b6f769fbb76d"
     },
     {
       "symbol": "scripting:Inno.Assets.Pipeline:T:InnoEditor.Assets.AssetImporter\u00601",
@@ -82805,6 +83414,34 @@
       "contract": "3ad826c4eec15da4c2e9175fd747fc8395b9121a6dc0d79703c4e66296e7b179"
     },
     {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioBlockProcessor.#ctor",
+      "path": "content/en/api/scripting/runtime/audioblockprocessor/audioblockprocessor.constructor-61f4ea9bb86c701d.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioBlockProcessor",
+      "title": "AudioBlockProcessor.Constructor",
+      "contract": "3c5417a1454743915fb51c37e55453869116e868f21429f49c201f9e175dbc83"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioBlockProcessor.Dispose",
+      "path": "content/en/api/scripting/runtime/audioblockprocessor/audioblockprocessor.dispose-d1c162ccd8bb9ee9.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioBlockProcessor",
+      "title": "AudioBlockProcessor.Dispose",
+      "contract": "b960ecc1e2448037e45b174bb75fc5f055072a93386bc096a8379fcc9885faf2"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioBlockProcessor.Process(System.Span{System.Single},System.Int32,System.Int32,InnoEngine.Audio.AudioProcessorConfiguration)",
+      "path": "content/en/api/scripting/runtime/audioblockprocessor/audioblockprocessor.process-d0117fcbb0b9a874.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioBlockProcessor",
+      "title": "AudioBlockProcessor.Process",
+      "contract": "2d32b09c0857efcb3c5b27c48fab52dcbba901046e582b29baf05ce1dd32f789"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioBlockProcessorAttribute.#ctor(System.String)",
+      "path": "content/en/api/scripting/runtime/audioblockprocessorattribute/audioblockprocessorattribute.constructor-8931008553f9c48e.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioBlockProcessorAttribute",
+      "title": "AudioBlockProcessorAttribute.Constructor",
+      "contract": "ed28ed2bfb4d2825763204d020ee684d1cbdc7f0dd24beb2f0e89a10bdafaa66"
+    },
+    {
       "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioBusDefinition.#ctor(InnoEngine.Audio.AudioBusID,System.Nullable{InnoEngine.Audio.AudioBusID},System.Single,System.Boolean,System.Collections.Generic.IEnumerable{InnoEngine.Audio.AudioProcessorConfiguration})",
       "path": "content/en/api/scripting/runtime/audiobusdefinition/audiobusdefinition.constructor-bf0a209062ce0284.md",
       "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioBusDefinition",
@@ -82966,6 +83603,55 @@
       "contract": "a23394c84bc18861baa67e48cf4e2f3704236dd6e7dfeb3a40913a5029435231"
     },
     {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioClipDescriptor.#ctor(InnoEngine.Audio.AudioCodecID,InnoEngine.Audio.AudioClipLoadMode,System.Int32,System.Int32,System.Int64,System.Int64)",
+      "path": "content/en/api/scripting/runtime/audioclipdescriptor/audioclipdescriptor.constructor-f709a3e82359f571.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipDescriptor",
+      "title": "AudioClipDescriptor.Constructor",
+      "contract": "6e7d35801b1b825f2cb98c584931c5c41431c3d324469746f04de9cb5dcaeab6"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioClipDescriptor.Equals(InnoEngine.Audio.AudioClipDescriptor)",
+      "path": "content/en/api/scripting/runtime/audioclipdescriptor/audioclipdescriptor.equals-a77b0a5bdcb223d8.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipDescriptor",
+      "title": "AudioClipDescriptor.Equals",
+      "contract": "57eff975881648ae3091f4fb94f44bc5a1573dca2136838c5113a67d05ca6991"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioClipDescriptor.Equals(System.Object)",
+      "path": "content/en/api/scripting/runtime/audioclipdescriptor/audioclipdescriptor.equals-111fca584ceb6217.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipDescriptor",
+      "title": "AudioClipDescriptor.Equals",
+      "contract": "0b86c729172d4296fefed5146a51b192573f870c927327365af7902f19fdbb84"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioClipDescriptor.GetHashCode",
+      "path": "content/en/api/scripting/runtime/audioclipdescriptor/audioclipdescriptor.gethashcode-a64cd5db2a99f46f.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipDescriptor",
+      "title": "AudioClipDescriptor.GetHashCode",
+      "contract": "c6b95cd90ee5596caab70f04c3f7b4188cb80b6dc6a5dc3c612c54c33bae7d77"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioClipDescriptor.ToString",
+      "path": "content/en/api/scripting/runtime/audioclipdescriptor/audioclipdescriptor.tostring-b48307751aea25d7.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipDescriptor",
+      "title": "AudioClipDescriptor.ToString",
+      "contract": "50f80451f0fed66c4a574eccbda5be4c2c138418c9b39b1874db8cab56ac3370"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioClipDescriptor.op_Equality(InnoEngine.Audio.AudioClipDescriptor,InnoEngine.Audio.AudioClipDescriptor)",
+      "path": "content/en/api/scripting/runtime/audioclipdescriptor/audioclipdescriptor.op-equality-a4941fcaeb2b2049.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipDescriptor",
+      "title": "AudioClipDescriptor.op_Equality",
+      "contract": "6530b5de8de4677dea2cf6120cf3c05b8a7eaf49c3b47a1e7ef4f2f8d96192d8"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioClipDescriptor.op_Inequality(InnoEngine.Audio.AudioClipDescriptor,InnoEngine.Audio.AudioClipDescriptor)",
+      "path": "content/en/api/scripting/runtime/audioclipdescriptor/audioclipdescriptor.op-inequality-c7285c323c55e193.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipDescriptor",
+      "title": "AudioClipDescriptor.op_Inequality",
+      "contract": "55663c2252f360f29b5c3f3c599ff0fecfcd6b2cb57055a7c1eeafc1ab848eb1"
+    },
+    {
       "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioClipHandle.Equals(InnoEngine.Audio.AudioClipHandle)",
       "path": "content/en/api/scripting/runtime/audiocliphandle/audiocliphandle.equals-2110f4c40db8c356.md",
       "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipHandle",
@@ -83055,6 +83741,20 @@
       "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipMetadata",
       "title": "AudioClipMetadata.op_Inequality",
       "contract": "a5fd6a41b2d569fc72429e4e365cd7cec1129fe86a859a3b0dc80ff4945b5645"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioClipMetadataCodec.Decode(System.ReadOnlySpan{System.Byte})",
+      "path": "content/en/api/scripting/editor/audioclipmetadatacodec/audioclipmetadatacodec.decode-ac52e2f8dddecca2.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipMetadataCodec",
+      "title": "AudioClipMetadataCodec.Decode",
+      "contract": "bbf291d5f5df959518ee9e24806169490a2c8d0be4c998b51e6dbe3f97ff9923"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioClipMetadataCodec.Encode(InnoEngine.Audio.AudioClipMetadata)",
+      "path": "content/en/api/scripting/editor/audioclipmetadatacodec/audioclipmetadatacodec.encode-ffda41564ed59dd4.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipMetadataCodec",
+      "title": "AudioClipMetadataCodec.Encode",
+      "contract": "581e7dc7ad593820afab014de0e10966360cd70882ba1512ee5e4e2af086f2c4"
     },
     {
       "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioCodecID.#ctor(System.String)",
@@ -83757,6 +84457,55 @@
       "contract": "15f154725ba2bf378df42b22491f357e64df80fdbfbf07bda1dda624a2574df3"
     },
     {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioStreamDecoder.#ctor",
+      "path": "content/en/api/scripting/runtime/audiostreamdecoder/audiostreamdecoder.constructor-e010a66462638e72.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStreamDecoder",
+      "title": "AudioStreamDecoder.Constructor",
+      "contract": "8b12795904f6f99fd6ff8daa3ddbadc1622d8a785a67c3ee1c22d10c6700d2bf"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioStreamDecoder.Open(System.IO.Stream,InnoEngine.Audio.AudioClipDescriptor)",
+      "path": "content/en/api/scripting/runtime/audiostreamdecoder/audiostreamdecoder.open-a428bdbb7f311d85.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStreamDecoder",
+      "title": "AudioStreamDecoder.Open",
+      "contract": "77dd74b25a90a23f41d399d0db037ea8d336c68aa560333078dabb35087d7c8f"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioStreamDecoderAttribute.#ctor(System.String)",
+      "path": "content/en/api/scripting/runtime/audiostreamdecoderattribute/audiostreamdecoderattribute.constructor-1c3c55e5ed36a5ff.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStreamDecoderAttribute",
+      "title": "AudioStreamDecoderAttribute.Constructor",
+      "contract": "dba361960c50ec0f7742a7293f8d27ac2a84bb22b878285f110e2aec9621e04b"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioStreamReader.#ctor",
+      "path": "content/en/api/scripting/runtime/audiostreamreader/audiostreamreader.constructor-1463bd80b10375c3.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStreamReader",
+      "title": "AudioStreamReader.Constructor",
+      "contract": "9446ae7eb61c4fc747b4e003877dc83f1daee37dc6137114581a24f2850c7b54"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioStreamReader.Dispose",
+      "path": "content/en/api/scripting/runtime/audiostreamreader/audiostreamreader.dispose-27a09a9aba5ddd1c.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStreamReader",
+      "title": "AudioStreamReader.Dispose",
+      "contract": "ae9fb68a5f9cd497c1dd53f49291bbf7e2b7861cbe708b8b3b12ba10e8ce85a3"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioStreamReader.ReadAsync(System.Memory{System.Single},System.Threading.CancellationToken)",
+      "path": "content/en/api/scripting/runtime/audiostreamreader/audiostreamreader.readasync-c8fbe263a7679a8d.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStreamReader",
+      "title": "AudioStreamReader.ReadAsync",
+      "contract": "3ad857b13eb56be55a56e574b10f8187aa0aa4c0b4adc777a5809c42bb7781f0"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioStreamReader.Seek(System.Int64)",
+      "path": "content/en/api/scripting/runtime/audiostreamreader/audiostreamreader.seek-658321208e800554.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStreamReader",
+      "title": "AudioStreamReader.Seek",
+      "contract": "b5da6f08599498035a8e30dc5fc076717f22d423ba94feba23914502dbcb209d"
+    },
+    {
       "symbol": "scripting:Inno.Audio:M:InnoEngine.Audio.AudioVoiceCompletedEvent.#ctor(InnoEngine.Audio.AudioVoiceHandle,InnoEngine.Audio.AudioCompletionReason)",
       "path": "content/en/api/scripting/runtime/audiovoicecompletedevent/audiovoicecompletedevent.constructor-e3bdd2df65417632.md",
       "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioVoiceCompletedEvent",
@@ -83890,6 +84639,13 @@
       "contract": "5ecff23e6d3d0de7288a9d9cf8d56994140a32072c99148566f0e0fc8d5f0f7f"
     },
     {
+      "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioBlockProcessorAttribute.id",
+      "path": "content/en/api/scripting/runtime/audioblockprocessorattribute/audioblockprocessorattribute.id-e3b55edbdf6d5631.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioBlockProcessorAttribute",
+      "title": "AudioBlockProcessorAttribute.id",
+      "contract": "560f0bf03e2a7347e9b0013089e1fb63b6dcc9fdf872a4bafa893ce7aa5b2149"
+    },
+    {
       "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioBusDefinition.id",
       "path": "content/en/api/scripting/runtime/audiobusdefinition/audiobusdefinition.id-540440c24ab72af9.md",
       "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioBusDefinition",
@@ -83960,6 +84716,13 @@
       "contract": "9670e80b1461a1e83518e4fff5868eb7c9a5b9e45bb4350e9df48c95fae55996"
     },
     {
+      "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioCapabilities.externalProcessorBufferFrames",
+      "path": "content/en/api/scripting/runtime/audiocapabilities/audiocapabilities.externalprocessorbufferframes-9b03826b47fc8b4d.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioCapabilities",
+      "title": "AudioCapabilities.externalProcessorBufferFrames",
+      "contract": "d31dc2b91a2c8dcecafd04ae5db540dca721ba8f53944772b95cbc1845ced8e7"
+    },
+    {
       "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioCapabilities.maxListeners",
       "path": "content/en/api/scripting/runtime/audiocapabilities/audiocapabilities.maxlisteners-336fcc495565a677.md",
       "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioCapabilities",
@@ -83972,6 +84735,13 @@
       "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioCapabilities",
       "title": "AudioCapabilities.sampleRate",
       "contract": "83183ff3eda1c28d4d323d6ca8e936ba81e46dd5ac6c466c7a1b14138f4668cc"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioCapabilities.supportsExternalDecoders",
+      "path": "content/en/api/scripting/runtime/audiocapabilities/audiocapabilities.supportsexternaldecoders-169e5ba75470d075.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioCapabilities",
+      "title": "AudioCapabilities.supportsExternalDecoders",
+      "contract": "45db5065d8382b48744acab7a8311343ef734784ad1f9c210053458e2b83f39a"
     },
     {
       "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioCapabilities.supportsScheduledPlayback",
@@ -84007,6 +84777,48 @@
       "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipAsset",
       "title": "AudioClipAsset.metadata",
       "contract": "fec1094734cbdd177502ca5728dd69dc4b10ac4b764f10b36dda729b60430e82"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioClipDescriptor.channels",
+      "path": "content/en/api/scripting/runtime/audioclipdescriptor/audioclipdescriptor.channels-5440a6252ca5b57d.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipDescriptor",
+      "title": "AudioClipDescriptor.channels",
+      "contract": "305e49acb821e357d09b10745f6b6279ca6ade37fb87ee2f10c7f23bb5637b85"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioClipDescriptor.codec",
+      "path": "content/en/api/scripting/runtime/audioclipdescriptor/audioclipdescriptor.codec-7bd686ecafa45893.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipDescriptor",
+      "title": "AudioClipDescriptor.codec",
+      "contract": "ef4d5ac3871eff239f5973ddb11e82220a6d20ea6649de21dde836a8fe41cf8e"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioClipDescriptor.encodedByteLength",
+      "path": "content/en/api/scripting/runtime/audioclipdescriptor/audioclipdescriptor.encodedbytelength-ef3e9f803291665f.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipDescriptor",
+      "title": "AudioClipDescriptor.encodedByteLength",
+      "contract": "0b1a5eec0ee8cb2ec8132e2f90b3a3f9f768afe513d7c2c82b16e321a77d7e49"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioClipDescriptor.frameCount",
+      "path": "content/en/api/scripting/runtime/audioclipdescriptor/audioclipdescriptor.framecount-b06e5909285e8d12.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipDescriptor",
+      "title": "AudioClipDescriptor.frameCount",
+      "contract": "cd7bc5f975a67248029202d6082331bcb13f6c4aed74adf07a0c725530b07672"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioClipDescriptor.loadMode",
+      "path": "content/en/api/scripting/runtime/audioclipdescriptor/audioclipdescriptor.loadmode-6b87ee39e13d6783.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipDescriptor",
+      "title": "AudioClipDescriptor.loadMode",
+      "contract": "22da203f9ec9fa776d94d9b1bfec7dc0278b21a396de1ada7da2f392ecc9e321"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioClipDescriptor.sampleRate",
+      "path": "content/en/api/scripting/runtime/audioclipdescriptor/audioclipdescriptor.samplerate-f21abb9ca84b6eb8.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipDescriptor",
+      "title": "AudioClipDescriptor.sampleRate",
+      "contract": "c1bb8e9ef8b790d744a45e37625923ee1466e85cd34720162be962c62a2ac128"
     },
     {
       "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioClipHandle.deviceGeneration",
@@ -84674,6 +85486,13 @@
       "contract": "2de716baaf919a5c548b027ab22fc69d29de9c312b8db65e60ca2ad53317e914"
     },
     {
+      "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioStatistics.lastProcessorFailure",
+      "path": "content/en/api/scripting/runtime/audiostatistics/audiostatistics.lastprocessorfailure-7d7dae689b0b78b0.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStatistics",
+      "title": "AudioStatistics.lastProcessorFailure",
+      "contract": "79a816b3e1ed749c116b4a898cb2cb40e25d663a87757dd715e2b3c6bc749e34"
+    },
+    {
       "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioStatistics.loadedClips",
       "path": "content/en/api/scripting/runtime/audiostatistics/audiostatistics.loadedclips-07dddedc7942bcd1.md",
       "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStatistics",
@@ -84681,11 +85500,32 @@
       "contract": "ab39f195d71b503dc6ef060d972c8a18949a1881e9a203cbf2301bcfc7e0614f"
     },
     {
+      "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioStatistics.processorUnderrunFrames",
+      "path": "content/en/api/scripting/runtime/audiostatistics/audiostatistics.processorunderrunframes-22572d27e692ff8c.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStatistics",
+      "title": "AudioStatistics.processorUnderrunFrames",
+      "contract": "f9b30434c531b15fef49e43f70a9a6da92128b2bdafbab64720a6f7790014d08"
+    },
+    {
       "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioStatistics.stolenVoiceCount",
       "path": "content/en/api/scripting/runtime/audiostatistics/audiostatistics.stolenvoicecount-f0acf046910c4ece.md",
       "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStatistics",
       "title": "AudioStatistics.stolenVoiceCount",
       "contract": "dc57178dfb4fa057b4b4664390f8c1c9dcbf36b8f0e663d3db6f68813f022994"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioStreamDecoderAttribute.id",
+      "path": "content/en/api/scripting/runtime/audiostreamdecoderattribute/audiostreamdecoderattribute.id-f1a84b3a1456aa71.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStreamDecoderAttribute",
+      "title": "AudioStreamDecoderAttribute.id",
+      "contract": "b82e250c460cfec9c832c7e7532fb58eef0629e71aafb90ca594cfef350391fb"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioStreamReader.canSeek",
+      "path": "content/en/api/scripting/runtime/audiostreamreader/audiostreamreader.canseek-e2ab84994b94b0b1.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStreamReader",
+      "title": "AudioStreamReader.canSeek",
+      "contract": "ffd80bec9c2e4b4eb4e40c90fadb19a9c6d36cde424cdea466c0b0b8f89d9402"
     },
     {
       "symbol": "scripting:Inno.Audio:P:InnoEngine.Audio.AudioVoiceCompletedEvent.reason",
@@ -84765,6 +85605,20 @@
       "contract": "2822781349e17c817605edc492ba9711286d01bcc2f3e0e369b0e4f1c4f7e3cf"
     },
     {
+      "symbol": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioBlockProcessor",
+      "path": "content/en/api/scripting/runtime/audioblockprocessor/index.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioBlockProcessor",
+      "title": "AudioBlockProcessor",
+      "contract": "f1c3df824ea88f1c6fc96b79c03d3cf3326b112c71fcab82883d2d72c268225f"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioBlockProcessorAttribute",
+      "path": "content/en/api/scripting/runtime/audioblockprocessorattribute/index.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioBlockProcessorAttribute",
+      "title": "AudioBlockProcessorAttribute",
+      "contract": "2fad6fc046c422965d7f6d187929ade78e168d425a1ec02938106d67d6923af7"
+    },
+    {
       "symbol": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioBusDefinition",
       "path": "content/en/api/scripting/runtime/audiobusdefinition/index.md",
       "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioBusDefinition",
@@ -84800,6 +85654,13 @@
       "contract": "93c655d7fd4600abb70af88630bb5fa0c9bf20b6875039f4370761a9fc76d37d"
     },
     {
+      "symbol": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipDescriptor",
+      "path": "content/en/api/scripting/runtime/audioclipdescriptor/index.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipDescriptor",
+      "title": "AudioClipDescriptor",
+      "contract": "701ab8296ed6a57790c09336772c2b02e548743e2ef932a985a7f1c179787141"
+    },
+    {
       "symbol": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipHandle",
       "path": "content/en/api/scripting/runtime/audiocliphandle/index.md",
       "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipHandle",
@@ -84819,6 +85680,13 @@
       "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipMetadata",
       "title": "AudioClipMetadata",
       "contract": "56f322bca983c71d7ccd035f90eb958c36cf7a2d5743baa19fd91c5fa4be2fdc"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipMetadataCodec",
+      "path": "content/en/api/scripting/editor/audioclipmetadatacodec/index.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioClipMetadataCodec",
+      "title": "AudioClipMetadataCodec",
+      "contract": "e8615d3c1c9834148a15774d9eb033554ab844eb8a8ea988ff338b942400b843"
     },
     {
       "symbol": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioCodecID",
@@ -85017,6 +85885,27 @@
       "contract": "a5c9866ca81fba9dfca76bec4ece3b1d2fbd7ee2580e281442a2b13f8d79b4b1"
     },
     {
+      "symbol": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStreamDecoder",
+      "path": "content/en/api/scripting/runtime/audiostreamdecoder/index.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStreamDecoder",
+      "title": "AudioStreamDecoder",
+      "contract": "5e8628e13cf68e4e7b43f0d59f848a6b3ca1aed5690b2c4267079dd8fee98c20"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStreamDecoderAttribute",
+      "path": "content/en/api/scripting/runtime/audiostreamdecoderattribute/index.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStreamDecoderAttribute",
+      "title": "AudioStreamDecoderAttribute",
+      "contract": "3af40ad0fc8004713a8699233fb446320f5deb4301c33b636f65a664aface52a"
+    },
+    {
+      "symbol": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStreamReader",
+      "path": "content/en/api/scripting/runtime/audiostreamreader/index.md",
+      "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioStreamReader",
+      "title": "AudioStreamReader",
+      "contract": "907858e4ce4ba2d499e96d73da17ad6faf2767e7083f51e2ff6e69f83d3be9f6"
+    },
+    {
       "symbol": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioVoiceCompletedEvent",
       "path": "content/en/api/scripting/runtime/audiovoicecompletedevent/index.md",
       "type": "scripting:Inno.Audio:T:InnoEngine.Audio.AudioVoiceCompletedEvent",
@@ -85043,6 +85932,181 @@
       "type": "scripting:Inno.Audio:T:InnoEngine.Audio.SerializedAudioExtensionState",
       "title": "SerializedAudioExtensionState",
       "contract": "39f9bd9cd60fa496a3253f29b6b1f7f1e3e45f9b3879312668661b17ab705cff"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:M:InnoEngine.Coroutines.WaitForFrames.#ctor(System.Int32)",
+      "path": "content/en/api/scripting/runtime/waitforframes/waitforframes.constructor-1f78208ed1047e47.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitForFrames",
+      "title": "WaitForFrames.Constructor",
+      "contract": "cc9aad5f4d6237c47c7a5078a94d4d0a9015c6679121fbe61a2e3d19aea8ab6f"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:M:InnoEngine.Coroutines.WaitForFrames.CreateWaiter",
+      "path": "content/en/api/scripting/runtime/waitforframes/waitforframes.createwaiter-63d439fd356494c7.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitForFrames",
+      "title": "WaitForFrames.CreateWaiter",
+      "contract": "24d77666cdf2102d927b91a891216005ae90bd51008d669c0b3e592f2cbd35b3"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:M:InnoEngine.Coroutines.WaitForSeconds.#ctor(System.Single)",
+      "path": "content/en/api/scripting/runtime/waitforseconds/waitforseconds.constructor-98b33b5fc72bd191.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitForSeconds",
+      "title": "WaitForSeconds.Constructor",
+      "contract": "4c19685c605cf3c65274f850b1eb645c21a00537d5e28b911bab5a2aec793a15"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:M:InnoEngine.Coroutines.WaitForSeconds.CreateWaiter",
+      "path": "content/en/api/scripting/runtime/waitforseconds/waitforseconds.createwaiter-833987d7296374f4.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitForSeconds",
+      "title": "WaitForSeconds.CreateWaiter",
+      "contract": "f8ed8c9f35280c4903b07e14388d523ea94c336a1e9777f244c818af07ea2ac9"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:M:InnoEngine.Coroutines.WaitForTask.#ctor(System.Threading.Tasks.Task)",
+      "path": "content/en/api/scripting/runtime/waitfortask/waitfortask.constructor-c534783f3da80a07.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitForTask",
+      "title": "WaitForTask.Constructor",
+      "contract": "5ec401ef55921a1aee8e411413d7246d12e623fa26514652315c7197d30415ff"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:M:InnoEngine.Coroutines.WaitForTask.CreateWaiter",
+      "path": "content/en/api/scripting/runtime/waitfortask/waitfortask.createwaiter-53af2aa0d4173e52.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitForTask",
+      "title": "WaitForTask.CreateWaiter",
+      "contract": "c696d0af368dff76806dfe825bc5d186114ac61ec0fc71e340cf87ab495357f0"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:M:InnoEngine.Coroutines.WaitUntil.#ctor(System.Func{System.Boolean})",
+      "path": "content/en/api/scripting/runtime/waituntil/waituntil.constructor-9fd41e6a161af2a3.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitUntil",
+      "title": "WaitUntil.Constructor",
+      "contract": "72f3ea696857d97885be58fdd3aa2443421171c4075f59cc04539d6485730f47"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:M:InnoEngine.Coroutines.WaitUntil.CreateWaiter",
+      "path": "content/en/api/scripting/runtime/waituntil/waituntil.createwaiter-30a0c0ce049fc818.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitUntil",
+      "title": "WaitUntil.CreateWaiter",
+      "contract": "e624d6a7f3fd7cc1a618067d22a423ab4d1cbcd1b531dbe872603bf0885ce5e8"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:M:InnoEngine.Coroutines.WaitWhile.#ctor(System.Func{System.Boolean})",
+      "path": "content/en/api/scripting/runtime/waitwhile/waitwhile.constructor-7d083d4df489b858.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitWhile",
+      "title": "WaitWhile.Constructor",
+      "contract": "7f26ae6bacafc9751fca747dd45c5f8bd3a618e732b451a86e10432a71eab8ae"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:M:InnoEngine.Coroutines.WaitWhile.CreateWaiter",
+      "path": "content/en/api/scripting/runtime/waitwhile/waitwhile.createwaiter-9cf78428dfa4f00d.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitWhile",
+      "title": "WaitWhile.CreateWaiter",
+      "contract": "9324e62938baa48efb60daa674be10a2f64cc518f80c9aac11673bccbfbcacf3"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:M:InnoEngine.Coroutines.YieldInstruction.#ctor",
+      "path": "content/en/api/scripting/runtime/yieldinstruction/yieldinstruction.constructor-b63600174aa14ce5.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.YieldInstruction",
+      "title": "YieldInstruction.Constructor",
+      "contract": "2ad90c968d9241c85ea644840a29869c7a92934860de2b90786ccb22c2a750ac"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:M:InnoEngine.Coroutines.YieldInstruction.CreateWaiter",
+      "path": "content/en/api/scripting/runtime/yieldinstruction/yieldinstruction.createwaiter-f631555e476b08f2.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.YieldInstruction",
+      "title": "YieldInstruction.CreateWaiter",
+      "contract": "307275f8fa07e4ba6e6960b23c6f122e4ce7a0ab995319bfb803deef63a815f9"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:P:InnoEngine.Coroutines.CoroutineHandle.isValid",
+      "path": "content/en/api/scripting/runtime/coroutinehandle/coroutinehandle.isvalid-6c48a87ca645b9d7.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.CoroutineHandle",
+      "title": "CoroutineHandle.isValid",
+      "contract": "6cf9fbf02123acb2cf2a46026c4a5b12f721e4c5bef855906130dce74b2d654c"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:P:InnoEngine.Coroutines.WaitForFrames.frames",
+      "path": "content/en/api/scripting/runtime/waitforframes/waitforframes.frames-799e44604c3b86a3.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitForFrames",
+      "title": "WaitForFrames.frames",
+      "contract": "8813c37b6507fbde17f616c1082290464360a97d7bf4131ae80247a056fbb619"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:P:InnoEngine.Coroutines.WaitForSeconds.seconds",
+      "path": "content/en/api/scripting/runtime/waitforseconds/waitforseconds.seconds-1c275647ec7364c8.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitForSeconds",
+      "title": "WaitForSeconds.seconds",
+      "contract": "291cdd3ee0306516f6f1044d09c2079811f454e817f7b7312f3c0256aed128df"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:P:InnoEngine.Coroutines.WaitForTask.task",
+      "path": "content/en/api/scripting/runtime/waitfortask/waitfortask.task-4b68e8a8e325836b.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitForTask",
+      "title": "WaitForTask.task",
+      "contract": "fc378e3ee04f2907bf0f44d7a69fd3a25a3fce8e9672d94e37d5217b76ab07d5"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:P:InnoEngine.Coroutines.WaitUntil.predicate",
+      "path": "content/en/api/scripting/runtime/waituntil/waituntil.predicate-26b88f825a2d8186.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitUntil",
+      "title": "WaitUntil.predicate",
+      "contract": "5c37b9afa840174cce2db31df907ff6a0988e5d5073a005d495c0ef4430a8b60"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:P:InnoEngine.Coroutines.WaitWhile.predicate",
+      "path": "content/en/api/scripting/runtime/waitwhile/waitwhile.predicate-ad00b4a00d9ef7d4.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitWhile",
+      "title": "WaitWhile.predicate",
+      "contract": "caa2e7788229fe0e4e93e73857594adb0186aeb2123164e8be12915a7caac5e5"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.CoroutineHandle",
+      "path": "content/en/api/scripting/runtime/coroutinehandle/index.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.CoroutineHandle",
+      "title": "CoroutineHandle",
+      "contract": "666d73e2f94e4e4472dad212e6e733407f99622596b7b833fd6bdc23986db9af"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitForFrames",
+      "path": "content/en/api/scripting/runtime/waitforframes/index.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitForFrames",
+      "title": "WaitForFrames",
+      "contract": "b97142236213f1fa1f586173369f8515b9046d80ec59a9df0d114feb063d9a85"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitForSeconds",
+      "path": "content/en/api/scripting/runtime/waitforseconds/index.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitForSeconds",
+      "title": "WaitForSeconds",
+      "contract": "47a2ce85e017d2f9f1633119068fb2fe3f361a3539701c6b416416b5a0fd9a3a"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitForTask",
+      "path": "content/en/api/scripting/runtime/waitfortask/index.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitForTask",
+      "title": "WaitForTask",
+      "contract": "3337215399c69b321dcc17d0cfc528ee8c20f3195c8d67921d2a10cb4ecaf32b"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitUntil",
+      "path": "content/en/api/scripting/runtime/waituntil/index.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitUntil",
+      "title": "WaitUntil",
+      "contract": "58b63d8818a864b812275003dbc88c34044d6c574308147be2c2e9de5713742d"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitWhile",
+      "path": "content/en/api/scripting/runtime/waitwhile/index.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.WaitWhile",
+      "title": "WaitWhile",
+      "contract": "1d6e04a33392d430f552dbd6f30a6d21b7b26e61e0358476fb1c1db3dbcb5e63"
+    },
+    {
+      "symbol": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.YieldInstruction",
+      "path": "content/en/api/scripting/runtime/yieldinstruction/index.md",
+      "type": "scripting:Inno.Core.Coroutines:T:InnoEngine.Coroutines.YieldInstruction",
+      "title": "YieldInstruction",
+      "contract": "1ff23810d0dee92364bdb3c61c0d8ca3b7710b9354c1c5eead51f342c7554dc0"
     },
     {
       "symbol": "scripting:Inno.Core.Diagnostics:F:InnoEngine.Diagnostics.DiagnosticSeverity.Error",
@@ -109881,6 +110945,34 @@
       "contract": "a0b833da4431116d0ee70469ea82789ffe51dba14737f601f64c076c278e4787"
     },
     {
+      "symbol": "scripting:Inno.Input:F:InnoEngine.Input.InputDeviceChangeKind.Connected",
+      "path": "content/en/api/scripting/runtime/inputdevicechangekind/inputdevicechangekind.connected-58101e7161c125dd.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChangeKind",
+      "title": "InputDeviceChangeKind.Connected",
+      "contract": "b54e3275a49d9d4743ec36d63ba3cc4774be259694c4e7088bc2beccc49b4093"
+    },
+    {
+      "symbol": "scripting:Inno.Input:F:InnoEngine.Input.InputDeviceChangeKind.Disconnected",
+      "path": "content/en/api/scripting/runtime/inputdevicechangekind/inputdevicechangekind.disconnected-01853b2276ed682b.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChangeKind",
+      "title": "InputDeviceChangeKind.Disconnected",
+      "contract": "23a27ed55edb864d6de9fbbf896cbf06c116005815ac0bbf25d0ff8b6f046e80"
+    },
+    {
+      "symbol": "scripting:Inno.Input:F:InnoEngine.Input.InputDeviceChangeKind.ValueChanged",
+      "path": "content/en/api/scripting/runtime/inputdevicechangekind/inputdevicechangekind.valuechanged-f6d7fb7db5b85fde.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChangeKind",
+      "title": "InputDeviceChangeKind.ValueChanged",
+      "contract": "1a0ea8f8d6e14c3aef92874db7b7c16a2695006ac106d8f56e371e57a1ca3f76"
+    },
+    {
+      "symbol": "scripting:Inno.Input:M:InnoEngine.Input.Input.ConnectDevice(System.String)",
+      "path": "content/en/api/scripting/runtime/input/input.connectdevice-33867e3501158c0b.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.Input",
+      "title": "Input.ConnectDevice",
+      "contract": "c2ad2dc95f65bb8ff3d38711394b3911fdf8fb6ab7220cbcc9e3e19ed7770c0b"
+    },
+    {
       "symbol": "scripting:Inno.Input:M:InnoEngine.Input.Input.IsKeyDown(InnoEngine.Input.KeyCode)",
       "path": "content/en/api/scripting/runtime/input/input.iskeydown-00a7239e6c033fc1.md",
       "type": "scripting:Inno.Input:T:InnoEngine.Input.Input",
@@ -109921,6 +111013,97 @@
       "type": "scripting:Inno.Input:T:InnoEngine.Input.Input",
       "title": "Input.WasMouseButtonReleased",
       "contract": "7e5c48fc5ba20bd93133d7190a69c23290710ecbbd46b2153610b999ae911e68"
+    },
+    {
+      "symbol": "scripting:Inno.Input:M:InnoEngine.Input.InputDeviceChange.#ctor(InnoEngine.Core.RuntimeIdentity,System.String,InnoEngine.Input.InputDeviceChangeKind,System.String,System.Double)",
+      "path": "content/en/api/scripting/runtime/inputdevicechange/inputdevicechange.constructor-b2c70f82e28b5158.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChange",
+      "title": "InputDeviceChange.Constructor",
+      "contract": "6ca29141d71024c8690cc3f27523e513379f5749b95cb91643f0684de573f3e2"
+    },
+    {
+      "symbol": "scripting:Inno.Input:M:InnoEngine.Input.InputDeviceChange.Deconstruct(InnoEngine.Core.RuntimeIdentity@,System.String@,InnoEngine.Input.InputDeviceChangeKind@,System.String@,System.Double@)",
+      "path": "content/en/api/scripting/runtime/inputdevicechange/inputdevicechange.deconstruct-35952c3731932f11.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChange",
+      "title": "InputDeviceChange.Deconstruct",
+      "contract": "8503e12a0feedaa83ce6a454413bcea4118d9987da2982437a5cb7409b38830c"
+    },
+    {
+      "symbol": "scripting:Inno.Input:M:InnoEngine.Input.InputDeviceChange.Equals(InnoEngine.Input.InputDeviceChange)",
+      "path": "content/en/api/scripting/runtime/inputdevicechange/inputdevicechange.equals-762da6a7bcd7a186.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChange",
+      "title": "InputDeviceChange.Equals",
+      "contract": "fde1509a69b42db24430da3678909a3f03904b44e860d5a01942bb35f0310552"
+    },
+    {
+      "symbol": "scripting:Inno.Input:M:InnoEngine.Input.InputDeviceChange.Equals(System.Object)",
+      "path": "content/en/api/scripting/runtime/inputdevicechange/inputdevicechange.equals-abb74c47524b2466.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChange",
+      "title": "InputDeviceChange.Equals",
+      "contract": "cef499975380db6cd07247b404aa23f6b6a5978299f92f3f4df05a1791f0149d"
+    },
+    {
+      "symbol": "scripting:Inno.Input:M:InnoEngine.Input.InputDeviceChange.GetHashCode",
+      "path": "content/en/api/scripting/runtime/inputdevicechange/inputdevicechange.gethashcode-ae0c8f284183ec0e.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChange",
+      "title": "InputDeviceChange.GetHashCode",
+      "contract": "932c5d59016b54eb422047b8fa0486c6d19268e957ede8d03cf861d4d24e6a8c"
+    },
+    {
+      "symbol": "scripting:Inno.Input:M:InnoEngine.Input.InputDeviceChange.ToString",
+      "path": "content/en/api/scripting/runtime/inputdevicechange/inputdevicechange.tostring-84637389091823e1.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChange",
+      "title": "InputDeviceChange.ToString",
+      "contract": "9a437bc2467b9ce2d0ad428b18c301840d19657400694d353dcd06e2386e5f1f"
+    },
+    {
+      "symbol": "scripting:Inno.Input:M:InnoEngine.Input.InputDeviceChange.op_Equality(InnoEngine.Input.InputDeviceChange,InnoEngine.Input.InputDeviceChange)",
+      "path": "content/en/api/scripting/runtime/inputdevicechange/inputdevicechange.op-equality-09eec4e7bc88d2ae.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChange",
+      "title": "InputDeviceChange.op_Equality",
+      "contract": "e1705c5cc41e550858950cbfb5e82526e1e69e34847e0ccca750a2d7d4b69675"
+    },
+    {
+      "symbol": "scripting:Inno.Input:M:InnoEngine.Input.InputDeviceChange.op_Inequality(InnoEngine.Input.InputDeviceChange,InnoEngine.Input.InputDeviceChange)",
+      "path": "content/en/api/scripting/runtime/inputdevicechange/inputdevicechange.op-inequality-c877280fa564c2c7.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChange",
+      "title": "InputDeviceChange.op_Inequality",
+      "contract": "e915233608d44a0a397ad2461c67110365302692325dcde3905bd5928197ee85"
+    },
+    {
+      "symbol": "scripting:Inno.Input:M:InnoEngine.Input.InputDeviceConnection.#ctor",
+      "path": "content/en/api/scripting/runtime/inputdeviceconnection/inputdeviceconnection.constructor-069d1e54e70d23b3.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceConnection",
+      "title": "InputDeviceConnection.Constructor",
+      "contract": "fe4ed094f8b622e2ec11063a480aea28e080b11141a1eb8374e53d98016b1fac"
+    },
+    {
+      "symbol": "scripting:Inno.Input:M:InnoEngine.Input.InputDeviceConnection.Dispose",
+      "path": "content/en/api/scripting/runtime/inputdeviceconnection/inputdeviceconnection.dispose-f061e74016314c2b.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceConnection",
+      "title": "InputDeviceConnection.Dispose",
+      "contract": "c09b45104c02a5c39db205c22230a239fa2da457347eb6d436428e6e90f706d8"
+    },
+    {
+      "symbol": "scripting:Inno.Input:M:InnoEngine.Input.InputDeviceConnection.SetValue(System.String,System.Double)",
+      "path": "content/en/api/scripting/runtime/inputdeviceconnection/inputdeviceconnection.setvalue-e423383c3ddeaee0.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceConnection",
+      "title": "InputDeviceConnection.SetValue",
+      "contract": "2db28fa9a2c5b14acbbb7412242fdea931fcb5a92e30f58a4ea5584c51e023e1"
+    },
+    {
+      "symbol": "scripting:Inno.Input:M:InnoEngine.Input.InputDeviceEvent.#ctor(InnoEngine.Input.InputDeviceChange)",
+      "path": "content/en/api/scripting/runtime/inputdeviceevent/inputdeviceevent.constructor-349b9564f38c18ca.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceEvent",
+      "title": "InputDeviceEvent.Constructor",
+      "contract": "77e42c24ece221e300d50773032c1dc30dd8d9208116f316228b48b63480edeb"
+    },
+    {
+      "symbol": "scripting:Inno.Input:M:InnoEngine.Input.InputDeviceState.#ctor(InnoEngine.Core.RuntimeIdentity,System.String,System.Collections.Generic.IReadOnlyDictionary{System.String,System.Double})",
+      "path": "content/en/api/scripting/runtime/inputdevicestate/inputdevicestate.constructor-2010bd00e30ab2d4.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceState",
+      "title": "InputDeviceState.Constructor",
+      "contract": "6c972d6a544d887a8a4e53e996dca4c36bc848ac120ef3d808a19c533c46fd80"
     },
     {
       "symbol": "scripting:Inno.Input:M:InnoEngine.Input.InputSnapshot.#ctor(System.Int64,System.Collections.Generic.IEnumerable{InnoEngine.Input.KeyCode},System.Collections.Generic.IEnumerable{InnoEngine.Input.KeyCode},System.Collections.Generic.IEnumerable{InnoEngine.Input.KeyCode},System.Collections.Generic.IEnumerable{InnoEngine.Input.MouseButton},System.Collections.Generic.IEnumerable{InnoEngine.Input.MouseButton},System.Collections.Generic.IEnumerable{InnoEngine.Input.MouseButton},InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Vector2,InnoEngine.Mathematics.Vector2,InnoEngine.Input.KeyModifier,System.Collections.Generic.IEnumerable{System.String})",
@@ -109972,6 +111155,13 @@
       "contract": "6b95b4a888413774fe55511ddc80b3695d82b79da32d38107e5e5af9b08fb882"
     },
     {
+      "symbol": "scripting:Inno.Input:M:InnoEngine.Input.InputSnapshot.WithDevices(System.Collections.Generic.IEnumerable{InnoEngine.Input.InputDeviceState},System.Collections.Generic.IEnumerable{InnoEngine.Input.InputDeviceChange})",
+      "path": "content/en/api/scripting/runtime/inputsnapshot/inputsnapshot.withdevices-0548c7f964f843c1.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputSnapshot",
+      "title": "InputSnapshot.WithDevices",
+      "contract": "16825c366f079b1562d8346100d596ff8c5d8f2124d7fc6c091a9beafa25800a"
+    },
+    {
       "symbol": "scripting:Inno.Input:P:InnoEngine.Input.IInputService.snapshot",
       "path": "content/en/api/scripting/runtime/iinputservice/iinputservice.snapshot-9e9421fa48f9b45d.md",
       "type": "scripting:Inno.Input:T:InnoEngine.Input.IInputService",
@@ -110005,6 +111195,83 @@
       "type": "scripting:Inno.Input:T:InnoEngine.Input.Input",
       "title": "Input.snapshot",
       "contract": "fa107f62b893acb94cf55f0f27bbcf992f611fb5b294f2f140eda962f0970708"
+    },
+    {
+      "symbol": "scripting:Inno.Input:P:InnoEngine.Input.InputDeviceChange.controlID",
+      "path": "content/en/api/scripting/runtime/inputdevicechange/inputdevicechange.controlid-19370d9678fa6943.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChange",
+      "title": "InputDeviceChange.controlID",
+      "contract": "46cd762a1ce6983f0f52750e099026add7d87dd9ef567ff3bccff2a781b15ff4"
+    },
+    {
+      "symbol": "scripting:Inno.Input:P:InnoEngine.Input.InputDeviceChange.instance",
+      "path": "content/en/api/scripting/runtime/inputdevicechange/inputdevicechange.instance-6a4ddb24e1aa9086.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChange",
+      "title": "InputDeviceChange.instance",
+      "contract": "71ccd19933e145be00387438c2c6e0a432941410586594e65662820932d17d7a"
+    },
+    {
+      "symbol": "scripting:Inno.Input:P:InnoEngine.Input.InputDeviceChange.kind",
+      "path": "content/en/api/scripting/runtime/inputdevicechange/inputdevicechange.kind-8a2d88e1842fbd00.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChange",
+      "title": "InputDeviceChange.kind",
+      "contract": "c25a624bdb37213313fdee7c498b7c72c5aaf55402627c118b8624602bc7b86b"
+    },
+    {
+      "symbol": "scripting:Inno.Input:P:InnoEngine.Input.InputDeviceChange.typeID",
+      "path": "content/en/api/scripting/runtime/inputdevicechange/inputdevicechange.typeid-1bd8f89943cc7e96.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChange",
+      "title": "InputDeviceChange.typeID",
+      "contract": "d31f54548f6d1cfb4aeb32ab49b3343a97c21133b83592840f235275d46634c6"
+    },
+    {
+      "symbol": "scripting:Inno.Input:P:InnoEngine.Input.InputDeviceChange.value",
+      "path": "content/en/api/scripting/runtime/inputdevicechange/inputdevicechange.value-e326b53d0087274c.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChange",
+      "title": "InputDeviceChange.value",
+      "contract": "12413d2700a2ff26917a13c69674b6b92347550267fd034f6dd56ab0069e4142"
+    },
+    {
+      "symbol": "scripting:Inno.Input:P:InnoEngine.Input.InputDeviceEvent.change",
+      "path": "content/en/api/scripting/runtime/inputdeviceevent/inputdeviceevent.change-cbbe3de17e29e1d4.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceEvent",
+      "title": "InputDeviceEvent.change",
+      "contract": "daa15da8ea1427b588a0c02e3422f309df988ff5b0a15d7674dca20e19b0601c"
+    },
+    {
+      "symbol": "scripting:Inno.Input:P:InnoEngine.Input.InputDeviceState.controls",
+      "path": "content/en/api/scripting/runtime/inputdevicestate/inputdevicestate.controls-0400fca59dc6714c.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceState",
+      "title": "InputDeviceState.controls",
+      "contract": "446e502d2856c56b307b4f34faef747fd52c03d00addd16ea629da7127c8f6fe"
+    },
+    {
+      "symbol": "scripting:Inno.Input:P:InnoEngine.Input.InputDeviceState.instance",
+      "path": "content/en/api/scripting/runtime/inputdevicestate/inputdevicestate.instance-f7a597287b0047d7.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceState",
+      "title": "InputDeviceState.instance",
+      "contract": "118aa85e5ee46f6cbd8021c5ffbb0fcaed16da196dc8a79fe840719e653edeb8"
+    },
+    {
+      "symbol": "scripting:Inno.Input:P:InnoEngine.Input.InputDeviceState.typeID",
+      "path": "content/en/api/scripting/runtime/inputdevicestate/inputdevicestate.typeid-342c68309d083699.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceState",
+      "title": "InputDeviceState.typeID",
+      "contract": "20e908908716bc5c35668a6fcee3cc8313e8257a9d07592bcdc25a1de4974aad"
+    },
+    {
+      "symbol": "scripting:Inno.Input:P:InnoEngine.Input.InputSnapshot.deviceChanges",
+      "path": "content/en/api/scripting/runtime/inputsnapshot/inputsnapshot.devicechanges-a6bbd35879f49888.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputSnapshot",
+      "title": "InputSnapshot.deviceChanges",
+      "contract": "684354b6533767f7aca377bdf072bce9546f4b3904de08978c5b1a59e17ab7a8"
+    },
+    {
+      "symbol": "scripting:Inno.Input:P:InnoEngine.Input.InputSnapshot.devices",
+      "path": "content/en/api/scripting/runtime/inputsnapshot/inputsnapshot.devices-5400864fb4d42d84.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputSnapshot",
+      "title": "InputSnapshot.devices",
+      "contract": "81de5eada6e200b1667c0a5673894101c28fd125ea2fbc6f78ffe2b748836093"
     },
     {
       "symbol": "scripting:Inno.Input:P:InnoEngine.Input.InputSnapshot.empty",
@@ -110096,6 +111363,41 @@
       "type": "scripting:Inno.Input:T:InnoEngine.Input.Input",
       "title": "Input",
       "contract": "f625407b7f98fdb2f6646bc36b06c7762485c6b28403d647efac68531a05c508"
+    },
+    {
+      "symbol": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChange",
+      "path": "content/en/api/scripting/runtime/inputdevicechange/index.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChange",
+      "title": "InputDeviceChange",
+      "contract": "de04ef2f58e46328270da2e7f3d5b8aa85d840a1f651b7e777483aa16d84dfd7"
+    },
+    {
+      "symbol": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChangeKind",
+      "path": "content/en/api/scripting/runtime/inputdevicechangekind/index.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceChangeKind",
+      "title": "InputDeviceChangeKind",
+      "contract": "62ab9c83f5dab7cc9bb6e1b157ef992516e4dd5234d927e9733d49a652755ce5"
+    },
+    {
+      "symbol": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceConnection",
+      "path": "content/en/api/scripting/runtime/inputdeviceconnection/index.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceConnection",
+      "title": "InputDeviceConnection",
+      "contract": "88a0fd83815fda4cc234b20bca010527af0ab9c6e5a0ed79fd6ad5b93de0af11"
+    },
+    {
+      "symbol": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceEvent",
+      "path": "content/en/api/scripting/runtime/inputdeviceevent/index.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceEvent",
+      "title": "InputDeviceEvent",
+      "contract": "9915af79001e0edf73bdf26c04486580ce9f5e8ba870f4aeabbcbc0f21856e60"
+    },
+    {
+      "symbol": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceState",
+      "path": "content/en/api/scripting/runtime/inputdevicestate/index.md",
+      "type": "scripting:Inno.Input:T:InnoEngine.Input.InputDeviceState",
+      "title": "InputDeviceState",
+      "contract": "e90102b928ca41e4f79026af5b1f853e3b7ec6f44500e12c0fc7c862f3ef5ff3"
     },
     {
       "symbol": "scripting:Inno.Input:T:InnoEngine.Input.InputSnapshot",
@@ -113903,7 +115205,7 @@
       "path": "content/en/api/scripting/runtime/renderpipelineextensionattribute/index.md",
       "type": "scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.RenderPipelineExtensionAttribute",
       "title": "RenderPipelineExtensionAttribute",
-      "contract": "0ac851d5129558038affaa65c3d4538531bd1cf29ddd6a3d2ae00010ad3344b7"
+      "contract": "ca88d30c4e5e1ea07794ddb82646d765d1ee4e4b781a77ba9581c0315fef5908"
     },
     {
       "symbol": "scripting:Inno.Rendering.Runtime:T:InnoEngine.Rendering.RenderPipelineFeature",
@@ -121886,6 +123188,657 @@
       "contract": "459ebb593bc7691b101818abffe80146315051ddad2316af9a8d0c63dbc7bc12"
     },
     {
+      "symbol": "scripting:Inno.Runtime.Contracts:F:InnoEngine.Runtime.RuntimeSubsystemLifetime.Host",
+      "path": "content/en/api/scripting/runtime/runtimesubsystemlifetime/runtimesubsystemlifetime.host-2d628fb7a285078c.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemLifetime",
+      "title": "RuntimeSubsystemLifetime.Host",
+      "contract": "39e21b0e4b4f5d441095dc926deaa2eb13ab3ea614af4f2ad7ebd64d0b479b1a"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:F:InnoEngine.Runtime.RuntimeSubsystemLifetime.Session",
+      "path": "content/en/api/scripting/runtime/runtimesubsystemlifetime/runtimesubsystemlifetime.session-4113b3c725ba8897.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemLifetime",
+      "title": "RuntimeSubsystemLifetime.Session",
+      "contract": "6ad1e571f0f9eecd4d052c4fc2fd6a7b5edde16e07ec9b542ad2910787f84dbc"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.IRuntimeSubsystem.AfterRender(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/iruntimesubsystem/iruntimesubsystem.afterrender-a51ba852b0f178c6.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.IRuntimeSubsystem",
+      "title": "IRuntimeSubsystem.AfterRender",
+      "contract": "61ea98b481764e4a783da0181fff90d27c0d261a1de814368dd174da3f262370"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.IRuntimeSubsystem.Attach",
+      "path": "content/en/api/scripting/runtime/iruntimesubsystem/iruntimesubsystem.attach-b428b407ed6467c4.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.IRuntimeSubsystem",
+      "title": "IRuntimeSubsystem.Attach",
+      "contract": "e4289f23ea3263d008643e9667b78c6fea7815d961f79e9306373ffc14068ce2"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.IRuntimeSubsystem.BeforeRender(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/iruntimesubsystem/iruntimesubsystem.beforerender-e105ed0c4e9e2e1a.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.IRuntimeSubsystem",
+      "title": "IRuntimeSubsystem.BeforeRender",
+      "contract": "45bcc4e11a94dc828b1042d27be9aaebb3be5f22301505956f7d2836a667942c"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.IRuntimeSubsystem.BeginFrame(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/iruntimesubsystem/iruntimesubsystem.beginframe-45684d0eeaacb8d8.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.IRuntimeSubsystem",
+      "title": "IRuntimeSubsystem.BeginFrame",
+      "contract": "a915f5961b2a3229a99c8df6c5f4d8b340498be73e43565a6baaba129841467a"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.IRuntimeSubsystem.Detach",
+      "path": "content/en/api/scripting/runtime/iruntimesubsystem/iruntimesubsystem.detach-1a772bfa9259e568.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.IRuntimeSubsystem",
+      "title": "IRuntimeSubsystem.Detach",
+      "contract": "47119cf519a797b94e0c803b490c4a7ff1558f2350108f6c13cc704a5cc97f3a"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.IRuntimeSubsystem.EndFrame(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/iruntimesubsystem/iruntimesubsystem.endframe-16a7873f55ef58e6.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.IRuntimeSubsystem",
+      "title": "IRuntimeSubsystem.EndFrame",
+      "contract": "e97759328e93f32960e878299b73e1b598fb899e03bff98d396993ce4375ef68"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.IRuntimeSubsystem.FixedUpdate(InnoEngine.Runtime.RuntimeFixedFrame)",
+      "path": "content/en/api/scripting/runtime/iruntimesubsystem/iruntimesubsystem.fixedupdate-c76c55171ec2e7a1.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.IRuntimeSubsystem",
+      "title": "IRuntimeSubsystem.FixedUpdate",
+      "contract": "a36e94ef9cf62d48a7ba402f5a056dbd7ff5089e00de322131d5aea1bcee2bc6"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.IRuntimeSubsystem.LateUpdate(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/iruntimesubsystem/iruntimesubsystem.lateupdate-b8b08424ba79b46e.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.IRuntimeSubsystem",
+      "title": "IRuntimeSubsystem.LateUpdate",
+      "contract": "1659859151fdfe009c00a08d08880d092192dcd55cf27734ff3ce4215be63f64"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.IRuntimeSubsystem.Render(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/iruntimesubsystem/iruntimesubsystem.render-1c20392d73076b16.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.IRuntimeSubsystem",
+      "title": "IRuntimeSubsystem.Render",
+      "contract": "c1a0bebbef776f51144f104d1cb53f1926c3c142b6ffba6e513ff243a1ab4434"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.IRuntimeSubsystem.Update(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/iruntimesubsystem/iruntimesubsystem.update-80ada97d50c77abd.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.IRuntimeSubsystem",
+      "title": "IRuntimeSubsystem.Update",
+      "contract": "5ecca36d090525d9bf9e2f398b1948319d74cba7518d7c68320ce331d7a46075"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.IRuntimeSubsystemActivator.Create(InnoEngine.Runtime.RuntimeSubsystemContext)",
+      "path": "content/en/api/scripting/runtime/iruntimesubsystemactivator/iruntimesubsystemactivator.create-90638cee2b2d7a5a.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.IRuntimeSubsystemActivator",
+      "title": "IRuntimeSubsystemActivator.Create",
+      "contract": "13e766ec65a4c36fffe971ad9f5544697f039042b2dfcd235959c2b0d5fe1ad7"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeCapabilityID.#ctor(System.String)",
+      "path": "content/en/api/scripting/runtime/runtimecapabilityid/runtimecapabilityid.constructor-908d8aee5382661b.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeCapabilityID",
+      "title": "RuntimeCapabilityID.Constructor",
+      "contract": "b8e6211d11bf7022835c85a04c557d659937cf82230a70dffe48eaab2144e52b"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeCapabilityID.Equals(InnoEngine.Runtime.RuntimeCapabilityID)",
+      "path": "content/en/api/scripting/runtime/runtimecapabilityid/runtimecapabilityid.equals-0c34351b5f08592e.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeCapabilityID",
+      "title": "RuntimeCapabilityID.Equals",
+      "contract": "eee79a7e40b76ec4a6b0fdd51089a26491b5cfcdcd3f2ab6011338416aa8c478"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeCapabilityID.Equals(System.Object)",
+      "path": "content/en/api/scripting/runtime/runtimecapabilityid/runtimecapabilityid.equals-c3b083178a2a0efb.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeCapabilityID",
+      "title": "RuntimeCapabilityID.Equals",
+      "contract": "28cb4a997976ec9af45c9fcfee847280fcbe398da438eab06b427011096707fd"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeCapabilityID.GetHashCode",
+      "path": "content/en/api/scripting/runtime/runtimecapabilityid/runtimecapabilityid.gethashcode-3a9ee840352c1470.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeCapabilityID",
+      "title": "RuntimeCapabilityID.GetHashCode",
+      "contract": "aa9111276a1f63dfcd200cd3135302094e85e73dd599152c2afa673f6d60ff9f"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeCapabilityID.ToString",
+      "path": "content/en/api/scripting/runtime/runtimecapabilityid/runtimecapabilityid.tostring-d98e079158295279.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeCapabilityID",
+      "title": "RuntimeCapabilityID.ToString",
+      "contract": "0d2621783ec17eaf34debe39ad30bf5f2c65253519bc4a74a190f4b0059182af"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeCapabilityID.op_Equality(InnoEngine.Runtime.RuntimeCapabilityID,InnoEngine.Runtime.RuntimeCapabilityID)",
+      "path": "content/en/api/scripting/runtime/runtimecapabilityid/runtimecapabilityid.op-equality-f028049c594ac67a.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeCapabilityID",
+      "title": "RuntimeCapabilityID.op_Equality",
+      "contract": "5b8d23bec3003e479c77614ce25051e83ad615308ac1747abd222cd7283d87da"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeCapabilityID.op_Inequality(InnoEngine.Runtime.RuntimeCapabilityID,InnoEngine.Runtime.RuntimeCapabilityID)",
+      "path": "content/en/api/scripting/runtime/runtimecapabilityid/runtimecapabilityid.op-inequality-fe73852a4e6ce16b.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeCapabilityID",
+      "title": "RuntimeCapabilityID.op_Inequality",
+      "contract": "e3754a925eb1dec29a262720e8ed15e96a5bba542ac3533ca4b1545c8ffcc4cc"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeFixedFrame.#ctor(System.Int64,System.Single,System.Single)",
+      "path": "content/en/api/scripting/runtime/runtimefixedframe/runtimefixedframe.constructor-79f5b770c45403e6.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFixedFrame",
+      "title": "RuntimeFixedFrame.Constructor",
+      "contract": "a894683ea2b2241d8c9f07584b0967a18ee25938622f9479ec84896f76bfa37c"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeFixedFrame.Equals(InnoEngine.Runtime.RuntimeFixedFrame)",
+      "path": "content/en/api/scripting/runtime/runtimefixedframe/runtimefixedframe.equals-65abdc54e7876234.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFixedFrame",
+      "title": "RuntimeFixedFrame.Equals",
+      "contract": "9794948228c34a3758a2273c880934d9ab9fc55ddc0b7e4c6aa6d228d697a21f"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeFixedFrame.Equals(System.Object)",
+      "path": "content/en/api/scripting/runtime/runtimefixedframe/runtimefixedframe.equals-78282d1e02387375.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFixedFrame",
+      "title": "RuntimeFixedFrame.Equals",
+      "contract": "f7c802064a8a4f1e00f549c9cae35adf743109542657a6eecdbc0e8e231ee2cd"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeFixedFrame.GetHashCode",
+      "path": "content/en/api/scripting/runtime/runtimefixedframe/runtimefixedframe.gethashcode-89f198afdc53e743.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFixedFrame",
+      "title": "RuntimeFixedFrame.GetHashCode",
+      "contract": "b26cf6f13e87ddbae85483dbb625dd037940702ca4791dfd47f53dd283196027"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeFixedFrame.ToString",
+      "path": "content/en/api/scripting/runtime/runtimefixedframe/runtimefixedframe.tostring-85b7e9f95f1e8bc2.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFixedFrame",
+      "title": "RuntimeFixedFrame.ToString",
+      "contract": "feae0f37e81216f80c5cf0d4b33fe5713c9043eb7241c4c15ae4ea25458d6e52"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeFixedFrame.op_Equality(InnoEngine.Runtime.RuntimeFixedFrame,InnoEngine.Runtime.RuntimeFixedFrame)",
+      "path": "content/en/api/scripting/runtime/runtimefixedframe/runtimefixedframe.op-equality-ec4266217ae77ac5.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFixedFrame",
+      "title": "RuntimeFixedFrame.op_Equality",
+      "contract": "8ea0c867eefcc0d71b1350862250b62a313fe7dc444a38045e3c534fe4c762ba"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeFixedFrame.op_Inequality(InnoEngine.Runtime.RuntimeFixedFrame,InnoEngine.Runtime.RuntimeFixedFrame)",
+      "path": "content/en/api/scripting/runtime/runtimefixedframe/runtimefixedframe.op-inequality-012584dedc23d279.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFixedFrame",
+      "title": "RuntimeFixedFrame.op_Inequality",
+      "contract": "5c2b6f07e8ad2cd860dce26f2d1937b307b04d35204f7984b954d74d3f970732"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeFrame.#ctor(System.Int64,System.Single,System.Single,System.Single,System.Single,System.Single,System.Boolean)",
+      "path": "content/en/api/scripting/runtime/runtimeframe/runtimeframe.constructor-c0cb96b221b7d868.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFrame",
+      "title": "RuntimeFrame.Constructor",
+      "contract": "89134107553d57b9055e4df19a97ea069e429416f3b2bd9a267a7e0640d44d2a"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeFrame.Equals(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimeframe/runtimeframe.equals-767bac5423adf359.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFrame",
+      "title": "RuntimeFrame.Equals",
+      "contract": "5635e39e87d5ba7524b79d4e04c2f850bf41d8b3b58fae3f6b936c09b4fd26d4"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeFrame.Equals(System.Object)",
+      "path": "content/en/api/scripting/runtime/runtimeframe/runtimeframe.equals-d3de4571060651c4.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFrame",
+      "title": "RuntimeFrame.Equals",
+      "contract": "b58f36f66c0a78b21aea21c97858c072f340544336c49b6c04511b9969f1d47b"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeFrame.GetHashCode",
+      "path": "content/en/api/scripting/runtime/runtimeframe/runtimeframe.gethashcode-33ba75d8c83c5c52.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFrame",
+      "title": "RuntimeFrame.GetHashCode",
+      "contract": "be06302952dd83b7c453925e3d21996588c870e75e0c4fca236ebb52ffee8cad"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeFrame.ToString",
+      "path": "content/en/api/scripting/runtime/runtimeframe/runtimeframe.tostring-86bdd15a67163113.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFrame",
+      "title": "RuntimeFrame.ToString",
+      "contract": "979b679494bc72f1600b514b9bf18e4f2b7a15b45e9e90e8bae119ed6131db1e"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeFrame.op_Equality(InnoEngine.Runtime.RuntimeFrame,InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimeframe/runtimeframe.op-equality-b055e3ec56925b13.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFrame",
+      "title": "RuntimeFrame.op_Equality",
+      "contract": "4cdb3288003c6bd4ef14a8b520e44411be81d2ec56ce1848c069274a7c71ec1b"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeFrame.op_Inequality(InnoEngine.Runtime.RuntimeFrame,InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimeframe/runtimeframe.op-inequality-c3b098648f867633.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFrame",
+      "title": "RuntimeFrame.op_Inequality",
+      "contract": "7f2cda968fc92a46ae806fddb8e1c56d99bcfd715f607e2ed9b304b2bac78a51"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.#ctor",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.constructor-94bf92c028a4de5a.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.Constructor",
+      "contract": "044f5dcb8bf1842675f3e8d2abdb424aedd475a80a54486d54d8b03cd9a660fa"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.AfterRender(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.afterrender-d227034f21e5d474.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.AfterRender",
+      "contract": "6c96dd07f1e2b59a20730b1a61a8bfa542e04efbaad58fabd6d45e6cf2181ce0"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.Attach",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.attach-c7d4c99a7b444ea9.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.Attach",
+      "contract": "48ba069d657908670ba9e9e85e54cf92788e182ab513e91c231963dd3a32acd7"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.BeforeRender(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.beforerender-112c3c703819a999.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.BeforeRender",
+      "contract": "9f2c46bcca48cfaf00032533fa1e8b8d517ce1602f342a4103152f7c30b06aed"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.BeginFrame(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.beginframe-fc7d420db1aba1d9.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.BeginFrame",
+      "contract": "5d7e8f6fe3a6340b0348b7981e0a90bcfa0e29f9eb94129b5b88a88bf5823f70"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.Detach",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.detach-bd6e3ecba6c2ff38.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.Detach",
+      "contract": "329fa70ef6b94e55fa8ea65745ef44b1356a25b5177cb0d9e8b3b87ae615a02a"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.Dispose",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.dispose-1441befcf606741f.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.Dispose",
+      "contract": "34d77f19ec08dcd3082ad7af2bc2f5dcff5d05375c56920dbfa7751fff6a85ac"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.EndFrame(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.endframe-4cc4e2f634538c93.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.EndFrame",
+      "contract": "fe0b8594faffd49749b43a891df053628710b26f9c903cbb6be6b327207c2cdf"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.FixedUpdate(InnoEngine.Runtime.RuntimeFixedFrame)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.fixedupdate-adef920709642121.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.FixedUpdate",
+      "contract": "5d67f67a905f682842caa07892569c51ea0682ff8cfbeff4c948476d1de44dc7"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.LateUpdate(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.lateupdate-0c2ad2fa27963516.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.LateUpdate",
+      "contract": "73f40d6798f9356102d88dd21af7dae4c470eab90a2c9b42810a3c51886fa062"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.OnBeginFrame(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.onbeginframe-b6500ed237474510.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.OnBeginFrame",
+      "contract": "4fda4a398cb8b2161ef1e7d809c64dc3d851a97243a194cc1c783c8bcc0c9a95"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.OnCompleteOutput(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.oncompleteoutput-88d765ba72a07e64.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.OnCompleteOutput",
+      "contract": "eb6b416d817e83a22b78d69e5d13da951d79ac46cacb2519727a2f11363255f8"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.OnEndFrame(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.onendframe-9b16ee9132047c85.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.OnEndFrame",
+      "contract": "fccbb064aa790e520a54a6cb2f0853452a15dc8f2e80e548223c36236d0797c7"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.OnFixedUpdate(InnoEngine.Runtime.RuntimeFixedFrame)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.onfixedupdate-f26df0cfa16f03c0.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.OnFixedUpdate",
+      "contract": "3acc4b4806c6fda04d627a784f8db4079b21215d243b7212e627f2ce6837f3d3"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.OnLateUpdate(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.onlateupdate-5d16ba56ebbe4a83.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.OnLateUpdate",
+      "contract": "daf6a23e715e5706d1f98966920128198be61ffbe76854b2f22659e3a32c85de"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.OnPrepareOutput(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.onprepareoutput-17b18aa099efdbcb.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.OnPrepareOutput",
+      "contract": "03640a8f8beb0963e6761d78388b646bc525d365b9fc9b3945c4a7c19275c913"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.OnProduceOutput(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.onproduceoutput-fcc67dd743def3e2.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.OnProduceOutput",
+      "contract": "1eb32a52af7ef54771fa780f646faf6727de69c57139a3c730df1732e61d4e41"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.OnStart",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.onstart-2cbeded540b2d471.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.OnStart",
+      "contract": "18116ad0275bb0fd83cc8204f29347baf84bb2012e8fff369247ce22f5899b98"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.OnStop",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.onstop-56a7724fa2a8b2d8.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.OnStop",
+      "contract": "a26b3af82cfdfe6791345fea9d4b539d97c634ae9b5f0c5248c994704497a984"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.OnUpdate(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.onupdate-2906b1e13ecfe6d2.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.OnUpdate",
+      "contract": "c177d48fcf72e394e6fd2d2a730bf9f61957a6e77dc5a2737d9739fcd1e6f705"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.OwnFrameScope(System.IDisposable)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.ownframescope-e73ee9ffb00de658.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.OwnFrameScope",
+      "contract": "edb1a66191d1dd1629c5a42113a41e592e1ebec249d2e7bfca2445ea77b4c211"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.Render(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.render-7c741241d4f73756.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.Render",
+      "contract": "6994a49250a7b648f45e4e935cea79ceefb4e299d0538edf0da425be0f28f1b3"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystem.Update(InnoEngine.Runtime.RuntimeFrame)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.update-e2547d4a3431e076.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.Update",
+      "contract": "870fd03a80bcb59ff2f75ddbea0539cea7e20e53586cbfbc81b0f7f8bdf0498d"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystemContext.#ctor",
+      "path": "content/en/api/scripting/runtime/runtimesubsystemcontext/runtimesubsystemcontext.constructor-3bf2d3bf6bf4964e.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemContext",
+      "title": "RuntimeSubsystemContext.Constructor",
+      "contract": "7068cea173aead30137150864798a3058725ec84c4a13f4a7efd8fa8599daca8"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.RuntimeSubsystemExtensionAttribute.#ctor(System.String)",
+      "path": "content/en/api/scripting/runtime/runtimesubsystemextensionattribute/runtimesubsystemextensionattribute.constructor-e3c4bd1947857f44.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemExtensionAttribute",
+      "title": "RuntimeSubsystemExtensionAttribute.Constructor",
+      "contract": "093cc28d9c762aba9f8c35e902e95fdb0ed9aee24d646afd93b6e04caeb369ac"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeCapabilityID.isValid",
+      "path": "content/en/api/scripting/runtime/runtimecapabilityid/runtimecapabilityid.isvalid-f71236981c7842bf.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeCapabilityID",
+      "title": "RuntimeCapabilityID.isValid",
+      "contract": "71a81e2c3a04c5c725dbac35780fd3912a587d8685b3e59c9571aae65b5e710a"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeCapabilityID.value",
+      "path": "content/en/api/scripting/runtime/runtimecapabilityid/runtimecapabilityid.value-ddc800d1b8d84e04.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeCapabilityID",
+      "title": "RuntimeCapabilityID.value",
+      "contract": "62684a6a8d0e599883542c498c8ac9e4f37672bc81f9939676753befa15e5aa7"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeFixedFrame.deltaTime",
+      "path": "content/en/api/scripting/runtime/runtimefixedframe/runtimefixedframe.deltatime-03354319f2910b44.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFixedFrame",
+      "title": "RuntimeFixedFrame.deltaTime",
+      "contract": "0af6125073f5eb65b874bf4656d3a99ad2c23722b33af414bb2371cbc448c691"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeFixedFrame.stepIndex",
+      "path": "content/en/api/scripting/runtime/runtimefixedframe/runtimefixedframe.stepindex-bb664b02c9f8d397.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFixedFrame",
+      "title": "RuntimeFixedFrame.stepIndex",
+      "contract": "2b830b54e42ecc6165c70cd096861457b08736c8bebf88f072eda5fe91abc472"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeFixedFrame.time",
+      "path": "content/en/api/scripting/runtime/runtimefixedframe/runtimefixedframe.time-6fe1bf3e6e0ffb54.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFixedFrame",
+      "title": "RuntimeFixedFrame.time",
+      "contract": "0ba71d283e51b3572d31cb56993d92a6cb4914a2621a973182ddb6e44678f95b"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeFrame.deltaTime",
+      "path": "content/en/api/scripting/runtime/runtimeframe/runtimeframe.deltatime-a755228cc5937c1b.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFrame",
+      "title": "RuntimeFrame.deltaTime",
+      "contract": "83f0fe4d880429d3cdec2046d9b5153b52a74f93b707da0475f294a32c3ef165"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeFrame.frameIndex",
+      "path": "content/en/api/scripting/runtime/runtimeframe/runtimeframe.frameindex-39d87414f4dd09e9.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFrame",
+      "title": "RuntimeFrame.frameIndex",
+      "contract": "5a76f478f92ea23994ab401b625f37f382fd8100bddd1df0ae82dfb359c28dec"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeFrame.isPaused",
+      "path": "content/en/api/scripting/runtime/runtimeframe/runtimeframe.ispaused-932c2e682985d491.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFrame",
+      "title": "RuntimeFrame.isPaused",
+      "contract": "e3a54083c74ee83f9d6bef26590f5df4ba4881a2c884c0be17d0ab8826d231af"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeFrame.time",
+      "path": "content/en/api/scripting/runtime/runtimeframe/runtimeframe.time-cbd2ab9aa6642640.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFrame",
+      "title": "RuntimeFrame.time",
+      "contract": "bc0ba52edcbac2a7d89d2faa00da5e79f0d8ae23114034a37e89a3a415f09f86"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeFrame.timeScale",
+      "path": "content/en/api/scripting/runtime/runtimeframe/runtimeframe.timescale-0f7f1ff5829472f7.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFrame",
+      "title": "RuntimeFrame.timeScale",
+      "contract": "ad1cdd492bf4317d2ccbfcca58b4f860d06d90c06aca73b5503904bdb61bb94c"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeFrame.unscaledDeltaTime",
+      "path": "content/en/api/scripting/runtime/runtimeframe/runtimeframe.unscaleddeltatime-1ab37a9e14be4953.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFrame",
+      "title": "RuntimeFrame.unscaledDeltaTime",
+      "contract": "abfc2548396c0360b98c4533225e2deb18e329ab7fd21b6d5ca570237dd1d794"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeFrame.unscaledTime",
+      "path": "content/en/api/scripting/runtime/runtimeframe/runtimeframe.unscaledtime-15df0d20a6089cbc.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFrame",
+      "title": "RuntimeFrame.unscaledTime",
+      "contract": "98f33607e3acbd9d044da4c7ba4f2956b8945c148a3deac12750a4fdd0b5d057"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeSubsystem.isStarted",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/runtimesubsystem.isstarted-6ed8823cf1027645.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem.isStarted",
+      "contract": "a959bae7d9aa789dc45b14f896e4e236b8d12a5ef76a65eaa624e99b6b515f7f"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeSubsystemContext.capabilities",
+      "path": "content/en/api/scripting/runtime/runtimesubsystemcontext/runtimesubsystemcontext.capabilities-c78e6c086e2c1b5a.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemContext",
+      "title": "RuntimeSubsystemContext.capabilities",
+      "contract": "27e75b946ea066c6d8bde809af71dbc0854197525e6fad8565af64b47d0f713f"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeSubsystemContext.events",
+      "path": "content/en/api/scripting/runtime/runtimesubsystemcontext/runtimesubsystemcontext.events-d2fdd9c91b340568.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemContext",
+      "title": "RuntimeSubsystemContext.events",
+      "contract": "7ae4078828357c67f4049938ca54ab64966587bd10e3be2c2f2bee50bbbb1f4c"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeSubsystemContext.isEditMode",
+      "path": "content/en/api/scripting/runtime/runtimesubsystemcontext/runtimesubsystemcontext.iseditmode-6c21c295aa7cbb03.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemContext",
+      "title": "RuntimeSubsystemContext.isEditMode",
+      "contract": "b4c0688ce4f73572dd84802520d6e575eedd3ffa2733969a89dd8f65aa21b8e6"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeSubsystemContext.lifetime",
+      "path": "content/en/api/scripting/runtime/runtimesubsystemcontext/runtimesubsystemcontext.lifetime-338e92876420a4f4.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemContext",
+      "title": "RuntimeSubsystemContext.lifetime",
+      "contract": "ea02b6ab00a58cb3aafde8f7b43e85f8edab8bab228fffa57df61a88e2231eeb"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeSubsystemExtensionAttribute.dependencies",
+      "path": "content/en/api/scripting/runtime/runtimesubsystemextensionattribute/runtimesubsystemextensionattribute.dependencies-c55ca5ba40e272fa.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemExtensionAttribute",
+      "title": "RuntimeSubsystemExtensionAttribute.dependencies",
+      "contract": "5244e213949130a321b70d66148bc3bbb4992bab08d3489782a5ba58a9974845"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeSubsystemExtensionAttribute.id",
+      "path": "content/en/api/scripting/runtime/runtimesubsystemextensionattribute/runtimesubsystemextensionattribute.id-0c344163db5b4a33.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemExtensionAttribute",
+      "title": "RuntimeSubsystemExtensionAttribute.id",
+      "contract": "85604a99c5412bc6e9bfe83f9c803dcd16649a9ec3cb98fb83b2015efd48559a"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeSubsystemExtensionAttribute.lifetime",
+      "path": "content/en/api/scripting/runtime/runtimesubsystemextensionattribute/runtimesubsystemextensionattribute.lifetime-0d34cd76bf6f9bfd.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemExtensionAttribute",
+      "title": "RuntimeSubsystemExtensionAttribute.lifetime",
+      "contract": "f2673a2d5e9ea6d1fe6f9528cb53fad309187747ec19f3ac1c3de9a803b38038"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeSubsystemExtensionAttribute.requiredCapabilities",
+      "path": "content/en/api/scripting/runtime/runtimesubsystemextensionattribute/runtimesubsystemextensionattribute.requiredcapabilities-450b516782c4c94c.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemExtensionAttribute",
+      "title": "RuntimeSubsystemExtensionAttribute.requiredCapabilities",
+      "contract": "c0217cbe8b6783017613226c760e4d8b13e6e2dc35ae9d9b200ddef9d2553c3b"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:P:InnoEngine.Runtime.RuntimeSubsystemExtensionAttribute.requiresRestart",
+      "path": "content/en/api/scripting/runtime/runtimesubsystemextensionattribute/runtimesubsystemextensionattribute.requiresrestart-5ee24deec5517cbd.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemExtensionAttribute",
+      "title": "RuntimeSubsystemExtensionAttribute.requiresRestart",
+      "contract": "2b1675f4d098e18e463796712369b3616cf42abb659cde997562a18dde9ac2b3"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.IRuntimeSubsystem",
+      "path": "content/en/api/scripting/runtime/iruntimesubsystem/index.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.IRuntimeSubsystem",
+      "title": "IRuntimeSubsystem",
+      "contract": "35d32a7dc52349135d52d4e7769c64cd0bac6cc51a2bc5c7bcf662247253ba0b"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.IRuntimeSubsystemActivator",
+      "path": "content/en/api/scripting/runtime/iruntimesubsystemactivator/index.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.IRuntimeSubsystemActivator",
+      "title": "IRuntimeSubsystemActivator",
+      "contract": "708c54e60141fb33867bac5031db6fcfba40f74d94584269a7f7b71bca4311a7"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeCapabilityID",
+      "path": "content/en/api/scripting/runtime/runtimecapabilityid/index.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeCapabilityID",
+      "title": "RuntimeCapabilityID",
+      "contract": "ca8c5fa50c350aeb6eda08812f893b9d5aab1e43dd6e147da218253646c4ef9f"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFixedFrame",
+      "path": "content/en/api/scripting/runtime/runtimefixedframe/index.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFixedFrame",
+      "title": "RuntimeFixedFrame",
+      "contract": "34881e63d68fa64a23d027ab9df6cf5a4e15ebbbf03024e9e7a0412bd0a86846"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFrame",
+      "path": "content/en/api/scripting/runtime/runtimeframe/index.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeFrame",
+      "title": "RuntimeFrame",
+      "contract": "b469801d24a15436c761d2fc849c02d33191ad530caefcdc1adc6383f9aa7db6"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "path": "content/en/api/scripting/runtime/runtimesubsystem/index.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystem",
+      "title": "RuntimeSubsystem",
+      "contract": "1ab1fabac1da1f1839e13a24c7388bd143dbd42a5b42e3f66662d26d4dafb9de"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemContext",
+      "path": "content/en/api/scripting/runtime/runtimesubsystemcontext/index.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemContext",
+      "title": "RuntimeSubsystemContext",
+      "contract": "e440b2980ee7cb7dbdf0fb38a9ed89205878b60c6d74e97724a37a7f7eb1b8a7"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemExtensionAttribute",
+      "path": "content/en/api/scripting/runtime/runtimesubsystemextensionattribute/index.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemExtensionAttribute",
+      "title": "RuntimeSubsystemExtensionAttribute",
+      "contract": "0fe4ff5b48d853fbb89249a0af8b09ddd59d270edbdaedb7d6bfbfc10992f2f2"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemLifetime",
+      "path": "content/en/api/scripting/runtime/runtimesubsystemlifetime/index.md",
+      "type": "scripting:Inno.Runtime.Contracts:T:InnoEngine.Runtime.RuntimeSubsystemLifetime",
+      "title": "RuntimeSubsystemLifetime",
+      "contract": "da3690220a250f2c4659f1b16e21864b78b93147e533b0fa4430523c46b334a6"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime:M:InnoEngine.Core.SessionCoroutines.Start(System.Object,System.Collections.IEnumerator)",
+      "path": "content/en/api/scripting/runtime/sessioncoroutines/sessioncoroutines.start-9b0ca1bdab5ab079.md",
+      "type": "scripting:Inno.Runtime:T:InnoEngine.Core.SessionCoroutines",
+      "title": "SessionCoroutines.Start",
+      "contract": "da1fae0dd304e56b2947ab8ab2a184d987225a4de940aaca47adb24e4c6a6234"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime:M:InnoEngine.Core.SessionCoroutines.Stop(InnoEngine.Coroutines.CoroutineHandle)",
+      "path": "content/en/api/scripting/runtime/sessioncoroutines/sessioncoroutines.stop-dece0d89d8042d09.md",
+      "type": "scripting:Inno.Runtime:T:InnoEngine.Core.SessionCoroutines",
+      "title": "SessionCoroutines.Stop",
+      "contract": "423485b01bff11b3ffdcaec0382d8a9ba12d96846714daad3901b926fe350359"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime:M:InnoEngine.Core.SessionCoroutines.StopAll(System.Object)",
+      "path": "content/en/api/scripting/runtime/sessioncoroutines/sessioncoroutines.stopall-fb20179bcc233834.md",
+      "type": "scripting:Inno.Runtime:T:InnoEngine.Core.SessionCoroutines",
+      "title": "SessionCoroutines.StopAll",
+      "contract": "bf4c1471388ececa44c248321441d80be53fab46be8ba1f808a9591248551a0f"
+    },
+    {
       "symbol": "scripting:Inno.Runtime:P:InnoEngine.Core.Time.deltaTime",
       "path": "content/en/api/scripting/runtime/time/time.deltatime-5ddc5897f5a3e684.md",
       "type": "scripting:Inno.Runtime:T:InnoEngine.Core.Time",
@@ -121947,6 +123900,13 @@
       "type": "scripting:Inno.Runtime:T:InnoEngine.Core.Time",
       "title": "Time.unscaledTime",
       "contract": "8172512fc7cc7c2309f71fa42f41bec7bbf293a6fc5dc64e84b97a3670826055"
+    },
+    {
+      "symbol": "scripting:Inno.Runtime:T:InnoEngine.Core.SessionCoroutines",
+      "path": "content/en/api/scripting/runtime/sessioncoroutines/index.md",
+      "type": "scripting:Inno.Runtime:T:InnoEngine.Core.SessionCoroutines",
+      "title": "SessionCoroutines",
+      "contract": "a8742d6db3287eec1f29e77241af9667b97e740663542f1154dd87b2f0842aff"
     },
     {
       "symbol": "scripting:Inno.Runtime:T:InnoEngine.Core.Time",
@@ -126137,6 +128097,7 @@
     "content/en/api/scripting/authoring/index.md",
     "content/en/api/scripting/editor/_projects/assets/index.md",
     "content/en/api/scripting/editor/_projects/assets/pipeline/index.md",
+    "content/en/api/scripting/editor/_projects/audio/index.md",
     "content/en/api/scripting/editor/_projects/core/index.md",
     "content/en/api/scripting/editor/_projects/core/serialization/index.md",
     "content/en/api/scripting/editor/_projects/editor/assets/imgui/index.md",
@@ -126166,6 +128127,7 @@
     "content/en/api/scripting/runtime/_projects/animation/index.md",
     "content/en/api/scripting/runtime/_projects/assets/index.md",
     "content/en/api/scripting/runtime/_projects/audio/index.md",
+    "content/en/api/scripting/runtime/_projects/core/coroutines/index.md",
     "content/en/api/scripting/runtime/_projects/core/diagnostics/index.md",
     "content/en/api/scripting/runtime/_projects/core/events/index.md",
     "content/en/api/scripting/runtime/_projects/core/graphs/index.md",
@@ -126183,6 +128145,7 @@
     "content/en/api/scripting/runtime/_projects/rendering/assets/index.md",
     "content/en/api/scripting/runtime/_projects/rendering/index.md",
     "content/en/api/scripting/runtime/_projects/rendering/runtime/index.md",
+    "content/en/api/scripting/runtime/_projects/runtime/contracts/index.md",
     "content/en/api/scripting/runtime/_projects/runtime/index.md",
     "content/en/api/scripting/runtime/_projects/scene/index.md",
     "content/en/api/scripting/runtime/_projects/storage/index.md",

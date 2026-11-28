@@ -14,11 +14,14 @@ Find types in this project category. Each type links to its exact declarations a
 | Type | Purpose |
 | --- | --- |
 | [Audio](../../audio/index.md) | Provides script-friendly access to the audio service in the current execution context. |
+| [AudioBlockProcessor](../../audioblockprocessor/index.md) | Processes interleaved floating-point samples for one mixer bus on the audio control thread. |
+| [AudioBlockProcessorAttribute](../../audioblockprocessorattribute/index.md) | Associates an external sample processor with its stable mixer protocol ID. |
 | [AudioBusDefinition](../../audiobusdefinition/index.md) | Describes one bus and its ordered processor chain in a compiled mixer graph. |
 | [AudioBusHandle](../../audiobushandle/index.md) | Identifies one backend mixer bus within a device generation. |
 | [AudioBusID](../../audiobusid/index.md) | Identifies a mixer bus without imposing a closed bus catalog. |
 | [AudioCapabilities](../../audiocapabilities/index.md) | Describes backend-neutral features and limits for one device generation. |
 | [AudioClipAsset](../../audioclipasset/index.md) | Represents one imported audio source and its compact runtime metadata. |
+| [AudioClipDescriptor](../../audioclipdescriptor/index.md) | Describes one immutable encoded audio artifact presented to a backend device. |
 | [AudioClipHandle](../../audiocliphandle/index.md) | Identifies one backend clip allocation within a device generation. |
 | [AudioClipLoadMode](../../audiocliploadmode/index.md) | Selects how encoded clip data is prepared for playback. |
 | [AudioClipMetadata](../../audioclipmetadata/index.md) | Describes imported encoded audio independently from its runtime storage path. |
@@ -50,6 +53,9 @@ Find types in this project category. Each type links to its exact declarations a
 | [AudioProjectSettings](../../audioprojectsettings/index.md) | Stores portable project-wide defaults for audio playback and caching. |
 | [AudioSpatialOptions](../../audiospatialoptions/index.md) | Contains listener-relative positioning and attenuation parameters for one voice. |
 | [AudioStatistics](../../audiostatistics/index.md) | Reports an immutable snapshot of runtime and backend resource usage. |
+| [AudioStreamDecoder](../../audiostreamdecoder/index.md) | Opens independent playback cursors for an encoded audio format. |
+| [AudioStreamDecoderAttribute](../../audiostreamdecoderattribute/index.md) | Associates an stream decoder with its stable codec protocol ID. |
+| [AudioStreamReader](../../audiostreamreader/index.md) | Decodes one playback cursor outside the hardware callback. Its owner serializes reads, seeks and disposal. |
 | [AudioVoiceCompletedEvent](../../audiovoicecompletedevent/index.md) | Reports one voice terminal transition on the owning runtime&#39;s main-thread event dispatcher. |
 | [AudioVoiceHandle](../../audiovoicehandle/index.md) | Identifies one playback voice within a device generation. |
 | [AudioVoiceParameters](../../audiovoiceparameters/index.md) | Contains mutable voice parameters that can be changed after playback begins. |

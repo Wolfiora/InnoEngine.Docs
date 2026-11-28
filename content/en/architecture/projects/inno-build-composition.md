@@ -6,7 +6,7 @@ title: Inno.Build.Composition
 kind: project
 owners:
 - Inno.Build.Composition
-sourceFingerprint: 3b767d838debdb3e70b14f437db4b14f8fac090fc290c7032ab3d167049850b0
+sourceFingerprint: f6e8ab024fc67721a6e5da349eb37887a221268bc702d44db40d0793b6f11411
 contracts: []
 outdatedFor: e5c39487aa33bbf227581a30202ad79fadfdc748c02a4d95453fa8ff5f06ac74
 

@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Core.Coroutines
 apiSurface: source-clr
-sourceFingerprint: a7c3da63cd27d3cc65cf8cc8fcc3ce20cc25df91c239864e56f355868983aa20
+sourceFingerprint: 06000a50c20d6e6d0b8bdccedb37dac38b21156b8e009ede597cc2e1b74e42d3
 contracts:
 - project.inno-core-coroutines#execution-and-release-contract
 
@@ -17,7 +17,3 @@ description: null
 outdated: false
 aliases: []
 ---
-
-## Remarks
-
-Waiter creation is internal to this assembly. External callers use the supplied instruction types or compose supported yields in an enumerator; this is not an externally implementable extension point.

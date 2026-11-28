@@ -6,8 +6,9 @@ title: Inno.Extensibility.Types
 kind: project
 owners:
 - Inno.Extensibility.Types
-sourceFingerprint: e51866346204ddbb3b572bca247823dce79c2f63f957479a07765dea3b0be79d
+sourceFingerprint: 4b0ef563d1b9a23031247108353920daff350ed3f202845e646357fe2d3cfe43
 contracts: []
+outdatedFor: 382245084edf9eedd711380e4a8ab0f6a22da3e5ecd71644f950c8b1f2d267e2
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: FLwolfy

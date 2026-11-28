@@ -1,13 +1,14 @@
 ---
 # Generated metadata. Maintained by API synchronization tooling.
-uid: api.ece2397c3d27372b4a399272668be2f647579f80d4c19138d27273ecd73f251b
-symbol: engine:Inno.Runtime.Contracts:M:Inno.Runtime.Contracts.IRuntimeSubsystemFactory.Create(Inno.Runtime.Contracts.RuntimeSubsystemContext)
-title: IRuntimeSubsystemFactory.Create
+uid: api.90638cee2b2d7a5a49777cde9556270c44ca62aa85521a94ae3cff67e96b8277
+symbol: scripting:Inno.Runtime.Contracts:M:InnoEngine.Runtime.IRuntimeSubsystemActivator.Create(InnoEngine.Runtime.RuntimeSubsystemContext)
+title: IRuntimeSubsystemActivator.Create
 kind: api
 owners:
 - Inno.Runtime.Contracts
-apiSurface: source-clr
-sourceFingerprint: 0746df615b0188b9bf55a0074843029471bab33bad81f563a28e5c1243c10870
+apiSurface: editor-script
+sourceFingerprint: 0600a8078ae48aeafeb31b313dfe42130cfeb1ed8d7572a4f30cde5ac108316b
+apiScope: Runtime
 contracts: []
 
 # Authoring metadata. Edit these fields and the explanation below.

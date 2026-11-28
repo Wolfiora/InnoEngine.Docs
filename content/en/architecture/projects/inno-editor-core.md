@@ -6,10 +6,11 @@ title: Inno.Editor.Core
 kind: project
 owners:
 - Inno.Editor.Core
-sourceFingerprint: 2681c2e7509150b48265ed96e90b2ffbee43d830df2dc1183adc66dc13bf75be
+sourceFingerprint: ed3db6dc0e382ec640020b879643a52853c5a910f9142d826eb9538e1aaacea6
 contracts:
 - architecture.editor-generations
 - architecture.ownership
+outdatedFor: dde7b1fa6ae42666bc465194eed14f656cbaa1ade150aad6396cf24b2c93267a
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: FLwolfy

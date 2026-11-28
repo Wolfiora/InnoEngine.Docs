@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Assets.Pipeline
 apiSurface: source-clr
-sourceFingerprint: aad5a48e331a308202321d1935d77ef8bbde90ee8e8c8a0b4d1ea61bf4b86849
+sourceFingerprint: 55db0604d38c1f065946e93ef2586a645ecaeed1787c285b9d5d4cb0adf047f4
 contracts:
 - project.inno-assets-pipeline
 
@@ -17,3 +17,7 @@ description: null
 outdated: false
 aliases: []
 ---
+
+## Remarks
+
+The authoring catalog resolves this ID in the active type generation. Imported artifacts must use a representation that the consuming runtime can open.

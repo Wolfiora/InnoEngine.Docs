@@ -21,6 +21,8 @@ Find types in this project category. Each type links to its exact declarations a
 | Type | Purpose |
 | --- | --- |
 | [Audio](audio/index.md) | Provides script-friendly access to the audio service in the current execution context. |
+| [AudioBlockProcessor](audioblockprocessor/index.md) | Processes interleaved floating-point samples for one mixer bus on the audio control thread. |
+| [AudioBlockProcessorAttribute](audioblockprocessorattribute/index.md) | Associates an external sample processor with its stable mixer protocol ID. |
 | [AudioBusDefinition](audiobusdefinition/index.md) | Describes one bus and its ordered processor chain in a compiled mixer graph. |
 | [AudioBusHandle](audiobushandle/index.md) | Identifies one backend mixer bus within a device generation. |
 | [AudioBusID](audiobusid/index.md) | Identifies a mixer bus without imposing a closed bus catalog. |
@@ -66,12 +68,17 @@ Find types in this project category. Each type links to its exact declarations a
 | [AudioProjectSettings](audioprojectsettings/index.md) | Stores portable project-wide defaults for audio playback and caching. |
 | [AudioSpatialOptions](audiospatialoptions/index.md) | Contains listener-relative positioning and attenuation parameters for one voice. |
 | [AudioStatistics](audiostatistics/index.md) | Reports an immutable snapshot of runtime and backend resource usage. |
+| [AudioStreamDecoder](audiostreamdecoder/index.md) | Opens independent playback cursors for an encoded audio format. |
+| [AudioStreamDecoderAttribute](audiostreamdecoderattribute/index.md) | Associates an stream decoder with its stable codec protocol ID. |
+| [AudioStreamReader](audiostreamreader/index.md) | Decodes one playback cursor outside the hardware callback. Its owner serializes reads, seeks and disposal. |
 | [AudioVoiceAllocator](audiovoiceallocator/index.md) | Allocates service-owned playback handles without impersonating a backend audio device. |
 | [AudioVoiceCompletedEvent](audiovoicecompletedevent/index.md) | Reports one voice terminal transition on the owning runtime&#39;s main-thread event dispatcher. |
 | [AudioVoiceHandle](audiovoicehandle/index.md) | Identifies one playback voice within a device generation. |
 | [AudioVoiceParameters](audiovoiceparameters/index.md) | Contains mutable voice parameters that can be changed after playback begins. |
+| [IAudioBlockProcessorDevice](iaudioblockprocessordevice/index.md) | Admits external sample processing on devices that provide buffered mixer output. |
 | [IAudioClipSource](iaudioclipsource/index.md) | Supplies immutable encoded audio independently of any backend&#39;s input layout. |
 | [IAudioDevice](iaudiodevice/index.md) | Owns one replaceable audio backend generation and all device-side audio objects. |
 | [IAudioService](iaudioservice/index.md) | Provides backend-neutral audio playback, caching, mixer, and device-state services. |
+| [IAudioStreamClipDevice](iaudiostreamclipdevice/index.md) | Accepts independent decoder cursors for incremental playback. |
 | [SerializedAudioExtensionState](serializedaudioextensionstate/index.md) | Stores reload-safe configuration for one mixer or feature extension generation. |
 

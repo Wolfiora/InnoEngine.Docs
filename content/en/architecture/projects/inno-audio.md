@@ -6,9 +6,10 @@ title: Inno.Audio
 kind: project
 owners:
 - Inno.Audio
-sourceFingerprint: 3f763e7c9061b8ecfc5c16dd89079c34d913bf10f8e075850cfa57ae1e27f776
+sourceFingerprint: 774c469ec4bda96956d15f0730271938af1d2d8f664a6ec1196715d6e2a4b8a6
 contracts:
 - architecture.audio-lifetime#ownership-and-generation-contract
+outdatedFor: e21c9e6937412d30e8d21bd3eac4f54292f9a88b66dd2374a0d724a047c5b587
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: FLwolfy

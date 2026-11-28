@@ -7,7 +7,7 @@ kind: api
 owners:
 - Inno.Build.Composition
 apiSurface: source-clr
-sourceFingerprint: e2760e324c1040af65d355af7a3f89fb79a2c634b0ae20c2e9c761fc2eb16cbb
+sourceFingerprint: 944661e966c6f25998910f0ea79a8a4bb2ed8ae611919c51ab9f790495b726cc
 contracts:
 - project.inno-build-composition
 
@@ -21,3 +21,7 @@ aliases: []
 ## Returns
 
 A non-null packaging implementation retained by the pipeline without a separate lifetime.
+
+## Remarks
+
+The build distribution explicitly registers target factories and the required toolchains. Installing a runtime module does not select a new publication target.

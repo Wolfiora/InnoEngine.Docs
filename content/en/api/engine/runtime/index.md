@@ -38,6 +38,7 @@ Find types in this project category. Each type links to its exact declarations a
 | [RuntimeSessionKind](runtimesessionkind/index.md) | Identifies the ownership and lifecycle semantics of an isolated runtime session. |
 | [RuntimeSessionOptions](runtimesessionoptions/index.md) | Defines storage, scheduling, and timing policy for one runtime session. |
 | [RuntimeSubsystemPipeline](runtimesubsystempipeline/index.md) | Owns the dependency-ordered runtime subsystem generation for one Host or Session scope. |
+| [SessionCoroutines](sessioncoroutines/index.md) | Runs owner-bound routines in the current session and script generation. |
 | [StaticAssemblyCatalogSource](staticassemblycatalogsource/index.md) | Supplies an explicit linked host closure without runtime assembly probing or dynamic loading. |
 | [StaticModuleSource](staticmodulesource/index.md) | Contributes statically linked module code to the same catalog transactions used by authoring hosts. |
 | [StaticTypeCatalogSource](statictypecatalogsource/index.md) | Resolves type metadata and factories from linked registrations without runtime type discovery. |

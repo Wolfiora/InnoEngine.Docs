@@ -6,8 +6,9 @@ title: Inno.Core.Coroutines
 kind: project
 owners:
 - Inno.Core.Coroutines
-sourceFingerprint: 4726348c44d9768d8e664743961373e073a92f4f93f788b93cb2af134e607ad0
+sourceFingerprint: c24caab4cbfe8b18fba9dec82f3691e118e7e636a4fc1509141574a69d4db38e
 contracts: []
+outdatedFor: e9b8f7d1cc68aa347118e66efce664d5491c336b518b3bd1aeafda440f280df9
 
 # Authoring metadata. Edit these fields and the explanation below.
 source: FLwolfy
