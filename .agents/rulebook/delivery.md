@@ -3,7 +3,9 @@ tags: [delivery]
 ---
 # Delivery requirements
 
-Use English `type(scope): description` titles and English PR bodies. Describe final behavior, source identities, actual evidence, and unexecuted checks. A human vouches for every commit: its Git author and committer are the human contributor responsible for it. No agent, bot or application identity may appear as author, committer, `Co-authored-by` or any other attribution. The protected API synchronization is the only automated committer.
+Every commit subject and pull request title must use the English format `type(scope): description`, including titles of `draft` to `main` release PRs. The scope is required and names the affected area. Follow the colon with one space and a description of the actual change. Examples include `docs(plugins): explain session coroutine ownership` and `ci(examples): compile examples with the pinned engine CLI`. Check each outgoing commit subject before pushing and the PR title before submitting.
+
+Write PR bodies in English. Describe final behavior, source identities, actual evidence, and unexecuted checks. A human vouches for every commit: its Git author and committer are the human contributor responsible for it. No agent, bot or application identity may appear as author, committer, `Co-authored-by` or any other attribution. The protected API synchronization is the only automated committer.
 
 Engine master exports complete API facts independently of unrelated functional matrices. Protected automation imports them into this repository's persistent draft branch. API prose ownership is per type/member; independent Manual content is not part of synchronization. No paired PR metadata, latest-engine-head match or full-engine source certificate is a website publication prerequisite.
 
