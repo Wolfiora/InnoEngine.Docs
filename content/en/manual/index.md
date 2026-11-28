@@ -60,7 +60,8 @@ For source importing, settings, samples and retained runtime content, start with
 - [Preserve and resolve a Missing reference](references/resolve-missing.md) without discarding saved intent.
 - [Read current content for one operation](references/read-content.md) through captured generation identities.
 - [Own asynchronous work](execution/own-async-work.md) before it starts, propagate cancellation and retire its dependencies.
-- [Run and stop coroutines](execution/run-coroutines.md) from the host's frame loop.
+- [Run a coroutine in the current game session](execution/session-coroutines.md) to resume dialogue or other game work across frames.
+- [Drive a separately owned coroutine scheduler](execution/run-coroutines.md) from a host loop.
 - [Schedule frame jobs](execution/schedule-frame-jobs.md) with explicit dependencies and finite queue limits.
 - [Route and consume events](events/route-events.md) with ordered hubs and explicit subscription ownership.
 - [Report and resolve current issues](diagnostics/report-current-issues.md) through an owner-bound diagnostic producer.
